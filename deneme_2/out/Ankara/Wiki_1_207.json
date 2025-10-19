@@ -1,0 +1,566 @@
+{
+    "Title": "Köppen iklim sınıflandırması",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Köppen iklim sınıflandırması#1",
+            "sentence": "Köppen iklim sınıflandırması , tüm dünyada en sık kullanılan ___E:iklim sınıflandırma U:(https://tr.wikipedia.org/w/index.php?title=%C4%B0klim_s%C4%B1n%C4%B1fland%C4%B1rmas%C4%B1&action=edit&redlink=1)___ yöntemlerinden biridir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#2",
+            "sentence": "Bu yöntem 1900'lü yıllarda Alman ___E:klimatolog U:(https://tr.wikipedia.org/wiki/Klimatoloji)___ ___E:Wladimir Köppen U:(https://tr.wikipedia.org/wiki/Wladimir_K%C3%B6ppen)___ tarafından ortaya atılmış ve 1918 ile 1936 yılları arasında yine Köppen tarafından büyük ölçüde geliştirilmiştir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#3",
+            "sentence": "Köppen'in sınıflandırma yönetimine göre bir çevrenin doğal bitki örtüsü, o yörenin iklimini açıklamak için en iyi değerlendirme aracıdır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#4",
+            "sentence": "Bu nedenle Köppen iklim bölgelerini ayırırken bitki örtüsünün dağılışını göz önüne almıştır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#5",
+            "sentence": "Köppen sınıflandırması bir bölgenin yıllık ve aylık sıcaklık ortalaması ile yağış miktarını hesaplayarak iklim bölgelerinin sınırlarını çizer."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#6",
+            "sentence": "Köppen iklim sınıflandırması, en yaygın kullanılan iklim sınıflandırma sistemlerinden birisidir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#7",
+            "sentence": "İlk olarak Alman - Rus bilimci Wladimir Köppen (1846 - 1940) 1884'te  Köppen tarafından, özellikle 1918 - 1936'da yapılan birkaç değişiklikle yayınlandı."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#8",
+            "sentence": "Daha sonra, iklim bilimci Rudolf Geiger sınıflandırma sisteminde bazı değişiklikler yaptı ve bu nedenle bazen Köppen - Geiger iklim sınıflandırma sistemi olarak adlandırıldı."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#9",
+            "sentence": "Köppen iklim sınıflandırması, iklimleri beş ana gruba ayırmıştır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#10",
+            "sentence": "Bu gruplar; A (tropikal), B (kuru), C (ılıman), D (kıtasal) ve E (kutupsal) olmak üzere beş farklı gruplar oluşturmuştur."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#11",
+            "sentence": "Her grup ve alt gruplar bir harfle temsil edilmektedir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#12",
+            "sentence": "E grubundakiler dışında tüm iklimlere bir mevsimsel yağış, alt gruba ise bir harf atanır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#13",
+            "sentence": "Örneğin, Af, tropikal yağmur ormanı yağmur iklimini gösterir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#14",
+            "sentence": "Sistem, A grubundakiler dışındaki tüm gruplar için, B, C ve D'deki iklimler için üçüncü harfle ve E'deki iklimler için ikinci harfle gösterilen bir sıcaklık alt grubu atar. Örneğin, Cfb, okyanus iklimini belirtir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#15",
+            "sentence": "İklimler her iklim tipine özgü belirli kriterlere göre sınıflandırılır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#16",
+            "sentence": "Köppen bir botanikçi bilim insanı olduğu için, deneyimine dayanarak sistemi tasarladığında ana iklim grupları, belirli bir iklim sınıflandırma bölgesinde ne tür bir bitki örtüsü olduğunu saptayabilmektedir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#17",
+            "sentence": "İklimleri tanımaya ek olarak, sistem, ekosistem koşullarını analiz etmek ve iklimlerdeki ana bitki örtüsü türlerini belirlemek için kullanılabilir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#18",
+            "sentence": "Belirli bir bölgenin bitki yaşamıyla bağlantısı nedeniyle, sistem o bölgedeki bitki yaşamında gelecekteki neler olabiliceğini tahmin ve metot üretmede fayda sağlamaktadır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#19",
+            "sentence": "Köppen iklim sınıflandırma sistemi, 1960'ların ortasında iken düzenlenmeye başlayıp 1980'lerde revize edilmiştir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#20",
+            "sentence": "Trewartha iklim sınıflandırma sistemi Köppen sisteminin eleştirilerinden biri olan rafine ortam yaratmaya çalışmaktadır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#21",
+            "sentence": "Bu durumda orta enlem iklim grubu yaratmaya başlatmıştır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#22",
+            "sentence": "C grubu ise daha çok gelişmiştir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#23",
+            "sentence": "Köppen iklim sınıflandırma şeması, iklimleri beş ana gruba ayırmıştır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#24",
+            "sentence": "Bunlar ise, A (tropikal), B (kuru), C (ılıman), D (kıtasal) ve E (kutupsal) olmak üzere beş ana gruba ayrılmıştır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#25",
+            "sentence": "Fakat ikinci harf mevsimsel yağış türünü, üçüncü harf ise ısı seviyesini gösterir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#26",
+            "sentence": "Yaz aylarında Nisan - Eylül veyahut Ekim - Mart'tan daha sıcak geçen 6 aylık dönem olarak tanımlarken, kış aylarında daha soğuk olan 6 aylık dönemin olduğu bahsedilmektedir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#27",
+            "sentence": "Tropikal iklim bölgesi: Bu tür bir iklim yılın her ayı 18 °C (64.4 °F) veya daha yüksek sıcaklıkta önemli yağışlarla birlikte vardır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#28",
+            "sentence": "Kurak iklim bölgesi: Bu tür bir iklim, az yağış olarak da tanımlanabilir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#29",
+            "sentence": "Milimetre cinsinden eşik, Santigrat cinsinden ortalama yıllık sıcaklığın 20 ile çarpılması ve ardından eklenmesi ile belirlenmektedir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#30",
+            "sentence": "Sıcaklığı belirtmek için üçüncü bir harf eklenebilir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#31",
+            "sentence": "Başlangıçta h düşük bir enlem iklimi (18 °C'nin 64, 4 °F) üzerindeki ortalama yıllık sıcaklık, orta enlem iklimini ortalama yıllık sıcaklık 18 °C'nin altında ifade ederken Birleşik Devletlerde ise en soğuk ayın ortalama sıcaklığının 0 °C' nin altında olduğunu gösterir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#32",
+            "sentence": "Veya (-3 °C 27 °F)."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#33",
+            "sentence": "Ayrıca n, sık ve sis yüksek rakımlarda H ile karakterize bir iklimi belirtmek için kullanılır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#34",
+            "sentence": "Astropikal iklim bölgesi: Bu iklim türü diğer iklim türlerine nazaran en soğuk aya sahip ve bu durum en az bir ay sürmektedir. 0 °C (32 °F)  (veya -3 °C (27 °F))  ile 18 °C (64.4 °F) bu derecelerde görülmektedir.10 °C'nin (50 °F) üzerinde ortalama."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#35",
+            "sentence": "Yağışın hem kuru bir yaz (CS) hem de kurak bir kışı (CW) karşılayan yerlerde dağılımı için, bir yerin yaz aylarında kış aylarına göre daha fazla yağış düştüğü yağışlı bir yaz (CW) olduğu kabul edilir. kış aylarında daha fazla yağış düştüğü yerde yaz mevsiminin kurak geçtiği kabul edilmektedir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#36",
+            "sentence": "Bu ek kriter, hem DS hem de DW'yi karşılayan konumlar için de geçerlidir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#37",
+            "sentence": "Bu tür bir iklimin ortalama 0 °C (32 °F) (veya -3 °C (27 °F)) altında en az bir ay ve 10 °C (50 °F) üzerinde ortalama en az bir ay vardır.   :"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#38",
+            "sentence": "Bu tür bir iklim yılın her ayı ortalama sıcaklığı 10 °C'nin (50 °F) altındadır.   :"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#39",
+            "sentence": "Tropik iklimler sabit yüksek sıcaklıklarla (deniz seviyesinde ve düşük rakımlarda) karekterize edilir; yılın tüm 12 ayında ortalama 18 °C (64,4 °F) veya daha yüksek sıcaklıklara sahiptir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#40",
+            "sentence": "Aşağıdaki gibi alt gruplara ayrılmıştır;"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#41",
+            "sentence": "Af: Tropikal Yağmur Ormanı İklimi: Yılın her günü en az 60 mm (2,4 inç.) ortalama yağışa sahiptir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#42",
+            "sentence": "Bu iklimler genellikle ekvatorun 10 ° enleminde meydana gelir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#43",
+            "sentence": "Bu iklimin termal ve nem değişimleri açısından doğal mevsimleri bulunmamaktadır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#44",
+            "sentence": "Düşük basınç sistemi (ITCZ) daha sonra hava, ekvator olarak nitelendirilir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#45",
+            "sentence": "Ekvator bölge civarında bir siklon olduğunda, iklim tropikal ticaret - rüzgar yağmur ormanı iklimi şeklindedir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#46",
+            "sentence": "Bu tür bir iklim, mevsimlere göre yön değiştiren muson rüzgarlarından kaynaklanmaktadır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#47",
+            "sentence": "Bu iklim 60 mm' den (2,4 inç) az yağışla (neredeyse her zaman ekvatorun o tarafındaki'' kış'' gündönümünde veya hemen sonrasında meydana gelir.) en kurak aylar bu mevsimde geçer; ancak en azından 100 - (Total Annual Precipitation (mm) / 25).aylık yağış ortalama miktarının formülüdür."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#48",
+            "sentence": "Aw iklim tipine sahip olan ülkelerin en kurak ayda bile 60 mm' den (2,4 inç) az ve formül olarak da 100 - (Total Annual Precipitation (mm)/25) aylık yağış ortalama miktarının formülüdür."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#49",
+            "sentence": "Bu iklime sahip çoğu yer, tropik bölgenin dış sınırlarında, düşük gençlerden 20'li yılların ortalarına kadar bulunur; ancak bazen iç-tropikal bir yer (örneğin, San Marcos, Antioquia, Kolombiya) da buna uygundur."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#50",
+            "sentence": "Aslında Karayip dan doğuya sahil, Urabá Körfezi üzerinde Kolombiya - Panama sınır Orinoco Nehri üzerinde delta, Atlantik Okyanusu (4.000 hakkında km), sahip uzun kurak dönemler (aşırı olduğunu BSH iklim...Örneğin Guajira'nın geniş alanlarında bulunan çok düşük, güvenilmez yağış ile karakterizeve Coro, batı Venezuela, Güney Amerika'nın en kuzeydeki yarımadaları ve neredeyse tamamı iki veya üç ayda 300 mm toplam yıllık yağış alan)."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#51",
+            "sentence": "Bu durum Karayip çevresi kuru kuşağını oluşturan Küçük Antiller ve Büyük Antiller'e kadar uzanır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#52",
+            "sentence": "Kuru mevsimin uzunluğu ve şiddeti iç kesimlerde (güneye doğru) azalır; Doğuya, ekvator çizgisinin hemen güneyinde akan Amazon Nehri'nin enleminde iklim Af'dir ."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#53",
+            "sentence": "And Dağları'nın doğusunda, kuru, kurak Karayipler ile sürekli ıslak Amazonlar arasında, bu iklimin adını aldığı yerden Orinoco Nehri'nin Llanoları veya savanları vardır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#54",
+            "sentence": "As: Kuru Yaz Özelliklerine Sahip Tropikal Savan İklimi: Bu hawaii' nin bazı bölgelerinde, kuzeybatı Dominiik Cumhuriyeti'nde, Doğu Afrika'da ve Brezilya' nın sahil Kuzeydoğu sahilinde geçerlidir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#55",
+            "sentence": "Tropikal nemli ve kuru iklime sahip çoğu yerde bu tür iklim türüne rastlanılmaktadır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#56",
+            "sentence": "Ancak, yılın yüksek güneş bölümünde yağmur gölgesi etkileri nedeniyle daha düşük güneş dönemi veya günleri daha kısa günlerde meydana gelmektedir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#57",
+            "sentence": "Bu iklimler potansiyel evapotranspirasyona yaklaşan bir eşik değerin altındaki yıllık yağış miktarı ile karekterize edilir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#58",
+            "sentence": "Eşik değeri (mm cinsinden) aşağıdaki şekilde hesaplanmaktadır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#59",
+            "sentence": "Yıllık ortalama sıcaklığı °C cinsinden 20 ile çarpıp ardından ekliyoruz."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#60",
+            "sentence": "A -): Toplam yağışın %70'i veya daha fazlası yılın yüksek güneş yarısında ise 280 (Kuzey Yarımküre' de Nisan'dan Eylül'e veya Güney Yarımküre'de Ekim'den Mart' a kadardır.)"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#61",
+            "sentence": "B -): Veyahut uygulanabilir dönemde toplam yağışın %30-%70'i alınırsa 140 veya 0 toplam yağışın %30'undan azı bu şekilde alınıp sonuç bulunur."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#62",
+            "sentence": "Modern iklimbilimciler tarafından kullanılan değiştirilmiş Köppen sistemine göre, yılın yüksek güneşli günlerinde toplam yağış yerine yılın en sıcak altı ayındaki toplam yağış referans alınır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#63",
+            "sentence": "Yıllık yağış bu eşiğin %50'sinden azsa sınıflandırma BW' dir. (Kurak:çöl iklimi); %50-%100 aralığı içindeyse, sınıflandırma BS'dir. (Yarı Kurak: step iklimi)."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#64",
+            "sentence": "Sıcaklığı belirtmek için üçüncü bir harf eklenebilir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#65",
+            "sentence": "Başlangıçta, h düşük enlem iklimi (18 °C' nin üzerindeki ortalama yıllık sıcaklık), k orta enlem iklimi (ortalama yıllık sıcaklık 18 °C' nin altında) anlamına gelirken, günümüzde özellikle Amerika Birleşik Devletleri'nde daha yaygın olan uygulama h, en soğuk ayın ortalama sıcaklığının 0 °C'nin (32 °F) veya (-3 °C'nin 27 °F) üzerinde olduğu anlamına gelir. k, en az bir aylık ortalamanın 0 °C'nin altında olduğunu gösterir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#66",
+            "sentence": "Çöl alanları ile karekterize edilen tropik veya tropikal yerlerde kıtaların batı kıyılarında yer alan sık sis oluşan gerçek yağış bakımından yeryüzünde en kurak olan bu yerler sıralaması etiketli olmasına rağmen ve düşük bulutlar BWN n belirtilen a ile sık sis karekterize edilen bir iklimdir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#67",
+            "sentence": "BSN kategorisinde sisli kıyı tipleri bulundurmaktadır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#68",
+            "sentence": "Çöl iklim türü olarak da bilinmektedir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#69",
+            "sentence": "Ortalama sıcaklık 18 °C'nin eşit veya büyükse h sıcak sıcak step/çöl iklim 18 °C düşük ise soğuk step/çöl iklim değerlendirilmesi yapılmaktadır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#70",
+            "sentence": "Köppen iklim sisteminde, ılıman iklimler, 0 °C (32 °F) üzerinde bir ortalama sıcaklığa sahip olarak tanımlanır. (veya -3 °C (26,6 °F), daha önce belirtildiği gibi) en soğuk aylarında ancak 18 °C (64,4 °F) altında. -3 °C (26,6 °F) ortalama sıcaklık kabaca bir ay veya daha uzun süren donmuş zemin ve kar örtüsünün ekvatora doğru sınırı ile çakışır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#71",
+            "sentence": "İkinci harf yağış modelini gösterir - w , kuru kışları gösterir (en kurak kış ayındaki ortalama yağış, en yağışlı yaz ayının ortalama yağışının onda birinden azdır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#72",
+            "sentence": "S , kışın en yağışlı ayındaki en kurak ayın en az üç katı yağmuru gösterir. yaz. f , tüm mevsimlerde önemli yağış anlamına gelir (yukarıda bahsedilen koşulların hiçbiri karşılanmamıştır)."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#73",
+            "sentence": "Üçüncü harf yaz sıcağının derecesini gösterir - a 22 °C (71,6 °F) üzerindeki en sıcak ay ortalama sıcaklığı gösterir. b ise ortalama 22'nin altında olan en sıcak ayı gösterir. °C ancak en az dört ay ortalama 10 °C (50,0 °F) ve c , ortalama olarak 10 °C (50,0 °F) üzerinde bir ila üç ayı gösterir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#74",
+            "sentence": "CSA: Akdeniz sıcak yaz iklimleri Bu iklimler genellikle kıtaların batı taraflarında 30 ° ve 45 ° enlemleri arasında oluşur."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#75",
+            "sentence": "Bu iklimler kışın kutup cephesinde bulunur ve bu nedenle ılımlı sıcaklıklara ve değişken, yağışlı havaya sahiptir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#76",
+            "sentence": "Yakın kıyı bölgeleri dışında, subtropikal yüksek basınç sistemlerinin hakimiyeti nedeniyle yazlar sıcak ve kuraktır; yakınlarda ___E:sis U:(https://tr.wikipedia.org/wiki/Sis)___ getirebilen ancak yağmuru engelleyen soğuk okyanus akıntılarının varlığı nedeniyle yazların daha ılıman geçtiği yerlerdir.  :221-3"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#77",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#78",
+            "sentence": "Kuru-yaz iklimleri bazen tipik Akdeniz iklimlerinin ek bölgelerine (bazen çok kuzeye veya güneyine) uzanır; ancak en sıcak aylar ortalama sıcaklıkları 22 °C (71,6 °F) ulaşmaz."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#79",
+            "sentence": "Csb olarak sınıflandırılırlar."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#80",
+            "sentence": "Bu alanlardan bazıları, kuru yaz modellerinin Köppen'in Cs minimum eşiklerini karşılaması dışında, ___E:okyanus iklimini U:(https://tr.wikipedia.org/wiki/Okyanusal_iklim)___ ( Cfb ) sınırlayacaktır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#81",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#82",
+            "sentence": "Deniz batı kıyı iklimi"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#83",
+            "sentence": "Cfb iklimleri genellikle kıtaların batı taraflarında 40 ° ve 60 ° enlemleri arasındaki yüksek orta enlemlerde meydana gelir; Avustralya ve aşırı güney Afrika'da bu iklim ılıman iklimlerin hemen kutbunda ve biraz daha düşük bir enlemde bulunmasına rağmen, tipik olarak Akdeniz iklimlerinin hemen kutbunda yer alırlar."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#84",
+            "sentence": "Batı Avrupa'da, bu iklim Norveç'te 63 ° K'ye kadar kıyı bölgelerinde görülür."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#85",
+            "sentence": "Bu iklimlere tüm yıl boyunca kutup cephesi hakimdir ve bu da değişken ve genellikle bulutlu havalara yol açar. Soğuk okyanus akıntıları nedeniyle yazlar ılımandır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#86",
+            "sentence": "Kışlar, benzer enlemlerdeki diğer iklimlere göre daha ılıman; ancak genellikle çok bulutlu ve sıklıkla yağışlı geçer."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#87",
+            "sentence": "Cfb iklimlerine, belirli subtropikal ve tropikal bölgelerde yüksek rakımlarda da rastlanır; burada iklim, rakım olmasa da subtropikal/tropikal yağmur ormanı olacaktır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#88",
+            "sentence": "Bu iklimlere \"yaylalar\" denir.  :226-9"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#89",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#90",
+            "sentence": "Düzgün yağışlı ( Cfb ) subtropikal yayla iklimleri, ___E:New South Wales U:(https://tr.wikipedia.org/wiki/Yeni_G%C3%BCney_Galler)___ eyaletinin kuzeyindeki ___E:Great Dividing Range U:(https://tr.wikipedia.org/w/index.php?title=B%C3%BCy%C3%BCk_B%C3%B6lme_Aral%C4%B1%C4%9F%C4%B1&action=edit&redlink=1)___ gibi ___E:Avustralya'nın U:(https://tr.wikipedia.org/wiki/Avustralya)___ dağlık bölgelerinde ve diğer kıtalarda seyrek olarak bulunan bir okyanus iklimi türüdür. ___E:Güney Amerika'da U:(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)___ olduğu gibi, diğerleri arasında."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#91",
+            "sentence": "Tipik bir Cwb ikliminin aksine, yağışların yıl boyunca eşit olarak yayılma eğilimindedirler."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#92",
+            "sentence": "Hem Cfb hem de Cfa iklimlerinin özelliklerine sahiptirler ; ancak bu iklimlerin aksine, iç konumları ve nispeten yüksek ___E:rakımları U:(https://tr.wikipedia.org/wiki/Rak%C4%B1m)___ nedeniyle yüksek bir ___E:günlük sıcaklık değişimine U:(https://tr.wikipedia.org/wiki/G%C3%BCnl%C3%BCk_s%C4%B1cakl%C4%B1k_fark%C4%B1)___ ve düşük neme sahiptirler."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#93",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#94",
+            "sentence": "Kutup altı okyanus iklimi ( Cfc ), deniz ılıman iklimlerinin kutuplarına doğru veya daha yüksek rakımlarda meydana gelir ve çoğunlukla ya kıtaların batı kutup kenarlarındaki dar kıyı şeritleriyle ya da özellikle Kuzey Yarımküre'de bu tür kıyılardaki adalarla sınırlıdır.."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#95",
+            "sentence": "Her iki yarım kürede de, çoğunlukla 60 ° kuzey ve güneyden 70 ° kuzey ve güneye enlemlerde görülürler."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#96",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#97",
+            "sentence": "Cwa muson etkilerinden etkilenir ve tropikal muson iklimleriyle ilişkili klasik kuru kış - ıslak yaz modeline sahiptir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#98",
+            "sentence": "Kuru-kış subtropikal yayla iklimi ( Cwb ), çoğunlukla ___E:Orta Amerika U:(https://tr.wikipedia.org/wiki/Orta_Amerika)___ , ___E:Güney Amerika U:(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)___ , ___E:Afrika U:(https://tr.wikipedia.org/wiki/Afrika)___ ve ___E:Asya'nın U:(https://tr.wikipedia.org/wiki/Asya)___ tropik bölgelerindeki yaylalarda veya subtropik bölgelerde bulunan bir iklim türüdür."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#99",
+            "sentence": "Kışlar belirgin ve kurak, yazlar ise çok yağmurlu olabilir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#100",
+            "sentence": "Tropik bölgelerde muson, tropikal hava kütleleri ve kuru kışlar tarafından subtropikal yüksek basınçla kışkırtır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#101",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#102",
+            "sentence": "Kuru-kış subpolar okyanus iklimleri ( Cwc ), Cwb iklimlerine bitişik yüksek rakımlı alanlarda bulunur."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#103",
+            "sentence": "Bu iklim nadirdir ve çoğunlukla Bolivya, Peru ve Arjantin'deki And Dağları'nda ve Güneydoğu Asya'daki seyrek dağlık bölgelerde izole edilmiş yerlerde bulunur."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#104",
+            "sentence": "Bu iklimler, en sıcak aylarında 10 °C'nin (50 °F) üzerinde bir ortalama sıcaklığa ve daha önce belirtildiği gibi 0 °C'nin (veya −3 °C (27 °F)) altında en soğuk ayın ortalamasına sahiptir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#105",
+            "sentence": "Bunlar genellikle kıtaların iç kısımlarında ve normalde 40 ° K kuzeyde, üst doğu kıyılarında meydana gelir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#106",
+            "sentence": "Güney Yarımküre'de, D grubu iklimler, orta enlemlerdeki daha küçük kara kütleleri ve 40-60 ° G'deki arazinin neredeyse tamamen yokluğu nedeniyle son derece nadirdir, sadece bazı dağlık bölgelerde mevcuttur."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#107",
+            "sentence": "Dfa iklimleri genellikle en sıcak ayda 22 °C/72 °F'den daha yüksek bir ortalama sıcaklık ile 30'ların yüksek ve 40'lı yılların enlemlerinde meydana gelir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#108",
+            "sentence": "Avrupa'da bu iklimler Kuzey Amerika'dakinden çok daha kuru olma eğilimindedir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#109",
+            "sentence": "Dsa, sıcak yaz Akdeniz (Csa) iklimi olan bölgelere komşu yüksek rakımlarda bulunur. : 231-2 Bu iklimler sadece kuzey yarımkürede mevcuttur; çünkü güney yarımkürede sıcak yazlar ve karlı kışların birleşimine sahip yerler yoktur; çünkü güney yarımkürede üst-orta enlemlerde denizin ılımlı etkilerinden izole edilmiş büyük kara kütleleri yoktur."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#110",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#111",
+            "sentence": "Doğu Asya'da, Sibirya yüksek basınç sisteminin etkisiyle Dwa iklimleri daha da güneye uzanır ve bu da kışların kuru olmasına ve muson sirkülasyonu nedeniyle yazların çok yağışlı geçmesine neden olur."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#112",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#113",
+            "sentence": "Dsa, sadece sıcak yaz Akdeniz (Csa) iklimlerine sahip bölgelere bitişik yüksek rakımlarda bulunur."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#114",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#115",
+            "sentence": "Dfb iklimleri, genellikle Kuzey Amerika ve Asya'daki yüksek 40'lı ve 50'li yılların enlemlerinde, sıcak yaz kıtası iklimlerinin hemen kutbudur ve ayrıca orta ve doğu Avrupa ve Rusya'da, deniz ılıman ve kıtasal yarı arktik iklimler arasında daha yüksek enlemlere uzanır. yer yer 65 derece enlemlere kadar uzanır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#116",
+            "sentence": "DFB Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#117",
+            "sentence": "DWB Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#118",
+            "sentence": "Dsb, Dsa ile aynı senaryodan; ancak daha yüksek rakımlarda veya enlemlerde ve özellikle Kuzey Amerika'da ortaya çıkar; çünkü Akdeniz iklimi Avrasya'dakinden daha fazla kutba doğru uzanır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#119",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#120",
+            "sentence": "Dfc, Dsc ve Dwc iklimleri, diğer D grubu iklimlerinin kutuplarına doğru veya daha yüksek rakımlarda, genellikle 55 ° ila 65 ° Kuzey enlemleri arasında meydana gelir ve bazen 70 ° N enlemine kadar ulaşır. : 232-5"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#121",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#122",
+            "sentence": "Bu iklime sahip yerler, en soğuk aylarındaki sıcaklık −38 °C'den daha düşük olan şiddetli kışlara sahiptir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#123",
+            "sentence": "Bu iklimler yalnızca doğu Sibirya'da ve Alaska ve Yukon'da çok uzak bölgelerde meydana gelir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#124",
+            "sentence": "Bu iklime sahip bazı yerlerin adları, aşırı, şiddetli kış soğuğunun gerçek eşanlamlıları haline geldi."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#125",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#126",
+            "sentence": "Köppen iklim sisteminde, kutupsal iklimler herhangi bir ayın en sıcak sıcaklığının 10 °C'nin (50 °F) altında olması olarak tanımlanır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#127",
+            "sentence": "Kutupsal iklimler ayrıca tundra iklimleri ve buzlanma iklimleri olmak üzere iki türe ayrılır:"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#128",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#129",
+            "sentence": "Buz örtüsü iklimi (EF): Bu iklim Antarktika'da ve Grönland'ın iç kesimlerinde hakimdir; ancak aynı zamanda dağlarda, hatta tundranın üzerinde, aşırı yüksek rakımlarda meydana gelir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#130",
+            "sentence": "Aylık ortalama sıcaklıklar asla 0 °C'yi (32 °F) geçmez."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#131",
+            "sentence": "Örnekler"
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#132",
+            "sentence": "Köppen iklim sınıflandırması, iklim ve bitki örtüsü arasındaki ampirik ilişkiye dayanmaktadır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#133",
+            "sentence": "Bu sınıflandırma, sıcaklık ve yağış ile tanımlanan iklim koşullarını ve bunların mevsimselliklerini tek bir metrikle tanımlamanın etkili bir yolunu sağlar."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#134",
+            "sentence": "Köppen sınıflandırmasıyla tanımlanan iklim koşulları ekolojik olarak ilgili olduğundan, uzun vadeli iklimin ve ilişkili ekosistem koşullarının coğrafi dağılımını haritalamak için yaygın olarak kullanılmıştır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#135",
+            "sentence": "Son yıllarda, iklimdeki değişiklikleri ve zaman içinde bitki örtüsündeki olası değişiklikleri belirlemek için sınıflandırmanın kullanılmasına artan bir ilgi olmuştur."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#136",
+            "sentence": "Köppen iklim sınıflandırmasının en önemli ekolojik önemi, iklim verilerine dayalı olarak baskın bitki türünü tahmin etmeye yardımcı olmasıdır ve bunun tersi de geçerlidir."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#137",
+            "sentence": "2015 yılında, Nature'da iklim sınıflandırmalarını analiz eden bir Nanjing Üniversitesi makalesi, 1950 ile 2010 yılları arasında dünya çapındaki tüm arazi alanlarının yaklaşık %5,7'sinin daha ıslak ve daha soğuk sınıflandırmalardan daha kuru ve daha sıcak sınıflandırmalara geçtiğini buldu."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#138",
+            "sentence": "Yazarlar ayrıca değişimin \"doğal varyasyonlar olarak açıklanamayacağını; ancak antropojenik faktörlerle yönlendirildiğini\" buldular."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#139",
+            "sentence": "Tüm haritalar ılıman iklimler için ≥0 °C tanımını ve sıcak ve soğuk kuru iklimleri ayırt etmek için 18 °C yıllık ortalama sıcaklık eşiğini kullanır."
+        },
+        {
+            "id": "Köppen iklim sınıflandırması#140",
+            "sentence": "___E:IPCC Veri Dağıtım Merkezi U:(https://web.archive.org/web/20160418082322/http://www.ipcc-data.org/maps/)___"
+        }
+    ]
+}

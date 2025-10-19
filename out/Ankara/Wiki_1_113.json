@@ -1,0 +1,518 @@
+{
+    "Title": "Bisiklet",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Bisiklet#1",
+            "sentence": "Bisiklet (Fr. 'Bicyclette' İki dairecikli) ya da popüler olmayan eski adıyla velespit  (Fr. 'Vélocipède' Tez Ayak), ___E:motorsuz U:(https://tr.wikipedia.org/wiki/Motor)___ veya ___E:elektrik motorlu U:(https://tr.wikipedia.org/wiki/Elektrik_motoru)___ , iki veya üç ___E:tekerlekli U:(https://tr.wikipedia.org/wiki/Tekerlek)___ , ___E:pedallı U:(https://tr.wikipedia.org/wiki/Pedal)___ , (bazen elektrik motor destekli) ___E:insan gücü U:(https://tr.wikipedia.org/w/index.php?title=%C4%B0nsan_g%C3%BCc%C3%BC&action=edit&redlink=1)___ ile ilerleyen bir ___E:ulaşım U:(https://tr.wikipedia.org/wiki/Ula%C5%9F%C4%B1m)___ aracıdır. 19. yüzyıl sonlarında bisiklet anlamında Arapça derrâce sözcüğünün kullanıldığı da belirtilmektedir."
+        },
+        {
+            "id": "Bisiklet#2",
+            "sentence": "Halk dilinde bisiklet anlamında demirat, teker, yelatı gibi sözcüklerin kullanıldığı tespit edilmiştir."
+        },
+        {
+            "id": "Bisiklet#3",
+            "sentence": "Bisikletin eş anlamlısı olarak ise çiftteker  ve çalınga    sözcükleri bulunmaktadır."
+        },
+        {
+            "id": "Bisiklet#4",
+            "sentence": "Ulaşım ve eğlencenin yanı sıra ___E:bisiklet sporunda U:(https://tr.wikipedia.org/wiki/Bisiklet_sporu)___ da kullanılır."
+        },
+        {
+            "id": "Bisiklet#5",
+            "sentence": "BMX, Dağ bisikleti, şehir (hibrit) bisikleti, tandem (çift kişilik bisiklet), tur bisikleti, yol bisikleti gibi türleri vardır."
+        },
+        {
+            "id": "Bisiklet#6",
+            "sentence": "Vitesli ve vitessiz türleri bulunmaktadır."
+        },
+        {
+            "id": "Bisiklet#7",
+            "sentence": "Bisikletin icadı konusunda tarihçiler arasında tam bir fikir birliği yoktur ve ileri sürülen tarihler tartışmalıdır."
+        },
+        {
+            "id": "Bisiklet#8",
+            "sentence": "Bisiklet, tek bir mucit tarafından icat edilmemiş, tarih içerisindeki pek çok farklı çabanın bir sonucu olarak ortaya çıkmıştır.  ___E:Leonardo da Vinci U:(https://tr.wikipedia.org/wiki/Leonardo_da_Vinci)___ 'ye ait olduğu ileri sürülen 1492 tarihli bir bisiklet karalamasının 1960'larda Codex Atlanticus' a eklenmiş sahte bir çizim olduğu anlaşılmıştır.  1790'larda icat edilen vélocifère veya célérifère isimli hızlı at arabası aracı, bisikletin atalarından biri olarak kabul edilmez."
+        },
+        {
+            "id": "Bisiklet#9",
+            "sentence": "Binicisi tarafından itme gücü sağlanan iki tekerlekli ve kanıtları tartışmalı olmayan ilk taşıt, ___E:Alman U:(https://tr.wikipedia.org/wiki/Almanlar)___ ___E:Baron Karl von Drais de Sauerbrun U:(https://tr.wikipedia.org/w/index.php?title=Baron_Karl_von_Drais_de_Sauerbrun&action=edit&redlink=1)___ tarafından icat edilmiştir."
+        },
+        {
+            "id": "Bisiklet#10",
+            "sentence": "Drais, 1817 yılında aracı 14 km boyunca kullandı ve 1818 yılında ___E:Paris U:(https://tr.wikipedia.org/wiki/Paris)___ 'te sergiledi."
+        },
+        {
+            "id": "Bisiklet#11",
+            "sentence": "Von Drais, aracını Laufmaschine (koşu makinesi) olarak adlandırdı, çünkü tahtadan yapılmış aracın sabit bir gidonu vardı, fakat hareketi sağlamak için pedalları yoktu."
+        },
+        {
+            "id": "Bisiklet#12",
+            "sentence": "Binici, ayakları ile yerden güç alıyor, bir denge tahtası binicinin kollarını destekliyordu."
+        },
+        {
+            "id": "Bisiklet#13",
+            "sentence": "Zamanla bu isim yerine draisienne ve velosipede isimleri daha popüler hâle geldi."
+        },
+        {
+            "id": "Bisiklet#14",
+            "sentence": "Draisienne günümüzde birçok dilde tren rayları üzerinde ray boyu kas gücüyle hareket eden aletler için kullanılır."
+        },
+        {
+            "id": "Bisiklet#15",
+            "sentence": "Von Drais aracının patentini aldı, ancak kısa sürede kopyaları ___E:Avusturya U:(https://tr.wikipedia.org/wiki/Avusturya)___ , ___E:Birleşik Krallık U:(https://tr.wikipedia.org/wiki/Birle%C5%9Fik_Krall%C4%B1k)___ , ___E:İtalya U:(https://tr.wikipedia.org/wiki/%C4%B0talya)___ ve ___E:Amerika Birleşik Devletleri U:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)___ gibi pek çok ülkede türedi."
+        },
+        {
+            "id": "Bisiklet#16",
+            "sentence": "___E:Londralı U:(https://tr.wikipedia.org/wiki/Londra)___ ___E:Denis Johnson U:(https://tr.wikipedia.org/wiki/Denis_Johnson)___ , von Drais'in koşu makinesinden bir adet satın aldı ve İngiltere'de patentini alarak geliştirdi. 300 adet üretip \"yaya at arabası\" adıyla piyasaya sürdüğü araç, \"hobi atı\" adıyla ünlendi."
+        },
+        {
+            "id": "Bisiklet#17",
+            "sentence": "Karikatüristler, bu aracı \"züppe atı\"  olarak tanımlıyor ve yoldan geçenler, binicilerle alay ediyorlardı."
+        },
+        {
+            "id": "Bisiklet#18",
+            "sentence": "Hobi atının sadece düzgün yollarda rahatça kullanılabilmesi, emniyet endişelerini gündeme getirdi ve araç, altı ay içerisinde gözden düştü."
+        },
+        {
+            "id": "Bisiklet#19",
+            "sentence": "Drais ve Johnson'ın çabaları, iki tekerlekli bisikletin hareket hâlinde iken dengede kalabileceğini ispatlasa da sonraki 40 yıl boyunca çalışmalar üç ve dört tekerlekli bisikletler üzerinde yoğunlaştı."
+        },
+        {
+            "id": "Bisiklet#20",
+            "sentence": "İlk büyük oranda seri bisiklet üretimi \"Michaux Company\" tarafından yapılmıştır."
+        },
+        {
+            "id": "Bisiklet#21",
+            "sentence": "Şirket, yılda yüzkırk bisiklet üretiyordu."
+        },
+        {
+            "id": "Bisiklet#22",
+            "sentence": "Bisikletin ilgi görmesi, dönemin devletlerinin de dikkatini çekmiştir. 1800'lerin ikinci yarısında Fransa Savunma Bakanlığı bisiklet üretimini destek vermiş ve 1871'de imal edilen bisikletler, ___E:Almanya U:(https://tr.wikipedia.org/wiki/Almanya)___ ile o zaman yapılan savaşta kullanılmıştır."
+        },
+        {
+            "id": "Bisiklet#23",
+            "sentence": "Trufaut, içi boş ___E:kauçuk lastiğini U:(https://tr.wikipedia.org/wiki/Kau%C3%A7uk)___ bulmuş, bunu ___E:İskoçya U:(https://tr.wikipedia.org/wiki/%C4%B0sko%C3%A7ya)___ 'da eşit çapta ___E:tekerlekleri U:(https://tr.wikipedia.org/wiki/Tekerlek)___ olan komple kadrolu, bilyalı ve millî bisikletlerin yapılması takip etmiş, ardından da ortadan katlanan portatif bisikletler piyasaya çıkmıştır."
+        },
+        {
+            "id": "Bisiklet#24",
+            "sentence": "___E:İrlanda U:(https://tr.wikipedia.org/wiki/%C4%B0rlanda)___ 'da 1888 yılında havalı ___E:plastik U:(https://tr.wikipedia.org/wiki/Plastik)___ bisikletler piyasaya sürülmüştür."
+        },
+        {
+            "id": "Bisiklet#25",
+            "sentence": "Bu durum bisiklet endüstrisini geliştirmiştir."
+        },
+        {
+            "id": "Bisiklet#26",
+            "sentence": "Bisiklet üretiminde kullanılan malzemenin fiyatının yüksekliği, işçilik maliyetlerinin yüksekliği nedeniyle halka inememiştir. 1800'lerin sonundan fabrikaların artması ve seri üretimin hızlanmasıyla maliyetlerde yaşanan düşüş, bisikletin geniş kitlelere ulaşmasını sağladı."
+        },
+        {
+            "id": "Bisiklet#27",
+            "sentence": "Özellikle ___E:Belçika U:(https://tr.wikipedia.org/wiki/Bel%C3%A7ika)___ , ___E:Fransa U:(https://tr.wikipedia.org/wiki/Fransa)___ , ___E:İngiltere U:(https://tr.wikipedia.org/wiki/%C4%B0ngiltere)___ , ___E:İtalya U:(https://tr.wikipedia.org/wiki/%C4%B0talya)___ ve ___E:İspanya U:(https://tr.wikipedia.org/wiki/%C4%B0spanya)___ 'daki bisiklet ___E:fabrikaları U:(https://tr.wikipedia.org/wiki/Fabrika)___ , bisikletin bu ülkelerde yaygınlaşmasına ve bisiklet sporunun gelişmesine önayak olmuştur."
+        },
+        {
+            "id": "Bisiklet#28",
+            "sentence": "___E:II. Dünya Savaşı U:(https://tr.wikipedia.org/wiki/II._D%C3%BCnya_Sava%C5%9F%C4%B1)___ 'nda ___E:Avrupa U:(https://tr.wikipedia.org/wiki/Avrupa)___ ülkeleri, bisikleti ordu süratinin artırılması için askerî amaçla kullanmışlardır."
+        },
+        {
+            "id": "Bisiklet#29",
+            "sentence": "Bisiklet o kadar günlük hayat içindedir ki sayısal dünya alfabesi ___E:Unicode U:(https://tr.wikipedia.org/wiki/Unicode)___ 'da 0x1F6B2 ___E:Kod noktası U:(https://tr.wikipedia.org/wiki/Kod_noktas%C4%B1)___ bisiklet ikonu için ayrılmıştır."
+        },
+        {
+            "id": "Bisiklet#30",
+            "sentence": "Bunun ___E:HTML U:(https://tr.wikipedia.org/wiki/HTML)___ entity kodu olarak karşılığı olan &#x1F6B2; web sayfasında şu \"harfi\" gösterir: 🚲 ."
+        },
+        {
+            "id": "Bisiklet#31",
+            "sentence": "Bisiklet tipleri birkaç farklı şekilde sınıflandırılabilirler."
+        },
+        {
+            "id": "Bisiklet#32",
+            "sentence": "Bunlardan birisi tekerlek çaplarına göre yapılan sınıflandırmadır."
+        },
+        {
+            "id": "Bisiklet#33",
+            "sentence": "Üç tekerlek çapı şu anda çok yaygın olarak kullanılmaktadır."
+        },
+        {
+            "id": "Bisiklet#34",
+            "sentence": "Bunlar 28 inç (710 mm), 26 inç (660 mm), 20 inç (510 mm)."
+        },
+        {
+            "id": "Bisiklet#35",
+            "sentence": "Bunların dışında 27 inç (690 mm) çapındaki tekerlekler, uzun yıllar boyunca yol bisikletlerinde kullanılmıştır. 584 milimetre (23,0 in) çaplı 650B olarak tanımlanan tekerlekler de son zamanlarda bazı üreticiler tarafından kullanılmaya başlanmıştır. 29 inç (740 mm) çaplı tekerlekler dağ bisikletinde yaygınlığı gitgide artmıştır. 2012 yılında olimpiyatlarda birçok dağ bisikleti yarışçısı 29 inç (740 mm) tekerlekleğe sahip bisiklet kullanmışlardır."
+        },
+        {
+            "id": "Bisiklet#36",
+            "sentence": "Teker çapı sınıflandırmasına göre 28 inç (710 mm) tekerlek çapına sahip bisikletler ___E:yol bisikleti U:(https://tr.wikipedia.org/wiki/Yol_bisikleti)___ , 26 inç (660 mm) tekerlek çapına sahip bisikletler ___E:dağ bisikleti U:(https://tr.wikipedia.org/wiki/Da%C4%9F_bisikleti)___ olarak kabaca tanımlanır. 20 inç (510 mm) tekerleklere sahip bisikletler ___E:BMX U:(https://tr.wikipedia.org/wiki/BMX)___ bisikletleri 19 inç (480 mm) hacı bisikleti olabildikleri gibi, farklı üç tekerlekli, hatta dört tekerlekli bisikletlerde ve yatay bisikletlerde sıklıkla kullanılırlar."
+        },
+        {
+            "id": "Bisiklet#37",
+            "sentence": "Bisikletler kullanım amaçlarına göre de sınıflandırılabilirler."
+        },
+        {
+            "id": "Bisiklet#38",
+            "sentence": "Teker çapı ne olursa olsun, ince tekerlekli ve daha nahif yapılı, asfaltta kullanıma yönelik yapılmış bisikletlere yol bisikleti denir."
+        },
+        {
+            "id": "Bisiklet#39",
+            "sentence": "Gene tekerlek çapı 622 milimetre (24,5 in) ya da 559 milimetre (22,0 in) olmasına bakılmaksızın (genellikle 559 mm olur), sağlam gövdeli ve dayanıklı parçalardan yapılmış, daha kalın lastiklerin kullanılmasına izin veren bisikletler araziye uygundurlar ve bunlara dağ bisikleti denir."
+        },
+        {
+            "id": "Bisiklet#40",
+            "sentence": "Dağ bisikletlerinin ön süspansiyonlu, ön ve arka süspansiyonlu, süspansiyonsuz tipleri olabilir."
+        },
+        {
+            "id": "Bisiklet#41",
+            "sentence": "Süspansiyon miktarına ve olup-olmamasına göre bisiklet kullanım alanları değişebilir."
+        },
+        {
+            "id": "Bisiklet#42",
+            "sentence": "Teker çapı 622 milimetre (24,5 in) ya da 559 milimetre (22,0 in) ve son zamanlarda da 622 milimetre (24,5 in) ya da 584 milimetre (23,0 in) olarak üretilen bazı bisikletler, uzun yollarda kullanılmak üzere üretilirler."
+        },
+        {
+            "id": "Bisiklet#43",
+            "sentence": "Bu bisikletlerin ön ve arka kısımlarında çanta taşımaya imkânları vardır."
+        },
+        {
+            "id": "Bisiklet#44",
+            "sentence": "Çamurluklar, rahat ___E:sele U:(https://tr.wikipedia.org/wiki/Sele)___ ve ___E:gidonlar U:(https://tr.wikipedia.org/w/index.php?title=Gidon&action=edit&redlink=1)___ kullanırlar."
+        },
+        {
+            "id": "Bisiklet#45",
+            "sentence": "Tek amacı uzun mesafelere binicisini ve binicinin eşyalarını taşımak olan bu bisikletlere tur bisikleti denir."
+        },
+        {
+            "id": "Bisiklet#46",
+            "sentence": "Teker çapı ___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___ 'de 28 inç (710 mm), ___E:Fransa U:(https://tr.wikipedia.org/wiki/Fransa)___ , ___E:İtalya U:(https://tr.wikipedia.org/wiki/%C4%B0talya)___ , ___E:İskandinav ülkeleri U:(https://tr.wikipedia.org/wiki/%C4%B0skandinavya)___ gibi bölgelerde ise 650B olan bazı bisikletler vardır ki bunlara şehir bisikletleri denir."
+        },
+        {
+            "id": "Bisiklet#47",
+            "sentence": "Bu bisikletlerin çoğu zaman ön ve arkalarında sepetleri, dinamolu ışıklandırma sistemleri vardır."
+        },
+        {
+            "id": "Bisiklet#48",
+            "sentence": "Avrupa'nın pek çok yerinde genç-yaşlı insanlar şehir içindeki işlerini görmek, bir yerden bir yere gitmek, yük taşımak için bu bisikletleri kullanırlar."
+        },
+        {
+            "id": "Bisiklet#49",
+            "sentence": "Asıl amacı ___E:akrobasi U:(https://tr.wikipedia.org/wiki/Akrobasi)___ ve bazı özel yarışlar olan, sağlam yapılı ve 20 inç (510 mm) tekerlekli bisikletlere BMX bisikletleri denir."
+        },
+        {
+            "id": "Bisiklet#50",
+            "sentence": "Bu bisikletler 1980'li yıllardan itibaren ortaya çıkmış ve bütün dünyada popülerlik kazanmışlardır."
+        },
+        {
+            "id": "Bisiklet#51",
+            "sentence": "İki sürücünün aynı anda binmesine müsaade eden bisikletlere tandem denir."
+        },
+        {
+            "id": "Bisiklet#52",
+            "sentence": "Tandemler, uzun turlardan kısa arazi yarışlarına kadar pek çok farklı alanda kullanılabilirler."
+        },
+        {
+            "id": "Bisiklet#53",
+            "sentence": "Sürücüsünün arkasına yaslanmasına hatta bazı durumlarda yatar pozisyonda durmasına müsaade eden bisikletlere yatay bisiklet denir."
+        },
+        {
+            "id": "Bisiklet#54",
+            "sentence": "Yatay bisikletler Türkiye'de yaygın değildir."
+        },
+        {
+            "id": "Bisiklet#55",
+            "sentence": "Yatay bisiklet kelimesi bile bilinmemektedir."
+        },
+        {
+            "id": "Bisiklet#56",
+            "sentence": "Yatay bisikletin İngilizcesi İngilizce: Recumbent Bicycle' dir."
+        },
+        {
+            "id": "Bisiklet#57",
+            "sentence": "Sadece tek bir tekerleki olan bisikletler de vardır."
+        },
+        {
+            "id": "Bisiklet#58",
+            "sentence": "İki tekerlek karşılığı kullanılan İngilizcesi \" ___E:İngilizce U:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)___ : Bicycle \" olan bisiklet, tek tekerlekten oluştuğu için İngilizcedeki \" ___E:İngilizce U:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)___ : Unicycle \" kelimesinin karşılığı olarak unisiklet kelimesiyle tanımlanmaya başlamıştır."
+        },
+        {
+            "id": "Bisiklet#59",
+            "sentence": "Eskiden sirklerde gösteri amacıyla kullanılan unisikletler, son yıllarda sokak hareket yarışmalardan unisiklet basketbolu, hokeyi ve dağ unisikleti manasına gelen \"muni\" kategorilerine kadar geniş bir alana yayılmış ve giderek dünyada popülerlik kazanmışlardır."
+        },
+        {
+            "id": "Bisiklet#60",
+            "sentence": "Tek tekerlekli bisiklet, yani unisikleti kullanmayı öğrenmek, normal bisiklet kullanmaktan farklıdır."
+        },
+        {
+            "id": "Bisiklet#61",
+            "sentence": "Elektrikli bisiklet motorda ve pilde yeni teknolojiler (örn. ___E:Ni-MH U:(https://tr.wikipedia.org/wiki/Nikel-metal_hidrit_pil)___ ) sayesinde fiyat ve kulanım kolaylığı getirerek bisikleti daha çekici hale kılmaya başlamıştır."
+        },
+        {
+            "id": "Bisiklet#62",
+            "sentence": "Bu yüzden daha uzun mesafeler bisikletle terlemeden ulaşılabilir hale gelmiştir."
+        },
+        {
+            "id": "Bisiklet#63",
+            "sentence": "Buna ek olarak sıkışık trafikte araba içinde hareketsiz yolculuk yerine, daha hür, daha sosyal, daha sağlıklı, daha masrafsız ve daha çevreci bir seçenek sunması gibi nedenler elektrikli bisikleti daha çekici hale getirmiştir."
+        },
+        {
+            "id": "Bisiklet#64",
+            "sentence": "Elektrikli motor ön teker göbeğine, arka teker göbeğine ya da daha dengeli olsun diye pedallar arasına yerleştirilebilir."
+        },
+        {
+            "id": "Bisiklet#65",
+            "sentence": "Elektrik enerjisinin depolandığı pil kadro içinde saklı veya üzerinde monte edilmiş olabilir."
+        },
+        {
+            "id": "Bisiklet#66",
+            "sentence": "Motor pilden aldığı enerjiyle pedal gücüne yardım ederek sürücünün konforunu arttırır."
+        },
+        {
+            "id": "Bisiklet#67",
+            "sentence": "Kanunun bisiklet süratine ve motor gücüne koyduğu kısıtlamalara uyabilmek ve kullanım kolaylığı için elektrikli bisikletlerde hız ve pedal gücü ölçen, motor yardımının oranını ayarlayan aygıtlar da sistemin parçası olabilir."
+        },
+        {
+            "id": "Bisiklet#68",
+            "sentence": "İş bisikletleri özellikle yük taşımak için üretilirler."
+        },
+        {
+            "id": "Bisiklet#69",
+            "sentence": "Bazıları yüz kilo ve üstündeki yükleri taşıyabilecek kadar sağlamdır."
+        },
+        {
+            "id": "Bisiklet#70",
+            "sentence": "Elektrik motor destekli olanları yüklü iken bile zorlanmadan trafiğe de uyabilir."
+        },
+        {
+            "id": "Bisiklet#71",
+            "sentence": "İki veya üç tekerlekli modelleri vardır."
+        },
+        {
+            "id": "Bisiklet#72",
+            "sentence": "Katlanabilen bisiklet uzunca bir seyahatin ilk ve son kısımlarında kullanmak için, motorlu taşıtta beraber götürülebilme kolaylığı amacıyla daha az yer kaplayacak şekilde kolayca katlanıp, varınca da kolayca açılıp binilebilen bisiklet çeşitlerine denir."
+        },
+        {
+            "id": "Bisiklet#73",
+            "sentence": "Scooter ya da \"kick bike\" denilen iki tekerli, oturaksız, bir ayakla üstüne yere yakın basılıp bir ayakla yeri iterek binilen bisiklet çeşitleri de vardır."
+        },
+        {
+            "id": "Bisiklet#74",
+            "sentence": "Daha kısa ve yokuşsuz asfaltlı mesafelere uygundurlar."
+        },
+        {
+            "id": "Bisiklet#75",
+            "sentence": "Bisiklet, çeşitli donanımın bir araya gelmesinden oluşur."
+        },
+        {
+            "id": "Bisiklet#76",
+            "sentence": "Çatı da denir. ___E:Karbon U:(https://tr.wikipedia.org/wiki/Karbon)___ , ___E:çelik U:(https://tr.wikipedia.org/wiki/%C3%87elik)___ , ___E:alüminyum U:(https://tr.wikipedia.org/wiki/Al%C3%BCminyum)___ , ___E:titanyum U:(https://tr.wikipedia.org/wiki/Titanyum)___ gibi farklı malzemelerden yapılabilir."
+        },
+        {
+            "id": "Bisiklet#77",
+            "sentence": "Sağlamlık açısından daha çok bisikletlerde alüminyum ve karbon kadrolar tercih edilir."
+        },
+        {
+            "id": "Bisiklet#78",
+            "sentence": "Alüminyum kadroların en büyük özelliklerinden birisi, hafif olması ve darbeleri emmesidir."
+        },
+        {
+            "id": "Bisiklet#79",
+            "sentence": "Günümüzde karbon fiber kadrolar oldukça yaygın olup alüminyumdan çok daha sert ve çok daha hafiftirler."
+        },
+        {
+            "id": "Bisiklet#80",
+            "sentence": "Bu özelliğinden dolayı dağ bisikleti ve yol bisikletlerinde karbon kadrolar daha çok tercih edilir."
+        },
+        {
+            "id": "Bisiklet#81",
+            "sentence": "Kadronun yüksekliği binicinin yüksekliğine uygun seçilir."
+        },
+        {
+            "id": "Bisiklet#82",
+            "sentence": "Yüksekliğin ince ayarı oturak çubuğunun uzunluğu ayarlanarak yapılır."
+        },
+        {
+            "id": "Bisiklet#83",
+            "sentence": "Kadronun geometrisi bisikletin ne kadar yüksek dengeli sürülebileceği ve ne kadar yüksek manevra kabiliyeti gösterebileceği gibi özelliklerinin nasıl dengeleneceğine karar verir."
+        },
+        {
+            "id": "Bisiklet#84",
+            "sentence": "Bazı kadrolar arka tekerin kendi maşasıyla kadrodan bağımsız ve amortisörlü hareket edebildiği, engebeler üzerinden sekmelerin vereceği sarsıntıları kadroya ve sürücüye ulaştırmayacak şekilde tasarlanmıştır."
+        },
+        {
+            "id": "Bisiklet#85",
+            "sentence": "Tekerin iki yanına uzanan maşa amortisörlü ya da düz olabilir."
+        },
+        {
+            "id": "Bisiklet#86",
+            "sentence": "Ön veya arkada bulunabilir."
+        },
+        {
+            "id": "Bisiklet#87",
+            "sentence": "Havalı ve yaylı olmak üzere iki çeşittir."
+        },
+        {
+            "id": "Bisiklet#88",
+            "sentence": "Amortisörler sürüş konforu sağlamak ve tekerin yere temasını peşpeşe zıplamaları önleyerek artırmak için tasarlanmıştır."
+        },
+        {
+            "id": "Bisiklet#89",
+            "sentence": "Dağdan inerken veya engebeli arazide yardımcı olurlar."
+        },
+        {
+            "id": "Bisiklet#90",
+            "sentence": "Düz maşalar daha çok yol ve şehir bisikletlerinde kullanılır."
+        },
+        {
+            "id": "Bisiklet#91",
+            "sentence": "Bu sebeple en çok tercih edilen amortisörlü olanıdır."
+        },
+        {
+            "id": "Bisiklet#92",
+            "sentence": "Eğer şehirde sürülecekse daha az karmaşık olan düz maşa da kullanılabilir. [kaynak belirtilmeli]"
+        },
+        {
+            "id": "Bisiklet#93",
+            "sentence": "___E:Seleler U:(https://tr.wikipedia.org/wiki/Sele)___ , kısa mesafeli sürücülerin tercih ettiği yastıklı olanlardan bacak salınımları için daha çok alan sağlayan daha dar selelere kadar sürücü tercihine göre değişir."
+        },
+        {
+            "id": "Bisiklet#94",
+            "sentence": "Konfor, sürüş pozisyonuna bağlıdır."
+        },
+        {
+            "id": "Bisiklet#95",
+            "sentence": "Konfor bisikletleri ve hibritlerde, bisikletçiler sele üzerinde yüksekte oturur, ağırlıklarını seleye yönlendirler, bu yüzden daha geniş ve daha yastıklı sele tercih edilir."
+        },
+        {
+            "id": "Bisiklet#96",
+            "sentence": "Sürücünün eğildiği yarış bisikletlerinde, ağırlık gidon ve sele arasında daha eşit şekilde dağıtılır, kalçalar bükülür ve daha dar ve sert bir sele daha verimlidir."
+        },
+        {
+            "id": "Bisiklet#97",
+            "sentence": "Erkek ve kadın bisikletçiler için farklı sele tasarımları vardır, cinsiyetlerin farklı anatomilerine ve oturma kemiği genişliği ölçümlerine uyum sağlar, ancak bisikletler genellikle erkekler için en uygun olan selelerle satılır."
+        },
+        {
+            "id": "Bisiklet#98",
+            "sentence": "Süspansiyonlu sele direkleri ve sele yayları şoku emerek konfor sağlar ancak bisikletin genel ağırlığını artırabilir."
+        },
+        {
+            "id": "Bisiklet#99",
+            "sentence": "Yatay bisikletin, özellikle belirli tipte koltuk, sırt, boyun, omuz veya bilek ağrısı çeken sürücüler olmak üzere bazı sürücülerin, bir seleden daha rahat bulduğu, yatırılmış sandalye benzeri selesi vardır."
+        },
+        {
+            "id": "Bisiklet#100",
+            "sentence": "Yatay bisikletlerin sele altı veya sele üstü ___E:direksiyonu U:(https://tr.wikipedia.org/wiki/Yatay_bisiklet)___ olabilir."
+        },
+        {
+            "id": "Bisiklet#101",
+            "sentence": "Hız düşürmek için kontrol hareketiyle dönen tekere sürtünme başlatan frenler ön ve arka tekere uygulanışına göre olmak üzere iki tanedir."
+        },
+        {
+            "id": "Bisiklet#102",
+            "sentence": "Sürtünmeyi gerçekleştirme yöntemi bakımından birçok çeşitleri vardır:"
+        },
+        {
+            "id": "Bisiklet#103",
+            "sentence": "Fren kontrol hareketini (didona monte edilmiş el freni manivelalarını ellerin kavramasını) lastik ve balatalara ulaştırma yöntemi olarak birçok mekanizma çeşidi vardır:"
+        },
+        {
+            "id": "Bisiklet#104",
+            "sentence": "Bisiklette tekerlek bir ilâ dört tane olabilir."
+        },
+        {
+            "id": "Bisiklet#105",
+            "sentence": "Fakat ikiden farklı sayıda olması hâlinde \"bi\"siklet adı, içindeki \"iki\" kelimesinden dolayı uygun olmaz."
+        },
+        {
+            "id": "Bisiklet#106",
+            "sentence": "Üçlü bisikletlerin genelde önde bir, arkada iki tekerleği vardır."
+        },
+        {
+            "id": "Bisiklet#107",
+            "sentence": "Tek tekerlekli olanlar ise genellikle sirklerde gösteri ve akrobasi amaçlı kullanılmaktadır. 30-60 libre/inçkare (210-410 kPa) dağ bisikletleri için, 90-110 libre/inçkare (620-760 kPa) yol bisikletleri için uygun basınç ölçüsüdür."
+        },
+        {
+            "id": "Bisiklet#108",
+            "sentence": "Dönüş hızını artırmak için rulmanlı göbek sistemleri kullanılır."
+        },
+        {
+            "id": "Bisiklet#109",
+            "sentence": "Dağ bisikletlerinde daha dişli lastikler, şehir ve yol bisikletlerinde ise sürtünmesi, dolayısıyla enerji kaybı daha az düz ve dişsiz lastikler tercih edilir."
+        },
+        {
+            "id": "Bisiklet#110",
+            "sentence": "Buzlu ya da sıkıştırılmış kar zeminler için çivili lastik önerilir."
+        },
+        {
+            "id": "Bisiklet#111",
+            "sentence": "Tekerleğin cantı göbeğine tellerle bağlıdır."
+        },
+        {
+            "id": "Bisiklet#112",
+            "sentence": "Bu teller göbek kenarında bir delikten çıkıp, belli açılarda birbirleri ile kesişerek cant tarafında cant içinden göbeğe doğru uzanan bir meme-somuna vidalanır."
+        },
+        {
+            "id": "Bisiklet#113",
+            "sentence": "Tellerin yarısı göbeğin bir tarafına, diğer yarısı öbür tarafına uzanır."
+        },
+        {
+            "id": "Bisiklet#114",
+            "sentence": "Aynı yana uzanan tellerin yarısı saat yönünde diğer yarısı saate ters yönde eğimle uzanır."
+        },
+        {
+            "id": "Bisiklet#115",
+            "sentence": "Tellerin tümünün gerilimleri her yönde cantı öyle dengeli bir şekilde gerer ki, teker hızla döndüğünde yalpalamaz, ağır yük taşıyabilir."
+        },
+        {
+            "id": "Bisiklet#116",
+            "sentence": "Tellerden biri gevşer ya da koparsa yalpalama görülür, hemen düzeltmek gerekir."
+        },
+        {
+            "id": "Bisiklet#117",
+            "sentence": "Tellere refleks, hız ölçücü gibi şeyler monte edilmiş olabilir."
+        },
+        {
+            "id": "Bisiklet#118",
+            "sentence": "Bazı tekerlekler teller yerine deliksiz bir yüzey kullanır."
+        },
+        {
+            "id": "Bisiklet#119",
+            "sentence": "Telli tekerin üstünlüğü yandan rüzgara yelken olmama, yan darbelere dayanıklılık, hafiflik ve yalpalamada tamir kolaylığı konularındadır."
+        },
+        {
+            "id": "Bisiklet#120",
+            "sentence": "Sürücünün kas gücünü bisikletin ileriye doğru hareketinde değişik süratlere dönüştürebilen düzenlere vites denir."
+        },
+        {
+            "id": "Bisiklet#121",
+            "sentence": "Vitesler, yol eğimine göre pedal çevirme kolaylığı sağlamak, düzde az pedal hareketi ile bisikleti hızlandırabilmek ve yokuşlarda çok pedal hareketi ile daha kolay tırmanmak içindir."
+        },
+        {
+            "id": "Bisiklet#122",
+            "sentence": "Vites mekanizmaları birçok gelişim evresinden geçmiştir:"
+        },
+        {
+            "id": "Bisiklet#123",
+            "sentence": "Elektrik motoru destekli bisikletlerde, basamaksız ve otomatik vites kutuları, içindeki şanzıman yağlarının debriyaj işlevini kısmen görebilmesi yüzünden daha uygundur."
+        },
+        {
+            "id": "Bisiklet#124",
+            "sentence": "Bazı bisikletler pedaller ile arka göbek arasında, sarsıntıda dişliden düşen ve dokunulduğunda lekeler bırakan yağlı bir çelik zincir yerine, hiç yağ gerektirmeyen, su ile yıkanabilen, daha temiz, daha dayanıklı, daha hafif, karbon elyaflı bir kayış kullanmaktadır."
+        },
+        {
+            "id": "Bisiklet#125",
+            "sentence": "Bazılarında ise arabalardaki gibi uçları dişli, kendi ekseni etrafında dönen tahrik mili kullanılmaktadır."
+        },
+        {
+            "id": "Bisiklet#126",
+            "sentence": "Tahrik mili zincirden biraz daha ağır olabilir."
+        },
+        {
+            "id": "Bisiklet#127",
+            "sentence": "Kayış ve tahrik mili aktarıcısız göbek vitesli tasarımlara uygundur ve montaj bakımından daha karmaşıktırlar."
+        },
+        {
+            "id": "Bisiklet#128",
+            "sentence": "Bu sebeplerden pek yaygın değildirler."
+        }
+    ]
+}

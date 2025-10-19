@@ -1,0 +1,583 @@
+{
+    "Title": "Konya",
+    "Card": {
+        "Ülke": "___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___",
+        "İl": "___E:Konya U:(https://tr.wikipedia.org/wiki/Konya_(il))___",
+        "• Tür": "___E:Belediye başkanı-meclis U:(https://tr.wikipedia.org/wiki/Belediye_ba%C5%9Fkan%C4%B1-meclis_y%C3%B6netimi)___",
+        "• Organ": "Belediye meclisi AK Parti (71)CHP (22)Yeniden Refah (20)MHP (8)Büyük Birlik (5)İYİ Parti (2)Bağımsız siyasetçi (2)DEM Parti (1)",
+        "•Belediye Başkanı": "___E:Uğur İbrahim Altay U:(https://tr.wikipedia.org/wiki/U%C4%9Fur_%C4%B0brahim_Altay)___ ( ___E:AK Parti U:(https://tr.wikipedia.org/wiki/Adalet_ve_Kalk%C4%B1nma_Partisi)___ ) ",
+        "Rakım": "1016 m",
+        "Zaman dilimi": "___E:UTC+03.00 U:(https://tr.wikipedia.org/wiki/UTC%2B03.00)___ ( ___E:TRS U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Saati)___ )",
+        "Posta kodu": "42XXX",
+        "Alan kodu": "332",
+        "ISO 3166 kodu": "___E:TR-42 U:(https://tr.wikipedia.org/wiki/ISO_3166-2:TR)___",
+        "Plaka kodu": "42",
+        "İklim": "___E:Dsb U:(https://tr.wikipedia.org/wiki/Karasal_iklim)___ , ___E:Bsk U:(https://tr.wikipedia.org/wiki/Yar%C4%B1_kurak_iklim)___"
+    },
+    "Main": [
+        {
+            "id": "Konya#1",
+            "sentence": "Konya , ___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___ 'nin Konya ilinin merkezi olan şehirdir. 1875'te kurulan Konya Belediyesi, 1987'de çıkarılan 3399 sayılı yasa gereğince \"büyükşehir\" statüsüne kavuşmuş olup 1989'dan beri belediye hizmetleri bu statüye göre yürütülmektedir. 2014'te 6360 sayılı kanun ile büyükşehir belediyesinin sınırları il mülki sınırları olmuştur."
+        },
+        {
+            "id": "Konya#2",
+            "sentence": "Ekonomik açıdan Türkiye'nin gelişmiş kentlerinden biri olan Konya doğal ve tarihsel zenginlikleriyle de önem taşır."
+        },
+        {
+            "id": "Konya#3",
+            "sentence": "Dünyanın en eski yerleşimlerinden biri olan ___E:Çatalhöyük U:(https://tr.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk)___ , 2012 yılında ___E:UNESCO U:(https://tr.wikipedia.org/wiki/UNESCO)___ ___E:Dünya Mirası listesine U:(https://tr.wikipedia.org/wiki/D%C3%BCnya_Miras%C4%B1_listesi)___ alınmıştır."
+        },
+        {
+            "id": "Konya#4",
+            "sentence": "Şehir ___E:Anadolu Selçuklularının U:(https://tr.wikipedia.org/wiki/Anadolu_Sel%C3%A7uklu_Devleti)___ ve ___E:Karamanoğullarının U:(https://tr.wikipedia.org/wiki/Karamano%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ başkentliğini yapmıştır."
+        },
+        {
+            "id": "Konya#5",
+            "sentence": "Türkiye'nin en önemli sanayi kentlerinden birisidir. ___E:Anadolu Kaplanlarındandır U:(https://tr.wikipedia.org/wiki/Anadolu_Kaplanlar%C4%B1)___ ."
+        },
+        {
+            "id": "Konya#6",
+            "sentence": "Şehrin futbol takımı ___E:Konyaspor U:(https://tr.wikipedia.org/wiki/Konyaspor)___ 'dur. Yöresel yemekleri etliekmek , bamya çorbası , Mevlana böreği , yağ somunu , tirit , Konya pilavı , sac arası ve fırın kebabı' dır. Konya'nın simgeleri ___E:Mevlana Müzesi U:(https://tr.wikipedia.org/wiki/Mevl%C3%A2n%C3%A2_M%C3%BCzesi)___ (Kubbe-i Hadrâ) , ___E:çift başlı kartaldır U:(https://tr.wikipedia.org/wiki/%C3%87ift_ba%C5%9Fl%C4%B1_kartal)___ ."
+        },
+        {
+            "id": "Konya#7",
+            "sentence": "Konya ovasında yer aldığı bilinen ve ___E:Hitit U:(https://tr.wikipedia.org/wiki/Hititler)___ tabletlerinde İkuwaniya olarak geçen şehrin lokasyon ve isim benzerliğinden dolayı Konya olduğu düşünülmektedir.   ___E:Bizans U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu)___ döneminde kullanılan İconium ve günümüzde kullanılan Konya adlarının şehrin ___E:Hititçe U:(https://tr.wikipedia.org/wiki/Hitit%C3%A7e)___ ismiyle olan benzerliğinden dolayı Konya adının İkuwaniya 'dan geliyor olması olasıdır."
+        },
+        {
+            "id": "Konya#8",
+            "sentence": "Bizans dönemindeki rivayetlere göre, \" İkonion \" ismi, \"kutsal tasvir\" anlamındaki \" ikon \" sözcüğüne bağlı olduğu iddia edilir. ___E:Mitolojide U:(https://tr.wikipedia.org/wiki/Mitoloji)___ bu konuda değişik rivayetler bulunmaktadır."
+        },
+        {
+            "id": "Konya#9",
+            "sentence": "Bu hikâyelerden birinde anlatıldığı üzere, kente dadanan ejderhayı öldüren kişiye şükran ifadesi olarak bir anıt yapılır ve üzerine de olayı anlatan bir resim çizilir."
+        },
+        {
+            "id": "Konya#10",
+            "sentence": "Bu anıta verilen isim, İkonion 'dur. İkonion adı, zamanla İcconium 'a dönüşür."
+        },
+        {
+            "id": "Konya#11",
+            "sentence": "Roma döneminde İmparator adlarıyla değişen, Claudiconium , Colonia Selie , Augusta İconium gibi yeni adlar alır. Bizans kaynaklarında Tokonion olarak geçen şehre ve bölgeye verilen diğer isimler şöyledir: Ycconium , Conium , Stancona , Conia , Cogne , Cogna , Konien , Konia ..."
+        },
+        {
+            "id": "Konya#12",
+            "sentence": "Araplar kentin ismini Kuniya olarak değiştirmişlerdir, Selçuklu ve Osmanlı döneminde bu ad Konya 'ya dönüşmüştür."
+        },
+        {
+            "id": "Konya#13",
+            "sentence": "Günümüzde de kent hâlâ Konya adını taşımaktadır."
+        },
+        {
+            "id": "Konya#14",
+            "sentence": "Konya, Türkiye'deki en eski yerleşim birimlerinden biridir."
+        },
+        {
+            "id": "Konya#15",
+            "sentence": "Konya'da yerleşimin ___E:Prehistorik U:(https://tr.wikipedia.org/wiki/Tarih_%C3%B6ncesi)___ (Tarih öncesi) çağdan başladığı görülmektedir."
+        },
+        {
+            "id": "Konya#16",
+            "sentence": "Konya'nın merkezinde yer alan ve aynı zamanda bir ___E:höyük U:(https://tr.wikipedia.org/wiki/H%C3%B6y%C3%BCk)___ olan, ___E:Anadolu Selçuklu U:(https://tr.wikipedia.org/wiki/Anadolu_Sel%C3%A7uklu_Devleti)___ sultanı ___E:II. Alaeddin Keykubad U:(https://tr.wikipedia.org/wiki/II._Al%C3%A2eddin_Keykubad)___ 'a nispetle ___E:Alâeddin Tepesi U:(https://tr.wikipedia.org/wiki/Al%C3%A2eddin_Tepesi)___ adı verilen suni tepe ve çevresinde yapılan araştırmalar sonucu, prehistorik çağ içinde gerek ___E:Neolitik U:(https://tr.wikipedia.org/wiki/Cilal%C4%B1_Ta%C5%9F_Devri)___ (Cilalı Taş Devri) ve ___E:Kalkolitik U:(https://tr.wikipedia.org/wiki/Bak%C4%B1r_%C3%87a%C4%9F%C4%B1)___ ve gerekse ___E:Erken Bronz Çağl U:(https://tr.wikipedia.org/wiki/Erken_Tun%C3%A7_%C3%87a%C4%9F%C4%B1)___ 'arına ait kültürel bulgulara rastlanmıştır."
+        },
+        {
+            "id": "Konya#17",
+            "sentence": "Yine ___E:Prehistorik U:(https://tr.wikipedia.org/wiki/Tarih_%C3%B6ncesi)___ çağa ait höyüklerden, merkeze 15 km mesafede yer alan ve Konya'nın bugünkü merkez Harmancık mahallesinde yer alan ___E:Karahöyük U:(https://tr.wikipedia.org/wiki/Karah%C3%B6y%C3%BCk_1)___ ve ___E:Konya Ovası U:(https://tr.wikipedia.org/wiki/Konya_Ovas%C4%B1)___ üzerinde, bulunmuş en eski ve en gelişmiş Neolitik devir yerleşim merkezi olan ___E:Çatalhöyük U:(https://tr.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk)___ bulunmaktadır."
+        },
+        {
+            "id": "Konya#18",
+            "sentence": "Konya Ovası Hititler döneminde ___E:Aşağı Ülke U:(https://tr.wikipedia.org/w/index.php?title=A%C5%9Fa%C4%9F%C4%B1_%C3%9Clke&action=edit&redlink=1)___ ( Kur Şapliti ) adıyla bilinmekteydi  ve Hititlerin yönetim merkezi ve can damarı olan Hatti diyarı ile ___E:Orta Toroslar U:(https://tr.wikipedia.org/wiki/Orta_Toroslar)___ 'da yer alan ve bir dönem Hitit ülkesinin başkentliğini yapmış ___E:Tarhuntaşşa U:(https://tr.wikipedia.org/wiki/Tarhunta%C5%9F%C5%9Fa)___ bölgesinin ortasında yer almaktaydı."
+        },
+        {
+            "id": "Konya#19",
+            "sentence": "Anadolu ve ___E:Suriye U:(https://tr.wikipedia.org/wiki/Suriye)___ topraklarında büyük bir imparatorluk kuran ___E:Hititler U:(https://tr.wikipedia.org/wiki/Hititler)___ Konya'ya da hâkim olmuşlardır."
+        },
+        {
+            "id": "Konya#20",
+            "sentence": "Hititler'den sonra ___E:Friglerin U:(https://tr.wikipedia.org/wiki/Frigler)___ egemenliğine giren Konya ( Kavania ) daha sonra ___E:Lidyalılar U:(https://tr.wikipedia.org/wiki/Lidyal%C4%B1lar)___ , ___E:Persler U:(https://tr.wikipedia.org/wiki/Farslar)___ ve ___E:Büyük İskender U:(https://tr.wikipedia.org/wiki/%C4%B0skender)___ 'in istilalarına uğramıştır."
+        },
+        {
+            "id": "Konya#21",
+            "sentence": "Sonraları ___E:Anadolu U:(https://tr.wikipedia.org/wiki/Anadolu)___ 'da ___E:Roma U:(https://tr.wikipedia.org/wiki/Roma_%C4%B0mparatorlu%C4%9Fu)___ hâkimiyeti sağlanınca Konya İconium olarak varlığını korumuştur."
+        },
+        {
+            "id": "Konya#22",
+            "sentence": "Önemini Roma ve ___E:Bizans U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu)___ dönemleri boyunca korumuş olan şehir, ___E:Hristiyanlık U:(https://tr.wikipedia.org/wiki/Hristiyanl%C4%B1k)___ dininin ilk yıllarında dini bir merkez hüviyeti de kazanmıştır. ___E:Aziz Paul U:(https://tr.wikipedia.org/wiki/Pavlus)___ Anadoludaki dinî seyahatleri sırasında Konya'ya da uğramıştır."
+        },
+        {
+            "id": "Konya#23",
+            "sentence": "İslamiyet'in doğuşuyla beraber ___E:Doğu Roma İmparatorluğu U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu)___ aleyhine büyüyen ___E:İslam Devleti U:(https://tr.wikipedia.org/wiki/%C4%B0slam_devleti)___ , İstanbul'u hedef alan harekâtları sırasında Konya üzerine de akınlar düzenlemişlerdir."
+        },
+        {
+            "id": "Konya#24",
+            "sentence": "Anadolu'da ve Konya çevresinde ilk İslami oluşumlar bu devirde ortaya çıkmıştır."
+        },
+        {
+            "id": "Konya#25",
+            "sentence": "1071 senesinde ___E:Malazgirt U:(https://tr.wikipedia.org/wiki/Malazgirt)___ Ovası'nda yapılan ___E:Malazgirt Savaşı U:(https://tr.wikipedia.org/wiki/Malazgirt_Meydan_Muharebesi)___ 'ndan önce Anadolu üzerine keşif harekâtları düzenleyen ___E:Türkler U:(https://tr.wikipedia.org/wiki/T%C3%BCrkler)___ ve Anadolu'yu tanıyan ___E:Büyük Selçuklular U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu)___ , bu savaş sonucu Anadolu'nun büyük bir kısmı ile beraber Konya'yı da, ele geçirmişler ve bölgedeki uzun Bizans hâkimiyetine son vermişlerdir."
+        },
+        {
+            "id": "Konya#26",
+            "sentence": "Anadolu Selçukluları'nın kurucusu olan Kutalmışoğlu Süleyman Şah 1076 yılında Konya'yı Anadolu Selçukluları'nın başkenti yapmış, bilahare başkent 1080 yılında ___E:İznik U:(https://tr.wikipedia.org/wiki/%C4%B0znik)___ 'e nakledilmiştir. ___E:İlk haçlı seferi U:(https://tr.wikipedia.org/wiki/Birinci_Ha%C3%A7l%C4%B1_Seferi)___ sırasında İznik şehri tekrar Bizans'ın eline geçmiş, Sultan ___E:I. Kılıçarslan U:(https://tr.wikipedia.org/wiki/I._K%C4%B1l%C4%B1%C3%A7_Arslan)___ da 1097 tarihinde başkenti tekrar Konya'ya taşımıştır."
+        },
+        {
+            "id": "Konya#27",
+            "sentence": "Bu tarihten 1277 yılına kadar Konya aralıksız ___E:Anadolu Selçuklu Devleti U:(https://tr.wikipedia.org/wiki/Anadolu_Sel%C3%A7uklu_Devleti)___ 'nin başkenti olmuştur. ___E:I. Alaeddin Keykubad U:(https://tr.wikipedia.org/wiki/I._Al%C3%A2eddin_Keykubad)___ (1220-1237) devrinde şehrin etrafına muhkem bir sur inşa edilmiştir ve Konya Anadolu'nun en büyük şehri olmuştur."
+        },
+        {
+            "id": "Konya#28",
+            "sentence": "Selçuklular devrinde şehirde cuma namazı kılınan yedi büyük cami vardı."
+        },
+        {
+            "id": "Konya#29",
+            "sentence": "Toplam şehir nüfusu 45.000-50.000 arasında tahmin ediliyor."
+        },
+        {
+            "id": "Konya#30",
+            "sentence": "Karamanoğullarının kökeni ___E:Azerbaycan U:(https://tr.wikipedia.org/wiki/Azerbaycan)___ 'dan ___E:Sivas U:(https://tr.wikipedia.org/wiki/Sivas)___ 'a göç eden Hoca Saadettin'in oğlu Nur-i Sufi'ye dayanmaktadır."
+        },
+        {
+            "id": "Konya#31",
+            "sentence": "Buradan ___E:Toros Dağlarının U:(https://tr.wikipedia.org/wiki/Toros_Da%C4%9Flar%C4%B1)___ eteğinde olan ___E:Larende U:(https://tr.wikipedia.org/wiki/Karaman)___ kasabasına gelip yerleşmişlerdir."
+        },
+        {
+            "id": "Konya#32",
+            "sentence": "Karamanoğulları Oğuzların Avşar boyundandırlar."
+        },
+        {
+            "id": "Konya#33",
+            "sentence": "Nur-i Sufi'nin oğlu Kerimeddin Karaman Bey 13. yüzyılda buradan başlamak üzere ___E:Kilikya U:(https://tr.wikipedia.org/wiki/Kilikya)___ bölgesinin büyük bir kısmında güç sahibi olmuş, bunun üzerine Anadolu Selçuklu Devleti Sultanı I. Alaeddin Keykubad tarafından bölgenin beyi olarak atanmıştır. ___E:Karamanoğlu Mehmet Bey U:(https://tr.wikipedia.org/wiki/Mehmed_(Karamano%C4%9Fullar%C4%B1_beyi))___ Konya'yı 1277 yılında beyliğine katmıştır."
+        },
+        {
+            "id": "Konya#34",
+            "sentence": "Selçuklu yıkılışından sonra Konya şehri ___E:Karamanoğulları U:(https://tr.wikipedia.org/wiki/Karamano%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ topraklarına katılmış ve Konya, Karamanoğulları Beyliği'nin başkenti olmuştur."
+        },
+        {
+            "id": "Konya#35",
+            "sentence": "Şehir tam on altı kez Osmanoğulları ve Karamanoğulları arasında el değiştirmiştir."
+        },
+        {
+            "id": "Konya#36",
+            "sentence": "Şehir 1467 senesinde kalıcı ___E:Osmanlı U:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)___ egemenliğine geçmiştir."
+        },
+        {
+            "id": "Konya#37",
+            "sentence": "Sultan ___E:II. Mehmed U:(https://tr.wikipedia.org/wiki/II._Mehmed)___ Konya'yı zapt ederek Karamanoğlu hâkimiyetine son vermiştir."
+        },
+        {
+            "id": "Konya#38",
+            "sentence": "Osmanlı devrinde Konya önce ___E:Karaman Eyaletinin U:(https://tr.wikipedia.org/wiki/Karaman_(eyalet))___ sonra da ___E:Konya Vilayetinin U:(https://tr.wikipedia.org/wiki/Konya_Vilayeti)___ merkezi olmuştur."
+        },
+        {
+            "id": "Konya#39",
+            "sentence": "Osmanlı Rus Savaşı ve Balkan Harbi sonunda zorunlu göçe zorlanmış yüz binlerce Müslüman  ___E:Arnavut U:(https://tr.wikipedia.org/wiki/Arnavutlar)___ , ___E:Çerkes U:(https://tr.wikipedia.org/wiki/%C3%87erkesler)___ , ___E:Boşnak U:(https://tr.wikipedia.org/wiki/Bo%C5%9Fnaklar)___ kökenli Balkan ve Kafkas muhaciri tarıma elverişli olması sebebiyle Konya ve ilçelerine iskân edilmişlerdir."
+        },
+        {
+            "id": "Konya#40",
+            "sentence": "Bu yüzden de dinî bir merkez olarak da görülmüştür."
+        },
+        {
+            "id": "Konya#41",
+            "sentence": "Millî mücadelenin başlamasıyla Konya bu kutsal mücadelenin içinde yer almış; ancak istenmeyen ve Konya halkınca pek tasvip görmeyen bazı olayların gelişmesi, bir takım yanlış anlamalara, gerçekle pek ilgisi olmayan yorumlara yol açmıştır."
+        },
+        {
+            "id": "Konya#42",
+            "sentence": "Müdafaa-i Hukuk Cemiyeti, Vali'nin Artin Cemal'in yanı sıra Konya'daki Amerikalı Miss Kouchman, İngiliz Rahip Rew Frew, Dr. İpokrat, Kirkor Şişmanyan, Rodoslu Nikola Samarcidis ve Kıbrıslı Kemal Subhuezel gibi ajanların, azınlık temsilcilerinin tabi Damat Ferit ve Zeynel Abidin'in her türlü engelleme, çabalarına rağmen kurulmuştur."
+        },
+        {
+            "id": "Konya#43",
+            "sentence": "Tabii Konya Müdafaa-i Hukuk Cemiyeti'nin Kadınlar Şubesinin kurulması da önemlidir."
+        },
+        {
+            "id": "Konya#44",
+            "sentence": "Konya'da Çıkan İsyanlar:"
+        },
+        {
+            "id": "Konya#45",
+            "sentence": "Konya Müdafaa-i Hukuk Cemiyeti Başkanı ___E:Sivaslı Ali Kemal U:(https://tr.wikipedia.org/wiki/Sivasl%C4%B1_Ali_Kemal)___ 'in çalışmaları, çabaları ___E:Mustafa Kemal Paşa U:(https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk)___ tarafından takdir edilmiştir."
+        },
+        {
+            "id": "Konya#46",
+            "sentence": "Müdafaa-i Hukuk Cemiyeti'nin bu çalışmalar içinde önemsediği işgale ve işgalcilerin uygulamalarına karşı düzenlenen protesto mitingleridir."
+        },
+        {
+            "id": "Konya#47",
+            "sentence": "Bu mitinglerle Konya halkının tepkisi dile getirilmiş, hem de halkın birlik beraberliğinin oluşması sağlanmıştır."
+        },
+        {
+            "id": "Konya#48",
+            "sentence": "Özellikle o günlerde ilk kadın mitingi Konya'da yapılmış, işgale karşı Konyalı kadınların tepkisi bu mitingle ifade edilmiştir."
+        },
+        {
+            "id": "Konya#49",
+            "sentence": "Konya, işgal görmeyen ___E:Ankara U:(https://tr.wikipedia.org/wiki/Ankara_(il))___ , ___E:Kayseri U:(https://tr.wikipedia.org/wiki/Kayseri)___ , ___E:Yozgat U:(https://tr.wikipedia.org/wiki/Yozgat)___ , ___E:Çorum U:(https://tr.wikipedia.org/wiki/%C3%87orum)___ , ___E:Çankırı U:(https://tr.wikipedia.org/wiki/%C3%87ank%C4%B1r%C4%B1)___ gibi İç Anadolu şehirleriyle birlikte kurtuluş savaşında ordunun ihtiyaçlarının karşılandığı lojistik merkezi olmuştur."
+        },
+        {
+            "id": "Konya#50",
+            "sentence": "Cephede savaşan ordunun ihtiyaçları Konya'da toplanmış ve cepheye buradan gönderilmiştir."
+        },
+        {
+            "id": "Konya#51",
+            "sentence": "Konya, cepheden gelen yaralı ve hastaların tedavi gördüğü merkez olmuştur."
+        },
+        {
+            "id": "Konya#52",
+            "sentence": "Konya, 1987 yılında çıkarılan 3399 sayılı kanun  ile ___E:büyükşehir U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%C5%9Fehir_belediyesi)___ unvanı kazandı."
+        },
+        {
+            "id": "Konya#53",
+            "sentence": "Başlangıçta üç ilçe ( ___E:Karatay U:(https://tr.wikipedia.org/wiki/Karatay,_Konya)___ , ___E:Meram U:(https://tr.wikipedia.org/wiki/Meram)___ ve ___E:Selçuklu U:(https://tr.wikipedia.org/wiki/Sel%C3%A7uklu,_Konya)___ ) ___E:Konya Büyükşehir Belediyesi U:(https://tr.wikipedia.org/wiki/Konya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi)___ 'nin sınırlarına dahil edildi. 2004 yılında çıkarılan 5216 sayılı kanun ile büyükşehir belediyesinin sınırları valilik binası merkez kabul edilerek yarıçapı 30 kilometre olan dairenin sınırlarına genişletildi.  2012 yılında çıkarılan 6360 sayılı kanun ile ___E:2014 Türkiye yerel seçimlerinin U:(https://tr.wikipedia.org/wiki/2014_T%C3%BCrkiye_yerel_se%C3%A7imleri)___ ardından büyükşehir belediyesinin sınırları il mülki sınırları oldu."
+        },
+        {
+            "id": "Konya#54",
+            "sentence": "Konya şehrinin ortalama rakımı 1016 metredir."
+        },
+        {
+            "id": "Konya#55",
+            "sentence": "Bitki örtüsü ___E:İç Anadolu Bölgesi U:(https://tr.wikipedia.org/wiki/%C4%B0%C3%A7_Anadolu_B%C3%B6lgesi)___ 'nin tipik bitkisel örtüsü olan ___E:bozkırdır U:(https://tr.wikipedia.org/wiki/Bozk%C4%B1r)___ ."
+        },
+        {
+            "id": "Konya#56",
+            "sentence": "Konya şehrinde ___E:yarı kurak U:(https://tr.wikipedia.org/wiki/Yar%C4%B1_kurak_iklim)___ ___E:karasal iklim U:(https://tr.wikipedia.org/wiki/Karasal_iklim)___ ( ___E:Köppen iklim sınıflandırması U:(https://tr.wikipedia.org/wiki/K%C3%B6ppen_iklim_s%C4%B1n%C4%B1fland%C4%B1rmas%C4%B1)___ : Bsk ve Dsb ) hüküm sürer."
+        },
+        {
+            "id": "Konya#57",
+            "sentence": "Kışları soğuk ve kar yağışlı, yazları sıcak ve kurak, sonbaharları ılık ve yağışlı ve ilkbaharları serin ve yağışlıdır."
+        },
+        {
+            "id": "Konya#58",
+            "sentence": "Konya ikliminin diğer bir özelliği ise mevsimlerin geç başlaması ve geç bitmesidir."
+        },
+        {
+            "id": "Konya#59",
+            "sentence": "En sıcak ay temmuz ve ağustostur ve ortalama en yüksek gündüz sıcaklıkları 30 ___E:° U:(https://tr.wikipedia.org/wiki/Derece)___ ___E:C U:(https://tr.wikipedia.org/wiki/Santigrat)___ 'dir.  En soğuk ay ise Ocak ayıdır, en düşük gece sıcaklıkları ortalama -4 °C'dür. Şehirde ölçülen en düşük sıcaklık -28,2 °C, en yüksek sıcaklık ise 40,6 °C'dir.  Yağışlar en çok mayıs, en az temmuz veya ağustos ayında düşer."
+        },
+        {
+            "id": "Konya#60",
+            "sentence": "İlkbaharda ve yaz başlarında, ___E:kırkikindi U:(https://tr.wikipedia.org/wiki/K%C4%B1rkikindi_ya%C4%9F%C4%B1%C5%9Flar%C4%B1)___ olarak adlandırılan ___E:konveksiyonel yağışlar U:(https://tr.wikipedia.org/wiki/Konveksiyonel_ya%C4%9F%C4%B1%C5%9F)___ görülür."
+        },
+        {
+            "id": "Konya#61",
+            "sentence": "Konya'da yıllık ortalama toplam yağış 318 mm'dir.  Konya, Türkiye'de ___E:Iğdır U:(https://tr.wikipedia.org/wiki/I%C4%9Fd%C4%B1r)___ 'dan sonra en az yağış alan şehirdir."
+        },
+        {
+            "id": "Konya#62",
+            "sentence": "1987 yılında Konya büyükşehir statüsü kazanıp il merkezinde yeni ilçeler kurulmuştur."
+        },
+        {
+            "id": "Konya#63",
+            "sentence": "Bu yıldan itibaren il merkezinin nüfusu aşağıdaki gibidir."
+        },
+        {
+            "id": "Konya#64",
+            "sentence": "2012 yılında ilin tamamı büyükşehir sınırlarına girmiştir."
+        },
+        {
+            "id": "Konya#65",
+            "sentence": "___E:2016-17 U:(https://tr.wikipedia.org/wiki/Konyaspor_2016-17_sezonu)___ sezonunda ___E:Konyaspor U:(https://tr.wikipedia.org/wiki/Konyaspor)___ , futbolda ___E:Türkiye Kupası U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Kupas%C4%B1)___ 'nda ___E:İstanbul Başakşehir U:(https://tr.wikipedia.org/wiki/%C4%B0stanbul_Ba%C5%9Fak%C5%9Fehir_FK)___ 'i normal süreyi ve uzatmaları 0-0 tamamladı."
+        },
+        {
+            "id": "Konya#66",
+            "sentence": "Seri penaltı atışlarında rakibini 4-1 yenerek şampiyon oldu. Konyaspor Türkiye Kupası şampiyonun ve ___E:Süper Lig U:(https://tr.wikipedia.org/wiki/S%C3%BCper_Lig)___ şampiyonun karşılaştığı ___E:Süper Kupa U:(https://tr.wikipedia.org/wiki/S%C3%BCper_Kupa)___ 'yı da ___E:Beşiktaş U:(https://tr.wikipedia.org/wiki/Be%C5%9Fikta%C5%9F_(futbol_tak%C4%B1m%C4%B1))___ 'ı 2-1 yenerek müzesine götürdü."
+        },
+        {
+            "id": "Konya#67",
+            "sentence": "2018-2019 sezonu sonunda, Konyaspor, Süper ligi 8.sırada tamamlamıştır. ___E:Anadolu Selçukspor U:(https://tr.wikipedia.org/wiki/1922_Konyaspor)___ ise 3. Lig takımıdır. ___E:BAL U:(https://tr.wikipedia.org/wiki/B%C3%B6lgesel_Amat%C3%B6r_Lig)___ 'da 3, kadınlar futbol liglerinde iki takımı daha vardır."
+        },
+        {
+            "id": "Konya#68",
+            "sentence": "Basketbol 1. Lig takımı Konyaspor, play-off maçları yarı finalinde yenilerek, lig 4.sü olmuştur."
+        },
+        {
+            "id": "Konya#69",
+            "sentence": "Voleybol erkekler 1. Ligindeki iki takımı da küme düşmüştür."
+        },
+        {
+            "id": "Konya#70",
+            "sentence": "Voleybol 2. Liglerinde 3, bölgesel liginde de 3 takımı vardır."
+        },
+        {
+            "id": "Konya#71",
+            "sentence": "Ziraat Türkiye Kupası'nda Anadolu Selçukspor 3.turda, Konyaspor 4.turda elenmişlerdir."
+        },
+        {
+            "id": "Konya#72",
+            "sentence": "Havacılığı sevdirmek amacıyla kurulan Mevlana Sportif Havacılık Kulübü'nün merkezi Meram'dadır."
+        },
+        {
+            "id": "Konya#73",
+            "sentence": "Yamaç paraşütü ve model uçak alanlarında hizmet vermektedir."
+        },
+        {
+            "id": "Konya#74",
+            "sentence": "Kulüp üyeleri özellikle yaz ve bahar aylarında hafta sonları toplanarak etkinlikler düzenlemekte, model uçak gösterileri yapmaktadır."
+        },
+        {
+            "id": "Konya#75",
+            "sentence": "Octocopter adı verilen hava aracı ile firmaların havadan fotoğraf çekimi ihtiyacına cevap verilmektedir."
+        },
+        {
+            "id": "Konya#76",
+            "sentence": "___E:Türkçenin U:(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)___ Konya ilinde kullanılan ağzının Batı Anadolu ağızları içindeki konumu Prof. Dr."
+        },
+        {
+            "id": "Konya#77",
+            "sentence": "Leyla Karahan'ın Anadolu Ağızlarının Sınıflandırılması ( ___E:Türk Dil Kurumu U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Dil_Kurumu)___ yayınları: 630, Ankara 1996) adlı çalışmasına göre, Ereğli hariç diğer ilçeler Mersin iliyle aynı grupta yer alır:"
+        },
+        {
+            "id": "Konya#78",
+            "sentence": "Şehirde çeşitli müzeler de bulunmaktadır."
+        },
+        {
+            "id": "Konya#79",
+            "sentence": "___E:Konya Devlet Tiyatrosu U:(https://tr.wikipedia.org/wiki/Konya_Devlet_Tiyatrosu)___ , 1997 Aralık ayından bu yana, başta Konya olmak üzere, çevre il ve ilçelere çalışmalarını kesintisiz olarak sürdüren bölge tiyatrosudur."
+        },
+        {
+            "id": "Konya#80",
+            "sentence": "Devlet Tiyatrosu olarak hizmet veren bina; anıt alanında, 1946 yılında Halkevi olarak yapılmış, Halkevleri kapatıldıktan sonra ise sinema salonu olarak faaliyet göstermiş, daha sonra da İl Halk Kütüphanesi olarak kullanılmış bir mekandır. 1981 yılında Atatürk'ün doğumunun 100. yıl dönümünü Kutlama Koordinasyon Kurulu Başkanlığı ve Devlet Tiyatroları Genel Müdürlüğü katkılarıyla gerekli onarım ve tefrişi yapılarak Devlet Tiyatroları Genel Müdürlüğüne tahsisi sağlanmıştır. 1997 yılında Yerleşik Bölge Tiyatrosu olarak Hizmet vermeye başlayan Tiyatro Binası 257 salon, 36'sı balkon olmak üzere toplam 293 koltuktan oluşmaktadır."
+        },
+        {
+            "id": "Konya#81",
+            "sentence": "Konya Devlet Tiyatrosunun ilk açılış oyunu 19.12.1997 yılında Refik Erduran'ın yazdığı ve Tansu Aytar'ın yönettiği “Tamirci” adlı oyundur."
+        },
+        {
+            "id": "Konya#82",
+            "sentence": "___E:Şeb-i Arûs U:(https://tr.wikipedia.org/wiki/%C5%9Eeb-i_Ar%C3%BBs)___ lügat manası düğün gecesi demektir."
+        },
+        {
+            "id": "Konya#83",
+            "sentence": "Mevlânâ Celaleddin-i Rumi kendi ölümüne rabbine duyduğu aşktan dolayı sevgiliye kavuşma yani düğün gecesi demiştir."
+        },
+        {
+            "id": "Konya#84",
+            "sentence": "Mevlânâ Celaleddin-i Rumi'nin ölüm yıl dönümlerinde 17 Aralık tarihlerine denk gelen haftalarda yapılan ve \"Vuslat Yıldönümü Uluslararası Anma Törenleri\" olarak isimlendirilmeye başlanılan törenler, halk arasında Şeb-i Arus Şenlikleri olarak da anılmaktadır."
+        },
+        {
+            "id": "Konya#85",
+            "sentence": "İlk kez 2004 yılında düzenlenen Konya Uluslararası Mistik Müzik Festivali önceleri Aralık ayındaki Vuslat Yıldönümü Anma Törenleri (Şeb-i Arûs) kapsamında yer alırken, 2008 yılından beri Eylül ayında, kapanış gecesi 30 Eylül'e, yani Mevlâna'nın doğum gününe gelecek şekilde düzenlenmektedir."
+        },
+        {
+            "id": "Konya#86",
+            "sentence": "Bu uygulama ile Mevlâna'yı anma ve anlamaya yönelik yeni bir zaman dilimi oluşturulması hedeflenmekte, \"Konya Uluslararası Mistik Müzik Festivali\"nin dünyanın sayılı festivalleri arasına girmesi için yoğun gayret sarf edilmektedir."
+        },
+        {
+            "id": "Konya#87",
+            "sentence": "Dört yılda bir yapılan ve ilk oyunu 2005 yılında ___E:Cidde U:(https://tr.wikipedia.org/wiki/Cidde)___ , ___E:Suudi Arabistan U:(https://tr.wikipedia.org/wiki/Suudi_Arabistan)___ 'da düzenlenen ___E:İslami Dayanışma Oyunları U:(https://tr.wikipedia.org/wiki/%C4%B0slami_Dayan%C4%B1%C5%9Fma_Oyunlar%C4%B1)___ , 2021 yılında yapılacak olan oyunları Konya'da yapma kararı almış ancak 2021 yılında devam eden ___E:COVID-19 U:(https://tr.wikipedia.org/wiki/COVID-19)___ pandemisi sebebiyle 2022 Ağustos'unda 56 ülkeden 24 farklı branşta 4 binden fazla sporcunun katılımıyla gerçekleştirilmiştir."
+        },
+        {
+            "id": "Konya#88",
+            "sentence": "2009 yılında Konya'yı 1 milyon 717 bin 942 yerli ve yabancı turist ziyaret etti. Bu rakamın 1 milyon 338 bin 113'ünü yerli, 353 bin 233'ünü ise yabancı ziyaretçiler oluşturdu."
+        },
+        {
+            "id": "Konya#89",
+            "sentence": "Alâeddin Camii , 1220 yılında Konya'da ___E:Anadolu Selçuklu Devleti U:(https://tr.wikipedia.org/wiki/Anadolu_Sel%C3%A7uklu_Devleti)___ Sultanı ___E:I. Alaeddin Keykubad U:(https://tr.wikipedia.org/wiki/I._Al%C3%A2eddin_Keykubad)___ tarafından aynı adı taşıyan tepe üzerinde ( ___E:Alâeddin Tepesi U:(https://tr.wikipedia.org/wiki/Al%C3%A2eddin_Tepesi)___ ) inşa ettirilmiş cami."
+        },
+        {
+            "id": "Konya#90",
+            "sentence": "Sekiz Anadolu Selçuklu Sultanı burada gömülüdür."
+        },
+        {
+            "id": "Konya#91",
+            "sentence": "Alâeddin Tepesi, ___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___ 'nin Konya ilinin merkezine bağlı ___E:Karatay U:(https://tr.wikipedia.org/wiki/Karatay,_Konya)___ ilçesinde yer alan tepe. 450 x 350 metre boyunda olup, 20 metre yüksekliğinde olan tepe, ___E:höyük U:(https://tr.wikipedia.org/wiki/H%C3%B6y%C3%BCk)___ olarak adlandırılan protohistorik yerleşim yerlerinden biriydi."
+        },
+        {
+            "id": "Konya#92",
+            "sentence": "Mevlana Müzesi , Konya'da bulunan, eskiden ___E:Mevlâna U:(https://tr.wikipedia.org/wiki/Mevl%C3%A2n%C3%A2_Cel%C3%A2ledd%C3%AEn-i_R%C3%BBm%C3%AE)___ 'nın dergâhı olan yapı kompleksinde, 1926 yılından beri faaliyet gösteren müzedir. \"Mevlana Türbesi\" olarak da anılır."
+        },
+        {
+            "id": "Konya#93",
+            "sentence": "(Yeşil Kubbe) denilen Mevlana'nın türbesi dört fil ayağı (kalın sütun) üzerine yapılmıştır."
+        },
+        {
+            "id": "Konya#94",
+            "sentence": "O günden sonra yapı faaliyetler hiç bitmemiş, 19. yüzyılın sonuna kadar yapılan eklemelerle devam etmiştir."
+        },
+        {
+            "id": "Konya#95",
+            "sentence": "Osmanlı sultanlarının bir kısmının Mevlevi tarikatından olması Türbe'ye özel bir önem verilmesini ve iyi korunmasını sağlamıştır."
+        },
+        {
+            "id": "Konya#96",
+            "sentence": "Müze alanı bahçesi ile birlikte 6.500 m² iken, yeri istimlak edilerek Gül Bahçesi olarak düzenlenen bölümlerle birlikte 18.000 m²ye ulaşmıştır."
+        },
+        {
+            "id": "Konya#97",
+            "sentence": "Bağlı bulunduğu ___E:Kültür Bakanlığına U:(https://tr.wikipedia.org/wiki/K%C3%BClt%C3%BCr_ve_Turizm_Bakanl%C4%B1%C4%9F%C4%B1_(T%C3%BCrkiye))___ en çok gelir getiren ikinci müzedir. (Birinci ___E:Topkapı Sarayı U:(https://tr.wikipedia.org/wiki/Topkap%C4%B1_Saray%C4%B1)___ müzesi.)"
+        },
+        {
+            "id": "Konya#98",
+            "sentence": "Mevlana hakkında menkıbelerin anlatıldığı Ahmed Eflaki'nin kitabı \"Arifler'in Menkıbeleri\"nde  Mevlana'nın babası için türbe yaptırmak isteyen devrin sultanına \"gök kubbeden daha görkemlisini yapamayacağınıza göre zahmet etmeyin\" dediği rivayeti yer alır. Türbe, Mevlana'nın ölümünden sonra inşa edilmiştir."
+        },
+        {
+            "id": "Konya#99",
+            "sentence": "___E:Çatalhöyük U:(https://tr.wikipedia.org/wiki/%C3%87atalh%C3%B6y%C3%BCk)___ günümüz Konya Şehri'nin güneydoğusunda, ___E:Hasandağı U:(https://tr.wikipedia.org/wiki/Hasanda%C4%9F%C4%B1)___ 'nın yaklaşık olarak 136 kilometre uzağında, Konya Ovası'na hâkim buğdaylık arazide bulunmaktadır."
+        },
+        {
+            "id": "Konya#100",
+            "sentence": "Doğu yerleşimini, en son Cilalı Taş Devri sırasında ovadan 20 metre yüksekliğe kadar ulaşan bir yerleşim birimi oluşturmaktadır."
+        },
+        {
+            "id": "Konya#101",
+            "sentence": "Ayrıca, batıya doğru da ufak bir yerleşim birimi ve birkaç yüz metre doğuya doğru da bir ___E:Bizans U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu)___ yerleşimi bulunmaktadır."
+        },
+        {
+            "id": "Konya#102",
+            "sentence": "Kilistra eski adıyla Lystra Konya'nın Meram ilçesi sınırları içerisinde yer almaktadır."
+        },
+        {
+            "id": "Konya#103",
+            "sentence": "Eski adıyla Kilistra olarak anılan bu köyün günümüzdeki ismi Gökyurt'tur. Köy içerisinde eski kiliseler, büyük su sarnıçları, manastır, şapel, gözcü kuleleri, sığınaklar, antik yollar gibi eski yapılar yer almaktadır."
+        },
+        {
+            "id": "Konya#104",
+            "sentence": "Bu bölge Kapadokya'ya benzemekte ve oranın bir devamı olarak yerini korumaktadır."
+        },
+        {
+            "id": "Konya#105",
+            "sentence": "Bölgede erken Hristiyanlık döneminin tarihi yer almaktadır."
+        },
+        {
+            "id": "Konya#106",
+            "sentence": "Köyün kurulduğu bölge de yine, eski mağaralardan ve eski evlerden oluşmaktadır."
+        },
+        {
+            "id": "Konya#107",
+            "sentence": "2015 yılında ziyarete açılan Tropikal Kelebek Bahçesi Türkiye'nin ilk kelebek bahçesi ünvanına sahiptir. 7200m²'lik bir alanda yer almaktadır."
+        },
+        {
+            "id": "Konya#108",
+            "sentence": "Özel olarak tasarlanan bu bahçe cam fanus içerisine inşa edilmiştir."
+        },
+        {
+            "id": "Konya#109",
+            "sentence": "Ortamın sıcaklığı 28 °C ve %80 nem olarak sabit tutularak yapay bir tropikal yaşam alanı oluşturulmuştur."
+        },
+        {
+            "id": "Konya#110",
+            "sentence": "İçerisinde bu kelebeklerin uygun yaşayabilecekleri bir alan inşa edilmiştir."
+        },
+        {
+            "id": "Konya#111",
+            "sentence": "Aynı zamanda içerisinde tropikal bitki çeşitleri de bulunmaktadır."
+        },
+        {
+            "id": "Konya#112",
+            "sentence": "Bu bahçe çok sayıda çeşitli tropikal kelebeklere ev sahipliği yapmaktadır."
+        },
+        {
+            "id": "Konya#113",
+            "sentence": "Bunun yanı sıra arı ve böcek türlerini barındıran müze de bu bahçenin bir bölümünde yer almaktadır."
+        },
+        {
+            "id": "Konya#114",
+            "sentence": "Konya sanayisi günümüzde birçok sektörde üretim yaparak tarihsel olarak kullanılan tahıl ambarı kimliğinin yanına sanayi şehri kimliğini de eklemiştir."
+        },
+        {
+            "id": "Konya#115",
+            "sentence": "Konya'nın bir özelliği de; sanayisinin belli tür ürünlere dayalı olmayıp oldukça geniş bir sektörel alanda üretim yapmasıdır."
+        },
+        {
+            "id": "Konya#116",
+            "sentence": "Diğer bir ifade ile makine sanayisinden kimyaya, tekstilden otomotiv yedek parçaya, elektrik-elektronikten gıdaya, ambalajdan kâğıt sanayine kadar oldukça değişik üretim alanlarında faaliyet göstermektedir."
+        },
+        {
+            "id": "Konya#117",
+            "sentence": "Konya, 130 ülkeye ihracat yapmaktadır.  2013 rakamlarına göre Konya 1.3 Milyar $ ihracat yaparak Türkiye İhracatçılar Meclisine girmiştir."
+        },
+        {
+            "id": "Konya#118",
+            "sentence": "Konya'nın Türkiye'nin ticari faaliyetleri için etkisi büyüktür."
+        },
+        {
+            "id": "Konya#119",
+            "sentence": "Konya iç bölgelerdeki iller içerisinde önemli bir ___E:hinterland U:(https://tr.wikipedia.org/wiki/Hinterland)___ özelliğine sahiptir."
+        },
+        {
+            "id": "Konya#120",
+            "sentence": "Tarımsal üretim, sanayi faaliyetlerinin gelişmesi, nüfus potansiyeli ticaret faaliyetleri için burayı önemli bir pazar hâline getirmiştir."
+        },
+        {
+            "id": "Konya#121",
+            "sentence": "Türkiye'nin orta noktasında sayıldığından Türkiye'nin bütün illeri ile kolayca ticaret yapabilmektedir."
+        },
+        {
+            "id": "Konya#122",
+            "sentence": "Ayrıca Türkiye ekonomisine de büyük katkıda bulunur."
+        },
+        {
+            "id": "Konya#123",
+            "sentence": "Konya; ___E:Ankara U:(https://tr.wikipedia.org/wiki/Ankara_(il))___ , ___E:İstanbul U:(https://tr.wikipedia.org/wiki/%C4%B0stanbul_(il))___ , ___E:İzmir U:(https://tr.wikipedia.org/wiki/%C4%B0zmir_(il))___ , ___E:Eskişehir U:(https://tr.wikipedia.org/wiki/Eski%C5%9Fehir)___ ve ___E:Mersin U:(https://tr.wikipedia.org/wiki/Mersin)___ gibi birden fazla üniversiteye sahip olan illerdendir."
+        },
+        {
+            "id": "Konya#124",
+            "sentence": "Konya'da 3 adet devlet üniversitesi ve 2 adet vakıf üniversitesi bulunur."
+        },
+        {
+            "id": "Konya#125",
+            "sentence": "Karayoluyla, Ankara'ya 3, Antalya'ya 4, Eskişehir'e 5, İstanbul'a 9, Adana'ya 5 saat uzaklıktadır."
+        },
+        {
+            "id": "Konya#126",
+            "sentence": "___E:Polatlı – Konya yüksek hızlı demiryolu U:(https://tr.wikipedia.org/wiki/Polatl%C4%B1-Konya_y%C3%BCksek_h%C4%B1zl%C4%B1_demiryolu)___ hattının tamamlanmasıyla Ankara ve İstanbul'a ___E:Yüksek Hızlı Tren U:(https://tr.wikipedia.org/wiki/Y%C3%BCksek_H%C4%B1zl%C4%B1_Tren)___ ile ulaşım sağlanabilmektedir."
+        },
+        {
+            "id": "Konya#127",
+            "sentence": "Hızlı tren günümüzde Konya ile Ankara arasını 1 saat 45 dakikaya indirmiştir."
+        },
+        {
+            "id": "Konya#128",
+            "sentence": "Bu süre yeni trenlerin alımıyla 1 saat 30 dakikaya inecektir."
+        },
+        {
+            "id": "Konya#129",
+            "sentence": "Günlük iki yönlü 16 sefer ile şu an hizmettedir."
+        },
+        {
+            "id": "Konya#130",
+            "sentence": "İstanbul'dan başlayan tarihî ___E:Hicaz Demiryolu U:(https://tr.wikipedia.org/wiki/Hicaz_Demiryolu)___ hattı, şehir merkezinden geçmektedir."
+        },
+        {
+            "id": "Konya#131",
+            "sentence": "Günümüzde demiryolu ulaşımı bu hattan sağlanmaktadır."
+        },
+        {
+            "id": "Konya#132",
+            "sentence": "2000 yılında sivil hava trafiğine açılan ___E:Selçuklu U:(https://tr.wikipedia.org/wiki/Konya_Havaliman%C4%B1)___ ilçesi sınırları içinde bulunan ve 141.000 m²'lik alan üzerine kurulu olan ___E:Konya Havaalanı U:(https://tr.wikipedia.org/wiki/Konya_Havaliman%C4%B1)___ , DHMİ ile Türk Hava Kuvvetleri ortak yönetimindedir. 3. Ana Jet Üs Komutanlığı da burada bulunmaktadır."
+        },
+        {
+            "id": "Konya#133",
+            "sentence": "Alaaddin Tepesi ile ___E:Selçuk Üniversitesi U:(https://tr.wikipedia.org/wiki/Sel%C3%A7uk_%C3%9Cniversitesi)___ kampüsü arasındaki takriben 20 km'lik hatta, 60 tramvay vagonu ile 24 saat boyunca yolcu taşımacılığı yapılır."
+        },
+        {
+            "id": "Konya#134",
+            "sentence": "Eylül 2015'te Konya Büyükşehir Belediyesi tarafından yapımı tamamlanan Alaaddin-Adliye Tramvay Hattı ile iyileştirme çalışmaları tamamlanan mevcut Alaaddin-Selçuk Üniversitesi hattında tramvay seferleri başlamıştır.  19 Mart 2024 tarihinde Konya Büyükşehir Belediyesi tarafından ___E:Konya Büyükşehir Belediye Stadyumu U:(https://tr.wikipedia.org/wiki/Konya_B%C3%BCy%C3%BCk%C5%9Fehir_Belediye_Stadyumu)___ - Konya Şehir Hastanesi Tramvay Hattının yapılacağı duyurulmuştur. 30 Nisan 2024 tarihinde projenin 1. etabının temeli atılmasıyla projeye başlanmıştır."
+        },
+        {
+            "id": "Konya#135",
+            "sentence": "23 Nisan 2015'te başbakan Ahmet Davutoğlu Konya Dedeman Oteli'nde gerçekleşen proje tanıtım toplantısında, Konya tarihinde yapılacak en büyük ulaşım projesi olan metronun müjdesini verdi."
+        },
+        {
+            "id": "Konya#136",
+            "sentence": "Konya Metrosu 3 etapta, toplamda 44,7 kilometre olacak ve 3 milyar liraya mal olacak."
+        },
+        {
+            "id": "Konya#137",
+            "sentence": "Proje 2020 yılında tamamlanacak."
+        },
+        {
+            "id": "Konya#138",
+            "sentence": "Metro ile Yüksek Hızlı Tren hattı entegrasyonu sağlanacak."
+        },
+        {
+            "id": "Konya#139",
+            "sentence": "Etaplar halinde yapılacak projenin ilk etabı Kampüs-Alaaddin-Gar-Beyhekim arasında; 2. etabı Fetih Caddesi-Karatay'da, 3. etabı Necmettin Erbakan Üniversitesi-Çevre Yolu-Yeni Gar arasında olacak."
+        },
+        {
+            "id": "Konya#140",
+            "sentence": "10 Ekim 2015 tarihinde Ulaştırma, Denizcilik ve Haberleşme Bakanı Feridun Bilgin, Konya'nın dört bir yanını birbirine bağlayacak Konya Metrosu Projesi'ne ilişkin hazırlıkların tamamlandığını belirterek 13 Ekim'de etüt, proje ve mühendislik hizmetleri işi ihalesine çıkılacağını söyledi."
+        },
+        {
+            "id": "Konya#141",
+            "sentence": "Bu tarihte ihalesi yapılan Konya metrosu projesine ilişkin teklif veren 7 firmadan 4'üne teknik ve mali tekliflerini sunmaları için davet gönderildi."
+        }
+    ]
+}

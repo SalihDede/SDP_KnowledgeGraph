@@ -1,0 +1,41 @@
+{
+    "Title": "Söğütözü",
+    "Card": {
+        "Ülke": "___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___",
+        "Bölge": "___E:İç Anadolu U:(https://tr.wikipedia.org/wiki/%C4%B0%C3%A7_Anadolu_B%C3%B6lgesi)___",
+        "İl": "___E:Ankara U:(https://tr.wikipedia.org/wiki/Ankara_(il))___",
+        "İlçe": "___E:Çankaya U:(https://tr.wikipedia.org/wiki/%C3%87ankaya)___",
+        "Zaman dilimi": "___E:UTC+03.00 U:(https://tr.wikipedia.org/wiki/UTC%2B03.00)___ ( ___E:UDAS U:(https://tr.wikipedia.org/wiki/Uzak_Do%C4%9Fu_Avrupa_Saati)___ )",
+        "Alan kodu": "0312"
+    },
+    "Main": [
+        {
+            "id": "Söğütözü#1",
+            "sentence": "Söğütözü , ___E:Ankara U:(https://tr.wikipedia.org/wiki/Ankara)___ 'da, Eskişehir Yolu kenarından ___E:Atatürk Orman Çiftliği U:(https://tr.wikipedia.org/wiki/Atat%C3%BCrk_Orman_%C3%87iftli%C4%9Fi)___ arazisine kadar uzanan aynı isimli cadde boyunca yer alan semtin adıdır."
+        },
+        {
+            "id": "Söğütözü#2",
+            "sentence": "2000'li yıllarda pek çok kurum binası bu semtte yerini almıştır. ___E:Türkiye Noterler Birliği U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Noterler_Birli%C4%9Fi)___ , 2004 yılında inşa edilen ___E:TOBB Ekonomi ve Teknoloji Üniversitesi U:(https://tr.wikipedia.org/wiki/TOBB_Ekonomi_ve_Teknoloji_%C3%9Cniversitesi)___ , ___E:TOBB ETÜ Hastanesi U:(https://tr.wikipedia.org/wiki/TOBB_ET%C3%9C_Hastanesi)___ , 2005 yılında inşa edilen ___E:Çevre ve Orman Bakanlığı U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti_Tar%C4%B1m_ve_Orman_Bakanl%C4%B1%C4%9F%C4%B1)___ Merkez Binası, ___E:ATV U:(https://tr.wikipedia.org/wiki/ATV)___ Ankara temsilciliği, ___E:Habertürk U:(https://tr.wikipedia.org/wiki/Habert%C3%BCrk_(gazete))___ Ankara temsilciliği, ___E:Show TV U:(https://tr.wikipedia.org/wiki/Show_TV)___ Ankara temsilciliği, 1990'lı yıllarda inşa edilen ___E:Ankara Ticaret Odası U:(https://tr.wikipedia.org/wiki/Ankara_Ticaret_Odas%C4%B1)___ , 2000'li yıllarda inşa edilen ___E:Armada alışveriş merkezi U:(https://tr.wikipedia.org/wiki/Armada_al%C4%B1%C5%9Fveri%C5%9F_merkezi)___ , Next Level alışveriş merkezi, Via Life Fashion Outlet, Gazi Orduevi, Gazi Anadolu Lisesi, ___E:AK Parti U:(https://tr.wikipedia.org/wiki/Adalet_ve_Kalk%C4%B1nma_Partisi)___ ve ___E:CHP U:(https://tr.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi)___ Merkez Binaları gibi birçok önemli bina bu semtte bulunmaktadır."
+        },
+        {
+            "id": "Söğütözü#3",
+            "sentence": "Söğütözü'nün özellikle son 5 yılda geçirmiş olduğu değişim çok dikkat çekicidir."
+        },
+        {
+            "id": "Söğütözü#4",
+            "sentence": "Bu süreçte Söğütözü birçok prestijli projeye kavuşmuş çok sayıda yüksek yapılarla çevrelenmiştir."
+        },
+        {
+            "id": "Söğütözü#5",
+            "sentence": "Biten ve hâlen devam etmekte olan plaza ve gökdelen projeleriyle Ankara'nın iş hayatına merkez olmaya aday bir semttir."
+        },
+        {
+            "id": "Söğütözü#6",
+            "sentence": "Söğütözü son 5-10 yılda Ankara'da yaşanan değişimin en iyi gözlemlenebildiği yerlerin başında gelmektedir."
+        },
+        {
+            "id": "Söğütözü#7",
+            "sentence": "Eskişehir Yolu gibi gözde bir aksın merkezinde yer alan semt, 5 ve 7 yıldızlı lüks otel ve konut projeleriyle, kongre merkezleriyle, çok sayıda özel hastanesiyle, alışveriş merkezleri, üniversiteler ve outlet merkezleriyle çok hızlı bir gelişim göstermiştir."
+        }
+    ]
+}

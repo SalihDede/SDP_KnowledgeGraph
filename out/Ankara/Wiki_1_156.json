@@ -1,0 +1,2017 @@
+{
+    "Title": "Bizans İmparatorluğu",
+    "Card": {
+        "Tür": "___E:İdari U:(https://tr.wikipedia.org/wiki/%C4%B0dari_b%C3%B6l%C3%BCm)___ ___E:mutlak otokrasi U:(https://tr.wikipedia.org/wiki/Otokrasi)___",
+        "Başkent": "___E:Konstantinopolis U:(https://tr.wikipedia.org/wiki/Konstantinopolis)___ (günümüz İstanbul'u)",
+        "Sürgündeki başkent": "___E:Nikaia U:(https://tr.wikipedia.org/wiki/Nikaia)___ (günümüz İznik'i)",
+        "Yaygın dil(ler)": "___E:Geç Latince U:(https://tr.wikipedia.org/wiki/Ge%C3%A7_Latince)___ ve ___E:Orta Çağ Yunancası U:(https://tr.wikipedia.org/wiki/Orta_%C3%87a%C4%9F_Yunancas%C4%B1)___",
+        "Resmî din": "___E:Hristiyanlık U:(https://tr.wikipedia.org/wiki/Hristiyanl%C4%B1k)___",
+        "Demonim": "___E:Romalı U:(https://tr.wikipedia.org/wiki/Roma_%C4%B0mparatorlu%C4%9Fu)___ , ___E:Bizans Rumu U:(https://tr.wikipedia.org/wiki/Bizans_Rumlar%C4%B1)___",
+        "İmparator": "",
+        "• 306-337": "___E:I. Konstantin U:(https://tr.wikipedia.org/wiki/I._Konstantin)___ (İlk)",
+        "• 408-450": "___E:II. Theodosius U:(https://tr.wikipedia.org/wiki/II._Theodosius)___",
+        "• 474-475, 476-491": "___E:Zeno Perpetuus U:(https://tr.wikipedia.org/wiki/Zeno_(imparator))___",
+        "• 527-565": "___E:I. Justinianus U:(https://tr.wikipedia.org/wiki/I._Justinianus)___",
+        "• 582-602": "___E:Mauricius Tiberius U:(https://tr.wikipedia.org/wiki/Mauricius)___",
+        "• 610-641": "___E:Herakleios U:(https://tr.wikipedia.org/wiki/Herakleios)___",
+        "• 717-741": "___E:III. Leon U:(https://tr.wikipedia.org/wiki/III._Leon)___",
+        "• 797-802": "___E:İrini Sarantapechaina U:(https://tr.wikipedia.org/wiki/%C4%B0rini_(Bizans_imparatori%C3%A7esi))___",
+        "• 867-886": "___E:I. Basileios U:(https://tr.wikipedia.org/wiki/I._Basileios)___",
+        "• 976-1025": "___E:II. Basileios U:(https://tr.wikipedia.org/wiki/II._Basileios)___",
+        "• 1081-1118": "___E:I. Aleksios U:(https://tr.wikipedia.org/wiki/I._Aleksios)___",
+        "• 1143-1180": "___E:I. Manuil U:(https://tr.wikipedia.org/wiki/I._Manuil)___",
+        "• 1261-1282": "___E:VIII. Mihail U:(https://tr.wikipedia.org/wiki/VIII._Mihail)___",
+        "• 1449-1453": "___E:XI. Konstantinos U:(https://tr.wikipedia.org/wiki/XI._Konstantinos)___ (Son)",
+        "Tarihçe": "",
+        "• Kuruluşu": "395",
+        "•I. Theodosius'un ölümünden sonra Doğu-Batı olarak nihai bölünme": "17 Ocak 395",
+        "•Batı Roma İmparatorluğu'nun çöküşü": "4 Eylül 476",
+        "•Dördüncü Haçlı Seferi; Katolik Haçlılar tarafındanLatin İmparatorluğu'nun kurulması": "12 Nisan 1204",
+        "•VIII. Mihailtarafından Konstantinopolis'in tekrar alınması": "25 Temmuz 1261",
+        "•Konstantinopolis'in düşüşü": "29 Mayıs 1453",
+        "• 457": "16.000.000",
+        "• 565": "26.000.000",
+        "• 775": "7.000.000",
+        "• 1025": "12.000.000",
+        "• 1320": "2.000.000",
+        "Para birimi": "___E:Solidus U:(https://tr.wikipedia.org/wiki/Solidus)___ , ___E:denarius U:(https://tr.wikipedia.org/wiki/Denarius)___ ve ___E:hyperpyron U:(https://tr.wikipedia.org/wiki/Hyperpyron)___"
+    },
+    "Main": [
+        {
+            "id": "Bizans İmparatorluğu#1",
+            "sentence": "Bizans İmparatorluğu veya Doğu Roma İmparatorluğu ya da kısaca Bizans , ___E:Geç Antik Çağ U:(https://tr.wikipedia.org/wiki/Ge%C3%A7_Antik_%C3%87a%C4%9F)___ ve ___E:Orta Çağ U:(https://tr.wikipedia.org/wiki/Orta_%C3%87a%C4%9F)___ boyunca ___E:Roma İmparatorluğu U:(https://tr.wikipedia.org/wiki/Roma_%C4%B0mparatorlu%C4%9Fu)___ 'nun devamı şeklinde var olan ve başkenti ___E:Konstantinopolis U:(https://tr.wikipedia.org/wiki/Konstantinopolis)___ (günümüzde ___E:İstanbul U:(https://tr.wikipedia.org/wiki/%C4%B0stanbul)___ , önceleri ___E:Byzantion U:(https://tr.wikipedia.org/wiki/Bizantion)___ ) olan ülke. ___E:5. yüzyılda U:(https://tr.wikipedia.org/wiki/5._y%C3%BCzy%C4%B1l)___ ___E:Batı Roma İmparatorluğu'nun dağılışı ve çöküşü U:(https://tr.wikipedia.org/wiki/Bat%C4%B1_Roma_%C4%B0mparatorlu%C4%9Fu%27nun_%C3%A7%C3%B6k%C3%BC%C5%9F%C3%BC)___ sürecinden sonra ayakta kalan imparatorluk, 1453'te ___E:Osmanlı U:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)___ 'ya yenik düşünceye kadar yaklaşık bin yıl boyunca var olmaya devam etmiştir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#2",
+            "sentence": "Var olduğu sürenin başı ve ortalarını kapsayan çoğunda, ___E:Avrupa U:(https://tr.wikipedia.org/wiki/Avrupa)___ 'da ___E:ekonomik U:(https://tr.wikipedia.org/wiki/Ekonomi)___ , ___E:kültürel U:(https://tr.wikipedia.org/wiki/K%C3%BClt%C3%BCr)___ ve ___E:askerî U:(https://tr.wikipedia.org/wiki/Askeriye)___ bakımdan en güçlü ülkeydi. \"Bizans İmparatorluğu\" ve \"Doğu Roma İmparatorluğu\" terimleri ülkenin yıkılışından sonraki tarihçiler tarafından yaratılmış olup imparatorluk vatandaşları kendi ülkelerine Roma İmparatorluğu ( ___E:Grekçe U:(https://tr.wikipedia.org/wiki/Grek%C3%A7e)___ : Βασιλεία τῶν Ῥωμαίων , ___E:tr. U:(https://tr.wikipedia.org/wiki/Yunancan%C4%B1n_romanizasyonu)___ Basileia tôn Rhōmaiōn ; ___E:Latince U:(https://tr.wikipedia.org/wiki/Latince)___ : Imperium Romanum ),  veya Romania ( ___E:Grekçe U:(https://tr.wikipedia.org/wiki/Grek%C3%A7e)___ : Ῥωμανία , Rhomania ); kendilerineyse \"Romalılar\" demekteydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#3",
+            "sentence": "___E:4. yüzyıldan U:(https://tr.wikipedia.org/wiki/4._y%C3%BCzy%C4%B1l)___ ___E:6. yüzyıla U:(https://tr.wikipedia.org/wiki/6._y%C3%BCzy%C4%B1l)___ kadar yaşanan bazı göze çarpan olaylar, Roma İmparatorluğu'nun ___E:Grek U:(https://tr.wikipedia.org/wiki/Yunanlar)___ ___E:Doğu U:(https://tr.wikipedia.org/wiki/Bizans_imparatorlar%C4%B1_listesi)___ ve ___E:Latin U:(https://tr.wikipedia.org/wiki/Latinler)___ ___E:Batı U:(https://tr.wikipedia.org/wiki/Bat%C4%B1_Roma_%C4%B0mparatorlu%C4%9Fu)___ şeklinde ayrışma sürecini belirledi. ___E:I. Konstantin U:(https://tr.wikipedia.org/wiki/I._Konstantin)___ ( h. 324-337 ) imparatorluğu yeniden organize ederek ___E:Konstantinopolis U:(https://tr.wikipedia.org/wiki/Konstantinopolis)___ 'i başkent yaptı ve ___E:Hristiyanlık U:(https://tr.wikipedia.org/wiki/Hristiyanl%C4%B1k)___ dinini yasallaştırdı. ___E:I. Theodosius U:(https://tr.wikipedia.org/wiki/I._Theodosius)___ ( h. 379-395 ) döneminde, Hristiyanlık ülkenin ___E:devlet dini U:(https://tr.wikipedia.org/wiki/Devlet_dini)___ olarak kabul edildi ve diğer dinler yasaklandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#4",
+            "sentence": "Son olarak ___E:Herakleios U:(https://tr.wikipedia.org/wiki/Herakleios)___ zamanında ( h. 610-641 ), imparatorluğun askerî ve idari sistemi yeniden yapılandırıldı ve Latince yerine Yunanca resmî dil olarak benimsendi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#5",
+            "sentence": "Böylece, her ne kadar Roma devleti ve devlet gelenekleri sürdürüldüyse de, Konstantinopolis çevresinde, Latin'den ziyade Yunan kültürü ve ___E:Ortodoks Hristiyanlık U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Ortodoks_Kilisesi)___ geleneklerine göre şekillendiğinden ötürü, modern tarihçiler Bizans'ı ___E:Antik Roma U:(https://tr.wikipedia.org/wiki/Antik_Roma)___ 'dan ayırır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#6",
+            "sentence": "İmparatorluğun sınırları, ülkenin var olduğu süre içinde, bazı gerileme ve toparlanma döngüleriyle kendini belli eden kayda değer değişiklikler gösterdi. ___E:I. Justinianus U:(https://tr.wikipedia.org/wiki/I._Justinianus)___ ( h. 527-565 ) döneminde Kuzey Afrika, İtalya ve bizzat –daha sonraki iki asır elde tutulacak olan– Roma şehri de dahil olmak üzere Batı ___E:Akdeniz kıyıları U:(https://tr.wikipedia.org/wiki/Akdeniz)___ yeniden ele geçirildi ve imparatorluk en geniş sınırlarına erişti. ___E:Mauricius U:(https://tr.wikipedia.org/wiki/Mauricius)___ ( h. 582-602 ) döneminde ülkenin doğu sınırları genişledi ve kuzey sağlamlaştırıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#7",
+            "sentence": "Ancak imparator bir suikaste kurban gidince ___E:Bizans-Sasani Savaşı (602-628) U:(https://tr.wikipedia.org/wiki/Bizans-Sasani_Sava%C5%9F%C4%B1_(602-628))___ patlak verdi ve kaynaklar bakımından zayıflayan Bizans İmparatorluğu, 7. yüzyılda ___E:İslam'ın yayılışı U:(https://tr.wikipedia.org/wiki/%C4%B0slam%27%C4%B1n_yay%C4%B1l%C4%B1%C5%9F%C4%B1)___ sürecinde çok büyük toprak kayıpları yaşadı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#8",
+            "sentence": "Birkaç yıl içerisinde en zengin illeri olan Mısır ve Suriye'yi Araplara kaybetti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#9",
+            "sentence": "___E:Makedon Hanedanı U:(https://tr.wikipedia.org/wiki/Makedon_Hanedan%C4%B1)___ (10-11. yüzyıllar) süresince imparatorluk sınırları tekrar genişledi ve iki yüzyıl süren ___E:Makedon Rönesansı U:(https://tr.wikipedia.org/wiki/Makedon_R%C3%B6nesans%C4%B1)___ yaşandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#10",
+            "sentence": "Bu dönem 1071 ___E:Malazgirt Savaşı U:(https://tr.wikipedia.org/wiki/Malazgirt_Meydan_Muharebesi)___ sonrası ___E:Anadolu U:(https://tr.wikipedia.org/wiki/Anadolu)___ 'da başlayan büyük toprak kayıplarıyla son buldu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#11",
+            "sentence": "Bu savaşta yaşanan kayıp sonucunda Türkler Anadolu'ya yerleşmeye başladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#12",
+            "sentence": "___E:Komninos Restorasyonu U:(https://tr.wikipedia.org/wiki/Komninos_Restorasyonu)___ sırasında imparatorluk yeniden toparlandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#13",
+            "sentence": "Öyle ki, 12. yüzyılda Konstantinopolis Avrupa'nın en zengin şehriydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#14",
+            "sentence": "Ancak 1204'te ___E:Dördüncü Haçlı Seferi U:(https://tr.wikipedia.org/wiki/D%C3%B6rd%C3%BCnc%C3%BC_Ha%C3%A7l%C4%B1_Seferi)___ sırasında başkent yağmalanınca ve ülke toprakları birbiriyle yarışan Bizanslı Yunan ve ___E:Latin krallıkları U:(https://tr.wikipedia.org/wiki/Frankokrasi)___ arasında ___E:bölüştürülünce U:(https://tr.wikipedia.org/wiki/Partitio_terrarum_imperii_Romaniae)___ imparatorluk büyük bir darbe aldı. Her ne kadar 1261'de ___E:Konstantinopolis geri alınıp toparlansa da U:(https://tr.wikipedia.org/wiki/Paleologos_Hanedan%C4%B1)___ , Bizans İmparatorluğu var olduğu son iki yüzyıl boyunca bölgede birbiriyle kapışan birkaç devletçikten biri olarak kaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#15",
+            "sentence": "Geriye kalan toprakları 15. yüzyıl boyunca ___E:Osmanlılar tarafından aşama aşama fethedildi U:(https://tr.wikipedia.org/wiki/Bizans-Osmanl%C4%B1_sava%C5%9Flar%C4%B1)___ . 1453'te ___E:Osmanlı İmparatorluğu U:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)___ ___E:Konstantinopolis'i fethedince U:(https://tr.wikipedia.org/wiki/%C4%B0stanbul%27un_Fethi)___ Bizans İmparatorluğu sona erdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#16",
+            "sentence": "___E:Roma İmparatorluğu U:(https://tr.wikipedia.org/wiki/Roma_%C4%B0mparatorlu%C4%9Fu)___ 'nun son dönemlerinden bahsetmek üzere \"Bizans\" sözcüğünün ilk kullanımı, 1557'de Alman tarihçi ___E:Hieronymus Wolf U:(https://tr.wikipedia.org/wiki/Hieronymus_Wolf)___ 'un tarih kaynakları koleksiyonu Corpus Historiæ Byzantinæ 'ye dayanır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#17",
+            "sentence": "Terim, kaynağını Konstantin'in başkenti Konstantinopolis olarak adlandırmasından önce şehrin ismi olan \"Byzantion\"dan alır. Şehrin bu eski adı, Konstantin'den sonra tarihi ve edebi kaynaklar dışında hemen hemen hiç kullanılmaz. 1648'de Byzantine du Louvre ( Corpus Scriptorum Historiae Byzantinae ) ve 1680'de ___E:Du Cange U:(https://tr.wikipedia.org/wiki/Charles_du_Fresne,_sieur_du_Cange)___ 'ın Historia Byzantina eserleri yayımlanınca, \"Bizans\" terimi ___E:Montesquieu U:(https://tr.wikipedia.org/wiki/Montesquieu)___ gibi Fransız yazarları arasında popülerlik elde etti.  Ancak terim, Batı dünyasında 19. yüzyıl ortalarına kadar genel bir kabullenim görmedi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#18",
+            "sentence": "Bizans İmparatorluğu, kendi halkı tarafından \"Roma İmparatorluğu\", \"Romalıların İmparatorluğu\" (Latince: Imperium Romanum , Imperium Romanorum ; Yunanca: ___E:Grekçe U:(https://tr.wikipedia.org/wiki/Grek%C3%A7e)___ : Βασιλεία τῶν Ῥωμαίων Basileia tōn Rhōmaiōn , ___E:Grekçe U:(https://tr.wikipedia.org/wiki/Grek%C3%A7e)___ : Ἀρχὴ τῶν Ῥωμαίων Archē tōn Rhōmaiōn ), \"Romania\" (Latince: Romania ; Yunanca: ___E:Grekçe U:(https://tr.wikipedia.org/wiki/Grek%C3%A7e)___ : Ῥωμανία Rhōmania ), [n 1] \"Roma Cumhuriyeti\" (Latince: Res Publica Romana ; Yunanca: ___E:Grekçe U:(https://tr.wikipedia.org/wiki/Grek%C3%A7e)___ : Πολιτεία τῶν Ῥωμαίων Politeia tōn Rhōmaiōn ), Graikia (Yunanca: Γραικία) ve ayrıca Rhōmais (Yunanca: ___E:Grekçe U:(https://tr.wikipedia.org/wiki/Grek%C3%A7e)___ : Ῥωμαΐς ) gibi adlarla ifade ediliyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#19",
+            "sentence": "Vatandaşlar kendilerini Romaioi ve Graikoi şeklinde adlandırıyorlardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#20",
+            "sentence": "Öyle ki, 19. yüzyıl gibi geç bir döneme kadar Rumlar sıklıkla kendi ana dillerini Romaika ve Graikika şeklinde tanımlamaktaydı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#21",
+            "sentence": "Her ne kadar Bizans İmparatorluğu, tarihi boyunca çoklu bir etnik karaktere sahip olsa da  ve ___E:Romano-Hellenistik U:(https://tr.wikipedia.org/wiki/Greko-Romen)___ geleneklerini sürdürüp korusa da,  döneminin batılı ve kuzeyli çağdaşları tarafından, sürekli artan ___E:Yunan bileşenleriyle U:(https://tr.wikipedia.org/wiki/Bizans_Rumlar%C4%B1)___ tanımlandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#22",
+            "sentence": "Bizans İmparatorluğu'nu Roma İmparatorluğu'nun prestijinden ayrı tutmak amacıyla batının yeni krallıkları arasında  kullanılan \"Grek (Yunan) İmparatorluğu\" (Latince: Imperium Graecorum ) ve \"Grek -Yunan- İmparatoru\" ( Imperator Graecorum ) gibi terimlere ara sıra rastlanılmaktadır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#23",
+            "sentence": "Bizans imparatorunun meşru Roma imparatoru olmasına yönelik otoritesi, Papa ___E:III. Leo U:(https://tr.wikipedia.org/wiki/III._Leo)___ 800 yılında ___E:Şarlman U:(https://tr.wikipedia.org/wiki/%C5%9Earlman)___ 'ı ___E:Imperator Augustus U:(https://tr.wikipedia.org/wiki/Kutsal_Roma_imparatorlar%C4%B1_listesi)___ olarak taçlandırınca sarsıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#24",
+            "sentence": "Roma'daki düşmanlarına karşı Şarlman'ın desteğine ihtiyaç duyan Leo, o sırada Roma İmparatorluğu tahtında bir erkeğin oturmayışı bahanesini kullanarak burada bir boşluğun bulunduğunu ve dolayısıyla kendinin herhangi bir imparatoru taçlandırabileceğini öne sürüyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#25",
+            "sentence": "Papalar ve batılı krallar Roman (Romalı) terimini Bizans imparatorları için kullandıkları zaman Imperator Romanorum (Türkçe: Romalıların imparatoru ) yerine Imperator Romaniae (Türkçe: Romania'nın imparatoru ) terimini kullanmayı tercih ettiler."
+        },
+        {
+            "id": "Bizans İmparatorluğu#26",
+            "sentence": "Bunlardan birincisi Şarlman ve ondan sonra gelenler için kullanılmaktaydı. [n 2]"
+        },
+        {
+            "id": "Bizans İmparatorluğu#27",
+            "sentence": "İslam ve Slav dünyasında böyle bir ayrım hiç olmamıştır ve Bizans, Roma İmparatorluğu'nun devamı olarak görülmüştür."
+        },
+        {
+            "id": "Bizans İmparatorluğu#28",
+            "sentence": "İslam dünyasında Roma İmparatorluğu birincil olarak Rûm şeklinde ifade edilmekteydi.  20. yüzyıla kadar ___E:Millet-i Rûm U:(https://tr.wikipedia.org/wiki/Millet-i_R%C3%BBm)___ veya \"Roma devleti\" terimleri Osmanlılar tarafından eski Bizans'a ait (Osmanlı toprakları içindeki ___E:Ortodoks Hristiyan U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Ortodoks_Kilisesi)___ topluluğu) kimseler için kullanılmıştır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#29",
+            "sentence": "___E:Roma ordusu U:(https://tr.wikipedia.org/wiki/Roma_ordusu)___ , ___E:Güneybatı Avrupa U:(https://tr.wikipedia.org/wiki/%C4%B0ber_Yar%C4%B1madas%C4%B1)___ ve Kuzey Afrika da dahil olmak üzere Akdeniz bölgesinin tamamını kaplayan birçok kıyı bölgesini ele geçirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#30",
+            "sentence": "Bu bölgeler hem kentsel hem de kırsal halklar barındıran farklı kültürel topluluklara aitti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#31",
+            "sentence": "Genel olarak, doğu illeri, batıdakilere göre daha kentleşmiş durumdaydı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#32",
+            "sentence": "Doğu illeri ___E:Makedonya İmparatorluğu U:(https://tr.wikipedia.org/wiki/Makedonya_(antik_krall%C4%B1k))___ altında daha önce birleştirilmiş ve Grek (Yunan) kültürü etrafında ___E:Helenleştirilmişti U:(https://tr.wikipedia.org/wiki/Helenle%C5%9Ftirme)___ ."
+        },
+        {
+            "id": "Bizans İmparatorluğu#33",
+            "sentence": "Batı, doğuya göre 3. yüzyılda yaşanan dengesizlikten çok daha ağır etkilendi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#34",
+            "sentence": "Yerleşik Helenleşmiş doğuyla daha genç Latinleşmiş batı arasındaki farklılık devam etti ve daha sonraki yüzyıllarda çok büyük bir önem arz etmeye başladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#35",
+            "sentence": "Bu iki dünya arasındaki uzaklaşma da böylece gerçekleşmiş oldu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#36",
+            "sentence": "Kontrolü sağlamak ve yönetimi iyileştirmek adına, 285-324, 337-350, 364-392 ve 395-480 yıl aralıklarında Roma imparatorunun işleri farklı kişilere dağıtıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#37",
+            "sentence": "Her ne kadar idari bölümlenmeler çeşit çeşit olsa da, genel olarak batı ve doğu arasında bir iş bölümünü içeriyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#38",
+            "sentence": "Her bir bölümlenme, bir güç paylaşımı (hatta iş paylaşımı) biçimindeydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#39",
+            "sentence": "Temel olarak imperium bölünmez olarak kabul edildiği için, parçalanmış bölümleri yöneten eş imparatorlar birbirlerini rakip hatta düşman olarak kabul etseler dahi, ülke en nihayetinde yasal bir bütündü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#40",
+            "sentence": "293'te imparator ___E:Diocletianus U:(https://tr.wikipedia.org/wiki/Diocletianus)___ yeni bir idari sistem oluşturdu ( ___E:tetrarşi U:(https://tr.wikipedia.org/wiki/Tetrar%C5%9Fi)___ ) ve böylece imparatorluğun tehlike altındaki bölgelerindeki güvenliği garantilemeye çalıştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#41",
+            "sentence": "Kendini bir eş imparatorla ( Augustus ) ilişkilendirdi ve her eş imparator bunun ardından Caesar lakaplı genç birer meslektaş edinerek yönetimi paylaştı ve bu genç imparatorlar daha sonra daha kıdemli olan meslektaşlarının yerini aldı. Ancak, 313'te tetrarşi çöktü ve birkaç yıl sonra ___E:I. Konstantin U:(https://tr.wikipedia.org/wiki/I._Konstantin)___ imparatorluğun iki idari bölgesini birleştirerek tek bir Augustus olarak başa geçti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#42",
+            "sentence": "330'da ___E:Büyük Konstantin U:(https://tr.wikipedia.org/wiki/I._Konstantin)___ , ___E:imparatorluğun merkezini U:(https://tr.wikipedia.org/wiki/H%C3%BCk%C3%BBmet_merkezi)___ Byzantion şehrinin bulunduğu yere ikinci bir Roma ( ___E:Nova Roma U:(https://tr.wikipedia.org/wiki/Nova_Roma)___ ) olarak kurduğu ___E:Konstantinopolis U:(https://tr.wikipedia.org/wiki/Konstantinopolis)___ 'e taşıdı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#43",
+            "sentence": "Şehir, Avrupa ve Asya ile Akdeniz ve Karadeniz arasındaki ticaret rotalarının üzerinde stratejik bir konumdaydı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#44",
+            "sentence": "Konstantin, imparatorluğun askerî, mali, sivil ve dinî kuruluşlarında önemli değişikliklere gitti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#45",
+            "sentence": "Özel olarak, sürdürdüğü ekonomik politikaları, bazı akademisyenler tarafından \"tedbirsiz maliye\" şeklinde tanımlanmaktadır, fakat bizzat kendinin ön ayak olduğu altın ___E:solidus U:(https://tr.wikipedia.org/wiki/Solidus)___ , istikrarlı bir para birimi olarak ekonomiyi dönüştürdü ve kalkınmayı teşvik etti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#46",
+            "sentence": "Konstantin döneminde Hristiyanlık devletin resmî bir dini olmadıysa da imparatorluk tercihi olmanın ayrıcalığını yaşadı, çünkü ___E:imparator bu dini bonkörce destekliyordu U:(https://tr.wikipedia.org/w/index.php?title=I._Konstantin_ve_Hristiyanl%C4%B1k&action=edit&redlink=1)___ ."
+        },
+        {
+            "id": "Bizans İmparatorluğu#47",
+            "sentence": "Konstantin, imparatorların dinî ilkeler üzerine sorgulama yapabilmesinin önüne geçen prensipler ortaya koydu ve imparatorlar artık bu iş için ___E:genel eklesiyastik konsillere U:(https://tr.wikipedia.org/wiki/Ek%C3%BCmenik_konsil)___ başvurmak zorundaydı. ___E:Arles Konsili U:(https://tr.wikipedia.org/w/index.php?title=Arles_Konsili&action=edit&redlink=1)___ ve ___E:Birinci İznik Konsili U:(https://tr.wikipedia.org/wiki/Birinci_%C4%B0znik_Konsili)___ 'ni toplaması, Konstantin'in kilisenin birliğine olan ilgisini ve kendinin bunun başında olma niyetini göstermektedir.  ___E:Çoktanrıcılığın U:(https://tr.wikipedia.org/wiki/Politeizm)___ ülke çapında yeniden canlanması için kararlı adımlarıyla bilinen ___E:Julianus U:(https://tr.wikipedia.org/wiki/Julianus)___ 361'de başa geçince, Hristiyanlık dininin yayılışı kesintiye uğradı ve imparator kilise tarafından \"Dönme Julianus\" olarak adlandırıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#48",
+            "sentence": "Bu süreç imparator 363'te bir savaşta öldürülünce bitti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#49",
+            "sentence": "___E:I. Theodosius U:(https://tr.wikipedia.org/wiki/I._Theodosius)___ (379-395), imparatorluğun doğusunu ve batısını beraber yöneten son imparatordu. 391 ve 392 yıllarında ___E:bir seri ferman vererek pagan dinin kökten yasakladı U:(https://tr.wikipedia.org/w/index.php?title=I._Theodosius_d%C3%B6neminde_Hristiyanl%C4%B1k_taraf%C4%B1ndan_paganizme_y%C3%B6nelik_zul%C3%BCm&action=edit&redlink=1)___ ."
+        },
+        {
+            "id": "Bizans İmparatorluğu#50",
+            "sentence": "Pagan festivalleri, kurbanları, pagan tapınaklarına ve ibadet mekanlarına girişler yasaklandı.  ___E:Olimpiyat Oyunları U:(https://tr.wikipedia.org/wiki/Antik_Olimpiyat_Oyunlar%C4%B1)___ 'nın sonuncusunun 393 yılında yapıldığına inanılmaktadır.  395'te ___E:I. Theodosius U:(https://tr.wikipedia.org/wiki/I._Theodosius)___ , imparatorluk makamını oğulları ___E:Arcadius U:(https://tr.wikipedia.org/wiki/Arcadius)___ (doğu) ve ___E:Honorius U:(https://tr.wikipedia.org/wiki/Honorius)___ (batı) arasında müştereken paylaştırarak idari yapılanmayı tekrar bölmüş oldu. 5. yüzyılda batının yaşadığı zorlukların pek çoğu doğuda kendini göstermedi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#51",
+            "sentence": "Bunun hatrı sayılır sebeplerinden biri doğuda daha gelişmiş kentsel bir kültürün oluşu ve daha zengin finansal kaynaklar sebebiyle düşmanların ___E:haraçlarla U:(https://tr.wikipedia.org/wiki/Hara%C3%A7)___ bastırılabilmesi ile paralı askerlerin tutulabilmesiydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#52",
+            "sentence": "Bu başarı ___E:II. Theodosius U:(https://tr.wikipedia.org/wiki/II._Theodosius)___ 'a ___E:Roma yasasının kanunlaştırılması U:(https://tr.wikipedia.org/wiki/Codex_Theodosianus)___ ve ___E:Konstantinopolis Surları U:(https://tr.wikipedia.org/wiki/Konstantinopolis_Surlar%C4%B1)___ 'na eklemeler yapılması gibi projelere odaklanmak için fırsat verdi ve şehir 1204'e kadar bütün saldırılara dayandı.  ___E:Theodosius Surları U:(https://tr.wikipedia.org/wiki/Konstantinopolis_Surlar%C4%B1)___ 'nın büyük kısmı günümüze ulaşmıştır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#53",
+            "sentence": "___E:Hunlar U:(https://tr.wikipedia.org/wiki/Hunlar)___ 'ı savuşturmak için, Theodosius ___E:Attila U:(https://tr.wikipedia.org/wiki/Attila)___ 'ya çok büyük miktarlarda yıllık haraç vermek zorunda kaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#54",
+            "sentence": "Kendinden sonra gelen ___E:Marcianus U:(https://tr.wikipedia.org/wiki/Marcianus)___ bu haracı vermeyi reddetse de, Attila zaten ilgisini çoktan ___E:Batı U:(https://tr.wikipedia.org/wiki/Bat%C4%B1_Roma_%C4%B0mparatorlu%C4%9Fu)___ 'ya yöneltmişti. 453'te Attila ölünce ___E:Hun İmparatorluğu U:(https://tr.wikipedia.org/wiki/Hun_%C4%B0mparatorlu%C4%9Fu)___ çöktü ve geriye kalan Hunlar'ın pek çoğu Konstantinopolis tarafından paralı asker olarak göreve alındı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#55",
+            "sentence": "Attila'nın vefatından sonra, Doğu İmparatorluğu barışçıl bir dönemin tadını çıkardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#56",
+            "sentence": "Ancak ___E:Batı İmparatorluğu U:(https://tr.wikipedia.org/wiki/Bat%C4%B1_Roma_%C4%B0mparatorlu%C4%9Fu%27nun_%C3%A7%C3%B6k%C3%BC%C5%9F%C3%BC)___ 'nda durum daha kötüye gidiyordu çünkü ___E:Cermen halklarının U:(https://tr.wikipedia.org/wiki/Cermanya)___ devamlı göçleri ve genişlemesi sürüyordu (bu ülkenin yıkılışı tam olarak Romalı Cermen general ___E:Odoacer U:(https://tr.wikipedia.org/wiki/Odoacer)___ 'in Batı Roma imparatoru ___E:Romulus Augustulus U:(https://tr.wikipedia.org/wiki/Romulus_Augustus)___ 'u görevden aldığı 476 yılına tekabül eder  )."
+        },
+        {
+            "id": "Bizans İmparatorluğu#57",
+            "sentence": "480 yılında Batı imparatoru ___E:Julius Nepos U:(https://tr.wikipedia.org/wiki/Julius_Nepos)___ 'un ölümüyle, Doğu imparatoru ___E:Zeno U:(https://tr.wikipedia.org/wiki/Zeno_(imparator))___ ülkenin tek otoritesi haline geldi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#58",
+            "sentence": "O sırada İtalya'nın hakimi olan Odoacer, sözde Zeno'nun astıydı ancak tam bir özerklikle hareket ediyordu ve sonunda da imparatora karşı beliren isyanlara destek sağladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#59",
+            "sentence": "Zeno, ___E:Moesia U:(https://tr.wikipedia.org/wiki/Mezya)___ 'ya yerleşmeye başlamış işgalci ___E:Ostrogotlar U:(https://tr.wikipedia.org/wiki/Ostrogotlar)___ ile anlaşmaya vardı ve Odoacer'den kurtulmak adına, Gotik kralı ___E:Teoderik U:(https://tr.wikipedia.org/wiki/Teoderik)___ 'i magister militum per Italiam (\"İtalya başkomutanı\") vasfıyla İtalya'ya yürümek üzere ikna etti. Teoderik İtalya'yı fethedince, Zeno Doğu İmparatorluğu'nu böylesi başa çıkılmaz bir asttan (Odoacer) kurtarmış ve bunu imparatorluğun kalbinden uzakta birini (Teoderik) göndererek yapmıştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#60",
+            "sentence": "Odoacer'in 493'teki yenilgisinden sonra Teoderik İtalya'yı fiilen yönettiyse de doğu imparatoru tarafından hiçbir zaman \"kral\" ( rex ) unvanıyla tanınmadı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#61",
+            "sentence": "491'de, Roma asıllı yaşlı kamu hizmet görevlisi olan ___E:I. Anastasius U:(https://tr.wikipedia.org/wiki/I._Anastasius)___ , imparator olduysa da yeni imparatorun askerî gücü ___E:İsaurya direnişine U:(https://tr.wikipedia.org/wiki/%C4%B0saurya_Sava%C5%9F%C4%B1)___ kadar kendini göstermedi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#62",
+            "sentence": "Anastasius, çalışkan bir reformcu ve iş bilir bir yönetici olarak kendini gösterdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#63",
+            "sentence": "I. Konstantin'in tedavüle soktuğu para sistemini mükemmelleştirdi ve günlük hayatta kullanılan bakır follis in ağırlığını net olarak ayarladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#64",
+            "sentence": "Bunun yanında vergi sistemi için reformlar getirdi ve ___E:khrisargiron U:(https://tr.wikipedia.org/wiki/Collatio_lustralis)___ vergisini kaldırdı. 518'de Anastasius öldüğünde, Devlet Hazinesi'nde 150 ton gibi devasa miktarda altın bulunmaktaydı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#65",
+            "sentence": "Jüstinyen Hanedanı, ___E:I. Justinus U:(https://tr.wikipedia.org/wiki/I._Justinus)___ ile başlar."
+        },
+        {
+            "id": "Bizans İmparatorluğu#66",
+            "sentence": "Okuma yazması olmadığı halde, askerî rütbe bakımından yükselerek 518'de imparator oldu.  Kendisini, 527'de kendi hükümdarlığı sırasında da muhtemelen özel yetkilere sahip olan yeğeni ___E:I. Justinianus U:(https://tr.wikipedia.org/wiki/I._Justinianus)___ izler.  ___E:Geç antik çağın U:(https://tr.wikipedia.org/wiki/Ge%C3%A7_Antik_%C3%87a%C4%9F)___ en önemli isimlerinden ve büyük ihtimalle Latinceyi anadili olarak konuşan son Roma imparatoru olan Justinianus,  nevi şahsına münhasır bir dönem dizayn etti. Bu dönemde hırslı fakat kısmen hayata geçirilmiş renovatio imperii veya \"İmparatorluğun restorasyonu\" ilkesi göze çarpar."
+        },
+        {
+            "id": "Bizans İmparatorluğu#67",
+            "sentence": "İmparatorun karısı ___E:Theodora U:(https://tr.wikipedia.org/wiki/Theodora_(I._Justinianus%27un_e%C5%9Fi))___ da yönetimde oldukça etkiliydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#68",
+            "sentence": "529'da Justinianus, ___E:Kapadokyalı İoannis U:(https://tr.wikipedia.org/wiki/Kapadokyal%C4%B1_%C4%B0oannis)___ tarafından yetki verilmiş on kişilik komisyon atayarak Roma yasalarını gözden geçirtti ve \" ___E:Corpus Juris Civilis U:(https://tr.wikipedia.org/wiki/Corpus_Iuris_Civilis)___ \" adıyla bilinen yasaları ve hukukçu alıntılarını kanunlaştırdı. 534'te Corpus güncellendi ve ___E:Justinianus tarafından 534'ten sonra konulan yasalar U:(https://tr.wikipedia.org/wiki/Novellae_Constitutiones)___ ile beraber, geriye kalan Bizans döneminin hukuk sistemi büyük ölçüde çizilmiş oldu.  Corpus , birçok modern devletin ___E:hukuk düzeninin U:(https://tr.wikipedia.org/wiki/Kara_Avrupas%C4%B1_hukuk_d%C3%BCzeni)___ temelini oluşturur."
+        },
+        {
+            "id": "Bizans İmparatorluğu#69",
+            "sentence": "532'de, Justinianus doğu sınırlarını güvenceye almak adına ___E:I. Hüsrev U:(https://tr.wikipedia.org/wiki/I._H%C3%BCsrev)___ ile antlaşma imzaladı ve ___E:Sasaniler U:(https://tr.wikipedia.org/wiki/Sasani_%C4%B0mparatorlu%C4%9Fu)___ 'e yıllık büyük haraçlar vermeye razı oldu. Aynı yıl Konstantinopolis'te büyük bir ayaklanmadan daha da güçlenerek sağ kurtuldu ( ___E:Nika ayaklanması U:(https://tr.wikipedia.org/wiki/Nika_Ayaklanmas%C4%B1)___ ) fakat bu olay sonunda imparatorun emriyle 30 ila 35 bin insan öldürüldü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#70",
+            "sentence": "Justinianus, 533'te batı fetihlerini, generali ___E:Belisarius U:(https://tr.wikipedia.org/wiki/Belisarius)___ 'u, 429'dan beri, başkenti ___E:Kartaca U:(https://tr.wikipedia.org/wiki/Kartaca)___ ile birlikte ___E:Vandallar U:(https://tr.wikipedia.org/wiki/Vandallar)___ 'ın hakimiyeti altında olan ___E:Afrika U:(https://tr.wikipedia.org/wiki/Afrika_(eyalet))___ eyaletini tekrar ele geçirmek üzere gönderdiğinde başlatmış oldu.  Bu fetihler beklenmedik bir kolaylıkla kazanılsa da, 548'e kadar büyük yerel kabileler bastırılamadı.  ___E:Ostrogot İtalya'sında U:(https://tr.wikipedia.org/wiki/Ostrogot_Krall%C4%B1%C4%9F%C4%B1)___ Teoderik, onun yeğeni, varisi ___E:Athalarik U:(https://tr.wikipedia.org/wiki/Athalarik)___ ve kızı ___E:Amalasuintha U:(https://tr.wikipedia.org/wiki/Amalasuintha)___ ölünce, Amalasuintha'nın katili ___E:Theodahad U:(https://tr.wikipedia.org/wiki/Theodahad)___ ( h. 534-536 ) başa geçti fakat bu yeni otorite daha güçsüzdü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#71",
+            "sentence": "535'te ___E:Sicilya U:(https://tr.wikipedia.org/wiki/Sicilya)___ 'ya yapılan bir Bizans seferi kolayca başarıya ulaştıysa da, Gotlar direnişlerini güçlendirdiler ve Belisarius'un başarılı ___E:Napoli U:(https://tr.wikipedia.org/wiki/Napoli)___ ve ___E:Roma U:(https://tr.wikipedia.org/wiki/Roma)___ kuşatmaları sonucunda ___E:Ravenna U:(https://tr.wikipedia.org/wiki/Ravenna)___ 'yı ele geçirdiği 540'a kadar herhangi bir zafer elde edilmedi.  535–536'da Theodahad, Papa ___E:I. Agapetus U:(https://tr.wikipedia.org/wiki/I._Agapetus)___ 'u Konstantinopolis'e göndererek Bizans güçlerinin Sicilya, ___E:Dalmaçya U:(https://tr.wikipedia.org/wiki/Dalma%C3%A7ya_(eyalet))___ ve İtalya'dan çekilmesini rica etti. Her ne kadar Agapetus, Justinianus'la barış imzalama görevinde başarılı olamasa da, ___E:Theodora U:(https://tr.wikipedia.org/wiki/Theodora_(I._Justinianus%27un_e%C5%9Fi))___ 'nın tüm desteğine ve korumasına rağmen ___E:Monofizit U:(https://tr.wikipedia.org/wiki/Monofizitizm)___ ___E:I. Anthimos U:(https://tr.wikipedia.org/wiki/I._Anthimos)___ kınandı ve en azından bu konuda başarılı olmuş oldu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#72",
+            "sentence": "Ostrogotlar kısa sürede Kral ___E:Totila U:(https://tr.wikipedia.org/wiki/Totila)___ komutası altında birleşerek ___E:Roma'yı 546'da ele geçirdi. U:(https://tr.wikipedia.org/wiki/Roma%27n%C4%B1n_Ya%C4%9Fmalanmas%C4%B1_(546))___ 544'te İtalya'ya gönderilmiş olan Belisarius, sonunda 549'da Konstantinopolis'e geri çağrıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#73",
+            "sentence": "Ermeni hadımı ___E:Narses U:(https://tr.wikipedia.org/wiki/Narses)___ 'in İtalya'ya 35.000 kişilik bir orduyla varışı (551 sonu), Gotik geleceğinde yeni bir yön çizdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#74",
+            "sentence": "Totila, ___E:Taginae Muharebesi U:(https://tr.wikipedia.org/wiki/Taginae_Muharebesi)___ 'nde yenildi; ondan sonra gelen ___E:Teya U:(https://tr.wikipedia.org/wiki/Teya)___ 'da ___E:Mons Lactarius Savaşı U:(https://tr.wikipedia.org/wiki/Mons_Lactarius_Muharebesi)___ 'nda (Ekim 552) yenik düştü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#75",
+            "sentence": "Birkaç Gotik garnizonunda devam eden direnişe ve ___E:Franklar U:(https://tr.wikipedia.org/wiki/Franklar)___ ve ___E:Alamanlar U:(https://tr.wikipedia.org/wiki/Alamanlar)___ 'ın ardışık işgallerine rağmen İtalyan yarımadası için yapılan savaş sona erdi.  551'de, ___E:Vizigot U:(https://tr.wikipedia.org/wiki/Vizigotlar)___ ___E:Hispania U:(https://tr.wikipedia.org/wiki/Hispania)___ 'sından bir asil olan ___E:Athanagild U:(https://tr.wikipedia.org/wiki/Athanagild)___ , Justinianus'tan krala karşı yaptıkları ayaklanma için yardım istedi ve imparator başarılı bir komutan olan ___E:Liberius U:(https://tr.wikipedia.org/wiki/Liberius_(praefectus_praetorio))___ 'un altında bir birliği onlara gönderdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#76",
+            "sentence": "Böylece Bizans, Herakleios dönemine kadar ___E:İber Yarımadası U:(https://tr.wikipedia.org/wiki/Spania)___ 'nda bir sahil kesimini elinde tuttu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#77",
+            "sentence": "Doğuda Roma-Pers savaşları 561'de Justinianus ile Hüsrev'in elçilerinin elli yıllık bir barış imzalamasına kadar sürdü.  550'lerin ortalarına doğru Justinianus, ___E:Balkanlar U:(https://tr.wikipedia.org/wiki/Balkanlar)___ haricinde savaştığı pek çok cephede galibiyet kazanmıştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#78",
+            "sentence": "Balkanlar'da ___E:Slavlar U:(https://tr.wikipedia.org/wiki/Slavlar)___ ve ___E:Gepidler U:(https://tr.wikipedia.org/wiki/Gepidler)___ sürekli akınlarına devam ediyordu. ___E:Sırplar U:(https://tr.wikipedia.org/wiki/S%C4%B1rplar)___ ve ___E:Hırvatlar U:(https://tr.wikipedia.org/wiki/H%C4%B1rvatlar)___ 'ın dahil olduğu kabileler Herakleios döneminde Balkanlar'ın kuzeybatısına yerleştirildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#79",
+            "sentence": "Justinianus, Belisarius'u emekliliğinden geri çağırdı ve yeni Hun tehlikesini bertaraf etti. Tuna Nehri donanmalarının güçlendirilmesi, ___E:Kutrigur U:(https://tr.wikipedia.org/wiki/Kutrigurlar)___ Hunları'nın geri çekilmesine ve Tuna'nın gerisine güvenli geçişleri garantileyen bir antlaşma imzalanmasına yol açtı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#80",
+            "sentence": "Her ne kadar ___E:çoktanrıcılık U:(https://tr.wikipedia.org/wiki/%C3%87oktanr%C4%B1c%C4%B1l%C4%B1k)___ 4. yüzyıldaki Konstantin zamanından beri ___E:devlet tarafından bastırılmış olsa da U:(https://tr.wikipedia.org/w/index.php?title=Greko-Romen_%C3%A7oktanr%C4%B1c%C4%B1l%C4%B1%C4%9F%C4%B1n%C4%B1n_gerileyi%C5%9Fi&action=edit&redlink=1)___ , geleneksel Greko-Romen kültürü, 6. yüzyılda hâlen Doğu İmparatorluğu'nda etkiliydi.  ___E:İoannis Filoponus U:(https://tr.wikipedia.org/wiki/Yahya_en-Nahvi)___ gibi filozoflar, bu dönemde Hristiyan düşünce ve ___E:deneyciliğine U:(https://tr.wikipedia.org/wiki/Deneycilik)___ ek olarak var olan ___E:neoplatonik U:(https://tr.wikipedia.org/wiki/Neoplatonizm)___ fikirlere dikkat çeker."
+        },
+        {
+            "id": "Bizans İmparatorluğu#81",
+            "sentence": "Ancak ___E:Helenistik felsefe U:(https://tr.wikipedia.org/wiki/Helenistik_felsefe)___ yerini yavaş yavaş yeni ___E:Hristiyan felsefesine U:(https://tr.wikipedia.org/wiki/Hristiyan_felsefesi)___ bıraktı. 529'da ___E:Platon Akademisi U:(https://tr.wikipedia.org/wiki/Platon_Akademisi)___ 'nin kapatılması önemli bir kilometre taşıdır.  ___E:Besteci Romanos U:(https://tr.wikipedia.org/wiki/Romanos_o_Melodos)___ tarafından yazılan ilahiler ___E:Kutsal Liturji U:(https://tr.wikipedia.org/wiki/Kutsal_Lit%C3%BCrji)___ 'nin gelişimini işaret ederken, mimar ___E:Miletli İsidoros U:(https://tr.wikipedia.org/wiki/%C4%B0sidoros_(matematik%C3%A7i))___ ve ___E:Trallesli Anthemius U:(https://tr.wikipedia.org/wiki/Anthemios_(matematik%C3%A7i))___ , ___E:Kutsal Bilgelik U:(https://tr.wikipedia.org/wiki/Sofya_(bilgelik))___ Kilisesi veya bilinen adıyla ___E:Ayasofya U:(https://tr.wikipedia.org/wiki/Ayasofya)___ 'yı, Nika ayaklanması sırasında yıkılan önceki bir kilisenin yerine inşa etti. 537'de tamamlanan Aya Sofya, Bizans mimarlık tarihindeki en göze çarpan eserlerden biri olarak varlığını sürdürmektedir.  6. ve 7. yüzyıllarda, imparatorlukta ___E:veba salgınları patlak verdi U:(https://tr.wikipedia.org/wiki/Justinianus_Veba_Salg%C4%B1n%C4%B1)___ ."
+        },
+        {
+            "id": "Bizans İmparatorluğu#82",
+            "sentence": "Bu salgınlar, nüfusu tahrip ettiği gibi ekonomik kayıplara yol açarak ülkeyi güçsüzleştirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#83",
+            "sentence": "565'te Justinianus öldüğünde, kendinden sonra gelen ___E:II. Justinus U:(https://tr.wikipedia.org/wiki/II._Justinus)___ , Perslere yüksek miktarlarda haraç ödemeyi reddetti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#84",
+            "sentence": "Bu sırada Cermen ___E:Lombardlar U:(https://tr.wikipedia.org/wiki/Lombardlar)___ İtalya'yı işgal etti; yüzyılın sonunda İtalya'nın sadece üçte biri Bizans elindeydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#85",
+            "sentence": "Justin'den sonra gelen ___E:II. Tiberius U:(https://tr.wikipedia.org/wiki/II._Tiberius)___ , düşmanları arasında seçim yaptı ve ___E:Avarlar U:(https://tr.wikipedia.org/wiki/Avarlar)___ 'a yardım ederek Persler'e savaş ilan etti. Tiberius'un generali ___E:Mauricius U:(https://tr.wikipedia.org/wiki/Mauricius)___ , doğu sınırlarında başarılı bir sefer yürütse de, Avarlar aldıkları yardımlara rağmen dizginlenmemişti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#86",
+            "sentence": "Avarlar Balkanlar'da ilerleyerek 582'de ___E:Sirmium U:(https://tr.wikipedia.org/wiki/Sirmium)___ kalesini ele geçirdi ve Slavlar Tuna'nın karşısında seferlere başladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#87",
+            "sentence": "Bu sırada Tiberius'un yerini alan Mauricius, Pers iç savaşına müdahale etti, meşru ___E:II. Hüsrev U:(https://tr.wikipedia.org/wiki/II._H%C3%BCsrev)___ 'i tekrar tahta çıkartarak kızını onunla evlendirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#88",
+            "sentence": "Mauricius'un damadıyla anlaşması neticesinde, Bizans'ın sınırları doğuya doğru genişledi ve enerjik imparator dikkatini Balkanlar'a odaklama şansı buldu. 602 itibarıyla, başarılı Bizans ___E:seferleri U:(https://tr.wikipedia.org/wiki/Mauricius%27un_Balkan_seferleri)___ Avarları ve Slavları Tuna'nın gerisine itti.  Ancak Mauricius'un Avarlar tarafından alınan birkaç bin esiri için fidyeyi reddetmesi ve birliklerini kış ortasında Tuna'ya sürmüş olması onun şanını kısa sürede aşağıya çekti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#89",
+            "sentence": "Phocas adında bir subay, birlikleri Konstantinopolis'e geri getirerek bir isyan çıkardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#90",
+            "sentence": "Mauricius ve ailesi kaçmaya çalışırken öldürüldü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#91",
+            "sentence": "___E:Phocas U:(https://tr.wikipedia.org/wiki/Phocas)___ 'ın Mauricius'u öldürmesinin ardından Hüsrev, bunu ___E:Mezopotamya eyaletini U:(https://tr.wikipedia.org/wiki/Mezopotamya_(eyalet))___ işgal etmek için bir bahane olarak kullandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#92",
+            "sentence": "Birçok Bizans kaynağında hiç değişmeden \"zorba\" olarak anılan ve halk tarafından tutulmayan Phokas, Senato önderliğinde kendine birçok komplonun kurulduğu bir isimdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#93",
+            "sentence": "Herakleios, 610 yılında ___E:Kartaca U:(https://tr.wikipedia.org/wiki/Kartaca)___ 'dan ucuna ikon iliştirilmiş bir gemiyle Konstantinopolis'e gelerek Phocas'ı yerinden etti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#94",
+            "sentence": "Herakleios'un başa geçmesiyle ___E:Sasani U:(https://tr.wikipedia.org/wiki/Sasani_%C4%B0mparatorlu%C4%9Fu)___ ilerleyişi Levant'ın derinliklerine doğru iyice yayıldı ve Sasaniler ___E:Şam U:(https://tr.wikipedia.org/wiki/%C5%9Eam)___ ve ___E:Kudüs U:(https://tr.wikipedia.org/wiki/Kud%C3%BCs)___ 'ü ele geçirerek ___E:Gerçek Haç U:(https://tr.wikipedia.org/wiki/Ger%C3%A7ek_Ha%C3%A7)___ 'ı alıp ___E:Tizpon U:(https://tr.wikipedia.org/wiki/Tizpon)___ 'a götürdü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#95",
+            "sentence": "Buna misillemeyle yanıt veren Herakleios için bu mücadele bir kutsal savaş karakterindeydi ve askerî sembol olarak İsa'nın ___E:acheiropoietos U:(https://tr.wikipedia.org/wiki/Ahiropoiita)___ görüntüsünü kullanıldı  (benzer bir şekilde, Konstantinopolis 626 yılında Avar - Sasani - Slav güçleri tarafından kuşatıldıktan sonra elde edilen zafer, ___E:Patrik Sergios U:(https://tr.wikipedia.org/wiki/I._Sergios)___ 'un şehir surlarında yürüyüş eşliğinde taşıdığı Meryem Ana'nın ikonuna atfedilmişti)."
+        },
+        {
+            "id": "Bizans İmparatorluğu#96",
+            "sentence": "Yine ___E:bu kuşatma U:(https://tr.wikipedia.org/wiki/Konstantinopolis_Ku%C5%9Fatmas%C4%B1_(626))___ sırasında ___E:Bizans-Sasani Savaşı U:(https://tr.wikipedia.org/wiki/Bizans-Sasani_Sava%C5%9F%C4%B1_(602-628))___ zirve noktasına erişmişti ve ittifak ordusu 626'nın Haziran ve Temmuz ayları arasında Konstantinopolis'i kuşatmış oldu. Bunun hemen ardından Sasani kuvvetleri ___E:Anadolu U:(https://tr.wikipedia.org/wiki/Anadolu)___ 'ya çekilmek zorunda kaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#97",
+            "sentence": "Bunun ardından Herakleios'un kardeşi ___E:Theodorus U:(https://tr.wikipedia.org/wiki/Theodorus_(Herakleios%27un_karde%C5%9Fi))___ 'un Sasani generali ___E:Şahin U:(https://tr.wikipedia.org/wiki/%C5%9Eahin_Vahmanzadegan)___ 'i yenilgiye uğrattığı haberi gelince Pers yenilgisi kesinleşti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#98",
+            "sentence": "Bunun üzerine Herakleios, Sasani Mezopotamya'sına tekrar işgal kuvvetleri yolladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#99",
+            "sentence": "Ana Sasani kuvvetleri ___E:Ninova U:(https://tr.wikipedia.org/wiki/Ninova_Muharebesi_(627))___ 'da 627'de yenilgiye uğratıldı ve 629'da Herakleios, Gerçek Haç'ı o sırada savaş nedeniyle anarşinin ve iç savaşın hüküm sürdüğü Sasani başkenti ___E:Tizpon U:(https://tr.wikipedia.org/wiki/Tizpon)___ 'dan alarak büyük bir şölenle Kudüs'e götürdü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#100",
+            "sentence": "Nihayetinde Persler bütün kuvvetlerini geri çekip eskiden Roma'nın elinde olan ___E:Mısır U:(https://tr.wikipedia.org/w/index.php?title=M%C4%B1s%C4%B1r_(Roma_eyaleti)&action=edit&redlink=1)___ , ___E:Levant U:(https://tr.wikipedia.org/wiki/Levant)___ , Mezopotamya ve Ermenistan topraklarını Bizans'a önceden 595 yılı dolaylarında yapılmış bir antlaşmaya tekrar uyarak geri verdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#101",
+            "sentence": "Bu savaş Bizans ve Sasani imparatorluklarını oldukça zayıflattı ve onları hemen sonraki yıllarda ortaya çıkan ___E:Müslüman kuvvetlerine U:(https://tr.wikipedia.org/wiki/%C4%B0slam%27%C4%B1n_yay%C4%B1l%C4%B1%C5%9F%C4%B1)___ karşı son derece hassas hale getirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#102",
+            "sentence": "Bizanslılar 636'daki ___E:Yermük Muharebesi U:(https://tr.wikipedia.org/wiki/Yerm%C3%BCk_Muharebesi)___ 'nde Araplara karşı çok ağır bir yenilgiye uğradı, ___E:Tizpon U:(https://tr.wikipedia.org/wiki/Tizpon)___ ise 637'de düştü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#103",
+            "sentence": "O sıralarda ___E:Suriye ve Levant'ı sıkıca kontrol altında tutan U:(https://tr.wikipedia.org/wiki/M%C3%BCsl%C3%BCmanlar%C4%B1n_Levant%27%C4%B1_fethi)___ Araplar, Anadolu içlerine sık sık işgalci kuvvetler yolluyordu ve ___E:674–678 arasında doğrudan Konstantinopolis kuşatıldı U:(https://tr.wikipedia.org/wiki/Konstantinopolis_Ku%C5%9Fatmas%C4%B1_(674-678))___ ."
+        },
+        {
+            "id": "Bizans İmparatorluğu#104",
+            "sentence": "Arap donanması ___E:Rum ateşi U:(https://tr.wikipedia.org/wiki/Rum_ate%C5%9Fi)___ tekniğinin de yardımıyla püskürtüldü ve ___E:Emevîler U:(https://tr.wikipedia.org/wiki/Emev%C3%AEler)___ ile otuz yıllık ateşkes imzalandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#105",
+            "sentence": "Buna karşın ___E:Anadolu U:(https://tr.wikipedia.org/wiki/Anadolu)___ işgalleri son hız devam ediyordu ve buradaki halk, eski şehir surları içinde daha küçük alanlara duvarlar ördüğünden veya yakındaki kalelere taşındığından klasik kent kültürü iyice bozuldu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#106",
+            "sentence": "Konstantinopolis'in nüfusu bu süreçte 500.000'den 40.000–70.000 aralığına kadar geriledi ve diğer şehirler gibi kısmen kırsallaştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#107",
+            "sentence": "Şehir, Bizans 618'de Mısır'ı önce Perslere, sonra Araplara kaptırınca ücretsiz tahıl taşımacılığı hakkını kaybetti ve halka buğday dağıtımı durma noktasına geldi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#108",
+            "sentence": "Eski yarı-özerk belediye kuruluşlarının yok olmasıyla ortaya çıkan boşluk, Anadolu'yu eyaletlere ayıran ve kent yönetiminin imparatorluk idaresine doğrudan sorumlu olduğu belirli ordulara bırakıldığı ___E:thema U:(https://tr.wikipedia.org/wiki/Thema)___ sistemiyle dolduruldu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#109",
+            "sentence": "Bu sistemin kökenleri Herakleios'un geçici kurallarından kaynaklanabiliyor olabilir fakat 7. yüzyıl boyunca imparatorluk yönetiminin yepyeni bir sistemi haline dönüştü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#110",
+            "sentence": "İmparatorluğun 7. yüzyılda yaşadığı toprak kayıplarını izleyen bu devasa kültürel ve kurumsal yeniden yapılanma, Akdeniz'in doğusundaki Romalılık kavramının kırılmasına ve bundan sonrasında Bizans'ın Roma'nın doğrudan devamı olmaktan ziyade herhangi bir başka ardıl ülke olarak okunarak daha iyi anlaşılır hale gelmesine yol açtığı söylenegelmiştir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#111",
+            "sentence": "Balkanlar'dan çok sayıda birliğin önce Persler, sonra Araplar ile savaşmak üzere ayrılması, Slav halklarının yarımadanın güneyine doğru yayılmasına zemin hazırladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#112",
+            "sentence": "Bunun bir sonucu olarak, Balkanlar'da da Anadolu'da olduğu gibi birçok şehir küçük surlu yerleşimlere büzüştü.  670'lerde ___E:Bulgarlar U:(https://tr.wikipedia.org/wiki/Bulgarlar)___ , ___E:Hazarlar U:(https://tr.wikipedia.org/wiki/Hazarlar)___ 'ın gelişiyle Tuna'nın güneyine geçmeye başladı. 680'de bu yeni yerleşimleri dağıtmak üzere gönderilen Bizans kuvvetleri yenilgiye uğradı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#113",
+            "sentence": "681'de ___E:IV. Konstantinos U:(https://tr.wikipedia.org/wiki/IV._Konstantinos)___ , Bulgar hanı ___E:Asparuh U:(https://tr.wikipedia.org/wiki/Asparuh)___ ile bir antlaşma imzaladı ve ___E:yeni Bulgar devleti U:(https://tr.wikipedia.org/wiki/Birinci_Bulgar_%C4%B0mparatorlu%C4%9Fu)___ , daha önce ismen de olsa Bizans yönetimini tanıyan birkaç Slav kabilesi üzerinde bağımsızlık elde etti.  687–688'de Herakleios Hanedanı'nın son imparatoru ___E:II. Justinianos U:(https://tr.wikipedia.org/wiki/II._Justinianos)___ , Slavlara ve Bulgarlara karşı bir sefer düzenleyerek kayda değer kazanımlar elde etti. Ancak imparatorun ___E:Trakya U:(https://tr.wikipedia.org/wiki/Trakya)___ 'dan ___E:Makedonya U:(https://tr.wikipedia.org/wiki/Makedonya)___ 'ya kadar savaşmak zorunda kaldığı gerçeği, Bizans'ın Balkanlar'ın kuzeyinde ne denli hakimiyet kaybına uğradığının ipuçlarını vermektedir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#114",
+            "sentence": "II. Justinianos, şiddetli vergilendirme ve \"yabancılar\"ı idari konumlara yerleştirme yollarını kullanarak kent aristokrasisinin gücünü kırmaya çalıştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#115",
+            "sentence": "Sonrasında, 695 yılında yetkileri elinden alındı ve önce Hazarlar'a, sonra Bulgarlar'a sığındı. 705'te Bulgar hanı ___E:Tervel U:(https://tr.wikipedia.org/wiki/Tervel)___ 'in ordularıyla Konstantinopolis'e geri döndü, tahtını tekrar aldı ve düşmanlarına karşı bir korku krallığı inşa etti. Son kez yine kent aristokrasisi desteğiyle tahttan indirildiği 711 yılı, Herakleios Hanedanı'nın sonunu getirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#116",
+            "sentence": "___E:III. Leon U:(https://tr.wikipedia.org/wiki/III._Leon)___ 718'de Arap istilasını geri püskürttü ve kendini Anadolu'daki thema ları yeniden organize edip sağlamlaştırmaya adadı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#117",
+            "sentence": "Kendinden sonra gelen ___E:V. Konstantinos U:(https://tr.wikipedia.org/wiki/V._Konstantinos)___ , Suriye'nin kuzeyinde kayda değer zaferler kazandı ve Bulgar gücünü kırdı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#118",
+            "sentence": "___E:Slav Thomas U:(https://tr.wikipedia.org/wiki/Slav_Thomas)___ 'ın 820'ler başında çıkardığı isyan sonrası Bizans'ın güçsüzlüğünden yararlanan Araplar toparlanıp ___E:Girit'i fethetti U:(https://tr.wikipedia.org/wiki/Girit_Emirli%C4%9Fi)___ ."
+        },
+        {
+            "id": "Bizans İmparatorluğu#119",
+            "sentence": "Bunun yanında Sicilya'ya başarılı bir sefer düzenledilerse de, 863'te general ___E:Petronas U:(https://tr.wikipedia.org/wiki/Petronas_(komutan))___ , Melitene ( ___E:Malatya U:(https://tr.wikipedia.org/wiki/Malatya)___ ) ___E:emiri U:(https://tr.wikipedia.org/wiki/Emir_(makam_sahibi))___ ___E:Ömer bin Abdullah U:(https://tr.wikipedia.org/wiki/%C3%96mer_bin_Abdullah)___ 'yı ___E:ağır bir yenilgiye uğrattı U:(https://tr.wikipedia.org/wiki/Lalakaon_Muharebesi)___ . ___E:Krum U:(https://tr.wikipedia.org/wiki/Krum)___ Han önderliğindeki Bulgar tehlikesi de bu sıralarda tekrar ortaya çıktı, fakat 815–816 yıllarında Krum'un oğlu ___E:Omurtag U:(https://tr.wikipedia.org/wiki/Omurtag)___ , Bizans imparatoru ___E:V. Leon U:(https://tr.wikipedia.org/wiki/V._Leon)___ ile ___E:bir antlaşma imzaladı U:(https://tr.wikipedia.org/wiki/Bizans-Bulgar_Antla%C5%9Fmas%C4%B1_(815))___ ."
+        },
+        {
+            "id": "Bizans İmparatorluğu#120",
+            "sentence": "8. ve 9. yüzyıllar boyunca imparatorluğun bir asırdan fazla ana gündemi olan ___E:ikonoklazm U:(https://tr.wikipedia.org/wiki/%C4%B0konoklazm)___ tartışmaları görüldü. ___E:İkonlar U:(https://tr.wikipedia.org/wiki/%C4%B0kona)___ (burada her türlü dinî görsel ifade edilmektedir), 730 yılı civarında Leon ve Konstantinos tarafından yasaklandı ve bu durum ülke çapında ___E:ikonofillerin U:(https://tr.wikipedia.org/wiki/%C4%B0konofil)___ (ikonları savunanlar) ayaklanmasına neden oldu. İmparatoriçe ___E:İrini U:(https://tr.wikipedia.org/wiki/%C4%B0rini_(Bizans_imparatori%C3%A7esi))___ 'nin çalışmaları sonucunda 787'de ___E:İkinci İznik Konsili U:(https://tr.wikipedia.org/wiki/%C4%B0kinci_%C4%B0znik_Konsili)___ toplandı ve ikonlara tapılmaması, sadece saygı gösterilmesi kararlaştırıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#121",
+            "sentence": "İrini'nin ___E:Şarlman U:(https://tr.wikipedia.org/wiki/%C5%9Earlman)___ 'la evlenme planları bilinir, ancak ___E:Günah Çıkartıcı Theofanis U:(https://tr.wikipedia.org/wiki/Theofanis_(aziz))___ 'e göre bu planlar İrini'nin favorilerinden olan Aetios yüzünden suya düşmüştür."
+        },
+        {
+            "id": "Bizans İmparatorluğu#122",
+            "sentence": "9. yüzyıl başlarında V. Leon, ikonoklazm yasalarını tekrar yürürlüğe soktuysa da, 843'te imparatoriçe ___E:Theodora U:(https://tr.wikipedia.org/wiki/Theodora_(Theofilos%27un_e%C5%9Fi))___ , ___E:Patrik Methodios U:(https://tr.wikipedia.org/wiki/I._Methodios)___ 'un yardımıyla ikonlara saygıyı tekrar yürürlüğe soktu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#123",
+            "sentence": "İkonoklazm, Doğu ve Batı arasındaki yabancılaşmanın artmasında önemli bir rol oynadı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#124",
+            "sentence": "Bu ayrışmalar, ___E:Papa I. Nikolas U:(https://tr.wikipedia.org/wiki/I._Nicolaus)___ 'ın ___E:Fotios U:(https://tr.wikipedia.org/wiki/I._Fotios)___ 'un patrik olmasına tepki göstermesiyle ortaya çıkan ___E:Fotios bölünmesi U:(https://tr.wikipedia.org/wiki/Fotios_b%C3%B6l%C3%BCnmesi)___ ile daha da kötüleşti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#125",
+            "sentence": "Savunma önlemlerine de ağırlık veren ___E:I. Nikiforos U:(https://tr.wikipedia.org/wiki/I._Nikiforos)___ 7. yüzyıldan beri süregelen toprağa bağlı ___E:stratiotes U:(https://tr.wikipedia.org/w/index.php?title=Stratiotes&action=edit&redlink=1)___ temelli savunma sisteminde ufak değişiklikler yapmıştır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#126",
+            "sentence": "Etkin bir ordu oluşturmak için sayıları yeterli olmayan ve kendi teçhizatlarının giderlerini karşılayabilecek maddi güce sahip olan stratioteslerin yanı sıra daha az gelirli köylüler de sistem içerisinde dahil edilmiş, teçhizat bedellerini toparlayabilmeleri adına da bağlı oldukları toprağı birkaç kişiyle paylaşma serbestiyeti tanınmıştır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#127",
+            "sentence": "Böylece ordu mevcudu çoğaltılmıştır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#128",
+            "sentence": "Aynı girişim o döneme dek böyle bir sisteme bağlı olmayan denizciler için de yapılmış, devlet arazileri yine devletin belirlediği fiyattan zorunlu olarak askerlere satılmıştır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#129",
+            "sentence": "Önceki yüzyıllarda görülen iskân siyasetine benzer olarak Küçük Asya'daki halkını ___E:Sklavinia U:(https://tr.wikipedia.org/w/index.php?title=Sklavinia&action=edit&redlink=1)___ 'ya yerleştiren I. Nikiforos, bu kişileri de bu coğrafyada stratiotes nizamı kapsamına almıştır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#130",
+            "sentence": "Şarlman, I. Nikiforos'u edinmiş olduğu imparator unvanını tanıması için sıkıştırmış ve Dalmaçya kıyılarına baskın yapmıştır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#131",
+            "sentence": "I. Nikiforos ise buna cevap olarak Balkanlardaki Bizans egemenliğini güçlendirmek adına Peloponnessos'u ele geçirerek bölgede yeni themalar teşkil etmiş ve thema sistemini ilk kez Küçük Asya dışına taşıyan kişi olmuştur."
+        },
+        {
+            "id": "Bizans İmparatorluğu#132",
+            "sentence": "Ayrıca Küçük Asya'dan bölgeye gerçekleştirdiği iskânlar ile bölgeye devlete güçlü bağlılık duyguları olan halkları yerleştirmiştir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#133",
+            "sentence": "I. Nikiforos, gerçekleştirdiği askerî ve mali tedbirler ile İrini döneminde bu alanlarda görülen gerilemeyi telafi edebilmişti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#134",
+            "sentence": "Bu ilerlemelere rağmen Hârûnürreşîd'in Ankira'ya kadar ilerlemesine mani olunamamış, haraç ödemek ve hem kendi hem de oğlu adına kafa vergisi ödemek suretiyle Araplara karşı küçük düşürücü bir hezimet yaşanmıştır.  809 yılında Hârûnürreşîd'in ölümü ve Araplar arasında iç karışıklık çıkmasıyla doğu toprakları bir süre için sorun olmaktan çıkmış olsa da Avarların Şarlman tarafından ortadan kaldırılmasından sonra bu rakiplerinden kurtulan Bulgarlar sorun haline gelmeye başlamıştır.  ___E:Krum U:(https://tr.wikipedia.org/wiki/Krum)___ 'un 809 yılında Bizans toprağı olan ___E:Serdika U:(https://tr.wikipedia.org/wiki/Sofya)___ 'ya girmesine karşılık 811 yılında büyük bir orduyla barış teklifini de reddederek Bulgarların başkenti ___E:Pliska U:(https://tr.wikipedia.org/wiki/Pliska)___ 'ya yürüyen I. Nikiforos, şehri yakıp yıkmıştır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#135",
+            "sentence": "İmparator, yeni bir barış teklifini daha reddederek dağ içlerine çekilen Bulgar ordusunu takip etmeye karar vermiş ancak 26 Temmuz 811 tarihinde arazi şartlarını iyi bilen Krum ve ordusu tarafından kuşatılarak öldürülmüş, ordusu da tamamen imha edilmiştir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#136",
+            "sentence": "Krum, büyük başarısını imparatorun kafatasını şarap kadehi yaparak kutlamıştır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#137",
+            "sentence": "Bizans'ın itibar kaybı askerî bozgunun önüne geçmiş, 378 yılında ___E:Valens U:(https://tr.wikipedia.org/wiki/Valens)___ 'in ___E:Vizigotlarca U:(https://tr.wikipedia.org/wiki/Vizigotlar)___ ___E:Hadrianapolis Muharebesi U:(https://tr.wikipedia.org/wiki/Hadrianapolis_Muharebesi)___ 'nde savaş meydanında öldürülmesinden beri ilk kez bir Roma imparatoru aynı sonu yaşamıştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#138",
+            "sentence": "___E:I. Basileios U:(https://tr.wikipedia.org/wiki/I._Basileios)___ 'un 867'de tahta geçmesi, iki buçuk asır boyunca devam eden ___E:Makedon Hanedanı U:(https://tr.wikipedia.org/wiki/Makedon_Hanedan%C4%B1)___ 'nın başlangıcı kabul edilir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#139",
+            "sentence": "Bu hanedanda Bizans'ın en becerikli hükümdarlarından birkaçı yer alır ve dönem boyunca yeniden canlanma havası hakimdir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#140",
+            "sentence": "İmparatorluk dış düşmanlara karşı savunma halinden, tekrar kaybedilen toprakları yeniden fetheden bir ülke konumuna dönmüştür."
+        },
+        {
+            "id": "Bizans İmparatorluğu#141",
+            "sentence": "Askerî ve idari otoritenin toparlanmasına ek olarak, Makedon Hanedanı dönemi felsefe ve sanat gibi alanlarda kültürel bir uyanışa da sahne olmuştur. ___E:Slavların U:(https://tr.wikipedia.org/wiki/G%C3%BCney_Slavlar%C4%B1)___ Balkan istilasından ve ___E:Arap istilalarından U:(https://tr.wikipedia.org/wiki/%C4%B0slam%27%C4%B1n_yay%C4%B1l%C4%B1%C5%9F%C4%B1)___ önceki Bizans'ta var olduğu kabullenilen aydınlığı tekrar canlandırmak üzere bilinçli çabalar görülmektedir ve bu çağ sıklıkla Bizans'ın \"Altın Çağı\" olarak gösterilir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#142",
+            "sentence": "Her ne kadar toprak bakımından imparatorluk I. Justinianus dönemindekinden kayda değer oranda küçük olsa da, önemli bir güç kazanımı görüldüğü gibi, daha az dağınık coğrafyanın getirisi olarak ülke siyasi, ekonomik ve kültürel olarak daha entegreydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#143",
+            "sentence": "I. Basileios'un tahttaki ilk yıllarında Arap istilacıların Dalmaçya kıyılarına yaptığı seferler başarılı bir şekilde bastırıldı ve bölge bir kez daha güvenli Bizans toprakları arasındaki yerini aldı. Bu durum, Bizans misyonerlerinin içlere yayılarak Sırpları, günümüzde ___E:Hersek U:(https://tr.wikipedia.org/wiki/Hersek)___ ve ___E:Karadağ U:(https://tr.wikipedia.org/wiki/Karada%C4%9F)___ çevresinde yaşayan halkları Ortodoks Hristiyanlığı'na çevirme fırsatını doğurdu.  ___E:Malta U:(https://tr.wikipedia.org/wiki/Malta)___ 'yı geri almak için çıkılan sefer, Malta halkı Arapların yanında yer alınca ve Bizans garnizonlarını katledince büyük bir yenilgiyle sonuçlandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#144",
+            "sentence": "Buna karşın, ___E:Güney İtalya U:(https://tr.wikipedia.org/wiki/G%C3%BCney_%C4%B0talya)___ 'daki Bizans egemenliği gittikçe sağlamlaştırıldı ve 873 yılı itibarıyla ___E:Bari U:(https://tr.wikipedia.org/wiki/Bari)___ , imparatorluğun bir parçası oldu.  Güney İtalya'nın büyük kısmı sonraki 200 yıl boyunca da ülkenin bir parçası olarak kaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#145",
+            "sentence": "Daha önemli olan doğu cephelerinde, Bizans savunmasını yeniden inşa ederek hücuma geçti. ___E:Paulusçular U:(https://tr.wikipedia.org/wiki/Pavlus%C3%A7uluk)___ yenildi ve başkentleri Tephrike ( ___E:Divriği U:(https://tr.wikipedia.org/wiki/Divri%C4%9Fi)___ ) alındı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#146",
+            "sentence": "Buna ek olarak ___E:Samosata U:(https://tr.wikipedia.org/wiki/Samosata)___ 'nın yeniden alınmasının ardından ___E:Abbâsîler U:(https://tr.wikipedia.org/wiki/Abb%C3%A2s%C3%AEler)___ 'e karşı hücumlar başladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#147",
+            "sentence": "Basileios'un oğlu ve ardılı ___E:VI. Leon U:(https://tr.wikipedia.org/wiki/VI._Leon)___ döneminde, o dönem güçsüzleşmiş olan Abbâsîler'e karşı seferler ve toprak kazanımları devam etti. Ancak 902'de Sicilya Araplara kaybedilirken 904'te imparatorluğun ikinci büyük şehri ___E:Selanik U:(https://tr.wikipedia.org/wiki/Selanik)___ bir Arap donanması tarafından yağmalandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#148",
+            "sentence": "Bizans donanması, çok çabuk olarak düzenlendi ve 7. yüzyılda Araplara kaybedilmiş olan ___E:Kıbrıs U:(https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s)___ ve Suriye'deki ___E:Laodicea U:(https://tr.wikipedia.org/wiki/Lazkiye)___ birkaç yıl içerisinde geri alındı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#149",
+            "sentence": "Bu intikama karşın, Bizanslılar Müslümanlara karşı hâlen kesin bir darbe vurabilmiş değillerdi ve hatta 911'de ___E:Girit U:(https://tr.wikipedia.org/wiki/Girit_Emirli%C4%9Fi)___ 'i geri almak için yapılan sefer büyük bir yenilgiyle sonuçlandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#150",
+            "sentence": "Bulgar çarı ___E:I. Simeon U:(https://tr.wikipedia.org/wiki/I._Simeon)___ 'un 927'de ölmesiyle Bulgarlar oldukça güçsüzleşti ve bu da Bizanslıların doğuya odaklanması için fırsat yarattı.  934 yılında Melitene ( ___E:Malatya U:(https://tr.wikipedia.org/wiki/Malatya)___ ) kalıcı olarak ele geçirildi ve 943 yılında ünlü general ___E:İoannis Kurkuas U:(https://tr.wikipedia.org/wiki/%C4%B0oannis_Kurkuas)___ , ataklarını ___E:Mezopotamya U:(https://tr.wikipedia.org/wiki/Mezopotamya)___ 'ya çevirerek en önemlisi ___E:Edessa U:(https://tr.wikipedia.org/wiki/Edessa)___ 'nın (Şanlıurfa) fethi olan birçok önemli başarıya imza attı. Kurkuas özellikle, İsa'nın bir portresinin damgalandığı iddia edilen ve bu yüzden saygı duyulan ___E:Mandilo U:(https://tr.wikipedia.org/wiki/Kutsal_Mendil)___ 'yu Edessa'dan alarak Konstantinopolis'e getirmesiyle nam saldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#151",
+            "sentence": "Asker imparatorlar ___E:II. Nikiforos U:(https://tr.wikipedia.org/wiki/II._Nikiforos)___ ( h. 963-969 ) ve ___E:I. İoannis U:(https://tr.wikipedia.org/wiki/I._%C4%B0oannis)___ ( h. 969-976 ) ülkenin sınırlarını doğrudan Suriye'nin içine doğru genişleterek kuzeybatı ___E:Irak U:(https://tr.wikipedia.org/wiki/Irak)___ 'taki emirleri yenilgiye uğrattı. 962'de büyük bir şehir olan ___E:Halep U:(https://tr.wikipedia.org/wiki/Halep)___ yine Nikiforos tarafından ele geçirildi ve 963'te Araplar, Girit'ten kesin bir zaferle atıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#152",
+            "sentence": "Girit'in yeniden alınması, Ege'deki Arap istilalarına bir son verdiği gibi Yunan anakarası tekrar gelişmeye başladı. ___E:Kıbrıs U:(https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s)___ 965'te kalıcı olarak geri alındı ve 969'da ___E:Antioch U:(https://tr.wikipedia.org/wiki/Antakya_(antik_kent))___ (Antakya) ele geçirilip bir Bizans eyaleti olarak ülkeye katıldığında Nikiforos'un başarıları zirveyi görüyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#153",
+            "sentence": "Ardılı İoannis Çimiskes, Şam, ___E:Beyrut U:(https://tr.wikipedia.org/wiki/Beyrut)___ , ___E:Akka U:(https://tr.wikipedia.org/wiki/Akka)___ , ___E:Sayda U:(https://tr.wikipedia.org/wiki/Sayda)___ , ___E:Kayserya U:(https://tr.wikipedia.org/wiki/Kayserya)___ ve ___E:Taberiye U:(https://tr.wikipedia.org/wiki/Taberiye)___ şehirlerini fethetti ve Bizans ordusunu Kudüs'e şaşırtıcı derecede yakınlığa yerleştirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#154",
+            "sentence": "Ancak İslam'ın güç merkezleri Irak ve Mısır'a dokunulmadı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#155",
+            "sentence": "Kuzeyde yapılan uzun seferlerin ardından son Arap tehlikesi olan zengin Sicilya eyaletine 1025'te ___E:II. Basileios U:(https://tr.wikipedia.org/wiki/II._Basileios)___ tarafından sefer düzenlendi ancak Basileios sefer tamamlanmadan öldü. Yine de, bu dönemde imparatorluğun sınırları ___E:Messina Boğazı U:(https://tr.wikipedia.org/wiki/Messina_Bo%C4%9Faz%C4%B1)___ 'ndan ___E:Fırat Nehri U:(https://tr.wikipedia.org/wiki/F%C4%B1rat)___ 'ne, Tuna'dan Suriye'ye kadar uzanmaktaydı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#156",
+            "sentence": "___E:Roma Makamı U:(https://tr.wikipedia.org/wiki/Kutsal_Makam)___ ile yaşanan geleneksel mücadeleler Makedonya Hanedanı döneminde de devam etti ve ___E:yeni yeni Hristiyanlaşan U:(https://tr.wikipedia.org/wiki/Bulgaristan%27%C4%B1n_Hristiyanla%C5%9Fmas%C4%B1)___ ___E:Bulgaristan U:(https://tr.wikipedia.org/wiki/Birinci_Bulgar_%C4%B0mparatorlu%C4%9Fu)___ üzerindeki üstünlük tartışmasıyla iyice mahmuzlandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#157",
+            "sentence": "İki devlet arasındaki seksen yıllık barışın ardından, güçlü Bulgar çarı ___E:I. Simeon U:(https://tr.wikipedia.org/wiki/I._Simeon)___ 894 yılında saldırıya geçti ancak ___E:Macarlar U:(https://tr.wikipedia.org/wiki/Macarlar)___ 'ın desteğini alarak donanmasını ___E:Karadeniz U:(https://tr.wikipedia.org/wiki/Karadeniz)___ 'de Bulgaristan üzerine süren Bizanslar'a karşı yenildiler."
+        },
+        {
+            "id": "Bizans İmparatorluğu#158",
+            "sentence": "Bizans yine de 896'da ___E:Bulgarofigon Muharebesi U:(https://tr.wikipedia.org/wiki/Bulgarofigon_Muharebesi)___ 'nde Bulgarlara yenildi ve onlara yıllık haraç ödemek zorunda bırakıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#159",
+            "sentence": "VI. Leon 912'de öldü ve düşmanlıklar kısa süre sonra tekrar su yüzüne çıktı; Simeon büyük bir ordu toplayarak Konstantinopolis'e yürüdü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#160",
+            "sentence": "Her ne kadar şehir duvarları zaptedilemez olsa da Bizans yönetimi düzensizlik içindeydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#161",
+            "sentence": "Bu yüzden Simeon şehre davet edilerek Bulgar basileus 'u (imparator) tacıyla ödüllendirildi genç ___E:VII. Konstantinos U:(https://tr.wikipedia.org/wiki/VII._Konstantinos)___ 'un Bulgar kralının kızlarından biriyle evlenmesi sağlandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#162",
+            "sentence": "Konstantinopolis'te patlak veren bir ayaklanma bu hanedan planını suya düşürünce Simeon tekrar Trakya'yı istila ederek ___E:Adrianopolis U:(https://tr.wikipedia.org/wiki/Edirne)___ 'i (Edirne) işgal etti.  Bizans böylece hem başkentinden birkaç gün uzakta güçlü bir Hristiyan devletle karşı karşıyaydı  hem de iki cephede savaşmak durumunda bırakılmıştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#163",
+            "sentence": "___E:Leo Fokas U:(https://tr.wikipedia.org/wiki/Leo_Fokas_(ya%C5%9Fl%C4%B1))___ ve ___E:I. Romanos U:(https://tr.wikipedia.org/wiki/I._Romanos)___ önderliğinde başlatılan bir sefer 917'de ___E:Akhelou Muharebesi U:(https://tr.wikipedia.org/wiki/Achelous_Muharebesi_(917))___ 'nde ezici bir yenilgiyle sonuçlandı ve sonraki yıl Bulgarlar Yunanistan'ın kuzeyini yağmalamakta özgürdü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#164",
+            "sentence": "Adrianopolis 923'te tekrar yağmalandı ve Bulgar ordusu 924'te Konstantinopolis'e yürüdü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#165",
+            "sentence": "Ancak Simeon 927'de aniden öldü ve Bulgar gücü hemen kırıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#166",
+            "sentence": "Bulgarlar ve Bizanslılar uzun süren barışçıl bir döneme girdiler ve Bizans artık doğudaki Müslüman istilacılara karşı savaşmakta daha özgürdü.  968'da Bulgar toprakları ___E:Kiev Rusları U:(https://tr.wikipedia.org/wiki/Kiev_Knezli%C4%9Fi)___ tarafından ___E:I. Svyatoslav U:(https://tr.wikipedia.org/wiki/I._Svyatoslav_(Kiev_b%C3%BCy%C3%BCk_knezi))___ önderliğinde yağmalansa da, üç yıl sonra I. İoannis, Kiev Knezliği'ni ___E:yenerek U:(https://tr.wikipedia.org/wiki/Dorostolon_Ku%C5%9Fatmas%C4%B1)___ Bulgaristan'ın doğusunu Bizans'a kattı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#167",
+            "sentence": "Bulgar ___E:Cometopuli Hanedanı U:(https://tr.wikipedia.org/wiki/Kometopuli_Hanedan%C4%B1)___ sırasında ayaklanmalar tekrar canlansa da, yeni imparator II. Basileios ( h. 976-1025 ) boyun eğen Bulgarları temel politikası haline getirmişti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#168",
+            "sentence": "Yine de Basileios'un Bulgaristan üzerine ilk seferi ___E:Trayan Boğazı U:(https://tr.wikipedia.org/wiki/Trayan_Bo%C4%9Faz%C4%B1_Muharebesi)___ 'nda onur kırıcı bir yenilgiyle sonuçlandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#169",
+            "sentence": "Sonraki senelerde imparator Anadolu'daki iç ayaklanmalarla meşguldü ve Bulgarlar ülkelerini Balkanlar içinde genişlettiler; savaş neredeyse yirmi yıl sürdü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#170",
+            "sentence": "Bizans'ın ___E:Sperkhios U:(https://tr.wikipedia.org/wiki/Sperkhios_Muharebesi)___ ve ___E:Üsküp U:(https://tr.wikipedia.org/wiki/%C3%9Csk%C3%BCp_Muharebesi)___ zaferleri Bulgarları önemli ölçüde yavaşlattı ve yıllık seferler sayesinde Basileios, düzenli olarak Bulgar kalelerini ele geçirdi.  1014'teki ___E:Belasitsa Muharebesi U:(https://tr.wikipedia.org/wiki/Belasitsa_Muharebesi)___ 'nde Bulgarlar yok edildi: orduları esir alındı, her 100 erkekten 99'unun kör edildiği ve geriye kalan 1 adamın hemşehrilerini eve götürmesi için sağ bırakıldığı söylenir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#171",
+            "sentence": "Çar ___E:Samuil U:(https://tr.wikipedia.org/wiki/Samuil_(%C3%A7ar))___ , bu bir zamanlar yenilmez ordusunun kırık parçalarını görünce şok geçirerek öldü. 1018'de son Bulgar kaleleri teslim oldu ve ülke yine imparatorluğa katıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#172",
+            "sentence": "Bu zafer Tuna cephesini Herakleios döneminden beri ilk defa güvenli bir hale soktu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#173",
+            "sentence": "850 ve 1100 arasında Bizans, yeni kurulan ve ___E:Karadeniz U:(https://tr.wikipedia.org/wiki/Karadeniz)___ 'in kuzeyi boyunca yayılan ___E:Kiev Knezliği U:(https://tr.wikipedia.org/wiki/Kiev_Knezli%C4%9Fi)___ 'ne karşı karışık bir politika izledi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#174",
+            "sentence": "Bu ilişkiler, ___E:Doğu Slavları U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Slavlar%C4%B1)___ 'nın tarihinde uzun süren yankılara yol açacaktı ve imparatorluk, hızlıca Kiev'in ana ___E:ticaret U:(https://tr.wikipedia.org/wiki/Vareglerden_Yunanlara_uzanan_ticaret_yolu)___ ve kültür partneri oldu. Ruslar Konstantinopolis'e ___E:ilk saldırısını U:(https://tr.wikipedia.org/wiki/Konstantinopolis_Ku%C5%9Fatmas%C4%B1_(860))___ 860 yılında gerçekleştirdi ve şehrin varoşlarını yağmaladı. 941'de ___E:Kiev Rusları Boğaziçi'nin Asya kıyılarında belirdiyseler U:(https://tr.wikipedia.org/wiki/Konstantinopolis_Ku%C5%9Fatmas%C4%B1_(941))___ de Bizans'ın 907 sonrası askerî gücü neticesinde ezici bir yenilgiye uğradılar ki Bizans, aynı güçlü sürecin başında ___E:Rusları sadece diplomasiyle geriye püskürtmüştü U:(https://tr.wikipedia.org/wiki/Bizans-Rus_Antla%C5%9Fmas%C4%B1_(907))___ (907)."
+        },
+        {
+            "id": "Bizans İmparatorluğu#175",
+            "sentence": "II. Basileios Kiev Rusları'nın yükselen gücüne kayıtsız kalamadı ve kendinden önceki imparatorların yolundan giderek dini siyasi emelleri için kullanma yoluna gitti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#176",
+            "sentence": "Rus–Bizans ilişkileri 988'de ___E:Anna Porfirogenita U:(https://tr.wikipedia.org/wiki/Anna_Porfirogenita)___ 'nın ___E:Büyük Vladimir U:(https://tr.wikipedia.org/wiki/I._Vladimir_(Kiev_b%C3%BCy%C3%BCk_knezi))___ 'le evlenmesi ve sonucunda ___E:Kiev Ruslarının Hristiyanlaşması U:(https://tr.wikipedia.org/wiki/Kiev_Knezli%C4%9Finin_Hristiyanla%C5%9Fmas%C4%B1)___ 'nın ardından iyice yakınlaştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#177",
+            "sentence": "Bizans rahipleri, mimarları ve sanatçıları, Rusların hakimiyeti altındaki birçok katedral ve kilisede çalışmak üzere davet edildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#178",
+            "sentence": "Bu sayede Bizans kültürü daha geniş sınırlara ulaştı ve buna karşılık birçok Rus da başta ünlü ___E:Vareg Muhafızlar U:(https://tr.wikipedia.org/wiki/Vareg_Muhaf%C4%B1zlar%C4%B1)___ olmak üzere Bizans ordusunda paralı asker olarak çalıştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#179",
+            "sentence": "İlişkiler Ruslar Hristiyanlaştıktan sonra bile her zaman arkadaş canlısı olmadı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#180",
+            "sentence": "İki tarafın çarpıştığı en büyük çatışma, 968–971 arasında Bulgaristan'da yaşandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#181",
+            "sentence": "Bunun yanında Karadeniz limanlarına ve Konstantinopolis'e yönelik Rus istilacı seferleri zaman zaman kaydedildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#182",
+            "sentence": "Her ne kadar bu istilaların çoğu Bizans tarafından geri püskürtülmüş olsa da, bunların sonunda sıklıkla antlaşmalar yapıldı ve bu antlaşmalar genellikler Ruslar yararına düzenlendi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#183",
+            "sentence": "Örneğin, Rusların Bizanslılarla bağımsız bir güç olarak kapışmaya olan isteklerini gösteren belirtilerle bilinen ___E:1043 savaşından U:(https://tr.wikipedia.org/wiki/Rus-Bizans_Sava%C5%9F%C4%B1_(1043))___ sonra, devletler arasında yine bir antlaşma imzalandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#184",
+            "sentence": "1025'te II. Basileios öldüğü zaman imparatorluk doğuda ___E:Ermenistan U:(https://tr.wikipedia.org/wiki/Ermeni_Bagratuni_Krall%C4%B1%C4%9F%C4%B1)___ 'dan batıda Güney İtalya'daki ___E:Calabria U:(https://tr.wikipedia.org/wiki/Calabria)___ 'ya kadar uzanıyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#185",
+            "sentence": "Bulgaristan'ın fethi, ___E:Gürcistan U:(https://tr.wikipedia.org/wiki/G%C3%BCrcistan_Krall%C4%B1%C4%9F%C4%B1)___ ve Ermenistan'ın bir kısmının ele geçirilmesi, Girit, Kıbrıs ve Antakya gibi stratejik yerlerin tekrar fethedilmesi gibi birçok başarıya erişilmişti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#186",
+            "sentence": "Üstelik bunlar taktiksel kazanımlardan ziyade uzun süreli kazanımlardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#187",
+            "sentence": "VI. Leon, Yunanca bütün Bizans kanunlarını yazdırdı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#188",
+            "sentence": "Bu 60 ciltlik devasa eser, sonraki bütün Bizans yasalarının temeliydi ve günümüzde hâlen üzerinde çalışmalar yapılmaktadır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#189",
+            "sentence": "Leon idari sistemi de yeniden yapılandırdı ve idari bölümlendirmelerin ( Themata veya \"Thema\") sınırlarını tekrar çizdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#190",
+            "sentence": "Bunun yanında rütbe ve ayrıcalıklar sistemini düzene soktu ve Konstantinopolis'teki çeşitli esnaf loncalarının davranışlarını düzenledi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#191",
+            "sentence": "Leon'un reformları, imparatorluğun önceki parçalılığını azaltarak, onu tek merkezli bir güce evriltti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#192",
+            "sentence": "Buna karşın, ülkenin artan askerî başarısı köylülüğe karşılık eyalet soyluluğunu büyük oranda artırdı ve zenginleştirdi ve köylüler bir çeşit köle konumuna indirgendi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#193",
+            "sentence": "Makedon Hanedanı süresince Konstantinopolis tekrar canlandı ve 400.000'lik nüfusa eriştiği 9 ve 10. yüzyıllar boyunca Avrupa'nın en büyük ve en zengin şehri oldu.  Bu süreçte Bizans, rekabetçi aristokratlar tarafından vergi toplama, iç işleri ve dış işleri konularında yürütülen, güçlü bir kamu hizmet sistemi yürütüyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#194",
+            "sentence": "Makedonyalı imparatorlar, ülkenin zenginliğini de Batı Avrupa'yla yapılan, özellikle ipek ve madeni eşyalar üzerine kurulu ticaretle oldukça artırmıştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#195",
+            "sentence": "Makedonya dönemi, dinî önem arz eden bazı olaylara da sahne oldu. Bulgar, Sırp ve Kiev Rusu kavimlerinin Ortodoks Hristiyanlığa geçmesi Avrupa'nın dinî haritasını kalıcı olarak değiştirdi ve etkileri hâlen sürmektedir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#196",
+            "sentence": "Selanikli iki Bizans Rum'u kardeş olan ___E:Kiril ve Metodius U:(https://tr.wikipedia.org/wiki/Kiril_ve_Methodios)___ , ___E:Slavların Hristiyanlaşması U:(https://tr.wikipedia.org/wiki/Slavlar%C4%B1n_Hristiyanla%C5%9Fmas%C4%B1)___ sürecine kayda değer katkılar sağladı ve bu zaman içerisinde ___E:Kiril alfabesinin U:(https://tr.wikipedia.org/wiki/Kiril_alfabesi)___ atası olarak bilinen ___E:Glagol alfabesi U:(https://tr.wikipedia.org/wiki/Glagol_alfabesi)___ geliştirildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#197",
+            "sentence": "1054'te Batı ve Doğu Hristiyan Kiliseleri arasında Doğu ve Batı kiliselerinin ayrılması adı verilen nihai bir kriz yaşandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#198",
+            "sentence": "Her ne kadar 16 Temmuz'da resmî olarak kurumsal ayrışma bildirisi yayımlanlamış olsa da, bir Cumartesi öğlesindeki Kutsal Liturji sırasında üç papa elçisi Aya Sofya'ya girip kilise mihrabına aforoz boğası yerleştirdiğinde,  yüzyıllardır aşamalı olarak artan büyük ayrışma zirve noktasına erişti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#199",
+            "sentence": "İmparatorluk kısa süre sonra, büyük oranda thema sisteminin bozulması ve askerî sistemin ihmal edilmesinden kaynaklanan zorluklarla dolu bir sürece girdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#200",
+            "sentence": "II. Nikiforos, İoannis Çimiskes ve II. Basileios, askerî yapılanmayı ( ___E:Grekçe U:(https://tr.wikipedia.org/wiki/Grek%C3%A7e)___ : τάγματα , tagmata ) acil müdahale eden, çoğunlukla savunmacı, vatandaşlardan oluşan bir yapıdan, profesyonel, sefere çıkan ve gittikçe ___E:paralı askerlere U:(https://tr.wikipedia.org/wiki/Paral%C4%B1_asker)___ dayalı bir ordu haline getirmişti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#201",
+            "sentence": "İstila tehlikesi 10. yüzyıl itibarıyla azalmaya başlayınca bu oldukça pahalı paralı askerlere, büyük garnizonlara, pahalı savunma yapılarına ve dolayısıyla bütün bunların sürdürülebilirliğine duyulan ihtiyaç da azaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#202",
+            "sentence": "II. Basileios ölümünden sonra filizlenen bir hazine bıraksa da, kendinden sonra geleceklerin izleyebileceği bir plan yapmayı ihmal etti. Yakın dönem ardıllarından hiçbirinin özellikli askerî veya politik yeteneği yoktu ve imparatorluğun idaresi gittikçe kamu hizmeti sisteminin eline düştü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#203",
+            "sentence": "Bizans ekonomisini canlandırma girişimleri sadece ___E:enflasyona U:(https://tr.wikipedia.org/wiki/Enflasyon)___ ve değeri küçültülmüş altın para sistemine yol açtı. Ordu şimdi gereksiz bir harcama ve siyasi bir risk olarak görülüyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#204",
+            "sentence": "Bu yüzden yerel birliklerin görevlerine son verildi ve ordu daha çok belirli kontratlar üzerinden yürüyen yabancı paralı askerlerle dolduruldu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#205",
+            "sentence": "Aynı süreçte, imparatorluk yeni düşmanlar edindi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#206",
+            "sentence": "Güney İtalya'daki eyaletler, 11. yüzyıl başında İtalya'ya gelen ___E:Normanlar U:(https://tr.wikipedia.org/wiki/%C4%B0talo-Normanlar)___ 'ın tehdidi altında kaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#207",
+            "sentence": "Konstantinopolis ve Roma arasında 1054'teki ___E:Doğu ve Batı kiliselerinin ayrılması U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_ve_Bat%C4%B1_kiliselerinin_ayr%C4%B1lmas%C4%B1)___ ile sonuçlanan çekişmeler sırasında Normanlar, yavaş ama emin adımlarla Bizans İtalya'sına doğru genişlemeye başlamıştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#208",
+            "sentence": "Calabria'nın ___E:tagma U:(https://tr.wikipedia.org/wiki/Tagma_(askeri))___ merkezi olan ___E:Reggio U:(https://tr.wikipedia.org/wiki/Reggio_Calabria)___ , 1060'ta ___E:Robert Guiscard U:(https://tr.wikipedia.org/wiki/Robert_Guiscard)___ tarafından ele geçirildi ve bunu 1068'de ___E:Otranto U:(https://tr.wikipedia.org/wiki/Otranto)___ 'nun kaybı izledi. ___E:Puglia U:(https://tr.wikipedia.org/wiki/Puglia)___ 'daki ana kale olan ___E:Bari U:(https://tr.wikipedia.org/wiki/Bari)___ , Ağustos 1068'de kuşatıldı ve ___E:Nisan 1071'de düştü U:(https://tr.wikipedia.org/wiki/Bari_Ku%C5%9Fatmas%C4%B1)___ ."
+        },
+        {
+            "id": "Bizans İmparatorluğu#209",
+            "sentence": "Bizanslılar bunun yanında, 1069 itibarıyla ___E:Dalmaçya U:(https://tr.wikipedia.org/wiki/Dalma%C3%A7ya)___ kıyılarındaki etkilerini, Hırvat kralı ___E:IV. Petar Krešimir U:(https://tr.wikipedia.org/wiki/IV._Petar_Kre%C5%A1imir)___ 'e ( h. 1058-1074/1075 ) kaybetti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#210",
+            "sentence": "Bunlara karşın bütün bu felaketlerin en kötüsü Anadolu'da yaşandı: 1065 ila 1067 yıllarında Selçuk Türkleri doğu Bizans sınırları dolaylarında Ermenistan içlerine keşiflere başladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#211",
+            "sentence": "Bu acil durum, 1068'de kendilerinden biri olan ___E:Romen Diyojen U:(https://tr.wikipedia.org/wiki/Romen_Diyojen)___ 'i imparator olarak seçen Anadolu'daki askerî aristokrasiyi etkiledi. 1071 yazında Romen Diyojen, Selçuklular'ı Bizans ordusuyla yüzleştirecek devasa bir doğu seferi düzenledi. ___E:Malazgirt Savaşı U:(https://tr.wikipedia.org/wiki/Malazgirt_Meydan_Muharebesi)___ 'nda Bizanslılar, sürpriz bir şekilde ___E:Sultan U:(https://tr.wikipedia.org/wiki/Sultan)___ ___E:Alp Arslan U:(https://tr.wikipedia.org/wiki/Alp_Arslan)___ tarafından yenilgiye uğradı ve imparator esir düştü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#212",
+            "sentence": "Alp Arslan, imparatora saygıyla yaklaştı ve Bizanslılara katı yaptırımlar empoze etmedi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#213",
+            "sentence": "Konstantinopolis'te ise bir askerî darbe sonucunda ___E:Mihail Dukas U:(https://tr.wikipedia.org/wiki/VII._Mihail)___ başa geçti ve bu iktidar, ___E:Nikiforos Bryennios U:(https://tr.wikipedia.org/wiki/Nikiforos_Briennios_(ya%C5%9Fl%C4%B1))___ ve ___E:Nikiforos Botaneiates U:(https://tr.wikipedia.org/wiki/III._Nikiforos)___ 'ten muhalefet gördü. 1081 yılı itibarıyla Selçuklular, Anadolu'da Ermenistan'dan ___E:Bitinya U:(https://tr.wikipedia.org/wiki/Bitinya)___ 'ya kadarki Anadolu platosunu görünürde ele geçirmişti ve başkentlerini Konstantinopolis'e sadece 90 km uzakta bulunan ___E:İznik U:(https://tr.wikipedia.org/wiki/%C4%B0znik)___ 'e taşımışlardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#214",
+            "sentence": "1081'den 1185'e kadar süren ___E:Komninos Hanedanı U:(https://tr.wikipedia.org/wiki/Komninos_Hanedan%C4%B1)___ 'nda beş imparator (I. Aleksios, II. İoannis, I. Manuil, II. Aleksios ve I. Andronikos) hüküm sürdü ve genel olarak Bizans'ın askerî, bölgesel, ekonomik ve siyasi pozisyonu üzerine süreğen, fakat sonuç itibarıyla tamamlanmamış bir restorasyon politikası yürütüldü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#215",
+            "sentence": "Her ne kadar Selçuk Türkleri Anadolu'da imparatorluğun kalbini ele geçirmiş olsa da, Bizans'ın çabalarının büyük bir kısmı bu dönemde ___E:Normanlar U:(https://tr.wikipedia.org/wiki/Normanlar)___ başta olmak üzere batı güçlerine yönelikti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#216",
+            "sentence": "Komninos altındaki imparatorluk, I. Aleksios'un da sebep olduğu Kutsal Topraklar'a yönelik Haçlı Seferleri tarihinde anahtar rol üstlendi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#217",
+            "sentence": "Bu süreçte özellikle İoannis ve Manuil dönemlerinde Avrupa'da, Yakın Doğu'da ve Akdeniz havzasında kültürel ve siyasi bakından büyük bir nüfuz gücü kullandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#218",
+            "sentence": "Komninos döneminde, Bizans ile Haçlı devletlerinin de dahil olduğu \"Latin\" Batı arasındaki iletişim oldukça ilerledi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#219",
+            "sentence": "Venedikli ve diğer İtalyan tüccarlar büyük miktardaki nüfuslarıyla Konstantinopolis başta olmak üzere ülkeye yerleşti (sadece 300 ila 400 binlik Konstantinopolis'te 60.000 Latin yaşıyordu) ve buna ek olarak I. Manuil tarafından yerleştirilen çok sayıda Latin paralı askerin nüfusa dahil oluşu, Bizans teknoloji, sanat, edebiyat ve kültürünün Latin Batı'ya sızmasına ve aynı şekilde Batı fikirlerinin imparatorluk içinde kendine yer bulmasına yol açtı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#220",
+            "sentence": "Zenginlik ve kültürel hayat göz önüne alındığında Komninos döneminin Bizans tarihindeki tepe noktalarından biri olduğu söylenebilir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#221",
+            "sentence": "Bu dönemde Konstantinopolis'in, Hristiyan dünyasında boyut, zenginlik ve kültür bakımından lider bir şehir olarak kaldığı görülebilir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#222",
+            "sentence": "Bu sıralarda ___E:Antik Yunan felsefesine U:(https://tr.wikipedia.org/wiki/Antik_Yunan_felsefesi)___ ve geleneksel Yunan edebiyatına dönük ilginin yeniden canlandığı görülebilir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#223",
+            "sentence": "Bizans sanatı ve edebiyatı Avrupa'da üstün bir yere sahip oldu ve bu etki oldukça uzun süreliydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#224",
+            "sentence": "Malazgirt sonrasında Komninos Hanedanı'nın çalışmaları sayesinde Komninos Restorasyonu da denilen kısmi bir toparlanma gözlemlendi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#225",
+            "sentence": "İlk Komninos hükümdarı ___E:I. İsaakios U:(https://tr.wikipedia.org/wiki/I._%C4%B0saakios)___ (1057–1059) idi. Bundan hemen sonra başlayan ___E:Dukas Hanedanı U:(https://tr.wikipedia.org/wiki/Dukas_Hanedan%C4%B1)___ 'nı (1059–81) izleyen süreçte I. Aleksios 1081'de başa geçerek Komninos'ların tekrar güç kazanmasına yol açtı. Tahta çıkışının başlangıcından itibaren Aleksios, Robert Guiscard ve oğlu ___E:Boemondo U:(https://tr.wikipedia.org/wiki/I._Boemondo)___ önderliğindeki Normanlar tarafından haşmetli saldırılara maruz kaldı: ___E:Dirrahium U:(https://tr.wikipedia.org/wiki/Dirrahium_Muharebesi_(1081))___ ve ___E:Korfu U:(https://tr.wikipedia.org/wiki/Korfu)___ elden çıktı, ___E:Teselya U:(https://tr.wikipedia.org/wiki/Teselya)___ 'daki ___E:Larisa U:(https://tr.wikipedia.org/wiki/Larisa)___ kuşatıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#226",
+            "sentence": "Robert Guiscard'ın 1085'te ölümü Norman sorununu bir süre yatıştırdı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#227",
+            "sentence": "Bir sonraki sene Selçuk sultanı da ölünce sultanlık iç rekabet nedeniyle parçalandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#228",
+            "sentence": "Aleksios kendi çabalarıyla, 28 Nisan 1091'deki ___E:Levounion Muharebesi U:(https://tr.wikipedia.org/wiki/Levounion_Muharebesi)___ 'nde sürpriz saldırı yaptığı ___E:Peçenekler U:(https://tr.wikipedia.org/wiki/Pe%C3%A7enekler)___ 'i ağır yenilgiye uğrattı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#229",
+            "sentence": "Batı'da istikrar sağlayan Aleksios, ekonomik sorunlara ve imparatorluğun geleneksel savunmasının bölünmesine eğilmek için zaman buldu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#230",
+            "sentence": "Buna rağmen, Selçukluların üzerine yürüyüp kayıp toprakları geri kazanacak insan gücüne sahip değildi. 1095'teki ___E:Piacenza Konsili U:(https://tr.wikipedia.org/wiki/Piacenza_Konsili)___ 'nde Aleksios'un elçileri ___E:Papa II. Urbanus U:(https://tr.wikipedia.org/wiki/II._Urbanus)___ 'a Doğu Hristiyanlarının zulüm altında olduğunu söyleyerek, Batı'nın yardımı olmadan Hristiyanların Müslüman yönetimi altında zulüm görmeye devam edeceklerinin altını çizdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#231",
+            "sentence": "Urbanus'a göre Aleksios'un bu talebi Batı Avrupa'yı güçlendirmek ve ___E:Doğu Ortodoks Kilisesi U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Ortodoks_Kilisesi)___ ile ___E:Roma Katolik Kilisesini U:(https://tr.wikipedia.org/wiki/Katolik_Kilisesi)___ kendi boyunduruğu altında birleştirmek için iyi bir fısattı.  27 Kasım 1095'te Papa II. Urbanus, ___E:Clermont Konsili U:(https://tr.wikipedia.org/wiki/Clermont_Konsili)___ 'ni topladı ve katılımcıları ___E:Haç U:(https://tr.wikipedia.org/w/index.php?title=Hristiyan_hac%C4%B1&action=edit&redlink=1)___ sembolü altında birleşerek askerî bir ___E:hac U:(https://tr.wikipedia.org/wiki/Hac)___ görünümünde Kudüs'ü ve Doğu'yu Müslümanların elinden tekrar almaya çağırdı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#232",
+            "sentence": "Batı Avrupa'nın bu çağrıya yanıtı ezici bir \"evet\"ti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#233",
+            "sentence": "Aleksios Batı'dan paralı asker yoluyla yardım bekliyordu ve kısa süre sonra Bizans topraklarında beliren tamamen hazırlıksız, disiplinsiz ve kalabalık orduya hazır değildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#234",
+            "sentence": "Gelen ordunun sekiz liderinden dördünün (hatta biri Boemondo) Norman olması Aleksios için iyi bir haber değildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#235",
+            "sentence": "Yine de Haçlılar Konstantinopolis'ten geçmek zorunda olduğundan, imparatorun olaylar üzerinde belli oranda kontrolü vardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#236",
+            "sentence": "İmparator, liderlerden Kutsal Topraklar'a giderken karşılarına çıkan bütün şehirleri Türkler'den alarak Bizans'a geri vermesi konusunda ant içmeyi şart koştu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#237",
+            "sentence": "Buna karşılık o da bu orduya rehber ve askerî refakat yardımı yaptı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#238",
+            "sentence": "Aleksios birçok önemli şehri, adayı ve Anadolu'nun batısını geri almayı başardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#239",
+            "sentence": "Buna karşın, Katolik/Latin haçlılar Aleksios'un Antakya Kuşatması'nda kendilerine verdiği sözü tutmadığına inanıyordu (aslında imparator Antakya'ya doğru yola koyulmuştu fakat ___E:Blois Kontu Stephen U:(https://tr.wikipedia.org/wiki/Stephen_(Blois_kontu))___ tarafından, seferin çoktan başarısız olduğu iddia edilerek geri dönmeye ikna edilmişti)."
+        },
+        {
+            "id": "Bizans İmparatorluğu#240",
+            "sentence": "Kendisini ___E:Antakya Prensi U:(https://tr.wikipedia.org/wiki/Antakya_prensleri_listesi)___ olarak ilan eden Boemondo, Bizanslılarla doğrudan savaşa girdi ama sonunda 1108'deki ___E:Devol Antlaşması U:(https://tr.wikipedia.org/wiki/Devol_Antla%C5%9Fmas%C4%B1)___ 'yla Aleksios'un vasalı olmayı kabul etti ve böylece bu imparator dönemindeki Norman tehlikesi sona erdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#241",
+            "sentence": "Aleksios'un oğlu ___E:II. İoannis U:(https://tr.wikipedia.org/wiki/II._%C4%B0oannis)___ , 1118'de görevi devralarak 1143'e kadar hüküm sürdü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#242",
+            "sentence": "İoannis dindar ve kararlı bir imparatordu ve yarım asır önceki Malazgirt'ten aldığı darbeyi tersine çevirmek konusunda kararlıydı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#243",
+            "sentence": "Dinî yönüyle bilinen İoannis'in dönemi, gözle görülür biçimde ılıman ve adildi ve hatta gaddarlığın norm olduğu bir dönemde istisnai etik bir yönetici örneği gösterdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#244",
+            "sentence": "Bu sebepten ötürü sıklıkla Bizans'ın ___E:Marcus Aurelius U:(https://tr.wikipedia.org/wiki/Marcus_Aurelius)___ 'u olarak adlandırıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#245",
+            "sentence": "Yirmi beş yıllık hükümdarlığı boyunca İoannis, Batı'da ___E:Kutsal Roma Cermen İmparatorluğu U:(https://tr.wikipedia.org/wiki/Kutsal_Roma_%C4%B0mparatorlu%C4%9Fu)___ ile ittifaklar kurarak ___E:Beroia Muharebesi U:(https://tr.wikipedia.org/wiki/Beroia_Muharebesi)___ 'nde ___E:Peçenekler U:(https://tr.wikipedia.org/wiki/Pe%C3%A7enekler)___ 'i ağır bir yenilgiye uğrattı.  1120'lerde Macar ve Sırp tehlikelerini saf dışı bıraktı ve 1130'da ___E:Cermen imparatoru U:(https://tr.wikipedia.org/wiki/Almanya_h%C3%BCk%C3%BCmdarlar%C4%B1_listesi)___ ___E:III. Lothar U:(https://tr.wikipedia.org/wiki/III._Lothar)___ ile Norman kralı ___E:II. Rugerro U:(https://tr.wikipedia.org/wiki/II._Rugerro_(Sicilya_kral%C4%B1))___ 'ya karşı itttifak kurdu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#246",
+            "sentence": "Tahtta olduğu son dönemlerde Doğu'ya odaklandı ve kişisel olarak Anadolu'da ___E:Türkler U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_halklar%C4%B1)___ üzerine seferler yönetti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#247",
+            "sentence": "Seferleri sonucu Doğu'da güç dengeleri uzun süreliğine değişti ve savunma durumuna geçen Türkler'den birçok şehir, kale, kasaba geri alındı. ___E:Melitene U:(https://tr.wikipedia.org/wiki/Malatya)___ 'deki ___E:Danişmentliler Devleti U:(https://tr.wikipedia.org/wiki/D%C3%A2ni%C5%9Fmendliler_Beyli%C4%9Fi)___ 'ne son vererek ___E:Kilikya U:(https://tr.wikipedia.org/wiki/Kilikya)___ 'yı geri aldı ve üzerine Antakya Prensi ___E:Antakyalı Raymond U:(https://tr.wikipedia.org/wiki/Raymond_(Antakya_prensi))___ 'u Bizans hükümdarlığını tanımaya zorladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#248",
+            "sentence": "İoannis, Hristiyan dünyasındaki önderliğini kanıtlama çabasıyla ___E:Haçlı devletleriyle U:(https://tr.wikipedia.org/wiki/Ha%C3%A7l%C4%B1_devletleri)___ beraber birleşik ittifakla ___E:Kutsal Topraklar U:(https://tr.wikipedia.org/wiki/Kutsal_Topraklar)___ 'a yürüdü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#249",
+            "sentence": "Seferin büyük coşkusuna karşın bazı Haçlıların ihaneti yüzünden imparatorluğun umutları suya düştü.  1142'de, Antakya'daki hak iddiası için bu şehre giden İoannis, 1143 baharında bir av kazası sonucu öldü. Raymond, hemen sonra Kilikya'yı ele geçirmeye cesaretlendiyse de, yenilerek imparatordan özür dilemek için Konstantinopolis'e gitmek zorunda kaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#250",
+            "sentence": "Yanni'nin kendi seçtiği varisi dördüncü oğlu ___E:I. Manuil U:(https://tr.wikipedia.org/wiki/I._Manuil)___ , doğuda ve batıda komşulara agresif seferler düzenledi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#251",
+            "sentence": "Manuil, Filistin'de Haçlı ___E:Kudüs Krallığı U:(https://tr.wikipedia.org/wiki/Kud%C3%BCs_Krall%C4%B1%C4%9F%C4%B1)___ ile anlaşarak ___E:Fatımi U:(https://tr.wikipedia.org/wiki/F%C3%A2t%C4%B1m%C3%AEler)___ egemenliği altındaki Mısır üzerine büyük bir donanma gönderdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#252",
+            "sentence": "Manuil, Antakya Prensi ___E:Renaud de Châtillon U:(https://tr.wikipedia.org/wiki/Renaud_(Antakya_prensi))___ ve Kudüs Kralı ___E:I. Amalrik U:(https://tr.wikipedia.org/wiki/I._Amalrik)___ ile anlaşarak, yani Antakya ile Kudüs'ü egemenlik altına alarak Haçlı devletleri arasında amir pozisyonunu güçlendirdi.  1155'te Güney İtalya limanlarını ele geçirmek için gönderdiği sefer, koalisyon içinde çıkan tartışmalar nedeniyle başarısızlıkla sonuçlandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#253",
+            "sentence": "Buna rağmen, Bizans güçleri 1167'de ___E:Sirmium Muharebesi U:(https://tr.wikipedia.org/w/index.php?title=Sirmium_Muharebesi&action=edit&redlink=1)___ 'nin ardından ___E:Macaristan Krallığı U:(https://tr.wikipedia.org/wiki/Macaristan_Krall%C4%B1%C4%9F%C4%B1_(1000-1301))___ 'nın güney topraklarını başarılı bir şekilde ele geçirdi. 1168 itibarıyla neredeyse bütün Doğu ___E:Adriyatik U:(https://tr.wikipedia.org/wiki/Adriyatik_Denizi)___ kıyıları Manuil'in elindeydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#254",
+            "sentence": "Manuil, Papa ve Batılı Hristiyan krallıklarla bazı anlaşmalar yaptı ve ___E:İkinci Haçlı Seferi U:(https://tr.wikipedia.org/wiki/%C4%B0kinci_Ha%C3%A7l%C4%B1_Seferi)___ sırasında orduların ülke topraklarından geçişi başarıyla kontrol altında tutuldu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#255",
+            "sentence": "Bunlara rağmen Manuil, 1176'da Türklerle yaptığı ___E:Miryokefalon Muharebesi U:(https://tr.wikipedia.org/wiki/Miryokefalon_Muharebesi)___ 'nde ağır bir yenilgiye uğradı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#256",
+            "sentence": "Ancak ülke kısa sürede toparlandı ve Manuil'in güçleri ertesi sene \"seçilmiş Türkler\"e karşı bir zafer elde etti.  Bizans komutanı ___E:İoannis Vatacis U:(https://tr.wikipedia.org/wiki/%C4%B0oannis_Komnenos_Vatacis)___ 'in Türk istilacı güçlerini yok ettiği ___E:Hyelion-Leimocheir Muharebesi U:(https://tr.wikipedia.org/wiki/Hyelion-Leimocheir_Muharebesi)___ 'nde birliklerin sadece başkentten gelmiyor oluşu ve yol üzerindeki yerleşimlerden de asker toplamaları, Bizans ordusunun hâlen güçlü olduğunun ve Anadolu'da yürüttüğü savunmacı politikalarının hâlen başarılı olduğunun ipuçlarını verir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#257",
+            "sentence": "İoannis ve Manuil aktif askerî politikalar izledi ve her ikisi de kuşatmalar ile şehir savunmaları için büyük kaynaklar ayırdı; agresif tahkimat çalışmaları, her ikisinin de temel askerî planının kalbini oluşturuyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#258",
+            "sentence": "Miryokefalon'daki yenilgiye rağmen Aleksios, İoannis ve Manuil'in izlediği politikalar, büyük toprak kazanımları, Anadolu ve Avrupa'da sınır güvenliği gibi önemli getirilere yol açtı. Yaklaşık 1081 ila 1180 arasında Komninos ordusu imparatorluğunun güvenliğini sağlayınca, Bizans medeniyetinin zenginleşmesine yol açıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#259",
+            "sentence": "Tüm bu gelişmeler, yüzyılın sonlarına kadar imparatorluğun Batı eyaletlerinde ekonomik bir canlanma yarattı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#260",
+            "sentence": "Bazı akademisyenlere göre, Komninos dönemi, 7. yüzyıldaki Pers saldırılarından beri Bizans'ın en zengin olduğu dönemdir. 12. yüzyıl süresince, nüfus arttı ve geniş topraklar tarıma açıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#261",
+            "sentence": "Arkeolojik buluntular, bu dönemde hem Avrupa'da hem de Anadolu'daki yerleşimlerin genişlediğine ve yeni yerleşimlerin sayısında hızlı bir artış olduğuna işaret eder. Ticari etkinliklerde de kayda değer ilerlemeler görüldü. ___E:Venedikliler U:(https://tr.wikipedia.org/wiki/Venedik_Cumhuriyeti)___ , ___E:Cenevizliler U:(https://tr.wikipedia.org/wiki/Ceneviz_Cumhuriyeti)___ ve diğerleri Ege limanlarını ticarete açtı; ___E:Haçlı devletlerinden U:(https://tr.wikipedia.org/wiki/Ha%C3%A7l%C4%B1_devletleri)___ ve Fatımi Mısır'dan Konstantinopolis'e mal girişleri oldu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#262",
+            "sentence": "Sanatta, ___E:mozaik U:(https://tr.wikipedia.org/wiki/Mozaik)___ sanatının yeniden canlandığı, yerel mimarlık okullarının farklı kültürel kaynaklardan ilham alan özgün tarzlar geliştirdiği görülür.  12. yüzyıl boyunca Bizanslılar erken ___E:hümanizm U:(https://tr.wikipedia.org/w/index.php?title=R%C3%B6nesans_h%C3%BCmanizmi&action=edit&redlink=1)___ modelini geliştirdiler; klasik dönem yazarlarına olan ilgide bir canlanma görüldü. ___E:Selanikli Efstathios U:(https://tr.wikipedia.org/w/index.php?title=Selanikli_Efstathios&action=edit&redlink=1)___ 'a bakıldığında, Bizans hümanizminin en karakteristik dışavurumu görülür."
+        },
+        {
+            "id": "Bizans İmparatorluğu#263",
+            "sentence": "Felsefede 7. yüzyıldan beri görülmemiş bir şekilde klasik öğrenim yeniden dirildi ve klasik eserler üzerine yorumların bulunduğu eserler giderek artan miktarlarda yayımlanır oldu.  Buna ek olarak, Yunan bilgi birikiminin Batı'ya ilk geçişi Komninos dönemi sırasında oldu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#264",
+            "sentence": "Manuil 24 Eylül 1180'de ölünce, 11 yaşındaki oğlu ___E:II. Aleksios U:(https://tr.wikipedia.org/wiki/II._Aleksios)___ tahta çıktı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#265",
+            "sentence": "Aleksios görevinde oldukça beceriksizdi fakat onun saltanatını asıl kötü üne kavuşturan şey annesi ___E:Antakyalı Maria U:(https://tr.wikipedia.org/wiki/Antakyal%C4%B1_Maria)___ ile onun Frank geçmişiydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#266",
+            "sentence": "Sonunda I. Aleksios'un torunu olan ___E:I. Andronikos U:(https://tr.wikipedia.org/wiki/I._Andronikos)___ , kendinden daha genç olan bu hükümdara karşı ayaklandı ve onu şiddetli bir darbeyle tahttan indirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#267",
+            "sentence": "Yakışıklılığını ve ordudaki popülerliğini kullanarak, Ağustos 1182'de Konstantinopolis'e ilerledi ve ___E:Latinlerin katledilmesi için tahrikte bulundu U:(https://tr.wikipedia.org/wiki/Latin_Katliam%C4%B1)___ ."
+        },
+        {
+            "id": "Bizans İmparatorluğu#268",
+            "sentence": "Potansiyel rakiplerini yok ettikten sonra, Eylül 1183'te kendini eş imparator ilan etti. Sonrasında II. Aleksios'tan kurtuldu ve onun 12 yaşındaki karısı ___E:Fransalı Agnes U:(https://tr.wikipedia.org/wiki/Agnes_(Bizans_imparatori%C3%A7esi))___ 'i kendi karısı yaptı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#269",
+            "sentence": "Andronikos yönetime iyi başladı ve idari reformları tarihçiler tarafından olumlu karşılandı. ___E:Georgiy Ostrogorskiy U:(https://tr.wikipedia.org/wiki/Georgi_Ostrogorski)___ 'e göre, Andronikos yolsuzluğun kökünü kazımak konusunda kararlıydı: Onun döneminde makamların satışı durdu; işe alımlar yandaşlıktan ziyade yeteneğe göre yapıldı; memurlara yeterli maaşlar verilerek rüşvete olan istek azaltıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#270",
+            "sentence": "Eyaletlerde, Andronikos'un reformları hızlı ve göze çarpan bir kalkınma yarattı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#271",
+            "sentence": "Aristokratlar ona karşı agresif bir tutum takındı ve imparator buna karşılık gittikçe şiddete dayalı bir tutum sergilemeye başladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#272",
+            "sentence": "Sonuç olarak karşısına çıkanları idam ettiği ve onlara şiddet uyguladığı korku ülkesinde, imparatorluğu kendi için de istikrarsız bir hale soktu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#273",
+            "sentence": "Andronikos neredeyse bütün aristokrasinin kökünden kazınmasını savunuyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#274",
+            "sentence": "Bu tutumu neredeyse toplu katliamlara dönüştü ve kendi rejimini desteklemek için daha acımasız yasalara başvurdu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#275",
+            "sentence": "Askerî arka planına rağmen Andronikos, ___E:İsaakios Komnenos U:(https://tr.wikipedia.org/wiki/%C4%B0saakios_Komnenos_(K%C4%B1br%C4%B1sl%C4%B1))___ 'a, Hırvat topraklarını Macar topraklarına katan ___E:III. Béla U:(https://tr.wikipedia.org/wiki/III._B%C3%A9la)___ 'ya ( h. 1172-1196 ) ve Bizans'tan bağımsızlığını ilan eden Sırp ___E:Stefan Nemanja U:(https://tr.wikipedia.org/wiki/Stefan_Nemanja)___ 'ya ( h. 1166-1196 ) söz geçiremedi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#276",
+            "sentence": "Üstelik bu sorunlardan hiçbiri 1185'te Sicilya kralı ___E:II. Guglielmo U:(https://tr.wikipedia.org/wiki/II._Guglielmo_(Sicilya_kral%C4%B1))___ 'ın ( h. 1166-1189 ) 300 gemi ve 80.000 kişilik orduyla Bizans'ın üstüne yürümesi kadar önemli değildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#277",
+            "sentence": "Andronikos, başkenti korumak için 100 gemilik küçük bir donanmayla seferber oldu ve bunun dışında halka da kayıtsız kaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#278",
+            "sentence": "Sonuçta daha öncesinde bir suikast girişiminden sağ kalan ___E:II. İsaakios U:(https://tr.wikipedia.org/wiki/II._%C4%B0saakios)___ , halkın yardımıyla Andronikos'u tahtından etti ve onu idam ettirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#279",
+            "sentence": "II. İsaakios ve özellikle erkek kardeşi ___E:III. Aleksios U:(https://tr.wikipedia.org/wiki/III._Aleksios)___ 'un dönemleri, Bizans'ın idari ve savunma açısından merkezi işleyişinin çöküşünün görüldüğü yıllardır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#280",
+            "sentence": "Her ne kadar Normanlar Yunanistan'dan atılsa da, 1186'da ___E:Ulahlar U:(https://tr.wikipedia.org/wiki/Ulahlar)___ ve Bulgarlar ayaklanarak ___E:İkinci Bulgar İmparatorluğu U:(https://tr.wikipedia.org/wiki/%C4%B0kinci_Bulgar_%C4%B0mparatorlu%C4%9Fu)___ 'nu kurdu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#281",
+            "sentence": "Angeloslar'ın iç politikası devletin hazinesinin çarçur edilmesi ve finansal kötü yönetim etrafında şekillendi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#282",
+            "sentence": "İmparatorluk otoritesi ciddi biçimde zayıfladı ve ve imparatorluğun merkezindeki güç vakumu parçalanmayı destekler hale geldi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#283",
+            "sentence": "Önceki Komninos soyundan ileri gelen bazı kimselerin 1204'ten önce ___E:Trebizond U:(https://tr.wikipedia.org/wiki/Trabzon)___ 'da yarı özerk bir devlet kurma girişimlerine dair kanıtlar bulunmaktadır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#284",
+            "sentence": "Tarihçi ___E:Aleksandr Vasilyev U:(https://tr.wikipedia.org/wiki/Aleksandr_Vasilyev_(tarih%C3%A7i))___ bu süreç üzerine şunları söyledi: \"Rum asıllı Angelos Hanedanı, ... çoktan dışta zayıf içte parçalanmış haliyle imparatorluğun çöküşünü hızlandırdı.\""
+        },
+        {
+            "id": "Bizans İmparatorluğu#285",
+            "sentence": "1198'de, ___E:Papa III. Innocentius U:(https://tr.wikipedia.org/wiki/III._Innocentius)___ , yeni bir Haçlı Seferi'ni ___E:elçiler U:(https://tr.wikipedia.org/wiki/Papal%C4%B1k_temsilcisi)___ ve ___E:genelgeler U:(https://tr.wikipedia.org/w/index.php?title=Papa_genelgesi&action=edit&redlink=1)___ yoluyla yaydı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#286",
+            "sentence": "Bu yeni Haçlı Seferi'nin amacının amacı Mısır ve Müslümanların güç merkezinin bulunduğu ___E:Levant U:(https://tr.wikipedia.org/wiki/Levant)___ 'ı ele geçirmek olarak belirtildi. 1202 yazında ___E:Venedik U:(https://tr.wikipedia.org/wiki/Venedik_Cumhuriyeti)___ 'e varan Haçlı ordusu, beklenenden küçüktü ve donanması Haçlı devletleri tarafından kiralanan Venediklilerin parasını ödeyecek kadar zengin değildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#287",
+            "sentence": "Yaşlı ve kör olduğu halde hâlen azimli ___E:Doçe U:(https://tr.wikipedia.org/wiki/Do%C3%A7e)___ ___E:Enrico Dandolo U:(https://tr.wikipedia.org/wiki/Enrico_Dandolo)___ yönetimindeki Venedik otoritesi Papa ile olası bir anlaşmazlığa sürüklendi, çünkü Venedik Mısır'a ticari açıdan oldukça yakındı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#288",
+            "sentence": "Bunun sonucunda, Haçlılar ___E:Dalmaçya U:(https://tr.wikipedia.org/wiki/Dalma%C3%A7ya)___ 'daki (Hristiyan) liman kenti ___E:Zara U:(https://tr.wikipedia.org/wiki/Zadar)___ 'yı (bu şehir önceden Venedik'in bir vasalıydı fakat 1186'da ayaklanıp Macaristan'a katılmıştı) yeniden fethetmekte Venedik'e yardım ederek ödeme yapmayı kabullendi.  ___E:Kuşatmanın U:(https://tr.wikipedia.org/w/index.php?title=Zara_Ku%C5%9Fatmas%C4%B1&action=edit&redlink=1)___ ardından Kasım 1202'de şehir düştü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#289",
+            "sentence": "Innocentius bir Hristiyan şehrine böylesi bir siyasi saldırının yapılmasını yasaklamaya çalıştıysa da dinlenmedi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#290",
+            "sentence": "Haçlı Seferi konusundaki planlarını riske atmaya isteksiz olan Papa, Haçlılara değilse bile Venediklilere özel şartlı af çıkardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#291",
+            "sentence": "___E:Champagne Kontu III. Theobald U:(https://tr.wikipedia.org/w/index.php?title=III._Theobald,_Champagne_Kontu&action=edit&redlink=1)___ ölünce Haçlı'nın liderliği, ___E:Hohenstaufen Hanedanı U:(https://tr.wikipedia.org/wiki/Hohenstaufen_Hanedan%C4%B1)___ 'ndan ___E:Svabyalı Filip U:(https://tr.wikipedia.org/w/index.php?title=Svabyal%C4%B1_Filip&action=edit&redlink=1)___ 'in arkadaşı olan ___E:I. Bonifacio del Monferrato U:(https://tr.wikipedia.org/wiki/I._Bonifacio_del_Monferrato)___ 'ya geçti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#292",
+            "sentence": "Hem Bonifacio hem Filip Bizans İmparatorluğu sarayından kimselerle evliydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#293",
+            "sentence": "Hatta görevden alınıp kör edilmiş imparator ___E:II. İsaakios U:(https://tr.wikipedia.org/wiki/II._%C4%B0saakios)___ 'un oğlu ve Filip'in kayınbiraderi ___E:IV. Aleksios U:(https://tr.wikipedia.org/wiki/IV._Aleksios)___ , yardım istemek ve Haçlılar ile görüşmek adına Avrupa yollarına düşmüştü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#294",
+            "sentence": "Aleksios, Bizans kilisesini Roma'dakiyle birleştirmeyi, Haçlılar'a 200.000 gümüş marka vermeyi, Mısır yolunda onlara her türlü desteği sağlamayı teklif etti.  Innocentius Haçlıların ikiye bölünüp bir kolunun Konstantinopolis'e gitmeyi planladığının farkındaydı ve bu şehre herhangi bir saldırıyı yasakladı, ancak donanmaya yazdığı mektup Zara'ya ulaştığında Haçlılar çoktan yola koyulmuştu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#295",
+            "sentence": "Haçlılar Konstantinopolis'e 1203 yazında vardı ve hiç gecikmeden şehre saldırarak ve şehrin büyük kısmına zarar veren bir yangın çıkararak şehri doğrudan ele geçirdiler."
+        },
+        {
+            "id": "Bizans İmparatorluğu#296",
+            "sentence": "III. Aleksios başkentten kaçtı ve Aleksios Angelos, \" ___E:IV. Aleksios U:(https://tr.wikipedia.org/wiki/IV._Aleksios)___ \" adıyla kör babası İsaakios ile beraber tahta çıkarıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#297",
+            "sentence": "Ancak, IV. Aleksios ve II. İsaakios verdikleri sözleri tutamayınca V. Aleksios tarafından tahttan indirildiler."
+        },
+        {
+            "id": "Bizans İmparatorluğu#298",
+            "sentence": "Haçlılar 13 Nisan 1204'te tekrar şehri kuşatarak yeniden ele geçirdiler ve şehir üç gün boyunca mevki ve unvanlara göre bir katliama ve yağmaya maruz kaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#299",
+            "sentence": "Birçok paha biçilemez ikon, eser ve diğer nesneler çoğu Venedik'e gitmek üzere Batı Avrupa'ya götürüldü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#300",
+            "sentence": "Khoniates'e göre bu süreçte patrik tahtına bir ___E:hayat kadını U:(https://tr.wikipedia.org/wiki/Hayat_kad%C4%B1n%C4%B1)___ bile oturtulmuştu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#301",
+            "sentence": "III. Innocentius bu olanları duyunca Haçlıları derhal azarladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#302",
+            "sentence": "Ancak durum kendi kontrolünün dışındaydı ve hatta Papa'nın kendi elçileri bizzat kendi kararlarıyla Haçlılar'ın Kutsal Topraklar'a devam etme görevini iptal etmişti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#303",
+            "sentence": "Yeni bir emir verildiğinde, haçlılar ve Venedikliler anlaşmalarını hayata geçirdi: ___E:Flaman Baodouin U:(https://tr.wikipedia.org/wiki/I._Baudouin_(Latin_imparatoru))___ , yeni ___E:Latin İmparatorluğu U:(https://tr.wikipedia.org/wiki/Latin_%C4%B0mparatorlu%C4%9Fu)___ 'nun başına getirildi ve Venedikli ___E:Thomas Morosini U:(https://tr.wikipedia.org/w/index.php?title=Thomas_Morosini&action=edit&redlink=1)___ Patrik olarak seçildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#304",
+            "sentence": "Her ne kadar liderler Bizans'ın eski toprakları üzerinde kendi isteklerine göre bir paylaşım yapsalar da, Bizans topraklarının farklı yerlerinde ___E:İznik U:(https://tr.wikipedia.org/wiki/%C4%B0znik_%C4%B0mparatorlu%C4%9Fu)___ , ___E:Trabzon U:(https://tr.wikipedia.org/wiki/Trabzon_%C4%B0mparatorlu%C4%9Fu)___ ve ___E:Epir U:(https://tr.wikipedia.org/wiki/Epir_Despotlu%C4%9Fu)___ başta olmak üzere direnişler görüldü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#305",
+            "sentence": "Venedik toprak fethetmekten ziyade ticaretle daha ilgili olsa da, Konstantinopolis'in en önemli noktalarını kendi kontrolü altına aldı ve Doc \"Roma İmparatorluğu'nun Bir Buçuk Çeyreğinin Lordu\" unvanını kazandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#306",
+            "sentence": "Latin haçlılar 1204'te Konstantinopolis'i yağmaladıktan sonra iki Bizans ardılı devlet ortaya çıktı: ___E:İznik İmparatorluğu U:(https://tr.wikipedia.org/wiki/%C4%B0znik_%C4%B0mparatorlu%C4%9Fu)___ ve ___E:Epir Despotluğu U:(https://tr.wikipedia.org/wiki/Epir_Despotlu%C4%9Fu)___ ."
+        },
+        {
+            "id": "Bizans İmparatorluğu#307",
+            "sentence": "Bir üçüncü devlet olan ___E:Trabzon İmparatorluğu U:(https://tr.wikipedia.org/wiki/Trabzon_%C4%B0mparatorlu%C4%9Fu)___ , ___E:Aleksios U:(https://tr.wikipedia.org/wiki/I._Aleksios_(Trabzon_imparatoru))___ tarafından yağmanın birkaç hafta öncesinde kurulmuştu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#308",
+            "sentence": "Bu üçü içerisinde sadece Epir ve İznik Konstantinopolis'i tekrar ele geçirme fırsatları elde etti. Ancak, İznik İmparatorluğu sonraki yıllarda var olmak için mücadele verdi ve 13. yüzyıl ortalarına gelindiğinde Güney Anadolu'nun büyük bir kısmını kaybetmişti.  ___E:1242–43 Moğol istilalarının U:(https://tr.wikipedia.org/wiki/K%C3%B6seda%C4%9F_Muharebesi)___ ardından ___E:Anadolu Selçuklu Devleti U:(https://tr.wikipedia.org/wiki/Anadolu_Sel%C3%A7uklu_Devleti)___ de zayıflamıştı ve ortaya çıkan irili ufaklı ___E:beylikler U:(https://tr.wikipedia.org/wiki/Anadolu_beylikleri)___ ile ___E:gazveler U:(https://tr.wikipedia.org/wiki/Gazve)___ Bizans'ın Anadolu'daki gücünü iyice zayıflattı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#309",
+            "sentence": "İlerleyen dönemlerde bu beylerden birisi olan ___E:Osman Gazi U:(https://tr.wikipedia.org/wiki/Osman_Gazi)___ beylik sınırlarını genişletecek ve beylik Konstantinopolis'i fethedecekti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#310",
+            "sentence": "Yine de Moğol istilaları Selçukluların istilalarını geçici bir süre bir nebze yatıştırdığından İznik, kuzeydeki Latinler ile savaşa odaklandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#311",
+            "sentence": "___E:Laskaris Hanedanı U:(https://tr.wikipedia.org/wiki/Bizans_imparatorlar%C4%B1_listesi)___ tarafından kurulan İznik İmparatorluğu, 1261'de ___E:Konstantinopolis'i Latinler'den aldı U:(https://tr.wikipedia.org/wiki/Aleksios_Strategopulos#Konstantinopolis'in_yeniden_alınması)___ ve Epir'i yendi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#312",
+            "sentence": "Bu durum Bizans'ın ___E:VIII. Mihail U:(https://tr.wikipedia.org/wiki/VIII._Mihail)___ altında kısa süreli bir yeniden canlanışına neden olduysa da, savaş yorgunu imparatorluğun çevresindeki düşmanlarla savaşacak imkânı yoktu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#313",
+            "sentence": "Latinler üzerine yaptığı seferlerin devamlılığını sağlamak adına Mihail Anadolu'dan askerlerini çekerek köylülerden çok ağır vergiler toplamaya başladı ve bu durum halkta kızgınlık yarattı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#314",
+            "sentence": "Dördüncü Haçlı Seferi'ndeki hasarları gidermek adına Konstantinopolis'te devasa inşaat projeleri görüldü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#315",
+            "sentence": "Bunların hiçbiri Anadolu'da Türk akınları altında kalan çiftçilerin yararına değildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#316",
+            "sentence": "Anadolu'da sahip olduklarıyla yetinmek istemeyen Mihail, imparatorluğu genişletmeye çalıştıysa da sadece kısa dönemde başarılı oldu. Başkentin Latinler tarafından bir kere daha yağmalanmasının önüne geçmek adına Kilise'yi Roma'ya boyun eğmeye zorladı ki bu da geçici bir çözümdü zira köylüler Mihail'den ve Konstantinopolis'ten nefret ediyordu.  ___E:II. Andronikos U:(https://tr.wikipedia.org/wiki/II._Andronikos)___ ve daha sonraları torunu ___E:III. Andronikos U:(https://tr.wikipedia.org/wiki/III._Andronikos)___ Bizans'ın görkemini yeniden canlandırmak için son hakiki girişimleri yaptı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#317",
+            "sentence": "Buna rağmen II. Andronikos'un paralı askerleri sıklıkla ters tepiyor, ___E:Katalan Bölüğü U:(https://tr.wikipedia.org/wiki/Katalan_B%C3%B6l%C3%BC%C4%9F%C3%BC)___ taşraya saldırıp halkın başkente olan öfkesini artırıyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#318",
+            "sentence": "III. Andronikos öldükten sonra patlak veren iç savaşlar durumu daha da kötüye götürdü. ___E:Altı yıl süren bir iç savaş U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0%C3%A7_Sava%C5%9F%C4%B1_(1341-1347))___ imparatorluğu mahvetti ve Sırp hükümdar ___E:Stefan Dušan U:(https://tr.wikipedia.org/wiki/Stefan_Du%C5%9Fan)___ ( h. 1331-1346 ) fırsattan istifade ülkenin büyük bir kısmını istila ederek ___E:Sırp İmparatorluğu U:(https://tr.wikipedia.org/wiki/S%C4%B1rp_%C4%B0mparatorlu%C4%9Fu)___ 'nu kurdu. 1354'te ___E:Gelibolu U:(https://tr.wikipedia.org/wiki/Gelibolu)___ 'daki bir deprem kaleyi yıktı ve böylece ___E:Osmanlılar U:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)___ (iç savaş sırasında ___E:VI. İoannis Kantakuzinos U:(https://tr.wikipedia.org/wiki/VI._%C4%B0oannis)___ tarafından paralı asker olarak tutulmuşlardı) Avrupa'daki ilk topraklarına kavuştu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#319",
+            "sentence": "İç savaş bittiğinde, Osmanlılar çoktan Sırpları yenerek onları vasal halinde yönetim altına almışlardı. ___E:Kosova Savaşı U:(https://tr.wikipedia.org/wiki/Kosova_Sava%C5%9F%C4%B1)___ 'nın ardından Balkanların büyük kısmı Osmanlıların egemenliğindeydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#320",
+            "sentence": "Bizans imparatorları Batı'dan yardım istedi, fakat Papa böyle bir yardımı sadece Doğu Ortodoks Kilisesi ile ___E:Roma Makamı U:(https://tr.wikipedia.org/wiki/Kutsal_Makam)___ 'nın birleştirilmesi karşılığında yapacağını söyledi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#321",
+            "sentence": "Birleşme düşünüldü ve zaman zaman imparatorluk hükmüyle başarıldı ancak Ortodoks vatandaşlar ve ruhban sınıfı Roma'ya ve ___E:Latin Kilisesi U:(https://tr.wikipedia.org/wiki/Latin_Kilisesi)___ 'ne büyük kızgınlık duyuyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#322",
+            "sentence": "Bazı Batı birlikleri Konstantinopolis'in Hristiyan varlığını desteklemek için geldiyse de, birçok Batı hükûmdarı kendi işleriyle meşguldü ve Osmanlı Bizans topraklarının geriye kalan kısmını ele geçirmeye devam etti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#323",
+            "sentence": "Konstantinopolis bu sıralarda terk edilmiş ve yıkık dökük bir durumdaydı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#324",
+            "sentence": "Nüfus düşüşü o kadar büyüktü ki, artık birbirinden tarlalarla ayrılmış köy kümelerinden fazlası değildi. 2 Nisan 1453'te, ___E:Fatih Sultan Mehmed U:(https://tr.wikipedia.org/wiki/II._Mehmed)___ 'in 80.000 kişilik ordusu ve çok sayıda düzensiz birlikleriyle şehri kuşattı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#325",
+            "sentence": "Sayıca oldukça az sayıdaki Hristiyan kuvvetleri (yaklaşık 7000 erkek, 2000'i yabancıydı) umutsuzca kenti son bir şans savunmaya çalışsa da,  iki aylık kuşatmanın ardından 29 Mayıs 1453'te ___E:Konstantinopolis düştü U:(https://tr.wikipedia.org/wiki/%C4%B0stanbul%27un_Fethi)___ ."
+        },
+        {
+            "id": "Bizans İmparatorluğu#326",
+            "sentence": "Şehrin surları düşünce Bizans imparatoru ___E:XI. Konstantinos U:(https://tr.wikipedia.org/wiki/XI._Konstantinos)___ , son olarak imparatorluk kılığını fırlatıp göğüs göğüse savaşmak için sokaklara inerken görüldü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#327",
+            "sentence": "Konstantinopolis düştüğünde Bizans'ın elinde kalan tek toprak, son imparatorun kardeşleri ___E:Thomas Paleologos U:(https://tr.wikipedia.org/wiki/Thomas_Paleologos)___ ve ___E:Dimitrios Paleologos U:(https://tr.wikipedia.org/wiki/Dimitrios_Paleologos)___ tarafından yönetilen ___E:Mora Despotluğu U:(https://tr.wikipedia.org/wiki/Mora_Despotlu%C4%9Fu)___ idi. Despotluk, bağımsız olarak Osmanlılara yıllık haraç ödemek şartıyla varlığını sürdürdü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#328",
+            "sentence": "Beceriksiz yönetim, haracı ödeyememe, Osmanlılara karşı ayaklanmalar gibi sebeplerden ötürü Mora da Mayıs 1460'ta II. Mehmed'in ordusuna yenik düştü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#329",
+            "sentence": "Demetrios, Osmanlılardan Mora'yı işgal edip Thomas'ı çıkarmalarını rica etmişti ancak Thomas kaçtı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#330",
+            "sentence": "Osmanlılar Mora boyunca yürüdüler ve görünüşte bütün Despotluk'u yaz sonu itibarıyla ele geçirdiler."
+        },
+        {
+            "id": "Bizans İmparatorluğu#331",
+            "sentence": "Demetrios, Mora'nın yönetiminin kendine kalacağını düşündü ancak yarımada tamamen Osmanlılar'a kaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#332",
+            "sentence": "Birkaç anlaşmazlık daha bir süre devam etti. ___E:Monemvasia U:(https://tr.wikipedia.org/wiki/Benef%C5%9Fe)___ adası teslim olmayı reddetti ve ilk dönemlerde kısa süre Aragonlu bir korsan tarafından yönetildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#333",
+            "sentence": "Ada sakinleri bu korsanı kovunca Thomas'ın rızasını alarak 1460 yılı bitmeden Papa'nın koruması altına alınmayı kabul ettiler."
+        },
+        {
+            "id": "Bizans İmparatorluğu#334",
+            "sentence": "Mora'nın güney ucundaki ___E:Mani Yarımadası U:(https://tr.wikipedia.org/wiki/Manya_Burnu)___ yerel kabilelerin zayıf bir koalisyonu altında direnmeye devam etti ve bir süre sonra Venedikliler tarafından ilhak edildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#335",
+            "sentence": "Direnişlerin sonuncusu Mora'nın kuzeybatısındaki ___E:Salmeniko U:(https://tr.wikipedia.org/w/index.php?title=Salmeniko&action=edit&redlink=1)___ 'da yaşandı. ___E:Greças Paleologos U:(https://tr.wikipedia.org/w/index.php?title=Gre%C3%A7as_Paleologos&action=edit&redlink=1)___ buradaki ___E:Salmeniko Kalesi U:(https://tr.wikipedia.org/w/index.php?title=Salmeniko_Kalesi&action=edit&redlink=1)___ 'nde askerî komutanlık yaptı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#336",
+            "sentence": "Kasaba bir süre sonra teslim olsa da, Graitzas, garnizonu ve bazı kasabalılarla beraber Temmuz 1461'e kadar kalede yaşadı ve bu tarihten sonra Venedik topraklarına göçtü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#337",
+            "sentence": "Konstantinopolis'in 1204'te Latinler tarafından ele geçirilmesinden hemen önce bağımsızlığını ilan eden ___E:Trabzon İmparatorluğu U:(https://tr.wikipedia.org/wiki/Trabzon_%C4%B0mparatorlu%C4%9Fu)___ , Bizans'tan arta kalan son fiili devlet oldu. ___E:İmparator David U:(https://tr.wikipedia.org/wiki/David_(Trabzon_imparatoru))___ 'in Batı'dan Osmanlı'ya karşı yardım istemesi iki devlet arasında 1461 yazında bir savaşa neden oldu. Bir aylık kuşatmadan sonra 14 Ağustos 1461'de David teslim oldu ve Trabzon Osmanlı'ya geçti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#338",
+            "sentence": "Trabzon İmparatorluğu'nun Kırım eyaleti olan ___E:Theodoro Prensliği U:(https://tr.wikipedia.org/wiki/Theodoro_Prensli%C4%9Fi)___ ( ___E:Perateia U:(https://tr.wikipedia.org/wiki/Perateia)___ 'nın bir parçasıydı) olaydan sonra 14 yıl daha varlığını sürdürdü ve 1475'te Osmanlı'nın eline geçti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#339",
+            "sentence": "Son imparator XI. Konstantinos'un yeğeni ___E:Andreas Paleologos U:(https://tr.wikipedia.org/w/index.php?title=Andreas_Paleologos&action=edit&redlink=1)___ , ___E:Bizans İmparatoru U:(https://tr.wikipedia.org/wiki/Bizans_imparatorlar%C4%B1_listesi)___ olarak hak iddia etti. 1460'taki yenilgisine kadar Mora'da yaşamaya devam etti ve sonrasında Roma'ya kaçarak ___E:Papalık Devleti U:(https://tr.wikipedia.org/wiki/Papal%C4%B1k_Devleti)___ koruması altında yaşadı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#340",
+            "sentence": "Bizans imparatorluk makamı teknik olarak hiçbir zaman babadan oğula geçmediği için Andreas'ın hak iddiası Bizans yasaları altında dayanaksız da olsa doğru olabilirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#341",
+            "sentence": "Ancak, imparatorluk yok olmuştu ve Batılı devletler Roma Kilisesi tarafından tasdik edilmiş babadan oğula geçen iktidar sistemini kullanıyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#342",
+            "sentence": "Batıda yeni bir yaşam arayan Andreas, kendine Imperator Constantinopolitanus (\"Konstantinopolis İmparatoru\") unvanını taktı ve kendinin ardılı olma haklarını ___E:VIII. Charles U:(https://tr.wikipedia.org/wiki/VIII._Charles)___ ile beraber ___E:Katolik Krallara U:(https://tr.wikipedia.org/wiki/Katolik_h%C3%BCk%C3%BCmdarlar)___ sattı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#343",
+            "sentence": "Ancak, kimsenin Andreas'ın ölümünden sonra bu unvanla ilgili bir teşebbüsü olmadı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#344",
+            "sentence": "___E:XI. Konstantinos U:(https://tr.wikipedia.org/wiki/XI._Konstantinos)___ herhangi bir varisi olmadan öldü; eğer Konstantinopolis düşmeseydi tahta kendinden sonra muhtemelen ölmüş ağabeyinin oğulları çıkacaktı fakat şehir düşünce bu yeğenleri II. Mehmed tarafından saray hizmetine alındı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#345",
+            "sentence": "Büyük yeğen Has Murad adını aldı ve Sultan Mehmed'in favorisi olarak Balkan Beylerbeyi olarak görev yaptı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#346",
+            "sentence": "Küçük yeğen ___E:Mesih Paşa U:(https://tr.wikipedia.org/wiki/Mesih_Pa%C5%9Fa)___ unvanını alarak, Osmanlı donanmasına amiral ve Gelibolu Sancağı'na Sancak Beyi oldu. Sonraki dönemde, Mehmed'in oğlu ___E:II. Bayezid U:(https://tr.wikipedia.org/wiki/II._Bayezid)___ 'in yanında iki kez sadrazamlık yaptı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#347",
+            "sentence": "II. Mehmed ve ardılları 20. yüzyıl başında ___E:Osmanlı İmparatorluğu parçalanana kadar U:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu_da%C4%9F%C4%B1lma_d%C3%B6nemi)___ kendilerini Roma İmparatorluğu'nun vârisi olarak gördüler."
+        },
+        {
+            "id": "Bizans İmparatorluğu#348",
+            "sentence": "Onlara göre Osmanlılar tıpkı Konstantinos'un yaptığı gibi sadece ülkenin dinî temellerini değiştirmişti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#349",
+            "sentence": "Osmanlılar, ele geçirdiği topraklarda yaşayan Doğu Romalılara ( ___E:Ortodoks Hristiyanlar U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Ortodoks_Kilisesi)___ ) ___E:Rûm U:(https://tr.wikipedia.org/wiki/Rum)___ demeye devam etti. Bu sırada ___E:Tuna Prenslikleri U:(https://tr.wikipedia.org/wiki/Tuna_Prenslikleri)___ de (bu ülkelerin yöneticileri de kendilerini Doğu Roma İmparatorları'nın vârisi olarak görüyordu  ) Bizans asilleri de dahil Ortodoks mültecilere ev sahipliği yapıyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#350",
+            "sentence": "İmparator öldükten sonra ___E:Moskova U:(https://tr.wikipedia.org/wiki/Moskova_Knezli%C4%9Fi)___ ___E:Grandükü U:(https://tr.wikipedia.org/wiki/Grand%C3%BCk)___ ___E:III. İvan U:(https://tr.wikipedia.org/wiki/III._%C4%B0van)___ , Doğu Ortodoksları'nın patronu olarak hak iddia etti. Andreas'ın kız kardeşi ___E:Sofya Palaiologina U:(https://tr.wikipedia.org/wiki/Zoi_Palaiologina)___ ile evliydi ve torunları ___E:Korkunç İvan U:(https://tr.wikipedia.org/wiki/IV._%C4%B0van)___ Rusya'nın ilk ___E:çarı U:(https://tr.wikipedia.org/wiki/%C3%87ar)___ oldu ( tsar veya czar , caesar , yani \"sezar\" anlamına gelir ve Slavlar geleneksel olarak Bizans imparatorlarını bu şekilde adlandırır)."
+        },
+        {
+            "id": "Bizans İmparatorluğu#351",
+            "sentence": "Onların ardılları da Moskova'nın Roma ve Konstantinopolis'in varisi olmak için uygun bir şehir olduğu fikrini destekledi. ___E:Rus İmparatorluğu U:(https://tr.wikipedia.org/wiki/Rus_%C4%B0mparatorlu%C4%9Fu)___ 'nun bu ___E:Üçüncü Roma U:(https://tr.wikipedia.org/w/index.php?title=%C3%9C%C3%A7%C3%BCnc%C3%BC_Roma&action=edit&redlink=1)___ fikri, ___E:Rus Devrimi U:(https://tr.wikipedia.org/wiki/Rus_Devrimi_(1917))___ 'ne kadar var olmayı sürdürdü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#352",
+            "sentence": "Bizans ekonomisi, yüzyıllar boyunca ___E:Avrupa U:(https://tr.wikipedia.org/wiki/Avrupa)___ ve ___E:Akdeniz U:(https://tr.wikipedia.org/wiki/Akdeniz_Havzas%C4%B1)___ 'in en ileri ekonomilerindendi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#353",
+            "sentence": "Özellikle Avrupa, ___E:Orta Çağ U:(https://tr.wikipedia.org/wiki/Orta_%C3%87a%C4%9F)___ sonlarına kadar Bizans'ın ekonomik gücüne erişemedi. ___E:Konstantinopolis U:(https://tr.wikipedia.org/wiki/Konstantinopolis)___ , zaman zaman neredeyse bütün ___E:Avrasya U:(https://tr.wikipedia.org/wiki/Avrasya)___ ve ___E:Kuzey Afrika U:(https://tr.wikipedia.org/wiki/Kuzey_Afrika)___ ticaret ağının ana merkeziydi ve özellikle ___E:İpek Yolu U:(https://tr.wikipedia.org/wiki/%C4%B0pek_Yolu)___ 'nun batıdaki ucuna tekabül ediyordu. 6. yüzyılın ilk yarısına kadar, gerileyen Batı'ya tezat oluştururcasına Bizans ekonomisi büyüme ve istikrar içerisindeydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#354",
+            "sentence": "___E:Justinianus Veba Salgını U:(https://tr.wikipedia.org/wiki/Justinianus_Veba_Salg%C4%B1n%C4%B1)___ ve ___E:Arap istilaları U:(https://tr.wikipedia.org/wiki/%C4%B0slam%27%C4%B1n_yay%C4%B1l%C4%B1%C5%9F%C4%B1)___ ile beraber ekonomideki durumlar kötüleşti ve bir duraklama, hatta gerileme içine girildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#355",
+            "sentence": "İsaurya reformları ve özellikle ___E:V. Konstantinos U:(https://tr.wikipedia.org/wiki/V._Konstantinos)___ 'un repopülasyonu, bayındırlık girişimleri ve vergi ölçülendirmeleri, sınır genişliğinden bağımsız olarak 1204'e kadar sürecek bir ekonomik canlanmayı işaret etti.  10. yüzyıldan 12. yüzyılın sonuna kadar Bizans, \"lüks\" imajına sahipti ve ülkeyi ziyaret edenler, başkentteki zenginlik karşısında etkilenmekteydi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#356",
+            "sentence": "___E:Dördüncü Haçlı Seferi U:(https://tr.wikipedia.org/wiki/D%C3%B6rd%C3%BCnc%C3%BC_Ha%C3%A7l%C4%B1_Seferi)___ , Bizans'ın üretimde gerilemesine ve ___E:Doğu Akdeniz U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Akdeniz)___ 'deki Batı Avrupalıların ticari üstünlüğüne yol açtı. Bu durum, Bizans için ekonomik bir felaket anlamına geliyordu.  ___E:Paleologoslar U:(https://tr.wikipedia.org/wiki/Paleologos_Hanedan%C4%B1)___ , ekonomiyi yukarı çekmeye çalışsa da Bizans bir daha hiçbir zaman dış veya iç ekonomik güçleri üzerinde tam bir kontrol elde edemedi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#357",
+            "sentence": "Aşama aşama, ticari usuller ve ücret mekanizmaları üzerindeki etkisini yitirdi ve değerli madenlerin ülke dışına, bazı akademisyenlere göre bazen basılan paradan daha çok, çıkışındaki kontrolünü kaybetti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#358",
+            "sentence": "Bizans'ın ekonomisinin temelinde denizci yapılanmadan beslenen ticaret vardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#359",
+            "sentence": "Tekstil ürünleri çok büyük ihtimalle en çok ihraç edilen mallardı; ipek kesinlikle Mısır'a gönderildiği gibi, Bulgaristan ve Batı'ya da satılıyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#360",
+            "sentence": "Devlet, iç ve dış ticareti sıkı bir kontrol altında tuttu ve ___E:para U:(https://tr.wikipedia.org/wiki/Bizans_para_sistemi)___ bastırma tekelini hiç kaybetmedi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#361",
+            "sentence": "Böylece, sağlam ve esnek para sistemini sürdürürek ticaret ihtiyaçlarına uyum sağladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#362",
+            "sentence": "Hükûmet, özel çıkarlarının olduğu loncalar ve kuruluşlar için parametreler belirleyerek faiz oranları üzerinde resmî bir kontrol sağlamaya çalıştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#363",
+            "sentence": "İmparator ve memurları kriz zamanlarında, başkentin ön tedarik hazırlığını garanti altına almak ve tahıl fiyatlarını aşağıda tutmak için müdahale etti. Son olarak hükûmet, sıklıkla ihtiyaç fazlasının bir kısmını vergilendirme yoluyla topladı ve devlet memurlarına maaş dağıtımı veya bayındırlık yatırımları yoluyla tekrar dolaşıma soktu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#364",
+            "sentence": "___E:Klasik antik dönem U:(https://tr.wikipedia.org/wiki/Klasik_Antik_%C3%87a%C4%9F)___ yazıları Bizans'ta her daim işlendi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#365",
+            "sentence": "Bu nedenle, Bizans bilimi her dönemde ___E:antik felsefe U:(https://tr.wikipedia.org/wiki/Antik_felsefe)___ ve ___E:metafizik U:(https://tr.wikipedia.org/wiki/Metafizik)___ ile doğrudan bağlantılı oldu.  Mühendislik alanında, Aya Sofya'nın mimarı olan Yunan matematikçi ___E:Miletli İsidoros U:(https://tr.wikipedia.org/wiki/%C4%B0sidoros_(matematik%C3%A7i))___ , 530 yılı civarında Arşimet'in çalışmalarını ilk defa derleyerek bir geleneğin işaretlerini verdi. ___E:Matematikçi Leo U:(https://tr.wikipedia.org/wiki/Matematik%C3%A7i_Leo)___ tarafından \"Bizans Rönesansı\" sırasında (c. 850) kurulan matematik ve mühendislik okulu aracılığıyla da canlı tutulan bu gelenek sayesinde birçok antik kaynak günümüze ulaşabildi (bkz: ___E:Arşimet Palimpsesti U:(https://tr.wikipedia.org/w/index.php?title=Ar%C5%9Fimet_Palimpsesti&action=edit&redlink=1)___ )."
+        },
+        {
+            "id": "Bizans İmparatorluğu#366",
+            "sentence": "Gerçekten de, geometri ve uygulamaları (mimarlık ve savaş aletleri mühendisliği) Bizanslılar'ın bir uzmanlık alanı olarak kaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#367",
+            "sentence": "Arap istilalarının getirdiği karanlık dönemlerde bilimsel çalışmalar duraklasa da, ilk milenyumun bitişi öncesi Bizans Rönesansı olarak da bilinen süreçte, Bizanslı bilim adamları, Arap ve Perslerin bilimsel ilerleyişinde özellikle ___E:astronomi U:(https://tr.wikipedia.org/wiki/Astronomi)___ ve ___E:matematik U:(https://tr.wikipedia.org/wiki/Matematik)___ alanında ağırlıklarını ortaya koydu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#368",
+            "sentence": "Bizanslılar ayrıca özellikle mimarlıkta (örn. pandantifli kubbe) ve savaş teknolojisinde (örn. ___E:Rum ateşi U:(https://tr.wikipedia.org/wiki/Rum_ate%C5%9Fi)___ ) ___E:bazı teknolojik gelişmelerin U:(https://tr.wikipedia.org/w/index.php?title=Bizans_icatlar%C4%B1_listesi&action=edit&redlink=1)___ de mucididir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#369",
+            "sentence": "Bizanslılar tarafından yapılan karmaşık dişlilerden oluşan mekanik bir güneş saati cihazının ortaya çıkarılması, astronomide kullanılan ve MÖ 2. yüzyılın sonlarında icat edilen bir tür analog cihaz olan ___E:Antikythera düzeneğinin U:(https://tr.wikipedia.org/wiki/Antikitera_d%C3%BCzene%C4%9Fi)___ Bizans döneminde kullanıldığını göstermektedir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#370",
+            "sentence": "Her ne kadar Bizanslılar ___E:bilimin U:(https://tr.wikipedia.org/wiki/Bilim_tarihi#Orta_Çağ'da_Bilim)___ uygulanması konusunda fevkalade başarılar (özellikle ___E:Aya Sofya U:(https://tr.wikipedia.org/wiki/Ayasofya)___ 'nın inşası sırasında) elde etse de ve antik dönemin bilim ve geometri bilgisini korusalar da, Bizanslılar 6. yüzyıldan sonra yeni teoriler üretmek veya klasik yazarların üzerine eklemek gibi yollara başvurmadılar ve bilime pek az özgün katkıda bulundular."
+        },
+        {
+            "id": "Bizans İmparatorluğu#371",
+            "sentence": "İmparatorluğun son yüzyılındaki Bizanslı dilbilgisi uzmanları, bizzat kişisel ve yazınsal olarak Antik Yunan dilbilgisi ve edebi çalışmalarını erken ___E:İtalyan Rönesansı U:(https://tr.wikipedia.org/wiki/%C4%B0talyan_R%C3%B6nesans%C4%B1)___ 'na götüren bir numaralı kişilerdir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#372",
+            "sentence": "Bu süreçte, ___E:astronomi U:(https://tr.wikipedia.org/wiki/Astronomi)___ ve diğer ___E:matematik U:(https://tr.wikipedia.org/wiki/Matematik)___ bilimleri Trabzon'da öğretilmekteydi ve ___E:tıp U:(https://tr.wikipedia.org/wiki/T%C4%B1p)___ bilimi hemen hemen bütün bilim adamlarının ortak ilgi alanına giriyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#373",
+            "sentence": "Hukuk alanında ___E:I. Justinianus U:(https://tr.wikipedia.org/wiki/I._Justinianus)___ 'un reformlarının, ___E:içtihat biliminin U:(https://tr.wikipedia.org/w/index.php?title=%C4%B0%C3%A7tihat_bilimi&action=edit&redlink=1)___ evrimine net bir etkisi olduğu açıktır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#374",
+            "sentence": "Yine III. Leo'nun Ekloga 'sı Slav dünyasında yasal kuruluşların örgütlenmesini etkilemiştir.  10. yüzyılda ___E:VI. Leon U:(https://tr.wikipedia.org/wiki/VI._Leon)___ bütün Bizans yasalarını Yunanca olarak kanunlaştırmayı başardı ve sonraki bütün Bizans hukukunun temelini oluşturarak günümüze kadar devam eden bir ilgi alanı yarattı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#375",
+            "sentence": "Bizans İmparatorluğu bir ___E:teokrasiydi U:(https://tr.wikipedia.org/wiki/Teokrasi)___ ve ___E:Tanrı U:(https://tr.wikipedia.org/wiki/Teslis)___ 'nın ülkeyi imparator aracılığıyla yönettiğine inanılıyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#376",
+            "sentence": "Jennifer Fretland VanVoorst bu konuda şunları söyledi: \"Bizans İmparatorluğu, Hristiyanlık değerleri ve fikirlerinin ülkedeki siyasî fikirlere zemin oluşturduğu ve ülkenin siyasî hedefleriyle iç içe geçtiği bir teokrasidir.\"  Bizans Teokrasisi (2004) adlı kitabında Steven Runciman şunları söyler:"
+        },
+        {
+            "id": "Bizans İmparatorluğu#377",
+            "sentence": "Diyanet işlerinde imparatorluğun rolü hiçbir zaman sabit, yasal olarak tanımlanmış bir erke dönüşmedi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#378",
+            "sentence": "Roma'nın gerileyişiyle ve diğer Doğu Patrikhaneleri'ndeki anlaşmazlık yüzünden Konstantinopolis, 6 ila 11. yüzyıllar arasında Hristiyan alemindeki en zengin ve etkili merkez olarak kaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#379",
+            "sentence": "İmparatorluk kendinin bir gölgesi olacak kadar küçüldüğü zamanlarda bile, kilise ülkenin içinde ve dışındaki önemli etkisini sürdürdü. ___E:Georgiy Ostrogorskiy U:(https://tr.wikipedia.org/wiki/Georgi_Ostrogorski)___ bu konuda şunları demiştir:"
+        },
+        {
+            "id": "Bizans İmparatorluğu#380",
+            "sentence": "___E:Konstantinopolis Patrikhanesi U:(https://tr.wikipedia.org/wiki/%C4%B0stanbul_Rum_Ortodoks_Patrikhanesi)___ , Bizans'a ait Anadolu ve Balkanlar'da, ek olarak ülke dışındaki ___E:Kafkaslar U:(https://tr.wikipedia.org/wiki/Kafkasya)___ 'da, Rusya'da ve ___E:Litvanya U:(https://tr.wikipedia.org/wiki/Litvanya)___ 'da kendi astı olan ___E:metropolitan makamları U:(https://tr.wikipedia.org/wiki/Metropolit)___ ve başpiskoposlukları sayesinde Ortodoks dünyasının merkezi olarak kaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#381",
+            "sentence": "Kilise, Bizans İmparatorluğu'ndaki en sabit bileşen olarak varlığını sürdürdü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#382",
+            "sentence": "Devletin resmî Hristiyanlık doktrini ___E:İlk yedi ekümenik konsil U:(https://tr.wikipedia.org/wiki/%C4%B0lk_yedi_ek%C3%BCmenik_konsil)___ sayesinde belirlenirdi ve bundan sonra bunu halka empoze etme görevi imparatora verilirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#383",
+            "sentence": "Daha sonraları Codex Justinianus ile birleştirilen 388 çıkışlı bir imparatorluk kararnamesi, ülke halkının \"Katolik Hristiyan adını üstlenmesi\" ve yasalara uymayan, \"kafir inanışlar\"ı takip eden insanların \"deli ve aptal insanlar\" olarak kabul edilmesini öne sürer."
+        },
+        {
+            "id": "Bizans İmparatorluğu#384",
+            "sentence": "İmparatorluk emirlerine ve daha sonraları ___E:Doğu Ortodoks Kilisesi U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Ortodoks_Kilisesi)___ / ___E:Doğu Hristiyanlığı U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Hristiyanl%C4%B1%C4%9F%C4%B1)___ olarak bilinen ___E:devlet kilisesinin U:(https://tr.wikipedia.org/w/index.php?title=Roma_%C4%B0mparatorlu%C4%9Fu%27nun_devlet_kilisesi&action=edit&redlink=1)___ zorlayıcı duruşuna rağmen, kilise Bizans'taki bütün Hristiyanları temsil eden bir duruşa erişemedi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#385",
+            "sentence": "Mango'ya göre, imparatorluğun erken dönemlerinde \"deli ve aptal insanlar\" ile kilise tarafından \" ___E:kafir U:(https://tr.wikipedia.org/wiki/Kafir)___ \" olarak gösterilenler nüfusun çoğunluğuydu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#386",
+            "sentence": "Bunun yanında 6. yüzyılın sonuna kadar var olan ___E:paganlar U:(https://tr.wikipedia.org/wiki/Paganizm)___ ve ___E:Yahudiler U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu%27ndaki_Yahudilerin_tarihi)___ 'e ek olarak halk -hatta imparatorlar- arasında ___E:Nasturilik U:(https://tr.wikipedia.org/wiki/Nest%C3%BBr%C3%AElik)___ , ___E:Monofizitizm U:(https://tr.wikipedia.org/wiki/Monofizitizm)___ , ___E:Aryanizm U:(https://tr.wikipedia.org/wiki/Aryanizm)___ ve ___E:Pavlusçuluk U:(https://tr.wikipedia.org/wiki/Pavlus%C3%A7uluk)___ gibi Ortodoks Kilisesi'nin duruşuna karşı belli duruşlarıyla bilinen farklı Hristiyan doktrinlerini takip edenler oldu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#387",
+            "sentence": "III. Leo imparatorluk çapındaki ikonların yıkımını emrettiği zaman, Hristiyanlar arasında bir diğer ayrışma da başlamış oldu. Bu durum, ___E:büyük bir dinî krize yol açtı U:(https://tr.wikipedia.org/wiki/Bizans_ikonoklazm%C4%B1)___ ve ancak 9. yüzyılda ikonlar restore edildiğinde yatıştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#388",
+            "sentence": "Aynı süreç içerisinde genel olarak Slav kökenli halklar arasında paganizm yayıldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#389",
+            "sentence": "Bu topluluklar ___E:Hrıstiyanlaştırıldığında U:(https://tr.wikipedia.org/wiki/Hristiyanla%C5%9Fma)___ , özellikle imparatorluğun sonlarına doğru, Doğu Ortodoks Kilisesi Hristiyanların çoğunu ve genel olarak imparatorluğun içinde kalan halkların çoğunu temsil ediyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#390",
+            "sentence": "Yahudiler, Bizans varlığı boyunca önemli bir azınlık olarak kaldılar ve Roma yasasına göre yasal olarak tanınan dinî grup statüsü altında kaldılar."
+        },
+        {
+            "id": "Bizans İmparatorluğu#391",
+            "sentence": "Bizans'ın erken döneminde genellikle hoş görüldülerse de, sonraları zaman zaman gerilimli ve zulüm dolu zamanlar yaşandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#392",
+            "sentence": "Her halükarda, Arap istilaları sonrasında çoğu Yahudi topluluğu kendini imparatorluk dışında buldu ve Bizans içinde kalan Yahudiler özellikle 10. yüzyıl sonrası itibarıyla göreceli bir barış ortamında yaşadılar."
+        },
+        {
+            "id": "Bizans İmparatorluğu#393",
+            "sentence": "Gürcü manastırları ilk defa 9. yüzyılın ikinci yarısı itibarıyla Konstantinopolis ve kuzeybatı Anadolu'daki Olimpos Dağı'nda görüldü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#394",
+            "sentence": "Bu süreçten sonra ___E:Gürcüler U:(https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BCler)___ imparatorluk içerisinde gittikçe daha önemli roller almaya başladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#395",
+            "sentence": "Bugüne kalmış Bizans sanatı, genel olarak din temalıdır ve birkaç dönemsel istisna dışında fazlaca gelenekselleştirilmiştir. ___E:Fresk U:(https://tr.wikipedia.org/wiki/Fresk)___ boyamaları, ahşap paneller üzerine ___E:tezhip U:(https://tr.wikipedia.org/wiki/Tezhip)___ ve özellikle erken dönemlerde ___E:mozaik U:(https://tr.wikipedia.org/wiki/Mozaik)___ ana sanat eserleridir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#396",
+            "sentence": "Bunun yanında küçük parçalardan ibaret ___E:oyulmuş fildişi heykelcikler U:(https://tr.wikipedia.org/w/index.php?title=Fildi%C5%9Fi_oymac%C4%B1l%C4%B1%C4%9F%C4%B1&action=edit&redlink=1)___ dışında figüratif ___E:heykel U:(https://tr.wikipedia.org/wiki/Heykel)___ sanatı oldukça nadirdir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#397",
+            "sentence": "El yazması boyamacılığı sayesinde büyük ölçekte pek gözlenmeyen eski klasik gerçekçi sanat geleneği, sonraki çağlara korunarak ulaşmış oldu.  Bizans sanatı oldukça prestjiliydi ve Batı Avrupa'da aranan bir sanattı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#398",
+            "sentence": "Burada neredeyse çağın sonuna kadar ___E:Orta Çağ sanatını U:(https://tr.wikipedia.org/wiki/Orta_%C3%87a%C4%9F_sanat%C4%B1)___ etkilemeyi sürdürdü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#399",
+            "sentence": "Özellikle İtalya'da, Bizans tarzları 12. yüzyıla kadar modifiye edilmiş biçimleriyle kalmaya devam etti ve sonraki ___E:İtalyan Rönesansı U:(https://tr.wikipedia.org/wiki/%C4%B0talyan_R%C3%B6nesans%C4%B1)___ sanatına formel ilham kaynağı oluşturdu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#400",
+            "sentence": "Buna karşılık, dışarıdan gelen çok az sanat akımı Bizans stili üzerinde bir etki bırakabildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#401",
+            "sentence": "Doğu Ortodoks Kilisesi'nin genişlemesiyle beraber, Bizans biçimleri ve tarzları Ortodoks dünyasına ve hatta daha da ötesine yayılmayı başardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#402",
+            "sentence": "Özellikle dinî binalardaki Bizans mimarisi etkisi, Mısır ve Arabistan'dan Rusya ve Romanya gibi farklı coğrafyalara kadar görülmektedir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#403",
+            "sentence": "Bizans edebiyatında dört farklı kültürel bileşen gözlemlenir: ___E:Yunan U:(https://tr.wikipedia.org/wiki/Yunan_edebiyat%C4%B1)___ , Hristiyan, ___E:Roma U:(https://tr.wikipedia.org/wiki/Latin_edebiyat%C4%B1)___ ve Oryantal."
+        },
+        {
+            "id": "Bizans İmparatorluğu#404",
+            "sentence": "Bizans edebiyatı sıklıkla beş grupta kategorilendirilir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#405",
+            "sentence": "Bunlardan üçünü tarihçiler ve analistler, ansiklopedi yazarları ( ___E:Patrik Fotios U:(https://tr.wikipedia.org/wiki/I._Fotios)___ , ___E:Mihail Psellos U:(https://tr.wikipedia.org/wiki/Mihail_Psellos)___ ve ___E:Mihail Honiatis U:(https://tr.wikipedia.org/wiki/Mihail_Honiatis)___ Bizans'ın en büyük ansiklopedi yazarları olarak gösterilir) ve denemeciler ile din-dışı şairler doldururken geriye kalan iki grupta yeni edebi tarzlar yer alır: dinî-teolojik edebiyat ve popüler şiir.  Buna ek olarak Bizans'ın tek epik destanı Digenis Akritis 'tir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#406",
+            "sentence": "Günümüze ulaşan iki ila üç bin ciltlik Bizans edebiyatı mirasından sadece üç yüz otuzu din-dışı şiir, tarih, bilim ve sahte-bilim üzerinedir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#407",
+            "sentence": "Her ne kadar din-dışı edebiyat 9 ila 12. yüzyıllar arasında gelişme gösterse de, ___E:Besteci Romanos U:(https://tr.wikipedia.org/wiki/Romanos_o_Melodos)___ 'un en belirgin temsilcilerinden olduğu dinî edebiyat ( ___E:vaazler U:(https://tr.wikipedia.org/wiki/Vaaz)___ , ___E:litürji kitapları U:(https://tr.wikipedia.org/w/index.php?title=Lit%C3%BCrji_kitaplar%C4%B1&action=edit&redlink=1)___ ve şiiri, teoloji, ibadet tezleri vb.) çok daha önce şekillenmişti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#408",
+            "sentence": "Yunanca metinler üzerine seremoni, festival veya kilise müziği amacıyla bestelenen dinî Bizans müzik formları en bilinen formlardır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#409",
+            "sentence": "Kilise ilahileri, müziğin en temel parçasını oluşturmaktaydı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#410",
+            "sentence": "Yunan ve yabancı tarihçiler, genel olarak Bizans müziğinin ___E:Antik Yunan ton U:(https://tr.wikipedia.org/w/index.php?title=Antik_Yunan_m%C3%BCzi%C4%9Fi&action=edit&redlink=1)___ sistemiyle yakından alakalı olduğu üzerinde hemfikirdir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#411",
+            "sentence": "Bizans müziği, bilinen müziğin en eski türü olmayı sürdürmektedir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#412",
+            "sentence": "Öyle ki performans usulleri, (5. yüzyıldan sonra yükselen doğruluk oranıyla) besteci isimleri ve hatta bazen müzik eseri hakkındaki açıklamalar bilinmektedir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#413",
+            "sentence": "9. yüzyılda yaşayan ___E:Pers U:(https://tr.wikipedia.org/wiki/Farslar)___ coğrafyacı ___E:İbn Hurdâzbih U:(https://tr.wikipedia.org/wiki/%C4%B0bn_Hurd%C3%A2zbih)___ , müzik enstrümanlarının sözlüksel irdelemesinde, lir e (lūrā) ek olarak urghun ( ___E:org U:(https://tr.wikipedia.org/wiki/Org)___ ), shilyani (muhtemelen ___E:arp U:(https://tr.wikipedia.org/wiki/Arp)___ veya ___E:lirin U:(https://tr.wikipedia.org/wiki/Lir)___ bir başka formu) ve salandj (muhtemelen bir tür tulum) gibi aletleri Bizans'a ait tipik enstrümanlar olarak gösterir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#414",
+            "sentence": "Bunlardan ilki olan yaylı ___E:Bizans liri U:(https://tr.wikipedia.org/w/index.php?title=Bizans_liri&action=edit&redlink=1)___ , daha sonraları lira da braccio adıyla  Venedik'te göründü ve birçok kişi tarafından yine aynı şehirde gelişip farklılaşan ___E:kemanın U:(https://tr.wikipedia.org/wiki/Keman)___ atası olarak gösterilmektedir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#415",
+            "sentence": "Yaylı \"lira\", hâlen eskiden Bizans'a dahil olan topraklarda çalınmaktadır: Yunanistan'da ___E:Politiki lyra U:(https://tr.wikipedia.org/w/index.php?title=Politiki_lyra&action=edit&redlink=1)___ (Türkçe: \"Şehir lirası\" yani ___E:Konstantinopolis U:(https://tr.wikipedia.org/wiki/Konstantinopolis)___ ), Güney İtalya'da ___E:Calabria lirası U:(https://tr.wikipedia.org/w/index.php?title=Calabria_liras%C4%B1&action=edit&redlink=1)___ ve ___E:Dalmaçya U:(https://tr.wikipedia.org/wiki/Dalma%C3%A7ya)___ 'da ___E:Lijerica U:(https://tr.wikipedia.org/w/index.php?title=Lijerica&action=edit&redlink=1)___ olarak bilinmektedir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#416",
+            "sentence": "İkinci müzik aleti olan org, ___E:Helenistik U:(https://tr.wikipedia.org/wiki/Helenistik_D%C3%B6nem)___ dönemden kalmadır (bkz: ___E:Hydraulis U:(https://tr.wikipedia.org/w/index.php?title=Su_orgu&action=edit&redlink=1)___ ) ve yarışlar sırasında ___E:Hipodrom U:(https://tr.wikipedia.org/wiki/Hipodrom)___ 'da çalınmıştır.   \"Büyük kurşun borular\"ı olan bir ___E:org U:(https://tr.wikipedia.org/wiki/Org)___ , imparator ___E:V. Konstantinos U:(https://tr.wikipedia.org/wiki/V._Konstantinos)___ tarafından 757 yılında ___E:Frank U:(https://tr.wikipedia.org/wiki/Franklar)___ kralı ___E:Kısa Pepin U:(https://tr.wikipedia.org/wiki/III._Pepin)___ 'e gönderildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#417",
+            "sentence": "Pepin'in oğlu ___E:Şarlman U:(https://tr.wikipedia.org/wiki/%C5%9Earlman)___ da 812 yılında ___E:Aachen U:(https://tr.wikipedia.org/wiki/Aachen)___ 'deki şapeli için benzer bir org talep ederek Batı kilise müziğinin ilk tohumlarını atmış oldu.  Sonuncu müzik aleti olan tulum dankiyo ( ___E:Antik Yunanca U:(https://tr.wikipedia.org/wiki/Grek%C3%A7e)___ 'dan: angion (Τὸ ἀγγεῖον) \"konteyner\"), Roma döneminde dahi çalınmaktaydı. ___E:Dio Chrysostom U:(https://tr.wikipedia.org/wiki/Dio_Hrisostom)___ 'un 1. yüzyılda yazdığı yazılarında, dönemininde bir hükümdarın (muhtemelen ___E:Neron U:(https://tr.wikipedia.org/wiki/Neron)___ ), kavalı (Yunan kamış kavalına benzeyen ___E:tibia U:(https://tr.wikipedia.org/w/index.php?title=Tibia_(m%C3%BCzik_aleti)&action=edit&redlink=1)___ ) hem ağzıyla hem de koltukaltına yerleştirdiği bir kese yardımıyla çalabildiği geçmektedir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#418",
+            "sentence": "Tulum, imparatorluk zamanlarından günümüze aynı topraklarda çalınmaya devam etti. (Bkz: Balkanlar'da ___E:gayda U:(https://tr.wikipedia.org/wiki/Gayda)___ , Yunanistan'da ___E:tsampuna U:(https://tr.wikipedia.org/w/index.php?title=Tsampuna&action=edit&redlink=1)___ , ___E:Pontus U:(https://tr.wikipedia.org/wiki/Pontus)___ 'ta ___E:tulum U:(https://tr.wikipedia.org/wiki/Tulum_(%C3%A7alg%C4%B1))___ , Girit'te ___E:askomandura U:(https://tr.wikipedia.org/w/index.php?title=Askomandura&action=edit&redlink=1)___ , Ermenistan'da ___E:parkapzuk U:(https://tr.wikipedia.org/w/index.php?title=Parkapzuk&action=edit&redlink=1)___ ve Romanya'da ___E:cimpoi U:(https://tr.wikipedia.org/w/index.php?title=Cimpoi&action=edit&redlink=1)___ .)"
+        },
+        {
+            "id": "Bizans İmparatorluğu#419",
+            "sentence": "Bizans kültürü, ilk dönemlerinde Greko-Romen'in son dönemleriyle aynıydı, ancak imparatorluğun var olduğu sonraki bin yıl boyunca yavaş yavaş günümüz Balkanlar ve Anadolusu'nun kültürüne benzer bir yola evrildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#420",
+            "sentence": "Mutfak, Greko-Romen balık sosu çeşnisi ___E:garosa U:(https://tr.wikipedia.org/wiki/Garum)___ dayansa da, günümüz mutfağından aşina olunan tütsülenmiş et ___E:pastırma U:(https://tr.wikipedia.org/wiki/Past%C4%B1rma)___ (Bizans Yunancasında \"paston\"),    ___E:baklava U:(https://tr.wikipedia.org/wiki/Baklava)___ (ya da o zamanki adıyla koptoplakus κοπτοπλακοῦς),  ___E:tiropita U:(https://tr.wikipedia.org/wiki/Tiropita)___ (o zamanki adıyla plakuntas tetiromenus veya tiritas plakuntas ),  ve ünlü Orta Çağ tatlı şarapları ( ___E:Komandarya U:(https://tr.wikipedia.org/wiki/Komandarya)___ ve bir halka ismini de veren ___E:Rumney şarabı U:(https://tr.wikipedia.org/w/index.php?title=Rumney_%C5%9Farab%C4%B1&action=edit&redlink=1)___ ) gibi birçok bileşene de sahipti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#421",
+            "sentence": "Çam reçinesi aromalı ___E:retsina U:(https://tr.wikipedia.org/w/index.php?title=Retsina&action=edit&redlink=1)___ şarabı da sıklıkla içilmekteydi ve günümüzde Yunanistan'da hâlen üretimi devam etmektedir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#422",
+            "sentence": "Cermen Kutsal Roma İmparatoru ___E:I. Otto U:(https://tr.wikipedia.org/wiki/I._Otto_(Kutsal_Roma_imparatoru))___ tarafından 968'de Konstantinopolis'e büyükelçi olarak gönderilen ___E:Liutprando di Cremona U:(https://tr.wikipedia.org/wiki/Liutprando_di_Cremona)___ , bu şarap için, günümüzde de şaraba aşina olmayan içicilerin tepkisine benzer biçimde, şunları söylemiştir: \"Faciamız Yunan şarabına ekleme yapacak olursak, karasakız, reçine ve yakı gibi bizim içemediğimiz şeylerle karıştırılıyordu\"."
+        },
+        {
+            "id": "Bizans İmparatorluğu#423",
+            "sentence": "Balık sosu çeşnisi ___E:garos U:(https://tr.wikipedia.org/wiki/Garos)___ da aynı şekilde aşina olmayan insanlar tarafından pek hoş karşılanmıyordu; Liutprando di Cremona, kendine \"fazlasıyla kötü balık likörü\"yle kaplanmış yemekler sunulduğunu belirtir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#424",
+            "sentence": "Bizanslılar bunun yanında çeşni olarak, mayalanmış arpadan üretilen ___E:murri U:(https://tr.wikipedia.org/w/index.php?title=Murri_(%C3%A7e%C5%9Fni)&action=edit&redlink=1)___ adında soya sosuna benzer bir çeşni kullanıyorlardı ve bu sayede soya sosunda olduğu gibi yemeklerine ___E:umami U:(https://tr.wikipedia.org/wiki/Umami)___ tadı katıyorlardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#425",
+            "sentence": "Bizanslılar ___E:tavli U:(https://tr.wikipedia.org/w/index.php?title=Tabula_(oyun)&action=edit&redlink=1)___ ( ___E:Bizans Yunancası U:(https://tr.wikipedia.org/wiki/Orta_%C3%87a%C4%9F_Yunancas%C4%B1)___ : τάβλη) oyununu severek oynarlardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#426",
+            "sentence": "Oyun, günümüzde Türkiye ( ___E:tavla U:(https://tr.wikipedia.org/wiki/Tavla)___ ) ve Yunanistan (tavli) ve diğer birçok Bizans ardılı ülkede hâlen oynanmaktadır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#427",
+            "sentence": "Bizans asilleri, başta günümüzde ___E:polo U:(https://tr.wikipedia.org/wiki/Polo)___ olarak bilinen ___E:tzykanion U:(https://tr.wikipedia.org/wiki/Tzikanistirion)___ olmak üzere, atçılığa meraklıydı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#428",
+            "sentence": "Oyun, erken dönemlerde Sasani İranı'ndan gelmişti ve ___E:II. Theodosius U:(https://tr.wikipedia.org/wiki/II._Theodosius)___ ( h. 408-450 ) tarafından bir Tzykanisterion (oyun için özel stadyum) ___E:Büyük Konstantinopolis Sarayı U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Saray)___ 'nın içine inşa edilmişti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#429",
+            "sentence": "İmparator ___E:I. Basileios U:(https://tr.wikipedia.org/wiki/I._Basileios)___ ( h. 867-886 ) bu sporda epey ustaydı; İmparator ___E:Aleksandros U:(https://tr.wikipedia.org/wiki/Aleksandros)___ ( h. 912-913 ) oyunu oynarken çok yorulduğu için öldü, İmparator ___E:I. Aleksios U:(https://tr.wikipedia.org/wiki/I._Aleksios)___ ( h. 1081-1118 ) oyunu ___E:Tatikios U:(https://tr.wikipedia.org/wiki/Tatikios)___ ile oynarken yaralandı, ___E:I.İoannis U:(https://tr.wikipedia.org/wiki/I._%C4%B0oannis_(Trabzon_imparatoru))___ ( h. 1235-1238 ) ise oyun sırasında aldığı ölümcül bir yara yüzünden öldü.   Konstantinopolis ve ___E:Trabzon U:(https://tr.wikipedia.org/wiki/Trabzon)___ dışında, ___E:Sparta U:(https://tr.wikipedia.org/wiki/Sparta)___ , ___E:Efes U:(https://tr.wikipedia.org/wiki/Efes)___ ve ___E:Atina U:(https://tr.wikipedia.org/wiki/Atina)___ gibi şehirlerde de tzykanisteria 'ya rastlanması, gelişen kentsel aristokrasi hakkında bir ipucu verir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#430",
+            "sentence": "Oyun, özellikle oyuna karşı bir ilgi geliştiren Batı yanlısı imparator ___E:I. Manuil U:(https://tr.wikipedia.org/wiki/I._Manuil)___ zamanında haçlı seferleri yoluyla Batı'ya ulaştı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#431",
+            "sentence": "Bizans devletinde ___E:imparator U:(https://tr.wikipedia.org/wiki/Bizans_imparatorlar%C4%B1_listesi)___ tek ve ___E:mutlak yöneticiydi U:(https://tr.wikipedia.org/wiki/Otokrasi)___ ve gücünü ilahi kaynaklardan aldığı kabul ediliyordu.  ___E:Senato U:(https://tr.wikipedia.org/wiki/Senato_(Bizans))___ gerçek bir politik ve yasa koyucu otoriteye sahip değildi fakat itibari unvanları olan onursal bir konsil şeklinde varlığını sürdürdü. 8. yüzyıl sonunda, başkentteki gücün saraya dönük birleştirilmesine odaklı bir kamu idaresi oluşturuldu ( sakellarios makamının önem kazanması bu değişiklikle ilgilidir)."
+        },
+        {
+            "id": "Bizans İmparatorluğu#432",
+            "sentence": "En önemli idari reform, muhtemelen 7. yüzyıl ortalarında başlayan, ___E:thema U:(https://tr.wikipedia.org/wiki/Thema)___ sisteminin gelişiydi ve bu sistemde her bir bölümlenmenin askerî ve kamusal yönetimini strategos adı verilen kimseler üstleniyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#433",
+            "sentence": "\"Bizans\" ve \"Bizantinizm\" terimlerinin alçaltıcı terimler olarak kullanılışına rağmen, ___E:Bizans bürokrasisi U:(https://tr.wikipedia.org/w/index.php?title=Bizans_b%C3%BCrokrasisi&action=edit&redlink=1)___ imparatorluğun kendi durumuna göre kendini şekillendirebilen özel bir yeteneğe sahipti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#434",
+            "sentence": "Unvana ve kıdeme dayalı özenli sistem, saraya prestij ve etki bahşetti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#435",
+            "sentence": "Memurlar, imparatorun etrafında sıkı bir düzenle düzenlenmişti ve mevkileri için imparatorluk iradesine sıkıca bağlıydı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#436",
+            "sentence": "Bunun yanında gerçek idari meslekler de vardı ancak otorite memurlardan ziyade bireylere de devredilebiliyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#437",
+            "sentence": "8 ve 9. yüzyılda kamu hizmeti, aristoktratik statüye en engelsiz yolu oluşturmuştu ancak 9. yüzyıldan sonra kamu aristokrasisi soyluluk aristokrasisi ile rekabete girdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#438",
+            "sentence": "Bazı Bizans hükûmet çalışmalarına göre, 11. yüzyıl siyaseti baskın olarak kamu ve askerî aristokrasi arasındaki rekabet üzerinden şekilleniyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#439",
+            "sentence": "Bu süreçte, I. Aleksios bazı önemli idari reformlar yaparak yeni saray makamları ile memurlarını tanıttı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#440",
+            "sentence": "Roma düştükten sonra imparatorluk için en büyük zorluklardan birisi kendi içinde ve kendi komşularıyla bir ilişki düzeni kurabilmekti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#441",
+            "sentence": "Bu milletler resmî politik kuruluşlar oluşturmaya giriştiklerinde, düzenlerini sıklıkla Konstantinopolis üzerinden kalıpladılar."
+        },
+        {
+            "id": "Bizans İmparatorluğu#442",
+            "sentence": "Bizans diplomasisi kısa süre içinde komşularını uluslararası ve devletler-arası ilişkiler ağına çekmeyi başardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#443",
+            "sentence": "Bu ağ, antlaşma yapımı etrafında şekillendi ve yeni hükümdarları krallar ailesine kabul etmeyi; Bizans toplumsal tutumlarını, değerlerini ve kuruluşlarını özümseyişi içeriyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#444",
+            "sentence": "Klasik yazarların savaş ve barış arasındaki etik ve yasal ayrımları verme eğilimlerine karşılık, Bizanslılar, diplomasiyi savaşın başka bir yolu olarak gördü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#445",
+            "sentence": "Örneğin, bir Bulgar tehdidi, ___E:Kiev Rusları U:(https://tr.wikipedia.org/wiki/Kiev_Knezli%C4%9Fi)___ 'na para vererek bastırılabiliyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#446",
+            "sentence": "Diplomasi, o dönemde saf politik işlevinin üstünde, istihbarat toplama işlevine ağırlık veriyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#447",
+            "sentence": "Konstantinopolis'te bulunan ___E:Barbarlar Bürosu U:(https://tr.wikipedia.org/wiki/Barbarlar_B%C3%BCrosu)___ , protokol ve \" ___E:barbarlar U:(https://tr.wikipedia.org/wiki/Barbar)___ \" ile ilgili kayıtları toplama işleriyle ilgileniyordu ve belki de bu şekilde kendi başına basit bir istihbarat işlevi üstleniyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#448",
+            "sentence": "John B. Bury'ye göre, bu ofis Konstantinopolis'i ziyaret eden tüm yabancıları denetleme görevini yüklenmişti ve ___E:Logothetis tu dromu U:(https://tr.wikipedia.org/wiki/Logothetis_tu_dromu)___ gözetimi altındaydı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#449",
+            "sentence": "Görünürde bir protokol ofisi olsa da – yani asıl görevi yabancı elçilerle yeterince ilgilenildiğini teminat altına almak, bakımları için yeterli devlet fonu bulunup bulunmadığını kontrol etmek ve resmî çevirmenleri bulundurmak – muhtemelen kendi çapında bir güvenlik vasfı da taşıyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#450",
+            "sentence": "Bizanslılar birtakım diplomatik uygulamalarla kendilerine yarar sağladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#451",
+            "sentence": "Örneğin, başkentteki büyükelçilikler yıllarca var olmaya devam ederdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#452",
+            "sentence": "Diğer kraliyet müesseselerinden bir üyenin de rutin olarak Konstantinopolis'te kalması beklenirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#453",
+            "sentence": "Böylece sadece potansiyel bir rehine değil, siyaset ilişkileri üzerine bir piyon da kazanılmış oluyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#454",
+            "sentence": "Diğer bir önemli uygulama, ziyaretçileri şatafatlı teşhirlerle etkilemekti.  ___E:Dimitri Obolenski U:(https://tr.wikipedia.org/w/index.php?title=Dimitri_Obolenski&action=edit&redlink=1)___ 'ye göre, Avrupa'da antik medeniyetin korunmasının nedeni, Bizans diplomasisinin yeteneği ve kaynaklılığıydı ki bu, Bizans'ın Avrupa tarihine çok uzun süren katkılarından birisi oldu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#455",
+            "sentence": "Bizans İmparatorluğu, tarihinin çoğunda, Batı Avrupa'da bilinen şekliyle ___E:armacılığı U:(https://tr.wikipedia.org/wiki/Arma_bilimi)___ bilmiyor ve kullanmıyordu. ___E:Haç U:(https://tr.wikipedia.org/wiki/Ha%C3%A7)___ veya labarum gibi motifler içeren çeşitli amblemler ( ___E:Yunanca U:(https://tr.wikipedia.org/wiki/Yunanca)___ : σημεία , sēmeia ; tekil σημείον, sēmeion ) resmî durumlarda ve askerî amaçlarla, sancak veya zırhlar üzerinde kullanılırdı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#456",
+            "sentence": "Haç kullanımı, ___E:İsa U:(https://tr.wikipedia.org/wiki/%C4%B0sa)___ , ___E:Meryem U:(https://tr.wikipedia.org/wiki/Meryem)___ ve çeşitli azizlerin resimleri, memurların ___E:mühürlerinde U:(https://tr.wikipedia.org/wiki/Sigiliografya)___ kendine yer buldu fakat bunlar aile amblemlerinden ziyade kişiseldi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#457",
+            "sentence": "Bizans İmparatorluğu'ndaki kadınların konumu, esas olarak, bazı hak ve geleneklerin kaybedilmesi ve değiştirilmesiyle, diğerlerinin kalmasına izin verilmesiyle, Hristiyanlığın gelişiyle dönüşen eski Roma'daki kadınların konumunu temsil eder. Eğitim başarılarıyla ünlü Bizans kadınları vardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#458",
+            "sentence": "Bununla birlikte, kadınların eğitimiyle ilgili genel görüş, bir kızın ev işlerini öğrenmesinin ve Hristiyan azizlerin hayatlarını incelemesinin ve mezmurları ezberlemesinin ve ___E:İncil U:(https://tr.wikipedia.org/wiki/%C4%B0ncil)___ yazılarını çalışabilmesi için okumayı öğrenmesinin yeterli olduğuydu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#459",
+            "sentence": "Kadınlarda okuryazarlık, kötülüğe teşvik edebileceğine inanıldığı için bazen caydırılıyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#460",
+            "sentence": "Roma'nın boşanma hakkı, Hristiyanlığın gelişinden sonra kademeli olarak silindi ve yerini yasal ayırma ve feshetme aldı. Evlilik, bir kadın için ideal durum olarak görülüyordu ve yalnızca manastır yaşamı meşru bir alternatif olarak görülüyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#461",
+            "sentence": "Evlilikte cinsel aktivite sadece bir üreme aracı olarak görülüyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#462",
+            "sentence": "Kadınların mahkeme huzuruna çıkma hakkı vardı, ancak tanıklığı bir erkeğinkiyle eşit görülmedi ve bir erkeğinkiyle karşılaştırıldığında cinsiyeti temel alınarak çelişebilirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#463",
+            "sentence": "6. yüzyıldan itibaren, kadınların peçe takmalarını  ve yalnızca kiliseye giderken toplum içinde görünmelerini  dikte eden, büyüyen bir cinsiyet ayrımcılığı ideali vardı ve ideal hiçbir zaman tam olarak uygulanmasa da toplumu etkiledi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#464",
+            "sentence": "İmparator ___E:I. Justinianus'un U:(https://tr.wikipedia.org/wiki/I._Justinianus)___ kanunları, bir erkeğin karısını izinsiz olarak tiyatro veya hamam gibi halka açık yerlere gittiği için boşamasını yasal hale getirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#465",
+            "sentence": "Konstantinopolis'te üst sınıf kadınların özel bir kadın bölümünde ( gynaikonitis ) kalmaları giderek daha fazla bekleniyordu,  ve 8. yüzyılda evli olmayan kızların akraba olmayan erkeklerle tanışması kabul edilemez olarak tanımlandı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#466",
+            "sentence": "İmparatorluk kadınları ve leydileri, erkeklerle birlikte toplum içine çıkarken, imparatorluk sarayındaki kadınlar ve erkekler, 12. yüzyılda ___E:Komninos hanedanının U:(https://tr.wikipedia.org/wiki/Komninos_Hanedan%C4%B1)___ yükselişine kadar kraliyet ziyafetlerine ayrı ayrı katılırlardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#467",
+            "sentence": "Doğu Romalı kadınlar, Romalı kadının mülklerini miras alma, sahip olma ve yönetme hakkını elinde tuttu ve sözleşmeler imzaladı;  bu haklar, her iki evli kadını da kapsadığı için, Orta Çağ Katolik Batı Avrupa'sındaki evli kadınların haklarından çok daha üstündü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#468",
+            "sentence": "Kadınların yasal olarak kendi paralarını idare etme hakkı, zengin kadınların iş yapmasına olanak sağladı, ancak aktif olarak geçimlerini sağlamak için bir meslek bulmak zorunda olan kadınlar normalde ev işlerinde veya gıda veya tekstil endüstrisi gibi ev içi alanlarda çalışıyorlardı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#469",
+            "sentence": "Kadınlar, devlet desteğiyle hastanelerde ve hamamlarda tıp doktoru ve kadın hastaların ve ziyaretçilerin refakatçisi olarak çalışabilirler."
+        },
+        {
+            "id": "Bizans İmparatorluğu#470",
+            "sentence": "___E:Hristiyanlığın U:(https://tr.wikipedia.org/wiki/Hristiyanl%C4%B1k)___ ortaya çıkışından sonra, kadınlar artık rahibe olamıyordu, ancak kadınların kızlar için okul, tımarhane, yoksul evleri, hastaneler, hapishaneler ve kadınlar için huzurevleri işlevi gören manastırlar kurması ve yönetmesi yaygın hale geldi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#471",
+            "sentence": "Bizanslı kadınlar, meslekten olmayan kız kardeşler ve diyakozlar olarak sosyal hizmet uyguladılar."
+        },
+        {
+            "id": "Bizans İmparatorluğu#472",
+            "sentence": "İmparatorluk makamı, yönetim ve askerî yapılanmadan farklı olarak, ___E:Batı Roma İmparatorluğu'nun çöküşünden U:(https://tr.wikipedia.org/wiki/Bat%C4%B1_Roma_%C4%B0mparatorlu%C4%9Fu%27nun_%C3%A7%C3%B6k%C3%BC%C5%9F%C3%BC)___ önce dahi, doğu Roma eyaletleri ağırlıklı olarak Yunanca konuşuyordu ve Latince gelmeden yüzyıllar öncesinde de Yunancanın hakimiyeti devam ediyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#473",
+            "sentence": "Roma'nın doğuyu fethetmesinin ardından 'Pax Romana' adın verilen kaynaştırıcı siyasi uygulamalar ve kamu altyapısı, Yunancanın doğuda yayılıp kemikleşmesini kolaylaştırdı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#474",
+            "sentence": "Gerçekten de, Roma İmparatorluğu'nun erken dönemlerinde Yunanca zaten çoktan Kilise'nin, eğitimin ve sanatın dili olmuştu ve geniş çapta eyaletler arası, hatta milletler arası ticarette lingua franca konumuna erişmişti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#475",
+            "sentence": "Yunanca bir süre konuşma dili ___E:Koini Yunancası U:(https://tr.wikipedia.org/wiki/Koini_Grek%C3%A7esi)___ (sonraları ___E:Demotik Yunanca U:(https://tr.wikipedia.org/w/index.php?title=Demotik_Yunanca&action=edit&redlink=1)___ 'ya evrildi) ve daha eski bir ___E:yazılı form U:(https://tr.wikipedia.org/w/index.php?title=Attika_Yunancas%C4%B1&action=edit&redlink=1)___ , ___E:Diglossia U:(https://tr.wikipedia.org/wiki/%C4%B0kidillilik)___ halinde beraber varlığını sürdürdü ve sonunda Koini hem konuşma hem de yazılı biçimde bu ikililikten sıyrıldı ve genelgeçer hal aldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#476",
+            "sentence": "Latincenin etkisi gittikçe erise de devlet dili olarak kullanımı devam etmiş, Theodosius'un hükümdarlığı döneminde Grekçenin kullanımı iyice artmış  , 7. yüzyılda Herakleios'un devletin resmî dilini Grekçe yapmasıyla birlikte de Latincenin etkisi iyice azalmaya başlamıştır."
+        },
+        {
+            "id": "Bizans İmparatorluğu#477",
+            "sentence": "Bilimsel olarak Latince hızla eğitimli kesim arasındaki popülerliğini kaybetti fakat imparatorluk kültüründe yer ettiği seremoni işlevini bir süre daha devam ettirdi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#478",
+            "sentence": "Ek olarak, özellikle ___E:Dalmaçya U:(https://tr.wikipedia.org/wiki/Dalma%C3%A7yaca)___ 'da ve günümüz Romanya'sı çevresinde ___E:Halk Latincesi U:(https://tr.wikipedia.org/wiki/Halk_Latincesi)___ , imparatorluğun azınlık dili olarak konuşulmaya devam etti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#479",
+            "sentence": "Çok uluslu yapıda olan imparatorlukta birçok farklı dil var oldu ve kimi zamanlarda bu dillere sınırlı resmî statü verildi."
+        },
+        {
+            "id": "Bizans İmparatorluğu#480",
+            "sentence": "Kayda değer bir örnek olarak, Orta Çağ başında ___E:Süryanice U:(https://tr.wikipedia.org/wiki/S%C3%BCryanice)___ uzak doğu eyaletlerde eğitimli kesim arasında çok yaygın bir dile dönüştü."
+        },
+        {
+            "id": "Bizans İmparatorluğu#481",
+            "sentence": "Benzer şekilde ___E:Kıptîce U:(https://tr.wikipedia.org/wiki/K%C4%B1pt%C3%AEce)___ , ___E:Ermenice U:(https://tr.wikipedia.org/wiki/Ermenice)___ ve ___E:Gürcüce U:(https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BCce)___ kendi eyaletlerindeki eğitimli kesim arasında oldukça popüler kaldı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#482",
+            "sentence": "Bunun yanında daha sonraları ___E:Eski Kilise Slavcası U:(https://tr.wikipedia.org/wiki/Eski_Kilise_Slavcas%C4%B1)___ , ___E:Orta Farsça U:(https://tr.wikipedia.org/wiki/Orta_Fars%C3%A7a)___ ve ___E:Arapça U:(https://tr.wikipedia.org/wiki/Klasik_Arap%C3%A7a)___ , bu dili konuşan halklarla etkileşime girildikten sonra, bu dillerin imparatorluk ve onun etki alanı içerisinde belirli bir öneme kavuşmasına yol açtı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#483",
+            "sentence": "Bunların dışında, ___E:Akdeniz U:(https://tr.wikipedia.org/w/index.php?title=Akdeniz_tarihi&action=edit&redlink=1)___ 'de ve ötesinde ana ticaret yollarının merkezinde yer alan Konstantinopolis'te, bir zamanlar ___E:Çince U:(https://tr.wikipedia.org/wiki/%C3%87ince)___ de dahil, bütün bilinen Orta Çağ dilleri konuşuluyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#484",
+            "sentence": "İmparatorluk son gerilemesine girdiğinde, ülke vatandaşları daha homojen bir hale geldi ve Yunanca bu halkın kimliği ve dinî hayatıyla iç içe geçmeye başladı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#485",
+            "sentence": "Bizans sıklıkla mutlakiyetçilik, ortodoks ruhaniliği, oryantalizm ve ekzotizm terimleriyle özdeşleştirilegelmiştir ve \"Bizans\" ve \"Bizantinizm\" terimleri sıklıkla yıkım, karmaşık bürokrasi ve baskılama terimleri yerine deyişler olarak kullanılmıştır. ___E:Doğu Bloğu U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Bloku)___ 'ndan 1980'lerde ve 90'larda çıkan ___E:Orta U:(https://tr.wikipedia.org/wiki/Orta_Avrupa)___ ve Güneydoğu Avrupa ülkelerinde Bizans medeniyeti ve onun bıraktığı kalıt oldukça olumsuzdu zira Bizans'ın da \"Doğu otoriterliği ve otokrasisi\" ile ilintili olduğu iddia ediliyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#486",
+            "sentence": "Doğulu ve Batılı yazarlar sıklıkla Bizans'ı dinî, siyasi ve felsefî olarak Batı'ya zıt olarak konumlandırdı. ___E:19. yüzyıl Yunanistanı U:(https://tr.wikipedia.org/wiki/Modern_Yunanistan_tarihi)___ 'nda bile odak noktası her daim klasik tarihleri oldu ve Bizans sıklıkla olumsuz imaları çağrıştırdı."
+        },
+        {
+            "id": "Bizans İmparatorluğu#487",
+            "sentence": "Bizans'a dönük bu yaklaşımlar, Bizans kültürünün olumlu yanları ve kalıtına odaklanan modern çalışmalar yoluyla kısmî ya da tümcül olarak tartışıldı. ___E:Averil Cameron U:(https://tr.wikipedia.org/w/index.php?title=Averil_Cameron&action=edit&redlink=1)___ , Bizans'ın Orta Çağ Avrupası'nın kuruluşundaki yer ettiği rolü 'inkâr edilemez' olarak gösterirken, Cameron ve Obolenski'ye göre Bizans'ın Ortodoks Hristiyanlığı'nı şekillendiren rolü, günümüz Yunanistan, Romanya, Bulgaristan, Rusya, Gürcistan, Sırbistan ve diğer ülkelerin tarihinden koparılamayacak kadar büyük önem arz etmektedir."
+        },
+        {
+            "id": "Bizans İmparatorluğu#488",
+            "sentence": "Bizanslılar bunun yanında klasik el yazmalarını koruyup kopyaladılar ve klasik bilginin günümüze ulaşmasında başat rol oynadılar."
+        },
+        {
+            "id": "Bizans İmparatorluğu#489",
+            "sentence": "Böylece modern Avrupa medeniyetine, ___E:Rönesans hümanizmine U:(https://tr.wikipedia.org/w/index.php?title=R%C3%B6nesans_h%C3%BCmanizmi&action=edit&redlink=1)___ ve Slav Ortodoks kültürüne zemin oluşturdular."
+        },
+        {
+            "id": "Bizans İmparatorluğu#490",
+            "sentence": "Avrupa'da Orta Çağ boyunca uzun dönemde istikrarlı tek ülke olarak, Bizans, Batı Avrupa'yı Doğu'nun yeni beliren güçlerinden uzak tuttu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#491",
+            "sentence": "Sürekli saldırı altında kalarak, Batı'yı, Persler, Araplar, Selçuk Türkleri ve Osmanlılar'dan korudu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#492",
+            "sentence": "Başka bir bakış açısıyla, 7. yüzyıldan sonra Bizans'ın evrimi ve yeniden yapılanması, İslam'ın varoluş sürecine ve yayılışına doğrudan etki etti."
+        },
+        {
+            "id": "Bizans İmparatorluğu#493",
+            "sentence": "1453'te Osmanlılar'ın Konstantinopolis'i fethetmesinin ardından, Sultan ___E:II. Mehmed U:(https://tr.wikipedia.org/wiki/II._Mehmed)___ \"Kaysar-i Rûm\" ( ___E:Osmanlı Türkçesinde U:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1ca)___ Romalı ___E:Sezar U:(https://tr.wikipedia.org/wiki/Sezar_(%C3%BCnvan))___ 'a eşdeğer) unvanını aldı zira Osmanlı, Doğu Roma İmparatorluğu'nun varisi olma arzusu taşıyordu."
+        },
+        {
+            "id": "Bizans İmparatorluğu#494",
+            "sentence": "Cameron'a göre kendilerini Bizans'ın \"varis\"i olarak görerek ve bazı önemli Bizans geleneklerini sürdürerek, Osmanlılar, dolaylı yoldan ___E:Doğu Avrupa U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Avrupa)___ ülkelerinin ___E:post-komünist U:(https://tr.wikipedia.org/w/index.php?title=Postkom%C3%BCnizm&action=edit&redlink=1)___ dönemde \"Ortodoks yeniden canlanması\" anlayışına yönelmesine neden oldu."
+        }
+    ]
+}

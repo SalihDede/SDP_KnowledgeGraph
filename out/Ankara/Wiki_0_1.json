@@ -1,0 +1,850 @@
+{
+    "Title": "Ankara",
+    "Card": {
+        "Ülke": "Türkiye",
+        "Coğrafi bölge": "___E:İç Anadolu Bölgesi U:(https://tr.wikipedia.org/wiki/%C4%B0%C3%A7_Anadolu_B%C3%B6lgesi)___",
+        "İl": "___E:Ankara U:(https://tr.wikipedia.org/wiki/Ankara_(il))___",
+        "İlk yerleşim": "MÖ 3000",
+        "• Tür": "___E:Belediye başkanı-meclis U:(https://tr.wikipedia.org/wiki/Belediye_ba%C5%9Fkan%C4%B1-meclis_y%C3%B6netimi)___",
+        "• Organ": "Belediye meclisi CHP (90)AK Parti (45)MHP (10)Yeniden Refah Partisi (1)BBP (1)Bağımsız (1)",
+        "•Belediye Başkanı": "___E:Mansur Yavaş U:(https://tr.wikipedia.org/wiki/Mansur_Yava%C5%9F)___ ( ___E:CHP U:(https://tr.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi)___ )",
+        "Rakım": "938 m",
+        "Nüfus(2024)": "5.864.049 ",
+        "• Sıra": "2",
+        "Zaman dilimi": "___E:UTC+03.00 U:(https://tr.wikipedia.org/wiki/UTC%2B03.00)___ ( ___E:TRS U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Saati)___ )",
+        "Posta kodu": "06XXX",
+        "Alan kodu": "312",
+        "ISO 3166 kodu": "___E:TR-06 U:(https://tr.wikipedia.org/wiki/ISO_3166-2:TR)___",
+        "Plaka kodu": "06",
+        "• Toplam": "₺667,142 milyar (2021) ___E:(2.) U:(https://tr.wikipedia.org/w/index.php?title=(2.)&action=edit&redlink=1)___ [en]",
+        "• Kişi başı": "13,919$ (2022) ___E:(3.) U:(https://www.statista.com/statistics/1384725/turkey-gdp-per-capita-by-province/)___",
+        "İGE(2018)": "0,855  @media screen{html.skin-theme-clientpref-night .mw-parser-output div:not(.notheme)>.tmp-color,html.skin-theme-clientpref-night .mw-parser-output p>.tmp-color,html.skin-theme-clientpref-night .mw-parser-output table:not(.notheme) .tmp-color{color:inherit!important}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output div:not(.notheme)>.tmp-color,html.skin-theme-clientpref-os .mw-parser-output p>.tmp-color,html.skin-theme-clientpref-os .mw-parser-output table:not(.notheme) .tmp-color{color:inherit!important}} çok yüksek · 1.",
+        "İklim": "___E:Dsb U:(https://tr.wikipedia.org/wiki/Karasal_iklim)___ , ___E:Bsk U:(https://tr.wikipedia.org/wiki/Yar%C4%B1_kurak_iklim)___"
+    },
+    "Main": [
+        {
+            "id": "Ankara#1",
+            "sentence": "Ankara , ___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___ 'nin ___E:başkenti U:(https://tr.wikipedia.org/wiki/Ba%C5%9Fkent)___ ve ___E:Ankara ilinin U:(https://tr.wikipedia.org/wiki/Ankara_(il))___ merkezi olan şehirdir."
+        },
+        {
+            "id": "Ankara#2",
+            "sentence": "Aynı zamanda ___E:dünyada en büyük yüzölçümüne sahip olan başkenttir U:(https://tr.wikipedia.org/w/index.php?title=Y%C3%BCz%C3%B6l%C3%A7%C3%BCm%C3%BCne_g%C3%B6re_ulusal_ba%C5%9Fkentler_listesi&action=edit&redlink=1)___ ."
+        },
+        {
+            "id": "Ankara#3",
+            "sentence": "Coğrafi olarak Türkiye'nin merkezine yakın bir konumda bulunur ve ___E:İç Anadolu Bölgesi U:(https://tr.wikipedia.org/wiki/%C4%B0%C3%A7_Anadolu_B%C3%B6lgesi)___ 'nde yer alır. Ülkenin ___E:İstanbul U:(https://tr.wikipedia.org/wiki/%C4%B0stanbul)___ 'dan sonra en kalabalık ikinci, kentsel alan olarak birinci, ilin toplam alanı olarak ise ___E:Konya U:(https://tr.wikipedia.org/wiki/Konya)___ ve ___E:Sivas U:(https://tr.wikipedia.org/wiki/Sivas)___ 'tan sonra en büyük üçüncü şehridir."
+        },
+        {
+            "id": "Ankara#4",
+            "sentence": "Toplam 25 tane ilçesi vardır, bunların 9'u merkez ilçedir."
+        },
+        {
+            "id": "Ankara#5",
+            "sentence": "Ankara'nın 13 Ekim 1923'te  başkent ilan edilmesinin ardından hızla gelişen şehir, ___E:1945 nüfus sayımı U:(https://tr.wikipedia.org/wiki/1945_T%C3%BCrkiye_n%C3%BCfus_say%C4%B1m%C4%B1)___ itibarıyla ___E:İzmir U:(https://tr.wikipedia.org/wiki/%C4%B0zmir)___ 'i geçerek Türkiye'nin ikinci en kalabalık şehri olmuştur."
+        },
+        {
+            "id": "Ankara#6",
+            "sentence": "Türkiye Cumhuriyeti'nin ilk yıllarında ekonomisi ___E:hayvancılık U:(https://tr.wikipedia.org/wiki/Hayvanc%C4%B1l%C4%B1k)___ ve ___E:tarıma U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_tar%C4%B1m)___ dayanan ilin topraklarının yarısı hâlâ tarım amaçlı kullanılmaktadır."
+        },
+        {
+            "id": "Ankara#7",
+            "sentence": "Ekonomik etkinlik büyük oranda ___E:ticaret U:(https://tr.wikipedia.org/wiki/Ticaret)___ ve ___E:sanayiye U:(https://tr.wikipedia.org/wiki/Sanayi)___ dayalıdır."
+        },
+        {
+            "id": "Ankara#8",
+            "sentence": "Tarım ve hayvancılığın ağırlığı ise giderek azalmaktadır."
+        },
+        {
+            "id": "Ankara#9",
+            "sentence": "Ankara ve civarındaki gerek kamu sektörü gerek özel sektör yatırımları, başka illerden büyük bir nüfus göçünü teşvik etmiştir. ___E:Cumhuriyetin ilanından U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_cumhuriyetin_ilan%C4%B1)___ günümüze, nüfusu ülke nüfusuna kıyasla iki kat daha hızlı artmıştır."
+        },
+        {
+            "id": "Ankara#10",
+            "sentence": "Nüfusun yaklaşık dörtte üçü hizmet sektörü olarak tanımlanabilecek memuriyet, ulaşım, haberleşme ve ticaret benzeri işlerde, dörtte biri sanayide, %2'si ise tarım alanında çalışır."
+        },
+        {
+            "id": "Ankara#11",
+            "sentence": "Sanayi, özellikle ___E:tekstil U:(https://tr.wikipedia.org/wiki/Tekstil)___ , ___E:gıda U:(https://tr.wikipedia.org/wiki/G%C4%B1da)___ ve ___E:inşaat U:(https://tr.wikipedia.org/wiki/%C4%B0n%C5%9Faat)___ sektörlerinde yoğunlaşmıştır."
+        },
+        {
+            "id": "Ankara#12",
+            "sentence": "Günümüzde ise en çok savunma, metal ve motor sektörlerinde yatırım yapılmaktadır."
+        },
+        {
+            "id": "Ankara#13",
+            "sentence": "Türkiye'nin en çok sayıda ___E:üniversiteye U:(https://tr.wikipedia.org/wiki/%C3%9Cniversite)___ sahip ikinci ili olan  Ankara'da ayrıca, üniversite mezunu oranı ülke ortalamasının iki katıdır."
+        },
+        {
+            "id": "Ankara#14",
+            "sentence": "Bu eğitimli nüfus, ___E:teknoloji U:(https://tr.wikipedia.org/wiki/Teknoloji)___ ağırlıklı yatırımların gereksinim duyduğu iş gücünü oluşturur."
+        },
+        {
+            "id": "Ankara#15",
+            "sentence": "Ankara'dan ___E:otoyol U:(https://tr.wikipedia.org/wiki/Otoyol)___ , ___E:demiryolu U:(https://tr.wikipedia.org/wiki/Demiryolu_ula%C5%9F%C4%B1m%C4%B1)___ ve ___E:havayolu U:(https://tr.wikipedia.org/wiki/Havayolu)___ ile Türkiye'nin diğer şehirlerine ulaşılır."
+        },
+        {
+            "id": "Ankara#16",
+            "sentence": "Bilinen tarihi en az 10 bin yıl öncesine, ___E:Eski Taş Çağı U:(https://tr.wikipedia.org/wiki/Eski_Ta%C5%9F_%C3%87a%C4%9F%C4%B1)___ 'na ulaşan  Ankara, tarih öncesinden günümüze dek pek çok medeniyete ev sahipliği yapmıştır. ___E:Hititler U:(https://tr.wikipedia.org/wiki/Hititler)___ , ___E:Frigyalılar U:(https://tr.wikipedia.org/wiki/Frigler)___ , ___E:Lidyalılar U:(https://tr.wikipedia.org/wiki/Lidyal%C4%B1lar)___ , ___E:Persler U:(https://tr.wikipedia.org/wiki/Farslar)___ , ___E:Galatlar U:(https://tr.wikipedia.org/wiki/Galatlar)___ , ___E:Romalılar U:(https://tr.wikipedia.org/wiki/Antik_Roma)___ , ___E:Bizanslılar U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu)___ , ___E:Selçuklular U:(https://tr.wikipedia.org/wiki/Sel%C3%A7uklu_Hanedan%C4%B1)___ , ___E:Osmanlılar U:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)___ ve nihayet ___E:Türkiye Cumhuriyeti U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___ , il topraklarını kontrolleri altında tutmuştur. ___E:Tektosagların U:(https://tr.wikipedia.org/wiki/Tektosaglar)___ ve Türkiye Cumhuriyeti'nin başkenti olan Ankara şehri ve Frigyalıların başkenti ___E:Gordion U:(https://tr.wikipedia.org/wiki/Gordion)___ , il sınırları içinde yer alır. ___E:Yıldırım Bayezid U:(https://tr.wikipedia.org/wiki/I._Bayezid)___ 'in ___E:Timur U:(https://tr.wikipedia.org/wiki/Timur)___ 'a yenik düştüğü ___E:Ankara Muharebesi U:(https://tr.wikipedia.org/wiki/Ankara_Muharebesi)___ ___E:Çubuk U:(https://tr.wikipedia.org/wiki/%C3%87ubuk,_Ankara)___ yakınlarında ve ___E:Türk Kurtuluş Savaşı U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1)___ 'nın dönüm noktası olan ___E:Sakarya Muharebesi U:(https://tr.wikipedia.org/wiki/Sakarya_Meydan_Muharebesi)___ ise Polatlı yakınlarında yapılmıştır."
+        },
+        {
+            "id": "Ankara#17",
+            "sentence": "Ankara ___E:karasal iklime U:(https://tr.wikipedia.org/wiki/Karasal_iklim)___ sahiptir."
+        },
+        {
+            "id": "Ankara#18",
+            "sentence": "Şehir merkezinin dışındaki il topraklarının büyük bölümü, tahıl üretiminin yoğun olduğu platolardan oluşmaktadır."
+        },
+        {
+            "id": "Ankara#19",
+            "sentence": "İlin çeşitli yerlerindeki doğal güzellikler korumaya alınmış olup dinlenme ve eğlence amaçlı kullanıma sunulmuştur."
+        },
+        {
+            "id": "Ankara#20",
+            "sentence": "İlin adını taşıyan ___E:tavşanı U:(https://tr.wikipedia.org/wiki/Ankara_tav%C5%9Fan%C4%B1)___ , ___E:keçisi U:(https://tr.wikipedia.org/wiki/Ankara_ke%C3%A7isi)___ , ___E:atı U:(https://tr.wikipedia.org/wiki/At)___ ve ___E:kedisi U:(https://tr.wikipedia.org/wiki/Ankara_kedisi)___ dünya çapında bilinir; ___E:armudu U:(https://tr.wikipedia.org/wiki/Ankara_armudu)___ , ___E:çiğdemi U:(https://tr.wikipedia.org/wiki/Crocus_ancyrensis)___ ; yerel yemeklerden ___E:Ankara tavası U:(https://tr.wikipedia.org/wiki/Ankara_tavas%C4%B1)___ ile ___E:Kızılcahamam U:(https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lcahamam)___ ve ___E:Beypazarı U:(https://tr.wikipedia.org/wiki/Beypazar%C4%B1)___ maden suyu ise ülke çapında tanınır."
+        },
+        {
+            "id": "Ankara#21",
+            "sentence": "Frigya dili ve ___E:Grekçede U:(https://tr.wikipedia.org/wiki/Grek%C3%A7e)___ Ἄγκυρα (telâffuz: Anküra ), ___E:gemi çapası U:(https://tr.wikipedia.org/wiki/Gemi_%C3%A7apas%C4%B1)___ demektir."
+        },
+        {
+            "id": "Ankara#22",
+            "sentence": "Bazı efsanelere göre Ankara, ___E:Frig U:(https://tr.wikipedia.org/wiki/Frigya)___ Kralı ___E:Midas U:(https://tr.wikipedia.org/wiki/Midas)___ 'ın bir gemi çapası bulduğu yerdir.  ___E:Büyük İskender U:(https://tr.wikipedia.org/wiki/%C4%B0skender)___ 'in Doğu Seferi sırasında Anküra'ya MÖ 333'te geldiği kayıtlara geçmiştir.  2. yüzyıla ait ve Ankara'daki ___E:Anadolu Medeniyetleri Müzesinde U:(https://tr.wikipedia.org/wiki/Anadolu_Medeniyetleri_M%C3%BCzesi)___ sergilenen bazı paralarda gemi çapası figürü bulunmaktadır."
+        },
+        {
+            "id": "Ankara#23",
+            "sentence": "___E:Frigler U:(https://tr.wikipedia.org/wiki/Frigler)___ , ___E:Galatlar U:(https://tr.wikipedia.org/wiki/Galatlar)___ ve ___E:Romalılar U:(https://tr.wikipedia.org/wiki/Antik_Roma)___ tarafından Ἄγκυρα olarak bilinen şehrin adı, ___E:Latin harfleri U:(https://tr.wikipedia.org/wiki/Latin_harfleri)___ ile ___E:Batılı U:(https://tr.wikipedia.org/wiki/Bat%C4%B1_d%C3%BCnyas%C4%B1)___ kaynaklara Ankyra ve Ancyra olarak geçti."
+        },
+        {
+            "id": "Ankara#24",
+            "sentence": "Kentin adı, Türklerin ___E:Anadolu U:(https://tr.wikipedia.org/wiki/Anadolu)___ 'ya gelmesinden sonra Ankara , Engürü ve Engüriye olarak değişime uğradı."
+        },
+        {
+            "id": "Ankara#25",
+            "sentence": "Batı dillerine de Angora olarak geçti. 16. yüzyıla ait çeşitli resmî Osmanlı evraklarında Ankara (انقره) adı geçmektedir."
+        },
+        {
+            "id": "Ankara#26",
+            "sentence": "___E:Türkiye Cumhuriyeti U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___ devleti, 28 Mart 1930'da yabancı ülkelerden Türk şehirleri için ___E:Türkçe U:(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)___ adların kullanılmasını resmen talep etti.  Bu tarihten sonra posta idaresi Angora olarak adreslenmiş mektupları Ankara'ya ulaştırmadı."
+        },
+        {
+            "id": "Ankara#27",
+            "sentence": "Böylece zamanla Ankara adı evrenselleşti."
+        },
+        {
+            "id": "Ankara#28",
+            "sentence": "Ankara ilinde keşfedilmiş en eski tarih öncesi kalıntılar ___E:Eski Taş Çağı U:(https://tr.wikipedia.org/wiki/Eski_Ta%C5%9F_%C3%87a%C4%9F%C4%B1)___ 'na   kadar uzanmaktadır."
+        },
+        {
+            "id": "Ankara#29",
+            "sentence": "Bu döneme ait çeşitli eserlere Gâvurkale, Ergazi, Lodumlu ve Maltepe'de rastlanmıştır."
+        },
+        {
+            "id": "Ankara#30",
+            "sentence": "Bunlar dışında Ankara'nın ___E:Polatlı U:(https://tr.wikipedia.org/wiki/Polatl%C4%B1)___ ilçesinde, MÖ 3000 yıllarına ait insan yerleşmelerine rastlanmıştı."
+        },
+        {
+            "id": "Ankara#31",
+            "sentence": "___E:Hint-Avrupalı U:(https://tr.wikipedia.org/wiki/Hint-Avrupa_halklar%C4%B1)___ bir kavim olan ___E:Hititler U:(https://tr.wikipedia.org/wiki/Hititler)___ (MÖ 1660-1190), Anadolu'ya boğazlar yoluyla gelmişlerdir."
+        },
+        {
+            "id": "Ankara#32",
+            "sentence": "Hititlerin Anadolu'ya göç tarihleri, kesin olarak bilinmemektedir."
+        },
+        {
+            "id": "Ankara#33",
+            "sentence": "Ankara ve çevresinde Hitit dönemine ait yerleşkelerin kalıntıları; Balıkhisar, Ballıkuyumcu, Bitik, Karaoğlan, Gâvurkale ve Külhöyük ___E:höyükleridir U:(https://tr.wikipedia.org/wiki/H%C3%B6y%C3%BCk)___ ."
+        },
+        {
+            "id": "Ankara#34",
+            "sentence": "MÖ 2000'in sonlarına doğru Hititlerin siyasal olarak çöktüğü ve yerini ___E:Friglere U:(https://tr.wikipedia.org/wiki/Frigya)___ bıraktığı görülmektedir."
+        },
+        {
+            "id": "Ankara#35",
+            "sentence": "MÖ 2000'in sonlarında bölgede, hızla büyüyen bir Frigya kasabası vardı."
+        },
+        {
+            "id": "Ankara#36",
+            "sentence": "Frig Krallığı'nın başkenti olan ___E:Gordion U:(https://tr.wikipedia.org/wiki/Gordion)___ kentinin kalıntıları ___E:Polatlı U:(https://tr.wikipedia.org/wiki/Polatl%C4%B1)___ 'nın 29 kilometre kuzeybatısında bulunmaktadır."
+        },
+        {
+            "id": "Ankara#37",
+            "sentence": "Gordion, en parlak dönemini ___E:Frigya Kralı Midas U:(https://tr.wikipedia.org/wiki/Midas)___ zamanında (MÖ 725-675) yaşamıştır."
+        },
+        {
+            "id": "Ankara#38",
+            "sentence": "Ankara'da, Frigler dönemine ait kalıntılar arasında bulunan ___E:Yumurtatepe Tümülüsü U:(https://tr.wikipedia.org/wiki/Yumurtatepe_T%C3%BCm%C3%BCl%C3%BCs%C3%BC)___ 'nün bulunduğu yerin, kurulduğu dönemlerde çok önemli bir yerleşim olmasa da stratejik bir noktada olduğu düşünülmektedir."
+        },
+        {
+            "id": "Ankara#39",
+            "sentence": "Frigler, MÖ 700'lü yıllarda ___E:Kafkaslardan U:(https://tr.wikipedia.org/wiki/Kafkasya)___ gelen ___E:Kimmerler U:(https://tr.wikipedia.org/wiki/Kimmerler)___ tarafından ortadan kaldırıldı."
+        },
+        {
+            "id": "Ankara#40",
+            "sentence": "___E:Tunç Çağı U:(https://tr.wikipedia.org/wiki/Tun%C3%A7_%C3%87a%C4%9F%C4%B1)___ 'nın sonlarında Frigler ile birlikte Anadolu'ya gelen ve Batı Anadolu'da varlıklarını sürdüren ___E:Lidyalılar U:(https://tr.wikipedia.org/wiki/Lidyal%C4%B1lar)___ , Friglerin ortadan kalkmasını fırsat bilerek bugünkü Ankara ilini de kapsayan ___E:Kızılırmak U:(https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%C4%B1rmak)___ yöresini ele geçirdiler."
+        },
+        {
+            "id": "Ankara#41",
+            "sentence": "MÖ 7. yüzyılda Anadolu'ya hâkim oldular ve 140 yıl hüküm sürdüler."
+        },
+        {
+            "id": "Ankara#42",
+            "sentence": "Lidyalıların ___E:sikkeyi U:(https://tr.wikipedia.org/wiki/Maden%C3%AE_para)___ icat ettikleri kabul edilir."
+        },
+        {
+            "id": "Ankara#43",
+            "sentence": "Lidyalılar döneminde Anadolu'da ticaret gelişmiş, ___E:tahıl U:(https://tr.wikipedia.org/wiki/Tah%C4%B1l)___ üretimi, ___E:hayvancılık U:(https://tr.wikipedia.org/wiki/Hayvanc%C4%B1l%C4%B1k)___ , ___E:zeytinyağı U:(https://tr.wikipedia.org/wiki/Zeytinya%C4%9F%C4%B1)___ ve ___E:şarap U:(https://tr.wikipedia.org/wiki/%C5%9Earap)___ üretimi ilerlemiştir."
+        },
+        {
+            "id": "Ankara#44",
+            "sentence": "Orta Anadolu'nun ana ulaşım yolu üzerinde bulunan Ankara ili toprakları da bu gelişmelerden istifade etmiştir.  ___E:Medler U:(https://tr.wikipedia.org/wiki/Medler)___ ve ___E:Persler U:(https://tr.wikipedia.org/wiki/Farslar)___ ile savaşan Lidyalılar, komşuları ___E:Ahameniş Pers Hükümdarı Kiros U:(https://tr.wikipedia.org/wiki/II._Kiros)___ ile MÖ 547'de Kızılırmak kavsi içinde yaptıkları savaşı kaybederek tarih sahnesinden silinmişlerdir."
+        },
+        {
+            "id": "Ankara#45",
+            "sentence": "Persler, MÖ 545'ten itibaren ___E:Anadolu U:(https://tr.wikipedia.org/wiki/Anadolu)___ 'ya egemen olarak, Anadolu'daki ___E:Helen U:(https://tr.wikipedia.org/wiki/Antik_Yunanistan)___ kültürüne son verdiler."
+        },
+        {
+            "id": "Ankara#46",
+            "sentence": "MÖ 5. yüzyılda ___E:Herodot U:(https://tr.wikipedia.org/wiki/Herodot)___ , ___E:Pers İmparatorluğu U:(https://tr.wikipedia.org/wiki/Ahameni%C5%9F_%C4%B0mparatorlu%C4%9Fu)___ 'nun ordu, ticaret ve posta hattı olarak kullanılan ___E:Kral Yolu U:(https://tr.wikipedia.org/wiki/Kral_Yolu)___ 'nun Ankara'dan geçtiğini yazar. ___E:Kral Yolu U:(https://tr.wikipedia.org/wiki/Kral_Yolu)___ , ___E:Efes U:(https://tr.wikipedia.org/wiki/Efes)___ 'te başlıyor, Sardes şehrinden Lidya'ya, sonra ___E:Gordion U:(https://tr.wikipedia.org/wiki/Gordion)___ , Ankyra ve ___E:Kızılırmak U:(https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%C4%B1rmak)___ 'tan geçerek, ___E:Kapadokya U:(https://tr.wikipedia.org/wiki/Kapadokya)___ üzerinden ___E:Kilikya U:(https://tr.wikipedia.org/wiki/Kilikya_(eyalet))___ 'ya, oradan ___E:Fırat U:(https://tr.wikipedia.org/wiki/F%C4%B1rat)___ ve ___E:Dicle U:(https://tr.wikipedia.org/wiki/Dicle)___ nehirlerini geçip ___E:Asur U:(https://tr.wikipedia.org/wiki/Asur)___ 'dan ___E:Susa U:(https://tr.wikipedia.org/wiki/Susa)___ kentine ulaşıyordu."
+        },
+        {
+            "id": "Ankara#47",
+            "sentence": "Ankara ili toprakları MÖ 334'te  ___E:Makedonya U:(https://tr.wikipedia.org/wiki/Makedonya_(antik_krall%C4%B1k))___ Kralı ___E:Büyük İskender U:(https://tr.wikipedia.org/wiki/%C4%B0skender)___ tarafından ___E:Ahameniş İmparatorluğu U:(https://tr.wikipedia.org/wiki/Ahameni%C5%9F_%C4%B0mparatorlu%C4%9Fu)___ 'ndan alınana kadar; tarihi boyunca ___E:Frigler U:(https://tr.wikipedia.org/wiki/Frigler)___  ve ___E:Hititler U:(https://tr.wikipedia.org/wiki/Hititler)___ 'in    haricinde ___E:Hattiler U:(https://tr.wikipedia.org/wiki/Hatti)___ , Lidyalılar ve Ahamenişler egemenliğine girmiştir."
+        },
+        {
+            "id": "Ankara#48",
+            "sentence": "MÖ 3. yüzyılda ___E:Anadolu U:(https://tr.wikipedia.org/wiki/Anadolu)___ 'ya gelen savaşçı bir kavim olan ___E:Galatların U:(https://tr.wikipedia.org/wiki/Galatlar)___ ___E:Tektosaglar U:(https://tr.wikipedia.org/wiki/Tektosaglar)___ boyuna başkentlik etmiştir.  ___E:Strabon U:(https://tr.wikipedia.org/wiki/Strabon)___ , ünlü eseri Geographika 'da, bugün merkezde bulunan ___E:Ankara Kalesi U:(https://tr.wikipedia.org/wiki/Ankara_Kalesi)___ 'nin ___E:Tektosaglar U:(https://tr.wikipedia.org/wiki/Tektosaglar)___ tarafından inşa edildiğini söyler."
+        },
+        {
+            "id": "Ankara#49",
+            "sentence": "Daha sonra bölgede siyasal birliği kuran  ___E:Roma İmparatoru U:(https://tr.wikipedia.org/wiki/Roma_imparatorlar%C4%B1_listesi)___ ___E:Caesar Divi Filius Augustus U:(https://tr.wikipedia.org/wiki/Augustus)___ , MÖ 25 yılında Ankara'yı ele geçirmiştir."
+        },
+        {
+            "id": "Ankara#50",
+            "sentence": "MS 395 yılında ___E:Roma İmparatorluğu U:(https://tr.wikipedia.org/wiki/Roma_%C4%B0mparatorlu%C4%9Fu)___ ikiye bölününce Ankara ___E:Doğu Roma U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu)___ (Bizans) sınırları içinde kaldı."
+        },
+        {
+            "id": "Ankara#51",
+            "sentence": "Ancak il toprakları üzerindeki Doğu Roma hâkimiyeti zaman zaman kesintiye uğradı."
+        },
+        {
+            "id": "Ankara#52",
+            "sentence": "MS 654 yılında ___E:Müslüman Araplar U:(https://tr.wikipedia.org/wiki/%C4%B0slam_devleti)___ kısa süreliğine bölgenin kontrolünü ele geçirdiler. 833 ve 842 yıllarında ___E:Abbasi Halifesi Mutasım U:(https://tr.wikipedia.org/wiki/Mutas%C4%B1m)___ ve Türk komutanı ___E:Afşin U:(https://tr.wikipedia.org/wiki/Af%C5%9Fin)___ Ankara kentini kısa süreliğine ele geçirdi. 871 yılında ___E:Pavlikian U:(https://tr.wikipedia.org/wiki/Pavlus%C3%A7uluk)___ mezhebinden Hristiyanlar Ankara kentinin kontrolünü yaklaşık bir yıllığına ele geçirdi."
+        },
+        {
+            "id": "Ankara#53",
+            "sentence": "Bu kesintilerden sonra her seferinde Doğu Romalılar kenti geri alarak otoriteyi sağladı."
+        },
+        {
+            "id": "Ankara#54",
+            "sentence": "Güçlü istihkamı sebebiyle 1071-73 yılları arasında Türk akınlarına karşı koyan Ankara'nın ___E:Artuk Bey U:(https://tr.wikipedia.org/wiki/Artuk_Bey)___ veya ___E:Dânişmend Gazi U:(https://tr.wikipedia.org/wiki/D%C3%A2ni%C5%9Fmend_Gazi)___ tarafından Türk hakimiyeti altına alındığı ifade edilmiştir."
+        },
+        {
+            "id": "Ankara#55",
+            "sentence": "Ankara'nın ___E:Büyük Selçuklu İmparatorluğu U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu)___ 'nun eline geçmesi, ___E:Malazgirt Meydan Muharebesi U:(https://tr.wikipedia.org/wiki/Malazgirt_Meydan_Muharebesi)___ 'nden sonra 1073 yılına rastlar. 12. ve 13. yüzyıllarda ___E:Selçuklu Sultanlarının U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_sultanlar%C4%B1_listesi)___ da çabasıyla transit ticarette gelişme gösteren Ankara'nın merkezi, önce ___E:Ahiler U:(https://tr.wikipedia.org/wiki/Ahilik)___ 'e, ardından 1304'te göreli özerklik verilerek ___E:Osmanlı İmparatorluğu U:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)___ 'na bağlandı."
+        },
+        {
+            "id": "Ankara#56",
+            "sentence": "İlin güneybatı ilçeleri bu dönemde ___E:Germiyanoğulları U:(https://tr.wikipedia.org/wiki/Germiyano%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ 'na bağlanırken, güneydoğu ilçeleri ___E:Karamanoğulları U:(https://tr.wikipedia.org/wiki/Karamano%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ 'na bağlanmıştır.  ___E:I. Murat U:(https://tr.wikipedia.org/wiki/I._Murad)___ zamanında kesin olarak Osmanlı topraklarına bağlanan ilde, 1402 yılında ___E:Büyük Timur İmparatorluğu U:(https://tr.wikipedia.org/wiki/Timur_%C4%B0mparatorlu%C4%9Fu)___ imparatoru ___E:Timur U:(https://tr.wikipedia.org/wiki/Timur)___ ile Osmanlı İmparatorluğu ___E:padişahı U:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_Hanedan%C4%B1)___ ___E:Yıldırım Bayezid U:(https://tr.wikipedia.org/wiki/I._Bayezid)___ arasında ___E:Ankara Muharebesi U:(https://tr.wikipedia.org/wiki/Ankara_Muharebesi)___ yapıldı."
+        },
+        {
+            "id": "Ankara#57",
+            "sentence": "Yıldırım Bayezid'in savaşı kaybetmesi ve Timur'a esir düşmesi sonucu Osmanlı Devleti, ___E:Fetret Devri U:(https://tr.wikipedia.org/wiki/Fetret_Devri)___ denen bunalım ve iktidar boşluğu dönemine girdi."
+        },
+        {
+            "id": "Ankara#58",
+            "sentence": "Ankara Muharebesi'nde bölge büyük ölçüde harap olmuş, Anadolu birliğini yeniden kuran ___E:II. Murat U:(https://tr.wikipedia.org/wiki/II._Murad)___ zamanında yeniden onarılmıştır.  1841 yılında ___E:Anadolu Eyaleti U:(https://tr.wikipedia.org/wiki/Anadolu_(eyalet))___ kaldırılıp yerine vilayetler kurulunca il bir ___E:vilayet U:(https://tr.wikipedia.org/wiki/Ankara_Vilayeti)___ oldu.  Ankara, Çorum, Yozgat, Kayseri ve Kırşehir sancakları bu vilayete bağlandı. ___E:Ankara Vilayeti U:(https://tr.wikipedia.org/wiki/Ankara_Vilayeti)___ 1922 yılına kadar varlığını sürdürdü."
+        },
+        {
+            "id": "Ankara#59",
+            "sentence": "Osmanlı hâkimiyetinin sonlarına doğru Ankara 1917'de 3 gün süren ___E:büyük bir yangın U:(https://tr.wikipedia.org/wiki/1916_Ankara_Yang%C4%B1n%C4%B1)___ geçirmiş  ve yangın 1.900 kadar hanenin yanması ile sonuçlanmıştır."
+        },
+        {
+            "id": "Ankara#60",
+            "sentence": "Ankara ilinin ___E:Türk Kurtuluş Savaşı U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1)___ 'nda merkezî bir yeri olmuştur. 27 Aralık 1919'da Ankara'ya gelen ___E:Mustafa Kemal U:(https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk)___ , şehri Anadolu'daki direniş hareketinin yönetimi olan ___E:Heyet-i Temsiliye U:(https://tr.wikipedia.org/wiki/Heyet-i_Temsiliye)___ 'nin merkezi olarak seçti."
+        },
+        {
+            "id": "Ankara#61",
+            "sentence": "Şehir, coğrafi olarak Anadolu'nun ortasındaydı, demiryolu ile İstanbul'a ulaşılabiliyordu, ___E:Batı Cephesine U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1_Bat%C4%B1_Cephesi)___ yakındı ve halkın millî mücadeleye olan desteği tamdı."
+        },
+        {
+            "id": "Ankara#62",
+            "sentence": "İstanbul'un İngilizler tarafından resmen işgalinden iki gün sonra, 18 Mart 1920'de, İstanbul'da bulunan ___E:Meclis-i Mebûsan U:(https://tr.wikipedia.org/wiki/Meclis-i_Meb%C3%BBsan)___ kendini resmen feshedince, 23 Nisan 1920'de Ankara'da ___E:Büyük Millet Meclisi U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi)___ kuruldu."
+        },
+        {
+            "id": "Ankara#63",
+            "sentence": "Ankara ili, ___E:Türk-Yunan Savaşı U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1_Bat%C4%B1_Cephesi)___ 'nın en yoğun muharebesinin gerçekleştiği yer olmuştur. 1920 yazında Yunan birlikleri, Ankara şehrini ele geçirmek amacıyla ___E:Sakarya nehri U:(https://tr.wikipedia.org/wiki/Sakarya_Nehri)___ kıyılarına kadar ilerlemişti."
+        },
+        {
+            "id": "Ankara#64",
+            "sentence": "Ancak 23 Ağustos - 13 Eylül tarihleri arasında gerçekleşen ___E:Sakarya Meydan Muharebesi U:(https://tr.wikipedia.org/wiki/Sakarya_Meydan_Muharebesi)___ sonucunda Yunan birlikleri püskürtüldü. ___E:Polatlı U:(https://tr.wikipedia.org/wiki/Polatl%C4%B1)___ yakınlarında meydana gelen zorlu muharebe Kurtuluş Savaşı'nın dönüm noktası olmuş, Mustafa Kemal Atatürk ünlü \"Hattı müdafaa yoktur, sathı müdafaa vardır."
+        },
+        {
+            "id": "Ankara#65",
+            "sentence": "O satıh bütün vatandır\" sözünü bu sırada söylemiştir."
+        },
+        {
+            "id": "Ankara#66",
+            "sentence": "Birkaç hafta sonra Fransa ile yapılan ___E:Ankara Anlaşması U:(https://tr.wikipedia.org/wiki/Ankara_Antla%C5%9Fmas%C4%B1_(1921))___ ile, ___E:Türk-Fransız ihtilafı U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1_G%C3%BCney_Cephesi)___ sona ermiştir."
+        },
+        {
+            "id": "Ankara#67",
+            "sentence": "Kurtuluş Savaşı sonucu toprakları üzerindeki egemenliğini kanıtlayan Türkiye, 1922 ___E:Lozan Barış Konferansı U:(https://tr.wikipedia.org/wiki/Lozan_Bar%C4%B1%C5%9F_Konferans%C4%B1)___ ve 1923 ___E:Lozan Antlaşması U:(https://tr.wikipedia.org/wiki/Lozan_Antla%C5%9Fmas%C4%B1)___ ile uluslararası toplulukta millî sınırlarını tescilledi ve bağımsızlığını onaylattı."
+        },
+        {
+            "id": "Ankara#68",
+            "sentence": "Türkiye Büyük Millet Meclisi 13 Ekim 1923'te Ankara ilinin merkezi olan Ankara kentini başkent ilan etti."
+        },
+        {
+            "id": "Ankara#69",
+            "sentence": "Ankara, 1984 yılında çıkarılan 2972 sayılı kanun  ve 195 sayılı kanun hükmünde kararname  sonucu ___E:İstanbul U:(https://tr.wikipedia.org/wiki/%C4%B0stanbul)___ ve ___E:İzmir U:(https://tr.wikipedia.org/wiki/%C4%B0zmir)___ ile birlikte ___E:büyükşehir U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%C5%9Fehir_belediyesi)___ unvanı kazandı."
+        },
+        {
+            "id": "Ankara#70",
+            "sentence": "Aynı yıl çıkarılan 3030 sayılı kanun ile büyükşehir ve ilçe belediyeleri statüleri netleşti."
+        },
+        {
+            "id": "Ankara#71",
+            "sentence": "Başlangıçta beş ilçe ___E:Ankara Büyükşehir Belediyesinin U:(https://tr.wikipedia.org/wiki/Ankara_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi)___ sınırlarına dâhil edildi. 2004 yılında çıkarılan 5216 sayılı kanun ile büyükşehir belediyesinin sınırları valilik binası merkez kabul edilerek yarıçapı 50 kilometre olan dairenin sınırlarına genişletildi."
+        },
+        {
+            "id": "Ankara#72",
+            "sentence": "Bu sınırlar içinde kalan 16 ilçe, büyükşehir ilçe belediyeleri hâline geldi.  2012 yılında çıkarılan 6360 sayılı kanun ile ___E:2014 Türkiye yerel seçimlerinin U:(https://tr.wikipedia.org/wiki/2014_T%C3%BCrkiye_yerel_se%C3%A7imleri)___ ardından büyükşehir belediyesinin sınırları il mülki sınırları oldu."
+        },
+        {
+            "id": "Ankara#73",
+            "sentence": "Ankara şehrinin ortalama rakımı 938 metredir."
+        },
+        {
+            "id": "Ankara#74",
+            "sentence": "Şehir yer yer düz olsa da çoğunlukla tepelik ve yokuştur."
+        },
+        {
+            "id": "Ankara#75",
+            "sentence": "Ankara'nın genel bitki örtüsü ___E:İç Anadolu Bölgesi U:(https://tr.wikipedia.org/wiki/%C4%B0%C3%A7_Anadolu_B%C3%B6lgesi)___ 'nin tipik bitkisel örtüsü olan ___E:bozkırdır U:(https://tr.wikipedia.org/wiki/Bozk%C4%B1r)___ ."
+        },
+        {
+            "id": "Ankara#76",
+            "sentence": "Şehir merkezinde ___E:Atatürk Orman Çiftliği U:(https://tr.wikipedia.org/wiki/Atat%C3%BCrk_Orman_%C3%87iftli%C4%9Fi)___ ve ___E:ODTÜ Ormanları U:(https://tr.wikipedia.org/w/index.php?title=ODT%C3%9C_Ormanlar%C4%B1&action=edit&redlink=1)___ gibi insan eliyle oluşturulmuş ormanlık alan bulunmaktadır."
+        },
+        {
+            "id": "Ankara#77",
+            "sentence": "Ancak kuzey ilçelerinde ___E:Karadeniz Bölgesi U:(https://tr.wikipedia.org/wiki/Karadeniz_B%C3%B6lgesi)___ 'nin ikliminin etkisiyle bitki örtüsü tamamen ___E:orman U:(https://tr.wikipedia.org/wiki/Orman)___ veya ağaçlık alanlara dönüşebilir."
+        },
+        {
+            "id": "Ankara#78",
+            "sentence": "Ankara şehrinde ___E:yarı kurak U:(https://tr.wikipedia.org/wiki/Yar%C4%B1_kurak_iklim)___ ___E:karasal iklim U:(https://tr.wikipedia.org/wiki/Karasal_iklim)___ ( ___E:Köppen iklim sınıflandırması U:(https://tr.wikipedia.org/wiki/K%C3%B6ppen_iklim_s%C4%B1n%C4%B1fland%C4%B1rmas%C4%B1)___ : Bsk ve Dsb ) hüküm sürer."
+        },
+        {
+            "id": "Ankara#79",
+            "sentence": "Kışları soğuk ve kar yağışlı, yazları sıcak ve kurak, sonbaharları ılık ve kurak ve ilkbaharları serin ve yağışlıdır."
+        },
+        {
+            "id": "Ankara#80",
+            "sentence": "Ankara ikliminin diğer bir özelliği ise mevsimlerin geç başlaması ve geç bitmesidir."
+        },
+        {
+            "id": "Ankara#81",
+            "sentence": "Ankara'da gece ile gündüz, en az kış mevsiminde ve en çok yaz mevsiminde önemli sıcaklık farkları bulunur."
+        },
+        {
+            "id": "Ankara#82",
+            "sentence": "En sıcak ay Temmuz ve Ağustos'tur ve ortalama en yüksek gündüz sıcaklıkları 30 ___E:° U:(https://tr.wikipedia.org/wiki/Derece)___ ___E:C U:(https://tr.wikipedia.org/wiki/Santigrat)___ 'dir. En soğuk ay ise Ocak’tır; bu ayda gece sıcaklıkları ortalama -3 °C civarındadır."
+        },
+        {
+            "id": "Ankara#83",
+            "sentence": "Yağışlar en çok mayıs, en az Temmuz veya Ağustos ayında düşer."
+        },
+        {
+            "id": "Ankara#84",
+            "sentence": "İlkbahar ve yaz başlarında ' ___E:kırkikindi U:(https://tr.wikipedia.org/wiki/K%C4%B1rkikindi_ya%C4%9F%C4%B1%C5%9Flar%C4%B1)___ ' olarak adlandırılan ___E:konveksiyonel yağışlar U:(https://tr.wikipedia.org/wiki/Konveksiyonel_ya%C4%9F%C4%B1%C5%9F)___ görülür."
+        },
+        {
+            "id": "Ankara#85",
+            "sentence": "Ankara'da yıllık ortalama toplam yağış 415 mm'dir.   Ankara, son yılların en soğuk gecesini -22 °C ile 26 Ocak 2016 tarihinde yaşamıştır."
+        },
+        {
+            "id": "Ankara#86",
+            "sentence": "Ankara, başkent olduktan sonra hızla kalabalıklaşmıştır."
+        },
+        {
+            "id": "Ankara#87",
+            "sentence": "Özel ve kamu sektörü yatırımları, başkent Ankara ve çevresinde yoğunlaşmıştır."
+        },
+        {
+            "id": "Ankara#88",
+            "sentence": "Bu yatırımların sonucunda ortaya çıkan çalışma olanakları, Ankara’ya yönelik büyük bir göç dalgasına yol açmıştır."
+        },
+        {
+            "id": "Ankara#89",
+            "sentence": "Ekonomi, sağlık ve eğitim altyapısının gelişmişliği, suç oranının düşük olması, kişi başına kamu yatırımının ve kişi başına mevduatın yüksek olması gibi nedenler  göçü teşvik eden başlıca unsurlar arasında yer almaktadır."
+        },
+        {
+            "id": "Ankara#90",
+            "sentence": "Cumhuriyet tarihi boyunca ilin nüfusu ülke nüfusunun iki katı hızda artmıştır."
+        },
+        {
+            "id": "Ankara#91",
+            "sentence": "Ankara'nın nüfusu hiçbir zaman tam olarak hesaplanamaz."
+        },
+        {
+            "id": "Ankara#92",
+            "sentence": "Memur ve öğrenci sayısının fazla olması, nüfusun dönemsel dalgalanmasına neden olmaktadır. ___E:TÜİK U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_%C4%B0statistik_Kurumu)___ verilerine göre nüfusu yaklaşık 6 milyon iken gayriresmî nüfusu 8 milyondur. 1927 sayımına göre nüfusu 404 bin olan Ankara, o dönemde Türkiye nüfusunun %3,2’sini oluşturmaktaydı."
+        },
+        {
+            "id": "Ankara#93",
+            "sentence": "Bugün 8 milyon nüfus ile bu oran %6,3'e yükselmiştir. 2007-2008 yılları arasında ise nüfus artış hızı (%1,83), ülke nüfus artış hızının (%1,32) bir buçuk katı olmuştur."
+        },
+        {
+            "id": "Ankara#94",
+            "sentence": "Bu büyümenin başını çeken Ankara, yoğun göç almasına rağmen, 2008 yılında Ankara’daki işsizlik oranı (%11,8), Türkiye ortalamasına (%11,0) çok yakındır."
+        },
+        {
+            "id": "Ankara#95",
+            "sentence": "Ankara’da istihdam edilenlerin %72’si hizmet sektöründe, %26’sı sanayide, %2’si ise tarımda çalışmaktadır.  2024 yılı itibarıyla Ankara’nın nüfusu 5.864.049 kişidir."
+        },
+        {
+            "id": "Ankara#96",
+            "sentence": "Bu nüfus, 25 ilçe ve bu ilçelere bağlı 1.425 mahalleye dağılmış durumdadır."
+        },
+        {
+            "id": "Ankara#97",
+            "sentence": "Ankara, başkent olmadan önce ___E:İç Anadolu U:(https://tr.wikipedia.org/wiki/%C4%B0%C3%A7_Anadolu_B%C3%B6lgesi)___ Bölgesi'nde yer alan bir kasabaydı."
+        },
+        {
+            "id": "Ankara#98",
+            "sentence": "Cumhuriyet Dönemi'nde başkent olduktan sonra, tarım ve sanayi hızla gelişmeye başladı."
+        },
+        {
+            "id": "Ankara#99",
+            "sentence": "Günümüzde Ankara, İstanbul'dan sonra Türkiye'nin ikinci büyük ekonomi merkezidir. ___E:Söğütözü U:(https://tr.wikipedia.org/wiki/S%C3%B6%C4%9F%C3%BCt%C3%B6z%C3%BC)___ ve ___E:Çukurambar U:(https://tr.wikipedia.org/wiki/%C3%87ukurambar)___ semtlerinde birçok iş merkezi ve finans kuruluşu yer alır."
+        },
+        {
+            "id": "Ankara#100",
+            "sentence": "Ankara ilindeki müzelerin büyük çoğunluğu Ankara şehir merkezi sınırları içerisinde kalır."
+        },
+        {
+            "id": "Ankara#101",
+            "sentence": "İlde çeşitli kurumlarca işletilen ___E:53 U:(https://tr.wikipedia.org/wiki/Ankara%27daki_m%C3%BCzeler_listesi)___ müze bulunmaktadır."
+        },
+        {
+            "id": "Ankara#102",
+            "sentence": "Kurtuluş Savaşı ve Cumhuriyet'in kuruluş yıllarına ait önemli eşyaları Ankara'daki müzelerde bulmak mümkündür."
+        },
+        {
+            "id": "Ankara#103",
+            "sentence": "I. Türkiye Büyük Millet Meclisi Binası'nda bulunan ___E:Kurtuluş Savaşı Müzesi U:(https://tr.wikipedia.org/wiki/Kurtulu%C5%9F_Sava%C5%9F%C4%B1_M%C3%BCzesi)___ , Anıtkabir'deki ___E:Atatürk ve Kurtuluş Savaşı Müzesi U:(https://tr.wikipedia.org/wiki/Atat%C3%BCrk_ve_Kurtulu%C5%9F_Sava%C5%9F%C4%B1_M%C3%BCzesi)___ , II. TBMM Binası'ndaki ___E:Cumhuriyet Müzesi U:(https://tr.wikipedia.org/wiki/Cumhuriyet_M%C3%BCzesi)___ , ___E:Devlet Mezarlığı Müzesi U:(https://tr.wikipedia.org/wiki/Devlet_Mezarl%C4%B1%C4%9F%C4%B1)___ bu tarihî müzelerin başlıcalarıdır."
+        },
+        {
+            "id": "Ankara#104",
+            "sentence": "Bunların yanı sıra ___E:İsmet İnönü U:(https://tr.wikipedia.org/wiki/Pembe_K%C3%B6%C5%9Fk_(%C4%B0smet_%C4%B0n%C3%B6n%C3%BC_Evi))___ ve ___E:Mehmet Akif Ersoy Müze Evi U:(https://tr.wikipedia.org/wiki/Mehmet_Akif_Ersoy_M%C3%BCze_Evi)___ de birer müze olmuştur."
+        },
+        {
+            "id": "Ankara#105",
+            "sentence": "Ankara'nın başkent olmasından dolayı doğal olarak Türkiye'nin ilk belli başlı müzeleri ( ___E:Etnografya Müzesi U:(https://tr.wikipedia.org/wiki/Ankara_Etnografya_M%C3%BCzesi)___ , ___E:Devlet Resim ve Heykel Müzesi U:(https://tr.wikipedia.org/wiki/Ankara_Resim_ve_Heykel_M%C3%BCzesi)___ gibi) Ankara'da oluşturulmuştur."
+        },
+        {
+            "id": "Ankara#106",
+            "sentence": "Çeşitli devlet kuruluşları da başkentte bulunmaları nedeniyle müzelerini burada kurmuşlardır, ___E:Ziraat Bankası Müzesi U:(https://tr.wikipedia.org/wiki/Ziraat_Bankas%C4%B1_M%C3%BCzesi)___ , ___E:Türk Hava Kurumu Müzesi U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Hava_Kurumu_M%C3%BCzesi)___ , ___E:Maden Tetkik ve Arama Genel Müdürlüğü U:(https://tr.wikipedia.org/wiki/Maden_Tetkik_ve_Arama_Genel_M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC)___ 'nün ___E:Tabiat Tarihi Müzesi U:(https://tr.wikipedia.org/w/index.php?title=Tabiat_Tarihi_M%C3%BCzesi&action=edit&redlink=1)___ gibi. Yakın yıllarda kurulan ___E:ODTÜ Bilim ve Teknoloji Müzesi U:(https://tr.wikipedia.org/wiki/ODT%C3%9C_Bilim_ve_Teknoloji_M%C3%BCzesi)___ , ___E:Feza Gürsey Bilim Merkezi U:(https://tr.wikipedia.org/wiki/Feza_G%C3%BCrsey_Bilim_Merkezi)___ , ___E:Çengelhan Rahmi Koç Müzesi U:(https://tr.wikipedia.org/wiki/%C3%87engelhan_Rahmi_M._Ko%C3%A7_M%C3%BCzesi)___ , ___E:Ulucanlar Cezaevi Müzesi U:(https://tr.wikipedia.org/wiki/Ulucanlar_Cezaevi_M%C3%BCzesi)___ , ___E:Altınköy Açık Hava Müzesi U:(https://tr.wikipedia.org/wiki/Alt%C4%B1nk%C3%B6y_A%C3%A7%C4%B1k_Hava_M%C3%BCzesi)___ , ___E:Erimtan Arkeoloji ve Sanat Müzesi U:(https://tr.wikipedia.org/wiki/Erimtan_Arkeoloji_ve_Sanat_M%C3%BCzesi)___ gibi yeni müzelerle Ankara'nın müze seçenekleri zenginleşmektedir."
+        },
+        {
+            "id": "Ankara#107",
+            "sentence": "1997'de \"Avrupa'da Yılın Müzesi\" seçilen  ___E:Anadolu Medeniyetleri Müzesi U:(https://tr.wikipedia.org/wiki/Anadolu_Medeniyetleri_M%C3%BCzesi)___ , ziyaretçi sayısı bakımından Türkiye'de onuncu, Ankara'da birincidir."
+        },
+        {
+            "id": "Ankara#108",
+            "sentence": "Müzede ___E:Paleolitik Çağ U:(https://tr.wikipedia.org/wiki/Eski_Ta%C5%9F_%C3%87a%C4%9F%C4%B1)___ 'dan günümüze ___E:Anadolu U:(https://tr.wikipedia.org/wiki/Anadolu)___ 'nun arkeolojik hazineleri sergilenir."
+        },
+        {
+            "id": "Ankara#109",
+            "sentence": "Ankara şehri dışındaki en önemli müze, ___E:Kral Midas U:(https://tr.wikipedia.org/wiki/Midas)___ 'ın tümülüsünün de bulunduğu Polatlı'daki ___E:Gordion Müzesi U:(https://tr.wikipedia.org/wiki/Gordion_M%C3%BCzesi)___ 'dir. Bu müzede bölgede keşfedilmiş, Tunç Çağı ve Frigya döneminden kalma arkeolojik eserler sergilenmektedir."
+        },
+        {
+            "id": "Ankara#110",
+            "sentence": "Ankara'da birçok arkeolojik alan vardır."
+        },
+        {
+            "id": "Ankara#111",
+            "sentence": "Buralarda keşfedilen kıymetli eserler, Anadolu Medeniyetleri Müzesi ile ___E:ODTÜ Bilim ve Teknoloji Müzesi U:(https://tr.wikipedia.org/wiki/ODT%C3%9C_Bilim_ve_Teknoloji_M%C3%BCzesi)___ 'nde sergilenmektedir; yapılar ise ziyarete açıktır."
+        },
+        {
+            "id": "Ankara#112",
+            "sentence": "Ahlatlıbel, Etiyokuşu, Karaoğlan ve Kocumbeli höyüklerinde ___E:Taş Devri U:(https://tr.wikipedia.org/wiki/Ta%C5%9F_devri)___ ve ___E:Bronz Devri U:(https://tr.wikipedia.org/wiki/Bronz_%C3%A7a%C4%9F%C4%B1)___ ’ne ait buluntulara rastlanmıştır. ___E:Hititlerden U:(https://tr.wikipedia.org/wiki/Hititler)___ kalan kalıntılar arasında Balıkhisar, Ballıkuyumcu, Bitik, Karaoğlan ve Külhöyük höyükleri ile Gâvurkale taş oymaları sayılabilir. ___E:Ankara Kalesi U:(https://tr.wikipedia.org/wiki/Ankara_Kalesi)___ , ___E:Galatlar U:(https://tr.wikipedia.org/wiki/Galatlar)___ döneminde inşa edilmiş ve sonraki yüzyıllarda çeşitli medeniyetler tarafından kullanılmıştır."
+        },
+        {
+            "id": "Ankara#113",
+            "sentence": "Ankara’da, ___E:Roma döneminden U:(https://tr.wikipedia.org/wiki/Roma_%C4%B0mparatorlu%C4%9Fu)___ kalma önemli kalıntılar bulunmaktadır. ___E:Roma Hamamı U:(https://tr.wikipedia.org/wiki/Ankara_Roma_Hamam%C4%B1)___ , 3. yüzyılda ___E:Roma İmparatoru U:(https://tr.wikipedia.org/wiki/Roma_imparatoru)___ ___E:Caracalla U:(https://tr.wikipedia.org/wiki/Caracalla)___ ( ___E:Septimius Severus U:(https://tr.wikipedia.org/wiki/Septimius_Severus)___ ’un oğlu) tarafından, Sağlık Tanrısı ___E:Asklepios U:(https://tr.wikipedia.org/wiki/Asklepios)___ adına yaptırılmıştır.    ___E:MÖ 2. yüzyılda U:(https://tr.wikipedia.org/wiki/M%C3%96_2._y%C3%BCzy%C4%B1l)___ ___E:Frigya U:(https://tr.wikipedia.org/wiki/Frigya)___ tanrısı Men adına bir tapınak yapılmış; ___E:Augustus Tapınağı U:(https://tr.wikipedia.org/wiki/Augustus_Tap%C4%B1na%C4%9F%C4%B1)___ ise daha sonra inşa edilmiş ve zamanla yıkılmıştır."
+        },
+        {
+            "id": "Ankara#114",
+            "sentence": "Bugün kalıntıları görülebilen tapınak, son ___E:Galatya U:(https://tr.wikipedia.org/wiki/Galatya_(eyalet))___ kralı Amintos’un oğlu Kral Pilamenes tarafından, ___E:Roma İmparatoru U:(https://tr.wikipedia.org/wiki/Roma_%C4%B0mparatorlu%C4%9Fu)___ ___E:Caesar Divi Filius Augustus U:(https://tr.wikipedia.org/wiki/Augustus)___ ’a bağlılık göstergesi olarak yaptırılmıştır.  ___E:Jülian Sütunu U:(https://tr.wikipedia.org/wiki/Julianus_S%C3%BCtunu)___ , 362 yılında Roma İmparatoru ___E:Julian U:(https://tr.wikipedia.org/wiki/Julianus)___ ’ın Ankara ziyareti onuruna dikilmiştir."
+        },
+        {
+            "id": "Ankara#115",
+            "sentence": "Ankara dışında yer alan ___E:Kalecik U:(https://tr.wikipedia.org/wiki/Kalecik)___ ilçesindeki Kalecik Kalesi, Roma döneminden kalmadır."
+        },
+        {
+            "id": "Ankara#116",
+            "sentence": "Bir dağın içine oyulan ___E:Güdül U:(https://tr.wikipedia.org/wiki/G%C3%BCd%C3%BCl)___ ’de, bir dağın içine oyulmuş olan mağaralar ise, ilk Hristiyanların Romalılardan saklandığı çok katlı bir yerleşim yeriydi."
+        },
+        {
+            "id": "Ankara#117",
+            "sentence": "Ankara ilinde Selçuklular ve Osmanlılardan kalma pek çok eser vardır. ___E:Yenimahalle U:(https://tr.wikipedia.org/wiki/Yenimahalle)___ ilçesindeki ___E:Selçuklu U:(https://tr.wikipedia.org/wiki/Sel%C3%A7uklu_Hanedan%C4%B1)___ yapısı ___E:Akköprü U:(https://tr.wikipedia.org/wiki/Akk%C3%B6pr%C3%BC_(k%C3%B6pr%C3%BC))___ , ___E:Anadolu Selçuklu U:(https://tr.wikipedia.org/wiki/Anadolu_Sel%C3%A7uklu_Devleti)___ ___E:Sultanı U:(https://tr.wikipedia.org/wiki/Anadolu_Sel%C3%A7uklu_sultanlar%C4%B1_listesi)___ ___E:I. Alaeddin Keykubad U:(https://tr.wikipedia.org/wiki/I._Al%C3%A2eddin_Keykubad)___ zamanında yaptırılmıştır.  ___E:Alaaddin Camii U:(https://tr.wikipedia.org/wiki/Sultan_Alaeddin_Camii)___ , Ankara Kalesi içinde yer alır ve 1178 tarihlidir."
+        },
+        {
+            "id": "Ankara#118",
+            "sentence": "Samanpazarı'nda bulunan ___E:Arslanhane (Ahi Şerafettin) Camii U:(https://tr.wikipedia.org/wiki/Arslanhane_Camii)___ 13. yüzyılın başında yapılmıştır."
+        },
+        {
+            "id": "Ankara#119",
+            "sentence": "Osmanlı dönemine ait önemli eserler arasında 15. yüzyıldan kalma ___E:Hacı Bayram Camii U:(https://tr.wikipedia.org/wiki/Hac%C4%B1_Bayram_Camii)___ , ___E:Karacabey Camii U:(https://tr.wikipedia.org/wiki/Karacabey_Camii)___ , ___E:Kurşunlu Han U:(https://tr.wikipedia.org/wiki/Kur%C5%9Funlu_Han_(Ankara))___ kervansarayı ve 16.yüzyıldan kalma ___E:Cenabi Ahmet Paşa Camii U:(https://tr.wikipedia.org/wiki/Cenabi_Ahmed_Pa%C5%9Fa_Camii)___ sayılabilir."
+        },
+        {
+            "id": "Ankara#120",
+            "sentence": "Osmanlı son dönem mimari özelliklerini taşıyan ___E:Ankara Kaleiçi U:(https://tr.wikipedia.org/wiki/Ankara_Kalesi)___ , ___E:Beypazarı U:(https://tr.wikipedia.org/wiki/Beypazar%C4%B1)___ , ___E:Ayaş U:(https://tr.wikipedia.org/wiki/Aya%C5%9F)___ , ___E:Güdül U:(https://tr.wikipedia.org/wiki/G%C3%BCd%C3%BCl)___ 'deki tarihî evler korumaya alınmıştır."
+        },
+        {
+            "id": "Ankara#121",
+            "sentence": "Ankara yöresinin geleneksel halk müziğinde başlıca telli çalgı ___E:bağlama U:(https://tr.wikipedia.org/wiki/Ba%C4%9Flama)___ ; nefesli çalgılar çeşitli düdük ve ___E:kaval U:(https://tr.wikipedia.org/wiki/Kaval)___ türleri; vurmalı çalgılar ise ___E:davul U:(https://tr.wikipedia.org/wiki/Davul)___ ve ___E:deftir U:(https://tr.wikipedia.org/wiki/Def)___ ."
+        },
+        {
+            "id": "Ankara#122",
+            "sentence": "Sosyal ortama bağlı olarak çeşitli halk müziği gelenekleri vardır."
+        },
+        {
+            "id": "Ankara#123",
+            "sentence": "Bu ortamlarda müzik, ' ___E:divan sazı U:(https://tr.wikipedia.org/wiki/Divan_saz%C4%B1)___ ' adı verilen yaylı bir sazla icra edilir; başka çalgı kullanılmaz. \"Efe başı\" denen yaşlı ve iyi saz çalan kişi ortaya oturur, daha az tecrübeli olanlar onun etrafında bir halka oluştururlar."
+        },
+        {
+            "id": "Ankara#124",
+            "sentence": "Efe başı grubu idare eder, onun ardından herkes sırayla çalardı."
+        },
+        {
+            "id": "Ankara#125",
+            "sentence": "Divanlar, tasavvufi bir hava içinde çalınır; terbiye edici ve ibret verici türküler söylenir, oyunlar oynanırdı."
+        },
+        {
+            "id": "Ankara#126",
+            "sentence": "Bunun ardından Kırat, Muhabbet havaları, Zil Havaları, Oyun Havaları, Bozlaklar ve Ağıtlar gelirdi."
+        },
+        {
+            "id": "Ankara#127",
+            "sentence": "Divanların sonunda bir Cezayir havası olurdu."
+        },
+        {
+            "id": "Ankara#128",
+            "sentence": "Bunlardan Kırat, kahraman bir atın hikâyesini işleyen bir türkü türüdür."
+        },
+        {
+            "id": "Ankara#129",
+            "sentence": "Bozlaklar içli ve ince duygulu şarkılardır."
+        },
+        {
+            "id": "Ankara#130",
+            "sentence": "Aşk, ölüm, isyan, üzüntü gibi duygular doğaçlama olarak, vezinsiz söylenirdi."
+        },
+        {
+            "id": "Ankara#131",
+            "sentence": "Ağıtlar ise üzüntülü ve acılı konuları işler."
+        },
+        {
+            "id": "Ankara#132",
+            "sentence": "Topluluğun yapısına göre Muhabbet ya da Oturaklar da düzenlenirdi."
+        },
+        {
+            "id": "Ankara#133",
+            "sentence": "Muhabbet, yaşlı kimselerin oluşturduğu içkili topluluklarda çalınırdı."
+        },
+        {
+            "id": "Ankara#134",
+            "sentence": "Saz parçaları arasında topluluğun en yaşlısı konuşur, geçmiş öyküler ve fıkralar anlatır."
+        },
+        {
+            "id": "Ankara#135",
+            "sentence": "Oturaklar, daha çok delikanlılar ve bekâr erkekler tarafından yapılır."
+        },
+        {
+            "id": "Ankara#136",
+            "sentence": "Oturaklarda, hizmet için getirilen kadınlar içki ve meze servisi yapar; oyun havaları başladığında ise ortaya çıkıp oynarlardı."
+        },
+        {
+            "id": "Ankara#137",
+            "sentence": "Ankara halk oyunları, zeybekler ve düz oyunlar olmak üzere iki grupta incelenir."
+        },
+        {
+            "id": "Ankara#138",
+            "sentence": "___E:Zeybekler U:(https://tr.wikipedia.org/wiki/Zeybek_(oyun))___ , yiğitlik ve mertlik teması üzerine kurulu oyunlardır."
+        },
+        {
+            "id": "Ankara#139",
+            "sentence": "Saz eşliğinde oynanır ve melodisi ağırdır."
+        },
+        {
+            "id": "Ankara#140",
+            "sentence": "En az iki kişi tarafından oynanır."
+        },
+        {
+            "id": "Ankara#141",
+            "sentence": "Zeybek oyunlarında jest ve figürler, oyunun karakteristik havasına ve melodisine göre ayarlanmalıdır."
+        },
+        {
+            "id": "Ankara#142",
+            "sentence": "Duruş, kasılış ve oyuncunun tavrı, zeybek oyununa özgü gösterişli havayı yansıtır."
+        },
+        {
+            "id": "Ankara#143",
+            "sentence": "Zeybek oyunlarının başlıcaları Ankara Zeybeği, Mendil Zeybeği, Karaşar Zeybeği, Seymen Zeybeği, Seymen Alayı ve Yağcıoğlu Zeybeği’dir."
+        },
+        {
+            "id": "Ankara#144",
+            "sentence": "Oyun havaları eşliğinde oynanan Ankara düz oyunları, zeybeklere göre daha yumuşak ritimli ve farklı ahenge sahiptir."
+        },
+        {
+            "id": "Ankara#145",
+            "sentence": "Sazın sesi kimi zaman hareketli, kimi zaman duygulu ya da coşkulu olabilir."
+        },
+        {
+            "id": "Ankara#146",
+            "sentence": "Düz oyunların figürleri ayak hareketleriyle süslenir ve birbirine oldukça benzer."
+        },
+        {
+            "id": "Ankara#147",
+            "sentence": "Hepsi ___E:saz U:(https://tr.wikipedia.org/wiki/Ba%C4%9Flama)___ eşliğinde ve grup halinde oynanır."
+        },
+        {
+            "id": "Ankara#148",
+            "sentence": "Bu oyunların en bilinenleri Misket, Fidayda  (Hüdayda), Mor Koyun, Yandım Şeker, Name Gelin, Sabahî, Yıldız, Çarşamba ve Arap Oyunu’dur."
+        },
+        {
+            "id": "Ankara#149",
+            "sentence": "Eski Ankara evlerinde aşhane veya halk arasında 'ayşene' olarak da denilen mutfak, evin en geniş bölümü olurdu."
+        },
+        {
+            "id": "Ankara#150",
+            "sentence": "Mutfakta ‘çork’ denilen bir ocak ve ___E:tandırın U:(https://tr.wikipedia.org/wiki/Tand%C4%B1r)___ yanı sıra, iki katlı olarak tasarlanmış, 'müsandere' adı verilen bir ___E:kiler U:(https://tr.wikipedia.org/wiki/Kiler)___ bulunurdu."
+        },
+        {
+            "id": "Ankara#151",
+            "sentence": "Yakacak odun, mutfağın bir köşesine istiflenirdi."
+        },
+        {
+            "id": "Ankara#152",
+            "sentence": "Yemek genellikle mutfakta yere serilen sofralarda yenirdi."
+        },
+        {
+            "id": "Ankara#153",
+            "sentence": "Mutfak eşyaları, yöreye özgü adlarla anılırdı."
+        },
+        {
+            "id": "Ankara#154",
+            "sentence": "Örneğin; fıçıya 'bodu', sofra bezine 'boğ', bıçağa 'eğri', oklavaya 'oklağaç', rafa 'terek', tepsiye ise 'tıngır' denirdi."
+        },
+        {
+            "id": "Ankara#155",
+            "sentence": "Günümüzde çağdaş mutfaklar ve modern terimler yaygınlaşmakla birlikte, eski Ankara mutfağına has birçok yemek ve tatlı hâlâ yaşatılmaya devam etmektedir. 2008'de yapılan bir araştırmaya göre, 93 çeşit yöresel yemek, tatlı ve içecekleri ile Ankara ili, Gaziantep ve Elazığ'dan sonra üçüncü en zengin mutfağa sahiptir."
+        },
+        {
+            "id": "Ankara#156",
+            "sentence": "Bunların arasında; ___E:Tutmaç U:(https://tr.wikipedia.org/wiki/Tutma%C3%A7_%C3%A7orbas%C4%B1)___ ve Miyane gibi ___E:çorbalar U:(https://tr.wikipedia.org/wiki/%C3%87orba)___ ; ___E:Ankara tavası U:(https://tr.wikipedia.org/wiki/Ankara_tavas%C4%B1)___ , Alabörtme, ___E:Calla U:(https://tr.wikipedia.org/wiki/Calla)___ , İlişkik, Sızgıç, Siyel, Siyer, Bici, Pıtpıt Pilavı, Mucirim Köftesi, Tohma, ___E:Şırdan dolması U:(https://tr.wikipedia.org/wiki/%C5%9E%C4%B1rdan)___ , Papaç, Yalkı, Carcıran, Göter, Kaile, Topaç, ___E:Cızlama U:(https://tr.wikipedia.org/wiki/C%C4%B1zlama)___ , Öllüğün Körü gibi yemek ve hamur işleri; Kargabeyni, Köyter, Omaç, Perçem, Tiltil Helvası, Zerdali Boranası ve ___E:Beypazarı U:(https://tr.wikipedia.org/wiki/Beypazar%C4%B1)___ yöresine ait 80 katlı baklava gibi tatlılar ile Bazlamacın, Gizleme, Çerpit, ___E:Kartalaç U:(https://tr.wikipedia.org/wiki/Kartala%C3%A7)___ , Kömbe, ___E:Kete U:(https://tr.wikipedia.org/wiki/Kete)___ , Saçkıran, Şerit ve Yarımca gibi ekmekler sayılabilir."
+        },
+        {
+            "id": "Ankara#157",
+            "sentence": "Ankara ilinde geleneksel hale gelen birçok şenlik düzenlenmektedir."
+        },
+        {
+            "id": "Ankara#158",
+            "sentence": "Bunların içinde en önemlisi, kısaca ___E:Beypazarı Festivali U:(https://tr.wikipedia.org/wiki/Beypazar%C4%B1_Festivali)___ olarak bilinen Uluslararası Tarihi Evler, El Sanatları, Havuç ve Güveç Festivali'dir. Bu şenlikte, Türkiye’nin çeşitli bölgelerinden ve yurt dışından katılımcılar yer alır. Festival her yıl Ekim ayında düzenlenir."
+        },
+        {
+            "id": "Ankara#159",
+            "sentence": "Bir diğer şenlik ise ___E:Kızılcahamam U:(https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lcahamam)___ ilçesinde düzenlenen Kültür ve Su Festivali’dir. Geleneksel hâle gelen bu festival, her yıl Ağustos ayında düzenlenir."
+        },
+        {
+            "id": "Ankara#160",
+            "sentence": "Bir diğer şenlik ise Çubuk ilçesinde düzenlenen ___E:Turşu ve Kültür Festivalidir U:(https://tr.wikipedia.org/wiki/Uluslararas%C4%B1_%C3%87ubuk_Tur%C5%9Fu_ve_K%C3%BClt%C3%BCr_Festivali)___ ."
+        },
+        {
+            "id": "Ankara#161",
+            "sentence": "Prof. Dr."
+        },
+        {
+            "id": "Ankara#162",
+            "sentence": "Leyla Karahan'ın Anadolu Ağızlarının Sınıflandırılması adlı çalışmasına göre ___E:Türkçenin U:(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)___ Ankara ilinde kullanılan şivesi Batı Anadolu ağızları içindedir ve ___E:Balâ U:(https://tr.wikipedia.org/wiki/Bal%C3%A2)___ , ___E:Haymana U:(https://tr.wikipedia.org/wiki/Haymana)___ , ___E:Niğde U:(https://tr.wikipedia.org/wiki/Ni%C4%9Fde)___ , ___E:Şereflikoçhisar U:(https://tr.wikipedia.org/wiki/%C5%9Eerefliko%C3%A7hisar)___ , ___E:Çubuk U:(https://tr.wikipedia.org/wiki/%C3%87ubuk,_Ankara)___ , ___E:Kalecik U:(https://tr.wikipedia.org/wiki/Kalecik)___ , ___E:Kırıkkale U:(https://tr.wikipedia.org/wiki/K%C4%B1r%C4%B1kkale_(il))___ , ___E:Kızılırmak U:(https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1l%C4%B1rmak,_%C3%87ank%C4%B1r%C4%B1)___ , ___E:Çorum U:(https://tr.wikipedia.org/wiki/%C3%87orum)___ , ___E:Yozgat U:(https://tr.wikipedia.org/wiki/Yozgat_(il))___ , ___E:Kırşehir U:(https://tr.wikipedia.org/wiki/K%C4%B1r%C5%9Fehir_(il))___ , ___E:Nevşehir U:(https://tr.wikipedia.org/wiki/Nev%C5%9Fehir_(il))___ , ___E:Kayseri U:(https://tr.wikipedia.org/wiki/Kayseri)___ , ___E:Şarkışla U:(https://tr.wikipedia.org/wiki/%C5%9Eark%C4%B1%C5%9Fla)___ , ___E:Gemerek U:(https://tr.wikipedia.org/wiki/Gemerek)___ bölgelerinde konuşulan ağız ile aynı alt sınıftadır."
+        },
+        {
+            "id": "Ankara#163",
+            "sentence": "Ankara, yurt dışından gelen ___E:turistler U:(https://tr.wikipedia.org/wiki/Turist)___ tarafından en çok tercih edilen iller arasında yer almaz. 2007 yılında Türkiye’ye gelen yabancıların yalnızca %1,5’i (383 bin kişi) Ankara ___E:Esenboğa Havalimanı U:(https://tr.wikipedia.org/wiki/Ankara_Esenbo%C4%9Fa_Havaliman%C4%B1)___ ’ndan giriş yaptı."
+        },
+        {
+            "id": "Ankara#164",
+            "sentence": "Bu kişilerin çoğu Mayıs-Eylül döneminde geldi ve %38’i Alman vatandaşıydı."
+        },
+        {
+            "id": "Ankara#165",
+            "sentence": "Ankara’da arkeolojik sit alanlarına ilgi duyanlar için yabancı gezi rehberlerinde öncelikle ___E:Anadolu Medeniyetleri Müzesi U:(https://tr.wikipedia.org/wiki/Anadolu_Medeniyetleri_M%C3%BCzesi)___ önerilmektedir."
+        },
+        {
+            "id": "Ankara#166",
+            "sentence": "Başkentin ___E:Ulus U:(https://tr.wikipedia.org/wiki/Ulus_(semt))___ semtinde ___E:Ankara Kalesi U:(https://tr.wikipedia.org/wiki/Ankara_Kalesi)___ , Anadolu Medeniyetleri Müzesi, ___E:Ankara Etnografya Müzesi U:(https://tr.wikipedia.org/wiki/Ankara_Etnografya_M%C3%BCzesi)___ ve ve ___E:Augustus Tapınağı U:(https://tr.wikipedia.org/wiki/Augustus_Tap%C4%B1na%C4%9F%C4%B1)___ ve ___E:Julian Sütunu U:(https://tr.wikipedia.org/wiki/Julianus_S%C3%BCtunu)___ gibi Roma dönemi kalıntıları yer alır. Cumhuriyet dönemi tarihine ilgi duyanlar için ___E:Anıtkabir U:(https://tr.wikipedia.org/wiki/An%C4%B1tkabir)___ ve eski TBMM binası, turist rehberlerinde sıkça önerilen yerler arasındadır."
+        },
+        {
+            "id": "Ankara#167",
+            "sentence": "Ankara kent merkezinin dışında kalan başlıca turistik yerler arasında Beypazarı’nın geleneksel evleri ve Gordion yer alır."
+        },
+        {
+            "id": "Ankara#168",
+            "sentence": "Yurt içi turizm açısından Ankara, özellikle kültür turizmiyle öne çıkar."
+        },
+        {
+            "id": "Ankara#169",
+            "sentence": "Kent merkezi ve çevresinde kongre turizmi; ___E:Elmadağ U:(https://tr.wikipedia.org/wiki/Elmada%C4%9F,_Ankara)___ ’da kış turizmi; ___E:Kızılcahamam U:(https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lcahamam)___ , ___E:Ayaş U:(https://tr.wikipedia.org/wiki/Aya%C5%9F)___ , Çubuk ve Haymana’da kaplıca turizmi; ___E:Güdül U:(https://tr.wikipedia.org/wiki/G%C3%BCd%C3%BCl)___ ’de ise Tuluntaş Mağarası ile mağara turizmi yapılmaktadır."
+        },
+        {
+            "id": "Ankara#170",
+            "sentence": "Anıtkabir başta olmak üzere birçok müze ve anıt ile ___E:Beypazarı U:(https://tr.wikipedia.org/wiki/Beypazar%C4%B1)___ ve ___E:Kızılcahamam U:(https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lcahamam)___ ’daki tarihî evler, yurt içi turizmine önemli katkılar sağlamaktadır."
+        },
+        {
+            "id": "Ankara#171",
+            "sentence": "Evren ilçesi ise, Hirfanlı Baraj Gölü kıyısındaki sahiliyle Ankara ve çevresine alternatif bir su ve doğa tatili olanağı sunmaktadır."
+        },
+        {
+            "id": "Ankara#172",
+            "sentence": "2008 yılında Anıtkabir’i 6 milyon kişi ziyaret etmiş; bu ziyaretçilerin % 7’sini yabancılar oluşturmuştur."
+        },
+        {
+            "id": "Ankara#173",
+            "sentence": "Aynı yıl, Anadolu Medeniyetleri Müzesi’ni 290 bin kişi ziyaret etmiş; bu ziyaretçilerin % 60’ını yabancılar oluşturmuştur."
+        },
+        {
+            "id": "Ankara#174",
+            "sentence": "___E:MKE Ankaragücü U:(https://tr.wikipedia.org/wiki/MKE_Ankarag%C3%BCc%C3%BC_(futbol_tak%C4%B1m%C4%B1))___ 'nün bugüne dek kazandığı 1 ___E:Türkiye Futbol Şampiyonası U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Futbol_%C5%9Eampiyonas%C4%B1)___ , 2 ___E:Türkiye Kupası U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Kupas%C4%B1)___ ve 1 ___E:Süper Kupa U:(https://tr.wikipedia.org/wiki/S%C3%BCper_Kupa)___ şampiyonluğu bulunmaktadır."
+        },
+        {
+            "id": "Ankara#175",
+            "sentence": "Gençlerbirliği'nin ise 2 Türkiye Futbol Şampiyonası ve 2 Türkiye Kupası şampiyonluğu bulunmaktadır."
+        },
+        {
+            "id": "Ankara#176",
+            "sentence": "MKE Ankaragücü ve ___E:Gençlerbirliği U:(https://tr.wikipedia.org/wiki/Gen%C3%A7lerbirli%C4%9Fi_(futbol_tak%C4%B1m%C4%B1))___ , maçlarını ___E:Eryaman Stadyumu U:(https://tr.wikipedia.org/wiki/Eryaman_Stadyumu)___ 'nda (22.000 kişilik) oynamaktadır."
+        },
+        {
+            "id": "Ankara#177",
+            "sentence": "İl merkezi, İstanbul'da düzenlenen ___E:1959 Avrupa Basketbol Şampiyonası U:(https://tr.wikipedia.org/wiki/1959_Avrupa_Basketbol_%C5%9Eampiyonas%C4%B1)___ 'ndan sonra Türkiye'de düzenlenen ikinci ___E:Avrupa Basketbol Şampiyonası U:(https://tr.wikipedia.org/wiki/EuroBasket)___ 'na ___E:2001 U:(https://tr.wikipedia.org/wiki/2001_Avrupa_Basketbol_%C5%9Eampiyonas%C4%B1)___ yılında ev sahipliği yapmıştır."
+        },
+        {
+            "id": "Ankara#178",
+            "sentence": "Bu şampiyonada ___E:Türkiye millî basketbol takımı U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_mill%C3%AE_basketbol_tak%C4%B1m%C4%B1)___ , Yugoslavya'nın ardından ikinci olmuştur."
+        },
+        {
+            "id": "Ankara#179",
+            "sentence": "___E:Türk Telekom U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Telekom_(basketbol_tak%C4%B1m%C4%B1))___ , üç kez Cumhurbaşkanlığı Kupasını, iki Kez Türkiye Kupasını kazanmıştır.  2010 yılında inşa edilen ___E:Ankara Arena U:(https://tr.wikipedia.org/wiki/Ankara_Spor_Salonu)___ Çok Amaçlı Basketbol Kompleksi ___E:2010 FIBA Dünya Basketbol Şampiyonası U:(https://tr.wikipedia.org/wiki/2010_FIBA_D%C3%BCnya_Basketbol_%C5%9Eampiyonas%C4%B1)___ 'na ev sahipliği yapmıştır."
+        },
+        {
+            "id": "Ankara#180",
+            "sentence": "Ankara Gençlik ve Spor İl Müdürlüğü, il çapında çeşitli amatör spor faaliyetleri düzenler. ___E:Atletizm U:(https://tr.wikipedia.org/wiki/Atletizm)___ , ___E:jimnastik U:(https://tr.wikipedia.org/wiki/Jimnastik)___ , ___E:bisiklet U:(https://tr.wikipedia.org/wiki/Bisiklet)___ , ___E:buz pateni U:(https://tr.wikipedia.org/wiki/Buz_pateni)___ , ___E:eskrim U:(https://tr.wikipedia.org/wiki/Eskrim)___ , ___E:judo U:(https://tr.wikipedia.org/wiki/Judo)___ , ___E:tekvando U:(https://tr.wikipedia.org/wiki/Tekvando)___ , ___E:karate U:(https://tr.wikipedia.org/wiki/Karate)___ , ___E:hentbol U:(https://tr.wikipedia.org/wiki/Hentbol)___ , ___E:binicilik U:(https://tr.wikipedia.org/wiki/Binicilik)___ , ___E:güreş U:(https://tr.wikipedia.org/wiki/G%C3%BCre%C5%9F)___ , ___E:bisiklet U:(https://tr.wikipedia.org/wiki/Bisiklet_(spor))___ , ___E:yüzme U:(https://tr.wikipedia.org/wiki/Y%C3%BCzme)___ gibi dallar için çeşitli tesisler il merkezinde mevcuttur."
+        },
+        {
+            "id": "Ankara#181",
+            "sentence": "Elmadağ'da ___E:kayak U:(https://tr.wikipedia.org/wiki/Kayak_(k%C4%B1%C5%9F_sporu))___ tesisleri, diğer ilçelerde de çeşitli spor salonları ve tesisleri bulunmaktadır."
+        },
+        {
+            "id": "Ankara#182",
+            "sentence": "Uluslararası Yaşar Doğu Güreş Şampiyonası her yıl Ankara'da düzenlenir."
+        },
+        {
+            "id": "Ankara#183",
+            "sentence": "___E:Voleybol U:(https://tr.wikipedia.org/wiki/Voleybol)___ lig maçları, Başkent Spor Salonu ve Beştepe Spor Salonu'nda yapılmaktadır."
+        },
+        {
+            "id": "Ankara#184",
+            "sentence": "___E:Hentbol U:(https://tr.wikipedia.org/wiki/Hentbol)___ maçları, Prof. Dr."
+        },
+        {
+            "id": "Ankara#185",
+            "sentence": "Yaşar Sevim Hentbol Spor Salonu ve THF Spor Salonu'nda yapılmaktadır."
+        },
+        {
+            "id": "Ankara#186",
+            "sentence": "2018-19 Sezonu sonunda ___E:Futsal U:(https://tr.wikipedia.org/wiki/Futsal_Ligi)___ takımı ___E:Gazi Üniversitesi U:(https://tr.wikipedia.org/wiki/Gazi_%C3%9Cniversitesi)___ SK şampiyon olmuştur."
+        },
+        {
+            "id": "Ankara#187",
+            "sentence": "Sezonda ___E:Buz hokeyi U:(https://tr.wikipedia.org/wiki/Buz_hokeyi)___ kadın ve erkek süper liglerinde ikişer takım ile yer almıştır. ___E:Sutopu U:(https://tr.wikipedia.org/wiki/Sutopu)___ süper liginde ___E:ODTÜ U:(https://tr.wikipedia.org/wiki/Orta_Do%C4%9Fu_Teknik_%C3%9Cniversitesi)___ vardır."
+        },
+        {
+            "id": "Ankara#188",
+            "sentence": "Büyükşehirlerde merkezi yönetim validen, il müdürleri ve il danışma kurulundan oluşur."
+        },
+        {
+            "id": "Ankara#189",
+            "sentence": "Ankara bir büyükşehirdir."
+        },
+        {
+            "id": "Ankara#190",
+            "sentence": "Bu özelliğine göre yönetimi belirlenmiştir."
+        },
+        {
+            "id": "Ankara#191",
+            "sentence": "Protokolde ilk sırada yer alan vali, merkezi yönetimi temsil eder ve cumhurbaşkanı tarafından atanır."
+        },
+        {
+            "id": "Ankara#192",
+            "sentence": "Büyükşehir olan illerde, il genel meclisi, yetki ve görevlerini Ankara Büyükşehir Belediye Meclisine devretmiş ve kaldırılmıştır."
+        },
+        {
+            "id": "Ankara#193",
+            "sentence": "Ankara valisi, ___E:Vasip Şahin U:(https://tr.wikipedia.org/wiki/Vasip_%C5%9Eahin)___ 'dir. 6 Kasım 2018 tarihinde ___E:İstanbul U:(https://tr.wikipedia.org/wiki/%C4%B0stanbul)___ valisi iken atanmıştır."
+        },
+        {
+            "id": "Ankara#194",
+            "sentence": "Büyükşehir belediyelerinde yerel yönetim, Büyükşehir Belediye Başkanı, Büyükşehir Belediye Meclisi ve Büyükşehir Belediye Encümeni'nden oluşur."
+        },
+        {
+            "id": "Ankara#195",
+            "sentence": "Yerel yönetimi temsil eden Büyükşehir Belediye Başkanı, ildeki tüm seçmenlerin oy çokluğu ile seçilir."
+        },
+        {
+            "id": "Ankara#196",
+            "sentence": "Yerel seçimlerde İlçe Belediye Başkanı ve İlçe Belediye Meclisi için de oy kullanılarak ilçelerin belediye meclisleri oluşur."
+        },
+        {
+            "id": "Ankara#197",
+            "sentence": "İlçe Belediye meclislerinden alınan üyelerle (başkan kontenjanı, ilçe nüfusu ve parti oy oranına göre) de Büyükşehir Belediye Meclisi oluşur."
+        },
+        {
+            "id": "Ankara#198",
+            "sentence": "Bu mecliste ilçe belediye başkanları da yer alır.   Meclisin başkanı Büyükşehir Belediye Başkanı'dır. Büyükşehir belediye encümeni, belediye başkanının başkanlığında, belediye meclisinin kendi üyeleri arasından bir yıl için gizli oyla seçeceği beş üye ile biri genel sekreter, biri malî hizmetler birim amiri olmak üzere belediye başkanının her yıl birim amirleri arasından seçeceği beş üyeden oluşur. (5216 saylı kanun, 16. madde)"
+        },
+        {
+            "id": "Ankara#199",
+            "sentence": "Ankara Büyükşehir Belediye Başkanı, ___E:Mansur Yavaş U:(https://tr.wikipedia.org/wiki/Mansur_Yava%C5%9F)___ ( ___E:CHP U:(https://tr.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi)___ ), ___E:31 Mart 2024 yerel seçimlerinde U:(https://tr.wikipedia.org/wiki/2024_T%C3%BCrkiye_yerel_se%C3%A7imleri)___ %60,44 oy oranıyla seçilmiştir."
+        },
+        {
+            "id": "Ankara#200",
+            "sentence": "Ankara Büyükşehir Belediye Meclisi üye sayısı 148'dir (Büyükşehir Belediye Başkanı, 25 ilçe belediye başkanı ve 131 üye) Bunların 90'ı ___E:CHP U:(https://tr.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi)___ , 45'i ___E:AK Parti U:(https://tr.wikipedia.org/wiki/Adalet_ve_Kalk%C4%B1nma_Partisi)___ , 10'u ___E:MHP U:(https://tr.wikipedia.org/wiki/Milliyet%C3%A7i_Hareket_Partisi)___ , 1 ___E:BBP U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Birlik_Partisi)___ , 1 ___E:Yeniden Refah Partisi U:(https://tr.wikipedia.org/wiki/Yeniden_Refah_Partisi)___ , 1 de bağımsız üye bulunmaktadır."
+        },
+        {
+            "id": "Ankara#201",
+            "sentence": "Ankara'nın 47  tane ___E:kardeş kenti U:(https://tr.wikipedia.org/wiki/Karde%C5%9F_kent)___ vardır."
+        },
+        {
+            "id": "Ankara#202",
+            "sentence": "İzmir Caddesi'nde Ankara'nın 2003 yılına kadarki kardeş kentleri için bir anıt bulunmaktadır."
+        },
+        {
+            "id": "Ankara#203",
+            "sentence": "Ajaccio, Korsika Amsterdam, Hollanda Belfast, Kuzey İrlanda Berlin, Almanya Bern, İsviçre Brüksel, Belçika Brüksel, Flamanya Cardiff, Galler Douglas, Man Adası Dublin, İrlanda Cardiff, Galler Cebelitarık, Cebelitarık Edinburgh, İskoçya Londra, Birleşik Krallık Londra, İngiltere Lüksemburg, Lüksemburg Monako, Monako Namur, Valonya Paris, Fransa Saint Helier, Jersey Saint Peter Port, Guernsey Vaduz, Lihtenştayn Viyana, Avusturya"
+        },
+        {
+            "id": "Ankara#204",
+            "sentence": "Kopenhag, Danimarka Helsinki, Finlandiya Longyearbyen, Svalbard Olonkinbyen, Jan Mayen Mariehamn, Åland Oslo, Norveç Reykjavík, İzlanda Riga, Letonya Stockholm, İsveç Tallinn, Estonya Tórshavn, Faroe Adaları Vilnius, Litvanya"
+        },
+        {
+            "id": "Ankara#205",
+            "sentence": "Andorra la Vella, Andorra Ankara, Türkiye 2 Aosta, Aosta Vadisi Atina, Yunanistan Banaluka, Sırp Cumhuriyeti Barselona, Katalonya Belgrad, Sırbistan Cagliari, Sardinya Cebelitarık, Cebelitarık Episkopi Cantonment, Ağrotur ve Dikelya 1 Kariye, Aynoroz Lefkoşa, Kıbrıs Cumhuriyeti Lefkoşa, Kuzey Kıbrıs Türk Cumhuriyeti 1, 2 Lizbon, Portekiz Ljubljana, Slovenya Logroño, La Rioja Madrid, İspanya Madrid, Madrid Mérida, Extremadura Murcia, Murcia Novi Sad, Voyvodina Oviedo, Asturias Palermo, Sicilya Palma de Mallorca, Balear Adaları Pamplona, Navarra Podgorica, Karadağ Ponta Delgada, Azorlar Priştine, Kosova 1 Roma, İtalya San Marino, San Marino Santander, Cantabria Santiago de Compostela, Galiçya Saraybosna, Bosna-Hersek Saraybosna, Bosna-Hersek Federasyonu Sevilla, Endülüs Tiran, Arnavutluk Toledo, Kastilya-La Mancha Trento, Trentino-Alto Adige/Südtirol Trieste, Friuli-Venezia Giulia Üsküp, Makedonya Valensiya, Valensiya Valladolid, Kastilya ve Leon Valletta, Malta Vatikan, Vatikan Vitoria-Gasteiz, Bask Bölgesi Zagreb, Hırvatistan Zaragoza, Aragon"
+        },
+        {
+            "id": "Ankara#206",
+            "sentence": "Astana, Kazakistan 2 Bakü, Azerbaycan 2 Batum, Acara 2 Bratislava, Slovakya Budapeşte, Macaristan Bükreş, Romanya Çeboksarı, Çuvaşistan Çerkessk, Karaçay-Çerkesya Elista, Kalmukya Erivan, Ermenistan 2 Grozni, Çeçenistan İjevsk, Udmurtya Kazan, Tataristan Kişinev, Moldova Kiev, Ukrayna Komrat, Gagavuzya Mahaçkale, Dağıstan Magas, İnguşetya Maykop, Adige Cumhuriyeti Minsk, Belarus Moskova, Rusya Nahçivan, Nahçıvan 2 Nalçik, Kabardino-Balkarya Naryan-Mar, Nenets Özerk Okrugu Petrozavodsk, Karelya Prag, Çekya Saransk, Mordovya Sıktıvkar, Komi Cumhuriyeti Simferopol, Kırım Sohum, Abhazya1 Sofya, Bulgaristan Tiflis, Gürcistan 2 Tiraspol, Transdinyester 1 Tshinvali, Güney Osetya 1, 2 Ufa, Başkurdistan Yoşkar-Ola, Mari El Varşova, Polonya Vladikavkaz, Kuzey Osetya-Alanya"
+        }
+    ]
+}

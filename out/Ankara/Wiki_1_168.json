@@ -1,0 +1,162 @@
+{
+    "Title": "Futsal Ligi",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Futsal Ligi#1",
+            "sentence": "Türkiye Futsal Ligi, ___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___ 'nin en üst düzey ___E:futsal U:(https://tr.wikipedia.org/wiki/Futsal)___ organizasyonudur. ___E:Türkiye Futbol Federasyonu U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Futbol_Federasyonu)___ tarafından düzenlenir."
+        },
+        {
+            "id": "Futsal Ligi#2",
+            "sentence": "2024 – 2025 sezonu TFF Futsal Ligi, 2023 – 2024 sezonunu ilk 6 sırada bitiren takımlar ve 2024- 2025 sezonu ön eleme turu müsabakaları sonucunda ilk 2 sırayı alan toplam 8 takımdan oluşur. 2023 – 2024 sezonunu ilk 6 sırada bitiren veya 2024-2025 sezonu ön eleme turunda ilk 2 sırayı alan takımlardan lige katılmayanlar olması halinde, başarı sırasına göre ön eleme turunda mücadele eden takımlardan 8 takıma tamamlanır"
+        },
+        {
+            "id": "Futsal Ligi#3",
+            "sentence": "TFF Futsal Ligi'ne katılma hakkı olmasına rağmen katılmayan, katılmayı taahhüt ettikleri halde mazeretsiz olarak katılmayan ve devam eden ligden çekilen kulüpler, takip eden sezonda Futsal Ligi'ne katılamazlar."
+        },
+        {
+            "id": "Futsal Ligi#4",
+            "sentence": "TFF Futsal Ligi'ne sadece TFF'ye tescilli futbol kulüpleri katılabilir"
+        },
+        {
+            "id": "Futsal Ligi#5",
+            "sentence": "TFF Futsal Ligi aşamaları aşağıdaki gibidir."
+        },
+        {
+            "id": "Futsal Ligi#6",
+            "sentence": "a)Ön Eleme Turu, b) TFF Futsal Ligi, c) Final Turu"
+        },
+        {
+            "id": "Futsal Ligi#7",
+            "sentence": "TFF Futsal Ligi Ön Eleme Turu, gruplar ve müsabaka sistemi katılan takım sayısı uyarınca TFF tarafından belirlenerek TFFresmi internet sitesinde yayınlanır."
+        },
+        {
+            "id": "Futsal Ligi#8",
+            "sentence": "a) TFF Futsal Ligi Ön Eleme Turu müsabakaları TFF tarafından belirlenecek illerde oynanır."
+        },
+        {
+            "id": "Futsal Ligi#9",
+            "sentence": "b) TFF Futsal Ligi Ön Eleme Turu müsabakaları sonucunda ilk 2 sırayı alacak takımlar 2024 – 2025 sezonu TFF Futsal Liginde yer almaya hak kazanır."
+        },
+        {
+            "id": "Futsal Ligi#10",
+            "sentence": "Ön Eleme Turu sonrasında TFF Futsal Ligi müsabakaları;"
+        },
+        {
+            "id": "Futsal Ligi#11",
+            "sentence": "a) Tek grupta çift devreli lig usulüne göre oynanır."
+        },
+        {
+            "id": "Futsal Ligi#12",
+            "sentence": "b) Müsabaka programı TFF tarafından belirlenerek TFF resmi internet sitesinde yayınlanır."
+        },
+        {
+            "id": "Futsal Ligi#13",
+            "sentence": "c) 2024 – 2025 sezonu TFF Futsal Ligi'ni 1., 2., 3., 4. ve 5. sırada bitiren takımlar final turunda mücadele etme hakkını elde eder."
+        },
+        {
+            "id": "Futsal Ligi#14",
+            "sentence": "Final Turu ; Play-Off 1. Turu, Play-Off 2. Turu ve Final müsabakalarından oluşur."
+        },
+        {
+            "id": "Futsal Ligi#15",
+            "sentence": "a) 2024 – 2025 sezonu TFF Futsal Ligi'ni 1.sırada tamamlayan takım direkt olarak finale yükselir."
+        },
+        {
+            "id": "Futsal Ligi#16",
+            "sentence": "Sezonu 2. sırada bitiren takım ile 5. sırada bitiren takım - sezonu 3. sırada bitiren takım ile 4.sırada bitiren takım birbirleriyle eşleşerek Play-Off 1. Turunda mücadele eder."
+        },
+        {
+            "id": "Futsal Ligi#17",
+            "sentence": "b) Play-Off 1. Turu müsabakaları sonucunda galip gelen takımlar Play-Off 2. Turunda mücadele ederler."
+        },
+        {
+            "id": "Futsal Ligi#18",
+            "sentence": "Play-Off 2. Turun kaybedeni sezonu 3. sırada tamamlar."
+        },
+        {
+            "id": "Futsal Ligi#19",
+            "sentence": "c) Play-Off 1. Tur ve 2. Tur müsabakalarında 2 galibiyete ulaşan takım üst tura yükselir."
+        },
+        {
+            "id": "Futsal Ligi#20",
+            "sentence": "Seride birinci müsabaka normal sezonu alt sırada bitiren takımın ev sahipliğinde oynanır. 2 ve gerekirse 3. müsabaka normal sezonu rakibine göre üst sırada tamamlayan takımın ev sahipliğinde oynanır."
+        },
+        {
+            "id": "Futsal Ligi#21",
+            "sentence": "d) Final müsabakasında 2 galibiyete ulaşan takım 2024/2025 sezonu TFF Futsal Ligi Şampiyonu olur. Final müsabakasının kaybedeni sezonu 2. sırada tamamlar."
+        },
+        {
+            "id": "Futsal Ligi#22",
+            "sentence": "Seride birinci müsabaka Play-Off müsabakalarından finale gelen takımın ev sahipliğinde oynanır. 2 ve gerekirse 3. müsabaka normal sezonu lider bitiren takımın ev sahipliğinde oynanır."
+        },
+        {
+            "id": "Futsal Ligi#23",
+            "sentence": "e) Müsabakalarda galibiyet sayılarının eşit olması durumunda birbirlerine attıkları gollere bakılmaksınız 3. Müsabaka oynanır."
+        },
+        {
+            "id": "Futsal Ligi#24",
+            "sentence": "TFF Futsal Ligi'ni son 2 sırada bitiren takımlar 2025- 2026 sezonunda oynanacak ön eleme turunda mücadele eder. 2025-2026 sezonu ön eleme turu müsabaka sistemi TFF tarafından belirlenerek ilgili sezon öncesinde TFF resmi internet sitesinde yayınlanır."
+        },
+        {
+            "id": "Futsal Ligi#25",
+            "sentence": "2025-2026 sezonunda TFF Futsal 2. Ligi'nin kurulmasına karar verilebilir."
+        },
+        {
+            "id": "Futsal Ligi#26",
+            "sentence": "2024 – 2025 sezonunda TFF Futsal U19 Ligi müsabakaları oynatılacaktır."
+        },
+        {
+            "id": "Futsal Ligi#27",
+            "sentence": "a) TFF Futsal U19 Lig katılacak oyuncuların 01.01.2006 ile 31.12.2009 tarihleri (bu tarihler dâhil) arasında doğmuş olmaları zorunludur."
+        },
+        {
+            "id": "Futsal Ligi#28",
+            "sentence": "b) TFF Futsal U19 Liginde tescilli futbol kulüpleri mücadele edebilir."
+        },
+        {
+            "id": "Futsal Ligi#29",
+            "sentence": "c) TFF Futsal U19 Ligi mini turnuva şeklinde oynanacaktır."
+        },
+        {
+            "id": "Futsal Ligi#30",
+            "sentence": "d) TFF Futsal U19 Liginde en fazla 8 takım mücadele edecektir. 8'den fazla takımın başvuru yapması durumunda ön eleme müsabakaları oynanacaktır."
+        },
+        {
+            "id": "Futsal Ligi#31",
+            "sentence": "e) TFF Futsal U19 Liginde güncel vizesi bulunan lisanslı oyuncular oynayabilir."
+        },
+        {
+            "id": "Futsal Ligi#32",
+            "sentence": "f) TFF Futsal U19 Ligi'ne katılacak kulüpler 20 kişilik geniş kadrolarında, o sezon TFF Futsal U19 Ligi'ne katılmayan TFF'ye tescilli kulüplerden, en fazla 12 oyuncuya yer verebilir. 14 kişilik müsabaka isim listesine bu 12 oyuncudan sadece 10 oyuncuyu yazabilirler."
+        },
+        {
+            "id": "Futsal Ligi#33",
+            "sentence": "g) Geniş kadroda, başka kulüplere tescilli oyuncunun bulundurulabilmesi için oyuncunun tescilli olduğu kulübün yazılı izninin alınması zorunludur."
+        },
+        {
+            "id": "Futsal Ligi#34",
+            "sentence": "Aşağıdaki hallerde puan tenzili yapılır, takım lig dışı bırakılır ve bir alt kümeye indirilir:"
+        },
+        {
+            "id": "Futsal Ligi#35",
+            "sentence": "a) Bir sezon boyunca müsabaka kıyafeti ile belirlenen ve ilan olunan saatte sahaya gelmeyen, müsabaka sahasına gelmekle beraber müsabakaya çıkmayan veya başlamış bir müsabakayı terk eden takım hakkında hükmen mağlubiyet kararı verilmekle beraber ayrıca mevcut puanlarından galibiyet halinde verilen puan kadar puan silinir."
+        },
+        {
+            "id": "Futsal Ligi#36",
+            "sentence": "Böyle durumlarda ilgili kulüp, hakemlerin masrafları ile diğer masrafları ve karşı takımın zararlarını karşılamak üzere TFF tarafından takdir edilecek tazminatı ödemek zorundadır.."
+        },
+        {
+            "id": "Futsal Ligi#37",
+            "sentence": "b) Bir sezon boyunca ikinci defa müsabakaya gelmeyen, müsabaka sahasına gelmekle beraber müsabakaya çıkmayan veya müsabakayı terk eden takım hakkında hükmen mağlubiyet kararı verilmekle beraber, bu takım ligden çıkarılarak bir alt lige düşürülür ve bu müsabaka tarihinden itibaren bu takımla müsabakası olan diğer takımlar müsabakaları oynamaksızın hükmen galip gelmiş sayılırlar."
+        },
+        {
+            "id": "Futsal Ligi#38",
+            "sentence": "Devam eden sezonlarda bir alt ligin bulunmaması halinde ilgili kulüp Futsal Ligi'ne alınmaz."
+        },
+        {
+            "id": "Futsal Ligi#39",
+            "sentence": "TFF Futsal Ligi normal sezon müsabakaları 20 Şubat 2025 tarihinde başlayacak."
+        }
+    ]
+}

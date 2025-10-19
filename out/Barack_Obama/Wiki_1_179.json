@@ -1,0 +1,446 @@
+{
+    "Title": "Drone warfare - Wikipedia",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Drone warfare - Wikipedia#1",
+            "sentence": "Drone warfare is a form of ___E:warfare U:(https://en.wikipedia.org/wiki/Warfare)___ using ___E:military drones U:(https://en.wikipedia.org/wiki/Military_drone)___ or ___E:military robots U:(https://en.wikipedia.org/wiki/Military_robot)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#2",
+            "sentence": "The robots may be ___E:remote controlled U:(https://en.wikipedia.org/wiki/Telerobotics)___ by a pilot or have varying levels of ___E:autonomy U:(https://en.wikipedia.org/wiki/Autonomous_robot)___ during their mission."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#3",
+            "sentence": "Types of robots include ___E:unmanned combat aerial vehicles U:(https://en.wikipedia.org/wiki/Unmanned_combat_aerial_vehicle)___ (UCAV) or weaponized commercial ___E:unmanned aerial vehicles U:(https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle)___ (UAV), ___E:unmanned surface vehicles U:(https://en.wikipedia.org/wiki/Unmanned_surface_vehicle)___ (USV) or ___E:unmanned underwater vehicles U:(https://en.wikipedia.org/wiki/Unmanned_underwater_vehicle)___ (UUV), and ___E:unmanned ground vehicles U:(https://en.wikipedia.org/wiki/Unmanned_ground_vehicle)___ (UGV)."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#4",
+            "sentence": "UAVs, UGVs, USVs and UUVs are variously used for reconnaissance, kamikaze missions, bomb disposal, transporting cargo and ___E:medical evacuation U:(https://en.wikipedia.org/wiki/Medical_evacuation)___ or may serve an ___E:anti-air U:(https://en.wikipedia.org/wiki/Anti-aircraft_warfare)___ , ___E:anti-armor U:(https://en.wikipedia.org/wiki/Anti-tank_warfare)___ or ___E:anti-personnel U:(https://en.wikipedia.org/wiki/Anti-personnel_weapon)___ role.  ___E:China U:(https://en.wikipedia.org/wiki/List_of_unmanned_aerial_vehicles_of_China)___ , ___E:France U:(https://en.wikipedia.org/wiki/Unmanned_aerial_vehicles_in_the_French_Armed_Forces)___ , ___E:Greece U:(https://en.wikipedia.org/wiki/Unmanned_aerial_vehicles_in_the_Hellenic_Armed_Forces)___ , ___E:India U:(https://en.wikipedia.org/wiki/India)___ , ___E:Iran U:(https://en.wikipedia.org/wiki/Iran)___ , ___E:Iraq U:(https://en.wikipedia.org/wiki/Iraq)___ , ___E:Israel U:(https://en.wikipedia.org/wiki/Israel)___ , ___E:Italy U:(https://en.wikipedia.org/wiki/Italy)___ , ___E:Pakistan U:(https://en.wikipedia.org/wiki/Pakistan)___ , ___E:Poland U:(https://en.wikipedia.org/wiki/Poland)___ , ___E:Russia U:(https://en.wikipedia.org/wiki/Russia)___ , ___E:South Korea U:(https://en.wikipedia.org/wiki/South_Korea)___ , ___E:Turkey U:(https://en.wikipedia.org/wiki/Turkey)___ , the ___E:United States U:(https://en.wikipedia.org/wiki/United_States)___ , the ___E:United Kingdom U:(https://en.wikipedia.org/wiki/United_Kingdom)___ and ___E:Ukraine U:(https://en.wikipedia.org/wiki/Ukraine)___    are known to have manufactured operational UCAVs as of 2019."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#5",
+            "sentence": "Drones can be used for ___E:electronic warfare U:(https://en.wikipedia.org/wiki/Electronic_warfare)___ , ___E:explosive ordnance disposal U:(https://en.wikipedia.org/wiki/Explosive_ordnance_disposal)___ , ___E:target training U:(https://en.wikipedia.org/wiki/Target_drone)___ and augmenting logistics but are most commonly utilized for intelligence, surveillance, target acquisition, and reconnaissance ( ___E:ISTAR U:(https://en.wikipedia.org/wiki/Unmanned_surveillance_and_reconnaissance_aerial_vehicle)___ ), facilitating direct attacks on ___E:target U:(https://en.wikipedia.org/wiki/Targeting_(warfare))___ as part of a ___E:kill chain U:(https://en.wikipedia.org/wiki/Kill_chain_(military))___ or ___E:manned-unmanned teaming U:(https://en.wikipedia.org/wiki/Manned-unmanned_teaming)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#6",
+            "sentence": "Aerial drone attacks can be conducted via purpose-built UCAVs deploying ___E:ordnance U:(https://en.wikipedia.org/wiki/Aircraft_ordnance)___ during a drone strike or by weaponized commercial UAVs ___E:aerial dropping U:(https://en.wikipedia.org/wiki/Top-attack)___ munitions or ___E:crashing U:(https://en.wikipedia.org/wiki/Loitering_munition)___ into a target."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#7",
+            "sentence": "Heavy-lift drones may also be used to ___E:airlift U:(https://en.wikipedia.org/wiki/Airlift)___ supplies or transport wounded personnel across a battlefield."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#8",
+            "sentence": "Smaller drones such as ___E:SUAVs U:(https://en.wikipedia.org/wiki/Miniature_UAV)___ and ___E:MAVs U:(https://en.wikipedia.org/wiki/Micro_air_vehicle)___ are man-portable and can be deployed for low-altitude, short-range support operations."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#9",
+            "sentence": "Larger drones can serve a \"mothership\" role by deploying smaller, sub-drones or by being equipped with electronic warfare features such as a ___E:signal repeater U:(https://en.wikipedia.org/wiki/Repeater)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#10",
+            "sentence": "Multiple drones may operate and attack simultaneously in a ___E:drone swarm U:(https://en.wikipedia.org/wiki/Swarm_robotics)___  and autonomous drones, such as ___E:LAWs U:(https://en.wikipedia.org/wiki/Lethal_autonomous_weapon)___ , utilize ___E:military AI U:(https://en.wikipedia.org/wiki/Military_applications_of_artificial_intelligence)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#11",
+            "sentence": "The early years of the 21st century saw most drone strikes being ___E:conducted U:(https://en.wikipedia.org/wiki/Battlefield_UAVs_of_the_United_States)___ by the US military using ___E:air-to-surface missiles U:(https://en.wikipedia.org/wiki/Air-to-surface_missile)___ against ground targets within countries such as ___E:Afghanistan U:(https://en.wikipedia.org/wiki/List_of_drone_strikes_in_Afghanistan)___ , ___E:Libya U:(https://en.wikipedia.org/wiki/US_intervention_in_Libya_(2015%E2%80%932019))___ , ___E:Pakistan U:(https://en.wikipedia.org/wiki/Drone_strikes_in_Pakistan)___ , ___E:Somalia U:(https://en.wikipedia.org/wiki/US_intervention_in_Somalia_(2007%E2%80%93present))___ , ___E:Syria U:(https://en.wikipedia.org/wiki/US_intervention_in_the_Syrian_civil_war)___ , and ___E:Yemen U:(https://en.wikipedia.org/wiki/US_airstrikes_on_Yemen)___ during the ___E:war on terror U:(https://en.wikipedia.org/wiki/War_on_terror)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#12",
+            "sentence": "Drone warfare evolved and proliferated quickly in the 2010s and 2020s, with countries such as ___E:Azerbaijan U:(https://en.wikipedia.org/wiki/Azerbaijan)___  , China, ___E:Iran U:(https://en.wikipedia.org/wiki/Unmanned_aerial_vehicles_in_the_Iranian_military)___ , Russia, Turkey and Ukraine utilizing drones with increased ubiquity."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#13",
+            "sentence": "Militant groups, such as the ___E:Islamic State U:(https://en.wikipedia.org/wiki/Islamic_State)___ and ___E:Houthis U:(https://en.wikipedia.org/wiki/Houthi)___ , and ___E:organized crime U:(https://en.wikipedia.org/wiki/Organized_crime)___ groups such as ___E:Mexican cartels U:(https://en.wikipedia.org/wiki/Mexican_cartels)___ likewise utilized drones for attacks against adversaries and for logistical purposes."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#14",
+            "sentence": "Since 2022, drone warfare has been extensively used in the ___E:Russian invasion of Ukraine U:(https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine)___ by both sides, including long range fixed-wing drones, and short range multirotor ___E:FPV drones U:(https://en.wikipedia.org/wiki/FPV_drone)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#15",
+            "sentence": "Scholars have described the conflict as the first \"drone war\", due to the large scale and high intensity of attacks, and agree on the major role drone warfare has in ___E:modern U:(https://en.wikipedia.org/wiki/Modern_warfare)___ ___E:conventional warfare U:(https://en.wikipedia.org/wiki/Conventional_warfare)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#16",
+            "sentence": "A commercial UCAV is any commercially-produced UAV that is modified to carry such weapons as ___E:guided bombs U:(https://en.wikipedia.org/wiki/Guided_bomb)___ , ___E:cluster bombs U:(https://en.wikipedia.org/wiki/Cluster_bomb)___ , ___E:incendiary devices U:(https://en.wikipedia.org/wiki/Incendiary_device)___ , ___E:air-to-surface missiles U:(https://en.wikipedia.org/wiki/Air-to-surface_missile)___ , ___E:air-to-air missiles U:(https://en.wikipedia.org/wiki/Air-to-air_missile)___ , ___E:anti-tank guided missiles U:(https://en.wikipedia.org/wiki/Anti-tank_guided_missile)___ or other types of ___E:precision-guided munitions U:(https://en.wikipedia.org/wiki/Precision-guided_munition)___ , ___E:autocannons U:(https://en.wikipedia.org/wiki/Autocannon)___ and ___E:machine guns U:(https://en.wikipedia.org/wiki/Machine_gun)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#17",
+            "sentence": "These weaponized civilian drones may proceed to fire munition or a missile, drop explosives and crash into or ___E:detonate above U:(https://en.wikipedia.org/wiki/Air_burst)___ vulnerable targets."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#18",
+            "sentence": "Payloads could include explosives such as ___E:hand grenades U:(https://en.wikipedia.org/wiki/Hand_grenade)___ , ___E:mortar U:(https://en.wikipedia.org/wiki/Mortar_(weapon))___ ___E:shells U:(https://en.wikipedia.org/wiki/Shell_(projectile))___ and ___E:IEDs U:(https://en.wikipedia.org/wiki/Improvised_explosive_device)___ or other dangerous materials such as shrapnel, chemical, radiological or biological hazards."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#19",
+            "sentence": "These relatively cheap drones are also used for non-attack roles. ___E:Multirotor U:(https://en.wikipedia.org/wiki/Multirotor)___ FPV drones have been used extensively by both armies for ___E:aerial reconnaissance U:(https://en.wikipedia.org/wiki/Aerial_reconnaissance)___ and ___E:artillery spotting U:(https://en.wikipedia.org/wiki/Artillery_spotting)___ in the ___E:Russo-Ukraine War U:(https://en.wikipedia.org/wiki/Russo-Ukraine_War)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#20",
+            "sentence": "___E:Anti-UAV systems U:(https://en.wikipedia.org/wiki/Anti-aircraft_warfare#Anti-UAV_defenses)___ are being developed by states to counter the threat posed by commercial UCAVs."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#21",
+            "sentence": "According to James Rogers, an academic who studies drone warfare, \"There is a big debate out there at the moment about what the best way is to counter these small UAVs, whether they are used by ___E:hobbyists U:(https://en.wikipedia.org/wiki/Hobbyist)___ causing a bit of a nuisance or in a more sinister manner by a ___E:terrorist U:(https://en.wikipedia.org/wiki/Terrorist)___ actor.\""
+        },
+        {
+            "id": "Drone warfare - Wikipedia#22",
+            "sentence": "Estimates for the total number of people killed in U.S. ___E:drone strikes in Pakistan U:(https://en.wikipedia.org/wiki/Drone_strikes_in_Pakistan)___ range from 2,000 to 3,500 militants killed and 158 to 965 civilians killed.   81 insurgent leaders in Pakistan have been killed.  ___E:Drone strikes in Yemen U:(https://en.wikipedia.org/wiki/Drone_strikes_in_Yemen)___ are estimated to have killed 846–1,758 militants and 116–225 civilians.   57 ___E:Al-Qaeda in the Arabian Peninsula U:(https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Arabian_Peninsula)___ leaders are confirmed to have been killed."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#23",
+            "sentence": "In August 2018, Al Jazeera reported that a ___E:Saudi Arabian-led coalition U:(https://en.wikipedia.org/wiki/Saudi_Arabian-led_intervention_in_Yemen)___ combating Houthi rebels in Yemen had secured secret deals with ___E:al-Qaeda in Yemen U:(https://en.wikipedia.org/wiki/Al-Qaeda_in_the_Arabian_Peninsula)___ and recruited hundreds of that group's fighters: \"..."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#24",
+            "sentence": "Key figures in the deal-making said the United States was aware of the arrangements and held off on drone attacks against the armed group, which was created by Osama bin Laden in 1988.\""
+        },
+        {
+            "id": "Drone warfare - Wikipedia#25",
+            "sentence": "After US president ___E:Donald Trump U:(https://en.wikipedia.org/wiki/Donald_Trump)___ had increased drone strikes by over 400%,    his successor ___E:Joe Biden U:(https://en.wikipedia.org/wiki/Joe_Biden)___ reversed course."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#26",
+            "sentence": "Under Biden, drone strikes reportedly decreased."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#27",
+            "sentence": "A ___E:Biden administration U:(https://en.wikipedia.org/wiki/Presidency_of_Joe_Biden)___ ___E:drone strike U:(https://en.wikipedia.org/wiki/August_2021_Kabul_drone_strike)___ in ___E:Kabul U:(https://en.wikipedia.org/wiki/Kabul)___ , Afghanistan in August 2021 killed 10 civilians, including seven children."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#28",
+            "sentence": "Later, a drone strike killed ___E:Al-Qaeda U:(https://en.wikipedia.org/wiki/Al-Qaeda)___ leader ___E:Ayman al-Zawahiri U:(https://en.wikipedia.org/wiki/Ayman_al-Zawahiri)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#29",
+            "sentence": "By mid-2025, reports emerged that the U.S. military was lagging behind in evolving its drone warfare capabilities, particularly its production and deployment of small, low-cost first-person view UAVs akin to those seen during the ___E:Russian invasion of Ukraine U:(https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#30",
+            "sentence": "A July 2025 memo by defense secretary ___E:Pete Hegseth U:(https://en.wikipedia.org/wiki/Pete_Hegseth)___ urged military leadership to accelerate the adoption of drones among troops."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#31",
+            "sentence": "In September 2025 the U.S. envoy to ___E:Ukraine U:(https://en.wikipedia.org/wiki/Ukraine)___ , ___E:Keith Kellogg U:(https://en.wikipedia.org/wiki/Keith_Kellogg)___ , stated Ukraine had overtaken the U.S. in drone technology amid the Russo-Ukrainian war, as battlefield experience prompted continuous innovation in drones."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#32",
+            "sentence": "Defense industry executive Steve Siomi, the president of robotics defense company ___E:Allen Control Systems U:(https://en.wikipedia.org/w/index.php?title=Allen_Control_Systems&action=edit&redlink=1)___ , said China had overtaken the U.S. in responding to drone proliferation and argued that drone adoption made warfare more affordable for all combatants, including America's rivals."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#33",
+            "sentence": "Scholarly opinions are mixed regarding the efficacy of drone strikes."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#34",
+            "sentence": "Some studies support that ___E:decapitation strikes U:(https://en.wikipedia.org/wiki/Decapitation_strike)___ to kill a terrorist or insurgent group's leadership limits the capabilities of these groups in the future, while other studies contradict this. Drone strikes are successful at suppressing militant behavior, though this response is in anticipation of a drone strike rather than as a result of one. Data from the US and Pakistan's joint counter-terrorism efforts show that militants cease communication and attack planning to avoid detection and targeting."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#35",
+            "sentence": "Proponents of drone strikes assert that drone strikes are largely effective in targeting specific combatants."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#36",
+            "sentence": "Some scholars argue that drone strikes reduce the amount of ___E:civilian casualties U:(https://en.wikipedia.org/wiki/Civilian_casualties_from_U.S._drone_strikes)___ and territorial damage when compared to other types of military force like large bombs."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#37",
+            "sentence": "Military alternatives to drone strikes, such as raids and interrogations, can be extremely risky, time-consuming, and potentially ineffective."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#38",
+            "sentence": "Relying on drone strikes does not come without risks as U.S. drone usage sets an international precedent on ___E:extraterritorial U:(https://en.wikipedia.org/wiki/Extraterritorial_operation)___ and ___E:extrajudicial U:(https://en.wikipedia.org/wiki/Extrajudicial_killing)___ killings."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#39",
+            "sentence": "In Mexico, ___E:Drug cartel U:(https://en.wikipedia.org/wiki/Drug_cartel)___ drone operators are called \"droneros\" who are known to use bomb-dropping drones on enemy targets."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#40",
+            "sentence": "___E:UCAVs U:(https://en.wikipedia.org/wiki/Unmanned_combat_aerial_vehicle)___ were used extensively by the ___E:Azerbaijani Army U:(https://en.wikipedia.org/wiki/Azerbaijani_Armed_Forces)___ against the ___E:Armenian Army U:(https://en.wikipedia.org/wiki/Armed_Forces_of_Armenia)___ during the ___E:2020 Nagorno-Karabakh conflict U:(https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_conflict)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#41",
+            "sentence": "These UCAVs included Israeli ___E:IAI Harops U:(https://en.wikipedia.org/wiki/IAI_Harop)___ and Turkish ___E:Bayraktar TB2s. U:(https://en.wikipedia.org/wiki/Bayraktar_TB2)___  As the Bayraktar TB2 utilizes ___E:Canadian U:(https://en.wikipedia.org/wiki/Canada)___ optics and laser targeting systems, Canada suspended export of its military drone technology to Turkey in October 2020 after allegations that the technology had been used to collect intelligence and direct artillery and missile fire at military positions."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#42",
+            "sentence": "After the incident, ___E:Aselsan U:(https://en.wikipedia.org/wiki/Aselsan)___ stated that it would begin the serial production and integration of the CATS system to replace the Canadian MX15B."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#43",
+            "sentence": "The Economist has cited ___E:Azerbaijan U:(https://en.wikipedia.org/wiki/Azerbaijan)___ 's highly effective use of drones against Armenia in the ___E:2020 Nagorno-Karabakh war U:(https://en.wikipedia.org/wiki/2020_Nagorno-Karabakh_war)___ and ___E:Turkey U:(https://en.wikipedia.org/wiki/Turkey)___ 's use of drones in the ___E:Syrian Civil War U:(https://en.wikipedia.org/wiki/Syrian_Civil_War)___ as indicating the future of warfare."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#44",
+            "sentence": "Noting that it had previously been assumed that drones would not play a major role in conflicts between nations due to their vulnerability to anti-aircraft fire, it suggested that while this might be true for major powers with air defenses, it was less true for minor powers."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#45",
+            "sentence": "It noted Azerbaijani tactics and Turkey's use of drones as indicating a \"new, more affordable type of ___E:air power U:(https://en.wikipedia.org/wiki/Air_power)___ \"."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#46",
+            "sentence": "It also noted that the ability of drones to record their kills enabled a highly effective Azerbaijani propaganda campaign."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#47",
+            "sentence": "On 24 July 2025, the ___E:Royal Thai Armed Forces U:(https://en.wikipedia.org/wiki/Royal_Thai_Armed_Forces)___ launched coordinated drone strikes against the ___E:Royal Cambodian Armed Forces U:(https://en.wikipedia.org/wiki/Royal_Cambodian_Armed_Forces)___ in the disputed border area near ___E:Ta Muen Thom U:(https://en.wikipedia.org/wiki/Prasat_Ta_Muen_Thom)___ and ___E:Ta Krabey U:(https://en.wikipedia.org/wiki/Ta_Krabey)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#48",
+            "sentence": "Using FPV drones, quadcopters, and one-way kamikaze UAVs, Thai forces targeted Cambodian command posts, ammunition depots, artillery positions, and communication lines."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#49",
+            "sentence": "Analysts described the campaign as one of the most prominent uses of commercial multirotor drones in a state-on-state conflict since the war in Ukraine, challenging assumptions that such drones are ineffective in dense jungle terrain."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#50",
+            "sentence": "On 9 September 2025, over a dozen allegedly Russian drones ___E:breached Polish airspace U:(https://en.wikipedia.org/wiki/2025_Russian_drone_incursion_into_Poland)___ , prompting a NATO ___E:Quick Reaction Alert U:(https://en.wikipedia.org/wiki/Quick_Reaction_Alert)___ and Poland invoking ___E:Article 4 U:(https://en.wikipedia.org/wiki/North_Atlantic_Treaty#Article_4)___ of the NATO treaty."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#51",
+            "sentence": "At least four of the drones were confirmed shot down. On 18 September Polish and ___E:Ukrainian U:(https://en.wikipedia.org/wiki/Ukraine)___ officials announced that the two countries would establish joint military training and production programs, as the Ukrainian military had emerged as a major pioneer in drone warfare in the years following the ___E:2022 Russian invasion U:(https://en.wikipedia.org/wiki/2022_Russian_invasion_of_Ukraine)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#52",
+            "sentence": "During the ___E:Russo-Ukrainian war U:(https://en.wikipedia.org/wiki/Russo-Ukrainian_war_(2022%E2%80%93present))___ , both sides used drones in combat and for reconnaissance, and drones played an important role in long-range bombing attacks and supporting ground assaults and offensives."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#53",
+            "sentence": "Ukrainian forces extensively used the Turkish-made ___E:Bayraktar TB2 U:(https://en.wikipedia.org/wiki/Baykar_Bayraktar_TB2)___ drone throughout the conflict in strikes against Russian forces."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#54",
+            "sentence": "Russian forces meanwhile launched waves of Iranian ___E:HESA Shahed 136 U:(https://en.wikipedia.org/wiki/HESA_Shahed_136)___ drones during the ___E:October 2022 missile strikes on Ukraine U:(https://en.wikipedia.org/wiki/October_2022_missile_strikes_on_Ukraine)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#55",
+            "sentence": "The main roles of drones in the war, however, are in reconnaissance and ___E:artillery spotting U:(https://en.wikipedia.org/wiki/Artillery_spotting)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#56",
+            "sentence": "Russian sources claimed to have used a \"Stupor anti-drone rifle\" to jam the radio controls of Ukrainian drones."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#57",
+            "sentence": "On 13 October 2022, the first recorded instance of an unarmed drone-on-drone combat encounter occurred above the ___E:Donetsk U:(https://en.wikipedia.org/wiki/Donetsk)___ region of Ukraine."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#58",
+            "sentence": "A Ukrainian ___E:DJI Mavic U:(https://en.wikipedia.org/wiki/DJI_Mavic)___ quadcopter was recorded ramming a Russian drone of the same model, resulting in the latter crashing towards the surface below."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#59",
+            "sentence": "Another instance of this aerial ramming tactic occurred on 24 November 2022, this time with the Russian DJI Mavic being recorded plummeting towards the ground after a collision with a Ukrainian drone."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#60",
+            "sentence": "On 9 May 2023, a Russian conscript surrendered to (or rather via) a Ukrainian drone."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#61",
+            "sentence": "The average HESA Shahed 136 drone is worth about $20,000. An ___E:IRIS-T U:(https://en.wikipedia.org/wiki/IRIS-T)___ missile is worth about $430,000 each in comparison."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#62",
+            "sentence": "From 13 September until 17 October, open source information suggests that Ukraine has had to spend $28.14 million on defending against these drones."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#63",
+            "sentence": "Since at least September 2022, Ukraine has used black ___E:naval drones U:(https://en.wikipedia.org/wiki/Unmanned_surface_vehicle)___ , equipped with the ___E:Starlink U:(https://en.wikipedia.org/wiki/Starlink_in_the_Russo-Ukrainian_War)___ satellite internet system, to carry attacks on the Russian ___E:Black Sea fleet U:(https://en.wikipedia.org/wiki/Black_Sea_Fleet)___ at the ___E:Sevastopol Naval base U:(https://en.wikipedia.org/wiki/Sevastopol_Naval_Base)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#64",
+            "sentence": "The naval drones were at first assumed to be for reconnaissance, but appear to carry munitions and act as a bomb.  With experts noting that the sensors on the front of the naval drone could be used as a ___E:laser range finder U:(https://en.wikipedia.org/wiki/Laser_rangefinder)___ to help in targeting."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#65",
+            "sentence": "In late October 2022, seven of these drones were used to mount a ___E:successful drone attack U:(https://en.wikipedia.org/wiki/2022_drone_attack_on_the_Sevastopol_Naval_Base)___ on the Sevastopol Naval base."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#66",
+            "sentence": "On 13 October 2022, a Ukrainian ___E:MiG-29 U:(https://en.wikipedia.org/wiki/Mikoyan_MiG-29)___ became the first manned plane to go down during combat due to a drone."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#67",
+            "sentence": "The pilot is claimed to have destroyed a ___E:Shahed-136 U:(https://en.wikipedia.org/wiki/Shahed-136)___ drone with his cannon."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#68",
+            "sentence": "The blast is believed to have brought the plane down and hospitalised the pilot."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#69",
+            "sentence": "In September 2023, Ukrainian troops were reportedly using cardboard drones with GoPro cameras for aerial reconnaissance."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#70",
+            "sentence": "Since the 2022 ___E:Russian invasion of Ukraine U:(https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine)___ , approximately 30 companies in Ukraine have emerged to mass-produce drones for the war effort."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#71",
+            "sentence": "The ___E:Ukraine government U:(https://en.wikipedia.org/wiki/Government_of_Ukraine)___ Ministry of Digital Transformation initiated the \"Army of Drones\" project and attempted to purchase up to 200,000 drones in 2023, aiming to deploy relatively cheap drones against large advantages Russia has had in military equipment."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#72",
+            "sentence": "In 2023, they also sponsored several competitions where the \"dozens of drone developers that have sprung up all over Ukraine\" are invited to make simulated attacks on ground targets, or chase ___E:fixed-wing U:(https://en.wikipedia.org/wiki/Fixed-wing_aircraft)___ drones, or even participate in drone ___E:dogfight U:(https://en.wikipedia.org/wiki/Dogfight)___ competitions."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#73",
+            "sentence": "One new model that has been successful is the \" ___E:Baba Yaga U:(https://en.wikipedia.org/wiki/Baba_Yaga_(aircraft))___ \" hexacopter, which can carry \"44 pounds of payload\"."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#74",
+            "sentence": "As of April 2024, Ukraine has started deploying manned aircraft, such as the ___E:Aeroprakt A-22 Foxbat U:(https://en.wikipedia.org/wiki/Aeroprakt_A-22_Foxbat)___ and ___E:Yakovlev Yak-52 U:(https://en.wikipedia.org/wiki/Yakovlev_Yak-52)___ , which uses snipers or machine guns to shoot down Russian drones."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#75",
+            "sentence": "Ukrainian drones have also been given a variety of improvised modifications for the express purpose of attacking and countering Russian drones; these include an instance in July 2024 where an FPV drone with a stick mounted to it was used to attack and eventually destroy a ___E:ZALA 421-16E U:(https://en.wikipedia.org/wiki/ZALA_Aero_Group)___ reconnaissance drone through repeated ___E:aerial ramming U:(https://en.wikipedia.org/wiki/Aerial_ramming)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#76",
+            "sentence": "In 2024 ___E:drones controlled a through a tether with optical fiber U:(https://en.wikipedia.org/wiki/Fiber_optic_drone)___ became commonplace, thus avoiding radio jamming."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#77",
+            "sentence": "On 31 July 2024, a Russian ___E:Mi-8 helicopter U:(https://en.wikipedia.org/wiki/Mil_Mi-28)___ was shot down over occupied Donetsk, by a Ukrainian FPV drone, the first time a helicopter in combat was destroyed by a drone."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#78",
+            "sentence": "The Mi-8 was believed to have been attacked on the ground either during landing or take off."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#79",
+            "sentence": "Russia launched the largest drone strike of the war on 25 November 2024, when it attacked Ukraine with 188 drones."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#80",
+            "sentence": "Ukrainian forces shot down 76 and lost track of 96, likely due to electronic jamming."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#81",
+            "sentence": "Other drones ___E:struck the energy grid U:(https://en.wikipedia.org/wiki/Russian_strikes_against_Ukrainian_infrastructure_(2022%E2%80%93present))___ and civilian homes."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#82",
+            "sentence": "On 8 February 2025, Russian authorities reportedly discovered a plot in which a shipment of FPV drone headsets loaded with explosives were sent to Russian soldiers."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#83",
+            "sentence": "Each headset had 10-15 grams of explosives and were programmed to detonate on activation."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#84",
+            "sentence": "Officials compared it to the ___E:2024 Lebanon electronic device attacks U:(https://en.wikipedia.org/wiki/2024_Lebanon_electronic_device_attacks)___ by Israel."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#85",
+            "sentence": "Subsequent reports claimed 8 Russian FPV pilots lost their eyesight due to explosions between 4 and 7 February."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#86",
+            "sentence": "The first explosion was reported on 4 February in the Belgorod oblast, subsequent explosions occurred in Kursk, Luhansk and Donetsk regions."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#87",
+            "sentence": "The largest drone-and‑missile attack by Russia since the full‑scale invasion occurred on 18–25 May 2025, during which Russian forces launched approximately 1,000 aerial weapons against Ukraine, combining 355 Shahed drones, about 23 Iskander ballistic missiles, and over 60 air‑launched cruise missiles, including the X‑101 and X‑555. The assault hit Kyiv and multiple other regions, killing more than 15 civilians and injuring dozens, while dramatically increasing pressure on Ukraine’s air defenses and supply chains"
+        },
+        {
+            "id": "Drone warfare - Wikipedia#88",
+            "sentence": "On 1 June 2025, Ukrainian FPV drones smuggled into Russia were launched from trucks to ___E:strike Russian airbases U:(https://en.wikipedia.org/wiki/Operation_Spiderweb)___ , including ___E:Belaya U:(https://en.wikipedia.org/wiki/Belaya_air_base)___ and ___E:Olenya U:(https://en.wikipedia.org/wiki/Olenya_airbase)___ , destroying multiple Russian strategic bombers."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#89",
+            "sentence": "Starting in August 2025, Ukrainian drone attacks on Russian oil refineries have caused a ___E:fuel crisis U:(https://en.wikipedia.org/wiki/2025_Russian_fuel_crisis)___ in Russia."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#90",
+            "sentence": "In June 2025, as part of the ___E:2025 Iran-Israel War U:(https://en.wikipedia.org/wiki/Iran%E2%80%93Israel_War)___ , Iran launched several drone attacks on Israel in response to Israel's bombing of Iranian nuclear facilities."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#91",
+            "sentence": "In 2020, a ___E:Turkish-made UAV U:(https://en.wikipedia.org/wiki/STM_Kargu)___ loaded with explosives detected and attacked ___E:Haftar's forces U:(https://en.wikipedia.org/wiki/Libyan_National_Army)___ in ___E:Libya U:(https://en.wikipedia.org/wiki/Libya)___ with ___E:artificial intelligence U:(https://en.wikipedia.org/wiki/Artificial_intelligence)___ and without command, according to a report from the ___E:UN Security Council U:(https://en.wikipedia.org/wiki/UN_Security_Council)___ 's Panel of Experts on Libya published in March 2021. It was considered the first attack carried out by an AI UAV."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#92",
+            "sentence": "On 19 September 2025, amid the ___E:siege of El Fasher U:(https://en.wikipedia.org/wiki/Siege_of_El_Fasher)___ during the ___E:Sudanese civil war U:(https://en.wikipedia.org/wiki/Sudanese_civil_war_(2023%E2%80%93present))___ , a ___E:Rapid Support Forces U:(https://en.wikipedia.org/wiki/Rapid_Support_Forces)___ drone struck a mosque at an ___E:IDP U:(https://en.wikipedia.org/wiki/Internally_displaced_person)___ camp, killing 75 people."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#93",
+            "sentence": "On 6 January 2018, Russian forces thwarted a ___E:drone U:(https://en.wikipedia.org/wiki/Unmanned_aerial_vehicle)___ (UAV) swarm attack on the ___E:Khmeimim Air Base U:(https://en.wikipedia.org/wiki/Khmeimim_Air_Base)___ , the first of this kind in the history of warfare."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#94",
+            "sentence": "On 7 October 2023, ___E:Hamas U:(https://en.wikipedia.org/wiki/Hamas)___ launched ___E:incursions of southern Israel U:(https://en.wikipedia.org/wiki/October_7_attacks)___ , using commercial drones to bomb Israeli guard towers before breaching the ___E:border wall U:(https://en.wikipedia.org/wiki/Gaza%E2%80%93Israel_barrier)___ ."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#95",
+            "sentence": "Videos of Israeli troops and a ___E:Merkava IV U:(https://en.wikipedia.org/wiki/Merkava_IV)___ tank being taken out by drones surfaced on the internet."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#96",
+            "sentence": "On 25 March 2022, the ___E:Houthis U:(https://en.wikipedia.org/wiki/Houthis)___ launched coordinated drone and missile strikes on multiple Saudi energy facilities, including sites in Jeddah and Ras Tanura."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#97",
+            "sentence": "The attacks temporarily disrupted oil production and caused fires at Aramco facilities."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#98",
+            "sentence": "Between late 2023 and July 2024, during the ___E:Gaza War U:(https://en.wikipedia.org/wiki/Gaza_War)___ , the Houthis carried out over 100 attacks on commercial ships in the Red Sea and Bab al-Mandab Strait."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#99",
+            "sentence": "These attacks used drones, missiles, and fast boats, targeting vessels linked to Israel, the U.S., and its allies."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#100",
+            "sentence": "Small drones and quadcopters have been used for strikes by the ___E:Islamic State U:(https://en.wikipedia.org/wiki/Islamic_State)___ in Iraq and Syria."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#101",
+            "sentence": "A group of twelve or more have been piloted by specially trained pilots to drop munitions onto enemy forces."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#102",
+            "sentence": "They have been able to evade ground defense forces."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#103",
+            "sentence": "During the ___E:battle for Mosul U:(https://en.wikipedia.org/wiki/Battle_of_Mosul_(2016%E2%80%932017))___ , the Islamic State was able to kill or wound dozens of Iraqi soldiers by dropping light explosives or 40-millimeter grenades from numerous drones attacking at the same time. Drone strikes were also used to destroy military supplies."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#104",
+            "sentence": "Drone footage released by the Islamic State showed bombs being dropped on an ammunition facility located in ___E:Deir ez-Zor U:(https://en.wikipedia.org/wiki/Deir_ez-Zor)___ , Syria, an area of contested control between the Islamic State and the Syrian government at the time."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#105",
+            "sentence": "In 2017, ___E:FBI U:(https://en.wikipedia.org/wiki/Federal_Bureau_of_Investigation)___ Director ___E:Christopher Wray U:(https://en.wikipedia.org/wiki/Christopher_A._Wray)___ stated at a Senate hearing that \"We do know that terrorist organizations have an interest in using drones ..."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#106",
+            "sentence": "We have seen that overseas already with some frequency."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#107",
+            "sentence": "I think that the expectation is that it is coming here imminently.\""
+        },
+        {
+            "id": "Drone warfare - Wikipedia#108",
+            "sentence": "Drone expert ___E:Brett Velicovich U:(https://en.wikipedia.org/wiki/Brett_Velicovich)___ discussed the dangers of the Islamic State utilizing off-the-shelf drones to attack civilian targets, claiming in an interview with ___E:Fox News U:(https://en.wikipedia.org/wiki/Fox_News)___ that it was only a matter of time before ISIS extremists use of drones to strike civilian targets would become more prevalent and sophisticated."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#109",
+            "sentence": "The overall success rate for drone strikes used by the Islamic State is unclear."
+        },
+        {
+            "id": "Drone warfare - Wikipedia#110",
+            "sentence": "The Islamic State may have used drones as a way to gather footage for propaganda purposes rather than for their military value."
+        }
+    ]
+}

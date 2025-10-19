@@ -1,0 +1,1432 @@
+{
+    "Title": "Melbourne - Wikipedia",
+    "Card": {
+        "Coordinates": "37°48′51″S 144°57′47″E﻿ / ﻿37.81417°S 144.96306°E﻿ / -37.81417; 144.96306",
+        "Population": "5,350,705 (2024)  ( ___E:2nd U:(https://en.wikipedia.org/wiki/List_of_cities_in_Australia_by_population)___ )",
+        "• Density": "2,181.3/km 2 (5,649.5/sq mi)",
+        "Established": "30 August 1835 ; 190 years ago (1835-08-30)",
+        "Elevation": "31 m (102 ft)",
+        "Area": "2,453 km 2 (947.1 sq mi) (GCCSA) ",
+        "Time zone": "___E:AEST U:(https://en.wikipedia.org/wiki/Australian_Eastern_Standard_Time)___ ( ___E:UTC+10 U:(https://en.wikipedia.org/wiki/UTC%2B10)___ )",
+        "• Summer (DST)": "___E:AEDT U:(https://en.wikipedia.org/wiki/Australian_Eastern_Daylight_Time)___ ( ___E:UTC+11 U:(https://en.wikipedia.org/wiki/UTC%2B11)___ )",
+        "Location": "669 km (416 mi) SW of Canberra 730 km (454 mi) SE of Adelaide 877 km (545 mi) SW of Sydney 1,687 km (1,048 mi) SW of Brisbane 3,337 km (2,074 mi) SE of Perth",
+        "LGA(s)": "___E:31 municipalities across Greater Melbourne U:(https://en.wikipedia.org/wiki/Local_Government_Areas_of_Victoria#Municipalities_of_Greater_Melbourne)___",
+        "County": "___E:Bourke U:(https://en.wikipedia.org/wiki/County_of_Bourke,_Victoria)___ , ___E:Evelyn U:(https://en.wikipedia.org/wiki/County_of_Evelyn,_Victoria)___ , ___E:Grant U:(https://en.wikipedia.org/wiki/County_of_Grant,_Victoria)___ , ___E:Mornington U:(https://en.wikipedia.org/wiki/County_of_Mornington)___",
+        "State electorate(s)": "___E:55 electoral districts and regions U:(https://en.wikipedia.org/wiki/File:Vic_Melbourne_Metro_state_districts_2014.png)___",
+        "Federal division(s)": "___E:23 divisions U:(https://en.wikipedia.org/wiki/File:MELBOURNE_divisions_overview_2016.png)___"
+    },
+    "Main": [
+        {
+            "id": "Melbourne - Wikipedia#1",
+            "sentence": "Melbourne is the ___E:capital U:(https://en.wikipedia.org/wiki/List_of_Australian_capital_cities)___ and ___E:most populous city U:(https://en.wikipedia.org/wiki/List_of_cities_in_Australia_by_population)___ of the ___E:Australian state U:(https://en.wikipedia.org/wiki/States_and_territories_of_Australia)___ of ___E:Victoria U:(https://en.wikipedia.org/wiki/Victoria_(state))___ , and the second most-populous city in Australia, after ___E:Sydney U:(https://en.wikipedia.org/wiki/Sydney)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#2",
+            "sentence": "The city's name generally refers to a 2,453 km 2 (947 sq mi) area,  comprising an urban agglomeration of ___E:31 local government areas U:(https://en.wikipedia.org/wiki/Local_Government_Areas_of_Victoria#Municipalities_of_Melbourne)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#3",
+            "sentence": "The name is also used to specifically refer to the local government area named ___E:City of Melbourne U:(https://en.wikipedia.org/wiki/City_of_Melbourne)___ , whose area is centred on the ___E:Melbourne central business district U:(https://en.wikipedia.org/wiki/Melbourne_central_business_district)___ and some immediate surrounds."
+        },
+        {
+            "id": "Melbourne - Wikipedia#4",
+            "sentence": "The city occupies much of the northern and eastern coastlines of ___E:Port Phillip Bay U:(https://en.wikipedia.org/wiki/Port_Phillip_Bay)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#5",
+            "sentence": "As of 2024, the population of the city was 5.35 million, or 19% of the ___E:population of Australia U:(https://en.wikipedia.org/wiki/Demography_of_Australia)___ ;  inhabitants are referred to as \"Melburnians\"."
+        },
+        {
+            "id": "Melbourne - Wikipedia#6",
+            "sentence": "The area of Melbourne has been home to ___E:Aboriginal Victorians U:(https://en.wikipedia.org/wiki/Aboriginal_Victorians)___ for over 40,000 years."
+        },
+        {
+            "id": "Melbourne - Wikipedia#7",
+            "sentence": "Of the five peoples of the ___E:Kulin nation U:(https://en.wikipedia.org/wiki/Kulin_nation)___ , the traditional custodians of the land encompassing Melbourne are the ___E:Boonwurrung U:(https://en.wikipedia.org/wiki/Boon_wurrung)___ , ___E:Woiwurrung U:(https://en.wikipedia.org/wiki/Woiwurrung)___ and the ___E:Wurundjeri U:(https://en.wikipedia.org/wiki/Wurundjeri)___ peoples."
+        },
+        {
+            "id": "Melbourne - Wikipedia#8",
+            "sentence": "In 1803, a short-lived British ___E:penal settlement U:(https://en.wikipedia.org/wiki/Penal_settlement)___ was established at Port Phillip, then part of the ___E:Colony of New South Wales U:(https://en.wikipedia.org/wiki/Colony_of_New_South_Wales)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#9",
+            "sentence": "Melbourne was founded in 1835 with the arrival of free settlers from ___E:Van Diemen's Land U:(https://en.wikipedia.org/wiki/Van_Diemen%27s_Land)___ (modern-day ___E:Tasmania U:(https://en.wikipedia.org/wiki/Tasmania)___ )."
+        },
+        {
+            "id": "Melbourne - Wikipedia#10",
+            "sentence": "It was incorporated as a ___E:Crown U:(https://en.wikipedia.org/wiki/The_Crown)___ settlement in 1837, and named after the then- ___E:Prime Minister of the United Kingdom U:(https://en.wikipedia.org/wiki/Prime_Minister_of_the_United_Kingdom)___ , ___E:William Lamb, 2nd Viscount Melbourne U:(https://en.wikipedia.org/wiki/William_Lamb,_2nd_Viscount_Melbourne)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#11",
+            "sentence": "Declared a city by ___E:Queen Victoria U:(https://en.wikipedia.org/wiki/Queen_Victoria)___ in 1847, it became the capital of the newly separated Colony of Victoria in 1851.  During the 1850s ___E:Victorian gold rush U:(https://en.wikipedia.org/wiki/Victorian_gold_rush)___ , the city entered a lengthy boom period that, by the late 1880s, had transformed it into Australia's, and one of the world's, largest and wealthiest metropolises."
+        },
+        {
+            "id": "Melbourne - Wikipedia#12",
+            "sentence": "After the ___E:federation of Australia U:(https://en.wikipedia.org/wiki/Federation_of_Australia)___ in 1901, Melbourne served as the interim seat of ___E:government U:(https://en.wikipedia.org/wiki/Government_of_Australia)___ of the new nation until ___E:Canberra U:(https://en.wikipedia.org/wiki/Canberra)___ became the permanent capital in 1927."
+        },
+        {
+            "id": "Melbourne - Wikipedia#13",
+            "sentence": "Today, Melbourne is culturally diverse and, among world cities, has the seventh-largest ___E:foreign born population U:(https://en.wikipedia.org/wiki/Foreign_born#Cities_with_largest_foreign_born_populations)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#14",
+            "sentence": "It is a leading financial centre in the Asia-Pacific region, ranking 28th globally in the 2024 ___E:Global Financial Centres Index U:(https://en.wikipedia.org/wiki/Global_Financial_Centres_Index)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#15",
+            "sentence": "The city's ___E:eclectic architecture U:(https://en.wikipedia.org/wiki/Architecture_of_Melbourne)___ blends Victorian era structures, such as the ___E:World Heritage U:(https://en.wikipedia.org/wiki/World_Heritage_List)___ -listed ___E:Royal Exhibition Building U:(https://en.wikipedia.org/wiki/Royal_Exhibition_Building)___ , with ___E:one of the world's tallest skylines U:(https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Melbourne)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#16",
+            "sentence": "Additional landmarks include the ___E:Melbourne Cricket Ground U:(https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground)___ and the ___E:National Gallery of Victoria U:(https://en.wikipedia.org/wiki/National_Gallery_of_Victoria)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#17",
+            "sentence": "Noted for ___E:its cultural heritage U:(https://en.wikipedia.org/wiki/Culture_of_Melbourne)___ , the city gave rise to ___E:Australian rules football U:(https://en.wikipedia.org/wiki/Australian_rules_football)___ , ___E:Australian impressionism U:(https://en.wikipedia.org/wiki/Heidelberg_School)___ and ___E:Australian cinema U:(https://en.wikipedia.org/wiki/Cinema_of_Australia)___ , and is noted for its ___E:street art U:(https://en.wikipedia.org/wiki/Street_art_in_Melbourne)___ , ___E:live music U:(https://en.wikipedia.org/wiki/Music_of_Melbourne)___ and theatre scenes."
+        },
+        {
+            "id": "Melbourne - Wikipedia#18",
+            "sentence": "It hosts major annual sporting events, such as the ___E:Australian Grand Prix U:(https://en.wikipedia.org/wiki/Australian_Grand_Prix)___ and the ___E:Australian Open U:(https://en.wikipedia.org/wiki/Australian_Open)___ , and also hosted the ___E:1956 Summer Olympics U:(https://en.wikipedia.org/wiki/1956_Summer_Olympics)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#19",
+            "sentence": "Melbourne ranked as the ___E:world's most livable city U:(https://en.wikipedia.org/wiki/City_quality_of_life_indices)___ on ___E:the Economist U:(https://en.wikipedia.org/wiki/The_Economist)___ 's measure for much of the 2010s."
+        },
+        {
+            "id": "Melbourne - Wikipedia#20",
+            "sentence": "___E:Melbourne Airport U:(https://en.wikipedia.org/wiki/Melbourne_Airport)___ is the second-busiest airport in Australia and the ___E:Port of Melbourne U:(https://en.wikipedia.org/wiki/Port_of_Melbourne)___ is the nation's busiest seaport."
+        },
+        {
+            "id": "Melbourne - Wikipedia#21",
+            "sentence": "Its main ___E:metropolitan rail U:(https://en.wikipedia.org/wiki/Railways_in_Melbourne)___ terminus is ___E:Flinders Street station U:(https://en.wikipedia.org/wiki/Flinders_Street_railway_station)___ and its main ___E:regional rail U:(https://en.wikipedia.org/wiki/Rail_transport_in_Victoria)___ and road coach terminus is ___E:Southern Cross station U:(https://en.wikipedia.org/wiki/Southern_Cross_railway_station)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#22",
+            "sentence": "It also has Australia's most ___E:extensive freeway network U:(https://en.wikipedia.org/wiki/Transport_in_Melbourne)___ and the ___E:largest urban tram network in the world U:(https://en.wikipedia.org/wiki/Trams_in_Melbourne)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#23",
+            "sentence": "Areas of Melbourne are known in the ___E:Boonwurrung U:(https://en.wikipedia.org/wiki/Boonwurrung_language)___ / ___E:Woiwurrung U:(https://en.wikipedia.org/wiki/Woiwurrung_language)___ languages as Naarm or Naarm ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#24",
+            "sentence": "The name is pronounced /ˈmɛlbərn/ ___E:MEL-bərn U:(https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)___ , [note 1] .mw-parser-output .IPA-label-small{font-size:85%}.mw-parser-output .references .IPA-label-small,.mw-parser-output .infobox .IPA-label-small,.mw-parser-output .navbox .IPA-label-small{font-size:100%} locally [ˈmæɫbən] ⓘ ; the spelling pronunciation /ˈmɛlbɔːrn/ ___E:MEL-born U:(https://en.wikipedia.org/wiki/Help:Pronunciation_respelling_key)___ is also accepted within British ___E:Received Pronunciation U:(https://en.wikipedia.org/wiki/Received_Pronunciation)___ and ___E:General American English U:(https://en.wikipedia.org/wiki/General_American_English)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#25",
+            "sentence": "In Australian English, ⟨our⟩ in the second syllable always stands for the ___E:reduced U:(https://en.wikipedia.org/wiki/Vowel_reduction_in_English)___ /ər/ as in \"labour\"."
+        },
+        {
+            "id": "Melbourne - Wikipedia#26",
+            "sentence": "___E:Aboriginal Australians U:(https://en.wikipedia.org/wiki/Aboriginal_Victorians)___ have lived in the Melbourne area for at least 40,000 years."
+        },
+        {
+            "id": "Melbourne - Wikipedia#27",
+            "sentence": "When ___E:British colonists U:(https://en.wikipedia.org/wiki/Colony_of_Victoria)___ arrived in the 19th century, up to 20,000 ___E:Kulin people U:(https://en.wikipedia.org/wiki/Kulin_people)___ from three distinct language groups – the ___E:Wurundjeri U:(https://en.wikipedia.org/wiki/Wurundjeri)___ , ___E:Bunurong U:(https://en.wikipedia.org/wiki/Bunurong)___ and ___E:Wathaurong U:(https://en.wikipedia.org/wiki/Wathaurong)___ – resided in the area.   It was an important meeting place for the clans of the ___E:Kulin nation U:(https://en.wikipedia.org/wiki/Kulin_nation)___ alliance and a vital source of food and water."
+        },
+        {
+            "id": "Melbourne - Wikipedia#28",
+            "sentence": "In June 2021, the boundaries between the land of two of the ___E:traditional owner U:(https://en.wikipedia.org/wiki/Traditional_owner)___ groups, the Wurundjeri and Bunurong, were agreed after being drawn up by the ___E:Victorian Aboriginal Heritage Council U:(https://en.wikipedia.org/wiki/Victorian_Aboriginal_Heritage_Council)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#29",
+            "sentence": "The borderline runs across the city from west to east, with the ___E:CBD U:(https://en.wikipedia.org/wiki/Melbourne_city_centre)___ , ___E:Richmond U:(https://en.wikipedia.org/wiki/Richmond,_Victoria)___ and ___E:Hawthorn U:(https://en.wikipedia.org/wiki/Hawthorn,_Victoria)___ included in Wurundjeri land, and ___E:Albert Park U:(https://en.wikipedia.org/wiki/Albert_Park,_Victoria)___ , ___E:St Kilda U:(https://en.wikipedia.org/wiki/St_Kilda,_Victoria)___ and ___E:Caulfield U:(https://en.wikipedia.org/wiki/Caulfield,_Victoria)___ on Bunurong land.  However, this change in boundaries is still disputed by people on both sides of the dispute including N'arweet ___E:Carolyn Briggs U:(https://en.wikipedia.org/wiki/Carolyn_Briggs)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#30",
+            "sentence": "The name Narrm is commonly used by the broader Aboriginal community to refer to the city, stemming from the traditional name recorded for the area on which the Melbourne city centre is built."
+        },
+        {
+            "id": "Melbourne - Wikipedia#31",
+            "sentence": "The word is closely related to Narm-narm , being the Boonwurrung word for ___E:Port Phillip Bay U:(https://en.wikipedia.org/wiki/Port_Phillip_Bay)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#32",
+            "sentence": "Narrm means scrub in Eastern Kulin languages which reflects the Creation Story of how the Bay was filled by the creation of the Birrarung (Yarra River)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#33",
+            "sentence": "Before this, the dry Melbourne region extended out into the Bay and the Bay was filled with teatree scrub where boorrimul (emu) and marram (kangaroo) were hunted."
+        },
+        {
+            "id": "Melbourne - Wikipedia#34",
+            "sentence": "The first ___E:British U:(https://en.wikipedia.org/wiki/British_Empire)___ settlement in ___E:Victoria U:(https://en.wikipedia.org/wiki/Victoria_(Australia))___ , then part of the ___E:penal colony U:(https://en.wikipedia.org/wiki/Penal_colony)___ of ___E:New South Wales U:(https://en.wikipedia.org/wiki/New_South_Wales)___ , was established by Colonel ___E:David Collins U:(https://en.wikipedia.org/wiki/David_Collins_(lieutenant_governor))___ in October 1803, at ___E:Sullivan Bay U:(https://en.wikipedia.org/wiki/Sullivan_Bay,_Victoria)___ , near present-day ___E:Sorrento U:(https://en.wikipedia.org/wiki/Sorrento,_Victoria)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#35",
+            "sentence": "The following year, due to a perceived lack of resources, these settlers relocated to ___E:Van Diemen's Land U:(https://en.wikipedia.org/wiki/Van_Diemen%27s_Land)___ (present-day ___E:Tasmania U:(https://en.wikipedia.org/wiki/Tasmania)___ ) and founded the city of ___E:Hobart U:(https://en.wikipedia.org/wiki/Hobart)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#36",
+            "sentence": "It would be 30 years before another settlement was attempted."
+        },
+        {
+            "id": "Melbourne - Wikipedia#37",
+            "sentence": "In May and June 1835, ___E:John Batman U:(https://en.wikipedia.org/wiki/John_Batman)___ , a leading member of the ___E:Port Phillip Association U:(https://en.wikipedia.org/wiki/Port_Phillip_Association)___ in Van Diemen's Land, explored the Melbourne area, and later claimed to have ___E:negotiated a purchase U:(https://en.wikipedia.org/wiki/Batman%27s_Treaty)___ of 2,400 km 2 (600,000 acres) with eight Wurundjeri elders."
+        },
+        {
+            "id": "Melbourne - Wikipedia#38",
+            "sentence": "However, the nature of the treaty has been heavily disputed, as none of the parties spoke the same language, and the elders likely perceived it as part of the gift exchanges which had taken place over the previous few days amounting to a ___E:tanderrum U:(https://en.wikipedia.org/wiki/Tanderrum)___ ceremony which allows temporary access to and use of the land.   Batman selected a site on the northern bank of the ___E:Yarra River U:(https://en.wikipedia.org/wiki/Yarra_River)___ , declaring that \"this will be the place for a village\" before returning to Van Diemen's Land.  In August 1835, another group of Vandemonian settlers arrived in the area and established a settlement at the site of the current ___E:Melbourne Immigration Museum U:(https://en.wikipedia.org/wiki/Immigration_Museum,_Melbourne)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#39",
+            "sentence": "Batman and his group arrived the following month and the two groups ultimately agreed to share the settlement, initially known by the native name of Dootigala."
+        },
+        {
+            "id": "Melbourne - Wikipedia#40",
+            "sentence": "Batman's Treaty with the Aboriginal elders was annulled by ___E:Richard Bourke U:(https://en.wikipedia.org/wiki/Richard_Bourke)___ , the ___E:Governor of New South Wales U:(https://en.wikipedia.org/wiki/Governor_of_New_South_Wales)___ (who at the time governed all of eastern mainland Australia), with compensation paid to members of the association."
+        },
+        {
+            "id": "Melbourne - Wikipedia#41",
+            "sentence": "In 1836, Bourke declared the city the administrative capital of the ___E:Port Phillip District U:(https://en.wikipedia.org/wiki/Port_Phillip_District)___ of ___E:New South Wales U:(https://en.wikipedia.org/wiki/New_South_Wales)___ , and commissioned the first plan for its urban layout, the ___E:Hoddle Grid U:(https://en.wikipedia.org/wiki/Hoddle_Grid)___ , in 1837.  Known briefly as Batmania,  the settlement was named Melbourne on 10 April 1837 by Bourke  after the ___E:British Prime Minister U:(https://en.wikipedia.org/wiki/Prime_Minister_of_the_United_Kingdom)___ , ___E:William Lamb, 2nd Viscount Melbourne U:(https://en.wikipedia.org/wiki/William_Lamb,_2nd_Viscount_Melbourne)___ , whose ___E:seat U:(https://en.wikipedia.org/wiki/Family_seat)___ was ___E:Melbourne Hall U:(https://en.wikipedia.org/wiki/Melbourne_Hall)___ in the ___E:market town U:(https://en.wikipedia.org/wiki/Market_town)___ of ___E:Melbourne, Derbyshire U:(https://en.wikipedia.org/wiki/Melbourne,_Derbyshire)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#42",
+            "sentence": "That year, the settlement's ___E:general post office U:(https://en.wikipedia.org/wiki/General_Post_Office,_Melbourne)___ officially opened with that name."
+        },
+        {
+            "id": "Melbourne - Wikipedia#43",
+            "sentence": "Between 1836 and 1842, Victorian Aboriginal groups were largely dispossessed of their land by British colonists."
+        },
+        {
+            "id": "Melbourne - Wikipedia#44",
+            "sentence": "In 1840, the Superintendent of the ___E:Port Phillip District U:(https://en.wikipedia.org/wiki/Port_Phillip_District)___ , ___E:Charles La Trobe U:(https://en.wikipedia.org/wiki/Charles_La_Trobe)___ issued a directive to banish Aboriginals from the immediate vicinity of Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#45",
+            "sentence": "This was enforced later that same year by the mass-arrest and imprisonment of hundreds of Indigenous people during the ___E:Lettsom raid U:(https://en.wikipedia.org/wiki/Lettsom_raid)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#46",
+            "sentence": "However, Aboriginal people still managed to continue living near the settlement and by January 1844 there were said to be 675 residing in squalid camps around Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#47",
+            "sentence": "The British Colonial Office had appointed five ___E:Aboriginal Protectors U:(https://en.wikipedia.org/wiki/Protector_of_Aborigines)___ for the Aboriginal people of Victoria, in 1839, but their work was nullified by a land policy that favoured ___E:squatters U:(https://en.wikipedia.org/wiki/Squatting_(pastoral))___ who took possession of Aboriginal lands."
+        },
+        {
+            "id": "Melbourne - Wikipedia#48",
+            "sentence": "By 1845, fewer than 240 wealthy Europeans held all the pastoral licences then issued in Victoria and became a powerful political and economic force in Victoria for generations to come.  ___E:Letters patent U:(https://en.wikipedia.org/wiki/Letters_patent)___ of ___E:Queen Victoria U:(https://en.wikipedia.org/wiki/Victoria_of_the_United_Kingdom)___ , issued on 25 June 1847, declared Melbourne a city.  On 1 July 1851, the Port Phillip District separated from ___E:New South Wales U:(https://en.wikipedia.org/wiki/New_South_Wales)___ to become the Colony of Victoria, with Melbourne as its capital."
+        },
+        {
+            "id": "Melbourne - Wikipedia#49",
+            "sentence": "The discovery of gold in Victoria in mid-1851 sparked ___E:a gold rush U:(https://en.wikipedia.org/wiki/Victorian_gold_rush)___ , and Melbourne, the colony's major port, experienced rapid growth."
+        },
+        {
+            "id": "Melbourne - Wikipedia#50",
+            "sentence": "Within months, the city's population had nearly doubled from 25,000 to 40,000 inhabitants."
+        },
+        {
+            "id": "Melbourne - Wikipedia#51",
+            "sentence": "Exponential growth ensued, and by 1865 Melbourne had overtaken ___E:Sydney U:(https://en.wikipedia.org/wiki/Sydney)___ as Australia's most populous city."
+        },
+        {
+            "id": "Melbourne - Wikipedia#52",
+            "sentence": "An influx of intercolonial and international migrants, particularly from Europe and China, saw the establishment of slums, including ___E:Chinatown U:(https://en.wikipedia.org/wiki/Chinatown,_Melbourne)___ and a temporary \"tent city\" on the southern banks of the Yarra."
+        },
+        {
+            "id": "Melbourne - Wikipedia#53",
+            "sentence": "In the aftermath of the 1854 ___E:Eureka Rebellion U:(https://en.wikipedia.org/wiki/Eureka_Rebellion)___ , mass public support for the plight of the miners resulted in major political changes to the colony, including improvements in working conditions across mining, agriculture, manufacturing and other local industries."
+        },
+        {
+            "id": "Melbourne - Wikipedia#54",
+            "sentence": "At least twenty nationalities took part in the rebellion, giving some indication of immigration flows at the time."
+        },
+        {
+            "id": "Melbourne - Wikipedia#55",
+            "sentence": "With the wealth brought in from the gold rush and the subsequent need for public buildings, a program of grand civic construction soon began."
+        },
+        {
+            "id": "Melbourne - Wikipedia#56",
+            "sentence": "The 1850s and 1860s saw the commencement of ___E:Parliament House U:(https://en.wikipedia.org/wiki/Parliament_House,_Melbourne)___ , the ___E:Treasury Building U:(https://en.wikipedia.org/wiki/Old_Treasury_Building,_Melbourne)___ , the ___E:Old Melbourne Gaol U:(https://en.wikipedia.org/wiki/Old_Melbourne_Gaol)___ , ___E:Victoria Barracks U:(https://en.wikipedia.org/wiki/Victoria_Barracks,_Melbourne)___ , the ___E:State Library U:(https://en.wikipedia.org/wiki/State_Library_of_Victoria)___ , ___E:University of Melbourne U:(https://en.wikipedia.org/wiki/University_of_Melbourne)___ , ___E:General Post Office U:(https://en.wikipedia.org/wiki/Melbourne_GPO)___ , ___E:Customs House U:(https://en.wikipedia.org/wiki/Immigration_Museum,_Melbourne)___ , the ___E:Melbourne Town Hall U:(https://en.wikipedia.org/wiki/Melbourne_Town_Hall)___ , ___E:St Patrick's U:(https://en.wikipedia.org/wiki/St_Patrick%27s_Cathedral,_Melbourne)___ cathedral, though many remained incomplete for decades. [citation needed]"
+        },
+        {
+            "id": "Melbourne - Wikipedia#57",
+            "sentence": "The layout of the inner suburbs on a largely one-mile grid pattern, cut through by wide radial boulevards and parklands surrounding the central city, was largely established in the 1850s and 1860s."
+        },
+        {
+            "id": "Melbourne - Wikipedia#58",
+            "sentence": "These areas rapidly filled with the ubiquitous terrace houses, as well as with detached houses and grand mansions, while some of the major roads developed as shopping streets."
+        },
+        {
+            "id": "Melbourne - Wikipedia#59",
+            "sentence": "Melbourne quickly became a major finance centre, home to several banks, the ___E:Royal Mint U:(https://en.wikipedia.org/wiki/Melbourne_Mint)___ , and (in 1861) Australia's first ___E:stock exchange U:(https://en.wikipedia.org/wiki/Australian_Securities_Exchange)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#60",
+            "sentence": "In 1855, the ___E:Melbourne Cricket Club U:(https://en.wikipedia.org/wiki/Melbourne_Cricket_Club)___ secured possession of its now famous ground, the ___E:MCG U:(https://en.wikipedia.org/wiki/MCG)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#61",
+            "sentence": "Members of the ___E:Melbourne Football Club U:(https://en.wikipedia.org/wiki/Melbourne_Football_Club)___ codified ___E:Australian football U:(https://en.wikipedia.org/wiki/Australian_football)___ in 1859,  and in 1861, the first ___E:Melbourne Cup U:(https://en.wikipedia.org/wiki/Melbourne_Cup)___ race was held. Melbourne acquired its first public monument, the ___E:Burke and Wills U:(https://en.wikipedia.org/wiki/Burke_and_Wills_expedition)___ statue, in 1864."
+        },
+        {
+            "id": "Melbourne - Wikipedia#62",
+            "sentence": "With the gold rush largely over by 1860, Melbourne continued to grow on the back of continuing gold-mining, as the major port for exporting the agricultural products of Victoria (especially wool) and with a developing manufacturing sector protected by high tariffs."
+        },
+        {
+            "id": "Melbourne - Wikipedia#63",
+            "sentence": "An extensive radial railway network spread into the countryside from the late 1850s."
+        },
+        {
+            "id": "Melbourne - Wikipedia#64",
+            "sentence": "Construction started on further major public buildings in the 1860s and 1870s, such as the ___E:Supreme Court U:(https://en.wikipedia.org/wiki/Supreme_Court_of_Victoria)___ , ___E:Government House U:(https://en.wikipedia.org/wiki/Government_House,_Melbourne)___ , and the ___E:Queen Victoria Market U:(https://en.wikipedia.org/wiki/Queen_Victoria_Market)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#65",
+            "sentence": "The central city filled up with shops and offices, workshops, and warehouses."
+        },
+        {
+            "id": "Melbourne - Wikipedia#66",
+            "sentence": "Large banks and hotels faced the main streets, with fine townhouses in the east end of Collins Street, contrasting with tiny cottages down laneways within the blocks."
+        },
+        {
+            "id": "Melbourne - Wikipedia#67",
+            "sentence": "The Aboriginal population continued to decline, with an estimated 80% total decrease by 1863, [citation needed] due primarily to introduced diseases (particularly ___E:smallpox U:(https://en.wikipedia.org/wiki/Smallpox)___  ), frontier violence and dispossession of their lands."
+        },
+        {
+            "id": "Melbourne - Wikipedia#68",
+            "sentence": "The 1880s saw extraordinary growth: consumer confidence, easy access to credit, and steep increases in land prices led to an enormous amount of construction."
+        },
+        {
+            "id": "Melbourne - Wikipedia#69",
+            "sentence": "During this \"land boom\", Melbourne reputedly became the richest city in the world,  and the second-largest (after London) in the ___E:British Empire U:(https://en.wikipedia.org/wiki/British_Empire)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#70",
+            "sentence": "The decade began with the Melbourne International Exhibition in 1880, held in the large purpose-built ___E:Exhibition Building U:(https://en.wikipedia.org/wiki/Royal_Exhibition_Building)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#71",
+            "sentence": "A telephone exchange was established that year, and the foundations of ___E:St Paul's U:(https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral,_Melbourne)___ were laid. In 1881, electric light was installed in the ___E:Eastern Market U:(https://en.wikipedia.org/wiki/Eastern_Market,_Melbourne)___ , and a generating station capable of supplying 2,000 incandescent lamps was in operation by 1882.  The ___E:Melbourne cable tramway system U:(https://en.wikipedia.org/wiki/Melbourne_cable_tramway_system)___ opened in 1885 and became one of the world's most extensive systems by 1890."
+        },
+        {
+            "id": "Melbourne - Wikipedia#72",
+            "sentence": "In 1885, visiting English journalist ___E:George Augustus Henry Sala U:(https://en.wikipedia.org/wiki/George_Augustus_Henry_Sala)___ coined the phrase \"Marvellous Melbourne\", which stuck long into the twentieth century and has come to refer to the opulence and energy of the 1880s,  during which time large commercial buildings, grand hotels, banks, ___E:coffee palaces U:(https://en.wikipedia.org/wiki/Coffee_palace)___ , ___E:terrace housing U:(https://en.wikipedia.org/wiki/Terrace_house)___ and palatial mansions proliferated in the city.  The establishment of the Melbourne Hydraulic Power Company in 1886 led to the availability of high-pressure piped water, allowing for the installation of hydraulically powered ___E:elevators U:(https://en.wikipedia.org/wiki/Elevator)___ , which led to the construction of the first high-rise buildings in the city.   The period also saw the huge expansion of a significant radial rail-based transport network throughout the city and suburbs."
+        },
+        {
+            "id": "Melbourne - Wikipedia#73",
+            "sentence": "Melbourne's land-boom peaked in 1888,  the year it hosted the Centennial Exhibition."
+        },
+        {
+            "id": "Melbourne - Wikipedia#74",
+            "sentence": "The brash ___E:boosterism U:(https://en.wikipedia.org/wiki/Boosterism)___ that had typified Melbourne during that time ended in the early 1890s."
+        },
+        {
+            "id": "Melbourne - Wikipedia#75",
+            "sentence": "The bubble supporting the local finance and property industries burst, resulting in a severe economic depression."
+        },
+        {
+            "id": "Melbourne - Wikipedia#76",
+            "sentence": "Sixteen small ___E:land banks U:(https://en.wikipedia.org/wiki/Land_banking)___ and building societies collapsed, and 133 limited companies went into liquidation."
+        },
+        {
+            "id": "Melbourne - Wikipedia#77",
+            "sentence": "The Melbourne financial crisis was a contributing factor to the ___E:Australian economic depression of the 1890s U:(https://en.wikipedia.org/wiki/Economic_history_of_Australia)___ and the ___E:Australian banking crisis of 1893 U:(https://en.wikipedia.org/wiki/Australian_banking_crisis_of_1893)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#78",
+            "sentence": "The effects of the depression on the city were profound, with virtually no significant construction until the late 1890s."
+        },
+        {
+            "id": "Melbourne - Wikipedia#79",
+            "sentence": "At the time of Australia's ___E:federation U:(https://en.wikipedia.org/wiki/Federation_of_Australia)___ on 1 January 1901 Melbourne became the seat of government of the federated ___E:Commonwealth of Australia U:(https://en.wikipedia.org/wiki/Commonwealth_of_Australia)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#80",
+            "sentence": "The first federal parliament convened on 9 May 1901 in the ___E:Royal Exhibition Building U:(https://en.wikipedia.org/wiki/Royal_Exhibition_Building)___ , subsequently moving to the Victorian Parliament House, where it sat until it moved to ___E:Canberra U:(https://en.wikipedia.org/wiki/Canberra)___ in 1927. The ___E:Governor-General of Australia U:(https://en.wikipedia.org/wiki/Governor-General_of_Australia)___ resided at ___E:Government House U:(https://en.wikipedia.org/wiki/Government_House,_Melbourne)___ in Melbourne until 1930, and many major national institutions remained in Melbourne well into the twentieth century."
+        },
+        {
+            "id": "Melbourne - Wikipedia#81",
+            "sentence": "During ___E:World War II U:(https://en.wikipedia.org/wiki/World_War_II)___ the city hosted American military forces who were fighting the ___E:Empire of Japan U:(https://en.wikipedia.org/wiki/Empire_of_Japan)___ , and the government requisitioned the ___E:Melbourne Cricket Ground U:(https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground)___ for military use."
+        },
+        {
+            "id": "Melbourne - Wikipedia#82",
+            "sentence": "In the immediate years after ___E:World War II U:(https://en.wikipedia.org/wiki/World_War_II)___ , Melbourne expanded rapidly, its growth boosted by ___E:post-war immigration to Australia U:(https://en.wikipedia.org/wiki/Post-war_immigration_to_Australia)___ , primarily from Southern ___E:Europe U:(https://en.wikipedia.org/wiki/Europe)___ and the ___E:Mediterranean U:(https://en.wikipedia.org/wiki/Mediterranean_region)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#83",
+            "sentence": "While the \"Paris End\" of Collins Street began Melbourne's boutique shopping and open air ___E:cafe U:(https://en.wikipedia.org/wiki/Coffeehouse)___ cultures,  the city centre was seen by many as stale—the dreary domain of office workers—something expressed by ___E:John Brack U:(https://en.wikipedia.org/wiki/John_Brack)___ in his famous painting Collins St., 5 pm (1955)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#84",
+            "sentence": "Up until the 21st century, Melbourne was considered Australia's \"industrial heartland\"."
+        },
+        {
+            "id": "Melbourne - Wikipedia#85",
+            "sentence": "Height limits in the CBD were lifted in 1958, after the construction of ___E:ICI House U:(https://en.wikipedia.org/wiki/ICI_House)___ , transforming the city's skyline with the introduction of skyscrapers."
+        },
+        {
+            "id": "Melbourne - Wikipedia#86",
+            "sentence": "Suburban expansion then intensified, served by new indoor malls beginning with ___E:Chadstone Shopping Centre U:(https://en.wikipedia.org/wiki/Chadstone_Shopping_Centre)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#87",
+            "sentence": "The post-war period also saw a major renewal of the CBD and ___E:St Kilda Road U:(https://en.wikipedia.org/wiki/St_Kilda_Road)___ which significantly modernised the city.  New fire regulations and redevelopment saw most of the taller pre-war CBD buildings either demolished or partially retained through a policy of ___E:facadism U:(https://en.wikipedia.org/wiki/Facadism#Melbourne)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#88",
+            "sentence": "Many of the larger suburban mansions from the boom era were also either demolished or subdivided."
+        },
+        {
+            "id": "Melbourne - Wikipedia#89",
+            "sentence": "To counter the trend towards low-density suburban residential growth, the government began a series of controversial public housing projects in the inner city by the ___E:Housing Commission of Victoria U:(https://en.wikipedia.org/wiki/Housing_Commission_of_Victoria)___ , which resulted in the demolition of many neighbourhoods and a proliferation of high-rise towers."
+        },
+        {
+            "id": "Melbourne - Wikipedia#90",
+            "sentence": "In later years, with the rapid rise of motor vehicle ownership, the investment in freeway and highway developments greatly accelerated the outward suburban sprawl and declining inner-city population."
+        },
+        {
+            "id": "Melbourne - Wikipedia#91",
+            "sentence": "The ___E:Bolte U:(https://en.wikipedia.org/wiki/Henry_Bolte)___ government sought to rapidly accelerate the modernisation of Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#92",
+            "sentence": "Major road projects including the remodelling of ___E:St Kilda Junction U:(https://en.wikipedia.org/wiki/St_Kilda_Junction)___ , the widening of ___E:Hoddle Street U:(https://en.wikipedia.org/wiki/Hoddle_Highway)___ and then the extensive ___E:1969 Melbourne Transportation Plan U:(https://en.wikipedia.org/wiki/1969_Melbourne_Transportation_Plan)___ changed the face of the city into a car-dominated environment."
+        },
+        {
+            "id": "Melbourne - Wikipedia#93",
+            "sentence": "Australia's financial and mining booms during 1969 and 1970 resulted in establishment of the headquarters of many major companies ( ___E:BHP U:(https://en.wikipedia.org/wiki/BHP)___ and ___E:Rio Tinto U:(https://en.wikipedia.org/wiki/Rio_Tinto_(corporation))___ , among others) in the city. ___E:Nauru U:(https://en.wikipedia.org/wiki/Nauru)___ 's then booming economy resulted in several ambitious investments in Melbourne, such as ___E:Nauru House U:(https://en.wikipedia.org/wiki/Nauru_House)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#94",
+            "sentence": "Melbourne remained Australia's main business and financial centre until the late 1970s, when it began to lose this primacy to Sydney."
+        },
+        {
+            "id": "Melbourne - Wikipedia#95",
+            "sentence": "Melbourne experienced an economic downturn between 1989 and 1992, following the collapse of several local financial institutions."
+        },
+        {
+            "id": "Melbourne - Wikipedia#96",
+            "sentence": "In 1992, the newly elected ___E:Kennett U:(https://en.wikipedia.org/wiki/Jeff_Kennett)___ government began a campaign to revive the economy with an aggressive development campaign of public works coupled with the promotion of the city as a tourist destination with a focus on major events and sports tourism."
+        },
+        {
+            "id": "Melbourne - Wikipedia#97",
+            "sentence": "During this period the ___E:Australian Grand Prix U:(https://en.wikipedia.org/wiki/Australian_Grand_Prix)___ moved to Melbourne from ___E:Adelaide U:(https://en.wikipedia.org/wiki/Adelaide_Street_Circuit)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#98",
+            "sentence": "Major projects included the construction of a new facility for the ___E:Melbourne Museum U:(https://en.wikipedia.org/wiki/Melbourne_Museum)___ , ___E:Federation Square U:(https://en.wikipedia.org/wiki/Federation_Square)___ , the ___E:Melbourne Convention & Exhibition Centre U:(https://en.wikipedia.org/wiki/Melbourne_Convention_%26_Exhibition_Centre)___ , ___E:Crown Casino U:(https://en.wikipedia.org/wiki/Crown_Melbourne)___ and the ___E:CityLink U:(https://en.wikipedia.org/wiki/CityLink)___ ___E:tollway U:(https://en.wikipedia.org/wiki/Toll_road)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#99",
+            "sentence": "Other strategies included the privatisation of some of Melbourne's services, including power and public transport, and a reduction in funding to public services such as health, education and public transport infrastructure."
+        },
+        {
+            "id": "Melbourne - Wikipedia#100",
+            "sentence": "Since the mid-1990s, Melbourne has maintained significant population and employment growth."
+        },
+        {
+            "id": "Melbourne - Wikipedia#101",
+            "sentence": "There has been substantial international investment in the city's industries and property market."
+        },
+        {
+            "id": "Melbourne - Wikipedia#102",
+            "sentence": "Major inner-city urban renewal has occurred in areas such as ___E:Southbank U:(https://en.wikipedia.org/wiki/Southbank,_Victoria)___ , ___E:Port Melbourne U:(https://en.wikipedia.org/wiki/Port_Melbourne)___ , ___E:Melbourne Docklands U:(https://en.wikipedia.org/wiki/Melbourne_Docklands)___ and ___E:South Wharf U:(https://en.wikipedia.org/wiki/South_Wharf)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#103",
+            "sentence": "Melbourne sustained the highest population increase and economic growth rate of any Australian capital city from 2001 to 2004."
+        },
+        {
+            "id": "Melbourne - Wikipedia#104",
+            "sentence": "From 2006, the growth of the city extended into \"green wedges\" and beyond the city's ___E:urban growth boundary U:(https://en.wikipedia.org/wiki/Urban_growth_boundary)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#105",
+            "sentence": "Predictions of the city's population reaching 5 million people pushed the state government to review the growth boundary in 2008 as part of its Melbourne @ Five Million strategy."
+        },
+        {
+            "id": "Melbourne - Wikipedia#106",
+            "sentence": "In 2009, Melbourne was less affected by the ___E:Great Recession U:(https://en.wikipedia.org/wiki/Great_Recession)___ in comparison to other Australian cities."
+        },
+        {
+            "id": "Melbourne - Wikipedia#107",
+            "sentence": "At this time, more new jobs were created in Melbourne than any other Australian city—almost as many as the next two fastest growing cities, Brisbane and Perth, combined,  and Melbourne's property market remained highly priced,  resulting in historically high property prices and widespread rent increases."
+        },
+        {
+            "id": "Melbourne - Wikipedia#108",
+            "sentence": "Beginning in the 2010s the State Government of Victoria initiated a number of major infrastructure projects designed to reduce congestion in Melbourne and encourage economic growth, including the ___E:Metro Tunnel U:(https://en.wikipedia.org/wiki/Metro_Tunnel)___ , the ___E:West Gate Tunnel U:(https://en.wikipedia.org/wiki/West_Gate_Tunnel)___ , the ___E:Level Crossing Removal Project U:(https://en.wikipedia.org/wiki/Level_Crossing_Removal_Project)___ and the ___E:Suburban Rail Loop U:(https://en.wikipedia.org/wiki/Suburban_Rail_Loop)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#109",
+            "sentence": "New urban renewal zones were initiated in inner-city areas like ___E:Fisherman's Bend U:(https://en.wikipedia.org/wiki/Fishermans_Bend,_Victoria)___ and ___E:Arden U:(https://en.wikipedia.org/wiki/Arden_railway_station,_Melbourne)___ , while suburban growth continued on the urban periphery in Melbourne's outer west and east in suburbs like ___E:Wyndham Vale U:(https://en.wikipedia.org/wiki/Wyndham_Vale)___ and ___E:Cranbourne U:(https://en.wikipedia.org/wiki/Cranbourne,_Victoria)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#110",
+            "sentence": "Middle suburbs like ___E:Box Hill U:(https://en.wikipedia.org/wiki/Box_Hill,_Victoria)___ became denser as a greater proportion of Melburnians began living in apartments."
+        },
+        {
+            "id": "Melbourne - Wikipedia#111",
+            "sentence": "A construction boom resulted in 34 new ___E:skyscrapers U:(https://en.wikipedia.org/wiki/Skyscraper)___ being built in the central business district between 2010 and 2020.  In 2020, Melbourne was classified as an Alpha city by the ___E:Globalization and World Cities Research Network U:(https://en.wikipedia.org/wiki/Globalization_and_World_Cities_Research_Network)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#112",
+            "sentence": "Out of all major Australian cities, Melbourne was the worst affected by the ___E:COVID-19 pandemic U:(https://en.wikipedia.org/wiki/COVID-19_pandemic)___ and spent a long time under lockdown restrictions,  with Melbourne experiencing six lockdowns totalling 262 days.  While this contributed to a net outflow of migration causing a slight reduction in Melbourne's population over the course of 2020 to 2022, Melbourne's population is projected to reach 6.4 million people by 2033–34."
+        },
+        {
+            "id": "Melbourne - Wikipedia#113",
+            "sentence": "Melbourne is in the southeastern part of mainland Australia, within the state of ___E:Victoria U:(https://en.wikipedia.org/wiki/Victoria_(Australia))___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#114",
+            "sentence": "Geologically, it is built on the confluence of ___E:Quaternary U:(https://en.wikipedia.org/wiki/Quaternary)___ lava flows to the west, ___E:Silurian U:(https://en.wikipedia.org/wiki/Silurian)___ ___E:mudstones U:(https://en.wikipedia.org/wiki/Mudstone)___ to the east, and ___E:Holocene U:(https://en.wikipedia.org/wiki/Holocene)___ sand accumulation to the southeast along ___E:Port Phillip U:(https://en.wikipedia.org/wiki/Port_Phillip)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#115",
+            "sentence": "The southeastern suburbs are situated on the ___E:Selwyn fault U:(https://en.wikipedia.org/wiki/Selwyn_fault)___ , which transects ___E:Mount Martha U:(https://en.wikipedia.org/wiki/Mount_Martha,_Victoria)___ and ___E:Cranbourne U:(https://en.wikipedia.org/wiki/Cranbourne,_Victoria)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#116",
+            "sentence": "The western portion of the metropolitan area lies within the ___E:Victorian Volcanic Plain grasslands U:(https://en.wikipedia.org/wiki/Victorian_Volcanic_Plain_grasslands)___ vegetation community,   and the southeast falls in the ___E:Gippsland Plains Grassy Woodland U:(https://en.wikipedia.org/wiki/Gippsland_Plains_Grassy_Woodland)___ zone."
+        },
+        {
+            "id": "Melbourne - Wikipedia#117",
+            "sentence": "Melbourne extends northward through the undulating bushland valleys of the ___E:Yarra Valley U:(https://en.wikipedia.org/wiki/Yarra_Valley)___ 's tributaries— ___E:Moonee Ponds Creek U:(https://en.wikipedia.org/wiki/Moonee_Ponds_Creek)___ (toward ___E:Melbourne Airport U:(https://en.wikipedia.org/wiki/Melbourne_Airport)___ ),  ___E:Merri Creek U:(https://en.wikipedia.org/wiki/Merri_Creek)___ , ___E:Darebin Creek U:(https://en.wikipedia.org/wiki/Darebin_Creek)___ and ___E:Plenty River U:(https://en.wikipedia.org/wiki/Plenty_River)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#118",
+            "sentence": "The city reaches southeast through ___E:Dandenong U:(https://en.wikipedia.org/wiki/Dandenong,_Victoria)___ to the growth corridor of ___E:Pakenham U:(https://en.wikipedia.org/wiki/Pakenham,_Victoria)___ towards ___E:West Gippsland U:(https://en.wikipedia.org/wiki/West_Gippsland)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#119",
+            "sentence": "In the west, it extends along the ___E:Maribyrnong River U:(https://en.wikipedia.org/wiki/Maribyrnong_River)___ and its tributaries north towards ___E:Sunbury U:(https://en.wikipedia.org/wiki/Sunbury,_Victoria)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#120",
+            "sentence": "Melbourne's major bayside beaches are in the various suburbs along the shores of Port Phillip Bay, in areas like ___E:Port Melbourne U:(https://en.wikipedia.org/wiki/Port_Melbourne)___ , ___E:Albert Park U:(https://en.wikipedia.org/wiki/Albert_Park,_Victoria)___ , ___E:St Kilda U:(https://en.wikipedia.org/wiki/St_Kilda,_Victoria)___ , ___E:Elwood U:(https://en.wikipedia.org/wiki/Elwood,_Victoria)___ , ___E:Brighton U:(https://en.wikipedia.org/wiki/Brighton,_Victoria)___ , ___E:Sandringham U:(https://en.wikipedia.org/wiki/Sandringham,_Victoria)___ , ___E:Mentone U:(https://en.wikipedia.org/wiki/Mentone,_Victoria)___ , ___E:Frankston U:(https://en.wikipedia.org/wiki/Frankston,_Victoria)___ , ___E:Altona U:(https://en.wikipedia.org/wiki/Altona,_Victoria)___ , ___E:Williamstown U:(https://en.wikipedia.org/wiki/Williamstown,_Victoria)___ and Werribee South."
+        },
+        {
+            "id": "Melbourne - Wikipedia#121",
+            "sentence": "The nearest ___E:surf U:(https://en.wikipedia.org/wiki/Ocean_surface_wave)___ beaches are 85 km (53 mi) south of the Melbourne CBD in the back-beaches of ___E:Rye U:(https://en.wikipedia.org/wiki/Rye,_Victoria)___ , ___E:Sorrento U:(https://en.wikipedia.org/wiki/Sorrento,_Victoria)___ and ___E:Portsea U:(https://en.wikipedia.org/wiki/Portsea,_Victoria)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#122",
+            "sentence": "Melbourne has a temperate ___E:oceanic climate U:(https://en.wikipedia.org/wiki/Oceanic_climate)___ ( ___E:Köppen climate classification U:(https://en.wikipedia.org/wiki/K%C3%B6ppen_climate_classification)___ Cfb ), with warm summers and cool winters."
+        },
+        {
+            "id": "Melbourne - Wikipedia#123",
+            "sentence": "Melbourne is well known for its ___E:changeable weather conditions U:(https://en.wikipedia.org/wiki/Southerly_buster)___ , mainly due to it being located on the boundary of hot inland areas and the cool southern ocean."
+        },
+        {
+            "id": "Melbourne - Wikipedia#124",
+            "sentence": "This temperature differential is most pronounced in the spring and summer months and can cause strong ___E:cold fronts U:(https://en.wikipedia.org/wiki/Cold_front)___ to form. These cold fronts can be responsible for varied forms of severe weather from ___E:gales U:(https://en.wikipedia.org/wiki/Gale)___ to ___E:thunderstorms U:(https://en.wikipedia.org/wiki/Thunderstorm)___ and ___E:hail U:(https://en.wikipedia.org/wiki/Hail)___ , large temperature drops and heavy rain. Winters, while exceptionally dry by southern Victorian standards, are nonetheless drizzly and overcast."
+        },
+        {
+            "id": "Melbourne - Wikipedia#125",
+            "sentence": "The lack of winter rainfall is because of Melbourne's ___E:rain shadowed U:(https://en.wikipedia.org/wiki/Rain_shadow)___ location between the ___E:Otway U:(https://en.wikipedia.org/wiki/Otway_Ranges)___ and ___E:Macedon Ranges U:(https://en.wikipedia.org/wiki/Macedon_Ranges)___ , which block much of the rainfall arriving from the north and west."
+        },
+        {
+            "id": "Melbourne - Wikipedia#126",
+            "sentence": "___E:Port Phillip U:(https://en.wikipedia.org/wiki/Port_Phillip)___ is often warmer than the surrounding oceans or the land mass, particularly in spring and autumn; this can set up a \" ___E:bay effect rain U:(https://en.wikipedia.org/wiki/Lake-effect_rain)___ \", where showers are intensified leeward of the bay. Relatively narrow streams of heavy showers can often affect the same places (usually the eastern suburbs) for an extended period, while the rest of Melbourne and surrounds stays dry. Overall, the area around Melbourne is, owing to its rain shadow, nonetheless significantly drier than average for southern Victoria."
+        },
+        {
+            "id": "Melbourne - Wikipedia#127",
+            "sentence": "Within the city and surrounds, rainfall varies widely, from around 425 mm (17 in) at ___E:Little River U:(https://en.wikipedia.org/wiki/Little_River,_Victoria)___ to 1,250 mm (49 in) on the eastern fringe at ___E:Gembrook U:(https://en.wikipedia.org/wiki/Gembrook,_Victoria)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#128",
+            "sentence": "Melbourne receives 48.6 clear days annually."
+        },
+        {
+            "id": "Melbourne - Wikipedia#129",
+            "sentence": "Dewpoint temperatures in the summer range from 9.5 to 11.7 °C (49.1 to 53.1 °F)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#130",
+            "sentence": "Melbourne is also prone to isolated convective showers forming when a ___E:cold pool U:(https://en.wikipedia.org/wiki/Cold_pool)___ crosses the state, especially if there is considerable daytime heating."
+        },
+        {
+            "id": "Melbourne - Wikipedia#131",
+            "sentence": "These showers are often heavy and can include hail, squalls, and significant drops in temperature, but they often pass through very quickly with a rapid clearing trend to sunny and relatively calm weather and the temperature rising back to what it was before the shower."
+        },
+        {
+            "id": "Melbourne - Wikipedia#132",
+            "sentence": "This can occur in the space of minutes and can be repeated many times a day, giving Melbourne a reputation for having \"four seasons in one day\",  a phrase that is part of local ___E:popular culture U:(https://en.wikipedia.org/wiki/Popular_culture)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#133",
+            "sentence": "The lowest temperature on record is −2.8 °C (27.0 °F), on 21 July 1869.  The highest temperature recorded in Melbourne city was 46.4 °C (115.5 °F), on ___E:7 February 2009 U:(https://en.wikipedia.org/wiki/Black_Saturday_bushfires)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#134",
+            "sentence": "While ___E:snow U:(https://en.wikipedia.org/wiki/Snow_in_Australia)___ is occasionally seen at higher elevations in the outskirts of the city, and dustings were observed in 2020, it has not been recorded in the central business district since 1986."
+        },
+        {
+            "id": "Melbourne - Wikipedia#135",
+            "sentence": "The sea temperature in Melbourne is warmer than the surrounding ocean during the summer months, and colder during the winter months."
+        },
+        {
+            "id": "Melbourne - Wikipedia#136",
+            "sentence": "This is predominantly due to Port Phillip Bay being an enclosed and shallow bay that is largely protected from the ocean,  resulting in greater temperature variation across seasons."
+        },
+        {
+            "id": "Melbourne - Wikipedia#137",
+            "sentence": "Melbourne's ___E:urban area U:(https://en.wikipedia.org/wiki/Urban_area)___ is approximately 2,704 km 2 , the largest in Australia and the 33rd largest in the world."
+        },
+        {
+            "id": "Melbourne - Wikipedia#138",
+            "sentence": "The ___E:Hoddle Grid U:(https://en.wikipedia.org/wiki/Hoddle_Grid)___ , a grid of streets measuring approximately .mw-parser-output .frac{white-space:nowrap}.mw-parser-output .frac .num,.mw-parser-output .frac .den{font-size:80%;line-height:0;vertical-align:super}.mw-parser-output .frac .den{vertical-align:sub}.mw-parser-output .sr-only{border:0;clip:rect(0,0,0,0);clip-path:polygon(0px 0px,0px 0px,0px 0px);height:1px;margin:-1px;overflow:hidden;padding:0;position:absolute;width:1px} 1 by 1⁄2 mi (1.61 by 0.80 km), forms the nucleus of Melbourne's ___E:central business district U:(https://en.wikipedia.org/wiki/Central_business_district)___ (CBD)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#139",
+            "sentence": "The grid's southern edge fronts onto the ___E:Yarra River U:(https://en.wikipedia.org/wiki/Yarra_River)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#140",
+            "sentence": "More recent office, commercial and public developments in the adjoining districts of ___E:Southbank U:(https://en.wikipedia.org/wiki/Southbank,_Victoria)___ and ___E:Docklands U:(https://en.wikipedia.org/wiki/Melbourne_Docklands)___ have made these areas into extensions of the CBD in all but name. A byproduct of the CBD's layout is its network of lanes and ___E:arcades U:(https://en.wikipedia.org/wiki/Arcade_(architecture))___ , such as ___E:Block Arcade U:(https://en.wikipedia.org/wiki/Block_Arcade,_Melbourne)___ and ___E:Royal Arcade U:(https://en.wikipedia.org/wiki/Royal_Arcade,_Melbourne)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#141",
+            "sentence": "Melbourne's CBD has become Australia's most densely populated area, with approximately 19,500 residents per square kilometre,  and is home to ___E:more skyscrapers than any other Australian city U:(https://en.wikipedia.org/wiki/List_of_tallest_buildings_in_Australia#Cities_with_the_most_skyscrapers)___ , the tallest being ___E:Australia 108 U:(https://en.wikipedia.org/wiki/Australia_108)___ , situated in Southbank."
+        },
+        {
+            "id": "Melbourne - Wikipedia#142",
+            "sentence": "Melbourne's newest planned skyscraper, ___E:Southbank By Beulah U:(https://en.wikipedia.org/wiki/Southbank_by_Beulah)___  (also known as \"Green Spine\"), has recently been approved for construction and will likely be the tallest building in Australia when completed."
+        },
+        {
+            "id": "Melbourne - Wikipedia#143",
+            "sentence": "The CBD and surrounds also contain many significant historic buildings such as the ___E:Royal Exhibition Building U:(https://en.wikipedia.org/wiki/Royal_Exhibition_Building)___ , the ___E:Melbourne Town Hall U:(https://en.wikipedia.org/wiki/Melbourne_Town_Hall)___ and ___E:Parliament House U:(https://en.wikipedia.org/wiki/Parliament_House,_Melbourne)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#144",
+            "sentence": "Although the area is described as the centre , it is not actually the demographic centre of Melbourne at all, due to an urban sprawl to the southeast, the demographic centre being located at ___E:Camberwell U:(https://en.wikipedia.org/wiki/Camberwell,_Victoria)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#145",
+            "sentence": "Melbourne is typical of Australian capital cities in that after the turn of the 20th century, it expanded with the underlying notion of a 'quarter acre home and garden' for every family, often referred to locally as the ___E:Australian Dream U:(https://en.wikipedia.org/wiki/Australian_Dream)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#146",
+            "sentence": "This, coupled with the popularity of the private automobile after 1945, led to the auto-centric urban structure now present today in the middle and outer suburbs."
+        },
+        {
+            "id": "Melbourne - Wikipedia#147",
+            "sentence": "Much of ___E:metropolitan U:(https://en.wikipedia.org/wiki/Metropolitan_area)___ Melbourne is accordingly characterised by low-density sprawl, whilst its inner-city areas feature predominantly medium-density, transit-oriented urban forms."
+        },
+        {
+            "id": "Melbourne - Wikipedia#148",
+            "sentence": "The city centre, Docklands, St. Kilda Road and Southbank areas feature high-density forms."
+        },
+        {
+            "id": "Melbourne - Wikipedia#149",
+            "sentence": "Melbourne is often referred to as Australia's garden city, and the state of Victoria is known as the garden state ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#150",
+            "sentence": "There is an abundance of ___E:parks and gardens in Melbourne U:(https://en.wikipedia.org/wiki/Melbourne_parks_and_gardens)___ ,  many close to the ___E:CBD U:(https://en.wikipedia.org/wiki/Melbourne_Central_Business_District)___ with a variety of common and rare plant species amid landscaped vistas, pedestrian pathways and tree-lined avenues."
+        },
+        {
+            "id": "Melbourne - Wikipedia#151",
+            "sentence": "Melbourne's parks are often considered the best public parks in all of Australia's major cities."
+        },
+        {
+            "id": "Melbourne - Wikipedia#152",
+            "sentence": "There are also many parks in the surrounding suburbs of Melbourne, such as in the municipalities of ___E:Stonnington U:(https://en.wikipedia.org/wiki/City_of_Stonnington)___ , ___E:Boroondara U:(https://en.wikipedia.org/wiki/City_of_Boroondara)___ and ___E:Port Phillip U:(https://en.wikipedia.org/wiki/City_of_Port_Phillip)___ , southeast of the central business district."
+        },
+        {
+            "id": "Melbourne - Wikipedia#153",
+            "sentence": "Several ___E:national parks U:(https://en.wikipedia.org/wiki/National_park)___ have been designated around the urban area of Melbourne, including the ___E:Mornington Peninsula National Park U:(https://en.wikipedia.org/wiki/Mornington_Peninsula_National_Park)___ , ___E:Port Phillip Heads Marine National Park U:(https://en.wikipedia.org/wiki/Port_Phillip_Heads_Marine_National_Park)___ and ___E:Point Nepean National Park U:(https://en.wikipedia.org/wiki/Point_Nepean,_Victoria)___ in the southeast, ___E:Organ Pipes National Park U:(https://en.wikipedia.org/wiki/Organ_Pipes_National_Park)___ to the north and ___E:Dandenong Ranges National Park U:(https://en.wikipedia.org/wiki/Dandenong_Ranges_National_Park)___ to the east. There are also a number of significant state parks just outside Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#154",
+            "sentence": "The extensive area covered by urban Melbourne is formally divided into hundreds of suburbs (for addressing and postal purposes), and administered as local government areas,  31 of which are located within the metropolitan area."
+        },
+        {
+            "id": "Melbourne - Wikipedia#155",
+            "sentence": "Melbourne has minimal public housing and high demand for rental housing, which is becoming unaffordable for many.    Public housing is managed and provided by the ___E:Victorian Government's U:(https://en.wikipedia.org/wiki/Victoria_State_Government)___ ___E:Department of Families, Fairness and Housing U:(https://en.wikipedia.org/wiki/Department_of_Families,_Fairness_and_Housing)___ , and operates within the framework of the Commonwealth-State Housing Agreement, by which both federal and state governments provide funding for housing."
+        },
+        {
+            "id": "Melbourne - Wikipedia#156",
+            "sentence": "Melbourne is experiencing high population growth, generating high demand for housing."
+        },
+        {
+            "id": "Melbourne - Wikipedia#157",
+            "sentence": "This housing boom has increased house prices and rents, as well as the availability of all types of housing. ___E:Subdivision U:(https://en.wikipedia.org/wiki/Subdivision_(land))___ regularly occurs in the outer areas of Melbourne, with numerous developers offering house and land packages."
+        },
+        {
+            "id": "Melbourne - Wikipedia#158",
+            "sentence": "However, since the release of ___E:Melbourne 2030 U:(https://en.wikipedia.org/wiki/Melbourne_2030)___ in 2002, planning policies have encouraged ___E:medium-density U:(https://en.wikipedia.org/wiki/Medium-density_housing)___ and ___E:high-density U:(https://en.wikipedia.org/wiki/High_density_housing)___ development in existing areas with good access to ___E:public transport U:(https://en.wikipedia.org/wiki/Public_transport)___ and other services."
+        },
+        {
+            "id": "Melbourne - Wikipedia#159",
+            "sentence": "As a result of this, Melbourne's middle and outer-ring suburbs have seen significant ___E:brownfields U:(https://en.wikipedia.org/wiki/Brownfield_land)___ redevelopment."
+        },
+        {
+            "id": "Melbourne - Wikipedia#160",
+            "sentence": "On the back of the 1850s gold rush and 1880s land boom, Melbourne became renowned as one of the world's great Victorian-era cities, a reputation that persists due to its diverse range of ___E:Victorian architecture U:(https://en.wikipedia.org/wiki/Victorian_architecture)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#161",
+            "sentence": "High concentrations of well-preserved Victorian-era buildings can be found in the inner suburbs, such as ___E:Carlton U:(https://en.wikipedia.org/wiki/Carlton,_Victoria)___ , ___E:East Melbourne U:(https://en.wikipedia.org/wiki/East_Melbourne)___ and ___E:South Melbourne U:(https://en.wikipedia.org/wiki/South_Melbourne)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#162",
+            "sentence": "Outstanding examples of Melbourne's built Victorian heritage include the ___E:World Heritage U:(https://en.wikipedia.org/wiki/World_Heritage_Site)___ -listed ___E:Royal Exhibition Building U:(https://en.wikipedia.org/wiki/Royal_Exhibition_Building)___ (1880), the ___E:General Post Office U:(https://en.wikipedia.org/wiki/General_Post_Office,_Melbourne)___ (1867), ___E:Hotel Windsor U:(https://en.wikipedia.org/wiki/Hotel_Windsor_(Melbourne))___ (1884) and the ___E:Block Arcade U:(https://en.wikipedia.org/wiki/Block_Arcade,_Melbourne)___ (1891)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#163",
+            "sentence": "Comparatively little remains of Melbourne's pre-gold rush architecture; ___E:St James Old Cathedral U:(https://en.wikipedia.org/wiki/St_James_Old_Cathedral)___ (1839) and ___E:St Francis' Church U:(https://en.wikipedia.org/wiki/St_Francis%27_Church,_Melbourne)___ (1845) are among the few examples left in the CBD. Many of the CBD's Victorian boom-time landmarks were also demolished in the decades after World War II, including the ___E:Federal Coffee Palace U:(https://en.wikipedia.org/wiki/Federal_Coffee_Palace)___ (1888) and the ___E:APA Building U:(https://en.wikipedia.org/wiki/APA_Building,_Melbourne)___ (1889), one of the tallest ___E:early skyscrapers U:(https://en.wikipedia.org/wiki/Early_skyscraper)___ upon completion.   ___E:Heritage listings U:(https://en.wikipedia.org/wiki/List_of_heritage-listed_buildings_in_Melbourne)___ and ___E:heritage overlays U:(https://en.wikipedia.org/wiki/Heritage_Overlay)___ have since been introduced in an effort to prevent further losses of the city's historic fabric."
+        },
+        {
+            "id": "Melbourne - Wikipedia#164",
+            "sentence": "In line with the city's expansion during the early 20th century, suburbs such as ___E:Hawthorn U:(https://en.wikipedia.org/wiki/Hawthorn,_Victoria)___ and ___E:Camberwell U:(https://en.wikipedia.org/wiki/Camberwell,_Victoria)___ are defined largely by ___E:Federation U:(https://en.wikipedia.org/wiki/Federation_architecture)___ and ___E:Edwardian U:(https://en.wikipedia.org/wiki/Edwardian_architecture)___ architectural styles."
+        },
+        {
+            "id": "Melbourne - Wikipedia#165",
+            "sentence": "The ___E:City Baths U:(https://en.wikipedia.org/wiki/City_Baths,_Melbourne)___ , built in 1903, are a prominent example of the latter style in the CBD. The 1926 ___E:Nicholas Building U:(https://en.wikipedia.org/wiki/Nicholas_Building)___ is the city's grandest example of the ___E:Chicago School U:(https://en.wikipedia.org/wiki/Chicago_school_(architecture))___ style, while the influence of ___E:Art Deco U:(https://en.wikipedia.org/wiki/Art_Deco)___ is apparent in the ___E:Manchester Unity Building U:(https://en.wikipedia.org/wiki/Manchester_Unity_Building)___ , completed in 1932. The city also features the ___E:Shrine of Remembrance U:(https://en.wikipedia.org/wiki/Shrine_of_Remembrance)___ , which was built as a memorial to the men and women of Victoria who served in ___E:World War I U:(https://en.wikipedia.org/wiki/World_War_I)___ and is now a memorial to all Australians who have served in war."
+        },
+        {
+            "id": "Melbourne - Wikipedia#166",
+            "sentence": "Residential architecture is not defined by a single architectural style, but rather an eclectic mix of large ___E:McMansion U:(https://en.wikipedia.org/wiki/McMansion)___ -style houses (particularly in areas of urban sprawl), apartment buildings, condominiums, and townhouses which generally characterise the medium-density inner-city neighbourhoods."
+        },
+        {
+            "id": "Melbourne - Wikipedia#167",
+            "sentence": "Freestanding dwellings with relatively large gardens are perhaps the most common type of housing outside inner city Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#168",
+            "sentence": "Victorian terrace housing, townhouses and historic ___E:Italianate U:(https://en.wikipedia.org/wiki/Italianate)___ , ___E:Tudor Revival U:(https://en.wikipedia.org/wiki/Tudor_Revival)___ and ___E:Neo-Georgian U:(https://en.wikipedia.org/wiki/Georgian_architecture)___ mansions are all common in inner-city neighbourhoods such as Carlton, Fitzroy and further into suburban enclaves like ___E:Toorak U:(https://en.wikipedia.org/wiki/Toorak)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#169",
+            "sentence": "Often referred to as Australia's cultural capital, Melbourne is known for its music, theatre and arts scenes, as well as its diverse range of cultural events and festivals, including the ___E:Melbourne International Arts Festival U:(https://en.wikipedia.org/wiki/Melbourne_International_Arts_Festival)___ , ___E:Melbourne Fringe Festival U:(https://en.wikipedia.org/wiki/Melbourne_Fringe_Festival)___ and ___E:Moomba U:(https://en.wikipedia.org/wiki/Moomba_Festival)___ , Australia's largest free community festival."
+        },
+        {
+            "id": "Melbourne - Wikipedia#170",
+            "sentence": "For much of the 2010s, Melbourne topped The Economist Intelligence Unit 's list of the ___E:world's most liveable cities U:(https://en.wikipedia.org/wiki/World%27s_most_liveable_cities#World's_Most_Liveable_Cities)___ , partly due to its cultural attributes."
+        },
+        {
+            "id": "Melbourne - Wikipedia#171",
+            "sentence": "___E:State Library Victoria U:(https://en.wikipedia.org/wiki/State_Library_Victoria)___ , founded in 1854, is one of the world's oldest free ___E:public libraries U:(https://en.wikipedia.org/wiki/Public_library)___ and, as of 2018, the fourth most-visited library globally."
+        },
+        {
+            "id": "Melbourne - Wikipedia#172",
+            "sentence": "During the 19th-century boom period, Melbourne-based authors and poets ___E:Marcus Clarke U:(https://en.wikipedia.org/wiki/Marcus_Clarke)___ , ___E:Adam Lindsay Gordon U:(https://en.wikipedia.org/wiki/Adam_Lindsay_Gordon)___ and ___E:Rolf Boldrewood U:(https://en.wikipedia.org/wiki/Rolf_Boldrewood)___ produced classic visions of colonial life,  and many visiting writers recorded literary responses to the city: for ___E:Henry Kendall U:(https://en.wikipedia.org/wiki/Henry_Kendall_(poet))___ , it was a \"wild bleak Bohemia\",  while ___E:Henry Kingsley U:(https://en.wikipedia.org/wiki/Henry_Kingsley)___ stated that, in its rapid growth, Melbourne \"surpasses all human experience\".  ___E:Fergus Hume U:(https://en.wikipedia.org/wiki/Fergus_Hume)___ 's The Mystery of a Hansom Cab (1886), the fastest-selling crime novel of the era, is set in Melbourne, as is Australia's best-selling book of poetry, The Songs of a Sentimental Bloke (1915) by ___E:C. J. Dennis U:(https://en.wikipedia.org/wiki/C._J._Dennis)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#173",
+            "sentence": "Contemporary Melbourne authors who have set novels in the city include ___E:Peter Carey U:(https://en.wikipedia.org/wiki/Peter_Carey_(novelist))___ , ___E:Helen Garner U:(https://en.wikipedia.org/wiki/Helen_Garner)___ and ___E:Gerald Murnane U:(https://en.wikipedia.org/wiki/Gerald_Murnane)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#174",
+            "sentence": "Melbourne has Australia's widest range of bookstores, as well as the nation's largest publishing sector."
+        },
+        {
+            "id": "Melbourne - Wikipedia#175",
+            "sentence": "The city also hosts the ___E:Melbourne Writers Festival U:(https://en.wikipedia.org/wiki/Melbourne_Writers_Festival)___ and the ___E:Victorian Premier's Literary Awards U:(https://en.wikipedia.org/wiki/Victorian_Premier%27s_Literary_Awards)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#176",
+            "sentence": "In 2008, it became the second UNESCO ___E:City of Literature U:(https://en.wikipedia.org/wiki/City_of_Literature)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#177",
+            "sentence": "Melbourne is home to ___E:many theatres U:(https://en.wikipedia.org/wiki/List_of_theatres_in_Melbourne)___ , eight of which are concentrated in the ___E:East End Theatre District U:(https://en.wikipedia.org/wiki/East_End_Theatre_District)___ , including the Victorian era ___E:Athenaeum U:(https://en.wikipedia.org/wiki/Athenaeum,_Melbourne)___ , ___E:Her Majesty's U:(https://en.wikipedia.org/wiki/Her_Majesty%27s_Theatre,_Melbourne)___ and ___E:Princess U:(https://en.wikipedia.org/wiki/Princess_Theatre,_Melbourne)___ theatres, as well as the ___E:Forum U:(https://en.wikipedia.org/wiki/Forum_Theatre)___ and the ___E:Regent U:(https://en.wikipedia.org/wiki/Regent_Theatre,_Melbourne)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#178",
+            "sentence": "Other heritage-listed theatres include the avant-garde picture palace ___E:The Capitol U:(https://en.wikipedia.org/wiki/The_Capitol,_Melbourne)___ and St Kilda's ___E:Palais Theatre U:(https://en.wikipedia.org/wiki/Palais_Theatre)___ , Australia's largest seated theatre with a capacity of 3,000 people."
+        },
+        {
+            "id": "Melbourne - Wikipedia#179",
+            "sentence": "The ___E:Arts Precinct U:(https://en.wikipedia.org/wiki/Melbourne_Arts_Precinct)___ in Southbank is home to ___E:Arts Centre Melbourne U:(https://en.wikipedia.org/wiki/Arts_Centre_Melbourne)___ (which includes the ___E:State Theatre U:(https://en.wikipedia.org/wiki/State_Theatre_(Melbourne))___ and ___E:Hamer Hall U:(https://en.wikipedia.org/wiki/Hamer_Hall,_Melbourne)___ ), as well as the ___E:Melbourne Recital Centre U:(https://en.wikipedia.org/wiki/Melbourne_Recital_Centre)___ , ___E:Malthouse Theatre U:(https://en.wikipedia.org/wiki/Malthouse_Theatre)___ and ___E:Southbank Theatre U:(https://en.wikipedia.org/wiki/Southbank_Theatre)___ , home of the ___E:Melbourne Theatre Company U:(https://en.wikipedia.org/wiki/Melbourne_Theatre_Company)___ , Australia's oldest professional theatre company."
+        },
+        {
+            "id": "Melbourne - Wikipedia#180",
+            "sentence": "The ___E:Australian Ballet U:(https://en.wikipedia.org/wiki/Australian_Ballet)___ , ___E:Opera Australia U:(https://en.wikipedia.org/wiki/Opera_Australia)___ and ___E:Melbourne Symphony Orchestra U:(https://en.wikipedia.org/wiki/Melbourne_Symphony_Orchestra)___ are also based in the precinct."
+        },
+        {
+            "id": "Melbourne - Wikipedia#181",
+            "sentence": "Many of Melbourne's theatres join the ___E:Melbourne Town Hall U:(https://en.wikipedia.org/wiki/Melbourne_Town_Hall)___ in hosting the annual ___E:Melbourne International Comedy Festival U:(https://en.wikipedia.org/wiki/Melbourne_International_Comedy_Festival)___ , one of the world's three largest comedy festivals."
+        },
+        {
+            "id": "Melbourne - Wikipedia#182",
+            "sentence": "Melbourne has been called \"the live music capital of the world\";  one study found it has more music venues per capita than any other world city sampled, with 17.5 million patron visits to 553 venues in 2016.   Australia's first global music star, opera singer ___E:Nellie Melba U:(https://en.wikipedia.org/wiki/Nellie_Melba)___ , took her stage name from her hometown."
+        },
+        {
+            "id": "Melbourne - Wikipedia#183",
+            "sentence": "Composer ___E:Percy Grainger U:(https://en.wikipedia.org/wiki/Percy_Grainger)___ followed her in becoming the most famous Melburnian of the Edwardian era. The ___E:Sidney Myer Music Bowl U:(https://en.wikipedia.org/wiki/Sidney_Myer_Music_Bowl)___ in ___E:Kings Domain U:(https://en.wikipedia.org/wiki/Kings_Domain)___ hosted the largest crowd ever for a music concert in Australia when an estimated 200,000 attendees saw Melbourne band ___E:The Seekers U:(https://en.wikipedia.org/wiki/The_Seekers)___ in 1967.  Airing between 1974 and 1987, Melbourne's Countdown helped launch the careers of local acts as diverse as ___E:AC/DC U:(https://en.wikipedia.org/wiki/AC/DC)___  and ___E:Kylie Minogue U:(https://en.wikipedia.org/wiki/Kylie_Minogue)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#184",
+            "sentence": "Several distinct ___E:post-punk U:(https://en.wikipedia.org/wiki/Post-punk)___ scenes flourished in Melbourne during the late 1970s and early 1980s, including the ___E:Little Band scene U:(https://en.wikipedia.org/wiki/Little_Band_scene)___ and ___E:St Kilda U:(https://en.wikipedia.org/wiki/St_Kilda,_Victoria#Music)___ 's ___E:Crystal Ballroom U:(https://en.wikipedia.org/wiki/Crystal_Ballroom_(Melbourne))___ scene, which gave rise to ___E:Dead Can Dance U:(https://en.wikipedia.org/wiki/Dead_Can_Dance)___ and ___E:Nick Cave and the Bad Seeds U:(https://en.wikipedia.org/wiki/Nick_Cave_and_the_Bad_Seeds)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#185",
+            "sentence": "More recent independent acts from Melbourne to achieve global recognition include ___E:The Avalanches U:(https://en.wikipedia.org/wiki/The_Avalanches)___ , ___E:Gotye U:(https://en.wikipedia.org/wiki/Gotye)___ and ___E:King Gizzard and the Lizard Wizard U:(https://en.wikipedia.org/wiki/King_Gizzard_and_the_Lizard_Wizard)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#186",
+            "sentence": "Melbourne is also regarded as a centre of ___E:EDM U:(https://en.wikipedia.org/wiki/Electronic_dance_music)___ , and lends its name to the ___E:Melbourne Bounce U:(https://en.wikipedia.org/wiki/Electro_house#Melbourne_bounce)___ genre and the ___E:Melbourne Shuffle U:(https://en.wikipedia.org/wiki/Melbourne_Shuffle)___ dance style, both of which emerged from the city's underground ___E:rave U:(https://en.wikipedia.org/wiki/Rave)___ scene."
+        },
+        {
+            "id": "Melbourne - Wikipedia#187",
+            "sentence": "Established in 1861, the ___E:National Gallery of Victoria U:(https://en.wikipedia.org/wiki/National_Gallery_of_Victoria)___ is Australia's oldest and largest art museum, and houses its collection across two sites: ___E:NGV International U:(https://en.wikipedia.org/wiki/National_Gallery_of_Victoria#St_Kilda_Road:_NGV_International)___ in Southbank and ___E:NGV Australia U:(https://en.wikipedia.org/wiki/Ian_Potter_Centre:_NGV_Australia)___ at Federation Square."
+        },
+        {
+            "id": "Melbourne - Wikipedia#188",
+            "sentence": "Several art movements originated in Melbourne, most famously the ___E:Heidelberg School U:(https://en.wikipedia.org/wiki/Heidelberg_School)___ of impressionists, named after ___E:a suburb U:(https://en.wikipedia.org/wiki/Heidelberg,_Victoria)___ where they camped to paint en plein air in the 1880s."
+        },
+        {
+            "id": "Melbourne - Wikipedia#189",
+            "sentence": "The ___E:Australian tonalists U:(https://en.wikipedia.org/wiki/Australian_Tonalism)___ followed in the 1910s,  some of whom founded ___E:Montsalvat U:(https://en.wikipedia.org/wiki/Montsalvat)___ in ___E:Eltham U:(https://en.wikipedia.org/wiki/Eltham,_Victoria)___ , Australia's oldest surviving art colony."
+        },
+        {
+            "id": "Melbourne - Wikipedia#190",
+            "sentence": "Mid-century Melbourne became a stronghold of figurative modernism through the paintings of the ___E:Antipodeans U:(https://en.wikipedia.org/wiki/Antipodeans)___ and ___E:Angry Penguins U:(https://en.wikipedia.org/wiki/Angry_Penguins)___ ; the latter group often met at a pastoral estate in ___E:Bulleen U:(https://en.wikipedia.org/wiki/Bulleen,_Victoria)___ , now the ___E:Heide Museum of Modern Art U:(https://en.wikipedia.org/wiki/Heide_Museum_of_Modern_Art)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#191",
+            "sentence": "The city is also home to the ___E:Australian Centre for Contemporary Art U:(https://en.wikipedia.org/wiki/Australian_Centre_for_Contemporary_Art)___ , as well as numerous independent galleries and artist-run spaces."
+        },
+        {
+            "id": "Melbourne - Wikipedia#192",
+            "sentence": "In the 2000s, ___E:street art proliferated in Melbourne U:(https://en.wikipedia.org/wiki/Street_art_in_Melbourne)___ , with ___E:Banksy U:(https://en.wikipedia.org/wiki/Banksy)___ saying its graffiti scene \"leads the world\",  and \"laneway galleries\" becoming major tourist sites; ___E:Hosier Lane U:(https://en.wikipedia.org/wiki/Hosier_Lane)___ for example attracts more ___E:Instagram hashtags U:(https://en.wikipedia.org/wiki/Instagram#Hashtags)___ than some of the city's traditional destinations, like the ___E:Melbourne Zoo U:(https://en.wikipedia.org/wiki/Melbourne_Zoo)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#193",
+            "sentence": "Melbourne's ___E:many public artworks U:(https://en.wikipedia.org/wiki/List_of_public_art_in_Melbourne)___ range from the ___E:Burke and Wills monument U:(https://commons.wikimedia.org/wiki/File:Burke_and_Wills_Monument.jpg)___ (1865) to the abstract sculpture Vault (1978), the latter a popular reference point amongst Melbourne designers."
+        },
+        {
+            "id": "Melbourne - Wikipedia#194",
+            "sentence": "The oldest film in Australia's ___E:National Film and Sound Archive U:(https://en.wikipedia.org/wiki/National_Film_and_Sound_Archive)___ is of the ___E:1896 Melbourne Cup U:(https://en.wikipedia.org/wiki/1896_Melbourne_Cup)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#195",
+            "sentence": "Melbourne filmmakers spurred Australia's first cinematic boom with The Story of the Kelly Gang (1906), shot a quarter century after ___E:bushranger U:(https://en.wikipedia.org/wiki/Bushranger)___ ___E:Ned Kelly U:(https://en.wikipedia.org/wiki/Ned_Kelly)___ 's execution at ___E:Old Melbourne Gaol U:(https://en.wikipedia.org/wiki/Old_Melbourne_Gaol)___ , and since recognised as the world's first feature-length narrative film.  Melbourne remained a world leader in film production until the mid-1910s, when several factors, including a ___E:ban on bushranger films U:(https://en.wikipedia.org/wiki/Bushranger_ban)___ , contributed to a decades-long decline of the industry."
+        },
+        {
+            "id": "Melbourne - Wikipedia#196",
+            "sentence": "A notable film shot and set in Melbourne during this lull was On the Beach (1959)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#197",
+            "sentence": "In the wake of the 1970s ___E:Australian Film Revival U:(https://en.wikipedia.org/wiki/Australian_New_Wave)___ , many ___E:films have been shot and set in Melbourne U:(https://en.wikipedia.org/wiki/List_of_films_shot_in_Melbourne)___ , including Mad Max (1979),  Romper Stomper (1992),  Chopper (2000) and Animal Kingdom (2010)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#198",
+            "sentence": "The ___E:Melbourne International Film Festival U:(https://en.wikipedia.org/wiki/Melbourne_International_Film_Festival)___ began in 1952 and is one of the world's oldest film festivals."
+        },
+        {
+            "id": "Melbourne - Wikipedia#199",
+            "sentence": "The ___E:AACTA Awards U:(https://en.wikipedia.org/wiki/AACTA_Awards)___ , Australia's top screen awards, were inaugurated by the festival in 1958. ___E:Docklands Studios Melbourne U:(https://en.wikipedia.org/wiki/Docklands_Studios_Melbourne)___ is the city's largest film and television studio complex and has attracted major international productions."
+        },
+        {
+            "id": "Melbourne - Wikipedia#200",
+            "sentence": "Melbourne is also home to the ___E:ACMI U:(https://en.wikipedia.org/wiki/ACMI_(museum))___ , the Australian Centre for the Moving Image."
+        },
+        {
+            "id": "Melbourne - Wikipedia#201",
+            "sentence": "Melbourne has long been regarded as Australia's sporting capital due to the role it has played in the development of Australian sport, the range and quality of its sporting events and venues, and its high rates of spectatorship and participation."
+        },
+        {
+            "id": "Melbourne - Wikipedia#202",
+            "sentence": "The city is also home to ___E:27 professional sports teams U:(https://en.wikipedia.org/wiki/Sport_in_Victoria#Melbourne_2)___ competing at the national level, the most of any Australian city. Melbourne's sporting reputation was recognised in 2016 when, after being ranked as the world's top sports city three times biennially, the Ultimate Sports City Awards in ___E:Switzerland U:(https://en.wikipedia.org/wiki/Switzerland)___ named it 'Sports City of the Decade'."
+        },
+        {
+            "id": "Melbourne - Wikipedia#203",
+            "sentence": "The city has hosted a number of major international sporting events, most notably the ___E:1956 Summer Olympics U:(https://en.wikipedia.org/wiki/1956_Summer_Olympics)___ , the first Olympic Games held outside Europe and the United States."
+        },
+        {
+            "id": "Melbourne - Wikipedia#204",
+            "sentence": "Melbourne also hosted the ___E:2006 Commonwealth Games U:(https://en.wikipedia.org/wiki/2006_Commonwealth_Games)___ , and is home to several major annual international events, including the ___E:Australian Open U:(https://en.wikipedia.org/wiki/Australian_Open)___ , the first of the four ___E:Grand Slam U:(https://en.wikipedia.org/wiki/Grand_Slam_(tennis))___ tennis tournaments."
+        },
+        {
+            "id": "Melbourne - Wikipedia#205",
+            "sentence": "First held in 1861 and declared a public holiday for all Melburnians in 1873, the ___E:Melbourne Cup U:(https://en.wikipedia.org/wiki/Melbourne_Cup)___ is the world's richest handicap horse race, and is known as \"the race that stops a nation\"."
+        },
+        {
+            "id": "Melbourne - Wikipedia#206",
+            "sentence": "The ___E:Formula One U:(https://en.wikipedia.org/wiki/Formula_One)___ ___E:Australian Grand Prix U:(https://en.wikipedia.org/wiki/Australian_Grand_Prix)___ has been held at the ___E:Albert Park Circuit U:(https://en.wikipedia.org/wiki/Albert_Park_Circuit)___ since 1996."
+        },
+        {
+            "id": "Melbourne - Wikipedia#207",
+            "sentence": "___E:Cricket U:(https://en.wikipedia.org/wiki/Cricket)___ was one of the first sports to become organised in Melbourne with the ___E:Melbourne Cricket Club U:(https://en.wikipedia.org/wiki/Melbourne_Cricket_Club)___ forming within three years of settlement."
+        },
+        {
+            "id": "Melbourne - Wikipedia#208",
+            "sentence": "The club manages one of the world's largest stadiums, the 100,000 capacity ___E:Melbourne Cricket Ground U:(https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground)___ (MCG)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#209",
+            "sentence": "Established in 1853, the MCG is notable for hosting the first ___E:Test U:(https://en.wikipedia.org/wiki/Test_cricket)___ match and the first ___E:One Day International U:(https://en.wikipedia.org/wiki/One_Day_International)___ , played between ___E:Australia U:(https://en.wikipedia.org/wiki/Australia_cricket_team)___ and ___E:England U:(https://en.wikipedia.org/wiki/England_cricket_team)___ in 1877 and 1971, respectively."
+        },
+        {
+            "id": "Melbourne - Wikipedia#210",
+            "sentence": "It is also the home of the ___E:National Sports Museum U:(https://en.wikipedia.org/wiki/National_Sports_Museum)___ ,  and serves as the home ground of the ___E:Victoria cricket team U:(https://en.wikipedia.org/wiki/Victoria_cricket_team)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#211",
+            "sentence": "At ___E:Twenty20 U:(https://en.wikipedia.org/wiki/Twenty20)___ level, the ___E:Melbourne Stars U:(https://en.wikipedia.org/wiki/Melbourne_Stars)___ and ___E:Melbourne Renegades U:(https://en.wikipedia.org/wiki/Melbourne_Renegades)___ compete in the ___E:Big Bash League U:(https://en.wikipedia.org/wiki/Big_Bash_League)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#212",
+            "sentence": "___E:Australian rules football U:(https://en.wikipedia.org/wiki/Australian_rules_football)___ , Australia's most popular spectator sport, traces ___E:its origins U:(https://en.wikipedia.org/wiki/Origins_of_Australian_rules_football)___ to matches played in ___E:parklands U:(https://en.wikipedia.org/wiki/Yarra_Park)___ next to the MCG in 1858. Its first laws were codified the following year by the ___E:Melbourne Football Club U:(https://en.wikipedia.org/wiki/Melbourne_Football_Club)___ ,  also a founding member, in 1896, of the ___E:Australian Football League U:(https://en.wikipedia.org/wiki/Australian_Football_League)___ (AFL), the sport's elite professional competition."
+        },
+        {
+            "id": "Melbourne - Wikipedia#213",
+            "sentence": "Headquartered at ___E:Docklands Stadium U:(https://en.wikipedia.org/wiki/Docklands_Stadium)___ , the AFL fields a further eight Melbourne-based clubs: ___E:Carlton U:(https://en.wikipedia.org/wiki/Carlton_Football_Club)___ , ___E:Collingwood U:(https://en.wikipedia.org/wiki/Collingwood_Football_Club)___ , ___E:Essendon U:(https://en.wikipedia.org/wiki/Essendon_Football_Club)___ , ___E:Hawthorn U:(https://en.wikipedia.org/wiki/Hawthorn_Football_Club)___ , ___E:North Melbourne U:(https://en.wikipedia.org/wiki/North_Melbourne_Football_Club)___ , ___E:Richmond U:(https://en.wikipedia.org/wiki/Richmond_Football_Club)___ , ___E:St Kilda U:(https://en.wikipedia.org/wiki/St_Kilda_Football_Club)___ , and the ___E:Western Bulldogs U:(https://en.wikipedia.org/wiki/Western_Bulldogs)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#214",
+            "sentence": "The city hosts up to five AFL matches per round during the home and away season, attracting an average of 40,000 spectators per game.  The ___E:AFL Grand Final U:(https://en.wikipedia.org/wiki/AFL_Grand_Final)___ , traditionally held at the MCG, is the ___E:highest attended club championship event in the world U:(https://en.wikipedia.org/wiki/List_of_sports_attendance_figures)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#215",
+            "sentence": "In ___E:soccer U:(https://en.wikipedia.org/wiki/Soccer)___ , Melbourne is represented in the ___E:A-League U:(https://en.wikipedia.org/wiki/A-League)___ by ___E:Melbourne Victory U:(https://en.wikipedia.org/wiki/Melbourne_Victory_FC)___ , ___E:Melbourne City FC U:(https://en.wikipedia.org/wiki/Melbourne_City_FC)___ and ___E:Western United FC U:(https://en.wikipedia.org/wiki/Western_United_FC)___ , and in ___E:rugby league U:(https://en.wikipedia.org/wiki/Rugby_league)___ it is home to the ___E:National Rugby League U:(https://en.wikipedia.org/wiki/National_Rugby_League)___ team, ___E:Melbourne Storm U:(https://en.wikipedia.org/wiki/Melbourne_Storm)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#216",
+            "sentence": "North American sports have also gained popularity in Melbourne: basketball sides ___E:South East Melbourne Phoenix U:(https://en.wikipedia.org/wiki/South_East_Melbourne_Phoenix)___ and ___E:Melbourne United U:(https://en.wikipedia.org/wiki/Melbourne_United)___ play in the ___E:NBL U:(https://en.wikipedia.org/wiki/National_Basketball_League_(Australia))___ ; ___E:Melbourne Ice U:(https://en.wikipedia.org/wiki/Melbourne_Ice)___ and ___E:Melbourne Mustangs U:(https://en.wikipedia.org/wiki/Melbourne_Mustangs)___ play in the ___E:Australian Ice Hockey League U:(https://en.wikipedia.org/wiki/Australian_Ice_Hockey_League)___ ; and ___E:Melbourne Aces U:(https://en.wikipedia.org/wiki/Melbourne_Aces)___ plays in the ___E:Australian Baseball League U:(https://en.wikipedia.org/wiki/Australian_Baseball_League)___ . ___E:Rowing U:(https://en.wikipedia.org/wiki/Rowing_(sport))___ also forms part of Melbourne's sporting identity, with a number of clubs located on the Yarra River, out of which many Australian Olympians trained."
+        },
+        {
+            "id": "Melbourne - Wikipedia#217",
+            "sentence": "Melbourne has a highly diversified economy with particular strengths in finance, manufacturing, research, IT, education, logistics, transportation and tourism."
+        },
+        {
+            "id": "Melbourne - Wikipedia#218",
+            "sentence": "Melbourne houses the headquarters of many of Australia's largest corporations, including five of the ten largest in the country (based on revenue), and five of the largest seven in the country (based on ___E:market capitalisation U:(https://en.wikipedia.org/wiki/Market_capitalisation)___ );  ___E:ANZ U:(https://en.wikipedia.org/wiki/Australia_%26_New_Zealand_Banking_Group)___ , ___E:BHP U:(https://en.wikipedia.org/wiki/BHP)___ , the ___E:National Australia Bank U:(https://en.wikipedia.org/wiki/National_Australia_Bank)___ , ___E:CSL U:(https://en.wikipedia.org/wiki/CSL_Limited)___ and ___E:Telstra U:(https://en.wikipedia.org/wiki/Telstra)___ , as well as such representative bodies and think tanks as the ___E:Business Council of Australia U:(https://en.wikipedia.org/wiki/Business_Council_of_Australia)___ and the ___E:Australian Council of Trade Unions U:(https://en.wikipedia.org/wiki/Australian_Council_of_Trade_Unions)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#219",
+            "sentence": "Melbourne's suburbs also have the head offices of ___E:Coles Group U:(https://en.wikipedia.org/wiki/Coles_Group)___ (owner of ___E:Coles Supermarkets U:(https://en.wikipedia.org/wiki/Coles_Supermarkets)___ ) and ___E:Wesfarmers U:(https://en.wikipedia.org/wiki/Wesfarmers)___ companies ___E:Bunnings U:(https://en.wikipedia.org/wiki/Bunnings)___ , ___E:Target U:(https://en.wikipedia.org/wiki/Target_Australia)___ , ___E:K-Mart U:(https://en.wikipedia.org/wiki/Kmart_Australia)___ and ___E:Officeworks U:(https://en.wikipedia.org/wiki/Officeworks)___ , as well as the head office for ___E:Australia Post U:(https://en.wikipedia.org/wiki/Australia_Post)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#220",
+            "sentence": "The city is home to Australia's second busiest ___E:seaport U:(https://en.wikipedia.org/wiki/Port_of_Melbourne)___ , after ___E:Port Botany U:(https://en.wikipedia.org/wiki/Port_Botany_(seaport))___ in ___E:Sydney U:(https://en.wikipedia.org/wiki/Sydney)___ .  ___E:Melbourne Airport U:(https://en.wikipedia.org/wiki/Melbourne_Airport)___ provides an entry point for national and international visitors, and is Australia's second busiest airport."
+        },
+        {
+            "id": "Melbourne - Wikipedia#221",
+            "sentence": "Melbourne is also an important financial centre."
+        },
+        {
+            "id": "Melbourne - Wikipedia#222",
+            "sentence": "In the 2024 ___E:Global Financial Centres Index U:(https://en.wikipedia.org/wiki/Global_Financial_Centres_Index)___ , Melbourne was ranked as having the 28th most competitive financial centre in the world."
+        },
+        {
+            "id": "Melbourne - Wikipedia#223",
+            "sentence": "Two of the ___E:big four U:(https://en.wikipedia.org/wiki/Big_Four_(banks))___ banks, the ANZ and National Australia Bank, are headquartered in Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#224",
+            "sentence": "The city has carved out a niche as Australia's leading centre for ___E:superannuation U:(https://en.wikipedia.org/wiki/Superannuation_in_Australia)___ (pension) funds, with 40% of the total, and 65% of ___E:industry super-funds U:(https://en.wikipedia.org/wiki/Industry_superannuation)___ including the AU$109 billion-dollar Federal Government ___E:Future Fund U:(https://en.wikipedia.org/wiki/Future_Fund)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#225",
+            "sentence": "The city was rated 41st within the top 50 financial cities as surveyed by the MasterCard Worldwide Centers of Commerce Index (2008),  second only to Sydney (12th) in Australia."
+        },
+        {
+            "id": "Melbourne - Wikipedia#226",
+            "sentence": "Melbourne is Australia's second-largest industrial centre."
+        },
+        {
+            "id": "Melbourne - Wikipedia#227",
+            "sentence": "It is the Australian base for a number of significant manufacturers including ___E:Boeing Australia U:(https://en.wikipedia.org/wiki/Boeing_Australia)___ , truck-makers ___E:Kenworth U:(https://en.wikipedia.org/wiki/Kenworth)___ and ___E:Iveco U:(https://en.wikipedia.org/wiki/Iveco)___ , ___E:Cadbury U:(https://en.wikipedia.org/wiki/Cadbury)___ as well as ___E:Alstom U:(https://en.wikipedia.org/wiki/Alstom)___ and ___E:Jayco U:(https://en.wikipedia.org/wiki/Jayco)___ , among others."
+        },
+        {
+            "id": "Melbourne - Wikipedia#228",
+            "sentence": "It is also home to a wide variety of other manufacturers, ranging from petrochemicals and pharmaceuticals to fashion garments, paper manufacturing and food processing."
+        },
+        {
+            "id": "Melbourne - Wikipedia#229",
+            "sentence": "The south-eastern suburb of ___E:Scoresby U:(https://en.wikipedia.org/wiki/Scoresby,_Victoria)___ is home to ___E:Nintendo's Australian headquarters U:(https://en.wikipedia.org/wiki/Nintendo_Australia)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#230",
+            "sentence": "The city also has a research and development hub for ___E:Ford Australia U:(https://en.wikipedia.org/wiki/Ford_Australia)___ , as well as a global design studio and technical centre for ___E:General Motors U:(https://en.wikipedia.org/wiki/General_Motors)___ and ___E:Toyota Australia U:(https://en.wikipedia.org/wiki/Toyota_Australia)___ respectively."
+        },
+        {
+            "id": "Melbourne - Wikipedia#231",
+            "sentence": "___E:CSL U:(https://en.wikipedia.org/wiki/CSL_Limited)___ , one of the world's top five biotech companies, and ___E:Sigma Pharmaceuticals U:(https://en.wikipedia.org/wiki/Sigma_Pharmaceuticals)___ have their headquarters in Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#232",
+            "sentence": "The two are the largest listed Australian pharmaceutical companies."
+        },
+        {
+            "id": "Melbourne - Wikipedia#233",
+            "sentence": "Melbourne has an important ___E:ICT U:(https://en.wikipedia.org/wiki/Information_and_communication_technology)___ industry, home to more than half of Australia's top 20 technology companies, and employs over 91,000 people (one third of Australia's ICT workforce), with a turnover of AU$34 billion and export revenues of AU$2.5 billion in 2018.  In addition, tourism also plays an important role in Melbourne's economy, with 10.8 million domestic overnight tourists and 2.9 million international overnight tourists in 2018.  Melbourne has been attracting an increasing share of domestic and international conference markets."
+        },
+        {
+            "id": "Melbourne - Wikipedia#234",
+            "sentence": "Construction began in February 2006 of an AU$1 billion 5000-seat international convention centre, ___E:Hilton Hotel U:(https://en.wikipedia.org/wiki/Hilton_Hotels_%26_Resorts)___ and commercial precinct adjacent to the ___E:Melbourne Convention & Exhibition Centre U:(https://en.wikipedia.org/wiki/Melbourne_Convention_%26_Exhibition_Centre)___ to link development along the ___E:Yarra River U:(https://en.wikipedia.org/wiki/Yarra_River)___ with the ___E:Southbank precinct U:(https://en.wikipedia.org/wiki/Southbank,_Victoria)___ and multibillion-dollar ___E:Docklands U:(https://en.wikipedia.org/wiki/Melbourne_Docklands)___ redevelopment."
+        },
+        {
+            "id": "Melbourne - Wikipedia#235",
+            "sentence": "Melbourne is the second most visited city in Australia and the seventy-third most visited city in the world."
+        },
+        {
+            "id": "Melbourne - Wikipedia#236",
+            "sentence": "In 2018, 10.8 million domestic overnight tourists and 2.9 million international overnight tourists visited Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#237",
+            "sentence": "The most visited attractions are ___E:Federation Square U:(https://en.wikipedia.org/wiki/Federation_Square)___ , ___E:Queen Victoria Market U:(https://en.wikipedia.org/wiki/Queen_Victoria_Market)___ , ___E:Crown Casino U:(https://en.wikipedia.org/wiki/Crown_Melbourne)___ , ___E:Southbank U:(https://en.wikipedia.org/wiki/Southbank,_Victoria)___ , ___E:Melbourne Zoo U:(https://en.wikipedia.org/wiki/Melbourne_Zoo)___ , ___E:Melbourne Aquarium U:(https://en.wikipedia.org/wiki/Melbourne_Aquarium)___ , ___E:Docklands U:(https://en.wikipedia.org/wiki/Docklands,_Victoria)___ , ___E:National Gallery of Victoria U:(https://en.wikipedia.org/wiki/National_Gallery_of_Victoria)___ , ___E:Melbourne Museum U:(https://en.wikipedia.org/wiki/Melbourne_Museum)___ , ___E:Melbourne Observation Deck U:(https://en.wikipedia.org/wiki/Eureka_Tower#Observation_deck_(Melbourne_Skydeck))___ , ___E:Arts Centre Melbourne U:(https://en.wikipedia.org/wiki/The_Arts_Centre)___ , and the ___E:Melbourne Cricket Ground U:(https://en.wikipedia.org/wiki/Melbourne_Cricket_Ground)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#238",
+            "sentence": "The ___E:State Library of Victoria U:(https://en.wikipedia.org/wiki/State_Library_of_Victoria)___ is the fourth most visited in the world.  ___E:Luna Park U:(https://en.wikipedia.org/wiki/Luna_Park,_Melbourne)___ , a theme park modelled on New York's ___E:Coney Island U:(https://en.wikipedia.org/wiki/Coney_Island)___ and Seattle's ___E:Luna Park U:(https://en.wikipedia.org/wiki/Luna_Park,_Seattle)___ ,  is also a popular destination for visitors."
+        },
+        {
+            "id": "Melbourne - Wikipedia#239",
+            "sentence": "In its annual survey of readers, the ___E:Condé Nast Traveler U:(https://en.wikipedia.org/wiki/Cond%C3%A9_Nast_Traveler)___ magazine found that both Melbourne and ___E:Auckland U:(https://en.wikipedia.org/wiki/Auckland)___ were considered the world's friendliest cities in 2014.   Melbourne's laneways and arcades are of particular importance for the city's tourism– ___E:Hosier Lane U:(https://en.wikipedia.org/wiki/Hosier_Lane)___ attracted one million visitors in each year prior to the COVID pandemic."
+        },
+        {
+            "id": "Melbourne - Wikipedia#240",
+            "sentence": "The laneways of Melbourne have been gentrified and now include prominent displays of ___E:street art U:(https://en.wikipedia.org/wiki/Street_art)___ , which attracts international tourists."
+        },
+        {
+            "id": "Melbourne - Wikipedia#241",
+            "sentence": "Melbourne is considered one of the safest world cities for travellers."
+        },
+        {
+            "id": "Melbourne - Wikipedia#242",
+            "sentence": "Melbourne has a renowned culinary scene that attracts international tourists.    ___E:Lygon Street U:(https://en.wikipedia.org/wiki/Lygon_Street)___ , which runs through the inner-northern suburbs of Melbourne, is a popular dining destination with an abundance of Italian and Greek restaurants that date back to earlier European immigration of the city. Food festivals are of particular popularity in Melbourne, many of which are held during early autumn, earning this period the nickname \"mad March\"."
+        },
+        {
+            "id": "Melbourne - Wikipedia#243",
+            "sentence": "The most well-known of these events, the ___E:Melbourne Food and Wine Festival U:(https://en.wikipedia.org/wiki/Melbourne_Food_and_Wine_Festival)___ , takes place over the course of ten days and began in 1993."
+        },
+        {
+            "id": "Melbourne - Wikipedia#244",
+            "sentence": "Melbourne is also home to many annual events and festivals."
+        },
+        {
+            "id": "Melbourne - Wikipedia#245",
+            "sentence": "The ___E:Melbourne International Comedy Festival U:(https://en.wikipedia.org/wiki/Melbourne_International_Comedy_Festival)___ is held every year in March through to April."
+        },
+        {
+            "id": "Melbourne - Wikipedia#246",
+            "sentence": "Established in 1987, it is one of the three largest international comedy festivals in the world."
+        },
+        {
+            "id": "Melbourne - Wikipedia#247",
+            "sentence": "Other notable festivals and events include the ___E:Melbourne Flower and Garden Show U:(https://en.wikipedia.org/wiki/Melbourne_International_Flower_and_Garden_Show)___ , the ___E:Melbourne International Jazz Festival U:(https://en.wikipedia.org/wiki/Melbourne_International_Jazz_Festival)___ , the ___E:Melbourne Royal Show U:(https://en.wikipedia.org/wiki/Melbourne_Royal_Show)___ and the ___E:Midsumma Festival U:(https://en.wikipedia.org/wiki/Midsumma_Festival)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#248",
+            "sentence": "Melbourne is projected to overtake Sydney as Australia's most populous city sometime between 2032 and 2046."
+        },
+        {
+            "id": "Melbourne - Wikipedia#249",
+            "sentence": "After a trend of declining population density since World War II, the city has seen increased density in the inner and ___E:western suburbs U:(https://en.wikipedia.org/wiki/Western_Suburbs_(Melbourne))___ , aided in part by Victorian Government planning, such as ___E:Postcode 3000 U:(https://en.wikipedia.org/wiki/Postcode_3000)___ and ___E:Melbourne 2030 U:(https://en.wikipedia.org/wiki/Melbourne_2030)___ , which have aimed to curtail urban sprawl."
+        },
+        {
+            "id": "Melbourne - Wikipedia#250",
+            "sentence": "As of 2018 [update] , the CBD is the most densely populated area in Australia with more than 19,000 residents per square kilometre, and the inner city suburbs of ___E:Carlton U:(https://en.wikipedia.org/wiki/Carlton,_Victoria)___ , ___E:South Yarra U:(https://en.wikipedia.org/wiki/South_Yarra)___ , ___E:Fitzroy U:(https://en.wikipedia.org/wiki/Fitzroy,_Victoria)___ and ___E:Collingwood U:(https://en.wikipedia.org/wiki/Collingwood,_Victoria)___ make up Victoria's top five."
+        },
+        {
+            "id": "Melbourne - Wikipedia#251",
+            "sentence": "At the 2021 census, the most commonly nominated ancestries were:"
+        },
+        {
+            "id": "Melbourne - Wikipedia#252",
+            "sentence": "At the 2021 census, 0.7% of Melbourne's population identified as being ___E:Indigenous U:(https://en.wikipedia.org/wiki/Indigenous_Australians)___ — ___E:Aboriginal Australians U:(https://en.wikipedia.org/wiki/Aboriginal_Australians)___ and ___E:Torres Strait Islanders U:(https://en.wikipedia.org/wiki/Torres_Strait_Islanders)___ . [note 3]  In Greater Melbourne at the 2021 census, 59.9% of residents were born in Australia."
+        },
+        {
+            "id": "Melbourne - Wikipedia#253",
+            "sentence": "The other most common countries of birth were ___E:India U:(https://en.wikipedia.org/wiki/India)___ (4.9%), ___E:Mainland China U:(https://en.wikipedia.org/wiki/Mainland_China)___ (3.4%), ___E:England U:(https://en.wikipedia.org/wiki/England)___ (2.7%), ___E:Vietnam U:(https://en.wikipedia.org/wiki/Vietnam)___ (1.8%) and ___E:New Zealand U:(https://en.wikipedia.org/wiki/New_Zealand)___ (1.7%)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#254",
+            "sentence": "At the time of the 2021 census, 61.1% of Melburnians speak only English at home. ___E:Mandarin U:(https://en.wikipedia.org/wiki/Mandarin_Chinese)___ (4.3%), ___E:Vietnamese U:(https://en.wikipedia.org/wiki/Vietnamese_language)___ (2.3%), ___E:Greek U:(https://en.wikipedia.org/wiki/Greek_language)___ (2.1%), ___E:Punjabi U:(https://en.wikipedia.org/wiki/Punjabi_language)___ (2%), and ___E:Arabic U:(https://en.wikipedia.org/wiki/Arabic_language)___ (1.8%) were the most common foreign languages spoken at home by residents of Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#255",
+            "sentence": "Melbourne has a wide range of religious faiths, the most widely held of which is ___E:Christianity U:(https://en.wikipedia.org/wiki/Christianity)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#256",
+            "sentence": "This is signified by the city's two large cathedrals— ___E:St Patrick's U:(https://en.wikipedia.org/wiki/St_Patrick%27s_Cathedral,_Melbourne)___ (Roman Catholic), and ___E:St Paul's U:(https://en.wikipedia.org/wiki/St_Paul%27s_Cathedral,_Melbourne)___ (Anglican)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#257",
+            "sentence": "Both were built in the ___E:Victorian era U:(https://en.wikipedia.org/wiki/Victorian_era)___ and are of considerable heritage significance as major landmarks of the city.  In recent years, Greater Melbourne's irreligious community has grown to be one of the largest in Australia."
+        },
+        {
+            "id": "Melbourne - Wikipedia#258",
+            "sentence": "According to the 2021 Census, persons stating that they had ___E:no religion U:(https://en.wikipedia.org/wiki/Irreligion)___ constituted 36.9% of the population.  ___E:Christianity U:(https://en.wikipedia.org/wiki/Christianity)___ was the most popular religious affiliation at 40.1%."
+        },
+        {
+            "id": "Melbourne - Wikipedia#259",
+            "sentence": "The largest Christian denominations were ___E:Catholicism U:(https://en.wikipedia.org/wiki/Catholic_Church_in_Australia)___ (20.8%) and ___E:Anglicanism U:(https://en.wikipedia.org/wiki/Anglicanism_in_Australia)___ (5.5%)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#260",
+            "sentence": "The most popular non-Christian religious affiliations were ___E:Islam U:(https://en.wikipedia.org/wiki/Islam)___ (5.3%), ___E:Hinduism U:(https://en.wikipedia.org/wiki/Hinduism)___ (4.1%), ___E:Buddhism U:(https://en.wikipedia.org/wiki/Buddhism)___ (3.9%), ___E:Sikhism U:(https://en.wikipedia.org/wiki/Sikhism)___ (1.7%) and ___E:Judaism U:(https://en.wikipedia.org/wiki/Judaism)___ (0.9%)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#261",
+            "sentence": "Over 258,000 Muslims live in Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#262",
+            "sentence": "Muslim religious life in Melbourne is centred on about 25 mosques and a number of prayer rooms at university campuses, workplaces and other venues."
+        },
+        {
+            "id": "Melbourne - Wikipedia#263",
+            "sentence": "As of 2000 [update] , Melbourne had the largest population of ___E:Polish Jews U:(https://en.wikipedia.org/wiki/Polish_Jews)___ and Holocaust survivors in Australia, and the largest number of Jewish institutions."
+        },
+        {
+            "id": "Melbourne - Wikipedia#264",
+            "sentence": "Of the top twenty high schools in Australia according to the My Choice Schools Ranking, five are in Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#265",
+            "sentence": "There has also been a rapid increase in the number of International students studying in the city, with Melbourne considered the 5th best student city in the world for studying abroad in the 2026 Best Student Cities ranking by ___E:QS U:(https://en.wikipedia.org/wiki/QS_World_University_Rankings)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#266",
+            "sentence": "Eight public universities operate in Melbourne: the ___E:University of Melbourne U:(https://en.wikipedia.org/wiki/University_of_Melbourne)___ , ___E:Monash University U:(https://en.wikipedia.org/wiki/Monash_University)___ , ___E:Swinburne University of Technology U:(https://en.wikipedia.org/wiki/Swinburne_University_of_Technology)___ , ___E:Deakin University U:(https://en.wikipedia.org/wiki/Deakin_University)___ , ___E:Royal Melbourne Institute of Technology (RMIT University) U:(https://en.wikipedia.org/wiki/RMIT_University)___ , ___E:La Trobe University U:(https://en.wikipedia.org/wiki/La_Trobe_University)___ , ___E:Australian Catholic University (ACU) U:(https://en.wikipedia.org/wiki/Australian_Catholic_University)___ and ___E:Victoria University (VU) U:(https://en.wikipedia.org/wiki/Victoria_University_of_Technology)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#267",
+            "sentence": "Melbourne universities have campuses all over Australia and some internationally."
+        },
+        {
+            "id": "Melbourne - Wikipedia#268",
+            "sentence": "Swinburne University and Monash University have campuses in ___E:Malaysia U:(https://en.wikipedia.org/wiki/Malaysia)___ , RMIT in ___E:Vietnam U:(https://en.wikipedia.org/wiki/Vietnam)___ , with Monash also having a campus in ___E:Indonesia U:(https://en.wikipedia.org/wiki/Indonesia)___ and research centres in ___E:Prato U:(https://en.wikipedia.org/wiki/Prato)___ , Italy, and a joint partnership research academy with ___E:IIT Bombay U:(https://en.wikipedia.org/wiki/IIT_Bombay)___ in ___E:Mumbai U:(https://en.wikipedia.org/wiki/Mumbai)___ , India."
+        },
+        {
+            "id": "Melbourne - Wikipedia#269",
+            "sentence": "The University of Melbourne, the second oldest university in Australia,  is the highest ranked university in Australia across the three major global rankings as of July 2025 – QS (19th)  , ___E:THES U:(https://en.wikipedia.org/wiki/Times_Higher_Education)___ (39th)  and the Academic Ranking of World Universities (37nd)  , with Monash University also ranking within the top 50 – QS (36th)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#270",
+            "sentence": "Both are members of the ___E:Group of Eight U:(https://en.wikipedia.org/wiki/Group_of_Eight_(Australian_universities))___ , a coalition of leading Australian tertiary institutions offering comprehensive and leading education."
+        },
+        {
+            "id": "Melbourne - Wikipedia#271",
+            "sentence": "As of 2025 ___E:RMIT University U:(https://en.wikipedia.org/wiki/RMIT_University)___ is ranked 21st in the world in Architecture."
+        },
+        {
+            "id": "Melbourne - Wikipedia#272",
+            "sentence": "The ___E:Swinburne University of Technology U:(https://en.wikipedia.org/wiki/Swinburne_University_of_Technology)___ , based in the inner-city Melbourne suburb of Hawthorn, was as of 2014 ranked 76th–100th in the world for physics by the Academic Ranking of World Universities.  ___E:Deakin University U:(https://en.wikipedia.org/wiki/Deakin_University)___ maintains two major campuses in Melbourne and Geelong, and is the third largest university in Victoria."
+        },
+        {
+            "id": "Melbourne - Wikipedia#273",
+            "sentence": "In recent years, the number of ___E:international students U:(https://en.wikipedia.org/wiki/International_student)___ at Melbourne's universities has risen rapidly, a result of an increasing number of places being made available for them.  Education in Melbourne is overseen by the Victorian ___E:Department of Education U:(https://en.wikipedia.org/wiki/Department_of_Education_and_Training_(Victoria))___ (DET), whose role is to 'provide policy and planning advice for the delivery of education'."
+        },
+        {
+            "id": "Melbourne - Wikipedia#274",
+            "sentence": "Three daily newspapers serve Melbourne: the Herald Sun (tabloid), The Age (compact) and The Australian (national broadsheet)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#275",
+            "sentence": "There are six primary free-to-air ___E:digital television U:(https://en.wikipedia.org/wiki/Digital_television)___ stations operating in Greater Melbourne and Geelong: ___E:ABC U:(https://en.wikipedia.org/wiki/ABC_Television_(Australian_TV_network))___ Victoria, ( ___E:ABV U:(https://en.wikipedia.org/wiki/ABV_(TV_station))___ ), ___E:SBS U:(https://en.wikipedia.org/wiki/Special_Broadcasting_Service)___ Victoria (SBS), ___E:Seven U:(https://en.wikipedia.org/wiki/Seven_Network)___ Melbourne ( ___E:HSV U:(https://en.wikipedia.org/wiki/HSV_(TV_station))___ ), ___E:Nine U:(https://en.wikipedia.org/wiki/Nine_Network)___ Melbourne ( ___E:GTV U:(https://en.wikipedia.org/wiki/GTV_(Australia))___ ), ___E:Ten U:(https://en.wikipedia.org/wiki/Network_10)___ Melbourne ( ___E:ATV U:(https://en.wikipedia.org/wiki/ATV_(Australia))___ ), ___E:C31 Melbourne U:(https://en.wikipedia.org/wiki/C31_Melbourne)___ (MGV) – community television."
+        },
+        {
+            "id": "Melbourne - Wikipedia#276",
+            "sentence": "Each station (excluding C31) broadcasts a primary channel and several multichannels."
+        },
+        {
+            "id": "Melbourne - Wikipedia#277",
+            "sentence": "Some digital media companies such as ___E:Broadsheet U:(https://en.wikipedia.org/wiki/Broadsheet_(website))___ are based in and primarily serve Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#278",
+            "sentence": "Many AM and FM radio stations broadcast to greater Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#279",
+            "sentence": "These include public (i.e., state-owned ___E:ABC U:(https://en.wikipedia.org/wiki/ABC_Radio_(Australia))___ and ___E:SBS U:(https://en.wikipedia.org/wiki/SBS_Radio)___ ) and ___E:community U:(https://en.wikipedia.org/wiki/Community_radio#Australia)___ stations."
+        },
+        {
+            "id": "Melbourne - Wikipedia#280",
+            "sentence": "Many ___E:commercial U:(https://en.wikipedia.org/wiki/Commercial_broadcasting)___ stations are networked-owned: ___E:Nova Entertainment U:(https://en.wikipedia.org/wiki/Nova_Entertainment)___ owns ___E:Nova 100 U:(https://en.wikipedia.org/wiki/Nova_100)___ and ___E:Smooth U:(https://en.wikipedia.org/wiki/Smooth_91.5)___ ; ___E:ARN U:(https://en.wikipedia.org/wiki/Australian_Radio_Network)___ controls ___E:Gold 104.3 U:(https://en.wikipedia.org/wiki/Gold_104.3)___ and ___E:KIIS 101.1 U:(https://en.wikipedia.org/wiki/KIIS_101.1)___ ; and ___E:Southern Cross Austereo U:(https://en.wikipedia.org/wiki/Southern_Cross_Austereo)___ runs both ___E:Fox U:(https://en.wikipedia.org/wiki/Fox_FM_(Melbourne))___ and ___E:Triple M U:(https://en.wikipedia.org/wiki/Triple_M_Melbourne)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#281",
+            "sentence": "Youth stations include ABC ___E:Triple J U:(https://en.wikipedia.org/wiki/Triple_J)___ and youth-run ___E:SYN U:(https://en.wikipedia.org/wiki/3SYN)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#282",
+            "sentence": "Triple J, and community stations ___E:PBS U:(https://en.wikipedia.org/wiki/3PBS)___ and ___E:Triple R U:(https://en.wikipedia.org/wiki/3RRR)___ , strive to play under represented music. ___E:JOY 94.9 U:(https://en.wikipedia.org/wiki/3JOY)___ caters for gay, lesbian, bisexual and transgender audiences. ___E:3MBS U:(https://en.wikipedia.org/wiki/3MBS)___ and ___E:ABC Classic FM U:(https://en.wikipedia.org/wiki/ABC_Classic_FM)___ play classical music. ___E:Light FM U:(https://en.wikipedia.org/wiki/Light_FM)___ is a contemporary Christian station."
+        },
+        {
+            "id": "Melbourne - Wikipedia#283",
+            "sentence": "AM stations include ABC: ___E:ABC Radio Melbourne U:(https://en.wikipedia.org/wiki/ABC_Radio_Melbourne)___ , ___E:Radio National U:(https://en.wikipedia.org/wiki/Radio_National)___ , and ___E:News Radio U:(https://en.wikipedia.org/wiki/ABC_NewsRadio)___ ; also ___E:Nine Entertainment U:(https://en.wikipedia.org/wiki/Nine_Entertainment)___ affiliates ___E:3AW U:(https://en.wikipedia.org/wiki/3AW)___ ( ___E:talk U:(https://en.wikipedia.org/wiki/Talk_radio)___ ) and ___E:Magic U:(https://en.wikipedia.org/wiki/Magic_1278)___ ( ___E:easy listening U:(https://en.wikipedia.org/wiki/Easy_listening)___ ). ___E:SEN 1116 U:(https://en.wikipedia.org/wiki/SEN_1116)___ broadcasts sports coverage."
+        },
+        {
+            "id": "Melbourne - Wikipedia#284",
+            "sentence": "Melbourne has many community run stations that serve alternative interests, such as ___E:3CR U:(https://en.wikipedia.org/wiki/3CR_(Melbourne))___ and ___E:3KND U:(https://en.wikipedia.org/wiki/3KND)___ (Indigenous)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#285",
+            "sentence": "Many suburbs have low powered community run stations serving local audiences."
+        },
+        {
+            "id": "Melbourne - Wikipedia#286",
+            "sentence": "The governance of Melbourne is split between the ___E:government of Victoria U:(https://en.wikipedia.org/wiki/Government_of_Victoria)___ and the ___E:27 cities and four shires U:(https://en.wikipedia.org/wiki/Local_Government_Areas_of_Victoria#Municipalities_of_Greater_Melbourne)___ that make up the metropolitan area. There is no ceremonial or political head of Melbourne, but the ___E:Lord Mayor of the City of Melbourne U:(https://en.wikipedia.org/wiki/Lord_Mayor_of_Melbourne)___ often fulfils such a role as a first among equals."
+        },
+        {
+            "id": "Melbourne - Wikipedia#287",
+            "sentence": "The local governments are responsible for providing the functions set out in the Local Government Act 1989  such as ___E:urban planning U:(https://en.wikipedia.org/wiki/Urban_planning)___ and ___E:waste management U:(https://en.wikipedia.org/wiki/Waste_management)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#288",
+            "sentence": "Most other government services are provided or regulated by the ___E:Victorian state government U:(https://en.wikipedia.org/wiki/Government_of_Victoria)___ , which governs from ___E:Parliament House U:(https://en.wikipedia.org/wiki/Parliament_House,_Melbourne)___ in ___E:Spring Street U:(https://en.wikipedia.org/wiki/Spring_Street,_Melbourne)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#289",
+            "sentence": "These include services associated with local government in other countries and include public transport, main roads, traffic control, policing, education above preschool level, health and planning of major infrastructure projects."
+        },
+        {
+            "id": "Melbourne - Wikipedia#290",
+            "sentence": "Like many Australian cities, Melbourne has a high ___E:dependency on the automobile U:(https://en.wikipedia.org/wiki/Car_dependency)___ for transport,  particularly in the outer suburban areas where the largest number of cars are bought."
+        },
+        {
+            "id": "Melbourne - Wikipedia#291",
+            "sentence": "There a total of 3.6 million private vehicles using 22,320 km (13,870 mi) of road in Melbourne, which has one of the highest lengths of road per capita in the world."
+        },
+        {
+            "id": "Melbourne - Wikipedia#292",
+            "sentence": "The early 20th century saw an increase in popularity of automobiles, resulting in large-scale suburban expansion and a tendency towards the development of ___E:urban sprawl U:(https://en.wikipedia.org/wiki/Urban_sprawl)___ —like all Australian cities, inhabitants would live in the suburbs and commute to the city for work.  By the mid-1950s, there were just under 200 passenger vehicles per 1000 people, and by 2013, there were 600 passenger vehicles per 1000 people."
+        },
+        {
+            "id": "Melbourne - Wikipedia#293",
+            "sentence": "The ___E:road network in Victoria U:(https://en.wikipedia.org/wiki/Roads_in_Victoria)___ is managed by the ___E:Department of Transport and Planning U:(https://en.wikipedia.org/wiki/Department_of_Transport_and_Planning)___ (DTP) who oversee planning and integration."
+        },
+        {
+            "id": "Melbourne - Wikipedia#294",
+            "sentence": "Maintenance of roads is undertaken by different bodies, depending on the road. Local roads are maintained by local governments, while secondary and main roads are the responsibility of DTP. Major national freeways and roads integral to national trade are overseen by the Federal Government."
+        },
+        {
+            "id": "Melbourne - Wikipedia#295",
+            "sentence": "Today, Melbourne has an extensive network of freeways and arterial roadways."
+        },
+        {
+            "id": "Melbourne - Wikipedia#296",
+            "sentence": "These are used by private vehicles, including road freight vehicles, as well as road-based public transport modes like buses and taxis."
+        },
+        {
+            "id": "Melbourne - Wikipedia#297",
+            "sentence": "Major highways feeding into the city include the ___E:Eastern Freeway U:(https://en.wikipedia.org/wiki/Eastern_Freeway,_Melbourne)___ , ___E:Monash Freeway U:(https://en.wikipedia.org/wiki/Monash_Freeway)___ and ___E:West Gate Freeway U:(https://en.wikipedia.org/wiki/West_Gate_Freeway)___ (which spans the large ___E:West Gate Bridge U:(https://en.wikipedia.org/wiki/West_Gate_Bridge)___ )."
+        },
+        {
+            "id": "Melbourne - Wikipedia#298",
+            "sentence": "Other freeways include the ___E:Calder Freeway U:(https://en.wikipedia.org/wiki/Calder_Freeway)___ , ___E:Tullamarine Freeway U:(https://en.wikipedia.org/wiki/Tullamarine_Freeway)___ , which is the main airport link, and the ___E:Hume Freeway U:(https://en.wikipedia.org/wiki/Hume_Freeway)___ , which connects Melbourne to Canberra and Sydney."
+        },
+        {
+            "id": "Melbourne - Wikipedia#299",
+            "sentence": "Melbourne's middle suburbs are connected via an orbital freeway, the ___E:M80 Ring Road U:(https://en.wikipedia.org/wiki/M80_Ring_Road)___ , which will be connected to the Eastern Freeway when the ___E:North East Link U:(https://en.wikipedia.org/wiki/North_East_Link)___ opens."
+        },
+        {
+            "id": "Melbourne - Wikipedia#300",
+            "sentence": "Out of Melbourne's twenty declared freeways open or under construction, six are electronic toll roads."
+        },
+        {
+            "id": "Melbourne - Wikipedia#301",
+            "sentence": "This includes the ___E:M1 and M2 CityLink U:(https://en.wikipedia.org/wiki/CityLink)___ (which includes the large ___E:Bolte Bridge U:(https://en.wikipedia.org/wiki/Bolte_Bridge)___ ), ___E:Eastlink U:(https://en.wikipedia.org/wiki/EastLink,_Melbourne)___ , North East Link, and the ___E:West Gate Tunnel U:(https://en.wikipedia.org/wiki/West_Gate_Tunnel)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#302",
+            "sentence": "Apart from ___E:Eastlink U:(https://en.wikipedia.org/wiki/EastLink_(Melbourne))___ which is owned and operated by ___E:ConnectEast U:(https://en.wikipedia.org/wiki/ConnectEast)___ , the toll roads in Melbourne are run by the private company ___E:Transurban U:(https://en.wikipedia.org/wiki/Transurban)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#303",
+            "sentence": "In Melbourne, tollways have blue and yellow signage compared to the green signs used for untolled roads."
+        },
+        {
+            "id": "Melbourne - Wikipedia#304",
+            "sentence": "Melbourne has an integrated public transport system based around extensive train, tram, bus and taxi systems. ___E:Flinders Street station U:(https://en.wikipedia.org/wiki/Flinders_Street_railway_station)___ was the world's busiest passenger station in 1927 and Melbourne's tram network overtook Sydney's to become the world's largest in the 1940s."
+        },
+        {
+            "id": "Melbourne - Wikipedia#305",
+            "sentence": "From the 1940s, public transport use in Melbourne declined due to a rapid expansion of the road and freeway network, with the largest declines in tram and bus usage."
+        },
+        {
+            "id": "Melbourne - Wikipedia#306",
+            "sentence": "This decline quickened in the early 1990s due to large public transport service cuts.  The operations of Melbourne's public transport system was privatised in 1999 through a franchising model, with operational responsibilities for the train, tram and bus networks licensed to private companies."
+        },
+        {
+            "id": "Melbourne - Wikipedia#307",
+            "sentence": "After 1996 there was a rapid increase in public transport patronage due to growth in employment in central Melbourne, with the mode share for commuters increasing to 14.8% and 8.4% of all trips."
+        },
+        {
+            "id": "Melbourne - Wikipedia#308",
+            "sentence": "A target of 20% public transport mode share for Melbourne by 2020 was set by the state government in 2006.  Since 2006 public transport patronage has grown by over 20% and a number of projects have commenced aimed at expanding public transport usage."
+        },
+        {
+            "id": "Melbourne - Wikipedia#309",
+            "sentence": "The ___E:Melbourne metropolitan rail network U:(https://en.wikipedia.org/wiki/Melbourne_rail_network)___ dates back to the 1850s ___E:gold rush U:(https://en.wikipedia.org/wiki/Gold_rush)___ era, and today consists of ___E:222 suburban stations U:(https://en.wikipedia.org/wiki/List_of_Melbourne_railway_stations)___ on sixteen lines which radiate from the ___E:City Loop U:(https://en.wikipedia.org/wiki/City_Loop)___ , a mostly-underground subway system around the CBD. ___E:Flinders Street station U:(https://en.wikipedia.org/wiki/Flinders_Street_railway_station)___ , one of Australia's busiest ___E:rail hubs U:(https://en.wikipedia.org/wiki/Transportation_hub)___ , serves the entire network, and remains a prominent Melbourne landmark and meeting place."
+        },
+        {
+            "id": "Melbourne - Wikipedia#310",
+            "sentence": "The city has rail connections with regional Victorian cities run by ___E:V/Line U:(https://en.wikipedia.org/wiki/V/Line)___ , as well as direct interstate rail services which depart from Melbourne's other major rail terminus, ___E:Southern Cross station U:(https://en.wikipedia.org/wiki/Southern_Cross_railway_station)___ , in Docklands."
+        },
+        {
+            "id": "Melbourne - Wikipedia#311",
+            "sentence": "The Overland to ___E:Adelaide U:(https://en.wikipedia.org/wiki/Adelaide)___ departs twice a week, while the ___E:XPT U:(https://en.wikipedia.org/wiki/New_South_Wales_XPT)___ to Sydney departs twice daily."
+        },
+        {
+            "id": "Melbourne - Wikipedia#312",
+            "sentence": "In the 2017–2018 financial year, the Melbourne metropolitan rail network recorded 240.9 million passenger trips, the highest ridership in its history."
+        },
+        {
+            "id": "Melbourne - Wikipedia#313",
+            "sentence": "Many rail lines, along with dedicated lines and ___E:rail yards U:(https://en.wikipedia.org/wiki/Rail_yards)___ , are also used for freight."
+        },
+        {
+            "id": "Melbourne - Wikipedia#314",
+            "sentence": "An assortment of new railways are under construction in Melbourne."
+        },
+        {
+            "id": "Melbourne - Wikipedia#315",
+            "sentence": "A new heavy rail corridor through the inner city, the ___E:Metro Tunnel U:(https://en.wikipedia.org/wiki/Metro_Tunnel)___ , is set to open by 2025, and will reduce congestion on the City Loop. The ongoing ___E:Level Crossing Removal Project U:(https://en.wikipedia.org/wiki/Level_Crossing_Removal_Project)___ is grade separating much of the network, and rebuilding many older stations."
+        },
+        {
+            "id": "Melbourne - Wikipedia#316",
+            "sentence": "In June 2022, early works commenced on the ___E:Suburban Rail Loop U:(https://en.wikipedia.org/wiki/Suburban_Rail_Loop)___ , a 90-kilometre underground automated ___E:orbital line U:(https://en.wikipedia.org/wiki/Circle_route)___ through Melbourne's middle suburbs around 12–18 km (7.5–11.2 mi) from the ___E:CBD U:(https://en.wikipedia.org/wiki/Melbourne_CBD)___ .  ___E:An airport rail connection U:(https://en.wikipedia.org/wiki/Melbourne_Airport_rail_link)___ has commenced with early works in Keilor East."
+        },
+        {
+            "id": "Melbourne - Wikipedia#317",
+            "sentence": "___E:Melbourne's tram network U:(https://en.wikipedia.org/wiki/Trams_in_Melbourne)___ dates from the 1880s land boom and, as of 2021, consists of 250 km (155.3 mi) of double track, 475 trams, ___E:25 routes U:(https://en.wikipedia.org/wiki/List_of_Melbourne_tram_routes)___ , and 1,763 ___E:tram stops U:(https://en.wikipedia.org/wiki/Tram_stop)___ , making it the largest in the world."
+        },
+        {
+            "id": "Melbourne - Wikipedia#318",
+            "sentence": "In 2017–2018, 206.3 million passenger trips were made by tram.  Around 75 per cent of Melbourne's tram network shares road space with other vehicles, while the rest of the network is separated or are ___E:light rail U:(https://en.wikipedia.org/wiki/Light_rail)___ routes."
+        },
+        {
+            "id": "Melbourne - Wikipedia#319",
+            "sentence": "Melbourne's trams are recognised as iconic cultural assets and a tourist attraction. ___E:Heritage trams U:(https://en.wikipedia.org/wiki/W-class_Melbourne_tram)___ operate on the free ___E:City Circle route U:(https://en.wikipedia.org/wiki/City_Circle_tram)___ around the CBD.  Trams are free within the central city Free Tram Zone and run 24-hours on weekends."
+        },
+        {
+            "id": "Melbourne - Wikipedia#320",
+            "sentence": "Melbourne's bus network consists of more than ___E:400 routes U:(https://en.wikipedia.org/wiki/List_of_Melbourne_bus_routes)___ which mainly service the outer suburbs and fill the gaps in the network between rail and tram services.    114.9 million passenger trips were recorded on Melbourne's buses in 2023–2024, an increase of 15.2 percent on the previous ___E:financial year U:(https://en.wikipedia.org/wiki/Financial_year)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#321",
+            "sentence": "Melbourne has four airports. ___E:Melbourne Airport U:(https://en.wikipedia.org/wiki/Melbourne_Airport)___ , at ___E:Tullamarine U:(https://en.wikipedia.org/wiki/Tullamarine)___ , is the city's main international and domestic gateway and second busiest in Australia, with a traffic of over 37 million passengers in 2018–19.  The airport, which comprises four terminals,  is the home base for passenger airline ___E:Jetstar U:(https://en.wikipedia.org/wiki/Jetstar)___ and cargo airlines ___E:Australian airExpress U:(https://en.wikipedia.org/wiki/Australian_airExpress)___ and ___E:Team Global Express U:(https://en.wikipedia.org/wiki/Team_Global_Express)___ , and is a major hub for ___E:Qantas U:(https://en.wikipedia.org/wiki/Qantas)___ and ___E:Virgin Australia U:(https://en.wikipedia.org/wiki/Virgin_Australia)___ . ___E:Avalon Airport U:(https://en.wikipedia.org/wiki/Avalon_Airport)___ , located between Melbourne and ___E:Geelong U:(https://en.wikipedia.org/wiki/Geelong)___ , is a secondary hub of Jetstar."
+        },
+        {
+            "id": "Melbourne - Wikipedia#322",
+            "sentence": "It is also used as a freight and maintenance facility."
+        },
+        {
+            "id": "Melbourne - Wikipedia#323",
+            "sentence": "Buses and taxis are the only forms of public transport to and from the city's main airports."
+        },
+        {
+            "id": "Melbourne - Wikipedia#324",
+            "sentence": "A ___E:rail link to Tullamarine U:(https://en.wikipedia.org/wiki/Melbourne_Airport_rail_link)___ is planned to open in the 2030s."
+        },
+        {
+            "id": "Melbourne - Wikipedia#325",
+            "sentence": "Air Ambulance facilities are available for domestic and international transportation of patients."
+        },
+        {
+            "id": "Melbourne - Wikipedia#326",
+            "sentence": "Melbourne also has a significant ___E:general aviation U:(https://en.wikipedia.org/wiki/General_aviation)___ airport, ___E:Moorabbin Airport U:(https://en.wikipedia.org/wiki/Moorabbin_Airport)___ in the city's southeast that also handles a small number of passenger flights. ___E:Essendon Airport U:(https://en.wikipedia.org/wiki/Essendon_Airport)___ , which was once the city's main airport, also handles passenger flights, general aviation and some cargo flights."
+        },
+        {
+            "id": "Melbourne - Wikipedia#327",
+            "sentence": "Ship transport is an important component of Melbourne's transport system."
+        },
+        {
+            "id": "Melbourne - Wikipedia#328",
+            "sentence": "The ___E:Port of Melbourne U:(https://en.wikipedia.org/wiki/Port_of_Melbourne)___ is Australia's largest container and general cargo port and also its busiest."
+        },
+        {
+            "id": "Melbourne - Wikipedia#329",
+            "sentence": "The port handled two million shipping containers in a 12-month period during 2007, making it one of the top five ports in the Southern Hemisphere.  ___E:Station Pier U:(https://en.wikipedia.org/wiki/Station_Pier)___ on Port Phillip Bay is the main passenger ship terminal with ___E:cruise ships U:(https://en.wikipedia.org/wiki/Cruise_ships)___ docking there."
+        },
+        {
+            "id": "Melbourne - Wikipedia#330",
+            "sentence": "Ferries and water taxis run from ___E:berths U:(https://en.wikipedia.org/wiki/Berth_(moorings))___ along the Yarra River as far upstream as South Yarra and across Port Phillip Bay."
+        },
+        {
+            "id": "Melbourne - Wikipedia#331",
+            "sentence": "Among Australian capital cities, Melbourne ties with Canberra in first place for the highest male life expectancy (80.0 years) and ranks second behind Perth in female life expectancy (84.1 years)."
+        },
+        {
+            "id": "Melbourne - Wikipedia#332",
+            "sentence": "The Victorian Government's ___E:Department of Health U:(https://en.wikipedia.org/wiki/Department_of_Health_(Victoria))___ oversees about 30 public hospitals in the Melbourne metropolitan region and 13 health services organisations."
+        },
+        {
+            "id": "Melbourne - Wikipedia#333",
+            "sentence": "Major medical, ___E:neuroscience U:(https://en.wikipedia.org/wiki/Neuroscience)___ and ___E:biotechnology U:(https://en.wikipedia.org/wiki/Biotechnology)___ research institutions located in Melbourne include the ___E:St. Vincent's Institute of Medical Research U:(https://en.wikipedia.org/wiki/St._Vincent%27s_Institute_of_Medical_Research)___ , ___E:Australian Stem Cell Centre U:(https://en.wikipedia.org/wiki/Australian_Stem_Cell_Centre)___ , the ___E:Burnet Institute U:(https://en.wikipedia.org/wiki/Burnet_Institute)___ , the ___E:Peter Doherty Institute for Infection and Immunity U:(https://en.wikipedia.org/wiki/Doherty_Institute)___ , ___E:Australian Regenerative Medicine Institute U:(https://en.wikipedia.org/wiki/Australian_Regenerative_Medicine_Institute)___ , Victorian Institute of Chemical Sciences, Brain Research Institute, ___E:Peter MacCallum Cancer Centre U:(https://en.wikipedia.org/wiki/Peter_MacCallum_Cancer_Centre)___ , the ___E:Walter and Eliza Hall Institute of Medical Research U:(https://en.wikipedia.org/wiki/Walter_and_Eliza_Hall_Institute_of_Medical_Research)___ , and the Melbourne Neuropsychiatry Centre."
+        },
+        {
+            "id": "Melbourne - Wikipedia#334",
+            "sentence": "The headquarters of Australian pharmaceutical company ___E:CSL Limited U:(https://en.wikipedia.org/wiki/CSL_Limited)___ is located in the Melbourne Biomedical Precinct in ___E:Parkville U:(https://en.wikipedia.org/wiki/Parkville,_Victoria)___ , which contains over 40 biomedical and research institutions."
+        },
+        {
+            "id": "Melbourne - Wikipedia#335",
+            "sentence": "It was announced in 2021 that a new Australian Institute for Infectious Disease would also be built in Parkville."
+        },
+        {
+            "id": "Melbourne - Wikipedia#336",
+            "sentence": "Other institutions include the ___E:Howard Florey Institute U:(https://en.wikipedia.org/wiki/Howard_Florey_Institute)___ , the ___E:Murdoch Children's Research Institute U:(https://en.wikipedia.org/wiki/Murdoch_Children%27s_Research_Institute)___ , ___E:Baker Heart and Diabetes Institute U:(https://en.wikipedia.org/wiki/Baker_Heart_and_Diabetes_Institute)___ , and the ___E:Australian Synchrotron U:(https://en.wikipedia.org/wiki/Australian_Synchrotron)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#337",
+            "sentence": "Many of these institutions are associated with and located near to universities."
+        },
+        {
+            "id": "Melbourne - Wikipedia#338",
+            "sentence": "Melbourne is also home to the ___E:Royal Children's Hospital U:(https://en.wikipedia.org/wiki/Royal_Children%27s_Hospital)___ and the ___E:Monash Children's Hospital U:(https://en.wikipedia.org/wiki/Monash_Children%27s_Hospital)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#339",
+            "sentence": "Water storage and supply for Melbourne is managed by ___E:Melbourne Water U:(https://en.wikipedia.org/wiki/Melbourne_Water)___ , which is owned by the Victorian Government."
+        },
+        {
+            "id": "Melbourne - Wikipedia#340",
+            "sentence": "The organisation is also responsible for management of sewerage and the major water catchments in the region as well as the ___E:Wonthaggi desalination plant U:(https://en.wikipedia.org/wiki/Wonthaggi_desalination_plant)___ and ___E:North–South Pipeline U:(https://en.wikipedia.org/wiki/North-South_Pipeline)___ ."
+        },
+        {
+            "id": "Melbourne - Wikipedia#341",
+            "sentence": "Water is stored in a series of reservoirs located within and outside the Greater Melbourne area. The largest dam, the ___E:Thomson River Dam U:(https://en.wikipedia.org/wiki/Thomson_River_Dam)___ , located in the Victorian Alps, is capable of holding around 60% of Melbourne's water capacity,  while smaller dams such as the ___E:Upper Yarra Dam U:(https://en.wikipedia.org/wiki/Upper_Yarra_Dam)___ , ___E:Yan Yean Reservoir U:(https://en.wikipedia.org/wiki/Yan_Yean_Reservoir)___ , and the ___E:Cardinia Reservoir U:(https://en.wikipedia.org/wiki/Cardinia_Reservoir)___ carry secondary supplies."
+        },
+        {
+            "id": "Melbourne - Wikipedia#342",
+            "sentence": "Gas is provided by three distribution companies:"
+        },
+        {
+            "id": "Melbourne - Wikipedia#343",
+            "sentence": "Electricity is provided by five distribution companies:"
+        },
+        {
+            "id": "Melbourne - Wikipedia#344",
+            "sentence": "Travel"
+        },
+        {
+            "id": "Melbourne - Wikipedia#345",
+            "sentence": "General information"
+        },
+        {
+            "id": "Melbourne - Wikipedia#346",
+            "sentence": "National and ACT ___E:Canberra U:(https://en.wikipedia.org/wiki/Canberra)___"
+        },
+        {
+            "id": "Melbourne - Wikipedia#347",
+            "sentence": "NSW ___E:Sydney U:(https://en.wikipedia.org/wiki/Sydney)___"
+        },
+        {
+            "id": "Melbourne - Wikipedia#348",
+            "sentence": "NT ___E:Darwin U:(https://en.wikipedia.org/wiki/Darwin,_Northern_Territory)___"
+        },
+        {
+            "id": "Melbourne - Wikipedia#349",
+            "sentence": "QLD ___E:Brisbane U:(https://en.wikipedia.org/wiki/Brisbane)___"
+        },
+        {
+            "id": "Melbourne - Wikipedia#350",
+            "sentence": "SA ___E:Adelaide U:(https://en.wikipedia.org/wiki/Adelaide)___"
+        },
+        {
+            "id": "Melbourne - Wikipedia#351",
+            "sentence": "TAS ___E:Hobart U:(https://en.wikipedia.org/wiki/Hobart)___"
+        },
+        {
+            "id": "Melbourne - Wikipedia#352",
+            "sentence": "VIC"
+        },
+        {
+            "id": "Melbourne - Wikipedia#353",
+            "sentence": "WA ___E:Perth U:(https://en.wikipedia.org/wiki/Perth)___"
+        }
+    ]
+}

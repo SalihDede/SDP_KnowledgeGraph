@@ -1,0 +1,37 @@
+{
+    "Title": "Altınköy Açık Hava Müzesi",
+    "Card": {
+        "Konum": "___E:Altındağ U:(https://tr.wikipedia.org/wiki/Alt%C4%B1nda%C4%9F)___ , ___E:Ankara U:(https://tr.wikipedia.org/wiki/Ankara)___ , ___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___",
+        "Koordinatlar": ".mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap} 39°58′38″K 32°57′23″D﻿ / ﻿39.97722°K 32.95639°D﻿ / 39.97722; 32.95639",
+        "Tür": "___E:Açık hava müzesi U:(https://tr.wikipedia.org/wiki/A%C3%A7%C4%B1k_hava_m%C3%BCzesi)___",
+        "Toplu ulaşım": "___E:EGO U:(https://tr.wikipedia.org/wiki/EGO_Genel_M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC)___",
+        "Otopark?": "Var",
+        "Resmî site": "___E:Resmi site U:(http://www.altinkoy.tc/)___"
+    },
+    "Main": [
+        {
+            "id": "Altınköy Açık Hava Müzesi#1",
+            "sentence": "Altınköy Açık Hava Müzesi , ___E:Ankara U:(https://tr.wikipedia.org/wiki/Ankara)___ 'nın ___E:Altındağ U:(https://tr.wikipedia.org/wiki/Alt%C4%B1nda%C4%9F)___ ilçesinde bulunan bir açık hava müzesidir."
+        },
+        {
+            "id": "Altınköy Açık Hava Müzesi#2",
+            "sentence": "Hızla gelişen şehirler ve onların karşısında yok olmaya yüz tutmuş köylerin, 21. yüzyılın en önemli problemlerinden biri olduğuna vurgu yapmak ve dikkat çekmek için ___E:Altındağ Belediyesi U:(https://tr.wikipedia.org/w/index.php?title=Alt%C4%B1nda%C4%9F_Belediyesi&action=edit&redlink=1)___ tarafından büyük bir alana inşa ettirilen bu müze; 1930-1950'li yılların köy mimarisini, geleneklerini ve kültürünü örnek alarak oluşturulmuştur."
+        },
+        {
+            "id": "Altınköy Açık Hava Müzesi#3",
+            "sentence": "500 dönümlük bir arazi içerisinde yer alan Altınköy Açık Hava Müzesi; köy kahvesi, muhtarlık, ahırlar, bahçeler ve geleneksel Türk tipi köy evleriyle, tamamen bir köy hayatı yansıtacak şekilde kurulmuştur."
+        },
+        {
+            "id": "Altınköy Açık Hava Müzesi#4",
+            "sentence": "Müze; sadece görsel olarak değil, köyün içinde gerçekleştirilen aktivitelerle eğitici ve öğretici bir işlevi de yerine getirmektedir."
+        },
+        {
+            "id": "Altınköy Açık Hava Müzesi#5",
+            "sentence": "Doğal ve organik ürünlerin satışının da yapıldığı köyde, bu ürünlerin yapım ve üretim aşaması da gözler önünde gerçekleşmektedir."
+        },
+        {
+            "id": "Altınköy Açık Hava Müzesi#6",
+            "sentence": "Köy camisi, asma köprü, okul, bakkal, değirmen, evler ve sokaklar, köyün içinde bulunan diğer yapılardır."
+        }
+    ]
+}

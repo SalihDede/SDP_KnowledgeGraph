@@ -1,0 +1,38 @@
+{
+    "Title": "Konveksiyonel yağış",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Konveksiyonel yağış#1",
+            "sentence": "Konveksiyonel yağış ( Konvektif yağış , Kırkikindi yağışı , Yükselim yağışı ) ısınan hava parselinin, her 300 metre mesafede adyabatik olarak 3 derece soğuyarak içeriğindeki nemin yoğunlaşması sonucu oluşan kümüliform bulutlarının neden olduğu yağıştır."
+        },
+        {
+            "id": "Konveksiyonel yağış#2",
+            "sentence": "Yükselen hava parselinin sıcaklığı çevredeki havadan daha sıcak olduğu müddetçe hava yükselmeye devam eder ve parselin daha sıcak olduğu atmosfer tabakalarında hava kararsızdır."
+        },
+        {
+            "id": "Konveksiyonel yağış#3",
+            "sentence": "Çevresel sıcaklık ile parsel sıcaklığının birbirine eşit olduğu yükseklik ___E:denge seviyesi U:(https://tr.wikipedia.org/w/index.php?title=Equilibrium_level&action=edit&redlink=1)___ olarak adlandırılır."
+        },
+        {
+            "id": "Konveksiyonel yağış#4",
+            "sentence": "Denge seviyesinden itibaren hava kararlıdır ve aşağı yönlü hava akımı başlar."
+        },
+        {
+            "id": "Konveksiyonel yağış#5",
+            "sentence": "Denge seviyesi ne kadar yüksekte bulunursa, ___E:kümülonimbus U:(https://tr.wikipedia.org/wiki/K%C3%BCm%C3%BClonimbus)___ bulutlarının dikey gelişme imkânı bir o kadar fazladır."
+        },
+        {
+            "id": "Konveksiyonel yağış#6",
+            "sentence": "Parsel sıcaklığı ile çevresel sıcaklık arasındaki fark çok fazla olan bir bölgede, dikey rüzgâr da fazla olduğundan oluşabilecek konvektif bir fırtınanın hortum ve dolu yapma kabiliyeti artar."
+        },
+        {
+            "id": "Konveksiyonel yağış#7",
+            "sentence": "Konvektif yağışlar genellikle sağanak olarak tabir edilen, kısa süreli yağışlardan ibarettirler."
+        },
+        {
+            "id": "Konveksiyonel yağış#8",
+            "sentence": "Şimşek aktivesi, konvektif yağışları stratiform tipi bulutların neden olduğu kararlı hava yağışlarından ayıran en önemli özelliğidir."
+        }
+    ]
+}

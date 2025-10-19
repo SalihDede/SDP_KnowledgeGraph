@@ -1,0 +1,385 @@
+{
+    "Title": "Güreş",
+    "Card": {
+        "Birlik": "___E:Uluslararası Güreş Federasyonları Birliği U:(https://tr.wikipedia.org/wiki/D%C3%BCnya_G%C3%BCre%C5%9F_Birli%C4%9Fi)___",
+        "Olimpiyatlar": "___E:Grekoromen U:(https://tr.wikipedia.org/wiki/Greko-Romen)___ ve ___E:Serbest güreş U:(https://tr.wikipedia.org/wiki/Serbest_g%C3%BCre%C5%9F)___"
+    },
+    "Main": [
+        {
+            "id": "Güreş#1",
+            "sentence": "Güreş , uygulayıcılarının birbirlerine vurmaksızın rakiplerini yenmeye çalıştıkları bir ___E:dövüş sporu U:(https://tr.wikipedia.org/wiki/D%C3%B6v%C3%BC%C5%9F_sporu)___ türü. Güreş tarihteki en eski sporlardan biridir ve zamanla farklı stil ve formları geliştirilmiştir."
+        },
+        {
+            "id": "Güreş#2",
+            "sentence": "Güreş genellikle ___E:dövüş sanatları U:(https://tr.wikipedia.org/wiki/D%C3%B6v%C3%BC%C5%9F_sanatlar%C4%B1)___ arasında değerlendirilir."
+        },
+        {
+            "id": "Güreş#3",
+            "sentence": "Güreş, ___E:serbest güreş U:(https://tr.wikipedia.org/wiki/Serbest_g%C3%BCre%C5%9F)___ , ___E:Grekoromen güreş U:(https://tr.wikipedia.org/wiki/Grekoromen_g%C3%BCre%C5%9F)___ , ___E:pankration U:(https://tr.wikipedia.org/wiki/Pankration)___ , ___E:kuşak güreşleri U:(https://tr.wikipedia.org/wiki/Ku%C5%9Fak_g%C3%BCre%C5%9Fleri)___ , ___E:bilek güreşi U:(https://tr.wikipedia.org/wiki/Bilek_g%C3%BCre%C5%9Fi)___ , ___E:parmak güreşi U:(https://tr.wikipedia.org/wiki/Parmak_g%C3%BCre%C5%9Fi)___ , ___E:plaj güreşi U:(https://tr.wikipedia.org/w/index.php?title=Plaj_g%C3%BCre%C5%9Fi&action=edit&redlink=1)___ , ___E:judo U:(https://tr.wikipedia.org/wiki/Judo)___ , ___E:sambo U:(https://tr.wikipedia.org/wiki/Sambo)___ , halk stili, yakalama, vurma, luta livre, boyun eğme, ___E:sumo U:(https://tr.wikipedia.org/wiki/Sumo)___ , ___E:shuai jiao U:(https://tr.wikipedia.org/w/index.php?title=Shuai_jiao&action=edit&redlink=1)___ ve diğerleri gibi farklı rekabetçi biçimlerde gelir."
+        },
+        {
+            "id": "Güreş#4",
+            "sentence": "Güreş, perçinleme dövüşü, fırlatma ve indirme, eklem kilitleri, iğneler ve diğer yakalama tutuşları gibi farklı yakalama tipi teknikleri içerir."
+        },
+        {
+            "id": "Güreş#5",
+            "sentence": "Dövüş sanatlarına, dövüş sporlarına ve askeri sistemlere birçok farklı güreş tekniği dahil edilmiştir."
+        },
+        {
+            "id": "Güreş#6",
+            "sentence": "Güreş, ___E:Antik Olimpiyat Oyunları U:(https://tr.wikipedia.org/wiki/Antik_Olimpiyat_Oyunlar%C4%B1)___ 'nda ilk kez MÖ 708 yılında 18. Olimpiyat'ta bir müsabaka olarak yer almıştır."
+        },
+        {
+            "id": "Güreş#7",
+            "sentence": "Hem geleneksel hem de modern olmak üzere çok sayıda farklı stile ve kurala sahip güreş türleri vardır."
+        },
+        {
+            "id": "Güreş#8",
+            "sentence": "İngilizce wrestling terimi, Eski İngilizce wræstlunge sözcüğünden türetilmiştir."
+        },
+        {
+            "id": "Güreş#9",
+            "sentence": "Güreş, bilinen en eski dövüş sporlarından biridir."
+        },
+        {
+            "id": "Güreş#10",
+            "sentence": "Fransa'daki mağara resimlerine göre güreşin kökenleri yaklaşık 15.000-17.000 yıl öncesine dayanır.  ___E:Babil U:(https://tr.wikipedia.org/wiki/Babil)___ ve ___E:Antik Mısır U:(https://tr.wikipedia.org/wiki/Antik_M%C4%B1s%C4%B1r)___ rölyeflerinde günümüzde bilinen çeşitli güreş tutuşlarının kullanıldığı görülmektedir."
+        },
+        {
+            "id": "Güreş#11",
+            "sentence": "Güreşe dair yazılı kaynaklar ___E:Eski Ahit U:(https://tr.wikipedia.org/wiki/Eski_Ahit)___ 'te ve eski Hint ___E:Veda U:(https://tr.wikipedia.org/wiki/Veda)___ metinlerinde dahi bulunur. ___E:Yaratılış Kitabı U:(https://tr.wikipedia.org/wiki/Yarat%C4%B1l%C4%B1%C5%9F_Kitab%C4%B1)___ 'nda, ata ___E:Yakup U:(https://tr.wikipedia.org/wiki/Yakub)___ 'un Tanrı veya bir melek ile güreştiği anlatılır. ___E:Homeros U:(https://tr.wikipedia.org/wiki/Homeros)___ 'un ___E:İlyada U:(https://tr.wikipedia.org/wiki/%C4%B0lyada)___ 'sında da güreşten söz edilmektedir."
+        },
+        {
+            "id": "Güreş#12",
+            "sentence": "Hint destanları ___E:Ramayana U:(https://tr.wikipedia.org/wiki/Ramayana)___ ve ___E:Mahabharata U:(https://tr.wikipedia.org/wiki/Mahabharata)___ 'da da güreş ve dövüş sanatlarına atıflar vardır."
+        },
+        {
+            "id": "Güreş#13",
+            "sentence": "Çin'de ___E:Sarı İmparator U:(https://tr.wikipedia.org/wiki/Sar%C4%B1_%C4%B0mparator)___ 'un asi ___E:Chi You U:(https://tr.wikipedia.org/w/index.php?title=Chi_You&action=edit&redlink=1)___ ile ___E:Shuai Jiao U:(https://tr.wikipedia.org/w/index.php?title=Shuai_Jiao&action=edit&redlink=1)___ ( jiao di ) kullanarak savaştığı anlatılır."
+        },
+        {
+            "id": "Güreş#14",
+            "sentence": "___E:Antik Yunan U:(https://tr.wikipedia.org/wiki/Antik_Yunanistan)___ 'da güreş, efsanelerde, edebiyatta ve felsefede önemli bir yere sahipti."
+        },
+        {
+            "id": "Güreş#15",
+            "sentence": "Oldukça sert kurallara sahip olan güreş, ___E:Antik Olimpiyat Oyunları U:(https://tr.wikipedia.org/wiki/Antik_Olimpiyat_Oyunlar%C4%B1)___ 'nın ana sporlarından biriydi. ___E:Antik Romalılar U:(https://tr.wikipedia.org/wiki/Antik_Roma)___ , Yunan güreşini benimsedi ancak kuralları değiştirerek bazı sertlikleri ortadan kaldırdılar."
+        },
+        {
+            "id": "Güreş#16",
+            "sentence": "Güreş hem Yunan hem de Roma edebiyatında sıkça geçer; ___E:Platon U:(https://tr.wikipedia.org/wiki/Platon)___ , ___E:Sokrates U:(https://tr.wikipedia.org/wiki/Sokrates)___ , ___E:Aristoteles U:(https://tr.wikipedia.org/wiki/Aristoteles)___ , ___E:Ksenofon U:(https://tr.wikipedia.org/wiki/Ksenofon)___ , ___E:Epiktetos U:(https://tr.wikipedia.org/wiki/Epiktetos)___ , ___E:Seneca U:(https://tr.wikipedia.org/wiki/Lucius_Annaeus_Seneca)___ , ___E:Plutarkhos U:(https://tr.wikipedia.org/wiki/Pl%C3%BCtark)___ ve ___E:Marcus Aurelius U:(https://tr.wikipedia.org/wiki/Marcus_Aurelius)___ gibi düşünürler ve liderler güreşle ilgilenmiş ya da eserlerinde sıkça atıfta bulunmuşlardır. ___E:Dikaearchus U:(https://tr.wikipedia.org/w/index.php?title=Dikaearchus&action=edit&redlink=1)___ , Platon'un ___E:İsthmia Oyunları U:(https://tr.wikipedia.org/wiki/%C4%B0sthmia_Oyunlar%C4%B1)___ 'nda güreştiğini yazar.  ___E:Pindaros U:(https://tr.wikipedia.org/wiki/Pindaros)___ , Panhellenik festivallerde (Olimpia, Delphi, Korinthos, Nemea) güreş, boks ve pankrationda zafer kazananlar için övgü şiirleri (ode) yazmıştır."
+        },
+        {
+            "id": "Güreş#17",
+            "sentence": "Orta Çağ boyunca ( ___E:5. yüzyıl U:(https://tr.wikipedia.org/wiki/5._y%C3%BCzy%C4%B1l)___ – ___E:15. yüzyıl U:(https://tr.wikipedia.org/wiki/15._y%C3%BCzy%C4%B1l)___ ), güreş popülerliğini korumuş ve ___E:İngiltere U:(https://tr.wikipedia.org/wiki/%C4%B0ngiltere)___ , ___E:Fransa U:(https://tr.wikipedia.org/wiki/Fransa)___ ve ___E:Japonya U:(https://tr.wikipedia.org/wiki/Japonya)___ 'daki kraliyet ailelerinin himayesinde devam etmiştir."
+        },
+        {
+            "id": "Güreş#18",
+            "sentence": "İngiliz göçmenler, güçlü güreş geleneklerini ___E:Amerika U:(https://tr.wikipedia.org/wiki/Amerika)___ 'ya taşımış ve buradaki ___E:Kızılderililer U:(https://tr.wikipedia.org/wiki/K%C4%B1z%C4%B1lderililer)___ arasında da güreşin yaygın olduğu görülmüştür."
+        },
+        {
+            "id": "Güreş#19",
+            "sentence": "Koloniler döneminde amatör güreş yaygınlaşmış; köy panayırlarında, tatil etkinliklerinde ve askerî eğitimlerde önemli bir yer edinmiştir."
+        },
+        {
+            "id": "Güreş#20",
+            "sentence": "Amerika'da ilk ulusal güreş turnuvası 1888'de ___E:New York U:(https://tr.wikipedia.org/wiki/New_York)___ 'ta düzenlenmiştir."
+        },
+        {
+            "id": "Güreş#21",
+            "sentence": "Türklerde güreş, Orta Asya bozkırlarından Anadolu'ya uzanan binlerce yıllık geçmişe sahiptir."
+        },
+        {
+            "id": "Güreş#22",
+            "sentence": "Göçebe Türk topluluklarında güreş, hem askerî eğitim hem de şenlik ve törenlerin ayrılmaz bir parçasıydı. **Yağlı güreş** (pehlivan güreşi) ve **karakucak güreşi** gibi geleneksel stiller, özellikle Osmanlı İmparatorluğu'nda yaygınlaşmış ve günümüze ulaşmıştır."
+        },
+        {
+            "id": "Güreş#23",
+            "sentence": "Her yıl düzenlenen ___E:Kırkpınar Yağlı Güreşleri U:(https://tr.wikipedia.org/wiki/K%C4%B1rkp%C4%B1nar_Ya%C4%9Fl%C4%B1_G%C3%BCre%C5%9Fleri)___ , 14. yüzyıldan beri kesintisiz olarak yapılmakta ve UNESCO Somut Olmayan Kültürel Miras Listesi'nde yer almaktadır."
+        },
+        {
+            "id": "Güreş#24",
+            "sentence": "Türk güreşi yalnızca geleneksel tarzlarla sınırlı kalmamış; Türk sporcular, olimpik güreş branşlarında da (serbest ve grekoromen stil) dünyada söz sahibi olmuşlardır."
+        },
+        {
+            "id": "Güreş#25",
+            "sentence": "Türkiye, Olimpiyat Oyunları'nda en fazla madalya kazandığı spor dalı olan güreşte, birçok Avrupa, Dünya ve Olimpiyat şampiyonu pehlivan yetiştirmiştir."
+        },
+        {
+            "id": "Güreş#26",
+            "sentence": "Güreş, ___E:1904 Yaz Olimpiyatları U:(https://tr.wikipedia.org/wiki/1904_Yaz_Olimpiyatlar%C4%B1)___ 'ndan bu yana her ___E:Olimpiyat Oyunları U:(https://tr.wikipedia.org/wiki/Olimpiyat_Oyunlar%C4%B1)___ 'nda yer almıştır. ___E:Grekoromen güreş U:(https://tr.wikipedia.org/wiki/Grekoromen_g%C3%BCre%C5%9F)___ , modern olimpiyatların ilki olan ___E:1896 Yaz Olimpiyatları U:(https://tr.wikipedia.org/wiki/1896_Yaz_Olimpiyatlar%C4%B1)___ 'nda müsabakalar arasında yer alırken, ___E:1900 Yaz Olimpiyatları U:(https://tr.wikipedia.org/wiki/1900_Yaz_Olimpiyatlar%C4%B1)___ 'nda yer almamıştır."
+        },
+        {
+            "id": "Güreş#27",
+            "sentence": "Sporun uluslararası yönetim organı ___E:Dünya Güreş Birliği U:(https://tr.wikipedia.org/wiki/D%C3%BCnya_G%C3%BCre%C5%9F_Birli%C4%9Fi)___ (eski adıyla FILA), 1912'de ___E:Antwerp U:(https://tr.wikipedia.org/wiki/Anvers)___ 'te kurulmuştur."
+        },
+        {
+            "id": "Güreş#28",
+            "sentence": "Güreşe dair en eski atıflardan bazıları, çeşitli uygarlıkların mitolojik anlatılarında yer alır:"
+        },
+        {
+            "id": "Güreş#29",
+            "sentence": "Uluslararası Güreş Birliği'ne (UWW) göre güreş disiplinleri iki ana gruba ayrılır: uluslararası güreş disiplinleri ve geleneksel (halk) güreşleri."
+        },
+        {
+            "id": "Güreş#30",
+            "sentence": "Olimpiyat programında yer alan üç ana disiplin şunlardır: ___E:Grekoromen güreş U:(https://tr.wikipedia.org/wiki/Grekoromen_g%C3%BCre%C5%9F)___ , erkekler ___E:serbest güreş U:(https://tr.wikipedia.org/wiki/Serbest_g%C3%BCre%C5%9F)___ ve kadınlar serbest güreş."
+        },
+        {
+            "id": "Güreş#31",
+            "sentence": "UWW ayrıca şu stilleri de tanır: ___E:grappling U:(https://tr.wikipedia.org/w/index.php?title=Submission_wrestling&action=edit&redlink=1)___ , amatör pankration, ___E:alysh (kemer güreşi) U:(https://tr.wikipedia.org/w/index.php?title=Alysh&action=edit&redlink=1)___ , ___E:pahlavani güreşi U:(https://tr.wikipedia.org/w/index.php?title=Pahlavani_g%C3%BCre%C5%9Fi&action=edit&redlink=1)___ , ___E:Plaj güreşi U:(https://tr.wikipedia.org/w/index.php?title=Plaj_g%C3%BCre%C5%9Fi&action=edit&redlink=1)___ ve Afrika güreşi.   ___E:Sambo U:(https://tr.wikipedia.org/wiki/Sambo)___ ise 1966 yılında UWW'nin selefi olan FILA tarafından uluslararası stil olarak kabul edilmiştir."
+        },
+        {
+            "id": "Güreş#32",
+            "sentence": "Grekoromen güreş , olimpiyatlarda yer alan iki uluslararası güreş disiplininden biridir."
+        },
+        {
+            "id": "Güreş#33",
+            "sentence": "Bu stilde, üst vücut hamlelerine ve özellikle yüksekten atışlara (grand amplitude throws) odaklanılır."
+        },
+        {
+            "id": "Güreş#34",
+            "sentence": "Grekoromen güreş kurallarına göre rakibin belden aşağısına müdahale etmek (tutmak, çelme takmak veya aktif bacak kullanımı) yasaktır."
+        },
+        {
+            "id": "Güreş#35",
+            "sentence": "Puanlama, atışın yüksekliği, rakibin sırtını mindere gösterme ve pasiflik durumlarına göre yapılır."
+        },
+        {
+            "id": "Güreş#36",
+            "sentence": "Rakibin iki omuzunu aynı anda mindere sabitleyen sporcu tuş ile maçı doğrudan kazanır."
+        },
+        {
+            "id": "Güreş#37",
+            "sentence": "Bu stilin en ünlü sporcularından biri Rusya'dan Aleksandr Karelin' dir."
+        },
+        {
+            "id": "Güreş#38",
+            "sentence": "Serbest güreş , hem erkekler hem de kadınlar için olimpiyatlarda yer alan uluslararası bir güreş disiplinidir."
+        },
+        {
+            "id": "Güreş#39",
+            "sentence": "Bu stilde sporcunun veya rakibinin bacaklarını hem hücumda hem de savunmada kullanmasına izin verilir."
+        },
+        {
+            "id": "Güreş#40",
+            "sentence": "Serbest güreşin kökeni, atch-as-catch-can güreşine dayanır."
+        },
+        {
+            "id": "Güreş#41",
+            "sentence": "Puanlama, atış yüksekliği, rakibin sırtını mindere göstermesi ve pasiflik esaslarına göre yapılır."
+        },
+        {
+            "id": "Güreş#42",
+            "sentence": "Tuş burada da maçı doğrudan bitirir."
+        },
+        {
+            "id": "Güreş#43",
+            "sentence": "Serbest güreş; Amerikan okul güreşi (scholastic) ve kolej güreşi (collegiate) ile benzerlik gösterir; ancak serbest güreşte yüksekten atışlara daha fazla önem verilir."
+        },
+        {
+            "id": "Güreş#44",
+            "sentence": "ABD'de kadınlar üniversite güreşi de serbest güreş kurallarıyla yapılmaktadır."
+        },
+        {
+            "id": "Güreş#45",
+            "sentence": "Bağlama güreşi (İngilizce: submission wrestling veya grappling ), farklı güreş disiplinlerinden alınan teknik ve tutuşların kullanıldığı bir mücadele sporudur."
+        },
+        {
+            "id": "Güreş#46",
+            "sentence": "Grappling iki ana stilde uygulanır: no-gi (kimonosuz) ve gi (kimono ile)."
+        },
+        {
+            "id": "Güreş#47",
+            "sentence": "Kimonosuz (no-gi) stilde sporcular şort ve rashguard (sıkı atlet) giyerken, kimono ile (gi) stilinde judogi veya benzeri giysi kullanılır."
+        },
+        {
+            "id": "Güreş#48",
+            "sentence": "Bağlama güreşinin temel amacı, rakibi yere indirip kontrol etmek ve boğma (choke) ya da eklem kilitleriyle (joint lock) rakibin pes etmesini sağlamaktır."
+        },
+        {
+            "id": "Güreş#49",
+            "sentence": "Pankration , pan ve kratos (tüm güç) anlamına gelen Yunanca sözcüklerden türemiştir. ___E:Antik Olimpiyat Oyunları U:(https://tr.wikipedia.org/wiki/Antik_Olimpiyat_Oyunlar%C4%B1)___ 'na MÖ 648 yılında eklenmiş, kökeni çok eskiye dayanan bir dövüş sporudur."
+        },
+        {
+            "id": "Güreş#50",
+            "sentence": "Günümüzde amatör pankration, birçok dövüş disiplininin tekniklerini birleştiren bir karma dövüş sanatı (MMA) biçimidir."
+        },
+        {
+            "id": "Güreş#51",
+            "sentence": "Müsabakalarda hem güreş hem de vuruş teknikleri kullanılır."
+        },
+        {
+            "id": "Güreş#52",
+            "sentence": "Alyş , Orta Asya kökenli geleneksel bir kemer güreşi türüdür."
+        },
+        {
+            "id": "Güreş#53",
+            "sentence": "Sporcular müsabaka boyunca rakibinin kemerini bırakmadan mücadele ederler."
+        },
+        {
+            "id": "Güreş#54",
+            "sentence": "Bu nedenle kemer güreşi alyş veya alyş kemer güreşi olarak da adlandırılır."
+        },
+        {
+            "id": "Güreş#55",
+            "sentence": "Pehlevani güreşi , kökeni Antik Pers'e dayanan geleneksel bir İran güreşi ve güç sporudur."
+        },
+        {
+            "id": "Güreş#56",
+            "sentence": "Hem dövüş tekniklerini hem de kondisyon ve kuvvet antrenmanlarını içerir; başlangıçta savaşçıları eğitmek amacıyla geliştirilmiştir. ___E:UNESCO U:(https://tr.wikipedia.org/wiki/UNESCO)___ tarafından dünyanın en eski spor dallarından biri olarak tanınır."
+        },
+        {
+            "id": "Güreş#57",
+            "sentence": "En başarılı güreşçilere pehlevan unvanı verilir."
+        },
+        {
+            "id": "Güreş#58",
+            "sentence": "Pehlevani güreşinde sporcular belden diz altına kadar uzanan pantolon ve kemer giyer; rakibin kemer ya da pantolonundan tutarak rakibini yere indirmek esastır."
+        },
+        {
+            "id": "Güreş#59",
+            "sentence": "UWW (eski adıyla FILA), plaj güreşinin kurallarını 2004 yılında belirlemiştir."
+        },
+        {
+            "id": "Güreş#60",
+            "sentence": "Plaj güreşi, erkek ve kadın güreşçilerin, çapı 7 metre (23 ft) olan kumla dolu bir daire içinde ayakta mücadele ettiği bir güreş biçimidir."
+        },
+        {
+            "id": "Güreş#61",
+            "sentence": "Bu stil, güreş minderi kullanılmadan önce uygulanan kurallara dayanır,  ve uluslararası rekabet güreşinin en eski biçimi olarak kabul edilir."
+        },
+        {
+            "id": "Güreş#62",
+            "sentence": "Güreşçiler özel güreş kıyafetleri yerine mayo, spandeks veya atletik şortlar giyerler."
+        },
+        {
+            "id": "Güreş#63",
+            "sentence": "Uluslararası kurallar 2015 yılında UWW tarafından değiştirilmiş olup, güncel kurallarda güreşçiler, rakiplerini yere serme, dışarı itme ya da sırt üstü düşürme gibi hareketlerle puan kazanabilirler."
+        },
+        {
+            "id": "Güreş#64",
+            "sentence": "Plaj güreşi, yıllık ___E:Dünya Plaj Güreşi Şampiyonası U:(https://tr.wikipedia.org/wiki/D%C3%BCnya_Plaj_G%C3%BCre%C5%9Fi_%C5%9Eampiyonas%C4%B1)___ 'nın yanı sıra ___E:Gençlik Olimpiyat Oyunları U:(https://tr.wikipedia.org/wiki/Gen%C3%A7lik_Olimpiyat_Oyunlar%C4%B1)___ , ___E:Asya Oyunları U:(https://tr.wikipedia.org/wiki/Asya_Oyunlar%C4%B1)___ , Down Under Games, ___E:Akdeniz Oyunları U:(https://tr.wikipedia.org/wiki/Akdeniz_Oyunlar%C4%B1)___ ve ___E:2019 Dünya Plaj Oyunları U:(https://tr.wikipedia.org/w/index.php?title=2019_D%C3%BCnya_Plaj_Oyunlar%C4%B1&action=edit&redlink=1)___ gibi organizasyonlarda da yer almaktadır."
+        },
+        {
+            "id": "Güreş#65",
+            "sentence": "Yerel güreşler, ___E:UWW U:(https://tr.wikipedia.org/wiki/D%C3%BCnya_G%C3%BCre%C5%9F_Birli%C4%9Fi)___ tarafından uluslararası standartlarda düzenlenmeyen, belirli kültürlere ya da coğrafi bölgelere özgü geleneksel güreş biçimlerini ifade eder. Bu stillere örnek olarak şunlar verilebilir: ___E:Cornish wrestling U:(https://tr.wikipedia.org/w/index.php?title=Cornish_wrestling&action=edit&redlink=1)___ , Avrupa kökenli backhold güreşi, İngiltere kökenli ___E:Cumberland Wrestling U:(https://tr.wikipedia.org/w/index.php?title=Cumberland_Wrestling&action=edit&redlink=1)___ ve ___E:catch-as-catch-can U:(https://tr.wikipedia.org/w/index.php?title=Catch_wrestling&action=edit&redlink=1)___ , Özbekistan kökenli ___E:kurash U:(https://tr.wikipedia.org/w/index.php?title=Kurash&action=edit&redlink=1)___ , Tacikistan'ın ___E:gushteengiri U:(https://tr.wikipedia.org/w/index.php?title=Gushteengiri&action=edit&redlink=1)___ , Sibirya'dan ___E:khuresh U:(https://tr.wikipedia.org/w/index.php?title=Khuresh&action=edit&redlink=1)___ , İtalya'nın Lotta Campidanese'si, Myanmar'ın ___E:naban U:(https://tr.wikipedia.org/w/index.php?title=Naban&action=edit&redlink=1)___ güreşi, Hindistan'ın ___E:pehlwani U:(https://tr.wikipedia.org/w/index.php?title=Pehlwani&action=edit&redlink=1)___ , Endonezya'dan penjang gulat, İsviçre'nin ___E:schwingen U:(https://tr.wikipedia.org/wiki/Schwingen)___ , Etiyopya'nın tigel güreşi, Hindistan'ın Naga halkına özgü ___E:kene U:(https://tr.wikipedia.org/w/index.php?title=Kene_(Naga_wrestling)&action=edit&redlink=1)___ , Çin'in ___E:shuai jiao U:(https://tr.wikipedia.org/w/index.php?title=Shuai_jiao&action=edit&redlink=1)___ 'su ve Kore'nin ___E:ssireum U:(https://tr.wikipedia.org/wiki/Ssireum)___ güreşi gibi."
+        },
+        {
+            "id": "Güreş#66",
+            "sentence": "Kelt yerel güreş stilleri (örneğin; ___E:Cornish wrestling U:(https://tr.wikipedia.org/w/index.php?title=Cornish_wrestling&action=edit&redlink=1)___ , ___E:Scottish Backhold U:(https://tr.wikipedia.org/w/index.php?title=Scottish_Backhold&action=edit&redlink=1)___ , ___E:Cumberland Wrestling U:(https://tr.wikipedia.org/w/index.php?title=Cumberland_Wrestling&action=edit&redlink=1)___ , ___E:Gouren U:(https://tr.wikipedia.org/w/index.php?title=Gouren&action=edit&redlink=1)___ ve ___E:Collar-and-elbow U:(https://tr.wikipedia.org/w/index.php?title=Collar-and-elbow&action=edit&redlink=1)___ ) kendi düzenleyici kuruluşlarına sahiptir ve bazıları diğer uluslararası örgütlerle bağlantılıdır."
+        },
+        {
+            "id": "Güreş#67",
+            "sentence": "Örneğin, Cornish Wrestling Association, ___E:British Wrestling Association U:(https://tr.wikipedia.org/w/index.php?title=British_Wrestling_Association&action=edit&redlink=1)___ 'a bağlıdır ve bu örgüt UWW ile ilişkilidir."
+        },
+        {
+            "id": "Güreş#68",
+            "sentence": "Uluslararası Kelt Güreşi Federasyonu (FILC) bu stillerden güreşçilerin katıldığı uluslararası müsabakalar düzenlemektedir."
+        },
+        {
+            "id": "Güreş#69",
+            "sentence": "Yerel güreş stilleri uluslararası çapta da uygulanmaktadır."
+        },
+        {
+            "id": "Güreş#70",
+            "sentence": "Örneğin, Amerika Birleşik Devletleri'nde düzenli ___E:Cornish wrestling U:(https://tr.wikipedia.org/w/index.php?title=Cornish_wrestling&action=edit&redlink=1)___ turnuvaları yapılmakta olup,  Avustralya,  Güney Afrika,  Yeni Zelanda,  İngiltere   ve Cornwall'da yaygınken, Japonya,  Kanada  ve Meksika'da  düzensiz de olsa müsabakalar düzenlenmektedir."
+        },
+        {
+            "id": "Güreş#71",
+            "sentence": "Ayrıca, 1520 yılındaki ___E:Field of the Cloth of Gold U:(https://tr.wikipedia.org/w/index.php?title=Field_of_the_Cloth_of_Gold&action=edit&redlink=1)___ etkinliğinden başlayarak, Cornwall ile Brittany arasında inter-Kelt turnuvaları günümüzde de düzenlenmektedir."
+        },
+        {
+            "id": "Güreş#72",
+            "sentence": "___E:Yağlı güreş U:(https://tr.wikipedia.org/wiki/Ya%C4%9Fl%C4%B1_g%C3%BCre%C5%9F)___ (grease wrestling olarak da bilinir), Türkiye'nin ulusal sporudur."
+        },
+        {
+            "id": "Güreş#73",
+            "sentence": "Bu isim, güreşçilerin kendilerini zeytinyağı ile yağlamasından kaynaklanır."
+        },
+        {
+            "id": "Güreş#74",
+            "sentence": "Yağlı güreş, Özbekistan'dan kurash, Tuva'dan khuresh ve Tatar ile Başkurtların көрәш (köräş) güreş stilleri ile bağlantılıdır."
+        },
+        {
+            "id": "Güreş#75",
+            "sentence": "Güreşçiler, şampiyon anlamına gelen pehlivan olarak adlandırılır ve suaygırı derisinden geleneksel olarak el dikişiyle yapılan ve son zamanlarda dana derisinden üretilen kispet adlı özel bir deri şort giyerler."
+        },
+        {
+            "id": "Güreş#76",
+            "sentence": "Olimpiyat güreşinden farklı olarak, yağlı güreşte müsabakalar kispet üzerinde etkili bir tutuş sağlanarak kazanılır."
+        },
+        {
+            "id": "Güreş#77",
+            "sentence": "Bu nedenle pehlivan, rakibinin kispetinden kolunu geçirerek onu kontrol etmeye çalışır."
+        },
+        {
+            "id": "Güreş#78",
+            "sentence": "Bu hareketle kazanmak paça kazık olarak adlandırılır."
+        },
+        {
+            "id": "Güreş#79",
+            "sentence": "Başlangıçta maçların süresi belirlenmemiş olup, üstünlük sağlanana kadar 1-2 gün devam edebilirdi."
+        },
+        {
+            "id": "Güreş#80",
+            "sentence": "Ancak 1975'te, başpehlivan kategorisi için süre 40 dakika, pehlivan kategorisi için 30 dakika olarak sınırlandırıldı."
+        },
+        {
+            "id": "Güreş#81",
+            "sentence": "Eğer kazanan belirlenemezse, pehlivan kategorisi için 10 dakika, başpehlivan için 15 dakika uzatma yapılır ve bu sürede puanlama ile galip belirlenir."
+        },
+        {
+            "id": "Güreş#82",
+            "sentence": "Her yıl 1362 yılından beri Türk Trakya'sında, ___E:Edirne U:(https://tr.wikipedia.org/wiki/Edirne)___ 'de düzenlenen ___E:Kırkpınar U:(https://tr.wikipedia.org/wiki/K%C4%B1rkp%C4%B1nar_Ya%C4%9Fl%C4%B1_G%C3%BCre%C5%9Fleri)___ turnuvası, dünyanın en eski sürekli düzenlenen resmi spor organizasyonudur."
+        },
+        {
+            "id": "Güreş#83",
+            "sentence": "Son yıllarda bu güreş stili başka ülkelerde de popülerlik kazanmıştır."
+        },
+        {
+            "id": "Güreş#84",
+            "sentence": "Kolej güreşi (folkstyle wrestling olarak da bilinir), Amerika Birleşik Devletleri'nde ___E:kolej U:(https://tr.wikipedia.org/wiki/Kolej)___ ve ___E:üniversite U:(https://tr.wikipedia.org/wiki/%C3%9Cniversite)___ seviyesinde yaygın olarak uygulanan güreş stilidir."
+        },
+        {
+            "id": "Güreş#85",
+            "sentence": "Bu stil, okul güreşi kurallarında bazı değişikliklerle lise ve ortaokul seviyelerinde, ayrıca daha küçük yaş gruplarında da uygulanır."
+        },
+        {
+            "id": "Güreş#86",
+            "sentence": "Terim, bu stilin diğer dünya bölgelerinde uygulanan güreş stillerinden ve ___E:Olimpiyat Oyunları U:(https://tr.wikipedia.org/wiki/Olimpiyat_Oyunlar%C4%B1)___ 'nda yer alan ___E:Grekoromen güreş U:(https://tr.wikipedia.org/wiki/Grekoromen_g%C3%BCre%C5%9F)___ ve ___E:serbest güreş U:(https://tr.wikipedia.org/wiki/Serbest_g%C3%BCre%C5%9F)___ gibi stillerden ayrılması için kullanılır."
+        },
+        {
+            "id": "Güreş#87",
+            "sentence": "ABD'deki bazı liselerde, kolej takımlarının yanında gençler ve yeni başlayanlar için ayrı takımlar da kurulmuştur."
+        },
+        {
+            "id": "Güreş#88",
+            "sentence": "Bu takımlar, sadece kiloya değil aynı zamanda yaşa ve güreşçinin müsabakalara katılabileceği mat süresine göre de sınırlamalar getirir."
+        },
+        {
+            "id": "Güreş#89",
+            "sentence": "Örneğin, bazı genç ve yeni başlayan güreşçilerin turnuvalara katılması, kısa sürede çok fazla mat süresi almaları nedeniyle engellenebilir."
+        },
+        {
+            "id": "Güreş#90",
+            "sentence": "ABD'de kadın kolej güreşi, Ulusal Kolej Atletizm Birliği (NCAA) bünyesinde serbest güreş kurallarıyla, Ulusal Kolej Güreşi Birliği (NCWA) bünyesinde ise standart kolej güreşi kurallarıyla düzenlenir."
+        },
+        {
+            "id": "Güreş#91",
+            "sentence": "Kolej güreşi müsabakalarını yöneten birkaç organizasyon vardır: NCAA'nın Bölüm I, II ve III'ü, Ulusal Kolejlerarası Atletizm Birliği (NAIA), Ulusal Gençler Kolej Atletizm Birliği (NJCAA) ve NCWA. NCAA Bölüm I güreşi programları en prestijli ve zorlu rekabet seviyesi olarak kabul edilir."
+        },
+        {
+            "id": "Güreş#92",
+            "sentence": "Okullar, katılacakları atletizm organizasyonunu seçer, ancak sezon içi müsabakalarda farklı seviyelerden ve organizasyonlardan takımlarla karşılaşabilirler."
+        },
+        {
+            "id": "Güreş#93",
+            "sentence": "Kolej güreşi sezonu Ekim veya Kasım'da başlar ve Mart ayında düzenlenen Ulusal Şampiyona turnuvasıyla sona erer."
+        },
+        {
+            "id": "Güreş#94",
+            "sentence": "Kaynak hatası: <ref> \"n\" adında grup ana etiketi bulunuyor, ancak <references group=\"n\"/> etiketinin karşılığı bulunamadı (Bkz: Kaynak gösterme)"
+        }
+    ]
+}

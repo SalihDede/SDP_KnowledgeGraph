@@ -1,0 +1,855 @@
+{
+    "Title": "University of Chicago - Wikipedia",
+    "Card": {
+        "Motto": "Crescat scientia; vita excolatur ( ___E:Latin U:(https://en.wikipedia.org/wiki/Latin)___ )",
+        "Motto in English": "\"Let knowledge grow from more to more; and so be human life enriched\"",
+        "Type": "___E:Private U:(https://en.wikipedia.org/wiki/Private_university)___ ___E:research university U:(https://en.wikipedia.org/wiki/Research_university)___",
+        "Established": "1890 ; 135 years ago (1890)",
+        "Founder": "___E:John D. Rockefeller U:(https://en.wikipedia.org/wiki/John_D._Rockefeller)___",
+        "Accreditation": "___E:HLC U:(https://en.wikipedia.org/wiki/Higher_Learning_Commission)___",
+        "Academic affiliations": ".mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:\": \"}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:\" · \";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:\" (\";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:\")\";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:\" \"counter(listitem)\"\\a0 \"}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:\" (\"counter(listitem)\"\\a0 \"} AAUNAICUURA",
+        "Endowment": "$10.1 billion (2024)",
+        "President": "___E:Paul Alivisatos U:(https://en.wikipedia.org/wiki/Paul_Alivisatos)___",
+        "Academic staff": "3,418 (2023)",
+        "Administrative staff": "23,217 (2023)",
+        "Students": "19,287 (2024)",
+        "Undergraduates": "7,569 (2024)",
+        "Postgraduates": "10,968 (2024)",
+        "Other students": "750 (non-degree seeking, 2024)",
+        "Location": "Chicago , Illinois , United States 41°47′23″N 87°35′59″W﻿ / ﻿41.78972°N 87.59972°W﻿ / 41.78972; -87.59972",
+        "Campus": "Large city, 217 acres (87.8 ha) (main campus)",
+        "Other campuses": "BeijingDelhiHong KongLondonLuxorParis",
+        "Newspaper": "The Chicago Maroon",
+        "Colors": ".mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{} Maroon",
+        "Nickname": "___E:Maroons U:(https://en.wikipedia.org/wiki/Chicago_Maroons)___",
+        "Sporting affiliations": "___E:NCAA Division III U:(https://en.wikipedia.org/wiki/NCAA_Division_III)___ – UAAMWC",
+        "Mascot": "Phil the Phoenix",
+        "Website": "uchicago.edu"
+    },
+    "Main": [
+        {
+            "id": "University of Chicago - Wikipedia#1",
+            "sentence": "The University of Chicago ( UChicago , Chicago , UChi , or U of C ) is a ___E:private U:(https://en.wikipedia.org/wiki/Private_university)___ ___E:research university U:(https://en.wikipedia.org/wiki/Research_university)___ in ___E:Chicago U:(https://en.wikipedia.org/wiki/Chicago)___ , Illinois, in the United States."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#2",
+            "sentence": "Its main campus is in the ___E:Hyde Park U:(https://en.wikipedia.org/wiki/Hyde_Park,_Chicago)___ neighborhood."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#3",
+            "sentence": "The university is composed of an ___E:undergraduate college U:(https://en.wikipedia.org/wiki/College_of_the_University_of_Chicago)___ and four graduate research divisions: the Arts & Humanities Division, the Biological Sciences Division, the Physical Sciences Division, and the Social Sciences Division, all of which include various organized departments and institutes."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#4",
+            "sentence": "In addition, the university operates seven professional schools in the fields of ___E:business U:(https://en.wikipedia.org/wiki/University_of_Chicago_Booth_School_of_Business)___ , ___E:social work U:(https://en.wikipedia.org/wiki/Crown_Family_School_of_Social_Work,_Policy,_and_Practice)___ , ___E:theology U:(https://en.wikipedia.org/wiki/University_of_Chicago_Divinity_School)___ , ___E:public policy U:(https://en.wikipedia.org/wiki/Harris_School_of_Public_Policy)___ , ___E:law U:(https://en.wikipedia.org/wiki/University_of_Chicago_Law_School)___ , ___E:medicine U:(https://en.wikipedia.org/wiki/Pritzker_School_of_Medicine)___ , and ___E:molecular engineering U:(https://en.wikipedia.org/wiki/Pritzker_School_of_Molecular_Engineering)___ , and a school of ___E:continuing studies U:(https://en.wikipedia.org/wiki/Graham_School_of_Continuing_Liberal_and_Professional_Studies)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#5",
+            "sentence": "The university maintains satellite campuses and centers in London, ___E:Hong Kong U:(https://en.wikipedia.org/wiki/University_of_Chicago_Hong_Kong)___ , Paris, Beijing, Delhi, Luxor, and downtown Chicago."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#6",
+            "sentence": "University of Chicago scholars have played a role in the development of many academic disciplines, including economics, law, literary criticism, mathematics, physics, religion, sociology, and political science, establishing the ___E:Chicago schools U:(https://en.wikipedia.org/wiki/Chicago_school_(disambiguation))___ of thought in various fields."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#7",
+            "sentence": "Chicago's ___E:Metallurgical Laboratory U:(https://en.wikipedia.org/wiki/Metallurgical_Laboratory)___ produced the world's first human-made, self-sustaining nuclear reaction in ___E:Chicago Pile-1 U:(https://en.wikipedia.org/wiki/Chicago_Pile-1)___ beneath the viewing stands of the university's ___E:Stagg Field U:(https://en.wikipedia.org/wiki/Stagg_Field)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#8",
+            "sentence": "Advances in chemistry led to the \"radiocarbon revolution\" in the ___E:carbon-14 dating U:(https://en.wikipedia.org/wiki/Radiocarbon_dating)___ of ancient life and objects."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#9",
+            "sentence": "The university research efforts include administration of the ___E:Fermi National Accelerator Laboratory U:(https://en.wikipedia.org/wiki/Fermilab)___ and the ___E:Argonne National Laboratory U:(https://en.wikipedia.org/wiki/Argonne_National_Laboratory)___ , as well as the ___E:Marine Biological Laboratory U:(https://en.wikipedia.org/wiki/Marine_Biological_Laboratory)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#10",
+            "sentence": "The university is also home to the ___E:University of Chicago Press U:(https://en.wikipedia.org/wiki/University_of_Chicago_Press)___ , the largest ___E:university press U:(https://en.wikipedia.org/wiki/List_of_university_presses)___ in the United States."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#11",
+            "sentence": "As of 2025, the university's students, faculty, and staff have included ___E:101 Nobel laureates U:(https://en.wikipedia.org/wiki/List_of_Nobel_laureates_by_university_affiliation)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#12",
+            "sentence": "The university's ___E:faculty members and alumni U:(https://en.wikipedia.org/wiki/List_of_University_of_Chicago_people)___ also include 10 ___E:Fields Medalists U:(https://en.wikipedia.org/wiki/Fields_Medal)___ , 4 ___E:Turing Award U:(https://en.wikipedia.org/wiki/Turing_Award)___ winners, 58 ___E:MacArthur Fellows U:(https://en.wikipedia.org/wiki/MacArthur_Fellows_Program)___ , 30 ___E:Marshall Scholars U:(https://en.wikipedia.org/wiki/Marshall_Scholars)___ , 55 ___E:Rhodes Scholars U:(https://en.wikipedia.org/wiki/Rhodes_Scholarship)___ , 27 ___E:Pulitzer Prize U:(https://en.wikipedia.org/wiki/Pulitzer_Prize)___ winners, 20 ___E:National Humanities Medalists U:(https://en.wikipedia.org/wiki/National_Humanities_Medal)___ , and ___E:8 Olympic medalists U:(https://en.wikipedia.org/wiki/List_of_American_universities_with_Olympic_medals)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#13",
+            "sentence": "The first University of Chicago was founded by a small group of ___E:Baptist U:(https://en.wikipedia.org/wiki/Baptists_in_the_United_States)___ educators and incorporated in 1857 after a land endowment from Senator ___E:Stephen A. Douglas U:(https://en.wikipedia.org/wiki/Stephen_A._Douglas)___ and a fundraising campaign directed by the first president of the institution, ___E:John C. Burroughs U:(https://en.wikipedia.org/wiki/John_C._Burroughs)___ .  : 8–10 It closed in 1886 after decades of financial struggle, exacerbated by the ___E:Great Chicago Fire U:(https://en.wikipedia.org/wiki/Great_Chicago_Fire)___ and the ___E:Panic of 1873 U:(https://en.wikipedia.org/wiki/Panic_of_1873)___ ,  : 18 when the university's property was foreclosed on by its creditors.  : 8–10 In 1890, its trustees elected to change the university's name to the \" ___E:Old University of Chicago U:(https://en.wikipedia.org/wiki/Old_University_of_Chicago)___ \" so that the new university could go by the name of the city; a year later, the new university voted to recognize the alumni of the old as alumni of the new.  : 59"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#14",
+            "sentence": "In 1890, the ___E:American Baptist Education Society U:(https://en.wikipedia.org/wiki/American_Baptist_Churches_USA)___ (ABES) incorporated a new University of Chicago as a ___E:coeducational U:(https://en.wikipedia.org/wiki/Mixed-sex_education)___ institution,  : 137 using $400,000 donated to the ABES to supplement a $600,000 donation from ___E:Standard Oil U:(https://en.wikipedia.org/wiki/Standard_Oil)___ co-founder ___E:John D. Rockefeller U:(https://en.wikipedia.org/wiki/John_D._Rockefeller)___  and land donated by ___E:Marshall Field U:(https://en.wikipedia.org/wiki/Marshall_Field)___ .  : 60–61 The ___E:Hyde Park U:(https://en.wikipedia.org/wiki/Hyde_Park,_Chicago)___ campus’ construction was financed by donations from wealthy Chicagoans such as ___E:Silas B. Cobb U:(https://en.wikipedia.org/wiki/Silas_B._Cobb)___ , donor of the campus's first building, Cobb Lecture Hall;  ___E:Charles L. Hutchinson U:(https://en.wikipedia.org/wiki/Charles_L._Hutchinson)___ , trustee, treasurer and donor of ___E:Hutchinson Commons U:(https://en.wikipedia.org/wiki/Hutchinson_Commons)___ ;  and ___E:Martin A. Ryerson U:(https://en.wikipedia.org/wiki/Martin_A._Ryerson)___ , president of the board of trustees and donor of the Ryerson Physical Laboratory.  : 103–105"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#15",
+            "sentence": "___E:William Rainey Harper U:(https://en.wikipedia.org/wiki/William_Rainey_Harper)___ became the university's president on July 1, 1891, and classes first began on October 1, 1892.  Harper offered large salaries to attract senior faculty,  : 78 and in two years had a faculty of 120, including eight former university or college presidents."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#16",
+            "sentence": "The undergraduate program was divided into two parts, with the first two years making up the Academic College, focusing on preparation for higher learning, and the last two years comprising the University College, with more advanced courses."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#17",
+            "sentence": "The university operated on a ___E:quarter system U:(https://en.wikipedia.org/wiki/Academic_quarter_(year_division))___ , with 36 courses required to graduate.  : 82–84 Harper brought the ___E:Baptist U:(https://en.wikipedia.org/wiki/Baptists)___ seminary, which had historical ties to the Old University of Chicago, to the university."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#18",
+            "sentence": "This became the ___E:Divinity School U:(https://en.wikipedia.org/wiki/University_of_Chicago_Divinity_School)___ in 1891, the first graduate professional school at the University of Chicago.  : 20–22 Harper was a supporter of intercollegiate athletics, recruiting ___E:Amos Alonzo Stagg U:(https://en.wikipedia.org/wiki/Amos_Alonzo_Stagg)___ in 1892 to coach the football team and defending athletics from faculty opposition.  : 89 In 1894, the university adopted ___E:maroon U:(https://en.wikipedia.org/wiki/Maroon)___ as its official color after initially selecting ___E:goldenrod U:(https://en.wikipedia.org/wiki/Goldenrod_(color))___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#19",
+            "sentence": "The Maroons became the university's nickname during the same year.  During this period, the university founded the ___E:university extension U:(https://en.wikipedia.org/wiki/University_of_Chicago_Continuing_Education_Division)___ , which offered evening courses for adults and ___E:correspondence courses U:(https://en.wikipedia.org/wiki/Distance_education)___ , and the ___E:University of Chicago Press U:(https://en.wikipedia.org/wiki/University_of_Chicago_Press)___ .  : 74"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#20",
+            "sentence": "Rockefeller continued to provide significant contributions to the university after its founding."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#21",
+            "sentence": "Harper's efforts to finance faculty research projects, expand the campus, and support university initiatives caused significant deficits covered by Rockefeller donations, with annual deficits between 1894 and 1903 averaging $215,000. In 1898, the board of trustees made a commitment to use new gifts to eliminate the deficit rather than to further expand programs, but structural deficits remained until after Harper's presidency.  : 110–112"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#22",
+            "sentence": "After Harper's death in 1906, the board of trustees named ___E:Harry Pratt Judson U:(https://en.wikipedia.org/wiki/Harry_Pratt_Judson)___ , head of the Department of Political Science, acting president; in 1907, the appointment was made permanent.  : 149–150 Judson initiated a policy of financial austerity, which renewed Rockefeller's confidence in the university and resulted in a series of large gifts to the endowment between 1906 and 1910, including a final gift of $10 million in 1910 that balanced the university's budget.  : 113 In 1911, the university adopted a Latin motto of Crescat scientia; vita excolatur , which translates to \"Let knowledge grow from more and more; and so be human life enriched.\"   In 1912, Judson successfully encouraged the board to create a faculty pension fund.  : 150"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#23",
+            "sentence": "During ___E:World War I U:(https://en.wikipedia.org/wiki/World_War_I)___ , Judson, as well as faculty members such as ___E:Albion Small U:(https://en.wikipedia.org/wiki/Albion_Woodbury_Small)___ and ___E:Paul Shorey U:(https://en.wikipedia.org/wiki/Paul_Shorey)___ , published works supporting the war. On the other hand, student reaction was mixed, with most not participating in newly formed voluntary military training programs such as the ___E:ROTC U:(https://en.wikipedia.org/wiki/Reserve_Officers%27_Training_Corps)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#24",
+            "sentence": "In 1918, the Student Army Training Corps program was announced by the War Department, which requisitioned the campus to be run by army officers for military training, but the ___E:November armistice U:(https://en.wikipedia.org/wiki/Armistice_of_11_November_1918)___ soon ended the program.  : 154–162 After the war, the Oriental Institute, now the ___E:Institute for the Study of Ancient Cultures U:(https://en.wikipedia.org/wiki/Institute_for_the_Study_of_Ancient_Cultures)___ , was founded by Egyptologist ___E:James Henry Breasted U:(https://en.wikipedia.org/wiki/James_Henry_Breasted)___ to support and interpret ___E:archeological U:(https://en.wikipedia.org/wiki/Archeological)___ work in what was then called the ___E:Near East U:(https://en.wikipedia.org/wiki/Near_East)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#25",
+            "sentence": "In 1923, senior scholar ___E:Ernest D. Burton U:(https://en.wikipedia.org/wiki/Ernest_DeWitt_Burton)___ succeeded Judson as president.  : 163–164 Burton launched the first major fundraising campaign of the university to improve the research environment of the faculty as well as invest in residential halls for undergraduates, finding initial success despite faculty opposition to the perceived prioritization of undergraduate over graduate interests."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#26",
+            "sentence": "Burton's sudden death in 1925 led to his replacement by physicist ___E:Max Mason U:(https://en.wikipedia.org/wiki/Max_Mason)___ , who ended the citywide fundraising drive early in favor of a quieter outreach among local businessmen.  : 167–182 During Burton's term, and later Mason's, the ___E:Chicago Schools U:(https://en.wikipedia.org/wiki/Chicago_school)___ of thought began to emerge in the social sciences, with new organizations being established such as the ___E:Social Science Research Council U:(https://en.wikipedia.org/wiki/Social_Science_Research_Council)___ in 1923.  : 190–191"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#27",
+            "sentence": "In 1929, the 30-year-old dean of ___E:Yale Law School U:(https://en.wikipedia.org/wiki/Yale_Law_School)___ , ___E:Robert Maynard Hutchins U:(https://en.wikipedia.org/wiki/Robert_Maynard_Hutchins)___ , became president.  : 167–182 In 1930, Hutchins organized the graduate departments under four independent divisions and united the undergraduate colleges into one college.  : 222 In 1931, alongside dean of the college ___E:Chauncey Boucher U:(https://en.wikipedia.org/wiki/Chauncey_Samuel_Boucher)___ , Hutchins implemented a new two-year general education curriculum called the \"New Plan\", which formed the basis for the university's core curriculum.  : 231–233 Later in the 1930s, Hutchins became unsatisfied with departmental influence on the undergraduate curriculum and pushed for further expansion to the general education curriculum.  : 242–252 In 1942, Hutchins transferred jurisdiction of the BA degree from the graduate divisions to the college, thus removing divisional leverage to shape the curriculum."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#28",
+            "sentence": "The same year, the college reformed the BA degree with four years of prescribed general education.  : 253–255"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#29",
+            "sentence": "Budget shortfalls caused by the Great Depression led to significant austerity measures and staffing cuts, though Hutchins protected the salaries of those who remained."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#30",
+            "sentence": "In 1933, Hutchins proposed a plan to alleviate the financial situation by merging the university with ___E:Northwestern University U:(https://en.wikipedia.org/wiki/Northwestern_University)___ , though it was ultimately abandoned.  : 287–289 Financial woes contributed to the decision to end the university's football program in 1939.  : 214 With substantial budget gaps remaining and support from the ___E:Rockefeller Foundation U:(https://en.wikipedia.org/wiki/Rockefeller_Foundation)___ having dried up, a second major fundraising campaign was launched between 1939 and 1941 to celebrate the fiftieth anniversary of the university's founding with mixed results.  : 290–299 Large deficits persisted after ___E:World War II U:(https://en.wikipedia.org/wiki/World_War_II)___ , leaving future presidents to balance the budget.  : 316"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#31",
+            "sentence": "During the war, the university recruited a number of refugee scientists from Europe, including ___E:Enrico Fermi U:(https://en.wikipedia.org/wiki/Enrico_Fermi)___ , ___E:Rudolf Carnap U:(https://en.wikipedia.org/wiki/Rudolf_Carnap)___ , and ___E:James Franck U:(https://en.wikipedia.org/wiki/James_Franck)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#32",
+            "sentence": "The university's ___E:Metallurgical Laboratory U:(https://en.wikipedia.org/wiki/Metallurgical_Laboratory)___ contributed to the ___E:Manhattan Project U:(https://en.wikipedia.org/wiki/Manhattan_Project)___ , with Enrico Fermi engineering the first ___E:self-sustaining nuclear chain reaction U:(https://en.wikipedia.org/wiki/Nuclear_chain_reaction)___ at ___E:Stagg Field U:(https://en.wikipedia.org/wiki/Stagg_Field)___ in 1942.  : 301–305 In 1945, Hutchins announced the formation of the Institute for Nuclear Studies and the Institute for the Study of Metals in order to continue work done during the war. These were later renamed the ___E:Enrico Fermi Institute U:(https://en.wikipedia.org/wiki/Enrico_Fermi_Institute)___ and the ___E:James Franck Institute U:(https://en.wikipedia.org/wiki/James_Franck_Institute)___ , respectively.  : 286 The university came under public scrutiny before and after the war for alleged communist influence, with university leadership called to testify before the ___E:Illinois General Assembly U:(https://en.wikipedia.org/wiki/Illinois_General_Assembly)___ on the loyalty of its student body and faculty in 1935 and 1949.  : 269–280"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#33",
+            "sentence": "In 1951, vice president of development ___E:Lawrence Kimpton U:(https://en.wikipedia.org/wiki/Lawrence_A._Kimpton)___ succeeded Hutchins as chancellor,  : 323–324 a position created in 1945 replacing the president as head of the university.  : 310 The deficits left from Hutchins necessitated severe annual cuts in the operating budget, which was brought into balance by 1954. A fundraising campaign was launched the same year, which allowed for modest recovery,  : 338–343 but the financial situation worsened after a decline in undergraduate enrollments.  : 325–327 In 1957, to attract more students, Kimpton reduced the general education curriculum from four years to two years."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#34",
+            "sentence": "Furthermore, the graduate divisional faculty with slowly merged with the previously independent college faculty via joint appointments.  : 328–330 To address safety concerns driven by increasing crime and poverty in the Hyde Park neighborhood, the university became a major sponsor of a controversial ___E:urban renewal project for Hyde Park U:(https://en.wikipedia.org/wiki/Hyde_Park,_Chicago#Racial_integration,_economic_decline,_and_urban_renewal)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#35",
+            "sentence": "Between 1954 and 1960, the university worked with the South East Chicago Commission and Mayor ___E:Richard J. Daley U:(https://en.wikipedia.org/wiki/Richard_J._Daley)___ to clear approximately 925 acres of land, disproportionately affecting Black, low-income residents.  : 343–350"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#36",
+            "sentence": "In 1961, ___E:Caltech U:(https://en.wikipedia.org/wiki/California_Institute_of_Technology)___ professor ___E:George Beadle U:(https://en.wikipedia.org/wiki/George_Beadle)___ was elected chancellor, resuming the title of president later that year.   : 355–356 Beadle's tenure saw large investments in faculty and campus expansion to rebuild the university after Kimpton's austerity, funded in large part by a $25 million grant provided by the ___E:Ford Foundation U:(https://en.wikipedia.org/wiki/Ford_Foundation)___ and an accompanying fundraising campaign.  : 359–365 In 1964, the undergraduate college was reorganized into five collegiate divisions, four paralleling the four graduate divisions and one interdisciplinary New Collegiate Division.  : 366"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#37",
+            "sentence": "In 1967, provost ___E:Edward Levi U:(https://en.wikipedia.org/wiki/Edward_H._Levi)___ became president."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#38",
+            "sentence": "His tenure saw a number of sit-ins at the administrative building: in 1962, over the university's segregationist off-campus rental policies;  in 1966 and 1967, over the university providing the class rank of students who sought deferments to draft boards; and in 1969, over the sociology's department decision not to rehire the openly Marxist assistant professor Marlene Dixon.   : 371–375 In 1967, a university committee issued the ___E:Kalven Report U:(https://en.wikipedia.org/wiki/Kalven_Report)___ , maintaining the university's duty to uphold academic freedom and remain non-partisan.  : 497–499 The report has since been cited in university debates over divesting from South Africa and Sudan,  as well as in the ___E:Chicago Principles U:(https://en.wikipedia.org/wiki/Chicago_Principles)___ on free speech,  : 500 which a number of other universities have since adopted."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#39",
+            "sentence": "By the 1970s, facing the end of the Ford Foundation's support, a reduction in enrollment due to insufficient student housing, flagging federal funding, and broader economic ___E:stagflation U:(https://en.wikipedia.org/wiki/1973%E2%80%931975_recession)___ , the university faced more fiscal austerity.  : 379–387 In 1975, provost John Wilson was appointed president, balancing the budget once more through cuts.  : 391–393"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#40",
+            "sentence": "In 1978, history scholar and provost of ___E:Yale U:(https://en.wikipedia.org/wiki/Yale_University)___ , ___E:Hanna Holborn Gray U:(https://en.wikipedia.org/wiki/Hanna_Holborn_Gray)___ , became president of the university."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#41",
+            "sentence": "She was the first woman in the United States to be appointed to a full-term presidency of a major research university.  : 393 Still facing budgetary issues, Gray modernized the university's financial systems, increased the size and tuition of the undergraduate college, and paired campus expansion and renovation with administrative austerity."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#42",
+            "sentence": "While budgetary equilibrium was reached through the mid-1980s, acute deficits soon re-emerged, exacerbated by the ___E:1990-1992 recession U:(https://en.wikipedia.org/wiki/Early_1990s_recession)___ .  : 393–398 Gray also oversaw the implementation of a unified 21 course core curriculum across all collegiate divisions in 1985 and invested in student life through new food services, school festivals, and the reintroduction of varsity athletics.  : 403–405"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#43",
+            "sentence": "In 1992, economist ___E:Hugo F. Sonnenschein U:(https://en.wikipedia.org/wiki/Hugo_F._Sonnenschein)___ became president, facing projected deficits of $23 million for the 1995-96 budget and poor endowment growth.  : 407 The raising of $676 million in a fundraising campaign for the university's centennial throughout the early 1990s helped alleviate these problems.  : 418 In 1996, Sonnenschein proposed the expansion of the undergraduate college by 1,000 students to raise tuition revenue, and in 1997, backed a plan to reduce the number of required course in the core curriculum from 21 to 15–18 (depending on how a student met the language requirement)."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#44",
+            "sentence": "After intense debate, with the university becoming the focal point of a national debate on education, both reforms were approved.  : 409–417 In 2000, ___E:Cornell University U:(https://en.wikipedia.org/wiki/Cornell_University)___ provost Don Michael Randel became the twelfth president of the university."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#45",
+            "sentence": "His tenure was marked by increased support for the arts on campus, stronger outreach to local civic and business leaders, investments in major campus facilities, and the launch of a new $2 billion capital campaign.  : 421"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#46",
+            "sentence": "In 2006, mathematician ___E:Robert J. Zimmer U:(https://en.wikipedia.org/wiki/Robert_Zimmer)___ was appointed president, receiving board approval to take on large amounts of debt at low interest rates after the ___E:2008 recession U:(https://en.wikipedia.org/wiki/Great_Recession_in_the_United_States)___ in order to finance a number of major projects.  : 465–468 These included new buildings and pavilions, such as ___E:Mansueto Library U:(https://en.wikipedia.org/wiki/Joe_and_Rika_Mansueto_Library)___ in 2011, a reading room and book storage facility;  the Logan Center for the Arts in 2012;  : 471 the Keller Center in 2019, home of the ___E:Harris School of Public Policy U:(https://en.wikipedia.org/wiki/Harris_School_of_Public_Policy)___ ;  : 471 and Woodlawn Residential Commons in 2020, which houses 1,298 students."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#47",
+            "sentence": "Between 2008 and 2022, the university partnered with the city and outside businesses to launch three interventions along 53rd Street in an attempt to improve the neighborhood's economic condition.  : 473–477 As part of an effort to invest in its professional schools, the university formed the ___E:Becker Friedman Institute U:(https://en.wikipedia.org/wiki/Becker_Friedman_Institute_for_Research_in_Economics)___ in 2011,  acquired the ___E:Marine Biological Laboratory U:(https://en.wikipedia.org/wiki/Marine_Biological_Laboratory)___ in 2013,  : 491 repurposed the ___E:Crerar Library U:(https://en.wikipedia.org/wiki/John_Crerar_Library)___ as the headquarters of the Department of Computer Science in 2018,  : 472 and established the ___E:Pritzker School of Molecular Engineering U:(https://en.wikipedia.org/wiki/Pritzker_School_of_Molecular_Engineering)___ in 2019.  The university also expanded its presence abroad, opening ___E:campuses in Hong Kong U:(https://en.wikipedia.org/wiki/University_of_Chicago_Hong_Kong)___ in 2018,  in London in 2022,  : 507 and in Paris in 2024,  alongside centers in Beijing in 2010  and in Delhi in 2014.  Despite a $5.4 billion fundraising campaign started in 2014,  : 468 university debt has exceeded initial planning expectations, reaching $6.3 billion in 2025."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#48",
+            "sentence": "In 2021, Zimmer was succeeded by ___E:Paul Alivisatos U:(https://en.wikipedia.org/wiki/Paul_Alivisatos)___ , then-provost of the ___E:University of California, Berkeley U:(https://en.wikipedia.org/wiki/University_of_California,_Berkeley)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#49",
+            "sentence": "In 2024, university students set up ___E:an encampment on the university's main quad U:(https://en.wikipedia.org/wiki/List_of_pro-Palestinian_protests_on_university_campuses_in_the_United_States_in_2024#Illinois)___  as a part of ___E:the nationwide movement U:(https://en.wikipedia.org/wiki/2024_pro-Palestinian_protests_on_university_campuses)___ in support of Palestine at institutions of higher learning across the country."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#50",
+            "sentence": "The encampment was later cleared by University of Chicago Police Department officers."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#51",
+            "sentence": "The main campus of the University of Chicago consists of 217 acres (87.8 ha) in the Chicago neighborhoods of ___E:Hyde Park U:(https://en.wikipedia.org/wiki/Hyde_Park,_Chicago)___ and ___E:Woodlawn U:(https://en.wikipedia.org/wiki/Woodlawn,_Chicago)___ , approximately eight miles (13 km) south of ___E:downtown Chicago U:(https://en.wikipedia.org/wiki/Chicago_Loop)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#52",
+            "sentence": "The northern and southern portions of campus are separated by the ___E:Midway Plaisance U:(https://en.wikipedia.org/wiki/Midway_Plaisance)___ , a large, linear park created for the 1893 ___E:World's Columbian Exposition U:(https://en.wikipedia.org/wiki/World%27s_Columbian_Exposition)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#53",
+            "sentence": "In 2011, Travel+Leisure listed the university as one of the most beautiful college campuses in the United States."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#54",
+            "sentence": "The first buildings of the campus, which make up what are now known as the Main Quadrangles, were part of a master plan conceived by two University of Chicago trustees and plotted by Chicago architect ___E:Henry Ives Cobb U:(https://en.wikipedia.org/wiki/Henry_Ives_Cobb)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#55",
+            "sentence": "The Main Quadrangles consist of six ___E:quadrangles U:(https://en.wikipedia.org/wiki/Quadrangle_(architecture))___ , each surrounded by buildings, bordering one larger quadrangle.  : 221 The buildings of the Main Quadrangles were designed by Cobb, ___E:Shepley, Rutan and Coolidge U:(https://en.wikipedia.org/wiki/Shepley,_Rutan_and_Coolidge)___ , ___E:Holabird & Roche U:(https://en.wikipedia.org/wiki/Holabird_%26_Roche)___ , and other architectural firms in a mixture of the ___E:Victorian Gothic U:(https://en.wikipedia.org/wiki/Victorian_Gothic)___ and ___E:Collegiate Gothic U:(https://en.wikipedia.org/wiki/Collegiate_Gothic)___ styles, patterned on the colleges of the ___E:University of Oxford U:(https://en.wikipedia.org/wiki/University_of_Oxford)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#56",
+            "sentence": "Mitchell Tower, for example, is modeled after Oxford's ___E:Magdalen Tower U:(https://en.wikipedia.org/wiki/Magdalen_Tower)___ ,  and the university Commons, ___E:Hutchinson Hall U:(https://en.wikipedia.org/wiki/Hutchinson_Hall)___ , replicates ___E:Christ Church U:(https://en.wikipedia.org/wiki/Christ_Church,_Oxford)___ Hall.  In celebration of the 2018 Illinois Bicentennial, the University of Chicago Quadrangles were selected as one of the Illinois 200 Great Places by the ___E:American Institute of Architects U:(https://en.wikipedia.org/wiki/American_Institute_of_Architects)___ Illinois component."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#57",
+            "sentence": "After the 1940s, the campus's Gothic style began to give way to modern styles."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#58",
+            "sentence": "In 1955, ___E:Eero Saarinen U:(https://en.wikipedia.org/wiki/Eero_Saarinen)___ was contracted to develop a second master plan, which led to the construction of buildings both north and south of the Midway, including the Laird Bell Law Quadrangle (a complex designed by Saarinen);  a series of arts buildings;  Edith Abbott Hall, designed by ___E:Ludwig Mies van der Rohe U:(https://en.wikipedia.org/wiki/Ludwig_Mies_van_der_Rohe)___ ;  the Keller Center, which is home of the ___E:Harris School of Public Policy U:(https://en.wikipedia.org/wiki/Harris_School_of_Public_Policy)___ and was designed by ___E:Edward Durrell Stone U:(https://en.wikipedia.org/wiki/Edward_Durrell_Stone)___ ;  and the ___E:Regenstein Library U:(https://en.wikipedia.org/wiki/Regenstein_Library)___ , the largest building on campus, a ___E:brutalist U:(https://en.wikipedia.org/wiki/Brutalist_architecture)___ structure designed by ___E:Walter Netsch U:(https://en.wikipedia.org/wiki/Walter_Netsch)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#59",
+            "sentence": "Another master plan, designed in 1999 and updated in 2004,  produced the ___E:Gerald Ratner Athletics Center U:(https://en.wikipedia.org/wiki/Gerald_Ratner_Athletics_Center)___ (2003),  the ___E:Max Palevsky Residential Commons U:(https://en.wikipedia.org/wiki/Max_Palevsky_Residential_Commons)___ (2001),  ___E:South Campus Residence Hall U:(https://en.wikipedia.org/wiki/South_Campus_Residence_Hall)___ and dining commons (2009), a new children's hospital,  and other construction, expansions, and restorations."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#60",
+            "sentence": "In 2011, the university completed the glass dome-shaped ___E:Joe and Rika Mansueto Library U:(https://en.wikipedia.org/wiki/Joe_and_Rika_Mansueto_Library)___ , which provides a grand reading room for the university library and prevents the need for an off-campus book depository."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#61",
+            "sentence": "The site of ___E:Chicago Pile-1 U:(https://en.wikipedia.org/wiki/Chicago_Pile-1)___ is a ___E:National Historic Landmark U:(https://en.wikipedia.org/wiki/National_Historic_Landmark)___ and is marked by the ___E:Henry Moore U:(https://en.wikipedia.org/wiki/Henry_Moore)___ sculpture Nuclear Energy .  ___E:Robie House U:(https://en.wikipedia.org/wiki/Robie_House)___ , a ___E:Frank Lloyd Wright U:(https://en.wikipedia.org/wiki/Frank_Lloyd_Wright)___ building acquired by the university in 1963, is a UNESCO World Heritage Site,   as well as a National Historic Landmark,  as is room 405 of the ___E:George Herbert Jones Laboratory U:(https://en.wikipedia.org/wiki/George_Herbert_Jones_Laboratory)___ , where ___E:Glenn T. Seaborg U:(https://en.wikipedia.org/wiki/Glenn_T._Seaborg)___ and his team were the first to isolate plutonium.  ___E:Hitchcock Hall U:(https://en.wikipedia.org/wiki/Hitchcock_Hall)___ , an undergraduate dormitory, is on the ___E:National Register of Historic Places U:(https://en.wikipedia.org/wiki/National_Register_of_Historic_Places)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#62",
+            "sentence": "Adjacent to the campus in ___E:Jackson Park U:(https://en.wikipedia.org/wiki/Jackson_Park_(Chicago))___ is the home of the ___E:Obama Presidential Center U:(https://en.wikipedia.org/wiki/Barack_Obama_Presidential_Center)___ , the Presidential Library for the 44th president of the United States  with expected completion in 2026. The Obamas settled in the university's Hyde Park neighborhood, where they raised their children and where ___E:Barack Obama U:(https://en.wikipedia.org/wiki/Barack_Obama)___ began his political career. ___E:Michelle Obama U:(https://en.wikipedia.org/wiki/Michelle_Obama)___ served as an administrator at the university and founded the university's Community Service Center."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#63",
+            "sentence": "The Hyde Park campus is served by the CTA ___E:Red Line U:(https://en.wikipedia.org/wiki/Red_Line_(CTA))___ and ___E:Green Line U:(https://en.wikipedia.org/wiki/Green_Line_(CTA))___ , as well as the ___E:Metra Electric District Line U:(https://en.wikipedia.org/wiki/Metra_Electric_District)___ and the ___E:South Shore Line U:(https://en.wikipedia.org/wiki/South_Shore_Line)___ ,  all of which provide access to downtown Chicago."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#64",
+            "sentence": "The campus is also served by a network of ___E:CTA bus routes U:(https://en.wikipedia.org/wiki/CTA_bus_routes)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#65",
+            "sentence": "The university shuttle program includes daytime and nighttime routes, most of which operate within Hyde Park.  In 2022, the university added a Downtown Campus Connector to its shuttle program, which connects the main Hyde Park campus to the Gleacher Center and downtown UChicago Medicine clinics."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#66",
+            "sentence": "In 2024, the university introduced a ___E:Via U:(https://en.wikipedia.org/wiki/Via_Transportation)___ ride-sharing program ahead of the 2024–2025 school year, which provides unlimited free rides on campus in shared vans."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#67",
+            "sentence": "In November 2021, a university graduate was robbed and fatally shot on a sidewalk in a residential area in Hyde Park near campus; a total of three University of Chicago students were killed by gunfire incidents in 2021.   These incidents prompted student protests and an open letter to university leadership signed by more than 300 faculty members."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#68",
+            "sentence": "In response, the university introduced measures including increased foot and vehicular patrols near campus, expanded coordination between the ___E:university police department U:(https://en.wikipedia.org/wiki/University_Police_Department)___ and the ___E:Chicago Police Department U:(https://en.wikipedia.org/wiki/Chicago_Police_Department)___ , and greater use of ___E:security cameras U:(https://en.wikipedia.org/wiki/Closed-circuit_television)___ and ___E:license plate readers U:(https://en.wikipedia.org/wiki/Automatic_number-plate_recognition)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#69",
+            "sentence": "The university continues to maintain one of the largest private police forces in the country."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#70",
+            "sentence": "The university also maintains facilities apart from its main campus."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#71",
+            "sentence": "The university's ___E:Booth School of Business U:(https://en.wikipedia.org/wiki/University_of_Chicago_Booth_School_of_Business)___ maintains campuses in ___E:Hong Kong U:(https://en.wikipedia.org/wiki/Hong_Kong)___ , ___E:London U:(https://en.wikipedia.org/wiki/London)___ , and downtown Chicago."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#72",
+            "sentence": "The Center in Paris, a campus located on the ___E:left bank U:(https://en.wikipedia.org/wiki/Rive_Gauche)___ of the ___E:Seine U:(https://en.wikipedia.org/wiki/Seine)___ in Paris, hosts various undergraduate and graduate study programs."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#73",
+            "sentence": "The university also maintains the Chicago House, based in ___E:Luxor U:(https://en.wikipedia.org/wiki/Luxor)___ , which serves as the Egyptian headquarters for the ___E:Institute for the Study of Ancient Cultures U:(https://en.wikipedia.org/wiki/Institute_for_the_Study_of_Ancient_Cultures)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#74",
+            "sentence": "In fall 2010, the university opened a center in ___E:Beijing U:(https://en.wikipedia.org/wiki/Beijing)___ , near ___E:Renmin University U:(https://en.wikipedia.org/wiki/Renmin_University)___ 's campus in ___E:Haidian District U:(https://en.wikipedia.org/wiki/Haidian_District)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#75",
+            "sentence": "The most recent additions are a center in ___E:New Delhi U:(https://en.wikipedia.org/wiki/New_Delhi)___ , India, which opened in 2014,  and a center in Hong Kong which opened in 2018.  In 2024, the university opened the John W. Boyer Center in Paris, designed by architectural firm ___E:Studio Gang U:(https://en.wikipedia.org/wiki/Studio_Gang)___ and nearly tripling the size of the Center in Paris which had opened in 2003."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#76",
+            "sentence": "The academic bodies of the University of Chicago consist of the ___E:college U:(https://en.wikipedia.org/wiki/College_of_the_University_of_Chicago)___ , four divisions of graduate research, seven professional schools, and the ___E:Graham School of Continuing Liberal and Professional Studies U:(https://en.wikipedia.org/wiki/Graham_School_of_Continuing_Liberal_and_Professional_Studies)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#77",
+            "sentence": "The university also contains a library system, the ___E:University of Chicago Press U:(https://en.wikipedia.org/wiki/University_of_Chicago_Press)___ , and the ___E:University of Chicago Medical Center U:(https://en.wikipedia.org/wiki/University_of_Chicago_Medical_Center)___ , and oversees several laboratories, including the ___E:Fermi National Accelerator Laboratory U:(https://en.wikipedia.org/wiki/Fermilab)___ (Fermilab), the ___E:Argonne National Laboratory U:(https://en.wikipedia.org/wiki/Argonne_National_Laboratory)___ , and the ___E:Marine Biological Laboratory U:(https://en.wikipedia.org/wiki/Marine_Biological_Laboratory)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#78",
+            "sentence": "The university is accredited by the ___E:Higher Learning Commission U:(https://en.wikipedia.org/wiki/The_Higher_Learning_Commission)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#79",
+            "sentence": "It is a member of the ___E:National Association of Independent Colleges and Universities U:(https://en.wikipedia.org/wiki/National_Association_of_Independent_Colleges_and_Universities)___ and the ___E:Universities Research Association U:(https://en.wikipedia.org/wiki/Universities_Research_Association)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#80",
+            "sentence": "The university runs on a ___E:quarter system U:(https://en.wikipedia.org/wiki/Quarter_system)___ in which the academic year is divided into four terms: Summer (June–August), Autumn (September–December), Winter (January–March), and Spring (March–June)."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#81",
+            "sentence": "Full-time undergraduate students take three to four courses every quarter  for approximately ten weeks before their quarterly academic breaks."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#82",
+            "sentence": "The school year typically begins in late September and ends in early June."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#83",
+            "sentence": "The College of the University of Chicago grants ___E:Bachelor of Arts U:(https://en.wikipedia.org/wiki/Bachelor_of_Arts)___ and ___E:Bachelor of Science U:(https://en.wikipedia.org/wiki/Bachelor_of_Science)___ degrees in 51 undergraduate courses of study  (since 2005 known as ___E:majors U:(https://en.wikipedia.org/wiki/Academic_major)___ ) and 33 secondary courses of study, now known as minors."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#84",
+            "sentence": "The college's academics are divided into four divisions: the Biological Sciences Collegiate Division, the Physical Sciences Collegiate Division, the Social Sciences Collegiate Division, and the Humanities Collegiate Division."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#85",
+            "sentence": "Each division is affiliated with the corresponding graduate division of the university."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#86",
+            "sentence": "The college introduced a now-widespread model of the liberal arts undergraduate program which featured the ___E:Socratic method U:(https://en.wikipedia.org/wiki/Socratic_method)___ in undergraduate contexts, the ___E:Great Books U:(https://en.wikipedia.org/wiki/Great_Books_of_the_Western_World#History)___ program, and the ___E:core curriculum U:(https://en.wikipedia.org/wiki/Core_curriculum)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#87",
+            "sentence": "Since the 1999–2000 school year, 15 courses across seven subjects and demonstrated proficiency in a foreign language are required under the core curriculum."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#88",
+            "sentence": "The university graduate schools and committees are divided into four divisions (biological sciences, humanities, physical sciences, and social sciences), seven professional schools, and the ___E:Graham School U:(https://en.wikipedia.org/wiki/Graham_School_of_Continuing_Liberal_and_Professional_Studies)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#89",
+            "sentence": "In the autumn quarter of 2022, the university enrolled 10,546 graduate students on degree-seeking courses: 569 in the biological sciences division, 612 in the humanities division, 2,103 in the physical sciences division, 972 in the social sciences division, and 6,290 in the professional schools (including the Graham School)."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#90",
+            "sentence": "The university is home to several committees for interdisciplinary scholarship, including the ___E:John U. Nef Committee on Social Thought U:(https://en.wikipedia.org/wiki/Committee_on_Social_Thought)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#91",
+            "sentence": "According to the ___E:National Science Foundation U:(https://en.wikipedia.org/wiki/National_Science_Foundation)___ , the University of Chicago spent $423.9 million on research and development in 2018, ranking it 60th in the nation."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#92",
+            "sentence": "It is ___E:classified U:(https://en.wikipedia.org/wiki/Carnegie_Classification_of_Institutions_of_Higher_Education)___ among \"R1: Doctoral Universities – Very high research activity\"."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#93",
+            "sentence": "It is a founding member of the ___E:Association of American Universities U:(https://en.wikipedia.org/wiki/Association_of_American_Universities)___ , and was a member of the Committee on Institutional Cooperation between 1946 and 2016, when the group's name was changed to the ___E:Big Ten Academic Alliance U:(https://en.wikipedia.org/wiki/Big_Ten_Academic_Alliance)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#94",
+            "sentence": "The University of Chicago is not a member of the rebranded consortium, but continues to be a collaborator."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#95",
+            "sentence": "The university operates more than 140 research centers and institutes on campus."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#96",
+            "sentence": "Among these are the ___E:Institute for the Study of Ancient Cultures, West Asia & North Africa U:(https://en.wikipedia.org/wiki/Institute_for_the_Study_of_Ancient_Cultures)___ —a museum and research center for ___E:Near Eastern U:(https://en.wikipedia.org/wiki/Near_East)___ studies owned and operated by the university—and a number of ___E:National Resource Centers U:(https://en.wikipedia.org/wiki/National_Resource_Center)___ , including the ___E:Center for Middle Eastern Studies U:(https://en.wikipedia.org/wiki/Center_for_Middle_Eastern_Studies_at_the_University_of_Chicago)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#97",
+            "sentence": "Chicago also operates or is affiliated with several research institutions apart from the university proper."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#98",
+            "sentence": "The university manages the ___E:Argonne National Laboratory U:(https://en.wikipedia.org/wiki/Argonne_National_Laboratory)___ , part of the ___E:United States Department of Energy U:(https://en.wikipedia.org/wiki/United_States_Department_of_Energy)___ 's national laboratory system, and co-manages the ___E:Fermi National Accelerator Laboratory U:(https://en.wikipedia.org/wiki/Fermilab)___ (Fermilab), a nearby particle physics laboratory."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#99",
+            "sentence": "It was also part of the Astrophysical Research Consortium that constructed the ___E:Apache Point Observatory U:(https://en.wikipedia.org/wiki/Apache_Point_Observatory)___ in ___E:Sunspot, New Mexico U:(https://en.wikipedia.org/wiki/Sunspot,_New_Mexico)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#100",
+            "sentence": "Faculty and students at the adjacent ___E:Toyota Technological Institute at Chicago U:(https://en.wikipedia.org/wiki/Toyota_Technological_Institute_at_Chicago)___ collaborate with the university."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#101",
+            "sentence": "In 2013, the university formed an affiliation with the formerly independent ___E:Marine Biological Laboratory U:(https://en.wikipedia.org/wiki/Marine_Biological_Laboratory)___ in Woods Hole, Mass.  The ___E:National Opinion Research Center U:(https://en.wikipedia.org/wiki/National_Opinion_Research_Center)___ maintains an office at the Hyde Park campus and is affiliated with multiple academic centers and institutes."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#102",
+            "sentence": "The University of Chicago has been the site of various experiments and academic movements."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#103",
+            "sentence": "The university has played a role in shaping ideas about the ___E:free market U:(https://en.wikipedia.org/wiki/Free_market)___  and is the namesake of the ___E:Chicago school of economics U:(https://en.wikipedia.org/wiki/Chicago_school_of_economics)___ , the school of economic thought supported by ___E:Milton Friedman U:(https://en.wikipedia.org/wiki/Milton_Friedman)___ and other economists."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#104",
+            "sentence": "The university's ___E:sociology U:(https://en.wikipedia.org/wiki/Sociology)___ department was the first independent sociology department in the United States and gave birth to the ___E:Chicago school of sociology U:(https://en.wikipedia.org/wiki/Chicago_school_(sociology))___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#105",
+            "sentence": "The university was the site of the ___E:Chicago Pile-1 U:(https://en.wikipedia.org/wiki/Chicago_Pile-1)___ (the first controlled, self-sustaining human-made nuclear chain reaction, part of the ___E:Manhattan Project U:(https://en.wikipedia.org/wiki/Manhattan_Project)___ ), of ___E:Robert Millikan U:(https://en.wikipedia.org/wiki/Robert_Millikan)___ 's ___E:oil-drop experiment U:(https://en.wikipedia.org/wiki/Oil-drop_experiment)___ that calculated the charge of the electron,  and of the development of ___E:radiocarbon dating U:(https://en.wikipedia.org/wiki/Radiocarbon_dating)___ by ___E:Willard F. Libby U:(https://en.wikipedia.org/wiki/Willard_F._Libby)___ in 1946.  The chemical experiment that tested how life originated on early Earth, the ___E:Miller–Urey experiment U:(https://en.wikipedia.org/wiki/Miller%E2%80%93Urey_experiment)___ , was also conducted at the university.  ___E:REM sleep U:(https://en.wikipedia.org/wiki/REM_sleep)___ was discovered at the university in 1953 by ___E:Nathaniel Kleitman U:(https://en.wikipedia.org/wiki/Nathaniel_Kleitman)___ and ___E:Eugene Aserinsky U:(https://en.wikipedia.org/wiki/Eugene_Aserinsky)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#106",
+            "sentence": "The University of Chicago Department of Astronomy and Astrophysics operated the ___E:Yerkes Observatory U:(https://en.wikipedia.org/wiki/Yerkes_Observatory)___ in ___E:Williams Bay, Wisconsin U:(https://en.wikipedia.org/wiki/Williams_Bay,_Wisconsin)___ from 1897 until 2018,  where the largest operating ___E:refracting telescope U:(https://en.wikipedia.org/wiki/Refracting_telescope)___ in the world and other telescopes are located."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#107",
+            "sentence": "The university contains seven professional schools and the ___E:Graham School of Continuing Liberal and Professional Studies U:(https://en.wikipedia.org/wiki/Graham_School_of_Continuing_Liberal_and_Professional_Studies)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#108",
+            "sentence": "From 1928 to 1989, the ___E:University of Chicago Graduate Library School U:(https://en.wikipedia.org/wiki/University_of_Chicago_Graduate_Library_School)___ was the graduate-level librarianship school at the University of Chicago."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#109",
+            "sentence": "It was established in 1928 to develop a program for the graduate education of librarians with a focus on research."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#110",
+            "sentence": "Housed for a time in the ___E:Joseph Regenstein Library U:(https://en.wikipedia.org/wiki/Regenstein_Library)___ , the Graduate Library School closed in 1989 when the University of Chicago decided to promote information studies instead of professional education."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#111",
+            "sentence": "The university runs a number of academic institutions and programs apart from its undergraduate and postgraduate schools."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#112",
+            "sentence": "It operates the ___E:University of Chicago Laboratory Schools U:(https://en.wikipedia.org/wiki/University_of_Chicago_Laboratory_Schools)___ (a private ___E:day school U:(https://en.wikipedia.org/wiki/Day_school)___ for ___E:K-12 U:(https://en.wikipedia.org/wiki/K%E2%80%9312_(education))___ students and ___E:day care U:(https://en.wikipedia.org/wiki/Day_care)___ ),  and a public ___E:charter school U:(https://en.wikipedia.org/wiki/Charter_school)___ with three campuses on the ___E:South Side U:(https://en.wikipedia.org/wiki/South_Side_(Chicago))___ of Chicago administered by the university's Urban Education Institute."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#113",
+            "sentence": "In addition, the Hyde Park Day School, a school for students with learning disabilities,  and the ___E:Sonia Shankman Orthogenic School U:(https://en.wikipedia.org/wiki/Sonia_Shankman_Orthogenic_School)___ , a residential treatment program for those with behavioral and emotional problems,  maintains a location on the University of Chicago campus."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#114",
+            "sentence": "Since 1983, the University of Chicago has maintained the ___E:University of Chicago School Mathematics Project U:(https://en.wikipedia.org/wiki/University_of_Chicago_School_Mathematics_Project)___ , a mathematics program used in urban primary and secondary schools."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#115",
+            "sentence": "The university runs a program called the Council on Advanced Studies, which administers interdisciplinary workshops to provide a forum for graduate students, faculty, and visiting scholars to present scholarly work in progress."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#116",
+            "sentence": "The university also operates the ___E:University of Chicago Press U:(https://en.wikipedia.org/wiki/University_of_Chicago_Press)___ , the largest ___E:university press U:(https://en.wikipedia.org/wiki/University_press)___ in North America."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#117",
+            "sentence": "The ___E:University of Chicago Library U:(https://en.wikipedia.org/wiki/University_of_Chicago_Library)___ system encompasses six libraries that contain a total of 11 million volumes, the 9th most among library systems in the United States."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#118",
+            "sentence": "The university's primary library is the ___E:Regenstein Library U:(https://en.wikipedia.org/wiki/Regenstein_Library)___ , which contains over 4.5 million print volumes on a variety of subjects and is the largest on campus."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#119",
+            "sentence": "The ___E:Joe and Rika Mansueto Library U:(https://en.wikipedia.org/wiki/Joe_and_Rika_Mansueto_Library)___ , built in 2011, houses a large study space and an automated book storage and retrieval system."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#120",
+            "sentence": "The ___E:John Crerar Library U:(https://en.wikipedia.org/wiki/John_Crerar_Library)___ contains more than 1.4 million volumes in the biological, medical and physical sciences and collections in general science and the philosophy and history of science, medicine, and technology."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#121",
+            "sentence": "The university also operates a number of special libraries, including the D'Angelo Law Library, the Social Service Administration Library, and the Eckhart Library for mathematics and computer science."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#122",
+            "sentence": "The Harper Memorial Library, the first library of the university, is now a reading and study room."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#123",
+            "sentence": "The University of Chicago Arts program joins academic departments in the Division of the Arts & Humanities and the undergraduate College, student art programs, and professional organizations including the ___E:Court Theatre U:(https://en.wikipedia.org/wiki/Court_Theatre_(Chicago))___ , the ___E:Institute for the Study of Ancient Cultures U:(https://en.wikipedia.org/wiki/Institute_for_the_Study_of_Ancient_Cultures)___ , the ___E:Smart Museum of Art U:(https://en.wikipedia.org/wiki/Smart_Museum_of_Art)___ , and the ___E:Renaissance Society U:(https://en.wikipedia.org/wiki/Renaissance_Society)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#124",
+            "sentence": "The university offers graduate degrees in music, cinema and media studies, visual arts, and the humanities, among other subjects."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#125",
+            "sentence": "It also offers bachelor's degree programs in visual arts, music, art history, cinema and media studies, and theater and performance studies."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#126",
+            "sentence": "Several thousand major and non-major undergraduates enroll annually in creative and performing arts classes."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#127",
+            "sentence": "The university was home to the improvisational ___E:Compass Players U:(https://en.wikipedia.org/wiki/Compass_Players)___ student comedy troupe, which evolved into ___E:The Second City U:(https://en.wikipedia.org/wiki/The_Second_City)___ in 1959.   The university has an artist-in-residence program, which has supported over 32 individual artists as of May 2025.  The Reva and David Logan Center for the Arts opened in 2012. It was financed by a $35 million gift from alumnus David Logan and his wife Reva, the single largest cash gift to the arts in the city of Chicago as of 2025. The center includes spaces for exhibitions, performances, classes, and media production."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#128",
+            "sentence": "The University of Chicago is considered one of the most prestigious research universities in the United States."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#129",
+            "sentence": "The Academic Ranking of World Universities has consistently placed the University of Chicago among the top 10 universities in the world."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#130",
+            "sentence": "In 2026, the university was ranked 6th by ___E:US News & World Report U:(https://en.wikipedia.org/wiki/U.S._News_%26_World_Report_Best_Colleges_Ranking)___ and 13th by Forbes ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#131",
+            "sentence": "In 2025, QS World University Rankings placed the university in 13th place worldwide, while ___E:THE World University Rankings U:(https://en.wikipedia.org/wiki/Times_Higher_Education_World_University_Rankings)___ ranked the university in a tie for 14th."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#132",
+            "sentence": "The university's ___E:law U:(https://en.wikipedia.org/wiki/University_of_Chicago_Law_School)___ and ___E:business U:(https://en.wikipedia.org/wiki/Booth_School_of_Business)___ schools consistently rank among the top three professional schools in the United States."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#133",
+            "sentence": "In 2025, the business school was placed in second out of 77 American schools by Bloomberg ,  fourth in the US by US News & World Report,  and second by Fortune."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#134",
+            "sentence": "In the same year, it was placed fifteenth in the world by QS World University Rankings and seventeenth by the ___E:Financial Times U:(https://en.wikipedia.org/wiki/Financial_Times)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#135",
+            "sentence": "In 2025, the law school was ranked third in the United States by US News & World Report and second by ___E:Above the Law U:(https://en.wikipedia.org/wiki/Above_the_Law_(website))___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#136",
+            "sentence": "In the same year, it was ranked 11th globally by QS World University Rankings."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#137",
+            "sentence": "The university is governed by a board of trustees."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#138",
+            "sentence": "The board oversees the long-term development and plans of the university and manages fundraising efforts, and is composed of 55 members including the ___E:university president U:(https://en.wikipedia.org/wiki/President_of_the_University_of_Chicago)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#139",
+            "sentence": "Directly beneath the president are the provost, fourteen vice presidents, including the chief financial officer and ___E:chief investment officer U:(https://en.wikipedia.org/wiki/Chief_Investment_Officer)___ , and twelve deans."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#140",
+            "sentence": "The current chair of the board of trustees is ___E:David Rubenstein U:(https://en.wikipedia.org/wiki/David_Rubenstein)___ , who has occupied the position since May 2022.  The current provost is ___E:Katherine Baicker U:(https://en.wikipedia.org/wiki/Katherine_Baicker)___ , who was appointed in March 2023.   The current president of the University of Chicago is chemist ___E:Paul Alivisatos U:(https://en.wikipedia.org/wiki/Paul_Alivisatos)___ , who assumed the role on September 1, 2021."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#141",
+            "sentence": "The university's endowment was the 21st largest among American educational institutions and state university systems in 2024, valued at roughly $10.1 billion."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#142",
+            "sentence": "Since 2016, the university's board of trustees has resisted pressure from students and faculty to divest its investments from fossil fuel companies."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#143",
+            "sentence": "As of 2024 [update] , such investments remain a part of the university's endowment."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#144",
+            "sentence": "In fall 2023, the university employed 3,418 academic staff and 23,217 administrative staff, including those from the ___E:medical center U:(https://en.wikipedia.org/wiki/University_of_Chicago_Medical_Center)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#145",
+            "sentence": "In 2024, the university's combined annual budget, including the university proper, the medical center, and the marine biological laboratory, stood at $5.2 billion, with the university's operations making up an additional $2.6 billion."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#146",
+            "sentence": "In the same year, the university's total assets were valued at $20.3 billion."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#147",
+            "sentence": "Part of the financial plan for the university by former university president ___E:Robert Zimmer U:(https://en.wikipedia.org/wiki/Robert_Zimmer)___ was an increase in accumulation of debt to finance large building projects."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#148",
+            "sentence": "This drew both support and criticism from many in the university community."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#149",
+            "sentence": "In 2024, the university budget deficit stood at $288 million despite liquidating assets to cover the gap; the administration announced plans in November of that year to close the deficit over the next four years."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#150",
+            "sentence": "The financial strain has caused the university to increase its student-faculty ratio, reduce the proportion of classes taught by research faculty, and spend an unusually high percentage of undergraduate tuition on servicing debt."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#151",
+            "sentence": "In the summer of 2025, the university announced more than $100 million in budget cuts across capital projects, hiring, and graduate admissions in a response to the growing university deficit, ___E:less federal funding, and uncertainty about international student admissions U:(https://en.wikipedia.org/wiki/Education_policy_of_the_second_Trump_administration#Actions_against_universities)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#152",
+            "sentence": "In fall 2024, the university enrolled 7,569 undergraduate students, 10,968 graduate students, and 750 non-degree students."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#153",
+            "sentence": "The college class of 2025 is composed of 53% male and 47% female students."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#154",
+            "sentence": "Twenty-seven percent of the class identify as Asian, 19% as Hispanic, and 10% as Black."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#155",
+            "sentence": "Eighteen percent of the class is international."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#156",
+            "sentence": "The university is ___E:need-blind U:(https://en.wikipedia.org/wiki/Need-blind)___ for domestic applicants."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#157",
+            "sentence": "Admission to the University of Chicago has become highly selective over the past two decades, reflecting changes in the application process, school popularity, and marketing strategy."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#158",
+            "sentence": "Between 1996 and 2023, the acceptance rate of the college fell from 71% to 4.7%."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#159",
+            "sentence": "The middle 50% band of ___E:SAT U:(https://en.wikipedia.org/wiki/SAT)___ scores for the undergraduate class of 2025 was 1510–1570 (98th–99th percentiles),  the average ___E:MCAT U:(https://en.wikipedia.org/wiki/MCAT)___ score for students entering the Pritzker School of Medicine class of 2024 was 519 (97th percentile),  the median ___E:GMAT U:(https://en.wikipedia.org/wiki/GMAT)___ score for students entering the full-time Booth MBA program class of 2023 was 740 (97th percentile),  and the median ___E:LSAT U:(https://en.wikipedia.org/wiki/LSAT)___ score for students entering the Law School class of 2021 was 172 (99th percentile)."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#160",
+            "sentence": "In 2018, the University of Chicago attracted national headlines by becoming the first major research university to no longer require SAT or ACT scores from college applicants."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#161",
+            "sentence": "The University of Chicago hosts 19 varsity sports teams: 10 men's teams and 9 women's teams, all called the ___E:Maroons U:(https://en.wikipedia.org/wiki/Chicago_Maroons)___ , with 502 students participating in the 2012–2013 school year.  The Maroons compete in the ___E:NCAA Division III U:(https://en.wikipedia.org/wiki/NCAA_Division_III)___ as members of the ___E:University Athletic Association U:(https://en.wikipedia.org/wiki/University_Athletic_Association)___ (UAA)."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#162",
+            "sentence": "Their mascot is Phil the Phoenix."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#163",
+            "sentence": "The university was a founding member of the ___E:Big Ten Conference U:(https://en.wikipedia.org/wiki/Big_Ten_Conference)___ and participated in the NCAA Division I men's basketball and football."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#164",
+            "sentence": "In 1935, the University of Chicago reached the Sweet Sixteen."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#165",
+            "sentence": "In 1935, ___E:Chicago Maroons football U:(https://en.wikipedia.org/wiki/Chicago_Maroons_football)___ player ___E:Jay Berwanger U:(https://en.wikipedia.org/wiki/Jay_Berwanger)___ became the first winner of the ___E:Heisman Trophy U:(https://en.wikipedia.org/wiki/Heisman_Trophy)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#166",
+            "sentence": "However, the university chose to withdraw from the Big Ten Conference in 1946 after University president ___E:Robert Maynard Hutchins U:(https://en.wikipedia.org/wiki/Robert_Maynard_Hutchins)___ de-emphasized varsity athletics in 1939 and dropped football."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#167",
+            "sentence": "In 1969, Chicago reinstated football as a Division III team, resuming play at the new ___E:Stagg Field U:(https://en.wikipedia.org/wiki/Stagg_Field)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#168",
+            "sentence": "The University of Chicago is home to the University of Chicago Rugby Football Club (UCRFC)."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#169",
+            "sentence": "Since 2022, men's rugby competes in the Division II Great ___E:Midwest Conference (MWC) U:(https://en.wikipedia.org/wiki/Midwest_Conference)___ under ___E:National Collegiate Rugby U:(https://en.wikipedia.org/wiki/National_Collegiate_Rugby)___ , having previously competed under ___E:USA Rugby U:(https://en.wikipedia.org/wiki/USA_Rugby)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#170",
+            "sentence": "It was ranked 15th in the country at the end of the 2024 fall 15s season, falling to Montana State 19–48 in the Sweet Sixteen NCR DII playoff round."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#171",
+            "sentence": "It competes in a ___E:Rugby 7s U:(https://en.wikipedia.org/wiki/Rugby_sevens)___ circuit in the spring."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#172",
+            "sentence": "It shares its conference with Loyola University Chicago, the University of Illinois Chicago, Northwestern University (for which it competes in a yearly cup, the Hutchins-Scott Cup), DePaul University, and Benedictine University."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#173",
+            "sentence": "A women's club also exists at the university."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#174",
+            "sentence": "The university is also home to the ___E:ultimate frisbee U:(https://en.wikipedia.org/wiki/Ultimate_frisbee)___ team UChicago Fission."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#175",
+            "sentence": "Students at the University of Chicago operate more than 400 clubs and organizations known as Recognized Student Organizations (RSOs)."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#176",
+            "sentence": "These include cultural and religious groups, academic clubs and teams, and common-interest organizations."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#177",
+            "sentence": "Among notable student organizations are the nation's longest continuously running student film society ___E:Doc Films U:(https://en.wikipedia.org/wiki/Doc_Films)___ ,   the organizing committee for the ___E:University of Chicago Scavenger Hunt U:(https://en.wikipedia.org/wiki/University_of_Chicago_Scavenger_Hunt)___ , and the weekly student newspaper The Chicago Maroon ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#178",
+            "sentence": "All recognized student organizations are funded by the ___E:University of Chicago Student Government U:(https://en.wikipedia.org/wiki/The_University_of_Chicago_Student_Government)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#179",
+            "sentence": "Student Government consists of graduate and undergraduate students elected to represent members from their respective academic units."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#180",
+            "sentence": "It is led by an executive committee, chaired by a president with the assistance of two vice presidents (one for administration and the other for student life) who are elected together as a slate by the student body each spring."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#181",
+            "sentence": "As of 2025 [update] , the Undergraduate Student Government annual budget was greater than $2.5 million."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#182",
+            "sentence": "As of 2019 [update] , there were more than 20 ___E:Greek U:(https://en.wikipedia.org/wiki/Greek_fraternity)___ organizations operating on campus."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#183",
+            "sentence": "According to a 2016 Maroon article, 19.6% of undergraduates were members of fraternities or sororities."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#184",
+            "sentence": "On-campus undergraduate students at the University of Chicago participate in a ___E:house system U:(https://en.wikipedia.org/wiki/House_system)___ in which each student is assigned to one of the university's seven ___E:residence hall U:(https://en.wikipedia.org/wiki/Residence_hall)___ buildings and to a smaller community within their residence hall called a \"house\"."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#185",
+            "sentence": "There are 48 houses, with an average of 80 students in each house."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#186",
+            "sentence": "The houses are named after former professors and other historical figures in the university community, such as ___E:Eugene Fama U:(https://en.wikipedia.org/wiki/Eugene_Fama)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#187",
+            "sentence": "Students are required to live in on-campus housing for the first six quarters of enrollment."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#188",
+            "sentence": "As of the 2024–2025 school year, 58% of undergraduate students live on campus."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#189",
+            "sentence": "The university owns and manages more than 300 residential units near campus for graduate students."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#190",
+            "sentence": "Every May since 1987, the University of Chicago has held the ___E:University of Chicago Scavenger Hunt U:(https://en.wikipedia.org/wiki/University_of_Chicago_Scavenger_Hunt)___ , in which teams of students compete to obtain notoriously esoteric items from a list.  Every January, the university holds a week-long winter festival, Kuviasungnerk/Kangeiko (Kuvia), which includes early morning exercise routines and fitness workshops."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#191",
+            "sentence": "The university also annually holds a carnival and concert called Summer Breeze,  which hosts outside musicians and is home to ___E:Doc Films U:(https://en.wikipedia.org/wiki/Doc_Films)___ , a student film society founded in 1932 that screens films nightly at the university."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#192",
+            "sentence": "Since 1946, the university has organized the ___E:Latke-Hamantash Debate U:(https://en.wikipedia.org/wiki/Latke-Hamantash_Debate)___ , which involves humorous discussions about the relative merits and meanings of ___E:latkes U:(https://en.wikipedia.org/wiki/Latke)___ and ___E:hamantashen U:(https://en.wikipedia.org/wiki/Hamantash)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#193",
+            "sentence": "Since 2002, the Ida Noyes Pub has hosted ___E:Trivia Nights U:(https://en.wikipedia.org/wiki/Pub_quiz)___ for university affiliates each Tuesday."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#194",
+            "sentence": "Since the university's establishment in 1890, there have been 101 ___E:Nobel laureates U:(https://en.wikipedia.org/wiki/List_of_Nobel_laureates_by_university_affiliation)___ across all six categories affiliated with the University of Chicago,  21 of whom were pursuing research or on faculty at the university at the time of their award announcement."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#195",
+            "sentence": "Of these 101 Nobel Prizes, 30 were in ___E:Physics U:(https://en.wikipedia.org/wiki/Nobel_Prize_in_Physics)___ , 19 in ___E:Chemistry U:(https://en.wikipedia.org/wiki/Nobel_Prize_in_Chemistry)___ , 13 in ___E:Physiology/Medicine U:(https://en.wikipedia.org/wiki/Nobel_Prize_in_Physiology_or_Medicine)___ , 3 in ___E:Literature U:(https://en.wikipedia.org/wiki/Nobel_Prize_in_Literature)___ , 1 in ___E:Peace U:(https://en.wikipedia.org/wiki/Nobel_Peace_Prize)___ , and 31 in ___E:Economics U:(https://en.wikipedia.org/wiki/Nobel_Memorial_Prize_in_Economic_Sciences)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#196",
+            "sentence": "Chicago faculty and alumni also include ten ___E:Fields Medalists U:(https://en.wikipedia.org/wiki/Fields_Medal)___ ,  seventeen ___E:National Medal of Science U:(https://en.wikipedia.org/wiki/National_Medal_of_Science)___ recipients,  four ___E:Turing Award U:(https://en.wikipedia.org/wiki/Turing_Award)___ winners,  fifty-eight ___E:MacArthur Fellows U:(https://en.wikipedia.org/wiki/MacArthur_Fellows_Program)___ ,  five ___E:John Bates Clark Medalists U:(https://en.wikipedia.org/wiki/John_Bates_Clark_Medal)___ ,  thirty ___E:Marshall Scholars U:(https://en.wikipedia.org/wiki/Marshall_Scholars)___ ,  fifty-five ___E:Rhodes Scholars U:(https://en.wikipedia.org/wiki/Rhodes_Scholarship)___ ,  twenty-seven ___E:Pulitzer Prize U:(https://en.wikipedia.org/wiki/Pulitzer_Prize)___ winners,  twenty ___E:National Humanities Medalists U:(https://en.wikipedia.org/wiki/National_Humanities_Medal)___ ,  and eight ___E:Olympic medalists U:(https://en.wikipedia.org/wiki/List_of_American_universities_with_Olympic_medals)___ . .mw-parser-output .tmulti .multiimageinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}@media screen{html.skin-theme-clientpref-night .mw-parser-output .tmulti .multiimageinner span:not(.skin-invert-image):not(.skin-invert):not(.bg-transparent) img{background-color:white}}@media screen and (prefers-color-scheme:dark){html.skin-theme-clientpref-os .mw-parser-output .tmulti .multiimageinner span:not(.skin-invert-image):not(.skin-invert):not(.bg-transparent) img{background-color:white}}"
+        },
+        {
+            "id": "University of Chicago - Wikipedia#197",
+            "sentence": "___E:Chicago alumni U:(https://en.wikipedia.org/wiki/List_of_University_of_Chicago_alumni)___ have gone on to become notable in several fields."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#198",
+            "sentence": "In particular, alumni include CEOs of firms such as ___E:Microsoft U:(https://en.wikipedia.org/wiki/Microsoft)___ , ___E:Goldman Sachs U:(https://en.wikipedia.org/wiki/Goldman_Sachs)___ , and ___E:Credit Suisse U:(https://en.wikipedia.org/wiki/Credit_Suisse)___ ;  six heads of state across five continents;  eight U.S."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#199",
+            "sentence": "Cabinet Secretaries;  ten U.S."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#200",
+            "sentence": "Senators;  four central bank Presidents or Directors, including the ___E:World Bank U:(https://en.wikipedia.org/wiki/World_Bank)___ ;  one U.S."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#201",
+            "sentence": "Supreme Court justice;  and presidents of ___E:Princeton U:(https://en.wikipedia.org/wiki/Princeton_University)___ , ___E:Northwestern U:(https://en.wikipedia.org/wiki/Northwestern_University)___ , and ___E:MIT U:(https://en.wikipedia.org/wiki/Massachusetts_Institute_of_Technology)___ ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#202",
+            "sentence": "___E:Notable faculty U:(https://en.wikipedia.org/wiki/List_of_University_of_Chicago_faculty)___ include three Supreme Court Justices, one central bank governor, and numerous Nobel Prize laureates."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#203",
+            "sentence": "Former U.S. president ___E:Barack Obama U:(https://en.wikipedia.org/wiki/Barack_Obama)___ ,  poet ___E:T.S. Eliot U:(https://en.wikipedia.org/wiki/T._S._Eliot)___ ,  and writer ___E:Ralph Ellison U:(https://en.wikipedia.org/wiki/Ralph_Ellison)___  all served on the faculty."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#204",
+            "sentence": "The University of Chicago is the ___E:alma mater U:(https://en.wikipedia.org/wiki/Alma_mater)___ of fictional characters Harry Burns and Sally Albright (from When Harry Met Sally ), ___E:Indiana Jones U:(https://en.wikipedia.org/wiki/Indiana_Jones)___ , and Mark Watney (from The Martian )."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#205",
+            "sentence": "It has served as filming locations for scenes in Divergent, The Fugitive , and Sense8 ."
+        },
+        {
+            "id": "University of Chicago - Wikipedia#206",
+            "sentence": "Abe Ravelstein, the titular character of the novel Ravelstein, was based on UChicago faculty member ___E:Allan Bloom U:(https://en.wikipedia.org/wiki/Allan_Bloom)___ ."
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "Title": "Karate",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Karate#1",
+            "sentence": "Karate , silahsız ___E:savaş sanatı U:(https://tr.wikipedia.org/wiki/Sava%C5%9F_sanat%C4%B1)___ karate-do (空手道:からてどう) için yaygın kullanılan kısaltılmış terim olup Japonca kara (空:から) boş + te (手:て) el + do (道) yol, sanat kelimelerinden oluşmakta ve silahsız elin yolu/sanatı anlamına gelmektedir. ___E:Zen Budizmi U:(https://tr.wikipedia.org/wiki/Zen_Budizmi)___ ve Japon kültürü ile yoğrulan karate, kişinin kendini, bedensel ve zihinsel olarak eğitmesi ilkesi üzerine kurulu, eğitim sistemi sayesinde insanı şiddetten uzaklaştıran, barışçıl duygular beslemesini sağlayan bir disiplindir. ___E:Japon dövüş sanatları U:(https://tr.wikipedia.org/wiki/Japon_d%C3%B6v%C3%BC%C5%9F_sanatlar%C4%B1)___ , ___E:Çin dövüş sanatları U:(https://tr.wikipedia.org/wiki/%C3%87in_d%C3%B6v%C3%BC%C5%9F_sanatlar%C4%B1)___ ve ___E:Kore dövüş sanatları U:(https://tr.wikipedia.org/w/index.php?title=Kore_d%C3%B6v%C3%BC%C5%9F_sanatlar%C4%B1&action=edit&redlink=1)___ 'nda önemli yere sahiptir."
+        },
+        {
+            "id": "Karate#2",
+            "sentence": "Karate ___E:Okinawa U:(https://tr.wikipedia.org/wiki/Okinawa)___ adasında doğmuştur."
+        },
+        {
+            "id": "Karate#3",
+            "sentence": "Çin (özellikle ___E:Fujian U:(https://tr.wikipedia.org/wiki/Fujian)___ ) kaynaklı ___E:kempo U:(https://tr.wikipedia.org/w/index.php?title=Kempo&action=edit&redlink=1)___ tekniklerinin Ryukyu adalarının yerli dövüş stilleriyle kaynaştırılması sonucu Okinawa'nın çeşitli yer isimleriyle adlandırılan (Naha-te, Shuri-te, Tomari-te vb.), ustadan ustaya önemli farklılıklar gösteren ve toplam bir terim olarak \"karate\" (唐手) olarak bilinen savaş sanatları doğmuştur."
+        },
+        {
+            "id": "Karate#4",
+            "sentence": "Karatenin bu erken dönemine ilişkin en önemli belge Çince yazılmış olan ve 20. yüzyıl başlarına kadar yaygın olarak kullanılan ___E:Bubishi U:(https://tr.wikipedia.org/wiki/Bubishi)___ (武備志) adlı kitaptır."
+        },
+        {
+            "id": "Karate#5",
+            "sentence": "Geleneksel Okinawa toplumunda karate pēchin (親雲上) adı verilen ___E:samuray U:(https://tr.wikipedia.org/wiki/Samuray)___ sınıfı tarafından öğreniliyordu."
+        },
+        {
+            "id": "Karate#6",
+            "sentence": "Japon ___E:Budo U:(https://tr.wikipedia.org/wiki/Budo)___ 'sunun karate üzerindeki etkisinin 19. yüzyıla kadar sınırlı olduğu söylenebilir."
+        },
+        {
+            "id": "Karate#7",
+            "sentence": "Ancak 20. yüzyıl başında başta ___E:Gichin Funakoshi U:(https://tr.wikipedia.org/wiki/Gichin_Funakoshi)___ olmak üzere çeşitli Okinawalı ustaların Japonya'ya yerleşmeleri sonucu karate Budo ile uyumlulaştırılmaya başlanmıştır."
+        },
+        {
+            "id": "Karate#8",
+            "sentence": "Bu aşamadan itibaren, gendai budō (現代武道) adı verilen modern Japon savaş sanatları ile birlikte gelişimini sürdüren karate, biçim ve anlayış yönünden ___E:Jigoro Kano U:(https://tr.wikipedia.org/w/index.php?title=Jigoro_Kano&action=edit&redlink=1)___ 'nun ___E:Jujutsu U:(https://tr.wikipedia.org/wiki/Jujutsu)___ kökenli ___E:Judo U:(https://tr.wikipedia.org/wiki/Judo)___ 'yu yaratmasından önemli ölçüde etkilenmiştir."
+        },
+        {
+            "id": "Karate#9",
+            "sentence": "Yine bu dönemde karatenin \"boş el\" anlamına gelen 空手 biçiminde yazımı yaygınlaşmıştır."
+        },
+        {
+            "id": "Karate#10",
+            "sentence": "___E:II. Dünya Savaşı U:(https://tr.wikipedia.org/wiki/II._D%C3%BCnya_Sava%C5%9F%C4%B1)___ 'na kadar Japonya'da dahi çok bilinen bir dövüş tekniği değildi."
+        },
+        {
+            "id": "Karate#11",
+            "sentence": "Daha sonraları ___E:ABD U:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)___ işgali sırasında popülerliği artmıştır."
+        },
+        {
+            "id": "Karate#12",
+            "sentence": "Fakat Amerikan ordusu işgal sırasında kendine karşı kullanılma riskinden ürktüğü için bu savaş sanatının bir savunma sporuna çevrilmesini istedi."
+        },
+        {
+            "id": "Karate#13",
+            "sentence": "Bu istek o zaman karatenin duyulmasında büyük rol oynayan Funakoshi tarafından karşılandı ve karatenin ilk spor versiyonu oluşturuldu."
+        },
+        {
+            "id": "Karate#14",
+            "sentence": "Bu sayede öğrenmesi yıllar alan ve oldukça zor olan sanat tüm dünyada popüler hale gelebilmiştir."
+        },
+        {
+            "id": "Karate#15",
+            "sentence": "Daha sonra öğrencileri tarafından stili, Ustanın şiir yazarken kullandığı mahlası olan Shōtō, yer, okul anlamına gelen kan ve metot, stil anlamına gelen Ryū kelimelerinin birleşimi olan Shōtōkan-ryū (松濤館流) veya kısaca ___E:Shotokan U:(https://tr.wikipedia.org/wiki/Shotokan)___ (松濤館) olarak adlandırılmıştır."
+        },
+        {
+            "id": "Karate#16",
+            "sentence": "Karatenin olimpiyat süreci ise Daha önce Uluslararası Olimpiyat Komitesi (IOC), Lozan'da yaptığı yönetim kurulu toplantısında Tokyo 2020 Organizasyon Komitesi tarafından önerilen beş spor dalının oyunlarda yer almasını kararlaştırmıştı.03.08.2016 tarihinde yapılan Genel Kurul toplantısının ardından karate, beyzbol/softbol, sportif tırmanış, kaykay ve sörf branşlarının Tokyo 2020 programında resmen yer alması oy birliğiyle kabul edilmiş. 2012 ve 2016 Olimpiyat Oyunları programına girmek için yoğun çaba harcayan karatenin olimpiyat bekleyişinin sona ermesi uluslararası karate camiasında büyük sevinçle karşılandı."
+        },
+        {
+            "id": "Karate#17",
+            "sentence": "IOC Genel Kurulu kararına göre; kumitede altı sıklette (üç erkek, üç bayan) 60 sporcu, katada ise erkek-bayan 20 sporcu Tokyo 2020 Olimpiyat Oyunları'nda yarışacak.Brezilya'nın Rio kentinde toplanan IOC Genel Kurulu, 129. IOC oturumunun ardından Tokyo 2020 Olimpiyat Oyunları'nda karatenin de dahil olduğu beş spor branşının yer almasını resmen kabul etmesiyle, Karate artık olimpik spor olmuştur. [kaynak belirtilmeli]"
+        },
+        {
+            "id": "Karate#18",
+            "sentence": "Giysilerine karate-gi , öğrencilerine karate-ka denir."
+        },
+        {
+            "id": "Karate#19",
+            "sentence": "Karate antrenmanları genel olarak üç kısımdan oluşur."
+        },
+        {
+            "id": "Karate#20",
+            "sentence": "Bunlar: ___E:Kihon U:(https://tr.wikipedia.org/w/index.php?title=Kihon&action=edit&redlink=1)___ , ___E:Kata U:(https://tr.wikipedia.org/wiki/Kata)___ ve ___E:Kumite U:(https://tr.wikipedia.org/wiki/Kumite)___ 'dir. Kihon karatedeki temel tekniklerin parça parça çalışılmasıdır."
+        },
+        {
+            "id": "Karate#21",
+            "sentence": "Kata , sıraları önceden belirlenmiş çeşitli tekniklerin belirli bir sıra ile uygulandığı karatenin kuşaktan kuşağa aktarılması için oluşturulmuş alıştırmalardır."
+        },
+        {
+            "id": "Karate#22",
+            "sentence": "Kumite antrenmanda yapılan dövüş alıştırmasıdır."
+        },
+        {
+            "id": "Karate#23",
+            "sentence": "Karatede derecelenme kuşaklarla belirlenir."
+        },
+        {
+            "id": "Karate#24",
+            "sentence": "Bu kuşaklar beyaz ile başlar ve tecrübe kazandıkça kahverengi ve siyaha doğru devam eder. Renkli kuşaklar öğrenci (Kyu) seviyeleri, siyah kuşak da ustalık (Dan) seviyesini belirtir."
+        },
+        {
+            "id": "Karate#25",
+            "sentence": "Şu kuşaklar mevcuttur:"
+        },
+        {
+            "id": "Karate#26",
+            "sentence": "Karate ___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___ 'ye 1962 yılında ___E:güreş U:(https://tr.wikipedia.org/wiki/G%C3%BCre%C5%9F)___ antrenörü Halil Yüceses'in Japonya'dan dönüşü sonucu ___E:Judo U:(https://tr.wikipedia.org/wiki/Judo)___ ile birlikte girmiş, bazı karate tekniklerinin çeşitli Judo hocalarınca öğretilmeye başlanması ve ___E:Türk Silahlı Kuvvetleri U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Silahl%C4%B1_Kuvvetleri)___ yakın dövüş eğitiminde yer bulması üzerine tanınmıştır. 1969 yılında Judo Federasyonu teknik direktörü Michel Novowitch antrenör kurslarında Judo'nun yanı sıra karate eğitimi de vermiştir."
+        },
+        {
+            "id": "Karate#27",
+            "sentence": "1980 Karakuşak dergisi liderliğinde Gazeteci-Yazar Kaya Muzaffer Ilıcak, karate sporunun öncüleri olan Hakkı Koşar, Ferhat Özsert, Ahmet Doğaner ve Enver Hancı hocaları bir araya getirerek karatenin, Judo Federasyonu'na bağlanmasını gerçekleştirdi."
+        },
+        {
+            "id": "Karate#28",
+            "sentence": "1980 Karakuşak 1. Türkiye Karate Şampiyonasını Gazeteci-Yazar Kaya Muzaffer Ilıcak düzenledi."
+        },
+        {
+            "id": "Karate#29",
+            "sentence": "Bu şampiyonada vuruşlu ve vuruşsuz ekollerin bir arada yarışabileceklerini ispatladı. (Büyük usta Taiji Kase bu organizasyonda gösteri yaptı."
+        },
+        {
+            "id": "Karate#30",
+            "sentence": "Bazı maçların hakemliğini yaparak ilk karate hakem seminerini gerçekleştirdi.)"
+        },
+        {
+            "id": "Karate#31",
+            "sentence": "1980'de Gazeteci-Yazar Kaya Muzaffer Ilıcak Bremen'de yapılan Dünya Karate Şampiyonasında Türk Karate takımının sponsorluğunu yaptı."
+        },
+        {
+            "id": "Karate#32",
+            "sentence": "Frankfurt'ta seyahatte olan Judo Federasyonu Başkanı Cihat Uskan'ı da davet ederek sportif karateyi yakından tanımasını sağladı."
+        },
+        {
+            "id": "Karate#33",
+            "sentence": "1990'da ise Türkiye Karate Federasyonu kurulmuştur."
+        },
+        {
+            "id": "Karate#34",
+            "sentence": "Türkiye'de karatenin ilk yıllarından itibaren ___E:JKA U:(https://tr.wikipedia.org/wiki/Japan_Karate_Association)___ ile birlikte Shotokan ekolü (Funakoshi temelli Nakayama stili) genelinde yayılmıştır."
+        },
+        {
+            "id": "Karate#35",
+            "sentence": "Daha sonraki yıllarda farklı stiller de çalışılır olmuştur."
+        },
+        {
+            "id": "Karate#36",
+            "sentence": "Türkiye Karate Federasyonu Dünya Karate Federasyonu'na (WKF) bağlı olarak faaliyetlerini sürdürmektedir."
+        },
+        {
+            "id": "Karate#37",
+            "sentence": "Türkiye'de karate-do, aynı zamanda üniversitelerde de yaygın olarak çalışılan ve müsabakaları Türkiye Üniversite Sporları Federasyonu tarafından düzenlenen bir spor dalıdır."
+        },
+        {
+            "id": "Karate#38",
+            "sentence": "Fakat karate-do yalnızca sportif bir sistem değildir."
+        },
+        {
+            "id": "Karate#39",
+            "sentence": "Sportif karate, yumruk, tekme ve yere düşürme teknikleriyle puan alınan bir spor dalıdır."
+        },
+        {
+            "id": "Karate#40",
+            "sentence": "Nakavt etmek maçı kazanmayı sağlamaz ve bilerek rakibi incitmeye yönelik davranışlar ceza alır.  Bu kurallar karate-do'nun, savunma amacı dışında insanları incitmeme felsefesiyle uyumludur."
+        },
+        {
+            "id": "Karate#41",
+            "sentence": "Bu sebeple tam temaslı sporlara göre ___E:beyin sarsıntısı U:(https://tr.wikipedia.org/wiki/Beyin_sars%C4%B1nt%C4%B1s%C4%B1)___ riski düşüktür."
+        },
+        {
+            "id": "Karate#42",
+            "sentence": "Geleneksel karatede yer alan pek çok teknik yasak olmasına rağmen (dirsek, diz, bel altı saldırılar vb.), sportif karate, hızlı refleksler, denge, mesafe (distancing) algısı, saldırı açıları ve ayak oyunları (footwork) gibi kendini savunma açısından önemli yetenekler kazandırır."
+        },
+        {
+            "id": "Karate#43",
+            "sentence": "Türkiye'de çok büyük çoğunluk sportif karate yapmaktadır [kaynak belirtilmeli] ."
+        },
+        {
+            "id": "Karate#44",
+            "sentence": "Çok sayıdaki mevcut karate stiline karşın, Dünya Karate Federasyonu (WKF) (dolayısıyla Avrupa Karate Federasyonu (EKF) ve Türkiye Karate Federasyonu (TKF)) özellikle sportif faaliyetlerde standartlaşmayı sağlayabilmek için Kata listeleri üzerinden dört stili kabul etmektedir:"
+        },
+        {
+            "id": "Karate#45",
+            "sentence": "Diğer karate stilleri arasında ise aşağıdakiler sayılabilir."
+        },
+        {
+            "id": "Karate#46",
+            "sentence": "Bu stiller başta Dünya Karate-do Organizasyonları Birliği (WUKO) olmak üzere çeşitli federasyon ve organizasyonlarda örgütlenmektedir."
+        },
+        {
+            "id": "Karate#47",
+            "sentence": "___E:Tam temaslı karate U:(https://tr.wikipedia.org/wiki/Tam_temasl%C4%B1_Karate)___ stilleri:"
+        },
+        {
+            "id": "Karate#48",
+            "sentence": "Dünya Karate Federasyonu (WKF) dışındaki geleneksel karate stilleri:"
+        },
+        {
+            "id": "Karate#49",
+            "sentence": "Kata ( ___E:型 U:(https://tr.wiktionary.org/wiki/%E5%9E%8B)___ :かた) biçim ya da model anlamına gelmektedir."
+        },
+        {
+            "id": "Karate#50",
+            "sentence": "Kata, bir dizi saldırı ve savunma hareketinin peş peşe eklenmesiyle oluşturulmuş hareketler dizisidir."
+        },
+        {
+            "id": "Karate#51",
+            "sentence": "Bu duruş ve hareketler karatedeki dövüş uygulamalarının temelini oluşturmaktadır."
+        },
+        {
+            "id": "Karate#52",
+            "sentence": "Kataya dönüştürülen bu hareketler dizisinin temeli ___E:Bunkai U:(https://tr.wikipedia.org/wiki/Bunkai)___ olarak gösterilir."
+        },
+        {
+            "id": "Karate#53",
+            "sentence": "Bunkai her bir duruş ve hareketin nasıl olması gerektiğini açıklamaktadır ve katanın içeriğini anlamakta elverişli bir alt yapıdır."
+        },
+        {
+            "id": "Karate#54",
+            "sentence": "Bir karate öğrencisinin yani karatekanın resmi bir kuşak edinebilmesi için o kuşağa ait kata figürlerini uygun biçimde tekrarlayabilmesi gerekmektedir."
+        },
+        {
+            "id": "Karate#55",
+            "sentence": "Kata figürlerinde genel olarak Japonca kuşak ve dereceler kullanılmaktadır."
+        },
+        {
+            "id": "Karate#56",
+            "sentence": "Sınavlarda başarılı sayılmak için gereklilikler okullara göre değişiklik göstermektedir."
+        },
+        {
+            "id": "Karate#57",
+            "sentence": "Kurallar dahilinde karşılıklı serbest dövüş biçimine kumite (組手:くみて) adı verilmektedir."
+        },
+        {
+            "id": "Karate#58",
+            "sentence": "Kumi-te, ellerin karşılaşması anlamına gelmektedir."
+        },
+        {
+            "id": "Karate#59",
+            "sentence": "Hem spor hem de kendini savunma alıştırması amaçlı olarak uygulanmaktadır."
+        },
+        {
+            "id": "Karate#60",
+            "sentence": "Kihon temel teknikler anlamına gelir ve duruşlar, yumruklar, tekmeler ve bloklar da dahil olmak üzere diğer her şeyin temelini oluşturur."
+        },
+        {
+            "id": "Karate#61",
+            "sentence": "Birçok karate sitili Kihon'a çok önem verir."
+        },
+        {
+            "id": "Karate#62",
+            "sentence": "Tipik olarak bu, bir tekniğin veya tekniklerin bir grup karateka tarafından birleştirilmesi sonucu yapılır."
+        },
+        {
+            "id": "Karate#63",
+            "sentence": "Kihon, küçük gruplar veya çiftler halinde yapılabilir."
+        }
+    ]
+}

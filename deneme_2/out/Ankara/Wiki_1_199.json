@@ -1,0 +1,26 @@
+{
+    "Title": "Kiler",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Kiler#1",
+            "sentence": "Kiler , evlerde ya da çiftliklerde erzak depolamaya yarayan bölme."
+        },
+        {
+            "id": "Kiler#2",
+            "sentence": "Kiler fikrinin ilk ortaya çıkış amacı, kuru yiyecekleri nemden ve kemirgen hayvanlardan korumaktır."
+        },
+        {
+            "id": "Kiler#3",
+            "sentence": "Hiçbir şekilde girişin olamayacağı alanlar olarak tasarlanan kilerler daha sonraları, içecek ve meşrubatın, kuru etlerin tutulduğu yerler hâline gelmişlerdir."
+        },
+        {
+            "id": "Kiler#4",
+            "sentence": "Günümüz ___E:evlerinde U:(https://tr.wikipedia.org/wiki/Ev)___ ankastre ürünlerin kullanıldığı, geniş dolaplara sahip modern ___E:mutfakların U:(https://tr.wikipedia.org/wiki/Mutfak)___ çıkması ile kiler geleneği yavaş yavaş kalkmaktadır."
+        },
+        {
+            "id": "Kiler#5",
+            "sentence": "Fakat birçok evde değerlendirilmesi imkânsız alanlar bir ___E:kapı U:(https://tr.wikipedia.org/wiki/Kap%C4%B1)___ ile bölünerek kiler olarak kullanılır."
+        }
+    ]
+}

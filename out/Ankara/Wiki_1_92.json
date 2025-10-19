@@ -1,0 +1,498 @@
+{
+    "Title": "Şarap",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Şarap#1",
+            "sentence": "Şarap veya mey , ___E:fermente U:(https://tr.wikipedia.org/wiki/Fermantasyon)___ meyvelerden yapılan ___E:alkollü bir içecektir U:(https://tr.wikipedia.org/wiki/%C4%B0%C3%A7ki)___ ."
+        },
+        {
+            "id": "Şarap#2",
+            "sentence": "Maya, meyvelerdeki ___E:şekeri U:(https://tr.wikipedia.org/wiki/%C5%9Eeker)___ tüketir ve onu ___E:etanol U:(https://tr.wikipedia.org/wiki/Etanol)___ ve ___E:karbondioksite U:(https://tr.wikipedia.org/wiki/Karbondioksit)___ dönüştürerek ___E:ısı U:(https://tr.wikipedia.org/wiki/Is%C4%B1)___ açığa çıkarır."
+        },
+        {
+            "id": "Şarap#3",
+            "sentence": "Şarap ___E:erik U:(https://tr.wikipedia.org/wiki/Erik)___ , ___E:kiraz U:(https://tr.wikipedia.org/wiki/Kiraz)___ , ___E:nar U:(https://tr.wikipedia.org/wiki/Nar)___ , ___E:yaban mersini U:(https://tr.wikipedia.org/wiki/Yaban_mersini)___ , ___E:frenk üzümü U:(https://tr.wikipedia.org/wiki/Frenk_%C3%BCz%C3%BCm%C3%BC)___ ve ___E:mürver U:(https://tr.wikipedia.org/wiki/M%C3%BCrver)___ gibi çeşitli meyvelerden yapılabilse de çoğunlukla ___E:üzümden U:(https://tr.wikipedia.org/wiki/%C3%9Cz%C3%BCm)___ yapılır ve \"şarap\" terimi genellikle bir niteleyici olmadan kullanıldığında üzüm şarabını ifade eder. Şarap, çoğunlukla %9 ila %15 arası alkol ihtiva etmektedir."
+        },
+        {
+            "id": "Şarap#4",
+            "sentence": "Başka meyvelerden de üretilebilen şaraplar o meyvenin adı ile anılmaktadır."
+        },
+        {
+            "id": "Şarap#5",
+            "sentence": "Şarap binlerce yıldır üretilmektedir."
+        },
+        {
+            "id": "Şarap#6",
+            "sentence": "Şarabın en eski örnekleri, bugünkü ___E:Gürcistan U:(https://tr.wikipedia.org/wiki/G%C3%BCrcistan)___ (MÖ 6000), ___E:İran U:(https://tr.wikipedia.org/wiki/%C4%B0ran)___ (MÖ 5000), ___E:İtalya U:(https://tr.wikipedia.org/wiki/%C4%B0talya)___ ve Kafkasya (MÖ 4000) bölgesindendir. ___E:Yeni Dünya U:(https://tr.wikipedia.org/wiki/Yeni_D%C3%BCnya)___ şarabının ___E:Amerika'nın yerli halkları U:(https://tr.wikipedia.org/wiki/Amerika_yerlileri)___ tarafından yapılan alkollü içeceklerle bir miktar bağlantısı vardır, ancak esas olarak ___E:Yeni İspanya U:(https://tr.wikipedia.org/wiki/Yeni_%C4%B0spanya)___ 'daki daha sonraki ___E:İspanyol U:(https://tr.wikipedia.org/wiki/%C4%B0spanyollar)___ gelenekleriyle bağlantılıdır."
+        },
+        {
+            "id": "Şarap#7",
+            "sentence": "Daha sonra, ___E:Eski Dünya U:(https://tr.wikipedia.org/wiki/Eski_D%C3%BCnya)___ şarabı bağcılık tekniklerini daha da geliştirdikçe, ___E:Avrupa U:(https://tr.wikipedia.org/wiki/Avrupa)___ en büyük şarap üreten üç bölgeyi kapsayacaktı."
+        },
+        {
+            "id": "Şarap#8",
+            "sentence": "Bugün en büyük şarap üretim bölgelerine sahip beş ülke İtalya, İspanya, ___E:Fransa U:(https://tr.wikipedia.org/wiki/Fransa)___ , ___E:Amerika Birleşik Devletleri U:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)___ ve ___E:Çin U:(https://tr.wikipedia.org/wiki/%C3%87in)___ 'dedir."
+        },
+        {
+            "id": "Şarap#9",
+            "sentence": "Şarap uzun zamandır ___E:dinde U:(https://tr.wikipedia.org/wiki/Din)___ önemli bir rol oynamıştır. ___E:Kırmızı şarap U:(https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1_%C5%9Farap)___ , ___E:eski Mısırlılar U:(https://tr.wikipedia.org/wiki/Eski_M%C4%B1s%C4%B1r)___ tarafından kanla ilişkilendirildi ve hem ___E:Yunan U:(https://tr.wikipedia.org/wiki/Yunanlar)___ ___E:Dionysos U:(https://tr.wikipedia.org/wiki/Dionisos)___ kültü hem de ___E:Romalılar U:(https://tr.wikipedia.org/wiki/Antik_Roma)___ tarafından ___E:Bacchanalia U:(https://tr.wikipedia.org/wiki/Bacchanalia)___ 'da kullanıldı; ___E:Yahudilik U:(https://tr.wikipedia.org/wiki/Yahudilik)___ aynı zamanda onu ___E:Kiduş U:(https://tr.wikipedia.org/wiki/Kidu%C5%9F)___ 'a, ___E:Hıristiyanlık U:(https://tr.wikipedia.org/wiki/Hristiyanl%C4%B1k)___ da ___E:Efkaristiya U:(https://tr.wikipedia.org/wiki/Efkaristiya)___ 'ya dahil eder. Mısır, Yunan, Roma ve ___E:İsrail U:(https://tr.wikipedia.org/wiki/%C4%B0srail)___ şarap kültürleri hâlâ bu antik köklerle bağlantılıdır."
+        },
+        {
+            "id": "Şarap#10",
+            "sentence": "Benzer şekilde İtalya, İspanya ve Fransa'daki en büyük şarap bölgeleri kutsal şarapla bağlantılı miraslara sahiptir; aynı şekilde Güneybatı Amerika Birleşik Devletleri'ndeki bağcılık gelenekleri, ___E:Katolik U:(https://tr.wikipedia.org/wiki/Katolik_Kilisesi)___ rahiplerin ve keşişlerin ilk kez ___E:New Mexico U:(https://tr.wikipedia.org/wiki/New_Mexico)___ ve ___E:Kaliforniya U:(https://tr.wikipedia.org/wiki/Kaliforniya)___ 'da şarap üretmesiyle Yeni İspanya'da başlamıştır."
+        },
+        {
+            "id": "Şarap#11",
+            "sentence": "___E:Türkçede U:(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)___ yer alan şarap sözcüğü, ___E:Arapça U:(https://tr.wikipedia.org/wiki/Arap%C3%A7a)___ şrb kökünden gelen ve \"her türlü içecek, içki\" manasında kullanılmış شراب ( şarāb ) sözcüğünden ___E:ödünçlemedir U:(https://tr.wikipedia.org/wiki/%C3%96d%C3%BCn%C3%A7leme)___ ."
+        },
+        {
+            "id": "Şarap#12",
+            "sentence": "Bu kelime Arapça \"içti\" anlamındaki شَرَبَ ( şaraba ) fiilinin ___E:faˁāl vezninde U:(https://tr.wikipedia.org/wiki/Arap%C3%A7a_dilbilgisi)___ türevidir."
+        },
+        {
+            "id": "Şarap#13",
+            "sentence": "Herhangi bir ___E:Türkî dilde U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_dilleri)___ en eski kaydedilmiş kullanımı 1069 yılına tarihlenen ___E:Kutadgu Bilig U:(https://tr.wikipedia.org/wiki/Kutadgu_Bilig)___ 'de yer alır, ancak burada genel içki anlamında kullanılmıştır."
+        },
+        {
+            "id": "Şarap#14",
+            "sentence": "Şarap anlamında ilk kullanım 1303'e tarihlenen ___E:Codex Cumanicus U:(https://tr.wikipedia.org/wiki/Codex_Cumanicus)___ eserinde tespit edilmiştir."
+        },
+        {
+            "id": "Şarap#15",
+            "sentence": "Aynı kökten maşrapa, meşrep, meşrubat, şerbet (sorbe) ve şurup kelimeleri de evrilmiştir."
+        },
+        {
+            "id": "Şarap#16",
+            "sentence": "Mey, kökensel açıdan ___E:Farsça U:(https://tr.wikipedia.org/wiki/Fars%C3%A7a)___ \"mayalanmış içki, şarap\" anlamındaki مى ( may ) sözcüğünden alıntıdır ve bu sözcük ___E:Orta Farsça U:(https://tr.wikipedia.org/wiki/Orta_Fars%C3%A7a)___ aynı anlama gelen may sözcüğünden evrilmiştir."
+        },
+        {
+            "id": "Şarap#17",
+            "sentence": "Bu sözcük ___E:Proto Hint-Avrupa dilinde U:(https://tr.wikipedia.org/wiki/%C3%96n_Hint-Avrupa_dili)___ var olduğu düşünülen ve \" ___E:bal U:(https://tr.wikipedia.org/wiki/Bal)___ veya ___E:baldan yapılan içki U:(https://tr.wikipedia.org/wiki/Bal_%C5%9Farab%C4%B1)___ \" anlamındaki *médʰu biçiminden evrilmiştir."
+        },
+        {
+            "id": "Şarap#18",
+            "sentence": "Aynı kökten ___E:Grekçe U:(https://tr.wikipedia.org/wiki/Grek%C3%A7e)___ methý ile ___E:İngilizce U:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)___ mead sözcükleri türemiştir."
+        },
+        {
+            "id": "Şarap#19",
+            "sentence": "Pek çok ___E:Hint-Avrupa dilinde U:(https://tr.wikipedia.org/wiki/Hint-Avrupa_dil_ailesi)___ şarabı kastetmek için kullanılan sözcük, bir ___E:proto dil U:(https://tr.wikipedia.org/wiki/Proto_dil)___ olan Proto Hint-Avrupa dilinde yer aldığı varsayılan * win-o- kelimesinden türemiştir."
+        },
+        {
+            "id": "Şarap#20",
+            "sentence": "Bu kullanım modern İngilizcede yer alan wine sözcüğünün yanı sıra ___E:Latince U:(https://tr.wikipedia.org/wiki/Latince)___ vinum , ___E:Grekçe U:(https://tr.wikipedia.org/wiki/Grek%C3%A7e)___ : οἶνος oinos , ___E:Hititçe U:(https://tr.wikipedia.org/wiki/Hitit%C3%A7e)___ wiyana , ___E:Ermenice U:(https://tr.wikipedia.org/wiki/Ermenice)___ գինի gini ve ___E:Likçe U:(https://tr.wikipedia.org/wiki/Lik%C3%A7e)___ oino gibi diğer çağdaş ve tarihî dillerde de tespit edilmiştir.    ___E:Güney Kafkas dillerine U:(https://tr.wikipedia.org/wiki/G%C3%BCney_Kafkas_dilleri)___ mensup ___E:Gürcücede U:(https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BCce)___ de ღვინო ( Gürcüce telaffuz: [ɣvinɔ] ) şekliyle vardır ve bu kelimenin kökeni ___E:Proto Güney Kafkasya dilinde U:(https://tr.wikipedia.org/wiki/Proto_Kartveli_dili)___ yer alan * ɣwino - köküne bağlanmıştır."
+        },
+        {
+            "id": "Şarap#21",
+            "sentence": "Bu proto dile genellikle ya Proto Hint-Avrupa dilinden,       ya da ___E:Proto Ermeniceden U:(https://tr.wikipedia.org/wiki/Ana_Ermenice)___ (* ɣʷeinyo -) ödünçlenerek girdiği düşünülür,      ancak bazı akademisyenlere göre Proto Kartveli dilinde yerli olarak bulunan ve \"bükmek\" anlamındaki * ɣun - kökünden evrilmiştir."
+        },
+        {
+            "id": "Şarap#22",
+            "sentence": "___E:Macarca U:(https://tr.wikipedia.org/wiki/Macarca)___ 'daki bor sözcüğünün dile 10. yüzyıldan önce bir Türk dili vasıtasıyla alıntılandığı düşünülmektedir."
+        },
+        {
+            "id": "Şarap#23",
+            "sentence": "Bu kullanım ___E:Kumanca U:(https://tr.wikipedia.org/wiki/Kumanya)___ ve ___E:Kıpçakça U:(https://tr.wikipedia.org/wiki/Eski_K%C4%B1p%C3%A7ak%C3%A7a)___ gibi çağdaşı dillerde de tespit edilmiştir."
+        },
+        {
+            "id": "Şarap#24",
+            "sentence": "Sözcüğün son kökeni ise ___E:Orta Farsça U:(https://tr.wikipedia.org/wiki/Orta_Fars%C3%A7a)___ \"kırmızımsı-kahverengi\" anlamına gelmiş bōr kelimesine dayanır."
+        },
+        {
+            "id": "Şarap#25",
+            "sentence": "Şarap üretimi binlerce yıllık bir geçmişe sahiptir."
+        },
+        {
+            "id": "Şarap#26",
+            "sentence": "Günümüzde ___E:Gürcistan U:(https://tr.wikipedia.org/wiki/G%C3%BCrcistan)___ 'ın yer aldığı bölge genellikle şarap üretiminin doğum yeri olarak kabul edilir."
+        },
+        {
+            "id": "Şarap#27",
+            "sentence": "Bu bölgedeki ___E:arkeolojik U:(https://tr.wikipedia.org/wiki/Arkeoloji)___ ve ___E:arkeobotanik U:(https://tr.wikipedia.org/w/index.php?title=Arkeobotanik&action=edit&redlink=1)___ çalışmaları, üzüm şarabı ve ___E:bağcılığın U:(https://tr.wikipedia.org/wiki/Ba%C4%9F_(tar%C4%B1m))___ başlangıcına ilişkin kanıtları MÖ 6000–5800 yılları arasına tarihlemiştir."
+        },
+        {
+            "id": "Şarap#28",
+            "sentence": "Gürcistan'dan sonra şarabın ilk ___E:Güney Kafkasya U:(https://tr.wikipedia.org/wiki/G%C3%BCney_Kafkasya)___ 'da veya ___E:Doğu Anadolu U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Anadolu_B%C3%B6lgesi)___ ile Kuzey ___E:İran U:(https://tr.wikipedia.org/wiki/%C4%B0ran)___ arasındaki bölgelerde üretilmeye başlandığı düşünülmektedir."
+        },
+        {
+            "id": "Şarap#29",
+            "sentence": "İran'daki arkeolojik kanıtlar üretimin MÖ 5000'de,  ___E:Sicilya U:(https://tr.wikipedia.org/wiki/Sicilya)___ 'da ise MÖ 4000 dolaylarında başladığını ortaya koymaktadır."
+        },
+        {
+            "id": "Şarap#30",
+            "sentence": "En eski şaraphane ise günümüzde ___E:Ermenistan U:(https://tr.wikipedia.org/wiki/Ermenistan)___ ‘daki ___E:Areni-1 Mağara Kompleksi U:(https://tr.wikipedia.org/wiki/Areni-1_Ma%C4%9Fara_Kompleksi)___ 'ndeki şaraphanedir."
+        },
+        {
+            "id": "Şarap#31",
+            "sentence": "Çin'de MÖ 7000'ye tarihlenen çömleklerdeki ___E:tartarik asit U:(https://tr.wikipedia.org/wiki/Tartarik_asit)___ kalıntıları göz önünde bulundurulduğunda bu bölgede şarap üretimine dair Gürcistan'dan daha eski kanıtlar vardır, ancak bu içeceklerde üzüm yerine başka meyvelerin kullanılmış olması olasıdır."
+        },
+        {
+            "id": "Şarap#32",
+            "sentence": "Bu içeceğin meyve ve ___E:pirincin U:(https://tr.wikipedia.org/wiki/Pirin%C3%A7)___ karıştırılarak üretildiği düşünülmektedir."
+        },
+        {
+            "id": "Şarap#33",
+            "sentence": "Şarap kültürünün batıya yayılmasında ___E:Doğu Akdeniz U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Akdeniz)___ 'de yer almış tarihî ___E:Fenikelilerin U:(https://tr.wikipedia.org/wiki/Fenikeliler)___ önemli rol oynadığı düşünülmektedir."
+        },
+        {
+            "id": "Şarap#34",
+            "sentence": "Fenike şehri ___E:Biblos U:(https://tr.wikipedia.org/wiki/Biblos)___ 'dan ___E:Mısır U:(https://tr.wikipedia.org/wiki/Antik_M%C4%B1s%C4%B1r)___ 'daki ___E:Eski Krallık U:(https://tr.wikipedia.org/wiki/Eski_Krall%C4%B1k)___ 'a ve diğer Akdeniz bölgelerine şarap ihraç edilmiştir."
+        },
+        {
+            "id": "Şarap#35",
+            "sentence": "MÖ 750'ye tarihlenen ve ___E:Robert Ballard U:(https://tr.wikipedia.org/wiki/Robert_Ballard)___ 'ın keşfetmiş olduğu iki Fenike ___E:gemi enkazında U:(https://tr.wikipedia.org/wiki/Bat%C4%B1k)___ , gemilerin taşımış oldukları şaraplar bozulmadan ele geçirilmiştir."
+        },
+        {
+            "id": "Şarap#36",
+            "sentence": "Fenikeliler bu şarapları bir ___E:zeytinyağı U:(https://tr.wikipedia.org/wiki/Zeytinya%C4%9F%C4%B1)___ tabakası ile ___E:çamdan U:(https://tr.wikipedia.org/wiki/%C3%87am)___ ve ___E:reçineden U:(https://tr.wikipedia.org/wiki/Re%C3%A7ine)___ yapılma bir mühür yardımıyla ___E:oksidasyondan U:(https://tr.wikipedia.org/wiki/Oksidasyon)___ korumuştur. [kaynak belirtilmeli]"
+        },
+        {
+            "id": "Şarap#37",
+            "sentence": "___E:Antik Yunanistan U:(https://tr.wikipedia.org/wiki/Antik_Yunanistan)___ 'dan ___E:Homeros U:(https://tr.wikipedia.org/wiki/Homeros)___ ve ___E:Alkman U:(https://tr.wikipedia.org/wiki/Alkman)___ pek çok kez şaraba atıfta bulunmuşlardır. ___E:Antik Romalılar U:(https://tr.wikipedia.org/wiki/Antik_Roma)___ , askerî birliklere şarabın yerel olarak sağlanabilmesi için garnizon kentlerinin yakınındaki bölgelere şarap bağları ekmiştir."
+        },
+        {
+            "id": "Şarap#38",
+            "sentence": "Bu bölgelerden bazıları günümüzdeki en önemli şarap üretim bölgelerini oluşturmaktadır."
+        },
+        {
+            "id": "Şarap#39",
+            "sentence": "Romalılar ayrıca boş ___E:şarap şişelerinin U:(https://tr.wikipedia.org/wiki/%C5%9Earap_%C5%9Fi%C5%9Fesi)___ içerisinde ___E:kükürtlü U:(https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt)___ mum yakmanın şarabı taze tuttuğunu ve ___E:sirkeleşmesinin U:(https://tr.wikipedia.org/wiki/Sirke)___ önüne geçtiğini keşfetmişlerdir.  ___E:Orta Çağ Avrupası U:(https://tr.wikipedia.org/w/index.php?title=Orta_%C3%87a%C4%9F_Avrupas%C4%B1&action=edit&redlink=1)___ 'nda ___E:Katolik Kilisesi U:(https://tr.wikipedia.org/wiki/Katolik_Kilisesi)___ şarap üretimini ___E:Missa Ayini U:(https://tr.wikipedia.org/wiki/Efkaristiya)___ sırasında kullanıldığı için desteklemiştir."
+        },
+        {
+            "id": "Şarap#40",
+            "sentence": "Bu nedenden ötürü Hristiyan keşişler şarap üretimi gerçekleştirmiştir."
+        },
+        {
+            "id": "Şarap#41",
+            "sentence": "İlerleyen dönemlerde dinî amaçlar için kullanılan şarap rafine edilmiş ve tadı geliştirilmiştir."
+        },
+        {
+            "id": "Şarap#42",
+            "sentence": "Bu, ___E:Fransız şarabı U:(https://tr.wikipedia.org/wiki/Frans%C4%B1z_%C5%9Farab%C4%B1)___ , ___E:İtalyan şarabı U:(https://tr.wikipedia.org/wiki/%C4%B0talyan_%C5%9Farab%C4%B1)___ , ___E:Amerika Birleşik Devletleri şarabı U:(https://tr.wikipedia.org/w/index.php?title=Amerika_Birle%C5%9Fik_Devletleri_(%C5%9Farap)&action=edit&redlink=1)___ , ___E:Alman şarabı U:(https://tr.wikipedia.org/wiki/Alman_%C5%9Farab%C4%B1)___ , ___E:Portekiz şarabı U:(https://tr.wikipedia.org/wiki/Portekiz_%C5%9Farab%C4%B1)___ , ___E:İsveç şarabı U:(https://tr.wikipedia.org/wiki/%C4%B0sve%C3%A7_%C5%9Farab%C4%B1)___ , ___E:Arjantin şarabı U:(https://tr.wikipedia.org/wiki/Arjantin_%C5%9Farab%C4%B1)___ , ___E:Şili şarabı U:(https://tr.wikipedia.org/wiki/%C5%9Eili_%C5%9Farab%C4%B1)___ ve ___E:İspanyol şarabı U:(https://tr.wikipedia.org/wiki/%C4%B0spanyol_%C5%9Farab%C4%B1)___ gibi modern şarapçılık geleneklerinin oluşmasına, bu gelenekler ise ___E:coğrafi keşifler U:(https://tr.wikipedia.org/wiki/Co%C4%9Frafi_ke%C5%9Fifler)___ sonucunda ___E:Yeni Dünya U:(https://tr.wikipedia.org/wiki/Yeni_D%C3%BCnya)___ 'daki ___E:Yeni Dünya şarabı U:(https://tr.wikipedia.org/wiki/Yeni_D%C3%BCnya_%C5%9Farab%C4%B1)___ geleneğinin başlamasına yol açmıştır."
+        },
+        {
+            "id": "Şarap#43",
+            "sentence": "Yeni Dünya'daki en eski şarapçılık ___E:Vikinglerin U:(https://tr.wikipedia.org/wiki/Vikingler)___ Vinland Sagalarında geçen ___E:Vinland U:(https://tr.wikipedia.org/wiki/Vinland)___ 'da gerçekleşmiştir."
+        },
+        {
+            "id": "Şarap#44",
+            "sentence": "Daha sonraki dönemlerde ise ___E:New Mexico U:(https://tr.wikipedia.org/wiki/New_Mexico)___ ile ___E:Kaliforniya U:(https://tr.wikipedia.org/wiki/Kaliforniya)___ 'da üretilmeye başlanan şarap bu bölgelerde köklü bir geçmişe sahiptir."
+        },
+        {
+            "id": "Şarap#45",
+            "sentence": "Üzüm şarabı, ___E:kırmızı U:(https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1)___ ( ___E:kırmızı şarap U:(https://tr.wikipedia.org/wiki/K%C4%B1rm%C4%B1z%C4%B1_%C5%9Farap)___ ), ___E:beyaz U:(https://tr.wikipedia.org/wiki/Beyaz)___ ( ___E:beyaz şarap U:(https://tr.wikipedia.org/wiki/Beyaz_%C5%9Farap)___ ) veya ___E:pembe U:(https://tr.wikipedia.org/wiki/Pembe)___ ( ___E:roze/blush U:(https://tr.wikipedia.org/wiki/Roze)___ ) rengine sahip olabilir."
+        },
+        {
+            "id": "Şarap#46",
+            "sentence": "Şaraba ___E:rengini U:(https://tr.wikipedia.org/wiki/%C5%9Earap_(renk))___ veren ___E:antosiyanin U:(https://tr.wikipedia.org/wiki/Antosiyanin)___ ___E:pigmentleri U:(https://tr.wikipedia.org/wiki/Pigment)___ üzümün kabuğunda yer aldığından ötürü kırmızı şarap üretiminde üzüm, kabukları ile birlikte fermente edilir."
+        },
+        {
+            "id": "Şarap#47",
+            "sentence": "Bu nedenden ötürü beyaz şarap yeşil üzümün yanı sıra kabukları ayrılmış kırmızı üzüm şırasından da üretilebilir."
+        },
+        {
+            "id": "Şarap#48",
+            "sentence": "Roze, beyaz ve kırmızı şarabın ___E:kupajı U:(https://tr.wikipedia.org/wiki/Kupaj)___ ile veya üzüm kabuklarının sadece kısa bir süreliğine sıvıda tutulmasıyla elde edilebilir."
+        },
+        {
+            "id": "Şarap#49",
+            "sentence": "Üzüm kabuklarının şırada bekletilmesi işlemine maserasyon denir."
+        },
+        {
+            "id": "Şarap#50",
+            "sentence": "Şarabın renklenmesinde tanenler de önemli rol oynar."
+        },
+        {
+            "id": "Şarap#51",
+            "sentence": "Bitki, tohum, ağaç kabukları, odun, yaprak ve meyve kabuklarında doğal halde bulunan bir polifenol olan tanen, şaraba ya üzümün kabuğundan ya da fermente edildiği meşe fıçıdan geçebilir."
+        },
+        {
+            "id": "Şarap#52",
+            "sentence": "Tanenlerin yol açtığı burukluk tadına şarap terminolojisinde omurga denir."
+        },
+        {
+            "id": "Şarap#53",
+            "sentence": "Şarabın tatlılığı, ___E:şaraptaki şekerlerin U:(https://tr.wikipedia.org/wiki/%C5%9Earaptaki_%C5%9Fekerler)___ miktarı, göreceli alkol, asit ve ___E:tanen U:(https://tr.wikipedia.org/wiki/Tanen)___ seviyesi de dahil olmak üzere çeşitli faktörlerin etkileşimiyle öznel olarak belirlenir."
+        },
+        {
+            "id": "Şarap#54",
+            "sentence": "Şekerler ve alkol şarabın tatlılığını artırır; ___E:şaraptaki asitler U:(https://tr.wikipedia.org/wiki/%C5%9Earaptaki_asitler)___ (ekşilik) ve acı tanenler ise tatlılığı azaltır."
+        },
+        {
+            "id": "Şarap#55",
+            "sentence": "Bu sınıflandırmaya göre; sek, dömi-sek, yarı-tatlı ve tatlı olmak üzere dört ana grup vardır."
+        },
+        {
+            "id": "Şarap#56",
+            "sentence": "Bu şekerler, çoğu zaman fermantasyon sonundaki artık şekerler olmakla birlikte, bazı şarap üreticileri mayalanması bitmiş şaraplara taze üzüm suyu katarak tatlılığını artırır."
+        },
+        {
+            "id": "Şarap#57",
+            "sentence": "Bu ekleme özellikle ___E:Alman şaraplarında U:(https://tr.wikipedia.org/wiki/Alman_%C5%9Farab%C4%B1)___ görülür."
+        },
+        {
+            "id": "Şarap#58",
+            "sentence": "___E:Tatlı şarap U:(https://tr.wikipedia.org/wiki/Tatl%C4%B1_%C5%9Farap)___ , tatlıların yanında içilen özel bir şarap türüdür."
+        },
+        {
+            "id": "Şarap#59",
+            "sentence": "Neyin tatlı şarabı olduğuna dair farklı bölgelerde farklı tanımlar vardır."
+        },
+        {
+            "id": "Şarap#60",
+            "sentence": "Bu tarz üretilmiş şaraplar, ___E:brendi U:(https://tr.wikipedia.org/wiki/Brendi)___ gibi kaynaklardan eklenmiş ek alkol ve şeker içerir. [kaynak belirtilmeli]"
+        },
+        {
+            "id": "Şarap#61",
+            "sentence": "Bu şaraplar şarabın ikinci kez mayalanması ve bu işlem sırasında ortaya çıkan karbondioksit gazının şişenin içinde kalması sağlanarak üretilir ve bunun sonucunda yüksek miktarda ___E:karbondioksit U:(https://tr.wikipedia.org/wiki/Karbondioksit)___ içerirler."
+        },
+        {
+            "id": "Şarap#62",
+            "sentence": "Elde edilen şarap mantar ve tel düzeneği sayesinde şişe içinde kalır ve şişe açıldığında veya patlatıldığında köpük oluşması sağlanır."
+        },
+        {
+            "id": "Şarap#63",
+            "sentence": "Köpüklü şaraplar büyük oranda beyaz şaraptan üretilir, ancak genellikle yeşil ve kırmızı üzüm varyatelerinin kupajıyla hazırlanmaktadır."
+        },
+        {
+            "id": "Şarap#64",
+            "sentence": "Bazı ülkelerde köpüklü şaraplar ___E:şampanya U:(https://tr.wikipedia.org/wiki/%C5%9Eampanya)___ olarak adlandırılır."
+        },
+        {
+            "id": "Şarap#65",
+            "sentence": "Ancak şampanya sadece ___E:Fransa U:(https://tr.wikipedia.org/wiki/Fransa)___ 'nın Champagne bölgesinde özel şartlar altında üretilen bir köpüklü şarap çeşididir."
+        },
+        {
+            "id": "Şarap#66",
+            "sentence": "Champagne ismi uluslararası anlaşmalarla korunmaktadır."
+        },
+        {
+            "id": "Şarap#67",
+            "sentence": "İtalyan ___E:Prosecco U:(https://tr.wikipedia.org/wiki/Prosecco)___ ile Alman ___E:Sekt U:(https://tr.wikipedia.org/wiki/K%C3%B6p%C3%BCkl%C3%BC_%C5%9Farap)___ , diğer popüler köpüklü şarap türleridir."
+        },
+        {
+            "id": "Şarap#68",
+            "sentence": "Üzüm dışı diğer ___E:meyvelerden U:(https://tr.wikipedia.org/wiki/Meyve)___ imal edilen şaraplara ___E:meyve şarabı U:(https://tr.wikipedia.org/w/index.php?title=Meyve_%C5%9Farab%C4%B1&action=edit&redlink=1)___ adı verilir ve pek çok meyveden şarap üretilebilir."
+        },
+        {
+            "id": "Şarap#69",
+            "sentence": "Fakat dünyada şarapların büyük bir kısmı üzümden üretilmektedir."
+        },
+        {
+            "id": "Şarap#70",
+            "sentence": "Meyve içermeyen, ___E:bal şarabı U:(https://tr.wikipedia.org/wiki/Bal_%C5%9Farab%C4%B1)___ gibi ___E:baldan U:(https://tr.wikipedia.org/wiki/Bal)___ üretilen şarap çeşitleri de bulunmaktadır."
+        },
+        {
+            "id": "Şarap#71",
+            "sentence": "Şarap olarak adlandırılan, ancak hammaddesi şeker içermeyen ürünler olan içkilerde vardır."
+        },
+        {
+            "id": "Şarap#72",
+            "sentence": "Bu içkiler arasında ___E:pirinç şarabı U:(https://tr.wikipedia.org/wiki/Pirin%C3%A7_%C5%9Farab%C4%B1)___ , sake ve ___E:arpa şarabı U:(https://tr.wikipedia.org/wiki/Arpa_%C5%9Farab%C4%B1)___ yer almaktadır."
+        },
+        {
+            "id": "Şarap#73",
+            "sentence": "Arpa şarabı, arpanın ___E:maltlanması U:(https://tr.wikipedia.org/wiki/Malt)___ ile üretildiğinden ötürü tanım gereği ___E:bira U:(https://tr.wikipedia.org/wiki/Bira)___ ile daha yakındır."
+        },
+        {
+            "id": "Şarap#74",
+            "sentence": "Pirinç şarabında ise ___E:nişasta U:(https://tr.wikipedia.org/wiki/Ni%C5%9Fasta)___ mikroorganizmaların yardımıyla şekere dönüştürülmekte, ___E:fermentasyon U:(https://tr.wikipedia.org/w/index.php?title=Fermentasyon_(%C5%9Farap)&action=edit&redlink=1)___ sonucunda oluşan sıvı ise ___E:damıtılmaktadır U:(https://tr.wikipedia.org/wiki/Dam%C4%B1t%C4%B1lm%C4%B1%C5%9F_i%C3%A7ki)___ ."
+        },
+        {
+            "id": "Şarap#75",
+            "sentence": "Şarap yapmak için önce üzümler bağlarından toplanır, ardından ezilir sonra, maya (üzümde doğal olarak bulunur) üzüm suyundaki şeker ile birleşir ve aşamalı olarak bu şekeri tüketerek alkole dönüşür."
+        },
+        {
+            "id": "Şarap#76",
+            "sentence": "Maya aynı zamanda havada buharlaşan karbondioksiti üretir."
+        },
+        {
+            "id": "Şarap#77",
+            "sentence": "Mayanın işlemi tamamlandığında üzüm suyu şaraba dönüşür."
+        },
+        {
+            "id": "Şarap#78",
+            "sentence": "Şarap genellikle ___E:Pinot noir U:(https://tr.wikipedia.org/wiki/Pinot_noir)___ , ___E:Chardonnay U:(https://tr.wikipedia.org/wiki/Chardonnay)___ , ___E:Cabernet Sauvignon U:(https://tr.wikipedia.org/wiki/Cabernet_Sauvignon)___ , ___E:Gamay U:(https://tr.wikipedia.org/wiki/Gamay)___ ve ___E:Merlot U:(https://tr.wikipedia.org/wiki/Merlot)___ gibi Vitis vinifera Avrupa üzüm ___E:türünün U:(https://tr.wikipedia.org/wiki/T%C3%BCr)___ bir veya daha çok ___E:çeşit U:(https://tr.wikipedia.org/wiki/Varyete_(biyoloji))___ 'inden yapılır."
+        },
+        {
+            "id": "Şarap#79",
+            "sentence": "Bu çeşitlerden biri baskın üzüm olarak kullanıldığında (genellikle kanunla minimum %75 ila %85 olarak tanımlanır), sonuç \"harman\" şarabı yerine \" ___E:çeşit U:(https://tr.wikipedia.org/w/index.php?title=%C3%87e%C5%9Fit&action=edit&redlink=1)___ \" (İngilizce: varietal) şarabı olur. Harmanlanmış şaraplar, çeşit şaraplarından daha kötü değildir, aksine farklı bir şarap yapım tarzıdır."
+        },
+        {
+            "id": "Şarap#80",
+            "sentence": "___E:Cabernet Sauvignon U:(https://tr.wikipedia.org/wiki/Cabernet_Sauvignon)___ , ___E:Merlot U:(https://tr.wikipedia.org/wiki/Merlot)___ , ___E:Pinot noir U:(https://tr.wikipedia.org/wiki/Pinot_noir)___ , ___E:Şiraz U:(https://tr.wikipedia.org/w/index.php?title=%C5%9Eiraz_(%C3%BCz%C3%BCm)&action=edit&redlink=1)___ /Syrah, ___E:Zinfandel U:(https://tr.wikipedia.org/wiki/Zinfandel)___ , ___E:Nebbiolo U:(https://tr.wikipedia.org/wiki/Nebbiolo)___ , ___E:Sangiovese U:(https://tr.wikipedia.org/wiki/Sangiovese)___ , ___E:Tempranillo U:(https://tr.wikipedia.org/wiki/Tempranillo)___ , ___E:Aglianico U:(https://tr.wikipedia.org/w/index.php?title=Aglianico&action=edit&redlink=1)___ , ___E:Gamay U:(https://tr.wikipedia.org/wiki/Gamay)___ , ___E:Grenache U:(https://tr.wikipedia.org/wiki/Grenache)___ , ___E:Kuntra U:(https://tr.wikipedia.org/wiki/Karasak%C4%B1z)___ , ___E:Karalahna U:(https://tr.wikipedia.org/wiki/Karalahna)___ ve ___E:Barbera U:(https://tr.wikipedia.org/w/index.php?title=Barbera&action=edit&redlink=1)___ şarap yapılan başlıca kırmızı üzüm türleridir."
+        },
+        {
+            "id": "Şarap#81",
+            "sentence": "___E:Chardonnay U:(https://tr.wikipedia.org/wiki/Chardonnay)___ , ___E:Riesling U:(https://tr.wikipedia.org/wiki/Riesling)___ , ___E:Sauvignon blanc U:(https://tr.wikipedia.org/wiki/Sauvignon_blanc)___ , ___E:Pinot Gris U:(https://tr.wikipedia.org/w/index.php?title=Pinot_Gris&action=edit&redlink=1)___ /Pinot Grigio, ___E:Gewürtztraminer U:(https://tr.wikipedia.org/w/index.php?title=Gew%C3%BCrtztraminer&action=edit&redlink=1)___ , ___E:Chenin Blanc U:(https://tr.wikipedia.org/w/index.php?title=Chenin_Blanc&action=edit&redlink=1)___ , ___E:Misket U:(https://tr.wikipedia.org/wiki/Misket_(%C3%BCz%C3%BCm))___ , ___E:Pinot Blanc U:(https://tr.wikipedia.org/w/index.php?title=Pinot_Blanc&action=edit&redlink=1)___ , ___E:Sémillon U:(https://tr.wikipedia.org/wiki/Semillon)___ , ___E:Trebbiano U:(https://tr.wikipedia.org/wiki/Trebbiano)___ , ___E:Vasilaki U:(https://tr.wikipedia.org/wiki/Vasilaki)___ ve ___E:Viogner U:(https://tr.wikipedia.org/w/index.php?title=Viogner&action=edit&redlink=1)___ ise şarap yapılan başlıca beyaz üzüm türleridir."
+        },
+        {
+            "id": "Şarap#82",
+            "sentence": "___E:Hristiyanlıkta U:(https://tr.wikipedia.org/wiki/Hristiyanl%C4%B1k)___ ___E:Kudas Ayininde U:(https://tr.wikipedia.org/w/index.php?title=Kudas_Ayini&action=edit&redlink=1)___ hiçbir katkı maddesi eklenmeden kullanılır."
+        },
+        {
+            "id": "Şarap#83",
+            "sentence": "Tıbbi Şarap; içine çeşitli maddelerin çözünmesiyle içmek suretiyle yapılan ilaçtır."
+        },
+        {
+            "id": "Şarap#84",
+            "sentence": "Alkol derecesi en az 11 olan kırmızı veya beyaz şaraplar tercih edilir."
+        },
+        {
+            "id": "Şarap#85",
+            "sentence": "Edebiyatta şarabın konu edildiği şiirlere ___E:Hamriyyât U:(https://tr.wikipedia.org/wiki/Hamriyy%C3%A2t)___ adı verilmektedir."
+        },
+        {
+            "id": "Şarap#86",
+            "sentence": "Klasik Arap edebiyatının en meşhur ___E:hamriyyât U:(https://tr.wikipedia.org/wiki/Hamriyy%C3%A2t)___ şairi ___E:Ebû Nuvâs U:(https://tr.wikipedia.org/wiki/Ebu_Nuvas)___ 'tır."
+        },
+        {
+            "id": "Şarap#87",
+            "sentence": "Kırmızı rengi dolayısıyla sevgilinin dudağı, âşığın kanlı gözyaşıdır."
+        },
+        {
+            "id": "Şarap#88",
+            "sentence": "Kadehi andıran biçimiyle lale, kırmızı rengiyle gül de şaraptır ve tekkelerde saki adındaki şarap dağıtıcı aslında Allah'ın rahmetini dağıtır."
+        },
+        {
+            "id": "Şarap#89",
+            "sentence": "Yani şarap, edebiyatta mecaz anlamda kullanılır."
+        },
+        {
+            "id": "Şarap#90",
+            "sentence": "Şarabın diğer adı da 'mey' olarak adlandırılır."
+        },
+        {
+            "id": "Şarap#91",
+            "sentence": "Dünyada 2018 yılı itibarıyla 7,4 milyon hektarlık alanda bağcılık yapılmakta olup 29,2 milyar litre şarap üretilmiştir."
+        },
+        {
+            "id": "Şarap#92",
+            "sentence": "Şarap tadımı, duyulara dayanarak şarapların değerlendirilmesi işlemidir."
+        },
+        {
+            "id": "Şarap#93",
+            "sentence": "Sadece ___E:tat U:(https://tr.wikipedia.org/wiki/Tat)___ alma değil, ___E:görme U:(https://tr.wikipedia.org/wiki/G%C3%B6rme)___ , ___E:koklama U:(https://tr.wikipedia.org/wiki/Koklama)___ ve ağız duyusuna da hitap eden, profesyonellere olduğu kadar amatörlere de seslenen bir uğraştır."
+        },
+        {
+            "id": "Şarap#94",
+            "sentence": "Bu dalda profesyonel olarak çalışanlara 'sommelier' denir."
+        },
+        {
+            "id": "Şarap#95",
+            "sentence": "Dilin tat alma hassasiyetini korumak amacıyla, profesyoneller kadar amatörler de aşırı derecede acılı, ekşili ve tuzlu yiyeceklerden kaçınmalıdırlar."
+        },
+        {
+            "id": "Şarap#96",
+            "sentence": "___E:Şarabın tatlılığı U:(https://tr.wikipedia.org/wiki/%C5%9Earab%C4%B1n_tatl%C4%B1l%C4%B1%C4%9F%C4%B1)___ , şaraptaki kalan şeker miktarı ile tanen, alkol ve asitlerin ortak değerlendirilmesi ile öznel olarak belirlenir; sek, dömi-sek, yarı-tatlı ve tatlı olmak üzere dört adet ana grup vardır. ___E:Tanenler U:(https://tr.wikipedia.org/wiki/Tanen)___ , kırmızı ve roze şaraplara burukluk tadını veren kimyasal maddelerdir, şarabın tadına yarattıkları etki omurga olarak adlandırılır ve şaraplar hafif, orta veya güçlü tanenli olarak sınıflandırılabilirler."
+        },
+        {
+            "id": "Şarap#97",
+            "sentence": "Şarabın asitlik seviyesi keskinlik olarak adlandırılır."
+        },
+        {
+            "id": "Şarap#98",
+            "sentence": "Soğuk ve bulutlu bölgelerde yetişen üzümler daha asitli şaraplar üretmektedir. ___E:Malolaktik fermentasyon U:(https://tr.wikipedia.org/wiki/Malolaktik_fermantasyon)___ şarabın keskinliğini azaltabilir."
+        },
+        {
+            "id": "Şarap#99",
+            "sentence": "Keskinlik, düşük, orta veya yüksek olarak betimlenir."
+        },
+        {
+            "id": "Şarap#100",
+            "sentence": "Gövde , şarabın alkol miktarını belirtir ve şaraplar hafif, orta ve yoğun gövdeli olarak tanımlanır."
+        },
+        {
+            "id": "Şarap#101",
+            "sentence": "Havalandırma sırasında, daha genç bir şarabın havaya maruz kalması genellikle içeceği \"rahatlatır\", bu ise şarabı daha pürüzsüz yapar ve aroma, doku ve lezzetle daha iyi bütünleşmesini sağlar."
+        },
+        {
+            "id": "Şarap#102",
+            "sentence": "Daha eski şaraplar genellikle uzun süreli havalandırma ile solar (karakterlerini ve lezzet yoğunluğunu kaybederler)."
+        },
+        {
+            "id": "Şarap#103",
+            "sentence": "Bu genel kurallara rağmen, havalandırmak tüm şaraplara mutlaka fayda sağlamaz."
+        },
+        {
+            "id": "Şarap#104",
+            "sentence": "Ne kadar süreyle havalandırılması gerektiğini belirlemek için şişe açılır açılmaz şarabın tadına bakılabilir."
+        },
+        {
+            "id": "Şarap#105",
+            "sentence": "Şarap tadarken, organik moleküllerin karmaşık karışımından dolayı (ör. ___E:esterler U:(https://tr.wikipedia.org/wiki/Ester)___ ve ___E:terpenler U:(https://tr.wikipedia.org/wiki/Terpen)___ ) üzüm suyu ve şarap içerebilir."
+        },
+        {
+            "id": "Şarap#106",
+            "sentence": "Deneyimli tadımcılar, belirli bir üzümün karakteristik aromaları ile şarap yapımındaki diğer faktörlerden kaynaklanan aromalarını ayırt edebilir."
+        },
+        {
+            "id": "Şarap#107",
+            "sentence": "Şaraptaki tipik kasıtlı lezzet unsurları (şarap-çikolata, vanilya veya kahve) üzümün kendisinden ziyade meşe fıçılarda yıllandırılarak verilir."
+        },
+        {
+            "id": "Şarap#108",
+            "sentence": "___E:Dikey ve yatay tatma U:(https://tr.wikipedia.org/wiki/%C5%9Earap_tad%C4%B1m%C4%B1)___ , aynı üzüm cinsinde ve aynı bağda bir dizi hasadı veya bir hasat zamanı birden çok bağın üzüm hasadından yapılan şarapları kapsar."
+        },
+        {
+            "id": "Şarap#109",
+            "sentence": "\" ___E:Muz U:(https://tr.wikipedia.org/wiki/Muz)___ \" aromaları ( ___E:izoamil asetat U:(https://tr.wikipedia.org/wiki/%C4%B0zoamil_asetat)___ ), \"tıbbi\" veya \"Band-Aid\" (4-Etilfenol, \"baharatlı\" veya \"dumanlı\" (4-Etilguaiakol),  ve çürük yumurta ( ___E:hidrojen sülfür U:(https://tr.wikipedia.org/wiki/Hidrojen_s%C3%BClf%C3%BCr)___ ) gibi bozulma aromaları maya metabolizmasının ürünüdür."
+        },
+        {
+            "id": "Şarap#110",
+            "sentence": "Bazı çeşitler ayrıca, bağ toprağında kireçtaşının bulunması sonucu suda çözülebilir tuzlar nedeniyle mineral bir tat sergileyebilir. ___E:Şarabın aroması U:(https://tr.wikipedia.org/wiki/%C5%9Earab%C4%B1n_aromas%C4%B1)___ , havaya salınan uçucu bileşiklerden gelir."
+        },
+        {
+            "id": "Şarap#111",
+            "sentence": "Bu bileşiklerin buharlaşması, şarap kadehi döndürülerek veya oda sıcaklığında servis edilerek hızlandırılabilir."
+        },
+        {
+            "id": "Şarap#112",
+            "sentence": "Birçok içici, Chinon ve ___E:Beaujolais U:(https://tr.wikipedia.org/wiki/Beaujolais_(%C5%9Farap))___ gibi zaten oldukça aromatik olan kırmızı şarapları soğutmayı tercih eder."
+        },
+        {
+            "id": "Şarap#113",
+            "sentence": "Beslenme değerleri: adı= Kırmızı masa şarabı, kJ=355, yağ=0.0 g, protein=0.1 g, karbonhidrat=2.6 g, şekerler=0.6 g, alkol=10.6 g, kaynak: _usda=1,noRDA=1, not=10.6 g alkol hacimce 13%. 100 g şarap miktarı yaklaşık olarak 100 ml. Şeker ve alkol içeriği değişebilir."
+        },
+        {
+            "id": "Şarap#114",
+            "sentence": "Şarap ___E:etil alkol U:(https://tr.wikipedia.org/wiki/Etil_alkol)___ , ___E:bira U:(https://tr.wikipedia.org/wiki/Bira)___ ve ___E:damıtılmış alkollü içkiler U:(https://tr.wikipedia.org/wiki/Dam%C4%B1t%C4%B1lm%C4%B1%C5%9F_i%C3%A7ki)___ ‘deki kimyasalı içerir."
+        },
+        {
+            "id": "Şarap#115",
+            "sentence": "İnsan vücudundaki farklı alkol konsantrasyonlarının kişi üzerinde çeşitli etkileri vardır."
+        },
+        {
+            "id": "Şarap#116",
+            "sentence": "Şarabın etkileri diğer faktörlerin yanı sıra tüketilen miktara, tüketimin süresine ve şaraptaki alkol miktarına bağlıdır."
+        },
+        {
+            "id": "Şarap#117",
+            "sentence": "%0.03-0.12'lik kan alkol konsantrasyonu (BAC) değerine ulaşmak için yeterince içme, ruh halinde genel bir iyileşmeye, artan özgüvene ve sosyalleşmeye, kaygının azalmasına, yüzün kızarmasına, muhakeme ve motor koordinasyon bozulmasına neden olur."
+        },
+        {
+            "id": "Şarap#118",
+            "sentence": "%0,09 ila %0,25'lik BAC ___E:uyuşukluk U:(https://tr.wikipedia.org/wiki/Letarji)___ , ___E:sedasyon U:(https://tr.wikipedia.org/wiki/Sedasyon)___ , denge sorunları ve bulanık görmeye neden olur."
+        },
+        {
+            "id": "Şarap#119",
+            "sentence": "%0,18'den %0,30'a kadar BAC, derin kafa karışıklığına, konuşma bozukluğuna (örn. geveleyerek konuşma), sendelemeye, baş dönmesine ve kusmaya neden olur."
+        },
+        {
+            "id": "Şarap#120",
+            "sentence": "%0,25 ila %0,40 arasında BAC, ___E:stupor U:(https://tr.wikipedia.org/wiki/Stupor)___ , bilinç kaybı, ___E:anterograd amnezi U:(https://tr.wikipedia.org/wiki/Anterograd_amnezi)___ , kusma, solunum depresyonu ve bilinçsizlik süresince kusmuk soluma nedeniyle ölüme neden olabilir."
+        },
+        {
+            "id": "Şarap#121",
+            "sentence": "%0,35 ila %0,80 arasında BAC ___E:koma U:(https://tr.wikipedia.org/wiki/Koma)___ , yaşamı tehdit eden solunum depresyonu ve muhtemelen ölümcül ___E:alkol zehirlenmesi U:(https://tr.wikipedia.org/wiki/Sarho%C5%9Fluk)___ 'ne neden olur. Araç veya makinelerin alkollüyken çalıştırılması kaza riskini artırabilir ve birçok ülkede içme ve araç kullanmaya karşı yasalar vardır."
+        },
+        {
+            "id": "Şarap#122",
+            "sentence": "Şaraplar, rahatlama ve rahatlık gibi kısa sürede olumlu duyguları tetikler."
+        },
+        {
+            "id": "Şarap#123",
+            "sentence": "Şarabın içeriği ve kalitesi, ruh halini ve duyguları etkileyebilir."
+        }
+    ]
+}

@@ -1,0 +1,1224 @@
+{
+    "Title": "YouTube - Wikipedia",
+    "Card": {
+        "Type of business": "___E:Subsidiary U:(https://en.wikipedia.org/wiki/Subsidiary)___",
+        "Type of site": "___E:Online video platform U:(https://en.wikipedia.org/wiki/Online_video_platform)___ , ___E:social media platform U:(https://en.wikipedia.org/wiki/Social_media_platform)___",
+        "Founded": "February 14, 2005 ; 20 years ago (2005-02-14)",
+        "Headquarters": "901 Cherry Avenue ___E:San Bruno, California U:(https://en.wikipedia.org/wiki/San_Bruno,_California)___ , United States",
+        "Area served": "Worldwide (except ___E:blocked countries U:(https://en.wikipedia.org/wiki/Censorship_of_YouTube)___ )",
+        "Owner": "___E:Alphabet Inc. U:(https://en.wikipedia.org/wiki/Alphabet_Inc.)___",
+        "Founder(s)": ".mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0} Chad HurleyJawed KarimSteve Chen",
+        "Key people": "Neal Mohan (CEO)Chad Hurley (advisor)",
+        "Industry": "InternetVideo hosting service",
+        "Products": "YouTube KidsYouTube MusicYouTube PremiumYouTube ShortsYouTube TV",
+        "Revenue": "US$31.5 billion (2023) ",
+        "Parent": "___E:Google LLC U:(https://en.wikipedia.org/wiki/Google)___ (2006–present)",
+        "URL": "youtube.com",
+        "IPv6support": "Yes",
+        "Advertising": "___E:Google AdSense U:(https://en.wikipedia.org/wiki/Google_AdSense)___",
+        "Registration": "Optional Not required to watch most videos; required for certain tasks such as uploading videos, viewing flagged (18+) videos, creating playlists, liking or disliking videos, and posting comments",
+        "Users": "2.7 billion ___E:MAU U:(https://en.wikipedia.org/wiki/Monthly_active_user)___ (January 2024) ",
+        "Launched": "April 23, 2005 ; 20 years ago (2005-04-23)",
+        "Current status": "Active",
+        "Content license": "Uploader holds copyright (standard license); ___E:Creative Commons U:(https://en.wikipedia.org/wiki/Creative_Commons)___ can be selected.",
+        "Written in": "___E:Python U:(https://en.wikipedia.org/wiki/Python_(programming_language))___ (core/API),  ___E:C U:(https://en.wikipedia.org/wiki/C_(programming_language))___ (through ___E:CPython U:(https://en.wikipedia.org/wiki/CPython)___ ), ___E:C++ U:(https://en.wikipedia.org/wiki/C%2B%2B)___ , ___E:Java U:(https://en.wikipedia.org/wiki/Java_(programming_language))___ (through ___E:Guice U:(https://en.wikipedia.org/wiki/Google_Guice)___ platform),   ___E:Go U:(https://en.wikipedia.org/wiki/Go_(programming_language))___ ,  ___E:JavaScript U:(https://en.wikipedia.org/wiki/JavaScript)___ (UI)"
+    },
+    "Main": [
+        {
+            "id": "YouTube - Wikipedia#1",
+            "sentence": "YouTube is an American ___E:online video sharing U:(https://en.wikipedia.org/wiki/Online_video_platform)___ platform owned by ___E:Google U:(https://en.wikipedia.org/wiki/Google)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#2",
+            "sentence": "YouTube was founded on February 14, 2005,  by ___E:Chad Hurley U:(https://en.wikipedia.org/wiki/Chad_Hurley)___ , ___E:Jawed Karim U:(https://en.wikipedia.org/wiki/Jawed_Karim)___ , and ___E:Steve Chen U:(https://en.wikipedia.org/wiki/Steve_Chen)___ , who were former employees of ___E:PayPal U:(https://en.wikipedia.org/wiki/PayPal)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#3",
+            "sentence": "Headquartered in ___E:San Bruno, California U:(https://en.wikipedia.org/wiki/San_Bruno,_California)___ , it is the ___E:second-most-visited website U:(https://en.wikipedia.org/wiki/List_of_most-visited_websites)___ in the world, after ___E:Google U:(https://en.wikipedia.org/wiki/Google_Search)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#4",
+            "sentence": "In January 2024, YouTube had more than 2.7 billion ___E:monthly active users U:(https://en.wikipedia.org/wiki/Monthly_active_user)___ , who collectively watched more than one billion hours of videos every day.  As of May 2019 [update] , videos were being uploaded to the platform at a rate of more than 500 hours of ___E:content U:(https://en.wikipedia.org/wiki/Content_(media))___ per minute,   and as of mid-2024 [update] , there were approximately 14.8 billion videos in total."
+        },
+        {
+            "id": "YouTube - Wikipedia#5",
+            "sentence": "On November 13, 2006, YouTube was purchased by Google for US$1.65 billion (equivalent to $2.39 billion in 2024)."
+        },
+        {
+            "id": "YouTube - Wikipedia#6",
+            "sentence": "Google expanded YouTube's business model from generating revenue through ___E:advertisements U:(https://en.wikipedia.org/wiki/Advertising)___ alone to offering paid content such as movies and ___E:exclusive content U:(https://en.wikipedia.org/wiki/List_of_YouTube_Premium_original_programming)___ explicitly produced for YouTube."
+        },
+        {
+            "id": "YouTube - Wikipedia#7",
+            "sentence": "It also offers ___E:YouTube Premium U:(https://en.wikipedia.org/wiki/YouTube_Premium)___ , a paid subscription option for watching content without ads. YouTube incorporated the ___E:Google AdSense U:(https://en.wikipedia.org/wiki/Google_AdSense)___ program, generating more revenue for both YouTube and approved content creators."
+        },
+        {
+            "id": "YouTube - Wikipedia#8",
+            "sentence": "In 2023, YouTube's advertising revenue totaled $31.7 billion, a 2% increase from the $31.1 billion reported in 2022.  From Q4 2023 to Q3 2024, YouTube's combined revenue from advertising and subscriptions exceeded $50 billion."
+        },
+        {
+            "id": "YouTube - Wikipedia#9",
+            "sentence": "Since its purchase by Google, YouTube has expanded beyond the core website into ___E:mobile apps U:(https://en.wikipedia.org/wiki/Mobile_app)___ , ___E:network television U:(https://en.wikipedia.org/wiki/Television_broadcaster)___ , and the ___E:ability to link U:(https://en.wikipedia.org/wiki/Interoperability)___ with other platforms."
+        },
+        {
+            "id": "YouTube - Wikipedia#10",
+            "sentence": "Video categories on YouTube include ___E:music videos U:(https://en.wikipedia.org/wiki/Music_video)___ , ___E:video clips U:(https://en.wikipedia.org/wiki/Digital_video)___ , ___E:news U:(https://en.wikipedia.org/wiki/News)___ , ___E:short U:(https://en.wikipedia.org/wiki/Short_film)___ and ___E:feature films U:(https://en.wikipedia.org/wiki/Feature_film)___ , ___E:songs U:(https://en.wikipedia.org/wiki/Songs)___ , ___E:documentaries U:(https://en.wikipedia.org/wiki/Documentary_film)___ , ___E:movie trailers U:(https://en.wikipedia.org/wiki/Trailer_(promotion))___ , ___E:teasers U:(https://en.wikipedia.org/wiki/Teaser_(trailer))___ , ___E:TV spots U:(https://en.wikipedia.org/wiki/Television_advertisement)___ , ___E:live streams U:(https://en.wikipedia.org/wiki/Live_stream)___ , ___E:vlogs U:(https://en.wikipedia.org/wiki/Vlog)___ , and more. Most content is ___E:generated by individuals U:(https://en.wikipedia.org/wiki/User-generated_content)___ , including collaborations between ___E:YouTubers U:(https://en.wikipedia.org/wiki/YouTuber)___ and corporate sponsors."
+        },
+        {
+            "id": "YouTube - Wikipedia#11",
+            "sentence": "Established media, news, and entertainment corporations have also created and expanded their visibility to YouTube channels to reach bigger audiences."
+        },
+        {
+            "id": "YouTube - Wikipedia#12",
+            "sentence": "YouTube has had ___E:unprecedented social impact U:(https://en.wikipedia.org/wiki/Social_impact_of_YouTube)___ , influencing ___E:popular culture U:(https://en.wikipedia.org/wiki/Popular_culture)___ , internet trends, and creating multimillionaire celebrities."
+        },
+        {
+            "id": "YouTube - Wikipedia#13",
+            "sentence": "Despite its growth and success, the platform has been criticized for its facilitation of the spread of ___E:misinformation U:(https://en.wikipedia.org/wiki/Misinformation)___ and ___E:copyrighted content U:(https://en.wikipedia.org/wiki/YouTube_copyright_issues)___ , ___E:routinely violating its users' privacy U:(https://en.wikipedia.org/wiki/YouTube_and_privacy)___ , ___E:excessive censorship U:(https://en.wikipedia.org/wiki/Censorship_by_YouTube)___ , endangering ___E:the safety of children and their well-being U:(https://en.wikipedia.org/wiki/Child_protection)___ , and for its inconsistent implementation of platform guidelines."
+        },
+        {
+            "id": "YouTube - Wikipedia#14",
+            "sentence": "YouTube was founded by Chad Hurley, Jawed Karim, and Steve Chen. The three were early employees at ___E:PayPal U:(https://en.wikipedia.org/wiki/PayPal)___ and had become wealthy after ___E:eBay U:(https://en.wikipedia.org/wiki/EBay)___ 's acquisition of the company."
+        },
+        {
+            "id": "YouTube - Wikipedia#15",
+            "sentence": "Hurley had studied design at the ___E:Indiana University of Pennsylvania U:(https://en.wikipedia.org/wiki/Indiana_University_of_Pennsylvania)___ , and Chen and Karim studied ___E:computer science U:(https://en.wikipedia.org/wiki/Computer_science)___ together at the ___E:University of Illinois Urbana-Champaign U:(https://en.wikipedia.org/wiki/University_of_Illinois_Urbana-Champaign)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#16",
+            "sentence": "According to a story that has often been repeated in the media, Hurley and Chen developed the idea for YouTube during the early months of 2005, after they had experienced difficulty sharing videos that had been shot at a dinner party at Chen's apartment in ___E:San Francisco U:(https://en.wikipedia.org/wiki/San_Francisco)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#17",
+            "sentence": "Karim did not attend the party and denied that it had occurred, but Chen remarked that the idea that YouTube was founded after a dinner party \"was probably very strengthened by marketing ideas around creating a story that was very digestible\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#18",
+            "sentence": "Karim said the inspiration for YouTube came from the ___E:Super Bowl XXXVIII halftime show controversy U:(https://en.wikipedia.org/wiki/Super_Bowl_XXXVIII_halftime_show_controversy)___ when ___E:Janet Jackson U:(https://en.wikipedia.org/wiki/Janet_Jackson)___ 's breast was briefly exposed by ___E:Justin Timberlake U:(https://en.wikipedia.org/wiki/Justin_Timberlake)___ during the halftime show. Karim could not easily find video clips of the incident and the ___E:2004 Indian Ocean tsunami U:(https://en.wikipedia.org/wiki/2004_Indian_Ocean_earthquake_and_tsunami)___ online, which led to the idea of a video-sharing site.   Hurley and Chen said that the original idea for YouTube was a video version of an ___E:online dating service U:(https://en.wikipedia.org/wiki/Online_dating_service)___ and had been influenced by the website ___E:Hot or Not U:(https://en.wikipedia.org/wiki/Hot_or_Not)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#19",
+            "sentence": "They created posts on ___E:Craigslist U:(https://en.wikipedia.org/wiki/Craigslist)___ asking attractive women to upload videos of themselves to YouTube in exchange for a $100 reward."
+        },
+        {
+            "id": "YouTube - Wikipedia#20",
+            "sentence": "Difficulty in finding enough dating videos led to a change of plans, with the site's founders deciding to accept uploads of any video."
+        },
+        {
+            "id": "YouTube - Wikipedia#21",
+            "sentence": "YouTube began as a ___E:venture capital U:(https://en.wikipedia.org/wiki/Venture_capital)___ –funded technology ___E:startup U:(https://en.wikipedia.org/wiki/Startup_company)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#22",
+            "sentence": "Between November 2005 and April 2006, the company raised money from various investors, with ___E:Sequoia Capital U:(https://en.wikipedia.org/wiki/Sequoia_Capital)___ and ___E:Artis Capital Management U:(https://en.wikipedia.org/w/index.php?title=Artis_Capital_Management&action=edit&redlink=1)___ being the largest two.   YouTube's early headquarters were situated above a pizzeria and a Japanese restaurant in ___E:San Mateo U:(https://en.wikipedia.org/wiki/San_Mateo,_California)___ , California."
+        },
+        {
+            "id": "YouTube - Wikipedia#23",
+            "sentence": "In February 2005, the company registered www.youtube.com ."
+        },
+        {
+            "id": "YouTube - Wikipedia#24",
+            "sentence": "The first video was uploaded on April 23, 2005. Titled \" ___E:Me at the zoo U:(https://en.wikipedia.org/wiki/Me_at_the_zoo)___ \", it shows co-founder Jawed Karim at the ___E:San Diego Zoo U:(https://en.wikipedia.org/wiki/San_Diego_Zoo)___ and can still be viewed on the site.   The same day, the company launched a public ___E:beta U:(https://en.wikipedia.org/wiki/Software_release_life_cycle)___ and by November, a ___E:Nike U:(https://en.wikipedia.org/wiki/Nike,_Inc.)___ ad featuring ___E:Ronaldinho U:(https://en.wikipedia.org/wiki/Ronaldinho)___ became the first video to reach one million total views."
+        },
+        {
+            "id": "YouTube - Wikipedia#25",
+            "sentence": "The site exited beta in December 2005, by which time the site was receiving 8 million views a day.   Clips at the time were limited to 100 megabytes, as little as 30 seconds of footage."
+        },
+        {
+            "id": "YouTube - Wikipedia#26",
+            "sentence": "YouTube was not the first video-sharing site on the Internet; ___E:Vimeo U:(https://en.wikipedia.org/wiki/Vimeo)___ was founded in November 2004, though that site remained a side project of its developers from ___E:CollegeHumor U:(https://en.wikipedia.org/wiki/CollegeHumor)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#27",
+            "sentence": "On December 17, 2005—the same week YouTube exited beta—NBCUniversal Saturday Night Live ran a sketch \" ___E:Lazy Sunday U:(https://en.wikipedia.org/wiki/Lazy_Sunday_(The_Lonely_Island_song))___ \" by ___E:The Lonely Island U:(https://en.wikipedia.org/wiki/The_Lonely_Island)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#28",
+            "sentence": "Besides helping to bolster ratings and long-term viewership for Saturday Night Live , \"Lazy Sunday\"'s status as an early ___E:viral video U:(https://en.wikipedia.org/wiki/Viral_video)___ helped establish YouTube as an important website."
+        },
+        {
+            "id": "YouTube - Wikipedia#29",
+            "sentence": "Unofficial uploads of the skit to YouTube drew in more than five million collective views by February 2006 before they were removed when ___E:NBCUniversal U:(https://en.wikipedia.org/wiki/NBCUniversal)___ requested it two months later based on copyright concerns."
+        },
+        {
+            "id": "YouTube - Wikipedia#30",
+            "sentence": "Despite eventually being taken down, these duplicate uploads of the skit helped popularize YouTube's reach and led to the upload of more third-party content."
+        },
+        {
+            "id": "YouTube - Wikipedia#31",
+            "sentence": "The site grew rapidly; in July 2006, the company announced that more than 65,000 new videos were being uploaded every day and that the site was receiving 100 million video views per day."
+        },
+        {
+            "id": "YouTube - Wikipedia#32",
+            "sentence": "The choice of the name youtube.com led to problems for a similarly named website, utube.com ."
+        },
+        {
+            "id": "YouTube - Wikipedia#33",
+            "sentence": "That site's owner, ___E:Universal Tube & Rollform Equipment U:(https://en.wikipedia.org/wiki/Universal_Tube_%26_Rollform_Equipment)___ (Universal Tube), filed a lawsuit against YouTube in November 2006, after being regularly overloaded by people looking for YouTube."
+        },
+        {
+            "id": "YouTube - Wikipedia#34",
+            "sentence": "Universal Tube subsequently changed its website to www.utubeonline.com ."
+        },
+        {
+            "id": "YouTube - Wikipedia#35",
+            "sentence": "On October 9, 2006, ___E:Google U:(https://en.wikipedia.org/wiki/Google)___ announced that they had acquired YouTube for $1.65 billion in Google stock."
+        },
+        {
+            "id": "YouTube - Wikipedia#36",
+            "sentence": "The deal was finalized on November 13, 2006.   Google's acquisition launched newfound interest in video-sharing sites; ___E:IAC U:(https://en.wikipedia.org/wiki/IAC_(company))___ , which now owned ___E:Vimeo U:(https://en.wikipedia.org/wiki/Vimeo)___ , focused on supporting the content creators to distinguish itself from YouTube."
+        },
+        {
+            "id": "YouTube - Wikipedia#37",
+            "sentence": "It was at this time that YouTube adopted the slogan \"Broadcast Yourself\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#38",
+            "sentence": "The company experienced rapid growth."
+        },
+        {
+            "id": "YouTube - Wikipedia#39",
+            "sentence": "The Daily Telegraph wrote that in 2007, YouTube consumed as much ___E:bandwidth U:(https://en.wikipedia.org/wiki/Bandwidth_(computing))___ as the entire Internet in 2000.  By 2010, the company had reached a ___E:market share U:(https://en.wikipedia.org/wiki/Market_share)___ of around 43% and more than 14 billion views of videos, according to ___E:comScore U:(https://en.wikipedia.org/wiki/ComScore)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#40",
+            "sentence": "That year, the company simplified its interface to increase the time users would spend on the site."
+        },
+        {
+            "id": "YouTube - Wikipedia#41",
+            "sentence": "In 2011, more than three billion videos were being watched each day with 48 hours of new videos uploaded every minute."
+        },
+        {
+            "id": "YouTube - Wikipedia#42",
+            "sentence": "However, most of these views came from a relatively small number of videos; according to a software engineer at that time, 30% of videos accounted for 99% of views on the site.  That year, the company again changed its interface and at the same time, introduced a new logo with a darker shade of red.   A subsequent interface change, designed to unify the experience across desktop, TV, and mobile, was rolled out in 2013.  By that point, more than 100 hours were being uploaded every minute, increasing to 300 hours by November 2014."
+        },
+        {
+            "id": "YouTube - Wikipedia#43",
+            "sentence": "During that time, the company also went through some organizational changes."
+        },
+        {
+            "id": "YouTube - Wikipedia#44",
+            "sentence": "In October 2006, YouTube moved to a new office in ___E:San Bruno, California U:(https://en.wikipedia.org/wiki/San_Bruno,_California)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#45",
+            "sentence": "Hurley announced that he would be stepping down as chief executive officer of YouTube to take an advisory role and that ___E:Salar Kamangar U:(https://en.wikipedia.org/wiki/Salar_Kamangar)___ would take over as head of the company in October 2010.  In April 2009, YouTube partnered with ___E:Vevo U:(https://en.wikipedia.org/wiki/Vevo)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#46",
+            "sentence": "In April 2010, ___E:Lady Gaga U:(https://en.wikipedia.org/wiki/Lady_Gaga)___ 's \" ___E:Bad Romance U:(https://en.wikipedia.org/wiki/Bad_Romance)___ \" became the ___E:most-viewed video U:(https://en.wikipedia.org/wiki/List_of_most-viewed_YouTube_videos)___ , becoming the first video to reach 200 million views on May 9, 2010."
+        },
+        {
+            "id": "YouTube - Wikipedia#47",
+            "sentence": "YouTube ___E:faced a major lawsuit U:(https://en.wikipedia.org/wiki/Viacom_International_Inc._v._YouTube,_Inc.)___ by ___E:Viacom International U:(https://en.wikipedia.org/wiki/Viacom_(2005%E2%80%932019))___ in 2011 that nearly resulted in the discontinuation of the website."
+        },
+        {
+            "id": "YouTube - Wikipedia#48",
+            "sentence": "The lawsuit was filed due to alleged ___E:copyright infringement U:(https://en.wikipedia.org/wiki/Copyright_infringement)___ of Viacom's material by YouTube."
+        },
+        {
+            "id": "YouTube - Wikipedia#49",
+            "sentence": "However, the ___E:United States Court of Appeals for the Second Circuit U:(https://en.wikipedia.org/wiki/United_States_Court_of_Appeals_for_the_Second_Circuit)___ ruled that YouTube was not liable, and thus YouTube won the case in 2012."
+        },
+        {
+            "id": "YouTube - Wikipedia#50",
+            "sentence": "___E:Susan Wojcicki U:(https://en.wikipedia.org/wiki/Susan_Wojcicki)___ was appointed ___E:CEO U:(https://en.wikipedia.org/wiki/Chief_executive_officer)___ of YouTube in February 2014.  In January 2016, YouTube expanded its headquarters in San Bruno by purchasing an office park for $215 million."
+        },
+        {
+            "id": "YouTube - Wikipedia#51",
+            "sentence": "The complex has 51,468 square metres (554,000 square feet) of space and can house up to 2,800 employees."
+        },
+        {
+            "id": "YouTube - Wikipedia#52",
+            "sentence": "YouTube officially launched the \"polymer\" redesign of its user interfaces based on ___E:Material Design U:(https://en.wikipedia.org/wiki/Material_Design)___ language as its default, as well as a redesigned logo that is built around the service's play button emblem in August 2017."
+        },
+        {
+            "id": "YouTube - Wikipedia#53",
+            "sentence": "Through this period, YouTube tried several new ways to generate revenue beyond advertisements."
+        },
+        {
+            "id": "YouTube - Wikipedia#54",
+            "sentence": "In 2013, YouTube launched a pilot program for content providers to offer premium, subscription-based channels."
+        },
+        {
+            "id": "YouTube - Wikipedia#55",
+            "sentence": "This effort was discontinued in January 2018 and relaunched in June, with US$4.99 channel subscriptions."
+        },
+        {
+            "id": "YouTube - Wikipedia#56",
+            "sentence": "These channel subscriptions complemented the existing Super Chat ability, launched in 2017, which allows viewers to donate between $1 and $500 to have their comment highlighted."
+        },
+        {
+            "id": "YouTube - Wikipedia#57",
+            "sentence": "In 2014, YouTube announced a subscription service known as \"Music Key\", which bundled ad-free streaming of music content on YouTube with the existing ___E:Google Play Music U:(https://en.wikipedia.org/wiki/Google_Play_Music)___ service."
+        },
+        {
+            "id": "YouTube - Wikipedia#58",
+            "sentence": "The service continued to evolve in 2015 when YouTube announced ___E:YouTube Red U:(https://en.wikipedia.org/wiki/YouTube_Red)___ , a new premium service that would offer ad-free access to all content on the platform (succeeding the Music Key service released the previous year), premium original series, and films produced by YouTube personalities, as well as background playback of content on mobile devices."
+        },
+        {
+            "id": "YouTube - Wikipedia#59",
+            "sentence": "YouTube also released ___E:YouTube Music U:(https://en.wikipedia.org/wiki/YouTube_Music)___ , a third app oriented towards streaming and discovering the music content hosted on the YouTube platform."
+        },
+        {
+            "id": "YouTube - Wikipedia#60",
+            "sentence": "The company also attempted to create products appealing to specific viewers."
+        },
+        {
+            "id": "YouTube - Wikipedia#61",
+            "sentence": "YouTube released a mobile app known as ___E:YouTube Kids U:(https://en.wikipedia.org/wiki/YouTube_Kids)___ in 2015, which was designed to provide an experience optimized for children."
+        },
+        {
+            "id": "YouTube - Wikipedia#62",
+            "sentence": "It features a simplified user interface, curated selections of channels featuring age-appropriate content, and parental control features."
+        },
+        {
+            "id": "YouTube - Wikipedia#63",
+            "sentence": "Also in 2015, YouTube launched YouTube Gaming—a ___E:video gaming U:(https://en.wikipedia.org/wiki/Video_gaming)___ -oriented vertical and app for videos and live streaming, intended to compete with the ___E:Amazon.com U:(https://en.wikipedia.org/wiki/Amazon.com)___ -owned ___E:Twitch U:(https://en.wikipedia.org/wiki/Twitch_(service))___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#64",
+            "sentence": "In April 2018, ___E:a shooting U:(https://en.wikipedia.org/wiki/2018_YouTube_headquarters_shooting)___ occurred at YouTube's headquarters in San Bruno, California, which wounded four and resulted in the death of the shooter."
+        },
+        {
+            "id": "YouTube - Wikipedia#65",
+            "sentence": "By February 2017, one billion hours of YouTube videos were being watched every day, and 400 hours worth of videos were uploaded every minute."
+        },
+        {
+            "id": "YouTube - Wikipedia#66",
+            "sentence": "Two years later, the uploads had risen to more than 500 hours per minute."
+        },
+        {
+            "id": "YouTube - Wikipedia#67",
+            "sentence": "During the ___E:COVID-19 pandemic U:(https://en.wikipedia.org/wiki/COVID-19_pandemic)___ , when most of the world was under ___E:stay-at-home orders U:(https://en.wikipedia.org/wiki/Stay-at-home_order)___ , usage of services like YouTube significantly increased. ___E:Forbes U:(https://en.wikipedia.org/wiki/Forbes)___ estimated that YouTube accounted for 16% of all ___E:internet traffic U:(https://en.wikipedia.org/wiki/Internet_traffic)___ , as of 2024 [update] , up from 11% in 2018, before the pandemic."
+        },
+        {
+            "id": "YouTube - Wikipedia#68",
+            "sentence": "In response to EU officials requesting that such services reduce bandwidth to make sure medical entities had sufficient bandwidth to share information, YouTube and ___E:Netflix U:(https://en.wikipedia.org/wiki/Netflix)___ said they would reduce streaming quality for at least thirty days as to cut bandwidth use of their services by 25% to comply with the EU's request."
+        },
+        {
+            "id": "YouTube - Wikipedia#69",
+            "sentence": "YouTube later announced that they would continue with this move worldwide: \"We continue to work closely with governments and network operators around the globe to do our part to minimize stress on the system during this unprecedented situation.\""
+        },
+        {
+            "id": "YouTube - Wikipedia#70",
+            "sentence": "After a 2018 complaint alleging violations of the ___E:Children's Online Privacy Protection Act U:(https://en.wikipedia.org/wiki/Children%27s_Online_Privacy_Protection_Act)___ (COPPA),  the company was fined $170 million by the FTC for collecting personal information from minors under the age of 13.  YouTube was also ordered to create systems to increase children's privacy."
+        },
+        {
+            "id": "YouTube - Wikipedia#71",
+            "sentence": "Following criticisms of its implementation of those systems, YouTube started treating all videos designated as \"made for kids\" as liable under COPPA on January 6, 2020.   Joining the ___E:YouTube Kids U:(https://en.wikipedia.org/wiki/YouTube_Kids)___ app, the company created a supervised mode, designed more for ___E:tweens U:(https://en.wikipedia.org/wiki/Preadolescent)___ , in 2021.  Additionally, to compete with ___E:TikTok U:(https://en.wikipedia.org/wiki/TikTok)___ and ___E:Instagram Reels U:(https://en.wikipedia.org/wiki/Instagram_Reels)___ , YouTube released ___E:YouTube Shorts U:(https://en.wikipedia.org/wiki/YouTube_Shorts)___ , a short-form video platform."
+        },
+        {
+            "id": "YouTube - Wikipedia#72",
+            "sentence": "During that period, YouTube entered disputes with other tech companies."
+        },
+        {
+            "id": "YouTube - Wikipedia#73",
+            "sentence": "For over a year, in 2018–19, no YouTube app was available for ___E:Amazon Fire U:(https://en.wikipedia.org/wiki/Amazon_Fire_TV)___ products."
+        },
+        {
+            "id": "YouTube - Wikipedia#74",
+            "sentence": "In 2020, ___E:Roku U:(https://en.wikipedia.org/wiki/Roku)___ removed the YouTube TV app from its streaming store after the two companies were unable to reach an agreement."
+        },
+        {
+            "id": "YouTube - Wikipedia#75",
+            "sentence": "After testing earlier in 2021, YouTube removed public display of dislike counts on videos in November 2021, claiming the reason for the removal was, based on its internal research, that users often used the dislike feature as a form of ___E:cyberbullying U:(https://en.wikipedia.org/wiki/Cyberbullying)___ and ___E:brigading U:(https://en.wikipedia.org/wiki/Vote_brigading)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#76",
+            "sentence": "While some users praised the move as a way to discourage ___E:trolls U:(https://en.wikipedia.org/wiki/Internet_troll)___ , others felt that hiding dislikes would make it harder for viewers to recognize ___E:clickbait U:(https://en.wikipedia.org/wiki/Clickbait)___ or unhelpful videos and that other features already existed for creators to limit bullying."
+        },
+        {
+            "id": "YouTube - Wikipedia#77",
+            "sentence": "YouTube co-founder ___E:Jawed Karim U:(https://en.wikipedia.org/wiki/Jawed_Karim)___ referred to the update as \"a stupid idea\", and said that the real reason behind the change was \"not a good one, and not one that will be publicly disclosed.\" He felt that users' ability on a social platform to identify harmful content was essential, saying, \"The process works, and there's a name for it: the ___E:wisdom of the crowds U:(https://en.wikipedia.org/wiki/Wisdom_of_the_crowd)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#78",
+            "sentence": "The process breaks when the platform interferes with it. Then, the platform invariably declines.\"    Shortly after the announcement, software developer Dmitry Selivanov created Return YouTube Dislike, an ___E:open-source U:(https://en.wikipedia.org/wiki/Open_source)___ , third-party ___E:browser extension U:(https://en.wikipedia.org/wiki/Browser_extension)___ for ___E:Chrome U:(https://en.wikipedia.org/wiki/Google_Chrome)___ and ___E:Firefox U:(https://en.wikipedia.org/wiki/Firefox)___ that allows users to see a video's number of dislikes."
+        },
+        {
+            "id": "YouTube - Wikipedia#79",
+            "sentence": "In a letter published on January 25, 2022, by then YouTube CEO ___E:Susan Wojcicki U:(https://en.wikipedia.org/wiki/Susan_Wojcicki)___ , acknowledged that removing public dislike counts was a controversial decision, but reiterated that she stands by this decision, claiming that \"it reduced dislike attacks.\""
+        },
+        {
+            "id": "YouTube - Wikipedia#80",
+            "sentence": "In 2022, YouTube launched an experiment where the company would show users who watched longer videos on TVs a long chain of short unskippable adverts, intending to consolidate all ads into the beginning of a video."
+        },
+        {
+            "id": "YouTube - Wikipedia#81",
+            "sentence": "Following public outrage over the unprecedented amount of unskippable ads, YouTube \"ended\" the experiment on September 19 of the same year.  In October, YouTube announced that they would be rolling out customizable user handles in addition to channel names, which would also become channel URLs."
+        },
+        {
+            "id": "YouTube - Wikipedia#82",
+            "sentence": "On February 16, 2023, Wojcicki announced that she would step down as CEO, with ___E:Neal Mohan U:(https://en.wikipedia.org/wiki/Neal_Mohan)___ named as her successor."
+        },
+        {
+            "id": "YouTube - Wikipedia#83",
+            "sentence": "Wojcicki took on an advisory role for Google and parent company ___E:Alphabet U:(https://en.wikipedia.org/wiki/Alphabet_Inc.)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#84",
+            "sentence": "Wojcicki died a year and a half later from ___E:non-small-cell lung cancer U:(https://en.wikipedia.org/wiki/Non-small-cell_lung_cancer)___ , on August 9, 2024.  In late October 2023, YouTube began cracking down on the use of ___E:ad blockers U:(https://en.wikipedia.org/wiki/Ad_blocker)___ on the platform."
+        },
+        {
+            "id": "YouTube - Wikipedia#85",
+            "sentence": "Users of ad blockers may be given a pop-up warning saying \"Video player will be blocked after 3 videos\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#86",
+            "sentence": "Users of ad blockers are shown a message asking them to allow ads or inviting them to subscribe to the ad-free ___E:YouTube Premium U:(https://en.wikipedia.org/wiki/YouTube_Premium)___ subscription plan. YouTube says that the use of ad blockers violates its terms of service."
+        },
+        {
+            "id": "YouTube - Wikipedia#87",
+            "sentence": "In April 2024, YouTube announced it would be \"strengthening our enforcement on third-party apps that violate YouTube's Terms of Service, specifically ad-blocking apps\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#88",
+            "sentence": "Starting in June 2024, ___E:Google Chrome U:(https://en.wikipedia.org/wiki/Google_Chrome)___ announced that it would be replacing Manifest V2 in favor of ___E:Manifest V3 U:(https://en.wikipedia.org/wiki/Manifest_V3)___ , effectively killing support for most ad-blockers."
+        },
+        {
+            "id": "YouTube - Wikipedia#89",
+            "sentence": "Around the same time, YouTube started using server-side ad injection, which allows the platform to inject the ads directly into the video, instead of having the ad as a separate file which can be blocked."
+        },
+        {
+            "id": "YouTube - Wikipedia#90",
+            "sentence": "In September 2023, YouTube announced an in-app gaming platform called Playables."
+        },
+        {
+            "id": "YouTube - Wikipedia#91",
+            "sentence": "It was made accessible to all users in May 2024, expanding from an initial offering limited to premium subscribers."
+        },
+        {
+            "id": "YouTube - Wikipedia#92",
+            "sentence": "In December 2024, YouTube began testing a new multiplayer feature for that service, supporting multiplayer functionality across desktop and mobile devices."
+        },
+        {
+            "id": "YouTube - Wikipedia#93",
+            "sentence": "As of December 2024 [update] the Playables catalog has over 130 games in various genres, including ___E:trivia U:(https://en.wikipedia.org/wiki/Trivia_game)___ , action and sports."
+        },
+        {
+            "id": "YouTube - Wikipedia#94",
+            "sentence": "In December 2024, YouTube introduced new guidelines prohibiting videos with clickbait titles to enhance content quality and combat misinformation."
+        },
+        {
+            "id": "YouTube - Wikipedia#95",
+            "sentence": "The platform aims to penalize creators using misleading or sensationalized titles, with potential actions including video removal or channel suspension."
+        },
+        {
+            "id": "YouTube - Wikipedia#96",
+            "sentence": "According to YouTube, this guideline will gradually roll out in India first, but will expand to more countries in the coming months."
+        },
+        {
+            "id": "YouTube - Wikipedia#97",
+            "sentence": "On February 14, 2025, YouTube celebrated 20 years since its founding."
+        },
+        {
+            "id": "YouTube - Wikipedia#98",
+            "sentence": "On July 30, 2025, amid the implementation of the ___E:Online Safety Act 2023 U:(https://en.wikipedia.org/wiki/Online_Safety_Act_2023)___ in the United Kingdom, Google announced that it would begin to enforce \" ___E:age assurance U:(https://en.wikipedia.org/wiki/Age_verification_system)___ \" policies for selected users in the United States as a trial."
+        },
+        {
+            "id": "YouTube - Wikipedia#99",
+            "sentence": "Machine learning will be used to determine the age of the user (regardless of any account information indicating their age) and restrict access to certain content and features across all Google properties, including YouTube (including, in particular, disabling personalized advertising and enabling certain digital wellbeing limits), if they are assumed to be under 18. On YouTube, this will be based on factors such as searches and video history, and the age of the account."
+        },
+        {
+            "id": "YouTube - Wikipedia#100",
+            "sentence": "The user must go through age verification via payment, scanned ID, or selfie to access all features if they are detected to be a minor."
+        },
+        {
+            "id": "YouTube - Wikipedia#101",
+            "sentence": "On April 9, 2025, YouTube expressed support for the NO FAKES Act of 2025, introduced by Senator ___E:Chris Coons U:(https://en.wikipedia.org/wiki/Chris_Coons)___ (D-DE) and Senator ___E:Marsha Blackburn U:(https://en.wikipedia.org/wiki/Marsha_Blackburn)___ (R-TN), and announced an expansion of its pilot program that is designed to identify content generated by AI."
+        },
+        {
+            "id": "YouTube - Wikipedia#102",
+            "sentence": "On September 23, 2025, YouTube parent company Alphabet announced that it would reinstate creators that were banned for spreading ___E:misinformation about COVID-19 U:(https://en.wikipedia.org/wiki/Misinformation_about_COVID-19)___ and the ___E:2020 U.S. presidential election U:(https://en.wikipedia.org/wiki/2020_U.S._presidential_election)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#103",
+            "sentence": "Within the context of the ___E:suspension of Jimmy Kimmel U:(https://en.wikipedia.org/wiki/Suspension_of_Jimmy_Kimmel)___ and debates about ___E:free speech in the United States U:(https://en.wikipedia.org/wiki/Free_speech_in_the_United_States)___ , Vice President ___E:JD Vance U:(https://en.wikipedia.org/wiki/JD_Vance)___ defended Kimmel's suspension and instead cited a letter sent by Alphabet legal counsel Daniel F. Donovan to ___E:U.S. House Judiciary Committee U:(https://en.wikipedia.org/wiki/U.S._House_Judiciary_Committee)___ chairman ___E:Jim Jordan U:(https://en.wikipedia.org/wiki/Jim_Jordan)___ , claiming the ___E:Biden administration U:(https://en.wikipedia.org/wiki/Biden_administration)___ pressured YouTube to remove \"non-violative user-generated content\" containing misinformation about the COVID-19 pandemic and the 2020 election, and announced that it would reinstate content creators previously banned due to the cited content;   however, such claims have not formally been proven, and the ___E:U.S. Supreme Court U:(https://en.wikipedia.org/wiki/U.S._Supreme_Court)___ dismissed in 2024 the ___E:First Amendment U:(https://en.wikipedia.org/wiki/First_Amendment)___ case Murthy v. Missouri (which claimed the Biden administration had pressured social media companies to censor conservative views, government criticism, and COVID-19 misinformation), ruling 6–3 that neither the attorneys general of Missouri and Louisiana nor other respondents had standing to bring the case. The decision of Alphabet to bring back YouTube creators who engaged in ___E:misinformation U:(https://en.wikipedia.org/wiki/Misinformation)___ was criticized for prioritizing \"free expression\" over \"facts\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#104",
+            "sentence": "YouTube has been led by a CEO since its founding in 2005, beginning with ___E:Chad Hurley U:(https://en.wikipedia.org/wiki/Chad_Hurley)___ , who led the company until 2010. After Google's acquisition of YouTube, the CEO role was retained. ___E:Salar Kamangar U:(https://en.wikipedia.org/wiki/Salar_Kamangar)___ took over Hurley's position and kept the job until 2014. He was replaced by ___E:Susan Wojcicki U:(https://en.wikipedia.org/wiki/Susan_Wojcicki)___ , who later resigned in 2023.  On February 16, 2023, ___E:Neal Mohan U:(https://en.wikipedia.org/wiki/Neal_Mohan)___ was appointed as the new CEO."
+        },
+        {
+            "id": "YouTube - Wikipedia#105",
+            "sentence": "YouTube offers different features based on user verification, such as standard or basic features like uploading videos, creating playlists, and using ___E:YouTube Music U:(https://en.wikipedia.org/wiki/YouTube_Music)___ , with limits based on daily activity (verification via phone number or channel history increases feature availability and daily usage limits); intermediate or additional features like longer videos (over 15 minutes), live streaming, custom thumbnails, and creating podcasts; advanced features like content ID appeals, embedding live streams, applying for monetization, clickable links, adding chapters, and pinning comments on videos or posts."
+        },
+        {
+            "id": "YouTube - Wikipedia#106",
+            "sentence": "In January 2012, it was estimated that visitors to YouTube spent an average of 15 minutes a day on the site, in contrast to the four or five hours a day spent by a typical US citizen watching television."
+        },
+        {
+            "id": "YouTube - Wikipedia#107",
+            "sentence": "In 2017, viewers on average watched YouTube on mobile devices for more than an hour every day.  In December 2012, two billion views were removed from the view counts of Universal and ___E:Sony U:(https://en.wikipedia.org/wiki/Sony_Music_Entertainment)___ music videos on YouTube, prompting a claim by The Daily Dot that the views had been deleted due to a violation of the site's terms of service, which ban the use of automated processes to inflate view counts."
+        },
+        {
+            "id": "YouTube - Wikipedia#108",
+            "sentence": "That was disputed by Billboard , which said that the two billion views had been moved to Vevo, since the videos were no longer active on YouTube."
+        },
+        {
+            "id": "YouTube - Wikipedia#109",
+            "sentence": "On August 5, 2015, YouTube patched the formerly notorious behavior which caused a video's ___E:view count U:(https://en.wikipedia.org/wiki/Views_(social_media))___ to freeze at \"301\" (later \"301+\") until the actual count was verified to prevent ___E:view count fraud U:(https://en.wikipedia.org/wiki/Click_fraud)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#110",
+            "sentence": "YouTube view counts again began updating in real time.  Since September 2019, subscriber counts are abbreviated."
+        },
+        {
+            "id": "YouTube - Wikipedia#111",
+            "sentence": "Only three leading digits of channels' subscriber counts are indicated publicly, compromising the function of third-party real-time indicators such as ___E:Social Blade U:(https://en.wikipedia.org/wiki/Social_Blade)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#112",
+            "sentence": "Exact counts remain available to channel operators inside YouTube Studio."
+        },
+        {
+            "id": "YouTube - Wikipedia#113",
+            "sentence": "On November 11, 2021, after testing out this change in March of the same year, YouTube announced it would start hiding dislike counts on videos, making them invisible to viewers."
+        },
+        {
+            "id": "YouTube - Wikipedia#114",
+            "sentence": "The company stated the decision was in response to experiments which confirmed that smaller YouTube creators were more likely to be targeted in dislike ___E:brigading U:(https://en.wikipedia.org/wiki/Vote_brigading)___ and harassment."
+        },
+        {
+            "id": "YouTube - Wikipedia#115",
+            "sentence": "Creators will still be able to see the number of likes and dislikes in the YouTube Studio dashboard tool, according to YouTube."
+        },
+        {
+            "id": "YouTube - Wikipedia#116",
+            "sentence": "YouTube has an estimated 14.8 billion videos with about 4% of those never having a view.  Just over 85% have fewer than 1,000 views."
+        },
+        {
+            "id": "YouTube - Wikipedia#117",
+            "sentence": "YouTube has faced numerous challenges and criticisms in its attempts to deal with copyright, including the site's first viral video, ___E:Lazy Sunday U:(https://en.wikipedia.org/wiki/Lazy_Sunday_(The_Lonely_Island_song))___ , which had to be taken down, due to copyright concerns."
+        },
+        {
+            "id": "YouTube - Wikipedia#118",
+            "sentence": "At the time of uploading a video, YouTube users are shown a message asking them not to violate copyright laws.  Despite this advice, many unauthorized clips of copyrighted material remain on YouTube."
+        },
+        {
+            "id": "YouTube - Wikipedia#119",
+            "sentence": "YouTube does not view videos before they are posted online, and it is left to copyright holders to issue a ___E:DMCA U:(https://en.wikipedia.org/wiki/Digital_Millennium_Copyright_Act)___ ___E:takedown notice U:(https://en.wikipedia.org/wiki/Takedown_notice)___ pursuant to the terms of the ___E:Online Copyright Infringement Liability Limitation Act U:(https://en.wikipedia.org/wiki/Online_Copyright_Infringement_Liability_Limitation_Act)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#120",
+            "sentence": "Any successful complaint about copyright infringement results in a ___E:YouTube copyright strike U:(https://en.wikipedia.org/wiki/YouTube_copyright_strike)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#121",
+            "sentence": "Three successful complaints for ___E:copyright infringement U:(https://en.wikipedia.org/wiki/Copyright_infringement)___ against a user account will result in the account and all of its uploaded videos being deleted."
+        },
+        {
+            "id": "YouTube - Wikipedia#122",
+            "sentence": "From 2007 to 2009 organizations including ___E:Viacom U:(https://en.wikipedia.org/wiki/Viacom_(2005%E2%80%932019))___ , ___E:Mediaset U:(https://en.wikipedia.org/wiki/Mediaset)___ , and the English ___E:Premier League U:(https://en.wikipedia.org/wiki/Premier_League)___ have filed lawsuits against YouTube, claiming that it has done too little to prevent the uploading of copyrighted material."
+        },
+        {
+            "id": "YouTube - Wikipedia#123",
+            "sentence": "In August 2008, a US court ruled in Lenz v. Universal Music Corp. that copyright holders cannot order the removal of an online file without first determining whether the posting reflected ___E:fair use U:(https://en.wikipedia.org/wiki/Fair_use)___ of the material."
+        },
+        {
+            "id": "YouTube - Wikipedia#124",
+            "sentence": "YouTube's owner Google announced in November 2015 that they would help cover the legal cost in select cases where they believe fair use defenses apply."
+        },
+        {
+            "id": "YouTube - Wikipedia#125",
+            "sentence": "In the 2011 case of Smith v. Summit Entertainment LLC , professional singer Matt Smith sued Summit Entertainment for the wrongful use of copyright takedown notices on YouTube."
+        },
+        {
+            "id": "YouTube - Wikipedia#126",
+            "sentence": "He asserted seven ___E:causes of action U:(https://en.wikipedia.org/wiki/Causes_of_action)___ , and four were ruled in Smith's favor."
+        },
+        {
+            "id": "YouTube - Wikipedia#127",
+            "sentence": "In April 2012, a court in Hamburg ruled that YouTube could be held responsible for copyrighted material posted by its users."
+        },
+        {
+            "id": "YouTube - Wikipedia#128",
+            "sentence": "On November 1, 2016, the dispute with GEMA was resolved, with Google content ID being used to allow advertisements to be added to videos with content protected by GEMA."
+        },
+        {
+            "id": "YouTube - Wikipedia#129",
+            "sentence": "In April 2013, it was reported that ___E:Universal Music Group U:(https://en.wikipedia.org/wiki/Universal_Music_Group)___ and YouTube have a contractual agreement that prevents content blocked on YouTube by a request from UMG from being restored, even if the uploader of the video files a DMCA counter-notice."
+        },
+        {
+            "id": "YouTube - Wikipedia#130",
+            "sentence": "As part of YouTube Music, Universal and YouTube signed an agreement in 2017, which was followed by separate agreements other major labels, which gave the company the right to advertising revenue when its music was played on YouTube."
+        },
+        {
+            "id": "YouTube - Wikipedia#131",
+            "sentence": "By 2019, creators were having videos taken down or demonetized when Content ID identified even short segments of copyrighted music within a much longer video, with different levels of enforcement depending on the record label."
+        },
+        {
+            "id": "YouTube - Wikipedia#132",
+            "sentence": "Experts noted that some of these clips said qualified for fair use."
+        },
+        {
+            "id": "YouTube - Wikipedia#133",
+            "sentence": "In June 2007, YouTube began trials of a system for automatic detection of uploaded videos that infringe copyright."
+        },
+        {
+            "id": "YouTube - Wikipedia#134",
+            "sentence": "Google CEO Eric Schmidt regarded this system as necessary for resolving lawsuits such as the one from ___E:Viacom U:(https://en.wikipedia.org/wiki/Viacom_(2005%E2%80%932019))___ , which alleged that YouTube profited from content that it did not have the right to distribute."
+        },
+        {
+            "id": "YouTube - Wikipedia#135",
+            "sentence": "The system, which was initially called \"Video Identification\"   and later became known as Content ID,  creates an ID File for copyrighted audio and video material, and stores it in a database."
+        },
+        {
+            "id": "YouTube - Wikipedia#136",
+            "sentence": "When a video is uploaded, it is checked against the database, and flags the video as a copyright violation if a match is found."
+        },
+        {
+            "id": "YouTube - Wikipedia#137",
+            "sentence": "When this occurs, the content owner has the choice of blocking the video to make it unviewable, tracking the viewing statistics of the video, or adding advertisements to the video. [citation needed]"
+        },
+        {
+            "id": "YouTube - Wikipedia#138",
+            "sentence": "An independent test in 2009 uploaded multiple versions of the same song to YouTube and concluded that while the system was \"surprisingly resilient\" in finding copyright violations in the audio tracks of videos, it was not infallible."
+        },
+        {
+            "id": "YouTube - Wikipedia#139",
+            "sentence": "The use of Content ID to remove material automatically has led to ___E:controversy U:(https://en.wikipedia.org/wiki/YouTube_copyright_issues)___ in some cases, as the videos have not been checked by a human for fair use.  If a YouTube user disagrees with a decision by Content ID, it is possible to fill in a form disputing the decision."
+        },
+        {
+            "id": "YouTube - Wikipedia#140",
+            "sentence": "Before 2016, videos were not monetized until the dispute was resolved."
+        },
+        {
+            "id": "YouTube - Wikipedia#141",
+            "sentence": "Since April 2016, videos continue to be monetized while the dispute is in progress, and the money goes to whoever won the dispute."
+        },
+        {
+            "id": "YouTube - Wikipedia#142",
+            "sentence": "Should the uploader want to monetize the video again, they may remove the disputed audio in the \"Video Manager\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#143",
+            "sentence": "YouTube has cited the effectiveness of Content ID as one of the reasons why the site's rules were modified in December 2010 to allow some users to upload videos of unlimited length."
+        },
+        {
+            "id": "YouTube - Wikipedia#144",
+            "sentence": "In 2021, two accounts linked to ___E:RT DE U:(https://en.wikipedia.org/wiki/RT_DE)___ , the German channel of the Russian state-owned ___E:RT U:(https://en.wikipedia.org/wiki/RT_(TV_network))___ network, were removed for breaching YouTube's policies relating to COVID-19.  Russia threatened to ban YouTube after the platform deleted two German RT channels in September 2021.  Shortly after the ___E:Russian invasion of Ukraine U:(https://en.wikipedia.org/wiki/Russian_invasion_of_Ukraine)___ in 2022, YouTube removed all channels funded by the Russian state."
+        },
+        {
+            "id": "YouTube - Wikipedia#145",
+            "sentence": "YouTube expanded the removal of Russian content from its site to include channels described as 'pro-Russian'."
+        },
+        {
+            "id": "YouTube - Wikipedia#146",
+            "sentence": "In June 2022, the War Gonzo channel run by Russian military blogger and journalist ___E:Semyon Pegov U:(https://en.wikipedia.org/wiki/Semyon_Pegov)___ was deleted."
+        },
+        {
+            "id": "YouTube - Wikipedia#147",
+            "sentence": "In July 2023, YouTube removed the channel of British journalist ___E:Graham Phillips U:(https://en.wikipedia.org/wiki/Graham_Phillips_(journalist))___ , active in covering the ___E:war in Donbas U:(https://en.wikipedia.org/wiki/War_in_Donbas)___ from 2014.  In August 2023, a Moscow court fined Google 3 million rubles, around $35,000, for not deleting what it said was \"fake news about the war in Ukraine\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#148",
+            "sentence": "In October 2024, a Russian court fined Google 2 undecillion ___E:rubles U:(https://en.wikipedia.org/wiki/Russian_ruble)___ (equivalent to US$20 decillion) for restricting Russian state media channels on YouTube."
+        },
+        {
+            "id": "YouTube - Wikipedia#149",
+            "sentence": "State news agency ___E:TASS U:(https://en.wikipedia.org/wiki/TASS)___ reported that Google is allowed to return to the Russian market only if it complies with the court's decision."
+        },
+        {
+            "id": "YouTube - Wikipedia#150",
+            "sentence": "Kremlin spokesperson ___E:Dmitry Peskov U:(https://en.wikipedia.org/wiki/Dmitry_Peskov)___ labeled the court decision as \"symbolic\" and warned Google that it \"should not be restricting the actions of our broadcasters on its platform.\""
+        },
+        {
+            "id": "YouTube - Wikipedia#151",
+            "sentence": "YouTube featured an ___E:April Fools U:(https://en.wikipedia.org/wiki/April_Fools%27_Day)___ prank on the site on April 1 of every year from 2008 to 2016. In 2008, all links to videos on the main page were redirected to ___E:Rick Astley U:(https://en.wikipedia.org/wiki/Rick_Astley)___ 's music video \" ___E:Never Gonna Give You Up U:(https://en.wikipedia.org/wiki/Never_Gonna_Give_You_Up)___ \", a prank known as \" ___E:rickrolling U:(https://en.wikipedia.org/wiki/Rickrolling)___ \"."
+        },
+        {
+            "id": "YouTube - Wikipedia#152",
+            "sentence": "The next year, when clicking on a video on the main page, the whole page turned upside down, which YouTube claimed was a \"new layout\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#153",
+            "sentence": "In 2010, YouTube temporarily released a \"TEXTp\" mode which rendered video imagery into ___E:ASCII art U:(https://en.wikipedia.org/wiki/ASCII_art)___ letters \"in order to reduce bandwidth costs by $1 per second.\""
+        },
+        {
+            "id": "YouTube - Wikipedia#154",
+            "sentence": "The next year, the site celebrated its \"100th anniversary\" with a range of sepia-toned silent, early 1900s-style films, including a parody of ___E:Keyboard Cat U:(https://en.wikipedia.org/wiki/Keyboard_Cat)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#155",
+            "sentence": "In 2012, clicking on the image of a DVD next to the site logo led to a video about a purported option to order every YouTube video for home delivery on DVD.  In 2013, YouTube teamed up with satirical newspaper company The Onion to claim in an uploaded video that the video-sharing website was launched as a contest which had finally come to an end, and would shut down for ten years before being re-launched in 2023, featuring only the winning video."
+        },
+        {
+            "id": "YouTube - Wikipedia#156",
+            "sentence": "The video starred several ___E:YouTube celebrities U:(https://en.wikipedia.org/wiki/Internet_celebrity)___ , including ___E:Antoine Dodson U:(https://en.wikipedia.org/wiki/Antoine_Dodson)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#157",
+            "sentence": "A video of two presenters announcing the nominated videos streamed live for 12 hours."
+        },
+        {
+            "id": "YouTube - Wikipedia#158",
+            "sentence": "In 2014, YouTube announced that it was responsible for the creation of all viral video trends, and revealed previews of upcoming trends, such as \"Clocking\", \"Kissing Dad\", and \"Glub Glub Water Dance\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#159",
+            "sentence": "The next year, YouTube added a music button to the video bar that played samples from \" ___E:Sandstorm U:(https://en.wikipedia.org/wiki/Sandstorm_(instrumental))___ \" by ___E:Darude U:(https://en.wikipedia.org/wiki/Darude)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#160",
+            "sentence": "In 2016, YouTube introduced an option to watch every video on the platform in 360-degree mode with ___E:Snoop Dogg U:(https://en.wikipedia.org/wiki/Snoop_Dogg)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#161",
+            "sentence": "___E:YouTube Premium U:(https://en.wikipedia.org/wiki/YouTube_Premium)___ (formerly Music Key and YouTube Red) is YouTube's premium subscription service."
+        },
+        {
+            "id": "YouTube - Wikipedia#162",
+            "sentence": "It offers advertising-free streaming, access to ___E:original programming U:(https://en.wikipedia.org/wiki/YouTube_Originals)___ , and background and offline video playback on mobile devices."
+        },
+        {
+            "id": "YouTube - Wikipedia#163",
+            "sentence": "YouTube Premium was originally announced on November 12, 2014, as \"Music Key\", a ___E:subscription music streaming U:(https://en.wikipedia.org/wiki/Comparison_of_on-demand_music_streaming_services)___ service, and was intended to integrate with and replace the existing ___E:Google Play U:(https://en.wikipedia.org/wiki/Google_Play)___ Music \"All Access\" service."
+        },
+        {
+            "id": "YouTube - Wikipedia#164",
+            "sentence": "On October 28, 2015, the service was relaunched as YouTube Red, offering ad-free streaming of all videos and access to exclusive original content."
+        },
+        {
+            "id": "YouTube - Wikipedia#165",
+            "sentence": "As of November 2016 [update] , the service has 1.5 million subscribers, with a further million on a free-trial basis."
+        },
+        {
+            "id": "YouTube - Wikipedia#166",
+            "sentence": "As of June 2017 [update] , the first season of ___E:YouTube Originals U:(https://en.wikipedia.org/wiki/List_of_YouTube_Premium_original_programming)___ had received 250 million views in total."
+        },
+        {
+            "id": "YouTube - Wikipedia#167",
+            "sentence": "___E:YouTube Kids U:(https://en.wikipedia.org/wiki/YouTube_Kids)___ is an American children's video app developed by YouTube, a subsidiary of ___E:Google U:(https://en.wikipedia.org/wiki/Google)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#168",
+            "sentence": "The app was developed in response to parental and government scrutiny on the content available to children. [citation needed] The app provides a version of the service oriented towards children, with curated selections of content, parental control features, and filtering of videos deemed inappropriate viewing for children aged under 13, 8 or 5, depending on the age grouping chosen."
+        },
+        {
+            "id": "YouTube - Wikipedia#169",
+            "sentence": "First released on February 15, 2015, as an ___E:Android U:(https://en.wikipedia.org/wiki/Android_(operating_system))___ and ___E:iOS U:(https://en.wikipedia.org/wiki/IOS)___ ___E:mobile app U:(https://en.wikipedia.org/wiki/Mobile_app)___ , the app has since been released for ___E:LG U:(https://en.wikipedia.org/wiki/LG_Electronics)___ , ___E:Samsung U:(https://en.wikipedia.org/wiki/Samsung_Electronics)___ , and ___E:Sony U:(https://en.wikipedia.org/wiki/Sony)___ ___E:smart TVs U:(https://en.wikipedia.org/wiki/Smart_TV)___ , as well as for ___E:Android TV U:(https://en.wikipedia.org/wiki/Android_TV)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#170",
+            "sentence": "On May 27, 2020, it became available on ___E:Apple TV U:(https://en.wikipedia.org/wiki/Apple_TV)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#171",
+            "sentence": "As of September 2019, the app is available in 69 countries, including Hong Kong and Macau, and one province."
+        },
+        {
+            "id": "YouTube - Wikipedia#172",
+            "sentence": "YouTube launched a web-based version of YouTube Kids on August 30, 2019."
+        },
+        {
+            "id": "YouTube - Wikipedia#173",
+            "sentence": "On September 28, 2016, YouTube named ___E:Lyor Cohen U:(https://en.wikipedia.org/wiki/Lyor_Cohen)___ , the co-founder of ___E:300 Entertainment U:(https://en.wikipedia.org/wiki/300_Entertainment)___ and former ___E:Warner Music Group U:(https://en.wikipedia.org/wiki/Warner_Music_Group)___ executive, the Global Head of Music."
+        },
+        {
+            "id": "YouTube - Wikipedia#174",
+            "sentence": "In early 2018, Cohen began hinting at the possible launch of YouTube's new subscription music streaming service, a platform that would compete with other services such as ___E:Spotify U:(https://en.wikipedia.org/wiki/Spotify)___ and ___E:Apple Music U:(https://en.wikipedia.org/wiki/Apple_Music)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#175",
+            "sentence": "On May 22, 2018, the music streaming platform named \"YouTube Music\" was launched for people who mostly listen to music on YouTube."
+        },
+        {
+            "id": "YouTube - Wikipedia#176",
+            "sentence": "YouTube Movies & TV is a ___E:video on demand U:(https://en.wikipedia.org/wiki/Video_on_demand)___ (VOD) service that offers movies and television shows for purchase or rental, depending on availability, along with a selection of movies (encompassing between 100 and 500 titles overall) that are free to stream, with interspersed ad breaks."
+        },
+        {
+            "id": "YouTube - Wikipedia#177",
+            "sentence": "YouTube began offering free-to-view movie titles to its users in November 2018; selections of new movies are added and others removed, unannounced each month."
+        },
+        {
+            "id": "YouTube - Wikipedia#178",
+            "sentence": "In March 2021, Google announced plans to gradually ___E:deprecate U:(https://en.wikipedia.org/wiki/Deprecate)___ the Google Play Movies & TV app, and eventually migrate all users to the YouTube app's Movies & TV store to view, rent and purchase movies and TV shows (first affecting Roku, Samsung, LG, and Vizio smart TV users on July 15)."
+        },
+        {
+            "id": "YouTube - Wikipedia#179",
+            "sentence": "Google Play Movies & TV formally shut down on January 17, 2024, with the web version of that platform migrated to YouTube as an expansion of the Movies & TV store to desktop users."
+        },
+        {
+            "id": "YouTube - Wikipedia#180",
+            "sentence": "Other functions of Google Play Movies & TV were integrated into the ___E:Google TV U:(https://en.wikipedia.org/wiki/Google_TV_(service))___ service."
+        },
+        {
+            "id": "YouTube - Wikipedia#181",
+            "sentence": "On November 1, 2022, YouTube launched Primetime Channels, a channel store platform offering third-party subscription streaming add-ons sold a la carte through the YouTube website and app, competing with similar subscription add-on stores operated by ___E:Apple U:(https://en.wikipedia.org/wiki/Apple_TV_app#Apple_TV_Channels)___ , ___E:Prime Video U:(https://en.wikipedia.org/wiki/Amazon_Prime_Video#Amazon_Channels)___ and ___E:Roku U:(https://en.wikipedia.org/wiki/The_Roku_Channel)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#182",
+            "sentence": "The add-ons can be purchased through the YouTube Movies & TV hub or through the official YouTube channels of the available services; subscribers of YouTube TV add-ons that are sold through Primetime Channels can also access their content via the YouTube app and website."
+        },
+        {
+            "id": "YouTube - Wikipedia#183",
+            "sentence": "A total of 34 streaming services (including ___E:Paramount+ U:(https://en.wikipedia.org/wiki/Paramount%2B)___ , ___E:Showtime U:(https://en.wikipedia.org/wiki/Showtime_(TV_network))___ , ___E:Starz U:(https://en.wikipedia.org/wiki/Starz)___ , ___E:MGM+ U:(https://en.wikipedia.org/wiki/MGM%2B)___ , ___E:AMC+ U:(https://en.wikipedia.org/wiki/AMC%2B)___ and ___E:ViX+ U:(https://en.wikipedia.org/wiki/Vix_(streaming_service))___ ) were initially available for purchase."
+        },
+        {
+            "id": "YouTube - Wikipedia#184",
+            "sentence": "___E:NFL Sunday Ticket U:(https://en.wikipedia.org/wiki/NFL_Sunday_Ticket)___ , as part of a broader residential distribution deal with ___E:Google U:(https://en.wikipedia.org/wiki/Google)___ signed in December 2022 that also made it available to YouTube TV subscribers, was added to Primetime Channels as a standalone add-on on ___E:August 16, 2023 U:(https://en.wikipedia.org/wiki/2023_NFL_season)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#185",
+            "sentence": "The ad-free tier of ___E:Max U:(https://en.wikipedia.org/wiki/Max_(streaming_service))___ was added to Primetime Channels on December 12, 2023, coinciding with YouTube TV converting its separate HBO (for base plan subscribers) and HBO Max (for all subscribers) linear/VOD add-ons into a single combined Max offering.   [note 1]"
+        },
+        {
+            "id": "YouTube - Wikipedia#186",
+            "sentence": "On February 28, 2017, in a press announcement held at YouTube Space Los Angeles, YouTube announced YouTube TV, an ___E:over-the-top U:(https://en.wikipedia.org/wiki/Over-the-top_media_service)___ ___E:MVPD U:(https://en.wikipedia.org/wiki/Multichannel_video_programming_distributor)___ -style subscription service that would be available for United States customers at a price of US$65 per month."
+        },
+        {
+            "id": "YouTube - Wikipedia#187",
+            "sentence": "Initially launching in five major markets ( ___E:New York City U:(https://en.wikipedia.org/wiki/New_York_City)___ , ___E:Los Angeles U:(https://en.wikipedia.org/wiki/Los_Angeles)___ , ___E:Chicago U:(https://en.wikipedia.org/wiki/Chicago)___ , ___E:Philadelphia U:(https://en.wikipedia.org/wiki/Philadelphia)___ and ___E:San Francisco U:(https://en.wikipedia.org/wiki/San_Francisco)___ ) on April 5, 2017,   the service offers live streams of programming from the five major broadcast networks ( ___E:ABC U:(https://en.wikipedia.org/wiki/American_Broadcasting_Company)___ , ___E:CBS U:(https://en.wikipedia.org/wiki/CBS)___ , ___E:The CW U:(https://en.wikipedia.org/wiki/The_CW)___ , ___E:Fox U:(https://en.wikipedia.org/wiki/Fox_Broadcasting_Company)___ and ___E:NBC U:(https://en.wikipedia.org/wiki/NBC)___ , along with selected ___E:MyNetworkTV U:(https://en.wikipedia.org/wiki/MyNetworkTV)___ affiliates and ___E:independent stations U:(https://en.wikipedia.org/wiki/Independent_station)___ in certain markets), as well as approximately 60 cable channels owned by companies such as ___E:The Walt Disney Company U:(https://en.wikipedia.org/wiki/The_Walt_Disney_Company)___ , ___E:Paramount Global U:(https://en.wikipedia.org/wiki/Paramount_Global)___ , ___E:Fox Corporation U:(https://en.wikipedia.org/wiki/Fox_Corporation)___ , ___E:NBCUniversal U:(https://en.wikipedia.org/wiki/NBCUniversal)___ , ___E:Allen Media Group U:(https://en.wikipedia.org/wiki/Allen_Media_Group)___ and ___E:Warner Bros. Discovery U:(https://en.wikipedia.org/wiki/Warner_Bros._Discovery)___ (including among others ___E:Bravo U:(https://en.wikipedia.org/wiki/Bravo_(American_TV_network))___ , ___E:USA Network U:(https://en.wikipedia.org/wiki/USA_Network)___ , ___E:Syfy U:(https://en.wikipedia.org/wiki/Syfy)___ , ___E:Disney Channel U:(https://en.wikipedia.org/wiki/Disney_Channel)___ , ___E:CNN U:(https://en.wikipedia.org/wiki/CNN)___ , ___E:Cartoon Network U:(https://en.wikipedia.org/wiki/Cartoon_Network)___ , ___E:E! U:(https://en.wikipedia.org/wiki/E!)___ , ___E:Fox Sports 1 U:(https://en.wikipedia.org/wiki/Fox_Sports_1)___ , ___E:Freeform U:(https://en.wikipedia.org/wiki/Freeform_(TV_channel))___ , ___E:FX U:(https://en.wikipedia.org/wiki/FX_(TV_channel))___ and ___E:ESPN U:(https://en.wikipedia.org/wiki/ESPN)___ )."
+        },
+        {
+            "id": "YouTube - Wikipedia#188",
+            "sentence": "___E:Subscribers U:(https://en.wikipedia.org/wiki/Subscribers)___ can receive premium cable channels (including ___E:HBO U:(https://en.wikipedia.org/wiki/HBO)___ (via a combined ___E:Max U:(https://en.wikipedia.org/wiki/Max_(streaming_service))___ add-on that includes in-app and log-in access to the service), ___E:Cinemax U:(https://en.wikipedia.org/wiki/Cinemax)___ , ___E:Showtime U:(https://en.wikipedia.org/wiki/Showtime_(TV_network))___ , ___E:Starz U:(https://en.wikipedia.org/wiki/Starz)___ and ___E:MGM+ U:(https://en.wikipedia.org/wiki/MGM%2B)___ ) and other subscription services (such as ___E:NFL Sunday Ticket U:(https://en.wikipedia.org/wiki/NFL_Sunday_Ticket)___ , ___E:MLB.tv U:(https://en.wikipedia.org/wiki/MLB.tv)___ , ___E:NBA League Pass U:(https://en.wikipedia.org/wiki/NBA_League_Pass)___ , ___E:Curiosity Stream U:(https://en.wikipedia.org/wiki/Curiosity_Stream)___ and ___E:Fox Nation U:(https://en.wikipedia.org/wiki/Fox_Nation)___ ) as optional add-ons for an extra fee, and can access ___E:YouTube Premium U:(https://en.wikipedia.org/wiki/YouTube_Premium)___ original content."
+        },
+        {
+            "id": "YouTube - Wikipedia#189",
+            "sentence": "In September 2022, YouTube TV began allowing customers to purchase most of its premium add-ons (excluding certain services such as NBA League Pass and ___E:AMC+ U:(https://en.wikipedia.org/wiki/AMC%2B)___ ) without an existing subscription to its base package."
+        },
+        {
+            "id": "YouTube - Wikipedia#190",
+            "sentence": "In September 2016, YouTube Go was announced,  as an ___E:Android U:(https://en.wikipedia.org/wiki/Android_(operating_system))___ app created for making YouTube easier to access on mobile devices in ___E:emerging markets U:(https://en.wikipedia.org/wiki/Emerging_market)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#191",
+            "sentence": "It was distinct from the company's main Android app and allowed videos to be downloaded and shared with other users."
+        },
+        {
+            "id": "YouTube - Wikipedia#192",
+            "sentence": "It also allowed users to preview videos, share downloaded videos through ___E:Bluetooth U:(https://en.wikipedia.org/wiki/Bluetooth)___ , and offered more options for mobile data control and ___E:video resolution U:(https://en.wikipedia.org/wiki/Display_resolution)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#193",
+            "sentence": "In February 2017, YouTube Go was launched in ___E:India U:(https://en.wikipedia.org/wiki/India)___ , and expanded in November 2017 to 14 other countries, including ___E:Nigeria U:(https://en.wikipedia.org/wiki/Nigeria)___ , ___E:Indonesia U:(https://en.wikipedia.org/wiki/Indonesia)___ , ___E:Thailand U:(https://en.wikipedia.org/wiki/Thailand)___ , ___E:Malaysia U:(https://en.wikipedia.org/wiki/Malaysia)___ , ___E:Vietnam U:(https://en.wikipedia.org/wiki/Vietnam)___ , the ___E:Philippines U:(https://en.wikipedia.org/wiki/Philippines)___ , ___E:Kenya U:(https://en.wikipedia.org/wiki/Kenya)___ , and ___E:South Africa U:(https://en.wikipedia.org/wiki/South_Africa)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#194",
+            "sentence": "On February 1, 2018, it was rolled out in 130 countries worldwide, including ___E:Brazil U:(https://en.wikipedia.org/wiki/Brazil)___ , ___E:Mexico U:(https://en.wikipedia.org/wiki/Mexico)___ , ___E:Turkey U:(https://en.wikipedia.org/wiki/Turkey)___ , and ___E:Iraq U:(https://en.wikipedia.org/wiki/Iraq)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#195",
+            "sentence": "Before it shut down, the app was available to around 60% of the world's population."
+        },
+        {
+            "id": "YouTube - Wikipedia#196",
+            "sentence": "In May 2022, Google announced that they would be shutting down YouTube Go in August 2022."
+        },
+        {
+            "id": "YouTube - Wikipedia#197",
+            "sentence": "In September 2020, YouTube announced that it would be launching a beta version of a new platform of 15-second videos, similar to ___E:TikTok U:(https://en.wikipedia.org/wiki/TikTok)___ , called ___E:YouTube Shorts U:(https://en.wikipedia.org/wiki/YouTube_Shorts)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#198",
+            "sentence": "The platform was first tested in India and later expanded to other countries, including the United States in March 2021, with videos now able to be up to 1 minute long.  The platform is not a standalone app, but is integrated into the main YouTube app. Like TikTok, it gives users access to built-in creative tools, including the possibility of adding licensed music to their videos."
+        },
+        {
+            "id": "YouTube - Wikipedia#199",
+            "sentence": "The platform had its global beta launch on July 13, 2021."
+        },
+        {
+            "id": "YouTube - Wikipedia#200",
+            "sentence": "In 2018, YouTube started testing a new feature initially called \"YouTube Reels\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#201",
+            "sentence": "The feature was nearly identical to ___E:Instagram Stories U:(https://en.wikipedia.org/wiki/Instagram_Stories)___ and ___E:Snapchat Stories U:(https://en.wikipedia.org/wiki/Snapchat#Stories_and_Discover)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#202",
+            "sentence": "YouTube later renamed the feature \"YouTube Stories\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#203",
+            "sentence": "It was only available to creators who had more than 10,000 subscribers and could only be posted/seen in the YouTube mobile app.  On May 25, 2023, YouTube announced that they would be shutting down this feature on June 26, 2023."
+        },
+        {
+            "id": "YouTube - Wikipedia#204",
+            "sentence": "In November 2016, YouTube released ___E:YouTube VR U:(https://en.wikipedia.org/wiki/YouTube_VR)___ , a dedicated version with an interface for VR devices, for ___E:Google's Daydream U:(https://en.wikipedia.org/wiki/Google_Daydream)___ mobile VR platform on Android."
+        },
+        {
+            "id": "YouTube - Wikipedia#205",
+            "sentence": "In November 2018, YouTube VR was released on the ___E:Oculus Store U:(https://en.wikipedia.org/wiki/Meta_Horizon_Store)___ for the ___E:Oculus Go U:(https://en.wikipedia.org/wiki/Oculus_Go)___ headset."
+        },
+        {
+            "id": "YouTube - Wikipedia#206",
+            "sentence": "YouTube VR was updated since for compatibility with successive ___E:Quest U:(https://en.wikipedia.org/wiki/Meta_Horizon_OS)___ devices, and was ported to ___E:Pico 4 U:(https://en.wikipedia.org/wiki/Pico_4)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#207",
+            "sentence": "YouTube VR allows for access to all YouTube-hosted videos, but particularly supports headset access for 360° and 180°-degree video (both in 2D and stereoscopic 3D)."
+        },
+        {
+            "id": "YouTube - Wikipedia#208",
+            "sentence": "Starting with the ___E:Oculus Quest U:(https://en.wikipedia.org/wiki/Oculus_Quest)___ , the app was updated for compatibility with mixed-reality passthrough modes on VR headsets."
+        },
+        {
+            "id": "YouTube - Wikipedia#209",
+            "sentence": "In April 2024, YouTube VR was updated to support 8K SDR video on ___E:Meta Quest 3 U:(https://en.wikipedia.org/wiki/Meta_Quest_3)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#210",
+            "sentence": "In 2010, YouTube added Snake as a hidden game inside of their ___E:video player U:(https://en.wikipedia.org/wiki/Video_player)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#211",
+            "sentence": "In May 2024, YouTube introduced Playables, a set of around 75 free-to-play games that can be played on the platform."
+        },
+        {
+            "id": "YouTube - Wikipedia#212",
+            "sentence": "In December 2024, YouTube added the functionality of automatic language dubbing, which uses ___E:AI U:(https://en.wikipedia.org/wiki/Artificial_intelligence)___ to produce translations of videos into different languages."
+        },
+        {
+            "id": "YouTube - Wikipedia#213",
+            "sentence": "YouTube, a video sharing platform, has faced various criticisms over the years, particularly regarding ___E:content moderation U:(https://en.wikipedia.org/wiki/Content_moderation)___ , offensive content, and monetization."
+        },
+        {
+            "id": "YouTube - Wikipedia#214",
+            "sentence": "YouTube has faced criticism over aspects of its operations,  its ___E:recommendation algorithms U:(https://en.wikipedia.org/wiki/Recommender_system)___ perpetuating ___E:videos that promote conspiracy theories U:(https://en.wikipedia.org#Promotion_of_conspiracy_theories_and_fringe_discourse)___ and falsehoods,  hosting videos ostensibly targeting children but containing ___E:violent or sexually suggestive content involving popular characters U:(https://en.wikipedia.org/wiki/Elsagate)___ ,  videos of minors attracting ___E:pedophilic U:(https://en.wikipedia.org/wiki/Pedophilia)___ activities in their comment sections,  and fluctuating policies on the types of content that is eligible to be monetized with advertising."
+        },
+        {
+            "id": "YouTube - Wikipedia#215",
+            "sentence": "Since its founding in 2005, the American video-sharing website YouTube has been faced with a growing number of privacy issues, including allegations that it allows users to upload unauthorized copyrighted material and allows personal information from young children to be collected without their parents' consent."
+        },
+        {
+            "id": "YouTube - Wikipedia#216",
+            "sentence": "YouTube has been censored, filtered, or banned for a variety of reasons, including:"
+        },
+        {
+            "id": "YouTube - Wikipedia#217",
+            "sentence": "Access to specific videos is sometimes prevented due to copyright and intellectual property protection laws (e.g. ___E:in Germany U:(https://en.wikipedia.org/wiki/Blocking_of_YouTube_videos_in_Germany)___ ), violations of hate speech, and preventing access to videos judged inappropriate for youth,  which is also done by YouTube with the ___E:YouTube Kids U:(https://en.wikipedia.org/wiki/YouTube_Kids)___ app and with \" ___E:restricted mode U:(https://en.wikipedia.org/wiki/Censorship_by_Google#Censorship_of_sexual_content_in_Restricted_Mode)___ \"."
+        },
+        {
+            "id": "YouTube - Wikipedia#218",
+            "sentence": "Businesses, schools, government agencies, and other private institutions often block social media sites, including YouTube, due to its bandwidth limitations   and the site's potential for distraction."
+        },
+        {
+            "id": "YouTube - Wikipedia#219",
+            "sentence": "As of 2018 [update] , public access to YouTube is blocked in many countries, including ___E:China U:(https://en.wikipedia.org/wiki/China)___ , ___E:North Korea U:(https://en.wikipedia.org/wiki/North_Korea)___ , ___E:Iran U:(https://en.wikipedia.org/wiki/Iran)___ , ___E:Turkmenistan U:(https://en.wikipedia.org/wiki/Turkmenistan)___ ,  ___E:Uzbekistan U:(https://en.wikipedia.org/wiki/Uzbekistan)___ ,   ___E:Tajikistan U:(https://en.wikipedia.org/wiki/Tajikistan)___ , ___E:Eritrea U:(https://en.wikipedia.org/wiki/Eritrea)___ , ___E:Sudan U:(https://en.wikipedia.org/wiki/Sudan)___ and ___E:South Sudan U:(https://en.wikipedia.org/wiki/South_Sudan)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#220",
+            "sentence": "In some countries, YouTube is blocked for more limited periods of time, such as during periods of unrest, the run-up to an election, or in response to upcoming political anniversaries."
+        },
+        {
+            "id": "YouTube - Wikipedia#221",
+            "sentence": "In cases where the entire site is banned due to one particular video, YouTube will often agree to remove or limit access to that video in order to restore service."
+        },
+        {
+            "id": "YouTube - Wikipedia#222",
+            "sentence": "Reports emerged that since October 2019, comments posted with Chinese characters insulting the ___E:Chinese Communist Party U:(https://en.wikipedia.org/wiki/Chinese_Communist_Party)___ ( ___E:共匪 U:(https://en.wiktionary.org/wiki/%E5%85%B1%E5%8C%AA)___ \"communist bandit\" or ___E:五毛 U:(https://en.wiktionary.org/wiki/%E4%BA%94%E6%AF%9B)___ \" ___E:50 Cent Party U:(https://en.wikipedia.org/wiki/50_Cent_Party)___ \", referring to ___E:state-sponsored commentators U:(https://en.wikipedia.org/wiki/State-sponsored_Internet_propaganda)___ ) were being automatically deleted within 15 seconds."
+        },
+        {
+            "id": "YouTube - Wikipedia#223",
+            "sentence": "Specific incidents where YouTube has been blocked include:"
+        },
+        {
+            "id": "YouTube - Wikipedia#224",
+            "sentence": "Private individuals,  as well as large production corporations,  have used YouTube to grow their audiences."
+        },
+        {
+            "id": "YouTube - Wikipedia#225",
+            "sentence": "Indie creators have built grassroots followings numbering in the thousands at very little cost or effort, while mass retail and radio promotion proved problematic."
+        },
+        {
+            "id": "YouTube - Wikipedia#226",
+            "sentence": "Concurrently, ___E:old media U:(https://en.wikipedia.org/wiki/Old_media)___ celebrities moved into the website at the invitation of a YouTube management that witnessed early content creators accruing substantial followings and perceived audience sizes potentially larger than that attainable by television."
+        },
+        {
+            "id": "YouTube - Wikipedia#227",
+            "sentence": "While YouTube's revenue-sharing \"Partner Program\" made it possible to earn a substantial living as a ___E:video producer U:(https://en.wikipedia.org/wiki/Video_production)___ —its top five hundred partners each earning more than $100,000 annually  and its ten highest-earning channels grossing from $2.5 million to $12 million  —in 2012 ___E:CMU U:(https://en.wikipedia.org/wiki/Complete_Music_Update)___ business editor characterized YouTube as \"a free-to-use ... promotional platform for the music labels.\"  In 2013, Katheryn Thayer of Forbes asserted that digital-era artists' work must not only be of high quality, but must elicit reactions on the YouTube platform and social media."
+        },
+        {
+            "id": "YouTube - Wikipedia#228",
+            "sentence": "Videos of the 2.5% of artists categorized as \"mega\", \"mainstream\" and \"mid-sized\" received 90.3% of the relevant views on YouTube and Vevo in that year.  By early 2013, Billboard had announced that it was factoring YouTube streaming data into calculation of the ___E:Billboard Hot 100 U:(https://en.wikipedia.org/wiki/Billboard_Hot_100)___ and related genre charts."
+        },
+        {
+            "id": "YouTube - Wikipedia#229",
+            "sentence": "Observing that face-to-face communication of the type that online videos convey has been \"fine-tuned by millions of years of evolution\", ___E:TED U:(https://en.wikipedia.org/wiki/TED_(conference))___ curator ___E:Chris Anderson U:(https://en.wikipedia.org/wiki/Chris_Anderson_(entrepreneur))___ referred to several YouTube contributors and asserted that \"what ___E:Gutenberg U:(https://en.wikipedia.org/wiki/Johannes_Gutenberg)___ did for writing, online video can now do for face-to-face communication.\"  Anderson asserted that it is not far-fetched to say that online video will dramatically accelerate scientific advance, and that video contributors may be about to launch \"the biggest learning cycle in human history.\"  In education, for example, the ___E:Khan Academy U:(https://en.wikipedia.org/wiki/Khan_Academy)___ grew from YouTube video tutoring sessions for founder Salman Khan's cousin into what Forbes' Michael Noer called \"the largest school in the world\", with technology poised to ___E:disrupt U:(https://en.wikipedia.org/wiki/Disruptive_innovation)___ how people learn."
+        },
+        {
+            "id": "YouTube - Wikipedia#230",
+            "sentence": "YouTube was awarded a 2008 ___E:George Foster Peabody Award U:(https://en.wikipedia.org/wiki/George_Foster_Peabody_Award)___ ,  the website being described as a ___E:Speakers' Corner U:(https://en.wikipedia.org/wiki/Speakers%27_Corner)___ that \"both embodies and promotes democracy.\"  The Washington Post reported that a disproportionate share of YouTube's most-subscribed channels feature minorities, contrasting with mainstream television in which the stars are largely white."
+        },
+        {
+            "id": "YouTube - Wikipedia#231",
+            "sentence": "A ___E:Pew Research Center U:(https://en.wikipedia.org/wiki/Pew_Research_Center)___ study reported the development of \"visual journalism\", in which citizen eyewitnesses and established news organizations share in content creation."
+        },
+        {
+            "id": "YouTube - Wikipedia#232",
+            "sentence": "The study also concluded that YouTube was becoming an important platform by which people acquire news."
+        },
+        {
+            "id": "YouTube - Wikipedia#233",
+            "sentence": "YouTube has enabled people to more directly engage with government, such as in the ___E:CNN/YouTube presidential debates U:(https://en.wikipedia.org/wiki/CNN/YouTube_presidential_debates)___ (2007) in which ordinary people submitted questions to U.S. presidential candidates via YouTube video, with a ___E:techPresident U:(https://en.wikipedia.org/wiki/TechPresident)___ co-founder saying that Internet video was changing the political landscape."
+        },
+        {
+            "id": "YouTube - Wikipedia#234",
+            "sentence": "Describing the ___E:Arab Spring U:(https://en.wikipedia.org/wiki/Arab_Spring)___ (2010–2012), sociologist ___E:Philip N. Howard U:(https://en.wikipedia.org/wiki/Philip_N._Howard)___ quoted an activist's succinct description that organizing the political unrest involved using \"Facebook to schedule the protests, Twitter to coordinate, and YouTube to tell the world.\"  In 2012, more than a third of the U.S."
+        },
+        {
+            "id": "YouTube - Wikipedia#235",
+            "sentence": "Senate introduced a resolution condemning ___E:Joseph Kony U:(https://en.wikipedia.org/wiki/Joseph_Kony)___ 16 days after the \" ___E:Kony 2012 U:(https://en.wikipedia.org/wiki/Kony_2012)___ \" video was posted to YouTube, with resolution co-sponsor Senator ___E:Lindsey Graham U:(https://en.wikipedia.org/wiki/Lindsey_Graham)___ remarking that the video \"will do more to lead to (Kony's) demise than all other action combined.\""
+        },
+        {
+            "id": "YouTube - Wikipedia#236",
+            "sentence": "Conversely, YouTube has also allowed government to more easily engage with citizens, the ___E:White House U:(https://en.wikipedia.org/wiki/White_House)___ 's official YouTube channel being the seventh top news organization producer on YouTube in 2012  and in 2013 a healthcare exchange commissioned Obama impersonator ___E:Iman Crosson U:(https://en.wikipedia.org/wiki/Iman_Crosson)___ 's YouTube music video spoof to encourage young Americans to enroll in the ___E:Affordable Care Act (Obamacare) U:(https://en.wikipedia.org/wiki/Patient_Protection_and_Affordable_Care_Act)___ -compliant health insurance."
+        },
+        {
+            "id": "YouTube - Wikipedia#237",
+            "sentence": "In February 2014, U.S."
+        },
+        {
+            "id": "YouTube - Wikipedia#238",
+            "sentence": "President Obama held a meeting at the White House with leading YouTube content creators not only to promote awareness of Obamacare  but more generally to develop ways for government to better connect with the \"YouTube Generation\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#239",
+            "sentence": "Whereas YouTube's inherent ability to allow presidents to directly connect with average citizens was noted, the YouTube content creators' ___E:new media U:(https://en.wikipedia.org/wiki/New_media)___ savvy was perceived necessary to better cope with the website's distracting content and fickle audience."
+        },
+        {
+            "id": "YouTube - Wikipedia#240",
+            "sentence": "Some YouTube videos have themselves had a direct effect on world events, such as Innocence of Muslims (2012) which spurred ___E:protests and related anti-American violence U:(https://en.wikipedia.org/wiki/Reactions_to_Innocence_of_Muslims)___ internationally."
+        },
+        {
+            "id": "YouTube - Wikipedia#241",
+            "sentence": "TED curator Chris Anderson described a phenomenon by which geographically distributed individuals in a certain field share their independently developed skills in YouTube videos, thus challenging others to improve their own skills, and spurring invention and evolution in that field."
+        },
+        {
+            "id": "YouTube - Wikipedia#242",
+            "sentence": "Journalist ___E:Virginia Heffernan U:(https://en.wikipedia.org/wiki/Virginia_Heffernan)___ stated in The New York Times that such videos have \"surprising implications\" for the dissemination of culture and even the future of classical music."
+        },
+        {
+            "id": "YouTube - Wikipedia#243",
+            "sentence": "A 2017 article in The New York Times Magazine posited that YouTube had become \"the new ___E:talk radio U:(https://en.wikipedia.org/wiki/Conservative_talk_radio)___ \" for the ___E:far right U:(https://en.wikipedia.org/wiki/Far-right_politics)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#244",
+            "sentence": "Almost a year before YouTube's January 2019 announcement that it would begin a \"gradual change\" of \"reducing ___E:recommendations U:(https://en.wikipedia.org/wiki/Recommender_system)___ of borderline content and content that could misinform users in harmful ways\",  Zeynep Tufekci had written in The New York Times that, \"(g)iven its billion or so users, YouTube may be one of the most powerful radicalizing instruments of the 21st century\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#245",
+            "sentence": "Under YouTube's changes to its recommendation engine, the most-recommended channel evolved from conspiracy theorist ___E:Alex Jones U:(https://en.wikipedia.org/wiki/Alex_Jones)___ (2016) to ___E:Fox News U:(https://en.wikipedia.org/wiki/Fox_News)___ (2019)."
+        },
+        {
+            "id": "YouTube - Wikipedia#246",
+            "sentence": "According to a 2020 study, viewership of far-right videos on YouTube peaked in 2017 and \"a growing body of journalistic evidence\" suggested that YouTube was radicalizing young men through its recommendation engine, but that such evidence was \"fraught with a bias towards sensationalism\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#247",
+            "sentence": "It also found more \"mainstream-adjacent Conservative creators\" gaining over ___E:alt-right U:(https://en.wikipedia.org/wiki/Alt-right)___ and extremist videos by 2020.  A 2022 study found that \"despite widespread concerns that YouTube's algorithms send people down 'rabbit holes' with recommendations to extremist videos, little systematic evidence exists to support this conjecture\", and that such exposure was \"heavily concentrated among a small group of people with high prior levels of gender and racial resentment.\"  A 2024 study by the ___E:Institute for Strategic Dialogue U:(https://en.wikipedia.org/wiki/Institute_for_Strategic_Dialogue)___ found that YouTube frequently recommended Christian videos and right-leaning and culturally conservative \" ___E:culture war U:(https://en.wikipedia.org/wiki/Culture_war)___ \" videos by Fox News and male lifestyle ___E:influencers U:(https://en.wikipedia.org/wiki/Influencers)___ to accounts that did not show an interest in such topics."
+        },
+        {
+            "id": "YouTube - Wikipedia#248",
+            "sentence": "The Legion of Extraordinary Dancers  and the ___E:YouTube Symphony Orchestra U:(https://en.wikipedia.org/wiki/YouTube_Symphony_Orchestra)___  selected their membership based on individual video performances."
+        },
+        {
+            "id": "YouTube - Wikipedia#249",
+            "sentence": "Further, the cyber-collaboration charity video \" ___E:We Are the World 25 for Haiti (YouTube edition) U:(https://en.wikipedia.org/wiki/We_Are_the_World_25_for_Haiti_(YouTube_edition))___ \" was formed by mixing performances of 57 globally distributed singers into a single musical work,  with The Tokyo Times noting the \"We Pray for You\" YouTube cyber-collaboration video as an example of a trend to use ___E:crowdsourcing U:(https://en.wikipedia.org/wiki/Crowdsourcing)___ for charitable purposes."
+        },
+        {
+            "id": "YouTube - Wikipedia#250",
+            "sentence": "The anti-bullying ___E:It Gets Better Project U:(https://en.wikipedia.org/wiki/It_Gets_Better_Project)___ expanded from a single YouTube video directed to discouraged or ___E:suicidal LGBT teens U:(https://en.wikipedia.org/wiki/Suicide_among_LGBT_youth)___ ,  that within two months drew video responses from hundreds including U.S."
+        },
+        {
+            "id": "YouTube - Wikipedia#251",
+            "sentence": "President ___E:Barack Obama U:(https://en.wikipedia.org/wiki/Barack_Obama)___ , Vice President Biden, White House staff, and several cabinet secretaries."
+        },
+        {
+            "id": "YouTube - Wikipedia#252",
+            "sentence": "Similarly, in response to fifteen-year-old ___E:Amanda Todd U:(https://en.wikipedia.org/wiki/Suicide_of_Amanda_Todd)___ 's video \"My story: Struggling, bullying, suicide, self-harm\", legislative action was undertaken almost immediately after her suicide to study the prevalence of bullying and form a national anti-bullying strategy."
+        },
+        {
+            "id": "YouTube - Wikipedia#253",
+            "sentence": "In May 2018, after London ___E:Metropolitan Police U:(https://en.wikipedia.org/wiki/Metropolitan_Police)___ claimed that ___E:drill music U:(https://en.wikipedia.org/wiki/UK_drill)___ videos glamorizing violence gave rise to ___E:gang violence U:(https://en.wikipedia.org/wiki/Gang#Gang_violence)___ , YouTube deleted 30 videos."
+        },
+        {
+            "id": "YouTube - Wikipedia#254",
+            "sentence": "Prior to 2020, Google did not provide detailed figures for YouTube's running costs, and YouTube's revenues in 2007 were noted as \" ___E:not material U:(https://en.wikipedia.org/wiki/Materiality_(auditing))___ \" in a regulatory filing."
+        },
+        {
+            "id": "YouTube - Wikipedia#255",
+            "sentence": "In June 2008, a Forbes magazine article projected the 2008 revenue at $200 million, noting progress in advertising sales."
+        },
+        {
+            "id": "YouTube - Wikipedia#256",
+            "sentence": "In 2012, YouTube's revenue from its ads program was estimated at $3.7 billion."
+        },
+        {
+            "id": "YouTube - Wikipedia#257",
+            "sentence": "In 2013, it nearly doubled and estimated to hit $5.6 billion according to ___E:e-Marketer U:(https://en.wikipedia.org/wiki/Emarketer)___ ,   while others estimated $4.7 billion."
+        },
+        {
+            "id": "YouTube - Wikipedia#258",
+            "sentence": "The vast majority of videos on YouTube are free to view and supported by advertising."
+        },
+        {
+            "id": "YouTube - Wikipedia#259",
+            "sentence": "In May 2013, YouTube introduced a trial scheme of 53 subscription channels with prices ranging from $0.99 to $6.99 a month."
+        },
+        {
+            "id": "YouTube - Wikipedia#260",
+            "sentence": "The move was seen as an attempt to compete with other providers of online subscription services such as ___E:Netflix U:(https://en.wikipedia.org/wiki/Netflix)___ , ___E:Amazon Prime U:(https://en.wikipedia.org/wiki/Amazon_Prime_Video)___ , and ___E:Hulu U:(https://en.wikipedia.org/wiki/Hulu)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#261",
+            "sentence": "Google first published exact revenue numbers for YouTube in February 2020 as part of Alphabet's 2019 financial report."
+        },
+        {
+            "id": "YouTube - Wikipedia#262",
+            "sentence": "According to Google, YouTube had made US$15.1 billion in ad revenue in 2019, in contrast to US$8.1 billion in 2017 and US$11.1 billion in 2018. YouTube's revenues made up nearly 10% of the total Alphabet revenue in 2019.   These revenues accounted for approximately 20 million subscribers combined between YouTube Premium and YouTube Music subscriptions, and 2 million subscribers to YouTube TV.  YouTube had $29.2 billion ads revenue in 2022, up by $398 million from the prior year.  In Q2 2024, ad revenue rose to $8.66 billion, up 13% on Q1."
+        },
+        {
+            "id": "YouTube - Wikipedia#263",
+            "sentence": "YouTube entered into a marketing and advertising partnership with ___E:NBC U:(https://en.wikipedia.org/wiki/NBC)___ in June 2006.  In March 2007, it struck a deal with the ___E:BBC U:(https://en.wikipedia.org/wiki/BBC)___ for three channels with BBC content, one for news and two for entertainment."
+        },
+        {
+            "id": "YouTube - Wikipedia#264",
+            "sentence": "In November 2008, YouTube reached an agreement with ___E:MGM U:(https://en.wikipedia.org/wiki/Metro-Goldwyn-Mayer)___ , ___E:Lions Gate Entertainment U:(https://en.wikipedia.org/wiki/Lions_Gate_Entertainment)___ , and ___E:CBS U:(https://en.wikipedia.org/wiki/CBS)___ , allowing the companies to post full-length films and television episodes on the site, accompanied by advertisements in a section for U.S. viewers called \"Shows\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#265",
+            "sentence": "The move was intended to create competition with websites such as Hulu, which features material from NBC, ___E:Fox U:(https://en.wikipedia.org/wiki/Fox_Broadcasting_Company)___ , and ___E:Disney U:(https://en.wikipedia.org/wiki/Walt_Disney_Studios_Motion_Pictures)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#266",
+            "sentence": "In November 2009, YouTube launched a version of \"Shows\" available to UK viewers, offering around 4,000 full-length shows from more than 60 partners."
+        },
+        {
+            "id": "YouTube - Wikipedia#267",
+            "sentence": "In January 2010, YouTube introduced a film rentals service,  available in many countries, and TV shows can be bought in several countries."
+        },
+        {
+            "id": "YouTube - Wikipedia#268",
+            "sentence": "The service offers over 6,000 films."
+        },
+        {
+            "id": "YouTube - Wikipedia#269",
+            "sentence": "In March 2017, the government of the United Kingdom pulled its advertising campaigns from YouTube, after reports that its ads had appeared on videos containing extremist content."
+        },
+        {
+            "id": "YouTube - Wikipedia#270",
+            "sentence": "The government demanded assurances that its advertising would \"be delivered safely and appropriately\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#271",
+            "sentence": "The Guardian newspaper, as well as other major British and U.S. brands, similarly suspended their advertising on YouTube in response to their advertising appearing near ___E:offensive content U:(https://en.wikipedia.org/wiki/Offensive_content)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#272",
+            "sentence": "Google stated that it had \"begun an extensive review of our advertising policies and have made a public commitment to put in place changes that give brands more control over where their ads appear\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#273",
+            "sentence": "In early April 2017, the YouTube channel ___E:h3h3Productions U:(https://en.wikipedia.org/wiki/H3h3Productions)___ presented evidence claiming that a Wall Street Journal article had fabricated screenshots showing major brand advertising on an offensive video containing ___E:Johnny Rebel U:(https://en.wikipedia.org/wiki/Johnny_Rebel_(singer))___ music overlaid on a ___E:Chief Keef U:(https://en.wikipedia.org/wiki/Chief_Keef)___ music video, citing that the video itself had not earned any ad revenue for the uploader."
+        },
+        {
+            "id": "YouTube - Wikipedia#274",
+            "sentence": "The video was retracted after it was found that the ads had been triggered by the use of copyrighted content in the video."
+        },
+        {
+            "id": "YouTube - Wikipedia#275",
+            "sentence": "On April 6, 2017, YouTube announced that to \"ensure revenue only flows to creators who are playing by the rules\", it would change its practices to require that a channel undergo a policy compliance review, and have at least 10,000-lifetime views, before they may join the YouTube Partner Program."
+        },
+        {
+            "id": "YouTube - Wikipedia#276",
+            "sentence": "In May 2007, YouTube launched its Partner Program (YPP), a system based on ___E:AdSense U:(https://en.wikipedia.org/wiki/Google_AdSense)___ which allows the uploader of the video to share the revenue produced by advertising on the site.  YouTube typically takes 45 percent of the advertising revenue from videos in the Partner Program, with 55 percent going to the uploader."
+        },
+        {
+            "id": "YouTube - Wikipedia#277",
+            "sentence": "There are over two million members of the YouTube Partner Program."
+        },
+        {
+            "id": "YouTube - Wikipedia#278",
+            "sentence": "According to ___E:TubeMogul U:(https://en.wikipedia.org/wiki/TubeMogul)___ , in 2013 a pre-roll advertisement on YouTube (one that is shown before the video starts) cost advertisers on average $7.60 per 1000 views."
+        },
+        {
+            "id": "YouTube - Wikipedia#279",
+            "sentence": "Usually, no more than half of the eligible videos have a pre-roll advertisement, due to a lack of interested advertisers."
+        },
+        {
+            "id": "YouTube - Wikipedia#280",
+            "sentence": "YouTube's policies restrict certain forms of content from being included in videos being monetized with advertising, including videos containing violence, strong language, sexual content, \"controversial or sensitive subjects and events, including subjects related to war, political conflicts, natural disasters and tragedies, even if graphic imagery is not shown\" (unless the content is \"usually newsworthy or comedic and the creator's intent is to inform or entertain\"),  and videos whose user comments contain \"inappropriate\" content."
+        },
+        {
+            "id": "YouTube - Wikipedia#281",
+            "sentence": "In 2013, YouTube introduced an option for channels with at least a thousand subscribers to require a paid subscription for viewers to watch videos."
+        },
+        {
+            "id": "YouTube - Wikipedia#282",
+            "sentence": "In April 2017, YouTube set an eligibility requirement of 10,000 lifetime views for a paid subscription."
+        },
+        {
+            "id": "YouTube - Wikipedia#283",
+            "sentence": "On January 16, 2018, the eligibility requirement for monetization was changed to 4,000 hours of watch-time within the past 12 months and 1,000 subscribers."
+        },
+        {
+            "id": "YouTube - Wikipedia#284",
+            "sentence": "The move was seen as an attempt to ensure that videos being monetized did not lead to controversy, but was criticized for penalizing smaller YouTube channels.  ___E:YouTube Play Buttons U:(https://en.wikipedia.org/wiki/YouTube_Play_Button)___ , a part of the YouTube Creator Rewards, are a recognition by YouTube of its most popular channels."
+        },
+        {
+            "id": "YouTube - Wikipedia#285",
+            "sentence": "The trophies made of nickel plated copper-nickel alloy, golden plated brass, silver plated metal, ruby, and red tinted crystal glass are given to channels with at least one hundred thousand, a million, ten million, fifty million subscribers, and one hundred million subscribers, respectively."
+        },
+        {
+            "id": "YouTube - Wikipedia#286",
+            "sentence": "YouTube's policies on \" ___E:advertiser-friendly content U:(https://en.wikipedia.org/wiki/Censorship_by_Google#Advertiser-friendly_content)___ \" restrict what may be incorporated into videos being monetized; this includes strong violence, language,  sexual content, and \"controversial or sensitive subjects and events, including subjects related to war, political conflicts, natural disasters and tragedies, even if graphic imagery is not shown\", unless the content is \"usually newsworthy or comedic and the creator's intent is to inform or entertain\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#287",
+            "sentence": "In September 2016, after introducing an enhanced notification system to inform users of these violations, YouTube's policies were criticized by prominent users, including ___E:Philip DeFranco U:(https://en.wikipedia.org/wiki/Philip_DeFranco)___ and ___E:Vlogbrothers U:(https://en.wikipedia.org/wiki/Vlogbrothers)___ ."
+        },
+        {
+            "id": "YouTube - Wikipedia#288",
+            "sentence": "DeFranco argued that not being able to earn advertising revenue on such videos was \"censorship by a different name\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#289",
+            "sentence": "A YouTube spokesperson stated that while the policy itself was not new, the service had \"improved the notification and appeal process to ensure better communication to our creators\"."
+        },
+        {
+            "id": "YouTube - Wikipedia#290",
+            "sentence": "Boing Boing reported in 2019 that LGBT keywords resulted in demonetization."
+        },
+        {
+            "id": "YouTube - Wikipedia#291",
+            "sentence": "In the United States as of November 2020, and June 2021 worldwide,  YouTube reserves the right to monetize any video on the platform, even if their uploader is not a member of the YouTube Partner Program."
+        },
+        {
+            "id": "YouTube - Wikipedia#292",
+            "sentence": "This will occur on channels whose content is deemed \"advertiser-friendly\", and all revenue will go directly to Google without any share given to the uploader."
+        },
+        {
+            "id": "YouTube - Wikipedia#293",
+            "sentence": "The majority of YouTube's advertising revenue goes to the publishers and video producers who hold the rights to their videos; the company retains 45% of the ad revenue."
+        },
+        {
+            "id": "YouTube - Wikipedia#294",
+            "sentence": "In 2010, it was reported that nearly a third of the videos with advertisements were uploaded without permission of the copyright holders."
+        },
+        {
+            "id": "YouTube - Wikipedia#295",
+            "sentence": "YouTube gives an option for copyright holders to locate and remove their videos or to have them continue running for revenue."
+        },
+        {
+            "id": "YouTube - Wikipedia#296",
+            "sentence": "In May 2013, ___E:Nintendo U:(https://en.wikipedia.org/wiki/Nintendo)___ began enforcing its copyright ownership and claiming the advertising revenue from video creators who posted screenshots of its games."
+        },
+        {
+            "id": "YouTube - Wikipedia#297",
+            "sentence": "In February 2015, Nintendo agreed to share the revenue with the video creators through the Nintendo Creators Program."
+        },
+        {
+            "id": "YouTube - Wikipedia#298",
+            "sentence": "On March 20, 2019, Nintendo announced on Twitter that the company will end the Creators program."
+        },
+        {
+            "id": "YouTube - Wikipedia#299",
+            "sentence": "Operations for the program ceased on March 20, 2019."
+        }
+    ]
+}

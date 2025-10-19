@@ -1,0 +1,622 @@
+{
+    "Title": "Cumhuriyet Halk Partisi",
+    "Card": {
+        "Kısaltma": "CHP",
+        "Genel başkan": "___E:Özgür Özel U:(https://tr.wikipedia.org/wiki/%C3%96zg%C3%BCr_%C3%96zel)___",
+        "Genel sekreter": "___E:Selin Sayek Böke U:(https://tr.wikipedia.org/wiki/Selin_Sayek_B%C3%B6ke)___",
+        "Parti sözcüsü": "___E:Deniz Yücel U:(https://tr.wikipedia.org/wiki/Deniz_Y%C3%BCcel_(siyaset%C3%A7i))___",
+        "Kurucu": "___E:Mustafa Kemal Atatürk U:(https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk)___ ",
+        "Kuruluş tarihi": "9 Eylül 1923 (102 yıl önce ) (1923-09-09) 9 Eylül 1992 (33 yıl önce ) (1992-09-09) (yeniden kuruluş)",
+        "Kapanış tarihi": "16 Ekim 1981",
+        "Birleşme": "Hürriyet Partisi (1958) Sosyaldemokrat Halkçı Parti (1995) Yeni Türkiye Partisi (2004) Türkiye Değişim Partisi (2023) Memleket Partisi (2025)",
+        "Bölünme": "Liste Terakkiperver Cumhuriyet Fırkası(1924-1925) Serbest Cumhuriyet Fırkası(1930) Demokrat Parti(1946-1960) Cumhuriyetçi Güven Partisi(1967-1981) Sosyaldemokrat Halk Partisi(2002-2010) Halkın Yükselişi Partisi(2005-2018) Anadolu Partisi(2014-2015) Yenilik Partisi(2020-günümüz)",
+        "Önceli": "___E:Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti U:(https://tr.wikipedia.org/wiki/Anadolu_ve_Rumeli_M%C3%BCd%C3%A2faa-i_Hukuk_Cemiyeti)___",
+        "Ardılı": "Halkçı Parti (1983-1985) Sosyal Demokrasi Partisi (1983-1985) Demokratik Sol Parti (1985-günümüz)",
+        "Merkez": "___E:Çankaya U:(https://tr.wikipedia.org/wiki/%C3%87ankaya)___ , ___E:Ankara U:(https://tr.wikipedia.org/wiki/Ankara)___ , ___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___",
+        "Gazete(ler)": "Millet Dergisi İkinci Yüzyıl Dergi",
+        "Öğrenci kolu": "Halkçı Liseliler",
+        "Gençlik kolu": "___E:CHP Gençlik Kolları U:(https://tr.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi_Gen%C3%A7lik_Kollar%C4%B1)___",
+        "Kadın kolu": "CHP Kadın Kolları",
+        "Üyelik(2025)": "1.903.432 ",
+        "İdeoloji": "___E:Sosyal demokrasi U:(https://tr.wikipedia.org/wiki/Sosyal_demokrasi)___   ___E:Kemalizm U:(https://tr.wikipedia.org/wiki/Kemalizm)___   ___E:İlericilik U:(https://tr.wikipedia.org/wiki/%C4%B0lerlemecilik)___  ___E:Pro-Avrupacılık U:(https://tr.wikipedia.org/wiki/Pro-Avrupac%C4%B1l%C4%B1k)___  Parti içi düşünceler: ___E:Ulusalcılık U:(https://tr.wikipedia.org/wiki/Ulusalc%C4%B1l%C4%B1k)___   ___E:Demokratik sosyalizm U:(https://tr.wikipedia.org/wiki/Demokratik_sosyalizm)___  ___E:Sosyal liberalizm U:(https://tr.wikipedia.org/wiki/Sosyal_liberalizm)___ ",
+        "Siyasi pozisyon": "___E:Merkez sol U:(https://tr.wikipedia.org/wiki/Merkez_sol)___ [a]",
+        "Ulusal üyelik": "___E:Millet İttifakı U:(https://tr.wikipedia.org/wiki/Millet_%C4%B0ttifak%C4%B1)___ (2018-2023)",
+        "Avrupa üyeliği": "___E:Avrupa Sosyalistler Partisi U:(https://tr.wikipedia.org/wiki/Avrupa_Sosyalistler_Partisi)___  (ilişkili)",
+        "Uluslararası üyelik": "___E:Sosyalist Enternasyonal U:(https://tr.wikipedia.org/wiki/Sosyalist_Enternasyonal)___  ___E:İlerici İttifak U:(https://tr.wikipedia.org/wiki/%C4%B0lerici_%C4%B0ttifak)___  Tarihsel: ___E:Radikal Enternasyonal U:(https://tr.wikipedia.org/wiki/Radikal_ve_Benzeri_Demokratik_Partilerin_Uluslararas%C4%B1_Birli%C4%9Fi)___   (ilişkili)",
+        "Resmî renkler": ".mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{} kırmızı ve beyaz",
+        "Slogan(lar)": "Türkiye'nin Birinci Partisi Her Derdin Var Bir Çaresi Herşey Çok Güzel Olacak Kurtuluş Yok Tek Başına Ya Hep Beraber Ya Hiçbirimiz",
+        "TBMM": "137 / 600 ___E:Tüm Liste U:(https://tr.wikipedia.org#Milletvekilleri)___",
+        "Büyükşehir Belediye Başkanlığı": "13 / 30 ___E:Tüm Liste U:(https://tr.wikipedia.org#Belediye_başkanları)___",
+        "İl Belediye Başkanlığı": "21 / 51 ___E:Tüm Liste U:(https://tr.wikipedia.org#Belediye_başkanları)___",
+        "İlçe Belediye Başkanlığı": "301 / 922 ___E:Tüm Liste U:(https://tr.wikipedia.org#Belediye_başkanları)___",
+        "Belde Belediye Başkanlığı": "63 / 390 ___E:Tüm Liste U:(https://tr.wikipedia.org#Belediye_başkanları)___",
+        "İl Genel Meclisleri": "300 / 1.282",
+        "Belediye Meclisleri": "6.570 / 20.953"
+    },
+    "Main": [
+        {
+            "id": "Cumhuriyet Halk Partisi#1",
+            "sentence": "Cumhuriyet Halk Partisi , ___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___ 'de ___E:faaliyet gösteren U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_siyasi_partiler_listesi)___ ___E:sosyal demokrat U:(https://tr.wikipedia.org/wiki/Sosyal_demokrasi)___ bir ___E:siyasi partidir U:(https://tr.wikipedia.org/wiki/Siyasi_parti)___ ."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#2",
+            "sentence": "Parti tüzüğüne göre resmî kısaltması \"CHP\" şeklindedir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#3",
+            "sentence": "Türkiye Cumhuriyeti'nin kurucusu ve ilk ___E:cumhurbaşkanı U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_cumhurba%C5%9Fkan%C4%B1)___ ___E:Mustafa Kemal Atatürk U:(https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk)___ tarafından kurulan parti, Türkiye'nin en eski siyasi partisidir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#4",
+            "sentence": "Parti aynı zamanda modern Türkiye'nin kurucu partisi olarak da anılmaktadır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#5",
+            "sentence": "Logosu, ___E:Kemalizm U:(https://tr.wikipedia.org/wiki/Kemalizm)___ 'in temel ilkelerini temsil eden ___E:Altı Ok U:(https://tr.wikipedia.org/wiki/Alt%C4%B1_Ok)___ 'tan oluşmaktadır: ___E:cumhuriyetçilik U:(https://tr.wikipedia.org/wiki/Cumhuriyet%C3%A7ilik)___ , ___E:inkılapçılık U:(https://tr.wikipedia.org/wiki/Reformizm)___ , ___E:laiklik U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_laiklik)___ , ___E:halkçılık U:(https://tr.wikipedia.org/wiki/Pop%C3%BClizm)___ , ___E:milliyetçilik U:(https://tr.wikipedia.org/wiki/Milliyet%C3%A7ilik)___ ve ___E:devletçilik U:(https://tr.wikipedia.org/wiki/Devlet%C3%A7ilik)___ ."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#6",
+            "sentence": "Şu anda 137 milletvekili ile iktidardaki ___E:muhafazakâr U:(https://tr.wikipedia.org/wiki/Muhafazak%C3%A2rl%C4%B1k)___ ___E:Adalet ve Kalkınma Partisi U:(https://tr.wikipedia.org/wiki/Adalet_ve_Kalk%C4%B1nma_Partisi)___ 'nin (AK Parti) ardından ___E:Türkiye Büyük Millet Meclisi U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi)___ 'ndeki en büyük ikinci partidir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#7",
+            "sentence": "Partinin ___E:genel başkanı U:(https://tr.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi_genel_ba%C5%9Fkanlar%C4%B1_listesi)___ ___E:Özgür Özel U:(https://tr.wikipedia.org/wiki/%C3%96zg%C3%BCr_%C3%96zel)___ , ___E:genel sekreteri U:(https://tr.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi_genel_sekreterleri_listesi)___ ___E:Selin Sayek Böke U:(https://tr.wikipedia.org/wiki/Selin_Sayek_B%C3%B6ke)___ 'dir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#8",
+            "sentence": "Cumhuriyet Halk Partisi'nin kökeni, ___E:Türk Kurtuluş Savaşı U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Kurtulu%C5%9F_Sava%C5%9F%C4%B1)___ sırasında kurulan çeşitli ___E:direniş gruplarına U:(https://tr.wikipedia.org/wiki/M%C3%BCd%C3%A2faa-i_hukuk_cemiyetleri)___ dayanır; bu grupların çoğu daha önce ___E:İttihat ve Terakki Cemiyeti U:(https://tr.wikipedia.org/wiki/%C4%B0ttihat_ve_Terakki)___ ile bağlantılı kişilerden oluşuyordu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#9",
+            "sentence": "Mustafa Kemal Atatürk'ün liderliğinde bu gruplar, ___E:Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti U:(https://tr.wikipedia.org/wiki/Anadolu_ve_Rumeli_M%C3%BCd%C3%A2faa-i_Hukuk_Cemiyeti)___ adıyla 1919'daki ___E:Sivas Kongresi U:(https://tr.wikipedia.org/wiki/Sivas_Kongresi)___ 'nde birleşti.  1923 yılında Halk Fırkası adıyla siyasi bir örgüt olarak kurulan parti, kısa bir süre sonra Cumhuriyet Halk Fırkası adını aldı ve Atatürk'ün ilk cumhurbaşkanı olduğu ___E:Türkiye Cumhuriyeti'nin kuruluşunu U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_cumhuriyetin_ilan%C4%B1)___ ilan etti.  ___E:Türkiye'nin tek parti dönemine U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_tek_partili_d%C3%B6nem)___ geçmesiyle birlikte, CHP ülkede kapsamlı ___E:siyasi, kültürel, sosyal ve ekonomik reformların U:(https://tr.wikipedia.org/wiki/Atat%C3%BCrk_Devrimleri)___ uygulanmasında temel araç hâline geldi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#10",
+            "sentence": "___E:II. Dünya Savaşı U:(https://tr.wikipedia.org/wiki/II._D%C3%BCnya_Sava%C5%9F%C4%B1)___ 'nın ardından, Atatürk'ün halefi ___E:İsmet İnönü U:(https://tr.wikipedia.org/wiki/%C4%B0smet_%C4%B0n%C3%B6n%C3%BC)___ çok partili seçimlere izin verdi ve CHP, ___E:1950 U:(https://tr.wikipedia.org/wiki/1950_T%C3%BCrkiye_genel_se%C3%A7imleri)___ ___E:genel seçimlerini U:(https://tr.wikipedia.org/wiki/1950_T%C3%BCrkiye_genel_se%C3%A7imleri)___ kaybettikten sonra iktidarı ___E:barışçıl bir şekilde devrederek U:(https://tr.wikipedia.org/wiki/Bar%C4%B1%C5%9F%C3%A7%C4%B1l_iktidar_ge%C3%A7i%C5%9Fi)___ tek parti dönemini sona erdirip ___E:Türkiye'nin çok partili dönemini U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_%C3%A7ok_partili_d%C3%B6nem)___ başlattı. ___E:1960 askeri darbesini U:(https://tr.wikipedia.org/wiki/27_May%C4%B1s_Darbesi)___ izleyen yıllarda parti kademeli olarak ___E:merkez sol U:(https://tr.wikipedia.org/wiki/Merkez_sol)___ çizgiye yöneldi; bu yönelim, 1972'de ___E:Bülent Ecevit U:(https://tr.wikipedia.org/wiki/B%C3%BClent_Ecevit)___ 'in genel başkan olmasıyla birlikte kesinlik kazandı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#11",
+            "sentence": "CHP, dönemin diğer tüm partileriyle birlikte ___E:1980 askeri darbesi U:(https://tr.wikipedia.org/wiki/12_Eyl%C3%BCl_Darbesi)___ sonrasında kapatıldı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#12",
+            "sentence": "Parti, 9 Eylül 1992'de ___E:Deniz Baykal U:(https://tr.wikipedia.org/wiki/Deniz_Baykal)___ tarafından, 1980 öncesi üyelerinin çoğunluğunun katılımıyla, yeniden ve orijinal adıyla kuruldu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#13",
+            "sentence": "Yeniden kuruluşundan beri en uzun süre görev yapan genel başkan ___E:Kemal Kılıçdaroğlu U:(https://tr.wikipedia.org/wiki/Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu)___ , mevcut genel başkan ise ___E:Özgür Özel U:(https://tr.wikipedia.org/wiki/%C3%96zg%C3%BCr_%C3%96zel)___ 'dir. Parti ___E:2002 U:(https://tr.wikipedia.org/wiki/2002_T%C3%BCrkiye_genel_se%C3%A7imleri)___ yılından bu yana iktidardaki ___E:Adalet ve Kalkınma Partisi U:(https://tr.wikipedia.org/wiki/Adalet_ve_Kalk%C4%B1nma_Partisi)___ 'ne karşı ana muhalefet partisi konumundadır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#14",
+            "sentence": "Parti, ___E:İlerici İttifak U:(https://tr.wikipedia.org/wiki/%C4%B0lerici_%C4%B0ttifak)___ ve ___E:Sosyalist Enternasyonal U:(https://tr.wikipedia.org/wiki/Sosyalist_Enternasyonal)___ 'in tam üyesidir ve ___E:Avrupa Sosyalistler Partisi U:(https://tr.wikipedia.org/wiki/Avrupa_Sosyalistler_Partisi)___ 'nin ilişkili üyesidir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#15",
+            "sentence": "4-11 Eylül 1919 tarihleri arasında toplanan ___E:Sivas Kongresi U:(https://tr.wikipedia.org/wiki/Sivas_Kongresi)___ 'nde, ___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___ 'nin çeşitli bölgelerinde kurulan ___E:müdâfaa-i hukuk cemiyetleri U:(https://tr.wikipedia.org/wiki/M%C3%BCd%C3%A2faa-i_hukuk_cemiyetleri)___ , ___E:Anadolu ve Rumeli Müdâfaa-i Hukuk Cemiyeti U:(https://tr.wikipedia.org/wiki/Anadolu_ve_Rumeli_M%C3%BCd%C3%A2faa-i_Hukuk_Cemiyeti)___ (ARMHC) adı altında birleştirilmiştir. 23 Nisan 1920 tarihinde toplanan ___E:Türkiye Büyük Millet Meclisi U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_B%C3%BCy%C3%BCk_Millet_Meclisi)___ ARMHC delegelerinden oluşmuş, ancak 1922'de Meclis, Birinci Grup ve ___E:İkinci Grup U:(https://tr.wikipedia.org/wiki/%C4%B0kinci_Grup)___ adıyla iki gruba ayrılmıştır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#16",
+            "sentence": "Mustafa Kemal Atatürk'ün takipçileri daha sonra \"birinci grup\" olarak adlandırılmıştır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#17",
+            "sentence": "İkinci grup, azınlık olsa da parlamentoda güçlü bir muhalefet oluşturdu. ___E:Lozan Antlaşması U:(https://tr.wikipedia.org/wiki/Lozan_Antla%C5%9Fmas%C4%B1)___ 'nın kabulü nedeniyle Meclis'te baş gösteren yoğun tartışmalar üzerine Mustafa Kemal Atatürk, 9 Eylül 1923 tarihinde ___E:Dokuz Umde U:(https://tr.wikipedia.org/wiki/Dokuz_Umde)___ adı verilen siyasi programı ilan etti ve iki gün sonra ___E:İçişleri Bakanlığı U:(https://tr.wikipedia.org/wiki/%C4%B0%C3%A7i%C5%9Fleri_Bakanl%C4%B1%C4%9F%C4%B1_(T%C3%BCrkiye))___ 'na verilen bir dilekçeyle kendine bağlı milletvekillerinden oluşan Halk Fırkası'nı kurdu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#18",
+            "sentence": "Mayıs 1923'te meclis, Mustafa Kemal ve arkadaşlarının Lozan Antlaşması'nın daha güçlü bir meclis tarafından onaylanmasını sağlamak amacıyla yeni seçimler için bir tasarı hazırladı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#19",
+            "sentence": "Halk Fırkası, ___E:1923 seçimlerinden U:(https://tr.wikipedia.org/wiki/1923_T%C3%BCrkiye_genel_se%C3%A7imleri)___ sonra resmi olarak kuruldu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#20",
+            "sentence": "İkinci dönem için görev yapan mecliste Lozan Antlaşması kabul edildi, ___E:cumhuriyet ilan edildi U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_cumhuriyetin_ilan%C4%B1)___ ve ___E:halifelik kaldırıldı U:(https://tr.wikipedia.org/wiki/Hil%C3%A2fetin_kald%C4%B1r%C4%B1lmas%C4%B1)___ ."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#21",
+            "sentence": "Partinin resmî kuruluş tarihi 11 Eylül 1923 olmasına rağmen, partinin kuruluş tarihi daha sonradan partileşme kararının alındığı 9 Eylül 1923 olarak kabul edilmiştir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#22",
+            "sentence": "Türkiye'nin siyasi tarihinde, pratikte Cumhuriyet Halk Partisi ___E:Jön Türkler U:(https://tr.wikipedia.org/wiki/J%C3%B6n_T%C3%BCrkler)___ ve ___E:İttihat ve Terakki U:(https://tr.wikipedia.org/wiki/%C4%B0ttihat_ve_Terakki)___ 'nin devamı olarak değerlendirilmiştir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#23",
+            "sentence": "Partinin kuruluşunun ardından 1924'te, radikal devrimlere karşı çıkan muhalifler, ___E:Kâzım Karabekir U:(https://tr.wikipedia.org/wiki/K%C3%A2z%C4%B1m_Karabekir)___ liderliğinde ___E:Terakkiperver Cumhuriyet Fırkası U:(https://tr.wikipedia.org/wiki/Terakkiperver_Cumhuriyet_F%C4%B1rkas%C4%B1)___ 'nı kurdu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#24",
+            "sentence": "Terakkiperver Cumhuriyet Fırkası, ___E:Şeyh Said İsyanı U:(https://tr.wikipedia.org/wiki/%C5%9Eeyh_Said_%C4%B0syan%C4%B1)___ 'na karışmak ve Atatürk'e suikast planlamakla suçlandı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#25",
+            "sentence": "Başbakan İnönü, hükûmete olağanüstü yetkiler veren bir yasa sundu ve sıkıyönetim ilan edildi, CHP dışındaki tüm siyasi partiler yasaklandı, devlet onayı olmayan gazetelerin yayımlanması yasaklandı (bu yasak 1930'a kadar sürdü)."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#26",
+            "sentence": "Türkiye, ___E:Serbest Cumhuriyet Fırkası U:(https://tr.wikipedia.org/wiki/Serbest_Cumhuriyet_F%C4%B1rkas%C4%B1)___ 'nın kurulduğu dönem dışında 1946 yılına kadar ___E:tek partili rejimde U:(https://tr.wikipedia.org/wiki/Tek_parti_rejimi)___ yönetildi. 1923'ten 1946'ya kadar, CHP Türkiye'yi dönüştüren kapsamlı ___E:sosyal U:(https://tr.wikipedia.org/wiki/Sosyoloji)___ , ___E:kültürel U:(https://tr.wikipedia.org/wiki/K%C3%BClt%C3%BCr)___ , ___E:ekonomik U:(https://tr.wikipedia.org/wiki/Ekonomi)___ ve ___E:hukuki U:(https://tr.wikipedia.org/wiki/Hukuk)___ reformlar başlattı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#27",
+            "sentence": "Bu reformlar arasında İsviçre ve İtalyan hukuk ve ceza kanunlarının benimsenmesi, sanayileşmenin hızlandırılması, ___E:toprak reformu U:(https://tr.wikipedia.org/wiki/Toprak_reformu)___ ve kırsal kalkınma programları, ___E:iskân kanunu U:(https://tr.wikipedia.org/wiki/%C4%B0sk%C3%A2n_Kanunu_(1934))___ , ___E:laiklik U:(https://tr.wikipedia.org/wiki/Laiklik)___ , ___E:kadınların seçme ve seçilme hakkı U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_kad%C4%B1nlara_se%C3%A7me_ve_se%C3%A7ilme_hakk%C4%B1n%C4%B1n_tan%C4%B1nmas%C4%B1)___ ve ___E:Latin harflerine U:(https://tr.wikipedia.org/wiki/Latin_harfleri)___ geçilmesini sağlayan ___E:Harf Devrimi U:(https://tr.wikipedia.org/wiki/Harf_Devrimi)___ gibi birçok adım bulunuyordu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#28",
+            "sentence": "Bu dönemde ___E:ulus inşasına U:(https://tr.wikipedia.org/wiki/Ulus_in%C5%9Fas%C4%B1)___ öncelik verildi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#29",
+            "sentence": "Bu süreçte ___E:milliyetçilik U:(https://tr.wikipedia.org/wiki/Atat%C3%BCrk_milliyet%C3%A7ili%C4%9Fi)___ ilkesinin benimsenmesi, ___E:Dil Devrimi U:(https://tr.wikipedia.org/wiki/Dil_Devrimi)___ ve ___E:sözdebilimsel U:(https://tr.wikipedia.org/wiki/S%C3%B6zdebilim)___ teorilerin ( ___E:Güneş-Dil Teorisi U:(https://tr.wikipedia.org/wiki/G%C3%BCne%C5%9F-Dil_Teorisi)___ ve ___E:Türk Tarih Tezi U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Tarih_Tezi)___ ) ortaya konulmasıyla ___E:Türk milliyetçiliği U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_milliyet%C3%A7ili%C4%9Fi)___ ideolojisi yayıldı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#30",
+            "sentence": "Partinin 1927'deki ikinci olağan kongresinde, Atatürk Türk tarihindeki son on yılın belirleyiciliğine bir konuşma yaparak gençlere Cumhuriyet'i koruma çağrısında bulundu. ___E:Atatürk kişi kültünün U:(https://tr.wikipedia.org/wiki/Atat%C3%BCrk_ki%C5%9Fi_k%C3%BClt%C3%BC)___ tarihsel yazımının temelini bu anlatı oluşturduğu öne sürülmüştür.  1930-1939 yılları arasında, CHP ideolojisini netleştirdi ve \" ___E:Altı Ok U:(https://tr.wikipedia.org/wiki/Alt%C4%B1_Ok)___ \" duyuruldu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#31",
+            "sentence": "Bu dönemde parti tarihsel görüşlerden ayrılarak ___E:cumhuriyetçilik U:(https://tr.wikipedia.org/wiki/Cumhuriyet%C3%A7ilik)___ , ___E:milliyetçilik U:(https://tr.wikipedia.org/wiki/Milliyet%C3%A7ilik)___ , ___E:laiklik U:(https://tr.wikipedia.org/wiki/Laiklik)___ , ___E:devrimcilik U:(https://tr.wikipedia.org/wiki/Devrimcilik)___ , ___E:halkçılık U:(https://tr.wikipedia.org/wiki/Halk%C3%A7%C4%B1l%C4%B1k)___ ve ___E:devletçilik U:(https://tr.wikipedia.org/wiki/Devlet%C3%A7ilik)___ ilkelerini benimsedi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#32",
+            "sentence": "29 Mayıs 1935 tarihinde toplanan ___E:4. Kurultay U:(https://tr.wikipedia.org/w/index.php?title=Cumhuriyet_Halk_Partisi_4._Ola%C4%9Fan_Kurultay%C4%B1&action=edit&redlink=1)___ 'da partinin adı, Dil Devrimi doğrultusunda Cumhuriyet Halk Partisi olarak değiştirildi.  18 Haziran 1936 tarihinde yayımlanan bir genelgeyle bütün illerde parti il başkanlığı valilikle birleştirildi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#33",
+            "sentence": "İçişleri bakanı, parti genel sekreterliği sıfatını üstlendi. 5 Şubat 1937 tarihinde yapılan anayasa değişikliğiyle, CHP'nin \"Altı Ok\"u ___E:Türkiye Cumhuriyeti Anayasası U:(https://tr.wikipedia.org/wiki/Te%C5%9Fk%C3%AEl%C3%A2t-%C4%B1_Es%C3%A2siye_Kanunu_(1924))___ 'na resmen dahil edildi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#34",
+            "sentence": "___E:Büyük Buhran U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Buhran)___ 'ın başlamasıyla birlikte, parti, Başbakan İnönü ve maliye bakanı ___E:Celal Bayar U:(https://tr.wikipedia.org/wiki/Cel%C3%A2l_Bayar)___ tarafından savunulan devletçi ve liberal fraksiyonlara ayrıldı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#35",
+            "sentence": "Atatürk genellikle İsmet İnönü'nün politikalarını destekledi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#36",
+            "sentence": "Türkiye'nin erken dönemde ekonomik gelişimi büyük ölçüde devlet girişimleriyle sağlandı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#37",
+            "sentence": "___E:Atatürk'ün ölümünden U:(https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk%27%C3%BCn_%C3%B6l%C3%BCm%C3%BC_ve_devlet_cenaze_t%C3%B6reni)___ bir gün sonra, ___E:İsmet İnönü U:(https://tr.wikipedia.org/wiki/%C4%B0smet_%C4%B0n%C3%B6n%C3%BC)___ ikinci cumhurbaşkanı seçildi ve Cumhuriyet Halk Partisi'nin liderliğini üstlendi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#38",
+            "sentence": "İnönü döneminde, ekonomiye devlet müdahalesi politikası benimsendi ve ___E:Köy Enstitüleri U:(https://tr.wikipedia.org/wiki/K%C3%B6y_enstit%C3%BCs%C3%BC)___ gibi kırsal kalkınma girişimleri yapıldı. ___E:Hatay Devleti U:(https://tr.wikipedia.org/wiki/Hatay_Devleti)___ referandum sonucu anavatana katıldı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#39",
+            "sentence": "İnönü, Türkiye'yi ___E:II. Dünya Savaşı U:(https://tr.wikipedia.org/wiki/II._D%C3%BCnya_Sava%C5%9F%C4%B1)___ 'na çekmeye çalışan ___E:Müttefik U:(https://tr.wikipedia.org/wiki/M%C3%BCttefik_Devletler)___ ve ___E:Mihver U:(https://tr.wikipedia.org/wiki/Mihver_Devletleri)___ güçlerine rağmen tarafsızlık politikası benimsedi; bu süreçte, silahlı bir güç olarak tarafsızlığı sağlamak için ___E:zorunlu askerlik U:(https://tr.wikipedia.org/wiki/Zorunlu_askerlik)___ ve kısıtlama önlemleri uygulandı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#40",
+            "sentence": "Savaşın ilerleyen sürecinde, ___E:Irkçılık-Turancılık Davası U:(https://tr.wikipedia.org/wiki/Irk%C3%A7%C4%B1l%C4%B1k-Turanc%C4%B1l%C4%B1k_Davas%C4%B1)___ 'yla beraber ___E:Pan-Türkistler U:(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7%C3%BCl%C3%BCk)___ partiden uzaklaştırıldı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#41",
+            "sentence": "___E:II. Dünya Savaşı U:(https://tr.wikipedia.org/wiki/II._D%C3%BCnya_Sava%C5%9F%C4%B1)___ 'nın ardından İnönü, Türkiye'nin demokratikleşmesini sağlamaya çalıştı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#42",
+            "sentence": "Savaşın sona ermesiyle birlikte, liberal ve devletçi fraksiyonlar arasındaki tartışmalar yeniden ortaya çıktı. ___E:Dörtlü Takrir U:(https://tr.wikipedia.org/wiki/D%C3%B6rtl%C3%BC_Takrir)___ , özellikle Celal Bayar olmak üzere bazı CHP üyelerinin istifasına neden oldu; Bayar daha sonra ___E:Demokrat Parti U:(https://tr.wikipedia.org/wiki/Demokrat_Parti_(1946))___ (DP)'yi kurdu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#43",
+            "sentence": "İnönü, 1946'da çok partili genel seçim düzenleme kararı aldı. CHP 465 sandalyenin 397'sini kazandı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#44",
+            "sentence": "Demokrat Parti'nin muhalefeti ve ___E:Amerika Birleşik Devletleri U:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)___ 'nin çabalarıyla, parti komünizme karşı bir tavır aldı ve bazı kırsal kalkınma programlarını durdurdu.   1946-1950 yılları arasındaki dönem, İnönü'nün Türkiye'yi Batı ile yakınlaştırdığı bir dönemdir.   ___E:1950 U:(https://tr.wikipedia.org/wiki/1950_T%C3%BCrkiye_genel_se%C3%A7imleri)___ yılında gizli oy açık tasnif ilkesiyle seçimler düzenlendi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#45",
+            "sentence": "İnönü, iktidarın barışçıl bir şekilde değiştirilmesine liderlik etti. 1950 seçimlerinden bu yana, parti parlamentodaki salt çoğunluğu kazanamamıştır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#46",
+            "sentence": "1950'lerde uygulanan ___E:çoğunluk sisteminden U:(https://tr.wikipedia.org/wiki/%C3%87o%C4%9Funluk_sistemi)___ dolayı, DP nispeten yakın oy oranları almasına rağmen açık ara farkla meclisi kazandı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#47",
+            "sentence": "Bu durum CHP'nin 10 yıl boyunca muhalefette kalmasına neden oldu. Bu süre zarfında, parti politikaları dönüşüm geçirerek ___E:sosyal demokrasiye U:(https://tr.wikipedia.org/wiki/Sosyal_demokrasi)___ doğru yöneldi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#48",
+            "sentence": "İsmet İnönü, iktidarı kaybetmeden önce işçi haklarını yasalaştırdı. 1951'deki ___E:dokuzuncu kurultayda U:(https://tr.wikipedia.org/w/index.php?title=Cumhuriyet_Halk_Partisi_9._Ola%C4%9Fan_Kurultay%C4%B1&action=edit&redlink=1)___ gençlik ve kadın kolları kuruldu. 1953'te sendikaların ve meslek odalarının kurulması önerildi ve partinin programına iki meclisli bir parlamento, anayasa mahkemesinin kurulması, seçim güvenliği, yargı bağımsızlığı ve işçilerin grev hakkı gibi konuların desteklenmesi eklendi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#49",
+            "sentence": "DP ve CHP rakip olsalar da DP iktidarı çoğunlukla ___E:Kemalist U:(https://tr.wikipedia.org/wiki/Kemalizm)___ politikaları sürdürdü."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#50",
+            "sentence": "Ancak Demokrat Parti yönetimi iktidarının sonlarına doğru giderek otoriterleşti."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#51",
+            "sentence": "İnönü, DP taraftarları tarafından defalarca linç girişimine maruz kaldı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#52",
+            "sentence": "DP hükûmeti CHP'ye ait mal varlıklarına el koydu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#53",
+            "sentence": "CHP'nin ___E:1957 seçimlerinde U:(https://tr.wikipedia.org/wiki/1957_T%C3%BCrkiye_genel_se%C3%A7imleri)___ muhalefet partileriyle seçim ittifakı kurmasını engellendi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#54",
+            "sentence": "Süreci takiben ___E:27 Mayıs 1960 U:(https://tr.wikipedia.org/wiki/27_May%C4%B1s_Darbesi)___ tarihinde Türkiye tarihinde ilk askeri darbe yapıldı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#55",
+            "sentence": "Askeri yönetim döneminde DP kapatıldı ve Başbakan ___E:Adnan Menderes U:(https://tr.wikipedia.org/wiki/Adnan_Menderes)___ idam edildi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#56",
+            "sentence": "DP'nin politikalarını izleyen siyasi oluşumlar o dönemden beri CHP'yi Menderes'in idamına ilişkin algılanan rolü nedeniyle eleştirmektedir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#57",
+            "sentence": "CHP ___E:1961 seçimlerinden U:(https://tr.wikipedia.org/wiki/1961_T%C3%BCrkiye_genel_se%C3%A7imleri)___ birinci parti olarak çıktı ve DP'nin halefi ___E:Adalet Partisi U:(https://tr.wikipedia.org/wiki/Adalet_Partisi_(1961-1981))___ ile koalisyon kurdu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#58",
+            "sentence": "Türkiye'de kurulan ilk koalisyon hükûmeti yedi ay görev yaptı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#59",
+            "sentence": "İnönü ___E:1965 seçimlerine U:(https://tr.wikipedia.org/wiki/1965_T%C3%BCrkiye_genel_se%C3%A7imleri)___ kadar diğer iki kere daha hükûmet kurdu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#60",
+            "sentence": "Dönemin çalışma bakanı ___E:Bülent Ecevit U:(https://tr.wikipedia.org/wiki/B%C3%BClent_Ecevit)___ , işçilere grev hakkı ve toplu sözleşme hakkı tanımada etkili oldu, partideki ___E:Demokratik Sol U:(https://tr.wikipedia.org/wiki/Demokratik_sol)___ hareketin lideri olarak, CHP'nin ___E:Ortanın solu U:(https://tr.wikipedia.org/wiki/Ortan%C4%B1n_solu)___ programını benimsemesine katkıda bulundu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#61",
+            "sentence": "İnönü'nün Ecevit'in politikalarını desteklemesinin ardından ___E:Turhan Feyzioğlu U:(https://tr.wikipedia.org/wiki/Turhan_Feyzio%C4%9Flu)___ CHP'den ayrılarak ___E:Güven Partisi U:(https://tr.wikipedia.org/wiki/Cumhuriyet%C3%A7i_G%C3%BCven_Partisi)___ 'ni kurdu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#62",
+            "sentence": "Ecevit'i neden desteklediği sorulduğunda İnönü \"Aslında ___E:laikiz U:(https://tr.wikipedia.org/wiki/Laiklik)___ dediğimiz günden beri ortanın solundayız\" şeklinde yanıt verdi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#63",
+            "sentence": "Feyzioğlu'nun ayrılmasıyla CHP ___E:1969 seçimlerine U:(https://tr.wikipedia.org/wiki/1969_T%C3%BCrkiye_genel_se%C3%A7imleri)___ ___E:merkez sol U:(https://tr.wikipedia.org/wiki/Merkez_sol)___ bir programla katıldı, ancak partiye olan algı nedeniyle benzer bir sonuç elde etti; Bu algıya göre parti öncelikle eğitimli kentsel elitlere hitap ediyordu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#64",
+            "sentence": "İnönü muhalefet lideri ve CHP'nin lideri olarak 8 Mayıs 1972'ye kadar görev yaptı, ancak ___E:1971 Muhtırası U:(https://tr.wikipedia.org/wiki/12_Mart_Muht%C4%B1ras%C4%B1)___ 'na yaklaşımı nedeniyle yerine ___E:kurultayda U:(https://tr.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi_6._Ola%C4%9Fan%C3%BCst%C3%BC_Kurultay%C4%B1)___ ___E:Ecevit U:(https://tr.wikipedia.org/wiki/B%C3%BClent_Ecevit)___ seçildi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#65",
+            "sentence": "Ecevit belirgin olarak ___E:sol U:(https://tr.wikipedia.org/wiki/Solculuk)___ siyasi politikaları benimsedi. ___E:1973 seçimlerine U:(https://tr.wikipedia.org/wiki/1973_T%C3%BCrkiye_genel_se%C3%A7imleri)___ Ecevit'in liderliğinde katılan CHP seçimlerden zaferle ayrıldı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#66",
+            "sentence": "CHP- ___E:MSP U:(https://tr.wikipedia.org/wiki/Mill%C3%AE_Selamet_Partisi)___ ___E:koalisyonu U:(https://tr.wikipedia.org/wiki/37._T%C3%BCrkiye_H%C3%BCk%C3%BBmeti)___ kuruldu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#67",
+            "sentence": "Bu dönemde ___E:Kıbrıs'a müdahale U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_K%C4%B1br%C4%B1s_%C3%A7%C4%B1karmas%C4%B1)___ kararı alındı. 1970'lerde parti, yoğun kutuplaşma döneminde ve siyasi şiddet atmosferinde sendikalar ve solcu gruplarla ilişkilerini sağlamlaştırdı. ___E:1977 U:(https://tr.wikipedia.org/wiki/1977_T%C3%BCrkiye_genel_se%C3%A7imleri)___ 'de CHP Ecevit döneminde çok partili siyasi tarihinin en yüksek oy oranını alarak %41'i yakaladı, ancak hükûmeti kurmak için yeterli çoğunluğu sağlayamadı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#68",
+            "sentence": "Ecevit ve rakibi ___E:Süleyman Demirel U:(https://tr.wikipedia.org/wiki/S%C3%BCleyman_Demirel)___ siyasi istikrarsızlık döneminde sürekli ardı ardına hükûmetler kurdu. ___E:1980 Askeri Darbesi U:(https://tr.wikipedia.org/wiki/12_Eyl%C3%BCl_Darbesi)___ bu durumu sona erdirdi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#69",
+            "sentence": "Bu dönemde tüm siyasi partiler kapatıldı ve önceki dönem siyasetçilerin siyaset yapması yasaklandı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#70",
+            "sentence": "1981 yılında Cumhuriyet Halk Partisi diğer tüm siyasi partilerle beraber kapatıldı. 1981 yılında kapatılan siyasi partilerin adı ve kısaltması ile yeni siyasi parti kurulamadı. 1985'e gelindiğinde CHP'nin halefi olan ___E:Halkçı Parti U:(https://tr.wikipedia.org/wiki/Halk%C3%A7%C4%B1_Parti)___ (HP) ve ___E:Sosyal Demokrasi Partisi U:(https://tr.wikipedia.org/wiki/Sosyal_Demokrasi_Partisi)___ (SODEP) birleşerek ___E:Sosyaldemokrat Halkçı Parti U:(https://tr.wikipedia.org/wiki/Sosyaldemokrat_Halk%C3%A7%C4%B1_Parti)___ 'yi (SHP) oluşturdu, ___E:Bülent Ecevit U:(https://tr.wikipedia.org/wiki/B%C3%BClent_Ecevit)___ 'in eşi ___E:Rahşan Ecevit U:(https://tr.wikipedia.org/wiki/Rah%C5%9Fan_Ecevit)___ ise ___E:Demokratik Sol Parti U:(https://tr.wikipedia.org/wiki/Demokratik_Sol_Parti)___ 'yi (DSP) kurdu.  ___E:İsmet İnönü U:(https://tr.wikipedia.org/wiki/%C4%B0smet_%C4%B0n%C3%B6n%C3%BC)___ 'nün oğlu ___E:Erdal İnönü U:(https://tr.wikipedia.org/wiki/Erdal_%C4%B0n%C3%B6n%C3%BC)___ ise daha sonradan ___E:Sosyaldemokrat Halkçı Parti U:(https://tr.wikipedia.org/wiki/Sosyaldemokrat_Halk%C3%A7%C4%B1_Parti)___ (SHP) genel başkanı oldu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#71",
+            "sentence": "1980 öncesi siyasetçilerin siyasi yasaklarının kaldırılmasının ardından ___E:Deniz Baykal U:(https://tr.wikipedia.org/wiki/Deniz_Baykal)___ ve parti kapatılmadan önce parti yönetimini oluşturan isimler isim hakları konusundaki yasağın kaldırılmasıyla beraber Cumhuriyet Halk Partisi'ni 1992'de yeniden faaliyete geçirdi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#72",
+            "sentence": "Ayrıca parti ___E:Anayasa Mahkemesi U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti_Anayasa_Mahkemesi)___ 'nin kararıyla birlikte 1981 yılında Hazine'ye devredilen varlıklarını geri aldı.  SHP 1995'te CHP'yle birleşti."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#73",
+            "sentence": "1991'den 1996'ya kadar ___E:SHP U:(https://tr.wikipedia.org/wiki/Sosyaldemokrat_Halk%C3%A7%C4%B1_Parti)___ ve ardından CHP, ___E:DYP U:(https://tr.wikipedia.org/wiki/Do%C4%9Fru_Yol_Partisi)___ ile ___E:koalisyon U:(https://tr.wikipedia.org/wiki/49._T%C3%BCrkiye_H%C3%BCk%C3%BBmeti)___ ___E:hükûmet U:(https://tr.wikipedia.org/wiki/50._T%C3%BCrkiye_H%C3%BCk%C3%BBmeti)___ ___E:lerinde U:(https://tr.wikipedia.org/wiki/52._T%C3%BCrkiye_H%C3%BCk%C3%BBmeti)___ yer aldı. ___E:28 Şubat Süreci U:(https://tr.wikipedia.org/wiki/28_%C5%9Eubat_S%C3%BCreci)___ 'nde ___E:Necmettin Erbakan U:(https://tr.wikipedia.org/wiki/Necmettin_Erbakan)___ 'ın başbakanlıktan istifa etmesinin ardından Baykal, ___E:Mesut Yılmaz U:(https://tr.wikipedia.org/wiki/Mesut_Y%C4%B1lmaz)___ 'ın ___E:koalisyon hükûmetini U:(https://tr.wikipedia.org/wiki/55._T%C3%BCrkiye_H%C3%BCk%C3%BBmeti)___ destekledi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#74",
+            "sentence": "Kasım 1998'de ___E:Türkbank skandalı U:(https://tr.wikipedia.org/wiki/T%C3%BCrkbank_skandal%C4%B1)___ sırasında ___E:Mesut Yılmaz U:(https://tr.wikipedia.org/wiki/Mesut_Y%C4%B1lmaz)___ tartışmaya açılınca CHP hükûmete gensoru verdi ve koalisyonu düşürdü. ___E:1999 genel seçimlerinde U:(https://tr.wikipedia.org/wiki/1999_T%C3%BCrkiye_genel_se%C3%A7imleri)___ CHP %8.71 oy alarak tarihinde ilk kez baraj altında kaldı. ___E:Baykal U:(https://tr.wikipedia.org/wiki/Deniz_Baykal)___ seçim yenilgisinden kendinin sorumlu olduğunu belirterek 22 Nisan 1999'da genel başkanlıktan istifa etti."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#75",
+            "sentence": "___E:3 Kasım 2002 genel seçimlerinde U:(https://tr.wikipedia.org/wiki/2002_T%C3%BCrkiye_genel_se%C3%A7imleri)___ ___E:Recep Tayyip Erdoğan U:(https://tr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan)___ liderliğinde ___E:Adalet ve Kalkınma Partisi U:(https://tr.wikipedia.org/wiki/Adalet_ve_Kalk%C4%B1nma_Partisi)___ tek başına iktidara geldi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#76",
+            "sentence": "AK Parti seçimlerde %34.4 oy oranıyla 363 milletvekilliği kazanırken CHP %19.39'la 178 milletvekilliğinde kaldı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#77",
+            "sentence": "Kalan milletvekilliklerini bağımsızlar kazandı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#78",
+            "sentence": "Diğer partilerin hiçbiri %10 barajını aşamadı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#79",
+            "sentence": "Cumhuriyet Halk Partisi, 2002 seçimleriyle beraber ana muhalefet partisi oldu ve o seçimlerden beri bu konumunu korudu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#80",
+            "sentence": "___E:2007 cumhurbaşkanlığı seçimleri U:(https://tr.wikipedia.org/wiki/2007_T%C3%BCrkiye_genel_se%C3%A7imleri)___ , CHP'li ve ___E:AK Partili U:(https://tr.wikipedia.org/wiki/Adalet_ve_Kalk%C4%B1nma_Partisi)___ politikacılar arasındaki gerilimlerin doruğa çıkmasıyla bir siyasi krize dönüştü."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#81",
+            "sentence": "Baykal döneminde CHP, ordu ve yargının \"demokratik olmayan\" girişimlerine destek verdi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#82",
+            "sentence": "Cumhurbaşkanı adayı ___E:Abdullah Gül U:(https://tr.wikipedia.org/wiki/Abdullah_G%C3%BCl)___ 'e karşı ortaya çıkan protestolar; Gül'ün İslamcı siyaset geçmişi ve eşinin başörtüsü takması gibi popüler nedenlerle düzenlendi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#83",
+            "sentence": "CHP'nin seçimi boykot etmesiyle beraber 367 Krizi çıktı. ___E:E-muhtıra U:(https://tr.wikipedia.org/wiki/E-muht%C4%B1ra)___ yayınlandı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#84",
+            "sentence": "Olayların ardından erken seçim kararı alındı ve Anayasa'da bazı değişiklikler yapıldı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#85",
+            "sentence": "Cumhurbaşkanının meclis tarafından değil, halk tarafından iki turlu oylamayla seçilmesi kararlaştırıldı; yedi yıl olan görev süresi beş yıla düşürülerek, iki kez seçilebilmesinin önü açıldı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#86",
+            "sentence": "Anayasa değişiklikleri, 21 Ekim 2007 tarihinde yapılan ___E:halk oylamasında U:(https://tr.wikipedia.org/wiki/2007_T%C3%BCrkiye_anayasa_de%C4%9Fi%C5%9Fikli%C4%9Fi_referandumu)___ , %68,95'lik kabul oyuyla yürürlüğe girdi.   ___E:28 Ağustos 2007 tarihinde U:(https://tr.wikipedia.org/wiki/2007_T%C3%BCrkiye_cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1_se%C3%A7imi)___ Abdullah Gül Türkiye'nin 11. cumhurbaşkanı seçildi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#87",
+            "sentence": "Yemin töreni CHP ve ___E:Genelkurmay Başkanı U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Silahl%C4%B1_Kuvvetleri_genelkurmay_ba%C5%9Fkanlar%C4%B1_listesi)___ ___E:Orgeneral U:(https://tr.wikipedia.org/wiki/Orgeneral)___ ___E:Yaşar Büyükanıt U:(https://tr.wikipedia.org/wiki/Ya%C5%9Far_B%C3%BCy%C3%BCkan%C4%B1t)___ tarafından boykot edildi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#88",
+            "sentence": "2002 ve 2010 yılları arasında Türkiye'de iki ___E:genel U:(https://tr.wikipedia.org/wiki/2002_T%C3%BCrkiye_genel_se%C3%A7imleri)___ ___E:seçim U:(https://tr.wikipedia.org/wiki/2007_T%C3%BCrkiye_genel_se%C3%A7imleri)___ ve iki ___E:yerel U:(https://tr.wikipedia.org/wiki/2004_T%C3%BCrkiye_yerel_se%C3%A7imleri)___ ___E:seçim U:(https://tr.wikipedia.org/wiki/2009_T%C3%BCrkiye_yerel_se%C3%A7imleri)___ yapılmış ve bu seçimlerin tamamında CHP %18 ila %23 arasında oy almıştır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#89",
+            "sentence": "Baykal bir ___E:kasetin U:(https://tr.wikipedia.org/wiki/Deniz_Baykal_kaset_skandal%C4%B1)___ internete sızdırılmasının ardından parti genel başkanlığından istifa ettiğini açıkladı. ___E:22 Mayıs 2010 U:(https://tr.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi_33._Ola%C4%9Fan_Kurultay%C4%B1)___ tarihinde ___E:Kemal Kılıçdaroğlu U:(https://tr.wikipedia.org/wiki/Kemal_K%C4%B1l%C4%B1%C3%A7daro%C4%9Flu)___ yeni parti lideri olarak seçildi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#90",
+            "sentence": "Kılıçdaroğlu CHP'yi geleneksel ___E:sosyal demokrat U:(https://tr.wikipedia.org/wiki/Sosyal_demokrasi)___ imajına geri döndürdü ve partinin ___E:laik U:(https://tr.wikipedia.org/wiki/Laiklik)___ - ___E:muhafazakar U:(https://tr.wikipedia.org/wiki/Muhafazak%C3%A2rl%C4%B1k)___ karakterini bir kenara bıraktı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#91",
+            "sentence": "Kılıçdaroğlu, dindar seçmenler ve Kürtler arasında bir köprü kurmak üzerine politika yürüttü."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#92",
+            "sentence": "Kılıçdaroğlu liderliğindeki CHP, beş seçim boyunca milletvekili seçimlerinde %22 ila %26 arasında oy aldı. Parti ___E:2010 anayasa referandumunda U:(https://tr.wikipedia.org/wiki/2010_T%C3%BCrkiye_anayasa_de%C4%9Fi%C5%9Fikli%C4%9Fi_referandumu)___ \"hayır\" kampanyasını destekledi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#93",
+            "sentence": "Kılıçdaroğlu liderliğinde girilen ___E:2011'deki ilk seçimde U:(https://tr.wikipedia.org/wiki/2011_T%C3%BCrkiye_genel_se%C3%A7imleri)___ partinin desteği %25'e çıktı, ancak bu oy oranı partinin seçimleri kazanması için yeterli olmadı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#94",
+            "sentence": "Kılıçdaroğlu döneminde CHP, ___E:2013 Gezi Parkı protestolarına U:(https://tr.wikipedia.org/wiki/Gezi_Park%C4%B1_olaylar%C4%B1)___ büyük bir destek verdi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#95",
+            "sentence": "İlk doğrudan cumhurbaşkanlığı seçimi olan ___E:2014 cumhurbaşkanlığı seçimi U:(https://tr.wikipedia.org/wiki/2014_T%C3%BCrkiye_cumhurba%C5%9Fkanl%C4%B1%C4%9F%C4%B1_se%C3%A7imi)___ , ___E:2013 Türkiye yolsuzluk skandalının U:(https://tr.wikipedia.org/wiki/17-25_Aral%C4%B1k_Yolsuzluk_ve_R%C3%BC%C5%9Fvet_Operasyonu)___ ardından gerçekleştirildi. ___E:Recep Tayyip Erdoğan U:(https://tr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan)___ ile yarışan CHP ve ___E:MHP U:(https://tr.wikipedia.org/wiki/Milliyet%C3%A7i_Hareket_Partisi)___ 'nin ortak adayı ___E:Ekmeleddin İhsanoğlu U:(https://tr.wikipedia.org/wiki/Ekmeleddin_%C4%B0hsano%C4%9Flu)___ %38 oy alarak seçimleri birinci turda kaybetti. ___E:Haziran 2015 genel seçimlerinde U:(https://tr.wikipedia.org/wiki/Haziran_2015_T%C3%BCrkiye_genel_se%C3%A7imleri)___ , ___E:Halkların Demokratik Partisi U:(https://tr.wikipedia.org/wiki/Halklar%C4%B1n_Demokratik_Partisi)___ (HDP) barajı aşarak ___E:AK Parti U:(https://tr.wikipedia.org/wiki/Adalet_ve_Kalk%C4%B1nma_Partisi)___ 'nin meclis çoğunluğunu kaybetmesine neden oldu.  Seçimlerin ardından koalisyon görüşmeleri başarısız oldu. MHP, CHP liderliğindeki bir hükûmette HDP ile birlikte yer almayı reddetti."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#96",
+            "sentence": "CHP ise haftalar süren müzakerelerin ardından AK Parti ile hükûmet kurmayı reddetti. ___E:Kasım ayında yapılan erken seçimde U:(https://tr.wikipedia.org/wiki/Kas%C4%B1m_2015_T%C3%BCrkiye_genel_se%C3%A7imleri)___ AK Parti meclis çoğunluğunu yeniden kazandı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#97",
+            "sentence": "Kılıçdaroğlu döneminde parti, ___E:2017 anayasa referandumunda U:(https://tr.wikipedia.org/wiki/2017_T%C3%BCrkiye_anayasa_de%C4%9Fi%C5%9Fikli%C4%9Fi_referandumu)___ \"hayır\" kampanyasına öncülük etmiştir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#98",
+            "sentence": "2017'ye gelindiğinde, MHP'den ayrılan muhalifler ___E:İYİ Parti U:(https://tr.wikipedia.org/wiki/%C4%B0Y%C4%B0_Parti)___ 'yi kurdu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#99",
+            "sentence": "Kılıçdaroğlu İYİ Parti'nin seçimlere katılması için 15 milletvekili transfer ederek yeni partinin yükselişini kolaylaştırdı. ___E:2018 genel seçiminde U:(https://tr.wikipedia.org/wiki/2018_T%C3%BCrkiye_genel_se%C3%A7imleri)___ CHP, İYİ Parti, ___E:Saadet Partisi U:(https://tr.wikipedia.org/wiki/Saadet_Partisi)___ ve ___E:Demokrat Parti U:(https://tr.wikipedia.org/wiki/Demokrat_Parti_(2007))___ , AK Parti ve MHP'den oluşan ___E:Cumhur İttifakı U:(https://tr.wikipedia.org/wiki/Cumhur_%C4%B0ttifak%C4%B1)___ 'na karşı ___E:Millet İttifakı U:(https://tr.wikipedia.org/wiki/Millet_%C4%B0ttifak%C4%B1)___ 'nı kurdu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#100",
+            "sentence": "CHP'nin oy oranının %22 olmasına rağmen, Millet İttifakı toplamda %33 oy aldı. CHP'nin cumhurbaşkanı adayı ___E:Muharrem İnce U:(https://tr.wikipedia.org/wiki/Muharrem_%C4%B0nce)___ %30 oy alarak seçimleri ilk turda kaybetti."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#101",
+            "sentence": "Millet İttifakı, CHP'nin büyük kazançlar elde ettiği ___E:2019 yerel seçimleri U:(https://tr.wikipedia.org/wiki/2019_T%C3%BCrkiye_yerel_se%C3%A7imleri)___ için yeniden kuruldu, bu seçimde CHP'nin neredeyse %30 oy aldığı görüldü."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#102",
+            "sentence": "Diğer siyasi partilerle yapılan ittifak, CHP'nin ___E:İstanbul U:(https://tr.wikipedia.org/wiki/2019_%C4%B0stanbul_ara_yerel_se%C3%A7imi)___ ve ___E:Ankara U:(https://tr.wikipedia.org/wiki/Ankara%27da_2019_T%C3%BCrkiye_yerel_se%C3%A7imleri)___ 'yı 25 yılın ardından kazanmasını sağladı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#103",
+            "sentence": "Kılıçdaroğlu, ___E:2023 cumhurbaşkanlığı seçimi U:(https://tr.wikipedia.org/wiki/2023_T%C3%BCrkiye_genel_se%C3%A7imleri)___ için CHP ve ___E:Millet İttifakı U:(https://tr.wikipedia.org/wiki/Millet_%C4%B0ttifak%C4%B1)___ 'nın adayı olarak gösterildi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#104",
+            "sentence": "İstanbul ve Ankara büyükşehir belediye başkanları ___E:Ekrem İmamoğlu U:(https://tr.wikipedia.org/wiki/Ekrem_%C4%B0mamo%C4%9Flu)___ ve ___E:Mansur Yavaş U:(https://tr.wikipedia.org/wiki/Mansur_Yava%C5%9F)___ , Millet İttifakı'ndaki diğer parti liderleriyle birlikte cumhurbaşkanı yardımcısı adaylığıyla kampanyaya dahil oldu. ___E:Ekonomik krize U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_ekonomik_krizi_(2018-g%C3%BCn%C3%BCm%C3%BCz))___ , ___E:COVID-19 pandemisinin U:(https://tr.wikipedia.org/wiki/COVID-19_pandemisi)___ yönetim şeklinde ve ___E:Kahramanmaraş depremlerine U:(https://tr.wikipedia.org/wiki/2023_Kahramanmara%C5%9F_depremleri)___ rağmen, Kılıçdaroğlu, ikinci turda oyların %48'ini alarak Erdoğan'a karşı seçimleri kaybetti."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#105",
+            "sentence": "Millet İttifakı, iktidardaki Cumhur İttifakı'na karşı parlamentoda azınlık kaldı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#106",
+            "sentence": "Seçimden sonra düzenlenen ___E:38. Olağan Kurultay U:(https://tr.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi_38._Ola%C4%9Fan_Kurultay%C4%B1)___ 'da, ___E:Özgür Özel U:(https://tr.wikipedia.org/wiki/%C3%96zg%C3%BCr_%C3%96zel)___ , 2010'dan beri bu görevi sürdüren Kılıçdaroğlu'nu yenerek CHP'nin genel başkanı seçildi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#107",
+            "sentence": "Özel, 5 Kasım 2023 tarihinde gerçekleştirilen ___E:kurultayda U:(https://tr.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi_38._Ola%C4%9Fan_Kurultay%C4%B1)___ Kemal Kılıçdaroğlu karşısında 2. turda 812 oy ile CHP genel başkanı seçildi."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#108",
+            "sentence": "Parti tarihinde mevcut genel başkanın aday olduğu bir kurultayda ilk kez genel başkan değişimi yapılmış oldu. 6 Kasım 2023'te Özel, \"Erdoğan'ın stresini anladığını ve bundan sonra her geçen günün Erdoğan için daha zor, kendileri için daha moralli olacağını\" belirterek, \"Cumhuriyet Halk Partisi'nden endişe etmeye devam etsin\" şeklinde bir cümle kurdu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#109",
+            "sentence": "Özgür Özel, 11 Kasım 2023 tarihinde Türkiye'de ana muhalefet partisi tarafından ilk kez kurulan ' ___E:gölge kabine U:(https://tr.wikipedia.org/wiki/G%C3%B6lge_Kabine_(T%C3%BCrkiye))___ ' yapısını duyurarak ___E:I. Türkiye Gölge Kabinesi U:(https://tr.wikipedia.org/wiki/%C3%96zel_G%C3%B6lge_Kabinesi)___ 'ni MYK üyeleri arasından kurdu."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#110",
+            "sentence": "2024 yılında Özgür Özel liderliğinde parti, ___E:46 yıl aradan sonra U:(https://tr.wikipedia.org/wiki/1977_T%C3%BCrkiye_yerel_se%C3%A7imleri)___ birinci parti oldu ve ülke genelinde 22 yıl sonra ilk kez AK Parti'yi geçti. ___E:2024 yerel seçimlerinde U:(https://tr.wikipedia.org/wiki/2024_T%C3%BCrkiye_yerel_se%C3%A7imleri)___ parti, ___E:Hatay U:(https://tr.wikipedia.org/wiki/Hatay_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi)___ hariç mevcut büyükşehirlerinin hepsini korudu ve ___E:Bursa U:(https://tr.wikipedia.org/wiki/Bursa_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi)___ , ___E:Balıkesir U:(https://tr.wikipedia.org/wiki/Bal%C4%B1kesir_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi)___ , ___E:Denizli U:(https://tr.wikipedia.org/wiki/Denizli_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi)___ ve ___E:Manisa U:(https://tr.wikipedia.org/wiki/Manisa_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi)___ Büyükşehir Belediyelerini kazandı."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#111",
+            "sentence": "CHP ___E:sosyal demokrasi U:(https://tr.wikipedia.org/wiki/Sosyal_demokrasi)___ ve ___E:Kemalizm U:(https://tr.wikipedia.org/wiki/Kemalizm)___ 'i benimseyen merkez sol bir siyasi partidir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#112",
+            "sentence": "Cumhuriyet Halk Partisi, programının temel ideolojik dayanaklarının üç ana veçhesi olduğunu bunların ise: ___E:Atatürk'ün modernleşme devrimi U:(https://tr.wikipedia.org/wiki/Atat%C3%BCrk_Devrimleri)___ ve ___E:altı ok ilkeleri U:(https://tr.wikipedia.org/wiki/Alt%C4%B1_Ok)___ , sosyal demokrasinin evrensel ilkeleri ve Anadolu ve Trakya'nın tarihsel birikimi olduğunu belirtmiştir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#113",
+            "sentence": "Bu kapsamda CHP kendisini \"Cumhuriyet’in kurucu ilke ve değerlerine bağlı, çağdaş bir sosyal demokrat parti\" olarak tanımlamaktadır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#114",
+            "sentence": "CHP'nin resmi göç (sığınmacılar, kaçak göçmenler) politikası, ___E:Suriye U:(https://tr.wikipedia.org/wiki/Suriye)___ 'de kalıcı barışın sağlanması, Suriye'nin güvenli hale getirilmesiyle Suriyeliler'in \"evlerine dönmesi\" şeklindedir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#115",
+            "sentence": "Genel başkan Özel, ___E:Almanya cumhurbaşkanı U:(https://tr.wikipedia.org/wiki/Almanya_cumhurba%C5%9Fkan%C4%B1)___ ___E:Frank-Walter Steinmeier U:(https://tr.wikipedia.org/wiki/Frank-Walter_Steinmeier)___ ile Almanya'nın Ankara Büyükelçiliğinde yaptığı görüşmede sorunun Türkiye ile Avrupa ülkeleri arasındaki anlaşmalar ve maddi destekle ve Suriyeliler'in Türkiye'de kalması ile çözülemeyeceğini, aksine bunların sorunu daha da büyüteceğini ifade etmiştir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#116",
+            "sentence": "Özel, mevcut sığınmacı politikasını ise \"hem Türkiye için hem de Batı'nın değerleri için izah edilemez olduğunu\" ifade etmiştir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#117",
+            "sentence": "Partinin yerel yönetimler politikası, 2024 yerel seçimlerinden önce 8 Mart tarihinde belediye başkan adaylarınca imzaya açılan iki ayrı taahhütname ile ortaya konmuştur. \"Halkçı Belediyecilik Taahhütnamesi\" ve \"Yerel Yönetimlerde Eşitlik Politika Belgesi\", partinin yerel yönetimlerinde izleyeceği politikaların temel ilkelerini ortaya koymuştur."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#118",
+            "sentence": "Belgelerin temelinde partinin programında belirtilen ilkeler, evrensel insan hakları ve sosyal eşitsizliğe karşı mücadele bulunmaktadır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#119",
+            "sentence": "Altı Ok ilkelerinin muhtevası zaman içinde değişime uğramakla birlikte en son 2015 Parti Programı'nda tanımlanmıştır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#120",
+            "sentence": "Parti programında bu ilkeler şöyle tanımlanmıştır: Cumhuriyetçilik ilkesi, egemenliğin ulusta olduğunu ve milli iradenin temel alındığı bir devlet düzenini savunur.  ___E:Milliyetçilik ilkesi U:(https://tr.wikipedia.org/wiki/Atat%C3%BCrk_milliyet%C3%A7ili%C4%9Fi)___ , Türkiye'nin din, dil, ırk ve etnik köken değil, siyasal bir birlik etrafında kurulduğunu vurgular."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#121",
+            "sentence": "Halkçılık ilkesi, siyasal meşruiyetin halkın iradesine dayandığını ve halkın korunması için çözümlerin halkla birlikte bulunması gerektiğini savunur."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#122",
+            "sentence": "Devletçilik ilkesi, devletin halka hizmet için yapılandığını, katılımcı yönetimi ve demokratik hukuk devletini öngörür."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#123",
+            "sentence": "Laiklik ilkesi, din ve devlet işlerinin ayrı tutulması gerektiğini vurgular ve insan haklarının temel taşı olduğunu belirtir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#124",
+            "sentence": "Devrimcilik ilkesi, çağdaş medeniyet hedefini sürdürmeyi ve demokratik hukuk devleti kurallarına bağlı kalarak köklü değişim sürecini devam ettirmeyi amaçlar."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#125",
+            "sentence": "Cumhuriyet Halk Partisi, ___E:Türkiye'nin Avrupa Birliği üyeliğini U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27nin_Avrupa_Birli%C4%9Fi_%C3%BCyelik_s%C3%BCreci)___ , Türkiye'nin ___E:NATO U:(https://tr.wikipedia.org/wiki/NATO)___ üyeliğini ve ittifakın genişlemesini desteklemektedir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#126",
+            "sentence": "Parti milletvekilleri hem ___E:Finlandiya U:(https://tr.wikipedia.org/wiki/Finlandiya)___ 'nın hem de ___E:İsveç U:(https://tr.wikipedia.org/wiki/%C4%B0sve%C3%A7)___ 'in NATO'ya katılımı lehine ezici bir çoğunlukla oy kullandılar."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#127",
+            "sentence": "Parti, ___E:Sosyalist Enternasyonal U:(https://tr.wikipedia.org/wiki/Sosyalist_Enternasyonal)___  ve ___E:İlerici İttifak U:(https://tr.wikipedia.org/wiki/%C4%B0lerici_%C4%B0ttifak)___  içinde önemli bir konuma sahiptir ve ___E:Avrupa Sosyalistler Partisi'nin U:(https://tr.wikipedia.org/wiki/Avrupa_Sosyalistler_Partisi)___ ilişkili üyesidir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#128",
+            "sentence": "Ayrıca parti, 2014 yılında Sosyalist Enternasyonal'i ___E:Kuzey Kıbrıs U:(https://tr.wikipedia.org/wiki/Kuzey_K%C4%B1br%C4%B1s_T%C3%BCrk_Cumhuriyeti)___ 'ta bulunan ___E:Cumhuriyetçi Türk Partisi U:(https://tr.wikipedia.org/wiki/Cumhuriyet%C3%A7i_T%C3%BCrk_Partisi)___ 'ni tam üye olarak kabul etmeye çağırmıştır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#129",
+            "sentence": "Partinin lideri Özgür Özel, ___E:İsrail U:(https://tr.wikipedia.org/wiki/%C4%B0srail)___ 'in ___E:Filistin halkına U:(https://tr.wikipedia.org/wiki/Filistinliler)___ karşı ___E:devlet terörü U:(https://tr.wikipedia.org/wiki/Devlet_ter%C3%B6r%C3%BC)___ uyguladığını iddia ederek, \"Türk solu asla ve asla Filistin davasına uzak değildir.\" şeklinde açıklamada bulunmuştur."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#130",
+            "sentence": "Ayrıca, Mayıs 2024'te Filistin'i devlet olarak tanıyan Batı liderlerine mektup yazarak teşekkür etmiştir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#131",
+            "sentence": "___E:Altı Ok U:(https://tr.wikipedia.org/wiki/Alt%C4%B1_Ok)___ , Cumhuriyet Halk Partisi'nin temel ilkelerini temsil eden ___E:simgedir U:(https://tr.wikipedia.org/wiki/Simge)___ ."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#132",
+            "sentence": "Aynı zamanda kırmızı zemin üzerine beyaz Altı Ok simgesi partinin bayrağı olarak kullanılmaktadır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#133",
+            "sentence": "Cumhuriyet Halk Partisi'nin amblemi, yıllar boyunca değişikliklere uğramıştır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#134",
+            "sentence": "Ancak orijinal Altı Ok amblemi hiç değişmemiştir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#135",
+            "sentence": "___E:Mustafa Kemal Atatürk U:(https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk)___ 'ün vasiyetle ___E:Türkiye İş Bankası U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_%C4%B0%C5%9F_Bankas%C4%B1)___ 'nın kendine ait olan %28.1 oranındaki hissesini partiye bırakmıştır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#136",
+            "sentence": "Fakat bankanın elde ettiği gelirin CHP'ye düşen kısmı partiye değil ___E:Türk Dil Kurumu U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Dil_Kurumu)___ 'na ve ___E:Türk Tarih Kurumu U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Tarih_Kurumu)___ 'na aktarılmaktadır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#137",
+            "sentence": "Parti sadece yönetimde söz sahibidir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#138",
+            "sentence": "2024 yılı itibarıyla partinin YDK üyeleri:"
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#139",
+            "sentence": "17 Şubat 1954 tarihli CHP Genel İdare Kurulu toplantısında ___E:Suphi Baykam U:(https://tr.wikipedia.org/wiki/Suphi_Baykam)___ 'ın başkanlığında ___E:Gençlik Kolları U:(https://tr.wikipedia.org/wiki/Cumhuriyet_Halk_Partisi_Gen%C3%A7lik_Kollar%C4%B1)___ Merkez Yönetim Kurulunun atanmasıyla resmen kurulan ve Türkiye'nin ilk gençlik örgütlenmesi olan CHP Gençlik Kolları, ilk kurultayını 1-2 Ağustos 1961 tarihinde gerçekleştirmiştir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#140",
+            "sentence": "İlk kurulan gençlik kolları yönetiminde, daha sonra CHP Genel Başkanı ve Başbakan olacak olan ___E:Bülent Ecevit U:(https://tr.wikipedia.org/wiki/B%C3%BClent_Ecevit)___ de yer almaktadır. ___E:12 Eylül 1980 darbesine U:(https://tr.wikipedia.org/wiki/12_Eyl%C3%BCl_Darbesi)___ kadar 10 tane kurultay yapılmış ve darbe sonrası partinin kapatılmasıyla gençlik kolları da kapatılmıştır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#141",
+            "sentence": "CHP'nin 2. kuruluşundan sonra da faaliyetlerine devam eden CHP Gençlik Kolları, Cumhuriyet Halk Partisi'ne bağlı gençlik yapılanması olup genel başkanlığa bağlı il ve ilçe örgütlenmesi şeklinde çalışmaktadır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#142",
+            "sentence": "Gençler arasında CHP örgütlenmesini sağlar. 17. kurultayını 1 Aralık 2024 tarihinde gerçekleştirmiş ve Kurultayda tek aday olarak giren Cem Aydın 487 oy alarak görevi önceki dönem gençlik kolları genel başkanı Gençosman Killik'ten devralarak gençlik kolları başkanı olarak seçilmiştir. 23 Aralık itibarıyla görevini Muhammed Baysal, Deniz Bozkurt, Ömer Çelik, Baran Özmetin, Irmak Bal, Özlem Ünal, Mert Aslan, Özgür Yıldırım, Recai Kılıç, Emre Tiftik, Emre Kılıç, İbrahim Erbaş, Oğulcan Çavuşoğlu, Emre Er ve 24 diğer MYK üyesi ile sürdürmektedir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#143",
+            "sentence": "Halkçı Liseliler komisyonu, 19 Mayıs 2014 tarihinde dönemin genel başkan özel danışmanı Recep Cengiz tarafından partiye resmi olarak bağlı olmadan kurulmuştur."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#144",
+            "sentence": "Kurucu genel başkanı Doğukan Kurnaz'dır. 2015'ten itibaren örgütlü bir şekilde faaliyet göstermeye başlamıştır."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#145",
+            "sentence": "Halkçı Liseliler, zaman içinde farklı dönemlere yayılan çeşitli örgütlenme ve etkinliklerle kendini göstermiştir. 2 Şubat 2023 tarihinde gerçekleştirilmiş kurultayda Bertuğ Diler oyların çoğunluğunu alarak başkan olarak seçilmiştir. 6 Şubat 2025 tarihinde gençlik kolları başkanı Cem Aydın'ın imzasıyla Sude Ulusan göreve getirilmiştir."
+        },
+        {
+            "id": "Cumhuriyet Halk Partisi#146",
+            "sentence": "23 Kasım 2023 tarihinde Gençlik Kolları Genel Merkezi, 2014 yılından beridir faaliyette bulunan CHP Lise Komisyonlarının feshedilmesine ve örgütlenmenin Halkçı Liseliler (Kısaltma: Halk-Lis) adıyla kurulacak yapılanma üzerinden devam etmesine Cumhuriyet Halk Partisi genel başkanı ___E:Özgür Özel U:(https://tr.wikipedia.org/wiki/%C3%96zg%C3%BCr_%C3%96zel)___ , gençlik kolları genel başkanı Gençosman Killik ve Halkçı Liseliler genel başkanı Bertuğ Diler ile yapılan görüşmeler sonucu resmî olarak karar vermiştir. [kaynak belirtilmeli]"
+        }
+    ]
+}

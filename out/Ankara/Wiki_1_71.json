@@ -1,0 +1,38 @@
+{
+    "Title": "Tahıl",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Tahıl#1",
+            "sentence": "Tahıl ya da hububat genellikle ___E:buğdaygillerden U:(https://tr.wikipedia.org/wiki/Poaceae)___ hasat edilen ürünlere ve onların ___E:tohumlarına U:(https://tr.wikipedia.org/wiki/Tohum)___ verilen addır."
+        },
+        {
+            "id": "Tahıl#2",
+            "sentence": "Dünyanın her yerinde yaygın olarak bulunan, yiyecek olarak tüketilen ___E:bitkisel ürün U:(https://tr.wikipedia.org/wiki/Bitkisel_%C3%BCr%C3%BCn)___ 'lerdir."
+        },
+        {
+            "id": "Tahıl#3",
+            "sentence": "Günlük hayatta ___E:ekmek U:(https://tr.wikipedia.org/wiki/Ekmek)___ ve ürünlerinin yapımlarında ___E:un U:(https://tr.wikipedia.org/wiki/Un)___ halinde kullanılırlar."
+        },
+        {
+            "id": "Tahıl#4",
+            "sentence": "Bununla beraber kullanım alanları geniş olan ürünledir."
+        },
+        {
+            "id": "Tahıl#5",
+            "sentence": "Bu Familyanın 400 civarında cins ve 4500 civarında tür içerdiği bilinmektedir."
+        },
+        {
+            "id": "Tahıl#6",
+            "sentence": "Tahılların dünyada 614 milyon hektar üzerinde işlendiği bilinmektedir."
+        },
+        {
+            "id": "Tahıl#7",
+            "sentence": "Tahılların ülkelere ve bölgelere göre dağılımına bakıldığında ise Avrupa, Kuzey Amerika ve Yakın Doğuda buğdayın yaygın olduğu gözlenirken, Uzak doğu ülkelerinde Pirinç olduğu görülmektedir."
+        },
+        {
+            "id": "Tahıl#8",
+            "sentence": "Aşağıdaki tabloda 1961, [a] 1980, 2000, 2018 ve 2019/2020 yıllarına ait dünyadaki yıllık tahıl üretim miktarları görülmektedir."
+        }
+    ]
+}

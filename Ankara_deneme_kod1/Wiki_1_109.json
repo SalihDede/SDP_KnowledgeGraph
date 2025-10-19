@@ -1,0 +1,179 @@
+{
+    "Title": "Kayseri",
+    "Card": {
+        "Ülke": "___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___",
+        "İl": "___E:Kayseri U:(https://tr.wikipedia.org/wiki/Kayseri_(il))___",
+        "•Vali": "___E:Gökmen Çiçek U:(https://tr.wikipedia.org/wiki/G%C3%B6kmen_%C3%87i%C3%A7ek)___",
+        "•Büyükşehir Belediye Başkanı": "___E:Memduh Büyükkılıç U:(https://tr.wikipedia.org/wiki/Memduh_B%C3%BCy%C3%BCkk%C4%B1l%C4%B1%C3%A7)___  ( ___E:AK Parti U:(https://tr.wikipedia.org/wiki/Adalet_ve_Kalk%C4%B1nma_Partisi)___ )",
+        "Rakım": "1054 m",
+        "Zaman dilimi": "___E:UTC+03.00 U:(https://tr.wikipedia.org/wiki/UTC%2B03.00)___ ( ___E:TRS U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Saati)___ )",
+        "Alan kodu": "352",
+        "Plaka kodu": "38"
+    },
+    "Main": [
+        {
+            "id": "Kayseri#1",
+            "sentence": "Kayseri , ___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___ 'nin ___E:Kayseri ilinin U:(https://tr.wikipedia.org/wiki/Kayseri_(il))___ merkezi olan şehirdir."
+        },
+        {
+            "id": "Kayseri#2",
+            "sentence": "İç Anadolu Bölgesi'nin güneydoğusunda bulunur."
+        },
+        {
+            "id": "Kayseri#3",
+            "sentence": "Türkiye'nin nüfus bakımından en kalabalık 15. ilidir."
+        },
+        {
+            "id": "Kayseri#4",
+            "sentence": "Kayseri kentinin adı ___E:Latince U:(https://tr.wikipedia.org/wiki/Latince)___ Caesarea , Kaysaria ( ___E:Yunanca U:(https://tr.wikipedia.org/wiki/Yunanca)___ : καισαρεία , romanize: kaysaria ) adı ___E:Arapça U:(https://tr.wikipedia.org/wiki/Arap%C3%A7a)___ biçiminden Türkçeleştirilmiştir."
+        },
+        {
+            "id": "Kayseri#5",
+            "sentence": "Tarihi kayıtlarda ismi Mazaka , ( ___E:Ermenice U:(https://tr.wikipedia.org/wiki/Ermenice)___ : Մաժաք , romanize: Mažak ) olarak da geçmektedir."
+        },
+        {
+            "id": "Kayseri#6",
+            "sentence": "\"Kayser\" veya \"kaysar\" ( ___E:Arapça U:(https://tr.wikipedia.org/wiki/Arap%C3%A7a)___ : قيصر ), ___E:Roma U:(https://tr.wikipedia.org/wiki/Roma_%C4%B0mparatorlu%C4%9Fu)___ ve Doğu Roma ( ___E:Bizans U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu)___ ) imparatorlarına verilen Caesar ( ___E:Yunanca U:(https://tr.wikipedia.org/wiki/Yunanca)___ : καισαρ , romanize: kaisar ) unvanının İslam ülkelerinde kullanılan biçimidir."
+        },
+        {
+            "id": "Kayseri#7",
+            "sentence": "Osmanlı sultanları ___E:II. Mehmed U:(https://tr.wikipedia.org/wiki/II._Mehmed)___ 'ten başlayarak resmî sıfatları arasında Kayser-i Rum unvanını da kullanmışlardır."
+        },
+        {
+            "id": "Kayseri#8",
+            "sentence": "Caesar asıl olarak Romalı devlet adamı ___E:Julius Caesar U:(https://tr.wikipedia.org/wiki/J%C3%BCl_Sezar)___ 'ın (MÖ 100-44) lakabıdır (cognomen)."
+        },
+        {
+            "id": "Kayseri#9",
+            "sentence": "Sezar'ın manevi oğlu olan ilk Roma imparatoru ___E:Gaius Julius Caesar Octavianus U:(https://tr.wikipedia.org/wiki/Augustus)___ , onursal bir unvan olarak Caesar lakabını benimsemiştir."
+        },
+        {
+            "id": "Kayseri#10",
+            "sentence": "Ayrıca ___E:Yılanlı Dağ U:(https://tr.wikipedia.org/w/index.php?title=Y%C4%B1lanl%C4%B1_Da%C4%9F&action=edit&redlink=1)___ 'ın zirvesinde dönemin en büyük ___E:Kapadokya U:(https://tr.wikipedia.org/wiki/Kapadokya)___ kralına ait olan mezar kabri keşfedilmiş, çevresinde çok eski tarihî bir kale ve kale ortasında bir darphane de bulunmuştur."
+        },
+        {
+            "id": "Kayseri#11",
+            "sentence": "Kale içindeki kazılarda ele geçen bir tablete göre bu dağ üzerinde gizli bir yerde yer altı şehri ve hazineler bulunmakta olduğu iddia edilmektedir. [kaynak belirtilmeli]"
+        },
+        {
+            "id": "Kayseri#12",
+            "sentence": "Kayseri, MÖ 4000 ile MS 2000 olmak üzere 6000 yıllık bir tarihe sahiptir."
+        },
+        {
+            "id": "Kayseri#13",
+            "sentence": "MÖ 2000 yıllarında Anadolu'ya gelen ___E:Hititler U:(https://tr.wikipedia.org/wiki/Hititler)___ , Kayseri'ye 22 km uzaklıkta bulunan Kültepe (Kaniş) şehrini kurmuşlardır. ___E:Kültepe U:(https://tr.wikipedia.org/wiki/K%C3%BCltepe)___ , Kayseri ovasının en büyük şehri ve ___E:Anadolu U:(https://tr.wikipedia.org/wiki/Anadolu)___ 'nun en büyük höyüklerinden biridir."
+        },
+        {
+            "id": "Kayseri#14",
+            "sentence": "Kültepe'nin hemen yanında yer alan Karum'da (Pazarşehir) yapılan kazılarda bu döneme ait çivi yazısı ile çeşitli yazılı tabletler bulunmuş ve bu tabletlerden ___E:Asurlu U:(https://tr.wikipedia.org/wiki/Asur)___ tüccarlarla Hititli yerliler arasındaki ticari ilişkilere ait bilgiler elde edilmiştir."
+        },
+        {
+            "id": "Kayseri#15",
+            "sentence": "Kültepe, MÖ 4000 yılından ___E:Roma U:(https://tr.wikipedia.org/wiki/Roma_%C4%B0mparatorlu%C4%9Fu)___ devri sonuna kadar devamlı olarak yerleşme görmüştür."
+        },
+        {
+            "id": "Kayseri#16",
+            "sentence": "M.S. 395'te Roma İmparatorluğu ikiye bölününce bu bölge ( ___E:Kapadokya U:(https://tr.wikipedia.org/wiki/Kapadokya)___ ) Anadolu'nun diğer bölgeleri gibi Doğu Roma(Bizans)'nın payına düşmüştür. ___E:Hristiyanlık U:(https://tr.wikipedia.org/wiki/Hristiyanl%C4%B1k)___ yayılırken Kayseri bu dinin en büyük merkezlerinden biriydi."
+        },
+        {
+            "id": "Kayseri#17",
+            "sentence": "Romalılar daha Hristiyanlığı resmi din ilan etmeden önce bu dine inananlara zulmediyorlardı."
+        },
+        {
+            "id": "Kayseri#18",
+            "sentence": "O dönemde pek çok Hristiyan Kayseri ve civardaki illere sığınmışlardır."
+        },
+        {
+            "id": "Kayseri#19",
+            "sentence": "Şehirde pek çok oyma kilise bulunmaktadır."
+        },
+        {
+            "id": "Kayseri#20",
+            "sentence": "MS 6. asırda İmparator ___E:I. Justinianus U:(https://tr.wikipedia.org/wiki/I._Justinianus)___ , Kayseri'yi surlarla çevirdi ve bazı imar faaliyetlerinde bulundu. ___E:Emevîler U:(https://tr.wikipedia.org/wiki/Emev%C3%AEler)___ zamanında 690, 726, 729 ve 732'de İslâm orduları Halife ___E:Abdülmelik U:(https://tr.wikipedia.org/wiki/Abd%C3%BClmelik)___ , ___E:Mesleme U:(https://tr.wikipedia.org/wiki/Mesleme_bin_Abd%C3%BClmelik)___ , Said ibni Hişam ve Süleyman ibni Hişam Kayseri'yi dört defa fethettiler."
+        },
+        {
+            "id": "Kayseri#21",
+            "sentence": "Fakat yerleşim yeniden Bizans'ın eline geçti."
+        },
+        {
+            "id": "Kayseri#22",
+            "sentence": "___E:Selçuklular U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu)___ Kayseri'yi ___E:Malazgirt Meydan Muharebesi U:(https://tr.wikipedia.org/wiki/Malazgirt_Meydan_Muharebesi)___ 'nden kısa bir süre sonra tam olarak hâkimiyet kurmuşlardır."
+        },
+        {
+            "id": "Kayseri#23",
+            "sentence": "Selçuklular devrinde Kayseri, Konya'dan sonra ikinci başkent oldu. Selçuklu Sultanı ___E:Alâeddin Keykubât U:(https://tr.wikipedia.org/wiki/Alaeddin_Keykubad)___ zamanında Kayseri'nin durumu Bizans devrini gerilerde bıraktı."
+        },
+        {
+            "id": "Kayseri#24",
+            "sentence": "En parlak devrini yaşadı."
+        },
+        {
+            "id": "Kayseri#25",
+            "sentence": "Selçuklu Anadolu'sunun Konya'dan sonra en önemli şehri Kayseri'ydi. Bugün Kayseri'deki eski eserlerin çoğu ve en değerlileri Selçuklu devrinden kalmış olanlardır."
+        },
+        {
+            "id": "Kayseri#26",
+            "sentence": "Selçuklulardan sonra ___E:İlhanlılar U:(https://tr.wikipedia.org/wiki/%C4%B0lhanl%C4%B1lar)___ bu bölgeye hâkim oldular. 1277'de Memlûk Sultanı ___E:Baybars U:(https://tr.wikipedia.org/wiki/I._Baybars)___ Kayseri'ye geldi, fakat İlhanlılar'dan Kayseri'yi geri alamadı."
+        },
+        {
+            "id": "Kayseri#27",
+            "sentence": "On dördüncü yüzyılda ___E:Alaeddin Eretna U:(https://tr.wikipedia.org/wiki/Al%C3%A2eddin_Eretna)___ , İlhanlıların Anadolu genel valisi olarak Kayseri'ye geldi."
+        },
+        {
+            "id": "Kayseri#28",
+            "sentence": "İlhanlılar yıkılınca ___E:Eratnaoğulları Beyliği U:(https://tr.wikipedia.org/wiki/Eretna_Beyli%C4%9Fi)___ kuruldu ve yerleşim bu beyliğin ___E:Sivas U:(https://tr.wikipedia.org/wiki/Sivas)___ ’tan sonra ikinci başkentiydi."
+        },
+        {
+            "id": "Kayseri#29",
+            "sentence": "Eretnaoğulları’nın yerine geçen ___E:Kadı Burhaneddin U:(https://tr.wikipedia.org/wiki/Kad%C4%B1_Burh%C3%A2neddin)___ ’in hâkimiyeti uzun sürmedi."
+        },
+        {
+            "id": "Kayseri#30",
+            "sentence": "Şehir 1398’de ___E:I. Bayezid U:(https://tr.wikipedia.org/wiki/I._Bayezid)___ tarafından fethedilip, Osmanlı Devleti'ne katıldı."
+        },
+        {
+            "id": "Kayseri#31",
+            "sentence": "Fakat dört sene sonra 1402’de ___E:Timur İmparatorluğu U:(https://tr.wikipedia.org/wiki/Timur_%C4%B0mparatorlu%C4%9Fu)___ ile yapılan ___E:Ankara Muharebesi U:(https://tr.wikipedia.org/wiki/Ankara_Muharebesi)___ 'nden sonra Kayseri, ___E:Timur U:(https://tr.wikipedia.org/wiki/Timur)___ tarafından Karamanoğullarına bırakıldı."
+        },
+        {
+            "id": "Kayseri#32",
+            "sentence": "Bir müddet sonra da ___E:Dulkadiroğulları Beyliği U:(https://tr.wikipedia.org/wiki/Dulkadiro%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ 'nin idaresine geçti."
+        },
+        {
+            "id": "Kayseri#33",
+            "sentence": "Karamanoğulları, Kayseri’yi Dulkadiroğulları Beyliğinden geri alınca, Sultan II. Murad 1436’da Kayseri’yi yeniden alarak Dulkadiroğulları Beyliği'ne verdi. (II. Murad’ın annesi Dulkadiroğulları Beyi’nin kızı idi.) Bir müddet sonra Karamanoğulları Beyliği Kayseri’yi yeniden ele geçirdi. ___E:Memlûklar U:(https://tr.wikipedia.org/wiki/Meml%C3%BBk_Devleti)___ bir ara Kayseri’yi kuşattılar fakat alamadılar. 1508’de Şah İsmail Kayseri’ye geldi fakat kısa bir müddet sonra geri çekildi."
+        },
+        {
+            "id": "Kayseri#34",
+            "sentence": "Karamanoğulları Beyliği Osmanlı Devleti'ne katıldığı için Kayseri, Dulkadiroğulları Beyliği'nin idaresine geçti."
+        },
+        {
+            "id": "Kayseri#35",
+            "sentence": "___E:Yavuz Sultan Selim Han U:(https://tr.wikipedia.org/wiki/I._Selim)___ 1515’te Kayseri’yi ___E:Osmanlı Devleti U:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)___ 'ne katınca Karaman ( ___E:Konya U:(https://tr.wikipedia.org/wiki/Konya)___ ) eyaletinin (beylerbeyliğinin) yedi sancağından (vilâyetinden) birinin merkezi oldu. 1830’da yapılan nüfus sayımında Bu nüfus sayımında Kayseri’nin hane sayısının 7693 olduğunu nüfus sayısını da 21.005 ile 26.000  arasında olduğu kaynaklarda belirtilmiştir."
+        },
+        {
+            "id": "Kayseri#36",
+            "sentence": "Tanzimat'tan sonra ___E:Ankara Vilayeti U:(https://tr.wikipedia.org/wiki/Ankara_Vilayeti)___ 'nin beş sancağından biri oldu, üç kazası vardı."
+        },
+        {
+            "id": "Kayseri#37",
+            "sentence": "Cumhuriyet devrinde bütün sancaklara (mutasarrıflıklara) “vilayet-il” denilince Kayseri vilâyet oldu. “Kaysarîye” ismi Kayseri'ye çevrildi."
+        },
+        {
+            "id": "Kayseri#38",
+            "sentence": "Kayseri, 1988 yılında çıkarılan 3508 sayılı Kanun  ile ___E:büyükşehir U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk%C5%9Fehir_belediyesi)___ unvanı kazandı."
+        },
+        {
+            "id": "Kayseri#39",
+            "sentence": "Başlangıçta iki ilçe ( ___E:Kocasinan U:(https://tr.wikipedia.org/wiki/Kocasinan)___ ve ___E:Melikgazi U:(https://tr.wikipedia.org/wiki/Melikgazi)___ ) ___E:Kayseri Büyükşehir Belediyesinin U:(https://tr.wikipedia.org/wiki/Kayseri_B%C3%BCy%C3%BCk%C5%9Fehir_Belediyesi)___ sınırlarına dâhil edildi. 2004 yılında çıkarılan 5216 sayılı Kanun ile büyükşehir belediyesinin sınırları, valilik binası merkez kabul edilerek yarıçapı 20 kilometre olan dairenin sınırlarına genişletildi."
+        },
+        {
+            "id": "Kayseri#40",
+            "sentence": "Bu sınırlar içinde kalan 5 ilçe, büyükşehir ilçe belediyeleri hâline geldi.  2012 yılında çıkarılan 6360 sayılı Kanun ile ___E:2014 Türkiye yerel seçimlerinin U:(https://tr.wikipedia.org/wiki/2014_T%C3%BCrkiye_yerel_se%C3%A7imleri)___ ardından büyükşehir belediyesinin sınırları il mülki sınırları oldu."
+        },
+        {
+            "id": "Kayseri#41",
+            "sentence": "2004 yılında çıkarılan kanun nedeniyle il merkezinde olmayan ___E:İncesu U:(https://tr.wikipedia.org/wiki/%C4%B0ncesu)___ ilçesi de büyükşehir sınırlarına girmiş olup 2008-2012 yılları arasındaki nüfus verilerine İncesu da dahil edilmiştir. 2012 yılında ise ilin tamamı büyükşehir sınırlarına girmiştir."
+        }
+    ]
+}

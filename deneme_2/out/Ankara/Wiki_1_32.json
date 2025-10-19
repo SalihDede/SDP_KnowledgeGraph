@@ -1,0 +1,14 @@
+{
+    "Title": "\"Yüzölçümüne göre ulusal başkentler listesi\" sayfasını oluşturmaktasınız",
+    "Card": {},
+    "Main": [
+        {
+            "id": "\"Yüzölçümüne göre ulusal başkentler listesi\" sayfasını oluşturmaktasınız#1",
+            "sentence": "Düzenleyici şimdi yüklenecek."
+        },
+        {
+            "id": "\"Yüzölçümüne göre ulusal başkentler listesi\" sayfasını oluşturmaktasınız#2",
+            "sentence": "Birkaç saniye sonra bu iletiyi görmeye devam ederseniz, lütfen ___E:sayfayı yenileyin U:(https://tr.wikipedia.org/w/index.php?action=edit&redlink=1&title=Y%C3%BCz%C3%B6l%C3%A7%C3%BCm%C3%BCne_g%C3%B6re_ulusal_ba%C5%9Fkentler_listesi&venoscript=1)___ ."
+        }
+    ]
+}

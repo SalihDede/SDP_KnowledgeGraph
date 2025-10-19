@@ -1,0 +1,1859 @@
+{
+    "Title": "Anadolu Selçuklu Devleti",
+    "Card": {
+        "Tür": "Büyük Selçuklu İmparatorluğu vassalı (1077-1157)  Bağımsız Sultanlık (1157-1243) Moğol İmparatorluğu vassalı (1243-1256) İlhanlı vassalı (1256-1308)",
+        "Başkent": "___E:Nikaia (İznik) U:(https://tr.wikipedia.org/wiki/%C4%B0znik)___ (1077-1096) ___E:İkonyum (Konya) U:(https://tr.wikipedia.org/wiki/Konya)___ (1096-1308) ___E:Sebastia (Sivas) U:(https://tr.wikipedia.org/wiki/Sivas)___ (1211-1220)",
+        "Yaygın dil(ler)": "Eski Anadolu Türkçesi (ana dil ve ordu dili) Farsça (resmî, mahkeme ve edebiyat) Rumca (mahkemelerde)",
+        "Resmî din": "___E:Sünni İslam U:(https://tr.wikipedia.org/wiki/S%C3%BCnnilik)___ ( Hanefi )",
+        "Hükûmet": "___E:Bağımsız Sultanlık U:(https://tr.wikipedia.org/wiki/Sultan)___ (1157-1243)",
+        "Sultan": "",
+        "• 1077-1086": "___E:I. Süleyman Şah U:(https://tr.wikipedia.org/wiki/I._S%C3%BCleyman_%C5%9Eah)___ (ilk)",
+        "• 1092-1107": "___E:I. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/I._K%C4%B1l%C4%B1%C3%A7_Arslan)___",
+        "• 1116-1155": "___E:I. Mesud U:(https://tr.wikipedia.org/wiki/I._Mesud)___",
+        "• 1155-1192": "___E:II. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/II._K%C4%B1l%C4%B1%C3%A7_Arslan)___",
+        "• 1192-1196/1205-1211": "___E:I. Gıyâseddin Keyhüsrev U:(https://tr.wikipedia.org/wiki/I._G%C4%B1y%C3%A2seddin_Keyh%C3%BCsrev)___",
+        "• 1196-1204": "___E:II. Süleyman Şah U:(https://tr.wikipedia.org/wiki/II._S%C3%BCleyman_%C5%9Eah)___",
+        "• 1211-1220": "___E:I. İzzeddin Keykavus U:(https://tr.wikipedia.org/wiki/I._%C4%B0zzeddin_Keyk%C3%A2vus)___",
+        "• 1220-1237": "___E:I. Alâeddin Keykubad U:(https://tr.wikipedia.org/wiki/I._Al%C3%A2eddin_Keykubad)___",
+        "• 1237-1246": "___E:II. Gıyâseddin Keyhüsrev U:(https://tr.wikipedia.org/wiki/II._G%C4%B1y%C3%A2seddin_Keyh%C3%BCsrev)___",
+        "• 1302-1308": "___E:II. Mesud U:(https://tr.wikipedia.org/wiki/II._Mesud)___ (son)",
+        "Tarihçe": "",
+        "• Kuruluşu": "1077",
+        "•HaçlılarınNikaia'yı (İznik) işgali veDorileon Savaşı": "1097",
+        "•Miryokefalon Savaşı": "1176",
+        "•I. Keyhüsrev'inİznik İmparatorluğutarafından yenilerek öldürülmesi": "1211",
+        "•Yassıçemen Muharebesi": "1230",
+        "•Kösedağ Muharebesi": "1243",
+        "• Dağılışı": "1308"
+    },
+    "Main": [
+        {
+            "id": "Anadolu Selçuklu Devleti#1",
+            "sentence": "• ___E:Batı Hiung-nu U:(https://tr.wikipedia.org/wiki/Bat%C4%B1_Hiung-nu)___ (İÖ 56-36) • ___E:Kuzey Hiung-nu U:(https://tr.wikipedia.org/wiki/Kuzey_Hiung-nu)___ (48-156) • ___E:Güney Hiung-nu U:(https://tr.wikipedia.org/wiki/G%C3%BCney_Hiung-nu)___ (48-216) • ___E:Siyenpi İmparatorluğu U:(https://tr.wikipedia.org/wiki/Xianbei_eyaleti)___ (93-234) • ___E:Avrupa Hun İmparatorluğu U:(https://tr.wikipedia.org/wiki/Hun_%C4%B0mparatorlu%C4%9Fu)___ (352-469)"
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#2",
+            "sentence": "• ___E:Göktürk Kağanlığı U:(https://tr.wikipedia.org/wiki/G%C3%B6kt%C3%BCrk_Ka%C4%9Fanl%C4%B1%C4%9F%C4%B1)___ (552-744) • ___E:Doğu Göktürk U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_G%C3%B6kt%C3%BCrk_Ka%C4%9Fanl%C4%B1%C4%9F%C4%B1)___ (583-630) • ___E:Batı Göktürk U:(https://tr.wikipedia.org/wiki/Bat%C4%B1_G%C3%B6kt%C3%BCrk_Ka%C4%9Fanl%C4%B1%C4%9F%C4%B1)___ (583-659) • ___E:İkinci Göktürk U:(https://tr.wikipedia.org/wiki/%C4%B0kinci_Do%C4%9Fu_G%C3%B6kt%C3%BCrk_Ka%C4%9Fanl%C4%B1%C4%9F%C4%B1)___ (681-744) • ___E:Avar Kağanlığı U:(https://tr.wikipedia.org/wiki/Avar_Ka%C4%9Fanl%C4%B1%C4%9F%C4%B1)___ (562-803) • ___E:Seyanto Hanlığı U:(https://tr.wikipedia.org/wiki/Seyanto_Hanl%C4%B1%C4%9F%C4%B1)___ (628-647) • ___E:Hazar Kağanlığı U:(https://tr.wikipedia.org/wiki/Hazar_Ka%C4%9Fanl%C4%B1%C4%9F%C4%B1)___ (630-1048) • ___E:Büyük Bulgar Hanlığı U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Bulgar_Hanl%C4%B1%C4%9F%C4%B1)___ (632-668) • ___E:İdil Bulgar Devleti U:(https://tr.wikipedia.org/wiki/%C4%B0dil_Bulgar_Devleti)___ (7. yy-1240'lar) • ___E:Kangar Birliği U:(https://tr.wikipedia.org/wiki/Kangar_Birli%C4%9Fi)___ (659-750) • ___E:Birinci Bulgar İmparatorluğu U:(https://tr.wikipedia.org/wiki/Birinci_Bulgar_%C4%B0mparatorlu%C4%9Fu)___ (681-1018) • ___E:Uygur Kağanlığı U:(https://tr.wikipedia.org/wiki/Uygur_Ka%C4%9Fanl%C4%B1%C4%9F%C4%B1)___ (742-840) • ___E:Kansu Uygur U:(https://tr.wikipedia.org/wiki/Kansu_Uygur_Krall%C4%B1%C4%9F%C4%B1)___ (848-1036) • ___E:Kırgız Kağanlığı U:(https://tr.wikipedia.org/wiki/K%C4%B1rg%C4%B1z_Ka%C4%9Fanl%C4%B1%C4%9F%C4%B1)___ (693-1207) • ___E:Karahoca Uygur U:(https://tr.wikipedia.org/wiki/Karahoca_Uygur_Krall%C4%B1%C4%9F%C4%B1)___ (991-1209) • Karluk Hanlığı (743-1220) • ___E:Oğuz Yabguluğu U:(https://tr.wikipedia.org/wiki/O%C4%9Fuz_Yabgulu%C4%9Fu)___ (750-1055) • ___E:Karluk Yabgu Devleti U:(https://tr.wikipedia.org/wiki/Karluklar)___ (756-940) • ___E:Şirvanşahlar Devleti U:(https://tr.wikipedia.org/wiki/%C5%9Eirvan%C5%9Fahlar_Devleti)___ (799-1539) • ___E:Karahanlılar U:(https://tr.wikipedia.org/wiki/Karahanl%C4%B1lar)___ (840-1212) • ___E:Doğu Karahanlılar U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Karahanl%C4%B1lar)___ (1032-1210) • ___E:Batı Karahanlılar U:(https://tr.wikipedia.org/wiki/Bat%C4%B1_Karahanl%C4%B1lar)___ (1041-1212) • ___E:Peçenek Hanlığı U:(https://tr.wikipedia.org/wiki/Pe%C3%A7enekler)___ (860-1091) • ___E:Tolunoğulları U:(https://tr.wikipedia.org/wiki/Toluno%C4%9Fullar%C4%B1)___ (868-905) • ___E:İhşîdîler U:(https://tr.wikipedia.org/wiki/%C4%B0h%C5%9F%C3%AEd%C3%AEler)___ (935-969) • ___E:Gazneliler U:(https://tr.wikipedia.org/wiki/Gazneliler)___ (961-1186) • ___E:Büyük Selçuklu İmparatorluğu U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu)___ (1040-1157) • (1077-1308) • ___E:Kirman Selçuklu U:(https://tr.wikipedia.org/wiki/Kirman_Sel%C3%A7uklular%C4%B1)___ (1092-1187) • ___E:Suriye Selçuklu U:(https://tr.wikipedia.org/wiki/Suriye_Sel%C3%A7uklular%C4%B1)___ (1092-1117) • ___E:Irak Selçuklu U:(https://tr.wikipedia.org/wiki/Irak_Sel%C3%A7uklular%C4%B1)___ (1118-1194) • ___E:Mengücekliler U:(https://tr.wikipedia.org/wiki/Meng%C3%BCcekliler)___ (1072-1277) • ___E:Harezmşahlar İmparatorluğu U:(https://tr.wikipedia.org/wiki/Harezm%C5%9Fahlar_Devleti)___ (1077-1231) • ___E:Danişmendliler U:(https://tr.wikipedia.org/wiki/D%C3%A2ni%C5%9Fmendliler_Beyli%C4%9Fi)___ (1080-1178) • ___E:Çaka Bey U:(https://tr.wikipedia.org/wiki/%C3%87aka_Bey)___ (1081-1098) • ___E:Çubukoğulları U:(https://tr.wikipedia.org/wiki/%C3%87ubuko%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1085-1092) • ___E:Dilmaçoğulları U:(https://tr.wikipedia.org/wiki/Dilma%C3%A7o%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1085-1192) • ___E:Saltuklu Beyliği U:(https://tr.wikipedia.org/wiki/Saltuklu_Beyli%C4%9Fi)___ (1092-1202) • ___E:İnaloğulları U:(https://tr.wikipedia.org/wiki/%C4%B0nalo%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1098-1183) • ___E:Ahlatşahlar U:(https://tr.wikipedia.org/wiki/Ahlat%C5%9Fahlar_Beyli%C4%9Fi)___ (1100-1207) • ___E:Artuklu Beyliği U:(https://tr.wikipedia.org/wiki/Artuklu_Beyli%C4%9Fi)___ (1102-1408) • ___E:Böriler U:(https://tr.wikipedia.org/wiki/B%C3%B6riler)___ (1104-1154) • ___E:Zengîler U:(https://tr.wikipedia.org/wiki/Zeng%C3%AEler)___ (1127-1250) • ___E:İldenizliler U:(https://tr.wikipedia.org/wiki/%C4%B0ldenizliler)___ (1142-1225) • ___E:Erbil Beyliği U:(https://tr.wikipedia.org/wiki/Erbil_Beyli%C4%9Fi)___ (1146-1232) • ___E:Salgurlular U:(https://tr.wikipedia.org/wiki/Salgurlular)___ (1148-1286) • ___E:Cengiz İmparatorluğu U:(https://tr.wikipedia.org/wiki/Mo%C4%9Fol_%C4%B0mparatorlu%C4%9Fu)___ (1206-1368) • ___E:Delhi Sultanlığı U:(https://tr.wikipedia.org/wiki/Delhi_Sultanl%C4%B1%C4%9F%C4%B1)___ (1206-1527) • ___E:Çobanoğulları U:(https://tr.wikipedia.org/wiki/%C3%87obano%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1227-1309) • ___E:Çağatay Hanlığı U:(https://tr.wikipedia.org/wiki/%C3%87a%C4%9Fatay_Hanl%C4%B1%C4%9F%C4%B1)___ (1227-1347) • ___E:Doğu Çağatay Hanlığı U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_%C3%87a%C4%9Fatay_Hanl%C4%B1%C4%9F%C4%B1)___ (1347-1680) • Batı Çağatay Hanlığı • ___E:Altın Orda Devleti U:(https://tr.wikipedia.org/wiki/Alt%C4%B1n_Orda_Devleti)___ (1242-1502) • ___E:Memlûk Devleti U:(https://tr.wikipedia.org/wiki/Meml%C3%BBk_Devleti)___ (1250-1382) • ___E:Karamanoğulları U:(https://tr.wikipedia.org/wiki/Karamano%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1256-1483) • ___E:İnançoğulları U:(https://tr.wikipedia.org/wiki/%C4%B0nan%C3%A7o%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1261-1368) • ___E:Sâhib Ataoğulları U:(https://tr.wikipedia.org/wiki/S%C3%A2hib_Atao%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1275-1342) • ___E:Pervaneoğulları U:(https://tr.wikipedia.org/wiki/Perv%C3%A2neo%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1277-1322) • ___E:Eşrefoğulları U:(https://tr.wikipedia.org/wiki/E%C5%9Frefo%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1280-1326) • ___E:Menteşe Beyliği U:(https://tr.wikipedia.org/wiki/Mente%C5%9Fe_Beyli%C4%9Fi)___ (1280-1424) • ___E:Karesi Beyliği U:(https://tr.wikipedia.org/wiki/Karesi_Beyli%C4%9Fi)___ (1297-1360) • ___E:Candaroğulları U:(https://tr.wikipedia.org/wiki/Candaro%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1299-1462) • ___E:Osmanlı İmparatorluğu U:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)___ (1299-1922) • ___E:Germiyanoğulları U:(https://tr.wikipedia.org/wiki/Germiyano%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1300-1423) • ___E:Hamitoğulları U:(https://tr.wikipedia.org/wiki/Hamito%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1301-1423) • ___E:Saruhanoğulları U:(https://tr.wikipedia.org/wiki/Saruhano%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1302-1410) • ___E:Taceddinoğulları U:(https://tr.wikipedia.org/wiki/T%C3%A2ceddino%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1303-1415) • ___E:Aydınoğulları U:(https://tr.wikipedia.org/wiki/Ayd%C4%B1no%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1308-1426) • ___E:Tekeoğulları U:(https://tr.wikipedia.org/wiki/Tekeo%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1321-1390) • ___E:Ramazanoğulları U:(https://tr.wikipedia.org/wiki/Ramazano%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1325-1608) • ___E:Eretna U:(https://tr.wikipedia.org/wiki/Eretna_Beyli%C4%9Fi)___ (1335-1381) • ___E:Dulkadiroğulları U:(https://tr.wikipedia.org/wiki/Dulkadiro%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1339-1521) • ___E:Taşanoğulları U:(https://tr.wikipedia.org/wiki/Ta%C5%9Fano%C4%9Fullar%C4%B1_Beyli%C4%9Fi)___ (1350-1398) • Sufi Devleti (1361-1379) • ___E:Timur İmparatorluğu U:(https://tr.wikipedia.org/wiki/Timur_%C4%B0mparatorlu%C4%9Fu)___ (1370-1507) • ___E:Akkoyunlular U:(https://tr.wikipedia.org/wiki/Akkoyunlular)___ (1378-1508) • ___E:Erzincan Beyliği U:(https://tr.wikipedia.org/wiki/Erzincan_Beyli%C4%9Fi)___ (1379-1410) • ___E:Karakoyunlular U:(https://tr.wikipedia.org/wiki/Karakoyunlular)___ (1380-1469) • ___E:Kadı Burhâneddin Devleti U:(https://tr.wikipedia.org/wiki/Kad%C4%B1_Burh%C3%A2neddin_Devleti)___ (1381-1398) • ___E:Mâlvâ Sultanlığı U:(https://tr.wikipedia.org/wiki/M%C3%A2lv%C3%A2_Sultanl%C4%B1%C4%9F%C4%B1)___ (1392-1562) • ___E:Nogay Ordası U:(https://tr.wikipedia.org/wiki/Nogay_Ordas%C4%B1)___ (1398-1642) • ___E:Şeybânî Hanlığı U:(https://tr.wikipedia.org/wiki/%C5%9Eeyb%C3%A2n%C3%AEler)___ (1428-1599) • ___E:Kazan Hanlığı U:(https://tr.wikipedia.org/wiki/Kazan_Hanl%C4%B1%C4%9F%C4%B1)___ (1438-1552) • ___E:Kırım Hanlığı U:(https://tr.wikipedia.org/wiki/K%C4%B1r%C4%B1m_Hanl%C4%B1%C4%9F%C4%B1)___ (1441-1783) • ___E:Astrahan Hanlığı U:(https://tr.wikipedia.org/wiki/Astrahan_Hanl%C4%B1%C4%9F%C4%B1)___ (1446-1556)"
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#3",
+            "sentence": "• ___E:Kazak Hanlığı U:(https://tr.wikipedia.org/wiki/Kazak_Hanl%C4%B1%C4%9F%C4%B1)___ (1465-1729) • ___E:Buhara Hanlığı U:(https://tr.wikipedia.org/wiki/Buhara_Hanl%C4%B1%C4%9F%C4%B1)___ (1500-1785) • ___E:Safevî Devleti U:(https://tr.wikipedia.org/wiki/Safev%C3%AEler)___ (1501-1736) • ___E:Yarkand Hanlığı U:(https://tr.wikipedia.org/wiki/Yarkand_Hanl%C4%B1%C4%9F%C4%B1)___ (1514-1680) • ___E:Hive Hanlığı U:(https://tr.wikipedia.org/wiki/Hive_Hanl%C4%B1%C4%9F%C4%B1)___ (1515-1920) • ___E:Kutbşah Devleti U:(https://tr.wikipedia.org/wiki/Kutb%C5%9Fahlar)___ (1518-1687) • ___E:Babür İmparatorluğu U:(https://tr.wikipedia.org/wiki/Bab%C3%BCrl%C3%BCler)___ (1526-1858) • ___E:Bakü Hanlığı U:(https://tr.wikipedia.org/wiki/Bak%C3%BC_Hanl%C4%B1%C4%9F%C4%B1)___ (1718-1806) • ___E:Afşar İmparatorluğu U:(https://tr.wikipedia.org/wiki/Af%C5%9Far_Hanedan%C4%B1)___ (1736-1796) • ___E:Hokand Hanlığı U:(https://tr.wikipedia.org/wiki/Hokand_Hanl%C4%B1%C4%9F%C4%B1)___ (1740-1876) • ___E:Revan Hanlığı U:(https://tr.wikipedia.org/wiki/Revan_Hanl%C4%B1%C4%9F%C4%B1)___ (1747-1828)"
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#4",
+            "sentence": "• ___E:Batı Trakya Bağımsız Hükûmeti U:(https://tr.wikipedia.org/wiki/Bat%C4%B1_Trakya_Ba%C4%9F%C4%B1ms%C4%B1z_H%C3%BCk%C3%BBmeti)___ (1913) • ___E:Türkistan Millî Özerk Hükûmeti U:(https://tr.wikipedia.org/wiki/T%C3%BCrkistan_Mill%C3%AE_%C3%96zerk_H%C3%BCk%C3%BBmeti)___ (1917-1918) • ___E:Aras Türk Cumhuriyeti U:(https://tr.wikipedia.org/wiki/Aras_T%C3%BCrk_Cumhuriyeti)___ (1918-1919) • ___E:İdil Ural Devleti U:(https://tr.wikipedia.org/wiki/%C4%B0dil_Ural_Devleti)___ (1918-1919) • ___E:Alaş Orda U:(https://tr.wikipedia.org/wiki/Ala%C5%9F_Orda)___ (1917-1920) • ___E:Kırım Halk Cumhuriyeti U:(https://tr.wikipedia.org/wiki/K%C4%B1r%C4%B1m_Halk_Cumhuriyeti)___ (1917-1918) • ___E:Azerbaycan DC U:(https://tr.wikipedia.org/wiki/Azerbaycan_Demokratik_Cumhuriyeti)___ (1918-1921) • ___E:Güneybatı Kafkas Geçici Milli Hükümeti U:(https://tr.wikipedia.org/wiki/G%C3%BCneybat%C4%B1_Kafkas_Ge%C3%A7ici_H%C3%BCk%C3%BBmeti)___ (1918-1919) • ___E:Azadistan U:(https://tr.wikipedia.org/wiki/Azadistan)___ (1919-1920) • ___E:Buhara Sovyet Halk Cumhuriyeti U:(https://tr.wikipedia.org/wiki/Buhara_Sovyet_Halk_Cumhuriyeti)___ (1920-1925) • ___E:Harezm Sovyet Halk Cumhuriyeti U:(https://tr.wikipedia.org/wiki/Harezm_Sovyet_Halk_Cumhuriyeti)___ (1920-1925) • ___E:Tuva Halk Cumhuriyeti U:(https://tr.wikipedia.org/wiki/Tuva_Halk_Cumhuriyeti)___ (1921-1944) • ___E:Doğu Türkistan İslâm Cumhuriyeti U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_T%C3%BCrkistan_%C4%B0sl%C3%A2m_Cumhuriyeti)___ (1932-1934) • ___E:Hatay Devleti U:(https://tr.wikipedia.org/wiki/Hatay_Devleti)___ (1938-1939) • ___E:Doğu Türkistan Cumhuriyeti U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_T%C3%BCrkistan_Cumhuriyeti)___ (1944-1949) • ___E:Azerbaycan Millî Hükûmeti U:(https://tr.wikipedia.org/wiki/Azerbaycan_Mill%C3%AE_H%C3%BCk%C3%BBmeti)___ (1945-1946) • ___E:Kıbrıs Geçici Türk Yönetimi U:(https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s_Ge%C3%A7ici_T%C3%BCrk_Y%C3%B6netimi)___ (1964-1974) • ___E:Otonom Kıbrıs Türk Yönetimi U:(https://tr.wikipedia.org/wiki/Otonom_K%C4%B1br%C4%B1s_T%C3%BCrk_Y%C3%B6netimi)___ (1974-1975) • ___E:Kıbrıs Türk Federe Devleti U:(https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s_T%C3%BCrk_Federe_Devleti)___ (1975-1983) • ___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___ • ___E:Kuzey Kıbrıs Türk Cumhuriyeti U:(https://tr.wikipedia.org/wiki/Kuzey_K%C4%B1br%C4%B1s_T%C3%BCrk_Cumhuriyeti)___ • ___E:Kırgızistan U:(https://tr.wikipedia.org/wiki/K%C4%B1rg%C4%B1zistan)___ • ___E:Özbekistan U:(https://tr.wikipedia.org/wiki/%C3%96zbekistan)___ • ___E:Azerbaycan U:(https://tr.wikipedia.org/wiki/Azerbaycan)___ • ___E:Kazakistan U:(https://tr.wikipedia.org/wiki/Kazakistan)___ • ___E:Türkmenistan U:(https://tr.wikipedia.org/wiki/T%C3%BCrkmenistan)___"
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#5",
+            "sentence": "Tarihi Türk devletleri listesi • ___E:Tarihî ve çağdaş Türk devletleri U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_devletleri_listesi)___"
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#6",
+            "sentence": "Anadolu Selçuklu Devleti , Türkiye Selçuklu Devleti veya Rum Sultanlığı ( ___E:Farsça U:(https://tr.wikipedia.org/wiki/Fars%C3%A7a)___ : سلجوقیان روم, Selcūkiyân-i Rūm , Anadolu Selçukluları), ___E:Selçuklu Türklerinden U:(https://tr.wikipedia.org/wiki/Sel%C3%A7uklu_Hanedan%C4%B1)___ olan ___E:Kutalmış U:(https://tr.wikipedia.org/wiki/Kutalm%C4%B1%C5%9F)___ oğlu ___E:Süleyman Şah U:(https://tr.wikipedia.org/wiki/I._S%C3%BCleyman_%C5%9Eah)___ tarafından ___E:Anadolu U:(https://tr.wikipedia.org/wiki/Anadolu)___ 'da ___E:İznik U:(https://tr.wikipedia.org/wiki/%C4%B0znik)___ başkent olmak üzere 1077 yılında kurulmuş olan ___E:Türk U:(https://tr.wikipedia.org/wiki/T%C3%BCrkler)___ devletidir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#7",
+            "sentence": "___E:Türkler U:(https://tr.wikipedia.org/wiki/T%C3%BCrkler)___ , çeşitli sebeplerden ötürü ana vatanları olan ___E:Orta Asya U:(https://tr.wikipedia.org/wiki/Orta_Asya)___ 'dan göç etmek zorunda kalmışlar ve kendilerine yeni bir vatan aramaya başlamışlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#8",
+            "sentence": "Bu yüzden ___E:Selçuklu Türkleri U:(https://tr.wikipedia.org/wiki/Sel%C3%A7uklu_Hanedan%C4%B1)___ , çevre bölgelere akınlar düzenlemeye başlamışlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#9",
+            "sentence": "Örneğin ___E:Anadolu U:(https://tr.wikipedia.org/wiki/Anadolu)___ 'ya yapılan ilk akınlar, 1015-1018 yılları arasında gerçekleşmiştir. ___E:Büyük Selçuklular U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu)___ , 1040 yılındaki ___E:Dandanakan Muharebesi U:(https://tr.wikipedia.org/wiki/Dandanakan_Muharebesi)___ ile ___E:Gaznelileri U:(https://tr.wikipedia.org/wiki/Gazneliler)___ yenmiş ve bağımsız olmuşlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#10",
+            "sentence": "Selçukluların bağımsız olmasıyla birlikte çevre bölgelere yapılan akınlar daha sistemli hâle gelmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#11",
+            "sentence": "Nitekim bu akınlar sonucunda Anadolu'nun uygun bir bölge olduğu anlaşılmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#12",
+            "sentence": "Anadolu egemenliği için, ___E:Büyük Selçuklu Devleti U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu)___ ile Anadolu'yu elinde bulunduran ___E:Bizans İmparatorluğu U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu)___ arasındaki ilk savaş, 1048 yılında gerçekleşmiş ve ___E:Pasinler Muharebesi U:(https://tr.wikipedia.org/wiki/Pasinler_Muharebesi)___ olarak bilinen bu savaşla birlikte Anadolu egemenliği için yapılan ilk savaş, Selçuklu zaferiyle noktalanmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#13",
+            "sentence": "Büyük Selçuklu Sultanı ___E:Tuğrul Bey U:(https://tr.wikipedia.org/wiki/Tu%C4%9Frul)___ 'in ölümünün ardından Büyük Selçuklu tahtına ___E:Alp Arslan U:(https://tr.wikipedia.org/wiki/Alp_Arslan)___ oturmuş ve Anadolu üzerine yapılan akınları hızlandırmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#14",
+            "sentence": "Bu dönemde ___E:Bizans U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu)___ İmparatoru olan ___E:Romen Diyojen U:(https://tr.wikipedia.org/wiki/Romen_Diyojen)___ ise, Anadolu toprakları için oluşan bu büyük tehlikeyi ortadan kaldırmak için yaklaşık 200.000 kişilik ordusuyla  başkenti ___E:Konstantinopolis U:(https://tr.wikipedia.org/wiki/Konstantinopolis)___ 'ten ayrılmış ve bugünkü ___E:Türkiye U:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)___ 'nin ___E:Doğu Anadolu Bölgesi U:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Anadolu_B%C3%B6lgesi)___ 'ne doğru ilerlemeye başlamıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#15",
+            "sentence": "Sultan Alp Arslan, Bizans'ın büyük bir orduyla Doğu Anadolu'ya geldiğini öğrenince bu orduyu karşılamak için aynı bölgeye bir orduyla ilerlemiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#16",
+            "sentence": "Daha sonra iki ordu, 26 Ağustos 1071 tarihinde ___E:Muş U:(https://tr.wikipedia.org/wiki/Mu%C5%9F_(il))___ 'un ___E:Malazgirt Ovası U:(https://tr.wikipedia.org/wiki/Malazgirt)___ 'nda karşılaşmış ve ___E:Malazgirt Meydan Muharebesi U:(https://tr.wikipedia.org/wiki/Malazgirt_Meydan_Muharebesi)___ , kesin Selçuklu zaferiyle sonuçlanmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#17",
+            "sentence": "Bu zaferle birlikte ___E:İran U:(https://tr.wikipedia.org/wiki/%C4%B0ran)___ , ___E:Azerbaycan U:(https://tr.wikipedia.org/wiki/Azerbaycan)___ , ___E:Horasan U:(https://tr.wikipedia.org/wiki/Horasan_(%C4%B0ran))___ gibi bölgelerde bulunan Türkler, kitleler hâlinde Anadolu'ya göç etmeye başlamıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#18",
+            "sentence": "Selçuklu Hanedanı'ndan olan ___E:Kutalmışoğlu Süleyman Şah U:(https://tr.wikipedia.org/wiki/I._S%C3%BCleyman_%C5%9Eah)___ , ___E:Marmara Bölgesi U:(https://tr.wikipedia.org/wiki/Marmara_B%C3%B6lgesi)___ 'ndeki askerî faaliyetleri sonunda ___E:İznik U:(https://tr.wikipedia.org/wiki/%C4%B0znik)___ 'i alarak 1075 yılında Anadolu Selçuklu Devleti'ni kurmuştur. ___E:I. Haçlı Seferi U:(https://tr.wikipedia.org/wiki/Birinci_Ha%C3%A7l%C4%B1_Seferi)___ başlarında İznik'in düşmesi üzerine Selçuklular Anadolu içlerine çekilmiş ve sonunda ___E:Konya U:(https://tr.wikipedia.org/wiki/Konya)___ başkent olmak üzere ayakta kalmayı başarmıştır. ___E:13. yüzyıl U:(https://tr.wikipedia.org/wiki/13._y%C3%BCzy%C4%B1l)___ başlarında Sultan ___E:I. Alaeddin Keykubad U:(https://tr.wikipedia.org/wiki/I._Al%C3%A2eddin_Keykubad)___ ile Anadolu'nun en güçlü devleti durumuna gelen Anadolu Selçuklu, 1243 yılındaki ___E:Kösedağ Muharebesi U:(https://tr.wikipedia.org/wiki/K%C3%B6seda%C4%9F_Muharebesi)___ ’nde ___E:Moğollara U:(https://tr.wikipedia.org/wiki/Mo%C4%9Follar)___ yenilmesiyle birlikte ___E:İlhanlılara U:(https://tr.wikipedia.org/wiki/%C4%B0lhanl%C4%B1lar)___ yıllık haraç ödeyen denetim altında bir devlet durumuna gelmiş ve Moğolların devlet yönetimine süreç içinde artan müdahalesiyle, son Anadolu Selçuklu Sultanı ___E:II. Mesud U:(https://tr.wikipedia.org/wiki/II._Mesud)___ ’un da ölümüyle birlikte dağılmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#19",
+            "sentence": "___E:Avrupa U:(https://tr.wikipedia.org/wiki/Avrupa)___ ’dan birkaç tarihçi, I. Haçlı Seferi sırasında Anadolu’da karşılarına çıkan Türk savaş gücü ve karşılaştıkları Türkmen gruplarına bakarak Anadolu’nun artık Türk diyarı olduğunu görmüşler ve bu topraklara '' Türkiye'' demeye başlamışlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#20",
+            "sentence": "Diğer yandan, bu dönemde tüm ___E:İslam dünyasının U:(https://tr.wikipedia.org/wiki/%C4%B0slam_d%C3%BCnyas%C4%B1)___ Anadolu için kullandığı ifade ''Diyar-ı Rum''dur.   Dolayısıyla ülkeye Rum Sultanlığı da denilmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#21",
+            "sentence": "Anadolu Selçuklu Devleti’nin kuruluşu yıllarından önceki yüzyıllarda Anadolu, Bizans – Arap ve Bizans – ___E:Sasani U:(https://tr.wikipedia.org/wiki/Sasani_%C4%B0mparatorlu%C4%9Fu)___ mücadelelerinin yaşandığı topraklardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#22",
+            "sentence": "Yüzyıllara yayılan bu savaşlar, ekonomik ilişkileri büyük ölçüde yıpratmış, ticaret daralmış, üretim ve gelir düşmüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#23",
+            "sentence": "Hem savaşlar, hem ekonomik çöküntü, nüfusun azalmasına yol açmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#24",
+            "sentence": "Bölgede Bizans merkezî otoritesinin zayıflaması ise yerel otoritelerin bölgeler üzerindeki erkini arttırmış, belirgin bir biçimde kendi başına, keyfi davranmalarına, bunun sonucu halkı daha da ezmelerine neden olmuştur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#25",
+            "sentence": "Uluslararası transit ticaretin Anadolu’dan geçen kuzey – güney ve doğu – batı hatları daha önceden, Orta Doğu’nun ve ___E:Levant U:(https://tr.wikipedia.org/wiki/Levant)___ ’ın İslam İmparatorluğu’nun kontrolünde olması dolayısıyla kesilmişti."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#26",
+            "sentence": "Bu durum Anadolu’yu transit ticaretin dışında bırakmıştır, ayrıca bir ekonomik daralmaya yol açmıştır.  ___E:Sasani İmparatorluğu U:(https://tr.wikipedia.org/wiki/Sasani_%C4%B0mparatorlu%C4%9Fu)___ ’nun 651 yılında ___E:Raşidin Orduları U:(https://tr.wikipedia.org/wiki/R%C3%A2%C5%9Fid%C3%AEn_ordusu)___ tarafından yıkıldıktan sonra Anadolu yine de politik ve sosyoekonomik olarak rahatlamış değildir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#27",
+            "sentence": "Bu kez de ___E:Emeviler U:(https://tr.wikipedia.org/wiki/Emev%C3%AEler)___ ve ___E:Abbasiler U:(https://tr.wikipedia.org/wiki/Abb%C3%A2s%C3%AEler)___ devrinde Anadolu, İslam dünyasını “gaza sahası hâline gelecektir.” Her bahar Müslüman ülkelerden kalkıp gelen dinsel ülküleri uğruna savaşanlar, toplanma yerleri Tarsus ve Malatya'da bir araya gelerek Bizans yerleşimlerine, zaman zaman derinlemesine akınlara çıkıyordu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#28",
+            "sentence": "Bu derinlik birkaç kez Konstantinepolis'e kadar ulaşmış, kenti kuşatmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#29",
+            "sentence": "Bu akınlar sırasında surlarla çevrili kentler kısmen korunabildiyse de kırsal alan ağır biçimde yağmalanmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#30",
+            "sentence": "Sonuç olarak kırsal alan nüfusu bir kez daha boşalmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#31",
+            "sentence": "Anadolu Selçuklu Devleti tarihi,"
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#32",
+            "sentence": "üç dönem olarak değerlendirilir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#33",
+            "sentence": "Anadolu'da siyasi birliğin sağlanması ise şu aşamalarla olmuştur. ___E:Danişmendli Beyliklerinin U:(https://tr.wikipedia.org/wiki/D%C3%A2ni%C5%9Fmendliler_Beyli%C4%9Fi)___ ilhakı ___E:II. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/II._K%C4%B1l%C4%B1%C3%A7_Arslan)___ tarafından, Sivas şubesi (1169), Kayseri şubesi (1175) ve Malatya şubesi (1178), ___E:II. Süleyman Şah U:(https://tr.wikipedia.org/wiki/II._S%C3%BCleyman_%C5%9Eah)___ 'ın Erzurum ___E:Saltuklular U:(https://tr.wikipedia.org/wiki/Saltuklu_Beyli%C4%9Fi)___ 'ı ilhakı (1202), ___E:I. Alaeddin Keykubat U:(https://tr.wikipedia.org/wiki/I._Al%C3%A2eddin_Keykubad)___ 'ın Erzincan ___E:Mengüçlü Beyliği U:(https://tr.wikipedia.org/wiki/Meng%C3%BCcekliler)___ 'ni ilhakı (1228), Harput ___E:Sökmenoğulları U:(https://tr.wikipedia.org/wiki/Artuklu_beyleri_listesi)___ Beyliği'ni (1234) ile sağlanmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#34",
+            "sentence": "Kutalmışoğlu Süleyman Şah'ın babası ___E:Kutalmış U:(https://tr.wikipedia.org/wiki/Kutalm%C4%B1%C5%9F)___ , Selçuklu Sultanı ___E:Tuğrul Bey U:(https://tr.wikipedia.org/wiki/Tu%C4%9Frul)___ ile ___E:Çağrı Bey U:(https://tr.wikipedia.org/wiki/%C3%87a%C4%9Fr%C4%B1_(Horasan_Sel%C3%A7uklu_meliki))___ 'in amcaoğluydu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#35",
+            "sentence": "Kutalmış Büyük Selçuklu Sultanlığı tahtına geçen ___E:Alparslan U:(https://tr.wikipedia.org/wiki/Alp_Arslan)___ 'ın sultanlığını kabul etmemiş ve onun ile başarısız bir çatışmaya girişmiş ve bu sırada, 1064 yılında öldürülmüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#36",
+            "sentence": "Daha sonra Anadolu'ya gelen Kutalmışoğulları burada yanlarındaki Türkmen gruplarıyla birlikte kendilerine yurt edinme mücadelesi başlamıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#37",
+            "sentence": "Dört kardeşten en son Süleyman Şah hayatta kalmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#38",
+            "sentence": "Bizans sınırlarında yönetimini kuran Kutalmışoğlu Süleyman Şah, Bizanslılarla bazen savaşarak bazen Bizans isyancılarına yardım ederek egemenliği altındaki toprakların sınırlarını büyütmeyi başarmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#39",
+            "sentence": "Bizans İmparatorluğu'nun Anadolu'da bulunan önemli kentlerinden ___E:İznik U:(https://tr.wikipedia.org/wiki/%C4%B0znik)___ (Nicaea) ile ___E:İzmit U:(https://tr.wikipedia.org/wiki/%C4%B0zmit)___ ( ___E:Nicomedia U:(https://tr.wikipedia.org/wiki/Nikomedia)___ )'i 1075'te ele geçirmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#40",
+            "sentence": "Ardından Güney Marmara bölgesine tümüyle egemen olmuş, 1077'de özerkliğini ilan edip ___E:İznik U:(https://tr.wikipedia.org/wiki/%C4%B0znik)___ merkezli bağımsız bir devlet olarak Anadolu Selçuklu Devleti'ni kurmuştur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#41",
+            "sentence": "Bizans'ın ___E:Rumeli U:(https://tr.wikipedia.org/wiki/Rumeli)___ orduları komutanı ___E:Bryennios U:(https://tr.wikipedia.org/wiki/Nikiforos_Briennios_(ya%C5%9Fl%C4%B1))___ 1075 yılında İstanbul üzerine yürümesinden yararlanmak isteyen Bizans Anadolu orduları komutanı, ___E:Nikiforos Botaneiates U:(https://tr.wikipedia.org/wiki/III._Nikiforos)___ 'e karşı Bizans İmparatoru ___E:VII. Mihail U:(https://tr.wikipedia.org/wiki/VII._Mihail)___ ile asker yardımı üzerine 1078'de bir anlaşma yapan Süleyman Şah, İznik ile Kütahya arasında asi generalle karşılaşınca, daha uygun koşullar önerilmesi üzerine taraf değiştirip Botaeiates'in yanında yer almış ve onun ___E:III. Nikiforos U:(https://tr.wikipedia.org/wiki/III._Nikiforos)___ adı ile Bizans İmparatoru olmasına önayak olmuştur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#42",
+            "sentence": "Bu yardım dolayısıyla Bizanslılar göçmen Türkmenlerin Anadolu'da da Boğaz kıyılarına kadar gelip yerleşmelerini kabul etmişlerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#43",
+            "sentence": "Batı sınırlarını güvenliğe alan Süleyman Şah, veziri ___E:Ebu'l-Kasım U:(https://tr.wikipedia.org/wiki/Eb%C3%BC%27l-K%C3%A2s%C4%B1m)___ 'ı İznik'te yönetici olarak bırakan Süleyman Şah, doğu sınırlarını genişletme planları ile 1084'te Çukurova (Kilikya)'ya (ve belki de Suriye üzerine) bir sefere çıkmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#44",
+            "sentence": "Bu sefer sonucu Tarsus, Adana ve Antakya'yı ele geçirmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#45",
+            "sentence": "Ardından Suriye'ye yönelmiş ve ___E:Halep U:(https://tr.wikipedia.org/wiki/Halep)___ 'i kuşatmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#46",
+            "sentence": "Halep emirinin ___E:Tutuş U:(https://tr.wikipedia.org/wiki/I._Tutu%C5%9F)___ 'dan yardım istemesi üzerine Tutuş Halep'e doğru yola çıkmış, 4 Haziran 1086 tarihinde Süleyman Şah'la savaşa girmiştir. ___E:Ayn Seylem Muharebesi U:(https://tr.wikipedia.org/wiki/Ayn_Seylem_Muharebesi)___ 'nde Anadolu Selçuklu kuvvetleri yenilgiye uğramış, Süleyman Şah ölmüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#47",
+            "sentence": "Süleyman Şah'ın bu sefere çıkarken, başkent İznik'te yerine vekil olarak bıraktığı ___E:Ebu'l-Kasım U:(https://tr.wikipedia.org/wiki/Eb%C3%BC%27l-K%C3%A2s%C4%B1m)___ Süleyman Şah'ın 1086 yılında ölümü ve oğulları ___E:I. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/I._K%C4%B1l%C4%B1%C3%A7_Arslan)___ ve Kulan Arslan'ın Melikşah tarafından hapsedilmesi üzerine İznik tahtına çıkmış ve kardeşi Ebu'l Gazi'yi ___E:Kapadokya U:(https://tr.wikipedia.org/wiki/Kapadokya)___ (Kayseri) valiliğine tayin etmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#48",
+            "sentence": "Ardından kardeşi Ebu'l-Gazi Hasan Bey'le birlikte ___E:Marmara U:(https://tr.wikipedia.org/wiki/Marmara_Denizi)___ kıyılarında ___E:Bizanslılarla U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu)___ savaşarak devletin sınırlarını genişletmeye başladı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#49",
+            "sentence": "Sultan gibi hareket etmeye başlamasından rahatsız olan Melikşah, Anadolu'yu boyun eğdirmek için Emir Porsuk'u Anadolu'ya göndermiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#50",
+            "sentence": "Kardeşi Ebu'l-Gazi Hasan Bey'le birlikte ___E:Marmara U:(https://tr.wikipedia.org/wiki/Marmara_Denizi)___ dolayında ___E:Bizanslılarla U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu)___ savaşarak devletin sınırlarını genişletmeye başladı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#51",
+            "sentence": "Bizans imparatoru ___E:I. Aleksios U:(https://tr.wikipedia.org/wiki/I._Aleksios)___ 'un ( h. 1081-1118 ) buna tepkisi İznik üzerine bir ordu göndermek olmuştur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#52",
+            "sentence": "Bu durum Ebu-l Kasım'ı barış istemek zorunda bırakmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#53",
+            "sentence": "Bu arada Anadolu'yu boyun eğdirmek isteyen Büyük Selçuklu Devleti hükümdarı Melikşah, Emir Porsuk'u Ebu'l-Kasım'ın üzerine yollamıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#54",
+            "sentence": "İznik'i üç aylık bir kuşatmaya karşın düşüremeyen Porsuk kuşatmayı kaldırarak geri çekilmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#55",
+            "sentence": "Emir Porsuk'un başarısız olması üzerine Melikşah Emir Bozan'ı göndermiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#56",
+            "sentence": "Bozan da kenti alamadı ve geri çekildi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#57",
+            "sentence": "Bu geri çekilmeden yararlanan Ebu-l Kasım, Melikşah'a buyruğunda olduğunu bildirip onayını almak için İsfahan'a gitmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#58",
+            "sentence": "Ancak Melikşah onunda görüşmeyi kabul etmedi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#59",
+            "sentence": "Ebu-l Kasım İznik'e dönüş yolunda Emir Bozan'ın adamları tarafından yakalanıp öldürülmüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#60",
+            "sentence": "___E:Süleyman Şah U:(https://tr.wikipedia.org/wiki/I._S%C3%BCleyman_%C5%9Eah)___ 'ın 1086 yılında ___E:Ayn Seylem Savaşı U:(https://tr.wikipedia.org/wiki/Ayn_Seylem_Muharebesi)___ 'nda ölümünden sonra oğulları Kılıç Arslan ve ___E:Kulan Arslan U:(https://tr.wikipedia.org/wiki/Kulan_Arslan)___ , ___E:Büyük Selçuklu Devleti U:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Sel%C3%A7uklu_%C4%B0mparatorlu%C4%9Fu)___ Sultanı ___E:Melikşah U:(https://tr.wikipedia.org/wiki/I._Melik%C5%9Fah)___ tarafından tutsak alınmıştı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#61",
+            "sentence": "Melikşah'ın ölümü ardından iki kardeş serbest kalarak Anadolu'ya geldiler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#62",
+            "sentence": "İznik'e ulaştıklarında kent Bizans güçleri tarafından kuşatılmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#63",
+            "sentence": "Yine de Ebu'l Gazi tahtı Kılıç Arslan'a vermiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#64",
+            "sentence": "Kılıç Arslan önce Bizans ordusu üzerine kendi ordusunu sürüp durumu dengelemiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#65",
+            "sentence": "Bunun üzerine ordusuyla 1095 yılında Doğu Anadolu üzerine sefere çıkmış, Malatya'yı kuşatmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#66",
+            "sentence": "Ancak kuşatma uzarken Haçlı güçlerinin İznik'i kuşattığı haberi gelince geri dönmüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#67",
+            "sentence": "Kente ulaştığında kent kuşatma altındadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#68",
+            "sentence": "Dışarıdan saldırıyı denese de başarılı olamamış, kent savunmasını karar konusunda serbest bırakıp çekilmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#69",
+            "sentence": "Bunun üzerine kent savunması, Bizans Kumandanı ile anlaşarak 19 Haziran 1097 tarihinde kenti ona teslim ettiler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#70",
+            "sentence": "Anadolu'dan yeni kuvvetlerin katılmasıyla güçlerini pekiştiren Kılıç Arslan, ilerleyen Haçlı ordusunu Dorileon'da ( ___E:Şarhöyük U:(https://tr.wikipedia.org/wiki/%C5%9Earh%C3%B6y%C3%BCk)___ / Eskişehir) karşılamış, burada yapılan ___E:Dorileon Muharebesi U:(https://tr.wikipedia.org/wiki/Dorileon_Muharebesi_(1097))___ 'nde yenilgiye uğrayıp çekilmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#71",
+            "sentence": "Bu yenilgiden sonra I. Kılıç Arslan Haçlıların en çabuk bir biçimde Anadolu'dan geçmesine izin vermeyi ve onlarla doğrudan doğruya çatışmaya girişmemeyi yeğledi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#72",
+            "sentence": "Anadolu'da ilerleyen Haçlı ordusu önündeki insan ve hayvan bakım ve besleme stoklarını önceden yakıp yıkarak, onları uzaktan izleme stratejisini uyguladı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#73",
+            "sentence": "Anadolu'yu geçen Haçlılar sonunda ___E:Kudüs U:(https://tr.wikipedia.org/wiki/Kud%C3%BCs)___ 'ü ele geçirdiler. ___E:1101 Haçlı Seferi U:(https://tr.wikipedia.org/wiki/1101_Ha%C3%A7l%C4%B1_Seferi)___ 'nde ise strateji değiştiren Kılıç Arslan, bu kez ___E:yakıp yıkma taktiği U:(https://tr.wikipedia.org/wiki/Yak%C4%B1p_y%C4%B1kma_takti%C4%9Fi)___ benimsemiş, bu yolla yıprattığı üç Haçlı ordusunu yok etmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#74",
+            "sentence": "Haçlı fırtınası geçtikten sonra ___E:Haçlılar U:(https://tr.wikipedia.org/wiki/Ha%C3%A7l%C4%B1_Seferleri)___ tarafından ele geçirilen ___E:Antakya U:(https://tr.wikipedia.org/wiki/Antakya)___ 'yı geri almak için 1103 yılında sefer düzenledi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#75",
+            "sentence": "Ancak sonra yön değiştirerek Maraş'ı Malatya'yı ve Musul'u aldı. Bu gelişmeler Büyük Selçuklu Devleti'nin tepkisini çekince üzerine ordu gönderildi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#76",
+            "sentence": "Yapılan savaşta Kılıç Arslan yenilmiş, çekilirken ___E:Habur Çayı U:(https://tr.wikipedia.org/wiki/Habur_%C3%87ay%C4%B1)___ geçişinde atından düşüp boğularak 14 Haziran 1107 tarihinde ölmüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#77",
+            "sentence": "Kılıç Arslan'ın ölümüyle birlikte onun Anadolu'da kurmuş olduğu siyasi birlik hızla bozulmuştur. ___E:Danişmendliler Beyliği U:(https://tr.wikipedia.org/wiki/D%C3%A2ni%C5%9Fmendliler_Beyli%C4%9Fi)___ ; Anadolu Selçuklularını gölgede bırakarak Anadolu'nun en güçlü Türk devleti olmuştur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#78",
+            "sentence": "Musul kentinin Emir Çavlı tarafından alındıktan sonra Bozmış Bey, Kılıç Arslan'ın hatunu ve küçük oğlu Tuğrul-Arslan'ı Malatya'ya getirmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#79",
+            "sentence": "Emir Çavlı, Musul'u aldıktan sonra Kılıç Arslan'ın diğer oğullarından Şahin Şah'ı (İbn ül-Esir ve Ebu'l Ferec onun adını Melikşah olarak yazar) yakalayarak Büyük Selçuklu sultanı ___E:Muhammed Tapar U:(https://tr.wikipedia.org/wiki/Muhammed_Tapar)___ 'a göndermiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#80",
+            "sentence": "Bozmış Bey, Malatya'ya getirdiği Kılıç Arslan'ın küçük oğlu Tuğrul-Arslan'ı sultan ilan etmiş ancak Kılıç Arslan'ın hatunu, İl Arslan adında bir beyle evlenerek Bozmış'ı öldürmüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#81",
+            "sentence": "İl Arslan, Malatya halkını baskı yaparak çok sayıda altın toplamış, ardından da Konya'ya gitmek üzere iken Kılıç Arslan'ın hatunu ve oğlu, İl Arslan'ı hapsetmiş, daha sonra da onu Büyük Selçuklu sultanı Muhammed Tapar'a göndermişlerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#82",
+            "sentence": "Anadolu'nun başsız kaldığını gören Muhammed Tapar, bu durumda elinde bulunan Şahin Şah'ı Malatya'ya göndererek Tuğrul-Arslan'ı tahtan indirtmiş ve yerine Şahin Şah, Konya'da sultanlığını ilan etmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#83",
+            "sentence": "Süryani kaynaklarının bu ayrıntılı anlatımına karşılık bazı kaynaklar da Şahin Şah'ın, Büyük Selçukluların elinden kaçarak Anadolu'ya ulaştığını ve amcazadesini ortadan kaldırarak tahtı elde ettiğini kaydeder."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#84",
+            "sentence": "Anadolu Selçuklu tahtı bir süre boş kaldıktan sonra, I. Kılıç Arslan'ın oğlu ___E:Şahin Şah U:(https://tr.wikipedia.org/wiki/Melik%C5%9Fah_(Anadolu_Sel%C3%A7uklu_sultan%C4%B1))___ 1110'da başa geçti."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#85",
+            "sentence": "Ama kardeşi Rükneddin Mesud onun sultanlığını tanımadı ve Danişmendlilerin desteğiyle iktidarı ele geçirdi. ___E:I. Rükneddin Mesud U:(https://tr.wikipedia.org/wiki/I._Mesud)___ , bir süre Danişmendlilerin denetimi altında kaldı. 1142'de Danişmendli Mehmed Bey'in ölümünün ardından Anadolu Selçuklularının Anadolu'daki üstünlüğünü yeniden kurdu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#86",
+            "sentence": "Bizans ordusunu 1146'da Konya önlerinde yendi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#87",
+            "sentence": "Ertesi yıl II. Haçlı ordusunu Eskişehir yakınlarında bozguna uğrattı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#88",
+            "sentence": "I. Rükneddin Mesud, geleneğe uyarak ülkesini üç oğlu arasında paylaştırdı ve ___E:II. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/II._K%C4%B1l%C4%B1%C3%A7_Arslan)___ 'ı veliaht ilan etti. I."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#89",
+            "sentence": "Rükneddin Mesud'un 1155'te ölmesinin ardından oğulları arasında taht kavgaları başladı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#90",
+            "sentence": "Bu sırada ___E:Danişmendliler U:(https://tr.wikipedia.org/wiki/D%C3%A2ni%C5%9Fmendliler_Beyli%C4%9Fi)___ , ___E:Bizanslılar U:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu)___ , ___E:Musul U:(https://tr.wikipedia.org/wiki/Musul)___ Atabeyi ___E:Nureddin Mahmud Zengi U:(https://tr.wikipedia.org/wiki/N%C3%BBreddin_Mahmud_Zeng%C3%AE)___ ve ___E:Ermeni U:(https://tr.wikipedia.org/wiki/Ermeniler)___ Derebeyi Toros birleşerek Anadolu Selçuklu Devleti'ne karşı harekete geçtiler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#91",
+            "sentence": "II. Kılıç Arslan devleti ayakta tutabilmek için önce Bizans'la barış yapmanın yollarını aradı ve İstanbul'a giderek bir antlaşma yaptı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#92",
+            "sentence": "Daha sonra, amcası Şahin Şah ile Danişmendlilerin birleşik ordusunu yendi. 1175'te Danişmendlilerin egemenliğine son verdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#93",
+            "sentence": "Bir süre sonra II. Kılıç Arslan ile Bizans arasındaki barış bozuldu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#94",
+            "sentence": "Bunun üzerine Bizanslılar büyük bir orduyla Anadolu içlerine girdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#95",
+            "sentence": "II. Kılıç Arslan 1176'da ___E:Denizli U:(https://tr.wikipedia.org/wiki/Denizli)___ / ___E:Çivril U:(https://tr.wikipedia.org/wiki/%C3%87ivril)___ yakınındaki Düzbel geçidi ___E:Miryokefalon Savaşı U:(https://tr.wikipedia.org/wiki/Miryokefalon_Muharebesi)___ 'nda Bizans ordusunu pusuya düşürdü ve ağır bir yenilgiye uğrattı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#96",
+            "sentence": "Bu, Türklerin Anadolu'da Bizans karşısında Malazgirt'ten sonraki en büyük zaferdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#97",
+            "sentence": "Bu yenilginin ardından Bizans, Türkleri Anadolu'dan çıkarma umudunu tümüyle yitirdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#98",
+            "sentence": "___E:II. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/II._K%C4%B1l%C4%B1%C3%A7_Arslan)___ 1186'da ülkesini 11 oğlu arasında paylaştırdı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#99",
+            "sentence": "Ne var ki, daha kendisi hayattayken oğulları arasında veliahtlık mücadelesi başladı. 1192'de II. Kılıç Arslan'ın ölümünden sonra oğullarından I. Gıyaseddin Keyhüsrev tahta çıktı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#100",
+            "sentence": "Ama 1196'da tahtını ağabeyi II. Süleyman Şah'a bırakmak zorunda kaldı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#101",
+            "sentence": "II. Süleyman Şah, ___E:Erzurum U:(https://tr.wikipedia.org/wiki/Erzurum)___ 'u alarak ___E:Saltuklular U:(https://tr.wikipedia.org/wiki/Saltuklu_Beyli%C4%9Fi)___ 'ın varlığına son verdi. 1204'te öldüğünde Anadolu Selçuklu Devleti'ni yeniden eski gücüne ulaştırmıştı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#102",
+            "sentence": "1205'te ___E:I. Gıyaseddin Keyhüsrev U:(https://tr.wikipedia.org/wiki/I._G%C4%B1y%C3%A2seddin_Keyh%C3%BCsrev)___ ikinci kez tahta çıktı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#103",
+            "sentence": "Karadeniz'deki ticaret yollarını kesen Trabzon İmparatorluğu üzerine bir sefer düzenleyerek bu yolu yeniden Türklere açtı. Daha sonra önemli dış ticaret limanı olan ___E:Antalya U:(https://tr.wikipedia.org/wiki/Antalya)___ 'yı topraklarına kattı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#104",
+            "sentence": "I. Gıyaseddin Keyhüsrev, sultanın ülke topraklarını, her biri mülkiyeti ve egemenlik hakları kendilerinde olmak üzere oğulları arasında on bir, kendi egemenliğinde kalanla birlikte on iki ülke hâlinde  paylaştırma geleneğine son vererek merkezî yönetimi güçlendirdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#105",
+            "sentence": "Vilayetleri yönetmekle görevlendirilen şehzadeleri merkezî yönetime bağlı birer vali durumuna getirdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#106",
+            "sentence": "I. Gıyaseddin Keyhüsrev 1211'de öldü. Sultan Keyhüsrev'in üç oğlu (Alaeddin Keykubad, İzzeddin Keykavus, Celaleddin Keyferidun) arasından büyük oğlu ___E:I. İzzeddin Keykavus U:(https://tr.wikipedia.org/wiki/I._%C4%B0zzeddin_Keyk%C3%A2vus)___ tahta çıkmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#107",
+            "sentence": "Önce kendisine karşı ayaklanan kardeşi Alaeddin Keykubad'ı etkisiz hâle getiren I. İzzeddin Keykavus, böylece iktidarını sağlamlaştırdıktan sonra bütün dikkatini Anadolu'da ticaretin canlandırılmasına verdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#108",
+            "sentence": "Kıbrıs Krallığı'yla bir anlaşma yaparak iki ülke arasındaki ticareti serbest hâle getirdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#109",
+            "sentence": "Kuzey ticaret yolunu açmak için Sinop'u ___E:Trabzon İmparatorluğu U:(https://tr.wikipedia.org/wiki/Trabzon_%C4%B0mparatorlu%C4%9Fu)___ 'ndan aldı. Daha sonra, güney ticaret yolunu engelleyen Ermeni derebeyinin üzerine yürüdü ve Ermenileri yenerek Suriye ticaret yolunu açtı. Böylece Anadolu, ticaret kervanlarının merkezi durumuna geldi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#110",
+            "sentence": "1220'de Keykavus'un ölünce kardeşi ___E:I. Alaeddin Keykubad U:(https://tr.wikipedia.org/wiki/I._Al%C3%A2eddin_Keykubad)___ tahta çıktı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#111",
+            "sentence": "En ünlü Anadolu Selçuklu hükümdarlarından biri olan I. Alaeddin Keykubad, Akdeniz kıyısında önemli bir liman olan Kalonoros'u (bugünkü Alanya) aldı. Kendi adından dolayı daha sonra Alaiye olarak anılan bu kentte bir tersane kurdurdu ve kentin kalesini yeniden yaptırdı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#112",
+            "sentence": "Tüccarların karada Ermenilerin, denizde Avrupalı korsanların saldırılarına uğraması üzerine İçel'den Antalya'ya kadar bütün kıyı şeridini topraklarına kattı. ___E:Moğolların U:(https://tr.wikipedia.org/wiki/Mo%C4%9Follar)___ Anadolu'ya girmesi tehlikesi karşısında 1226'da ___E:Eyyubilerle U:(https://tr.wikipedia.org/wiki/Eyy%C3%BBb%C3%AEler)___ ilişkilerini geliştirdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#113",
+            "sentence": "Bu arada ___E:Trabzon İmparatorluğu U:(https://tr.wikipedia.org/wiki/Trabzon_%C4%B0mparatorlu%C4%9Fu)___ 'yla ittifak kuran ___E:Harzemşahları U:(https://tr.wikipedia.org/wiki/Harezm%C5%9Fahlar_Devleti)___ 1230'da ___E:Yassıçemen Muharebesi U:(https://tr.wikipedia.org/wiki/Yass%C4%B1%C3%A7emen_Muharebesi)___ 'nde ağır bir yenilgiye uğrattı. ___E:Moğollara U:(https://tr.wikipedia.org/wiki/Mo%C4%9Follar)___ karşı komşu devletlerle bir birlik kuramayan I. Alaeddin Keykubad, 1233'te Moğol kağanının egemenliğini tanımak zorunda kaldı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#114",
+            "sentence": "Alaeddin Keykubad 1237'de ölünce yerine oğlu ___E:II. Gıyaseddin Keyhüsrev U:(https://tr.wikipedia.org/wiki/II._G%C4%B1y%C3%A2seddin_Keyh%C3%BCsrev)___ tahta çıktı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#115",
+            "sentence": "Ama devletin yönetimi fiilen vezir ___E:Sadeddin Köpek U:(https://tr.wikipedia.org/wiki/Sadeddin_K%C3%B6pek)___ 'in elindeydi. ___E:Moğolların U:(https://tr.wikipedia.org/wiki/Mo%C4%9Follar)___ önünden kaçarak Anadolu'ya sığınan göçebe ___E:Türkmenler U:(https://tr.wikipedia.org/wiki/T%C3%BCrkmenler)___ Anadolu Selçuklu ülkesini tam bir kargaşaya sürükledi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#116",
+            "sentence": "Anadolu Selçuklu yönetimi bu kargaşayı önlemek için sert önlemlere başvurunca, Anadolu Selçuklu tarihinin en büyük ayaklanması patlak verdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#117",
+            "sentence": "Baba İshak'ın önderliğindeki ayaklanmacılar başkent Konya üzerine yürüyünce II. Gıyaseddin Keyhüsrev kenti terk etmek zorunda kaldı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#118",
+            "sentence": "Ama sonunda, 1240'ta ayaklanma kanlı biçimde bastırıldı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#119",
+            "sentence": "___E:Baba İshak ayaklanmasının U:(https://tr.wikipedia.org/wiki/Baba%C3%AE_Ayaklanmas%C4%B1)___ Anadolu Selçuklu Devleti'ni iyice zayıflattığını gören Moğollar, bunu fırsat bilp Anadolu'yu işgal etmeye karar verdiler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#120",
+            "sentence": "Moğol orduları Doğu Anadolu'ya girerek önce Erzurum'u işgal ettiler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#121",
+            "sentence": "Daha sonra, Selçuklu ordusu ve Moğol ordusu Sivas'ın doğusundaki Kösedağ'da karşı karşıya geldiler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#122",
+            "sentence": "II. Gıyaseddin Keyhüsrev'in komutasındaki Selçuklu ordusu, ___E:Kösedağ Muharebesi U:(https://tr.wikipedia.org/wiki/K%C3%B6seda%C4%9F_Muharebesi)___ ʼnde sayıca çok olmasına karşın, yanlış savaş taktikleri yüzünden ağır bir yenilgi aldı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#123",
+            "sentence": "___E:Moğollar U:(https://tr.wikipedia.org/wiki/Mo%C4%9Follar)___ bu savaştan sonra ___E:Erzincan U:(https://tr.wikipedia.org/wiki/Erzincan)___ , ___E:Sivas U:(https://tr.wikipedia.org/wiki/Sivas)___ ve ___E:Kayseri U:(https://tr.wikipedia.org/wiki/Kayseri)___ gibi kentleri ele geçirdiler ve yağmaladılar."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#124",
+            "sentence": "Sultan II. Gıyaseddin Keyhüsrev Moğollarla anlaşma yaptı ve her yıl onlara vergi vermeyi kabul etti. Böylece, Anadolu Selçuklu Devleti Moğollara bağlı bir devlet durumuna geldi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#125",
+            "sentence": "Kösedağ Savaşı'ndan sonra Moğollar Anadolu'da tam bir baskı kurdular."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#126",
+            "sentence": "Koydukları ağır vergiler halkı zor durumda bıraktı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#127",
+            "sentence": "Moğol baskısının yanı sıra, artan Bizans saldırıları, siyasal cinayetler, doğal afetler ve salgın hastalıklar devleti büsbütün sarstı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#128",
+            "sentence": "Anadolu Selçuklu Devleti birkaç kez iki ve üçe bölündü."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#129",
+            "sentence": "___E:Kazvini U:(https://tr.wikipedia.org/wiki/Zekeriya_el-Kazvin%C3%AE)___ 'ye göre Moğol istilasından önce Anadolu Selçuklu maliyesinde devlet gelirleri 27 milyon ___E:dinardı U:(https://tr.wikipedia.org/wiki/Dinar_(para))___ ."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#130",
+            "sentence": "Moğol istilasında sonra büyük ölçüde düşmüştür, 1336 yılında 5 milyon 537 bin dinardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#131",
+            "sentence": "Moğolların baskısının iyice artması üzerine, Anadolu Selçukluları birkaç başarısız ayaklanma denemesine giriştiler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#132",
+            "sentence": "Üstelik, bu ayaklanmalardan birinde Memlüklü Sultanı Baybars'tan yardım istediler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#133",
+            "sentence": "Ordusu ile Anadolu'ya gelen Baybars 1277 yılında Elbistan ovasında Moğolları darmadağın etti. Ancak, Sultan Baybars'ın ülkesine geri dönmesinden sonra, Moğolların intikamı acı oldu. Çok sayıda insanı acımasızca öldürdüler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#134",
+            "sentence": "Bundan sonra Anadolu tümüyle Moğol egemenliğine girdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#135",
+            "sentence": "Anadolu'yu atadıkları valilerle yönettiler. 1308 yılında, son sultan II. Mesud'un ölümünden sonra Anadolu Selçuklu Devleti yıkıldı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#136",
+            "sentence": "Türkiye Selçuklu Devleti'nin II. Gıyaseddin Mesud'un 1308'de ölümü ile resmen de son bulduğu genellikle kabul edilen bir görüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#137",
+            "sentence": "Ayrıca II. Mesud'un yerine ___E:V. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/III._G%C4%B1y%C3%A2seddin_Keyh%C3%BCsrev)___ 'ın geçtiği, böylece hanedanın 1318 yılına kadar sürdüğü de ileri sürülmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#138",
+            "sentence": "Sultan Mesud'un 1308'de ölümünden sonra ___E:Konya U:(https://tr.wikipedia.org/wiki/Konya)___ 'da Selçuklu tahtına V. Kılıç Arslan çıkarılmasına karşın, gerek Anadolu halkı, gerekse Moğollar tarafından kabul görmemiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#139",
+            "sentence": "1317 yılında ___E:İlhanlı U:(https://tr.wikipedia.org/wiki/%C4%B0lhanl%C4%B1lar)___ hükümdarı ___E:Ebu Said Bahadır U:(https://tr.wikipedia.org/wiki/Eb%C3%BB_Said_Bahad%C4%B1r)___ tarafından ___E:Anadolu U:(https://tr.wikipedia.org/wiki/Anadolu)___ ___E:valiliği U:(https://tr.wikipedia.org/wiki/Vali)___ görevine ___E:Timurtaş U:(https://tr.wikipedia.org/wiki/Timurta%C5%9F)___ getirildi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#140",
+            "sentence": "Konya'da o sıralarda Selçuklu tahtında Sultan V. İzzeddin Kılıç Arslan oturuyordu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#141",
+            "sentence": "Timurtaş, ___E:Kayseri U:(https://tr.wikipedia.org/wiki/Kayseri)___ 'yi başkent yaptı ve padişahtan bağımsız olarak Anadolu'yu oradan yönetmeye başladı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#142",
+            "sentence": "V. İzzeddin Kılıç Arslan 1318'de Konya'da öldüğünde, Timurtaş ne ölmüş padişahın oğlu ve yasal varisi Şehzade Alaeddin'in (1365'te öldü) ne de ___E:Selçuklu hanedanının U:(https://tr.wikipedia.org/wiki/Sel%C3%A7uklu_Hanedan%C4%B1)___ herhangi bir temsilcisinin tahta çıkmasına izin vermedi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#143",
+            "sentence": "O. Turan, ___E:Hamdullah Kazvini U:(https://tr.wikipedia.org/wiki/Hamdullah_el-M%C3%BCstevf%C3%AE)___ 'nin 1334 yılında yazdığı tarihinden aktarımıyla Selçuklu saltanatı adının artık kalmadığı, onlardan bazılarının da \"sahillerde ve uçlarda henüz padişah\" olduğu kaydından yola çıkarak bu durumun uç beyliklerinde bazı Selçuklu şehzadelerinin bir süre daha yaşamış olduğunu doğruladığını söylemektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#144",
+            "sentence": "Ona göre ___E:Anonim Selçuknâme U:(https://tr.wikipedia.org/w/index.php?title=Anonim_Sel%C3%A7ukn%C3%A2me&action=edit&redlink=1)___ 'de yer alan \"Sultan Alaeddin bin Süleymanşah bin Melik Rükneddin bin Sultan Gıyaseddin Keyhüsrev bin Alaeddin Keykubâd'ın 765 Muharrem/Ekim 1363 yılında şehit olduğu\" hakkındaki kayıd, hanedan mensubu şehzadelerin, ___E:sultan U:(https://tr.wikipedia.org/wiki/Sultan)___ değil ancak ___E:şehzade U:(https://tr.wikipedia.org/wiki/%C5%9Eehzade)___ olarak bu tarihe kadar var olduklarını ortaya koymaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#145",
+            "sentence": "Anadolu Selçuklu Devleti kuruluş döneminde, tümüyle Türkmen beylerinin emrindeki aşiret savaşçılarından oluşan bir orduya ve bu beylerin görev aldığı sivil devlet yönetimine sahiptir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#146",
+            "sentence": "Devletin kuruluş döneminde, yani 11. yüzyılın son çeyreğinden 12. yüzyıl sonlarına kadar orduda olduğu kadar yönetimsel yapıda da Türkmen ögelerin egemen olduğu ileri sürülmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#147",
+            "sentence": "Bununla birlikte ilk Anadolu Selçuklu sultanlarının az sayıda da olsa kendilerine bağlı gulamlardan oluşan bir hassa gücü olduğu kaynaklarda açıktır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#148",
+            "sentence": "Diğer yandan başkent İznik'in Haçlılar tarafından alınması konusunda bilgi veren kaynaklar, İznik Selçuklu sarayında hazine ve devlet memurları olduğunu gösteren bilgiler verirler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#149",
+            "sentence": "Ancak 12. yüzyıl sonlarından itibaren Anadolu Selçuklu ordusu hızla ___E:gulam U:(https://tr.wikipedia.org/wiki/Gulam)___ ve ___E:ikta U:(https://tr.wikipedia.org/wiki/%C4%B0kta)___ askerlerinin egemen olduğu bir orduya, sivil devlet yönetimi ise yine gulamlıktan gelen, İran kültürüne sahip ögelerin büyük ölçüde elinde olan merkezî bir düzene dönüşmüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#150",
+            "sentence": "Bu dönüşümle ilgili olarak 1176 yılındaki ___E:Miryokefalon Muharebesi U:(https://tr.wikipedia.org/wiki/Miryokefalon_Muharebesi)___ ’nde sonra bilgiler bulunmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#151",
+            "sentence": "Bu saptama dikkate değer olmalıdır, ___E:Doğan Avcıoğlu U:(https://tr.wikipedia.org/wiki/Do%C4%9Fan_Avc%C4%B1o%C4%9Flu)___ gibi araştırmacılar, Miryokefalon’da yenilgi üzerine ___E:Konstantinopolis U:(https://tr.wikipedia.org/wiki/Konstantinopolis)___ ’e çekilen Bizans ordusuna refakat etmek üzere II. Kılıç Arsan tarafından üç komutan yönetiminde üç birliğin görevlendirildiğini yazmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#152",
+            "sentence": "Ancak Türkmenler yolun bir kısmında Bizans ordusuna saldırırlar."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#153",
+            "sentence": "İmparator ___E:I. Manuil U:(https://tr.wikipedia.org/wiki/I._Manuil)___ yakınmalarına II. Kılıç Arslan “Bu Türkmenler benden bağımsız, onları denetleyecek güçte değilim.” karşılığını vermiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#154",
+            "sentence": "Gerçekten de sultanın Bizans imparatoruyla anlaştığı haberi duyulunca Türkmenlerin, sultanı hainlikle suçladıkları, sövdükleri ve ganimet paylarının alarak yurtlarına döndükleri, bir kısmının ise geri çekilmekte olan Bizans ordusuna ganimet için saldırılar düzenledikleri kaynaklarda yer almıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#155",
+            "sentence": "Bizans ordusuna refaket eden Selçuklu subayları ise Türkmenleri, “Kendilerine bağlı olmayan kaba, asi Türkler” olarak tanımlamışlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#156",
+            "sentence": "Miryokefalon Savaşı Anadolu Selçuklu Devleti ordusu ve devlet aygıtı yönünden, kökten bir dönüşümün ilk işaretlerini verir, Türkmenlerin hem devlet aygıtı hem de ordu için artık “güvenilmez” olarak görülmeye başlandığı anlaşılmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#157",
+            "sentence": "Bu bakış biçemiyle, saltanatın ve merkezî devlet otoritesinin sürekliliği açısından, hükümdarla aynı etnik ögeler, varlıklarını ve yaşam tarzlarını bütün bütün sultana borçlu olan gulamlardan daha “tehlikeli” görülmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#158",
+            "sentence": "Sonuçta ümera arasından Türkmen beyleri büyük ölçüde tasfiye edilmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#159",
+            "sentence": "Yalnızca ümera arasından değil, ümeranın emri altındaki güçleri ve hizmetkarlarının bile gulamlardan oluşması sultanlar tarafından yeğlenmiş ve zorla kabul ettirilmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#160",
+            "sentence": "Onların da hemen hemen tümü gulamlardan oluşmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#161",
+            "sentence": "Şehzadelerin tahta çıkışında ise, Türk egemenlik ilkesi egemendir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#162",
+            "sentence": "Türk egemenlik ilkesine göre ülke toprakları hanedanın tüm erkek üyelerinin ortak mülkü olduğu kabul edilir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#163",
+            "sentence": "Buna göre oğullar ve kardeşler tahta geçme hakkı yönünden eşit görülmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#164",
+            "sentence": "Anadolu Selçuklu'da da sultan, oğullarından birini veliaht seçerken diğerleri, sultana bağlı kalmak koşuluyla eyaletlerde yönetim görevi üstlenirlerdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#165",
+            "sentence": "Türk egemenlik anlayışına göre ülke toprakları hanedanın ortak malı olduğundan, sultan öldüğünde kimin tahta geçeceği bir bakıma belirsiz kalmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#166",
+            "sentence": "Sonuç olarak hanedandan herhangi biri, herhangi bir yoldan tahtı ele geçirdiğinde yasallığı tartışma konusu olamaz."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#167",
+            "sentence": "Dolayısıyla bir önceki hükümdar tarafından veliaht atanmış olmanın hiçbir hükmü kalmamaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#168",
+            "sentence": "Farklı bir anlatımla, veliaht tayin edilmesi, diğer şehzadelerin taht üzerinde hak ileri sürmeleri için engel değildir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#169",
+            "sentence": "Sultanın sağlığında onun buyruğuna boyun eğilip veliahta bi'at edilmesi bile, sultan öldüğünde hükümsüz kabul edilir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#170",
+            "sentence": "Şunun altını çizmek gerekir ki, Selçuklu soyundan olmayan bir kimsenin tahta çıkması hiçbir biçimde düşünülemez."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#171",
+            "sentence": "Türk devlet anlayışı gereği hükümdar, ülke topraklarının merkezden uzak bölgelerini şehzadeler (melik, yabgu) arasında bölüştürür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#172",
+            "sentence": "Şehzadeler, kendi bölgelerini iç ve dış işlerinde bağımsız olarak yönetirler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#173",
+            "sentence": "Anadolu Selçuklu da bu egemenlik ilkesini izlemiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#174",
+            "sentence": "Ne var ki bu ilke zaman zaman melikler arasında kanlı savaşlara ve üstelik ülkenin parçalanmasına yol açmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#175",
+            "sentence": "Bunun en açık örneği ___E:II. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/II._K%C4%B1l%C4%B1%C3%A7_Arslan)___ 'ın ülke topraklarını 11 oğlu arasında paylaştırmasıdır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#176",
+            "sentence": "Sonuçta, kendi yaşamı sırasında bile oğulları arasında taht kavgası başlamıştı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#177",
+            "sentence": "Bu konuda çeşitli örnekler vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#178",
+            "sentence": "Bir başka örnek, ___E:II. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/II._K%C4%B1l%C4%B1%C3%A7_Arslan)___ 'ın ___E:I. Gıyaseddin Keyhüsrev U:(https://tr.wikipedia.org/wiki/I._G%C4%B1y%C3%A2seddin_Keyh%C3%BCsrev)___ 'i veliaht atamış olmasına ve tahta geçmesine karşın, en büyük oğlu ___E:II. Süleyman Şah U:(https://tr.wikipedia.org/wiki/II._S%C3%BCleyman_%C5%9Eah)___ 'ın, buna karşı çıkarak kardeşlerinden bazılarıyla işbirliği ettikten sonra diğer kardeşlerini öldürttüğü, Konya'yı kuşatarak Gıyaseddin Keyhüsrev'i Bizans'a sığınmaya zorladığı bilinmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#179",
+            "sentence": "II. Kılıç Arslan dönemine (1156 – 1192) kadar melikler atandıkları eyaletleri bağımsız siyasi / askerî otoritelerine dayanarak yönetmekteydiler, kendi adlarına hutbe okutmakta, ___E:sikke U:(https://tr.wikipedia.org/wiki/Madeni_para)___ kestirmekte, komşu devletlerle sultana danışmadan barış yapabilmekte, savaş ilan edebilmekteydiler. ___E:Rükneddin Süleyman Şah U:(https://tr.wikipedia.org/wiki/II._S%C3%BCleyman_%C5%9Eah)___ ise meliklerin bu erkine son vermek amacıyla şehzadeleri kendilerine ayrılan bölgelerde payitahta bağlı birer vali olarak atamıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#180",
+            "sentence": "Sonuç olarak Anadolu Selçuklu Devleti'nin kuruluşundan yıkılışına kadar olan tarihi, zaman zaman saltanat savaşımlarıyla sarsılmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#181",
+            "sentence": "Bununla da kalmamış, bu saltanat savaşımından sonra tahta çıkan sultan, kendileri için tehlikeli olacağını düşündükleri hanedan üyelerini hapsettirmiş, yay kirişiyle boğdurmuş ya da gözlerine mil çektirerek tasfiye etmişlerdir.  ___E:II. Süleyman Şah U:(https://tr.wikipedia.org/wiki/II._S%C3%BCleyman_%C5%9Eah)___ döneminde (1196 – 1204) melikler yine eyaletlere atanmakla birlikte kendi başlarına hareket edemeyecek biçimde, sultana bağlı olarak, birer vali olarak yönetmeleri sağlanmıştır. ___E:I. Gıyaseddin Keyhüsrev U:(https://tr.wikipedia.org/wiki/I._G%C4%B1y%C3%A2seddin_Keyh%C3%BCsrev)___ ikinci kez Anadolu Selçuklu tahtına geçtiğinde (1205 – 1211) Türk egemenlik geleneğine uyarak oğulları ___E:İzzeddin Keykavus U:(https://tr.wikipedia.org/wiki/I._%C4%B0zzeddin_Keyk%C3%A2vus)___ 'u Malatya'ya, ___E:I. Alaeddin Keykubat U:(https://tr.wikipedia.org/wiki/I._Al%C3%A2eddin_Keykubad)___ 'ı Tokat'a göndermiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#182",
+            "sentence": "Ancak meliklik statüsü bambaşka bir biçim almıştı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#183",
+            "sentence": "Bu biçimde eyalet artık meliklerin kendi mülkü olarak değerlendirme hakları yoktur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#184",
+            "sentence": "Diğer yandan bağımsız bir hükümdar da değillerdir, yalnızca sultan adına yönetme yetkisine sahiptirler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#185",
+            "sentence": "Melikler, adlarına sikke kestirip hutbe okutamazlar, sultanın onayı olmadan komşularıyla savaşa tutuşamaz ya da barış yapamaz olmuşlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#186",
+            "sentence": "Giderlerken yanlarında bu yönetim işini yürütebilecek kadroyu ve sultanın en güvendiği adamlarından birini atabey olarak götürürler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#187",
+            "sentence": "Atabeyin geleneksel görevi şehzadenin eğitimi olmasına karşın bu durumda aynı zamanda, şehzadenin yapıp ettiklerini denetlemek ve gerektiğinde sultana bu konuda rapor vermekle yükümlüdür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#188",
+            "sentence": "Bu biçimde, hanedan üyesi bir erkeğin, ülke yönetimi üzerindeki geleneksel hak iddia etme durumu ortadan kaldırılmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#189",
+            "sentence": "Bir sultanın ölümünün ardından tahta hangi şehzadenin geleceği çoğu kez devlet ricalinin (ümera, devlet adamları ve komutanlar) toplantısında kararlaştırılmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#190",
+            "sentence": "Ancak bu biçimde alınan kararın değiştirildiği bir istisna vardır ve güce dayanır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#191",
+            "sentence": "Bu konuda örnek şöyledir. ___E:Aksarayi U:(https://tr.wikipedia.org/w/index.php?title=Cemalettin_Aksarayi&action=edit&redlink=1)___ 'nin anlatımıyla, II. Süleyman Şah'ın ölümü ardından ümera altı yaşındaki ___E:İzzeddin Kılıç Arslan U:(https://tr.wikipedia.org/wiki/III._K%C4%B1l%C4%B1%C3%A7_Arslan)___ 'ı tahta çıkarmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#192",
+            "sentence": "Ancak bazı emirler, ___E:Konstantinopolis U:(https://tr.wikipedia.org/wiki/Konstantinopolis)___ 'teki Gıyaseddin Keyhüsrev'e haber göndererek tahta geçmek üzere gelmesini istemişlerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#193",
+            "sentence": "Sonuç itibarıyla Gıyaseddin Keyhüsrev'in yeniden tahta oturması, ümeranın bu koşullar altında ortak kararıyla olmuştur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#194",
+            "sentence": "Bu ve bunun gibi olaylarda rol oynayan güç, parasal güçtür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#195",
+            "sentence": "Bu görüşme meclisinde karar, oy çoğunluğuna değil, maddi güce bağlıdır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#196",
+            "sentence": "Eğer bir şehzade, maddi gücü daha yüksek olan ümeranın onayını kazanmışsa, sultan seçilecek olan odur. Veliaht tayin edilmiş olmak ya da büyük oğul olmak, sultan seçilmekte bir şey ifade etmez."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#197",
+            "sentence": "Maddi güç ise ne kadar kalabalık güç besleyebileceğini belirler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#198",
+            "sentence": "Ümeranın kararıyla tahta geçen sultanlar şunlardır. ___E:III. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/III._K%C4%B1l%C4%B1%C3%A7_Arslan)___ (1204, 6 yaşında), ___E:I. Gıyaseddin Keyhüsrev U:(https://tr.wikipedia.org/wiki/I._G%C4%B1y%C3%A2seddin_Keyh%C3%BCsrev)___ (1205), ___E:I. İzzeddin Keykavus U:(https://tr.wikipedia.org/wiki/I._%C4%B0zzeddin_Keyk%C3%A2vus)___ (1211, 11 yaşında), ___E:I. Alaeddin Keykubat U:(https://tr.wikipedia.org/wiki/I._Al%C3%A2eddin_Keykubad)___ (1220), ___E:II. İzzeddin Keykavus U:(https://tr.wikipedia.org/wiki/II._%C4%B0zzeddin_Keyk%C3%A2vus)___ (ilk 1246), ___E:II. Alaeddin Keykubad U:(https://tr.wikipedia.org/wiki/II._Al%C3%A2eddin_Keykubad)___ (1249, 7 yaşında), ___E:IV. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/IV._K%C4%B1l%C4%B1%C3%A7_Arslan)___ (ilk 1249), ___E:III. Gıyaseddin Keyhüsrev U:(https://tr.wikipedia.org/wiki/III._G%C4%B1y%C3%A2seddin_Keyh%C3%BCsrev)___ (1266, 7 yaşında)."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#199",
+            "sentence": "Ümera kararı dışında tahta geçen sultanlar ise; ___E:II. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/II._K%C4%B1l%C4%B1%C3%A7_Arslan)___ , babası I. Mesud tarafından veliaht tayin edilmesi ile 1155'te tahta geçmişir. ___E:I. Mesud U:(https://tr.wikipedia.org/wiki/I._Mesud)___ (1116)(1126 yılında Bizans İmparatoru ___E:İoannis Çelepis Komninos U:(https://tr.wikipedia.org/wiki/%C4%B0oannis_%C3%87elepis_Komninos)___ 'dan yüklüce parasal yardım alarak   ) ve ___E:II. Süleyman Şah U:(https://tr.wikipedia.org/wiki/II._S%C3%BCleyman_%C5%9Eah)___ 1196) güç kullanarak, diğer şehzadeleri tasfiye ederek sultan olmuştur. ___E:Kösedağ Muharebesi U:(https://tr.wikipedia.org/wiki/K%C3%B6seda%C4%9F_Muharebesi)___ 'nden (1243) hemen sonra Anadolu Selçuklu Devleti ___E:İlhanlı U:(https://tr.wikipedia.org/wiki/%C4%B0lhanl%C4%B1lar)___ egemenliğine girince sultanlar artık İlhanlı Sarayı tarafından belirlenir olmuştur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#200",
+            "sentence": "Yönetim erki bütünüyle, İhlanlı ile işbirliği içindeki, İran kültürüne sahip ümeranın eline geçmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#201",
+            "sentence": "Hatta IV. Kılıç Arslan ve III. Gıyaseddin Keyhüsrev, İlhanlı sarayının baskısıyla ümera tarafından öldürtülmüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#202",
+            "sentence": "Sultanların tahta çıkışı üzerinde ümeranın bu denli etkili olması, sultanla ümera arasında sürekli oynak bir güç çekişmesinin olmasını doğurmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#203",
+            "sentence": "Bir sultan değişikliğinde o ana kadar geçerli, yasal olan tüm akit, taahhüt, atama, verilmiş tüm rütbe, makam, mal ve iktalar hükümsüz olmakta, geçerliliğinin sürmesi için yeni sultan tarafından onaylanması ya da yenilenmesi gerekmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#204",
+            "sentence": "Tüm yönetim ve askerî kadrolarda olmamakla birlikte, önemli yerlerde de olan ricalin tüm mesleki kariyeri, baştan aşağı ya da kısmen değişikliğe uğrayabilir dahası, devletin iç ve dış politikasının da değişmesi olanaklıdır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#205",
+            "sentence": "Diğer yandan hiyerarşide değişiklikler olması da mümkündür, ikinci ya da üçüncü kademeden bir yetkilinin sultan değiştikten kısa bir süre sonra en üst makamlara hızla yükselmesi, diğerlerinin azledilmelerine, öldürülmelerine bile neden olacak güce eriştikleri görülebilir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#206",
+            "sentence": "Sivil devlet yönetimini oluşturan devlet ricali (ümera), kendilerine verilen çok geniş iktalar sayesinde büyük bir parasal güce sahip olmuşlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#207",
+            "sentence": "Bu parasal gelire dayanarak emri altında, büyük çoğunluğu gulamlardan oluşan çok kalabalık maiyet kuvvetleri besleyebilmişlerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#208",
+            "sentence": "Emirlerin güçlerine dayanan etkileri yalnızca sultan seçimiyle sınırlı kalmayıp devletin iç ve dış politikasının, gidişatının biçimlenmesinde başat rol oynadığı da görülmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#209",
+            "sentence": "Örneğin ___E:II. İzzeddin Keykavus U:(https://tr.wikipedia.org/wiki/II._%C4%B0zzeddin_Keyk%C3%A2vus)___ 'un veziri Şemseddin Muhammed İsfahani, dönemin İlhanlı hanının hoşnutluğunu ve güvenini kazandıktan sonra Anadolu Selçuklu yönetiminde çok geniş yetkileri elinde toplayarak devleti iki yıl yönetmiş, bu süre içinde kendisi için tehlikeli bulduklarını ortadan kaldırmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#210",
+            "sentence": "Olağanüstü ikta gelirleri ve diğer gelirler sayesinde çok kalabalık koruma gücü beslemek olanaklı olmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#211",
+            "sentence": "Üstelik bazen sultanın hassa güçleriyle bile boy ölçüşecek kadar büyük bir güce sahip olabiliyorlardı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#212",
+            "sentence": "Böyle büyük bir güç bulundurmak, bir yandan prestij sağlarken temel olarak devlet yönetimi üzerinde bir nüfuza sahip olabilmeyi ve kritik bir durumda yaşamını ve mevkiini koruyabilmesini sağlamaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#213",
+            "sentence": "Kuşkusuz bu koşullarda devlet ricali arasında bir nüfuz savaşımı olması kaçınılmazdır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#214",
+            "sentence": "Bu savaşımda ek güç edinme isteğiyle olanak sağlayabildikleri ölçüde yüksek makamlara kendi akrabalarını getirmeye ve birbirleriyle kan bağı oluşturmaya çalışmışlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#215",
+            "sentence": "Diğer yandan yüksek makamların, remi olarak olmasa bile uygulamada kuşaktan kuşağa geçtiğine işaret eden pek çok örnek vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#216",
+            "sentence": "Böylece hem yatay olarak, yüksek makamlara akrabaları yerleştirerek ve kan bağı kurarak, hem de dikey olarak, yine yüksek makamları babadan oğla geçecek zorlamayı yaparak, sivil ve askerî yönetim üzerinde uzun süreli bir nüfuz elde etmişlerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#217",
+            "sentence": "Bu durumları belirgin biçimde ortaya koyan bir örnek ___E:İzzeddin Keykavus U:(https://tr.wikipedia.org/wiki/I._%C4%B0zzeddin_Keyk%C3%A2vus)___ 'un ümera tarafından 11 yaşındayken tahta çıkarılması ardından doğal olarak ümera tarafından yeni atamalar yapılmasıdır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#218",
+            "sentence": "Bu atamalarda vezir yerinde kalırken ___E:Celâleddin Karatay U:(https://tr.wikipedia.org/wiki/Cel%C3%A2leddin_Karatay)___ 'ın saltanat naipliğine, Eseddin Ruzbe atabeyliğe, Şemseddin Has Oğuz beylerbeyliğine ve Fahrüddin Attar pervaneliğe getirilmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#219",
+            "sentence": "Son ikisinin arasında kız alıp – vermeden doğan bir akrabalık vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#220",
+            "sentence": "Birlikte büyük nüfus kazanmaları diğer ümerayı rahatsız etmiş, bir komplo hazırlayarak ikisini de öldürmüşlerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#221",
+            "sentence": "Ümera arasındaki nüfuz savaşımında rakip ya da rakiplerin ortadan kaldırılması çoğu kez ince hesaplara dayanılarak hile ile bir yere yalnız ve silahsız olarak çekilmesi ya da tuzak kurulması biçiminde yapılırdı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#222",
+            "sentence": "Yalnızca bununla kalınmaz, tüm akrabaları, maiyetindeki hizmetkarlar ve muhafızları da tasfiye edilirdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#223",
+            "sentence": "Akrabaları ya öldürülür ya da hapsedilir, adamları da ya öldürülür ya da ellerindeki tüm mallar alınarak kendi hâline bırakılırdı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#224",
+            "sentence": "Kadınlar ve küçük çocuklar, tıpkı malları gibi yağmalanırdı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#225",
+            "sentence": "Ayrıca tüm mal varlığına el konulurdu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#226",
+            "sentence": "Ya hazineye devredilir ya da bazı hâllerde yağmalanırdı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#227",
+            "sentence": "Eğer bu tasfiyede sultanın iradesi varsa hazineye çok büyük miktarlarda para giriyordu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#228",
+            "sentence": "Gelişkin dönemde devlet örgütü hem kuruluş, hem de işleyiş bakımından merkez ve taşra örgütü olarak iki ana bölümlenme gösterir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#229",
+            "sentence": "Merkez örgüt temel olarak devlet ricalini ve saray görevlilerini kapsar."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#230",
+            "sentence": "Sarayda pek çeşitli işlere bakan hizmetkarlar istihdam edilirdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#231",
+            "sentence": "Değişik alt bölümlerin, örneğin mutfak, ahırlar, silahhane, şaraphane gibi kendi personeli ve amirleri olurdu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#232",
+            "sentence": "Birçok saray çalışanı daha sonra saray dışında yönetimsel görevler almışlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#233",
+            "sentence": "Bunların bir bölümü, gayrimüslim ailelerin çocuklarıyken tutsak olarak ele geçirilen ve köle ( ___E:gulam U:(https://tr.wikipedia.org/wiki/Gulam)___ ) olarak köklü bir eğitimden geçirilmiş ögeler iken bir bölümü de yine sarayda Türk kültürüyle etkilenmiş ___E:tacik U:(https://tr.wikipedia.org/wiki/Tacik)___ ögelerdir.."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#234",
+            "sentence": "Örneğin Esededdin Arslan, Şemseddin Hasoğuz, Celâleddin Karatay, Mübarizeddin Ertakuş, Seyfeddin Torumtay, Cemaleddin Ferruh gibi tanınmış devlet görevlileri Müslüman olmayan halklardanken Kemaleddin Kamiyar, ___E:Sâhib Ata Fahreddin Ali U:(https://tr.wikipedia.org/wiki/S%C3%A2hib_Ata)___ , Nasireddin Müstevfi gibi İran kökenli insanlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#235",
+            "sentence": "Bu saray görevlilerinin farklı görevleri vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#236",
+            "sentence": "Temel örgütlenme askerî, yönetsel, mali, şeri ve hukuki, tahriri olmak üzere beş kısımdan oluşurdu ve amirleri devlet ricalini oluşturur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#237",
+            "sentence": "Askerî konulara “beylerbeği”, mali ve yönetsel işlere “sahip” ya da “vezir” ve onlara bağlı daire amirler bakarlardı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#238",
+            "sentence": "Şer'i ve hukuki işlerden ise “Kadılkuzat” ve ona bağlı kadılar sorumludur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#239",
+            "sentence": "Her bölümün amirlerince oluşturulan “divan”lar vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#240",
+            "sentence": "Anadolu Selçuklu Devleti merkez örgütünün saraydaki temel yönetim organları sultana bağlı çalışan çeşitli divanlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#241",
+            "sentence": "Sözcük Arapça olmakla birlikte bir devlet yüksek organı olarak ___E:Sasaniler U:(https://tr.wikipedia.org/wiki/Sasani_%C4%B0mparatorlu%C4%9Fu)___ ’den alınmadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#242",
+            "sentence": "Divan-ı Ali dışında ikinci derecedeki divanlar, günümüz parlamenter rejimlerdeki bakanlıklara denk gelen kurullardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#243",
+            "sentence": "Bunlar içinde Niyabet-i Saltanat, Divan-ı Tuğra, Divan-ı İstifa, Divan-ı Arz ve Divan-ı İşraf-ı Memalik amirleri, Divan-ı Ali toplantılarında hazır bulunurlar."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#244",
+            "sentence": "Bunların dışında yine ikinci derecede divanlar ve amirleri de vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#245",
+            "sentence": "Bu saray görevlilerinin dışında protokolde görece daha düşük makamdaki saray görevlileri ise Camedar (Sultanın kendi giysilerinin ve ödüllendirme olarak verilecek eşyanın, görevlilere özgü giysilerin dikildiği ve saklanıp korunduğu camehanenin ve burada çalışanların şefi), Emir-i Hares (zindan görevlisi), Üstadüddar (tüm saray hizmetkarlarının amiri), Emir-i Şikar (sultanın katıldığı avları, bu avlarda kullanılan köpek ve kuşların bakımınında çalışanların amiri gibi görevliler vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#246",
+            "sentence": "Anadolu Selçuklu egemenlik alanı, merkeze bağlı eyaletlerle bağımlı devletlerden (vassal) oluşmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#247",
+            "sentence": "Merkeze bağlı eyaletler yine merkezden atanan valilerle yönetilirken bağımlı devletler kendi hanedanlıklarınca özerk olarak yönetilmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#248",
+            "sentence": "Bağımlı devletler ___E:Kilikya Ermeni Krallığı U:(https://tr.wikipedia.org/wiki/Kilikya_Ermeni_Krall%C4%B1%C4%9F%C4%B1)___ , Mardin, Hasankeyf ve Amid ___E:Artuklu Beyliği U:(https://tr.wikipedia.org/wiki/Artuklu_Beyli%C4%9Fi)___ , Erzincan ve Divriği ___E:Mengüçlü Beyliği U:(https://tr.wikipedia.org/wiki/Meng%C3%BCcekliler)___ , Sümeysat (günümüzde ___E:Samsat U:(https://tr.wikipedia.org/wiki/Samsat)___ ve Halep ___E:Eyyubileri U:(https://tr.wikipedia.org/wiki/Eyy%C3%BBb%C3%AEler)___ ile dönem dönem Musul Atabeyliği'dir.  Yine de sultan bağımlı devletlerin hükümdarlarını onaylıyor ya da görevinden alarak yerine başka birini atayabiliyordu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#249",
+            "sentence": "Eyaletlerde de merkezdeki divanlara benzer divanlar ve Divan-ı Ali benzeri bir “Eyalet Divanı” vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#250",
+            "sentence": "Eyalet Divanı'na vali başkanlık ederdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#251",
+            "sentence": "Eyaletlerde de merkezdekine benzer bir vezir olmakla birlikte merkezden atanan bu vezir, merkeze karşı sorumlu olmasıyla, merkezin eyaletler üzerindeki erkini, dolayısıyla denetimini temsil etmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#252",
+            "sentence": "Özellikle eyalet valisi bir melikse, meliklerin merkezce denetiminde bu vezirler baş rol oynamaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#253",
+            "sentence": "Valinin emri altında yerleştirilen memurlara “Reis” denmektedir ve bunların da başkanlık ettiği, “Divan-ı Riyaset” adı ile bilinen divanlar vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#254",
+            "sentence": "Reisler “soylu” ailelerden seçilirdi ve babadan oğla geçerdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#255",
+            "sentence": "Eyaletin iç işleri, mali, adli, asayiş, belediye işleri ile vakıfların denetimi reislerin görevleri arasındadır, ilgili divanlarda alınan kararlara göre yürütülürdü."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#256",
+            "sentence": "Eyaletlerdeki askerî konular ise ___E:subaşı U:(https://tr.wikipedia.org/wiki/Suba%C5%9F%C4%B1)___ olarak adlandırılan komutanlar sorumludur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#257",
+            "sentence": "Eyaletlerdeki hukuki anlaşmazlıklara merkezden atanan kadılar bakmaktadır, ancak tebaa ve askerler arasındaki anlaşmazlıklara ayrı kadılar bakmaktadırlar."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#258",
+            "sentence": "Askerî davalara ve miras işlerine “kadı-i leşker” adı verilen askerî kadılar bakmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#259",
+            "sentence": "Eyalet valileri, 12. yüzyıl sonlarına kadar, Büyük Selçuklularda olduğu gibi eyaletlerde geniş ___E:iktalara U:(https://tr.wikipedia.org/wiki/%C4%B0kta)___ sahipken, bu geniş iktaların valilere bağımsız hareket etme olanağı vermesiyle, merkezî otorite için sakıncalı bulunmuş, sonradan terk edilmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#260",
+            "sentence": "Valilere, yönettikleri eyalet dışında parça parça iktalar verilmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#261",
+            "sentence": "Bununla birlikte işlenebilen toprakların büyük bölümü sultanın kullanım yetkisindedir ve askerî ikta olarak belirlenmiş bir askerî görevin yerine getirilmesi koşuluyla ikta askerlerine ayrılmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#262",
+            "sentence": "Uçlarda ise durum değişiktir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#263",
+            "sentence": "Anadolu Selçuklu yönetiminin ülke toprakları üzerinde kurduğu ve yönettiği sosyoekonomik düzen, Türkmenlerin hâlen göçebe ya da yarı-göçebe yaşam sürdüren topluluklarının sürdüregeldiği yaşam biçemiyle bir arada var olabilecek bir yaşam biçemi olamamıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#264",
+            "sentence": "Bu yüzden merkezî yönetim bu toplulukları elden geldiğince sınır boylarına, tercihan Hristiyan komşuların sınırlarıyla ilişkili olan bölgelere, ılımlı bir söyleyişle göndermiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#265",
+            "sentence": "Bu topluluklar buralarda, kendi şeflerinin yönetiminde yarı bağımsız olarak varlıklarını sürdürmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#266",
+            "sentence": "Doğudan sürekli yeni Türkmen grupları geldiği için süreç içinde uçlardaki Türkmen nüfus artmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#267",
+            "sentence": "Hristiyan Bizans yerleşimleri yakın olduğu için de dönem dönem Bizans topraklarına yağma akınları yapıyorlar, Müslüman topluluğa zararları dokunmuyordu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#268",
+            "sentence": "Anadolu Selçuklu ordusunda kuruluş döneminde, sultanların özel bir muhafız kuvveti olarak hassa birlikleri olmasına karşın ordu esas olarak Türkmen aşiretlerinin savaşçılarına dayanmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#269",
+            "sentence": "Anadolu Selçuklu Devleti başlangıçta, hem ordu, hem idare, hem de günlük yaşamda bütünüyle askerî esaslara dayanmaktaydı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#270",
+            "sentence": "Ordu neredeyse bütünüyle Türkmen beylerinin yönetimindeki aşiret savaşçılarından oluşmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#271",
+            "sentence": "Devlet idaresi de bu beylerin sorumluluğundaydı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#272",
+            "sentence": "Fakat zamanla devlet, klasik Türk – İslam devletleri modeline yaklaştı, sivil bir devlet kadrosu, buna uygun sivil bir devlet teşkilatı oluşturuldu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#273",
+            "sentence": "Bu şekilde Anadolu Selçuklu'da bir “payitaht düzeni”, merkeziyetçi bir devlet cihazı, “İran karakterli İslami sistem”  gelişmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#274",
+            "sentence": "Önce devlet kadroları sivilleşirken Türkmen beyleri buradan çekildiler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#275",
+            "sentence": "Daha sonra Türkmen savaşçılarından oluşan ordu, bu sivil teşkilata uyacak, onun gereksinimlerini karşılayacak bir yapıya dönüştü."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#276",
+            "sentence": "Bu dönüşüm zorunluydu ancak sivil devlet teşkilatı, tümüyle Türkmen savaşçılarından oluşan bir orduya uymazdı, Türkmen savaşçıların yanı sıra, çeşitli etnik unsurlardan oluşan gulamlara ve ikta sahiplerine doğru bir dönüşüm oluşmuştur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#277",
+            "sentence": "Sivil kadrolar, gulamlıktan gelen çoğu İranlı unsurlardı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#278",
+            "sentence": "Devlet yönetiminin en önemli mevkilerini bunlar doldurduğu gibi merkezde ve eyaletlerde askerî teşkilatın önemli rütbelerine atanıyorlardı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#279",
+            "sentence": "Gelişme döneminde ise zaman içinde bu bileşim, Türkmen savaşçılarını kapsayan bileşim, sayıca olmasa bile ana bileşenin Türkmen savaşçıları olması anlamında büyük ölçüde tasfiye edilmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#280",
+            "sentence": "En belirgin olarak Alaeddin Keykubat, iktidarı için tehlikeli bulduğu neredeyse iki düzine kadar Türkmen beyini ordudan tasfiye etmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#281",
+            "sentence": "Olgun dönemde Anadolu Selçuklu ordusu, sarayı ve sultanı korumak için gulamlardan oluşan güçlü bir hassa kuvveti, ikta askerleri, emirlerin yine gulamlardan oluşan özel kuvvetleri, şehir kuvvetleri, gönüllüler ile paralı askerlerden ve savaş ya da sefer durumlarına mahsus olmak üzere bağlı devletlerden gelen kuvvetler ve yine savaş durumuna bağlı olarak Türkmen savaşçılarından oluşmaktadır.   ___E:Harzemşahlar U:(https://tr.wikipedia.org/wiki/Harezm%C5%9Fahlar_Devleti)___ ’ın dağılmasıyla gelen çok sayıda Kıpçak asker olmakla birlikte yine de Anadolu Selçuklu ordusunda çok sayıda Türk olmayan unsur seferber edilebilmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#282",
+            "sentence": "Ordunun üçte birinin ise Türkmen olmadığı ileri sürülmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#283",
+            "sentence": "Bütünüyle Türkmen savaşçılarından oluşan ordudan, yukarıda unsurları belirtilen orduya dönüşüm, aynı nedenlerin yarattığı problemlere karşı, aynı çözüm yollarının, hemen hemen aynı tarzda uygulanmasıyla, Büyük Selçuklu Devleti’nde de yaşanmıştı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#284",
+            "sentence": "Olayların akışı, her iki devletin tarihinde neredeyse tümüyle benzer çizgide yürümüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#285",
+            "sentence": "Büyük Selçuklu da, Türkmen grupların, yerleşik – tarımcı topluluklara karşı tutumlarından ve devlet otoritesine her fırsatta karşı çıkmasından duyulan rahatsızlıklara karşılık olarak Türkmenleri “uçlar”a, büyük kısmıyla Anadolu’ya itmişler, askerî seferlerin hemen öncesinde seferber ettikleri tümüyle Türkmenlerden oluşan ordu yerine, sürekli silah altında tutulan güçlü bir ordu oluşturmuşlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#286",
+            "sentence": "Bu ordunun bileşimi de her iki devlette çok benzerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#287",
+            "sentence": "Orduda başkomutan “Beylerbeyi”dir, arapça “Emirü’l-ümera” ya da “Melikü’l-ümera” unvanlarının yerine ilk kez Anadolu Selçuklu'da yer yer kullanılan Türkçe bir sözcüktür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#288",
+            "sentence": "Beylerbeyi, hükümdarlığın ordularının başkomutanlarıdır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#289",
+            "sentence": "Anadolu Selçuklu Devleti'nde merkez ve uç (batı) olmak üzere iki beylerbeyi bulunurdu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#290",
+            "sentence": "Uç beylerbeyi ise Türk askerî geleneğine uygun olarak sağ ve sol kol olarak iki komutanlıktır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#291",
+            "sentence": "Sağ Kol Uç Beylerbeyi merkezi Kastomonu, Sol Kol Uç Beylerbeyi'nin merkezi ise Ankara'dır.   Uç Beyleri, bölgedeki Türkmen kabile şefleri arasından merkez yönetimce atanırdı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#292",
+            "sentence": "Anadolu Selçuklu Devleti kuruluş döneminde tümüyle Türkmen savaşçılarından oluşan bir orduya sahiptir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#293",
+            "sentence": "Bu aşiret savaşçıları kendi beylerinin emrinde savaşa gelirlerdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#294",
+            "sentence": "Devletin sivil yöneticileri de bu Türkmen beylerinden oluşmaktaydı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#295",
+            "sentence": "Anadolu Selçuklu Devleti, ___E:II. Süleyman Şah U:(https://tr.wikipedia.org/wiki/II._S%C3%BCleyman_%C5%9Eah)___ ’tan (1196 – 1204) itibaren, önce ağır ağır, sonra hızla Türk aşiret yapılanışını tasfiye ederek, bütünlük gösteren merkezî bir devlet yapısını esas almıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#296",
+            "sentence": "Anadolu Selçuklu ordusunun ve sivil devlet yönetiminin ne zaman dönüştüğü konusu günümüzde hâlen açık değildir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#297",
+            "sentence": "Devletin kuruluş döneminde, yani 11. yüzyıl sonlarından 12. yüzyıl sonlarına kadar orduda olduğu kadar idari yapıda da Türkmen unsurların hâkim olduğu ileri sürülmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#298",
+            "sentence": "Buna göre gulam istihdamı 12. yüzyıl sonlarından itibaren gelişmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#299",
+            "sentence": "Bu bir yüzyıllık dönem hakkında bilgi veren kaynaklarda gulamlara ilişkin hiçbir bilgi bulunmaz, 1176 yılındaki ___E:Miryokefalon Muharebesi U:(https://tr.wikipedia.org/wiki/Miryokefalon_Muharebesi)___ ’nde sonra bu konuda bilgiler bulunmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#300",
+            "sentence": "Bu tespit dikkate değer olmalıdır, ___E:Doğan Avcıoğlu U:(https://tr.wikipedia.org/wiki/Do%C4%9Fan_Avc%C4%B1o%C4%9Flu)___ , Miryokefalon’da yenilgi üzerine ___E:Konstantinopolis U:(https://tr.wikipedia.org/wiki/Konstantinopolis)___ ’e çekilen Bizans ordusuna refakat etmek üzere üç komutan idaresinde üç birliğin görevlendirildiğini yazmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#301",
+            "sentence": "Ancak Türkmenler yolun bir kısmında Bizans ordusuna saldırırlar."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#302",
+            "sentence": "İmparator ___E:I. Manuil U:(https://tr.wikipedia.org/wiki/I._Manuil)___ yakınmalarına ___E:II. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/II._K%C4%B1l%C4%B1%C3%A7_Arslan)___ “Bu Türkmenler benden bağımsız, onları kontrol edecek güçte değilim.” karşılığını vermiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#303",
+            "sentence": "Gerçekten de sultanın Bizans imparatoruyla anlaştığı haberi duyulunca Türkmenlerin, sultanı hainlikle suçladıkları, küfrettikleri ve ganimet paylarının alarak yurtlarına döndükleri, bir kısmının ise geri çekilmekte olan Bizans ordusuna ganimet için saldırılar düzenledikleri kaynaklarda yer almıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#304",
+            "sentence": "Bizans ordusuna refakat eden Selçuklu subayları ise Türkmenleri, “Kendilerine tabi olmayan kaba, asi Türkler” olarak tanımlamışlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#305",
+            "sentence": "Miryakefalon Muharebesi Anadolu Selçuklu Devleti ordusu ve devlet cihazı yönünden, kökten bir dönüşümün ilk işaretlerini verir, Türkmenlerin hem devlet cihazı hem de ordu için artık “güvenilmez” olduğunu göstermektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#306",
+            "sentence": "Kuşkusuz bu dönüşümün tek nedeni Türkmenlerin bu anlamda güvenilmez görülmesi değildir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#307",
+            "sentence": "Değişen silah bileşimleri ve askerî donanım, hafif süvarinin kullanımını sınırlamaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#308",
+            "sentence": "Türkmen hafif süvarisi hızlı ve okçulukta son derece becerikli olmakla birlikte müstahkem mevkilerini kuşatılmasında yetersiz kalmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#309",
+            "sentence": "Üstelik ağır süvari birlikleri karşısında uygun donanıma sahip değillerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#310",
+            "sentence": "Bununla birlikte Türkmen savaşçıları Anadolu Selçuklu ordusunda daha sonraları da görülmeye devam edilmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#311",
+            "sentence": "Ancak başlarda, kabile şeflerinin emri gereği ya da gönüllü olarak sultanın askerî seferlerine katılan ve sadece ganimetten pay almakla yetinen Türkmenlerin ___E:II. Süleyman Şah U:(https://tr.wikipedia.org/wiki/II._S%C3%BCleyman_%C5%9Eah)___ ’ın 1202 yılındaki ___E:Gürcistan U:(https://tr.wikipedia.org/wiki/G%C3%BCrcistan)___ seferinde paralı asker olarak yer aldıkları ileri sürülmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#312",
+            "sentence": "Daha sonraki tarihlerde paralı Türkmen askerleriyle ilgili kayıtlara rastlanır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#313",
+            "sentence": "Görünürde sultana tabi oldukları üstünkörü ileri sürülen Türkmenlerin esasen kendi kabile şeflerine itaat ettikleri kabul edilirse, merkezî devlet düzenine uyum sağlamalarının beklenemeyeceği ortadadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#314",
+            "sentence": "Anadolu Selçuklu Devleti’nin klasik İslam devletlerinin merkezî devlet düzenini alması sırasında Türkmenlerle payitaht arasındaki uyumun ve bağın giderek yıpranması kaçınılmaz olacaktır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#315",
+            "sentence": "Merkezî devleti tanımlayan prensiplerin, Türkmenlerin göçebe ya da yarı-göçebe bir yaşam tazına aykırı gelecektir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#316",
+            "sentence": "Gulamların ana kaynağı askerî seferler sırasında alınan esirlerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#317",
+            "sentence": "Savaş esirleriyle ilgili kayıtlar Miryokefalon Muharebesi’nden sonra büyük ölçüde artmıştır. ___E:İbn Bibi U:(https://tr.wikipedia.org/wiki/%C4%B0bn_B%C3%AEb%C3%AE)___ , ___E:II. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/II._K%C4%B1l%C4%B1%C3%A7_Arslan)___ ’ın oğullarının çevre ülkelere yaptıkları yağma seferlerinde her yıl yüz binin üzerinde esir getirildiğini belirtmiştir. ___E:I. İzzeddin Keykavus U:(https://tr.wikipedia.org/wiki/I._%C4%B0zzeddin_Keyk%C3%A2vus)___ ’un (h.y. 1211 – 1220) Çinçin Kalesi’nin ele geçirilmesinden sonra köle pazarlarına o denli çok köle sürülmüştür ki, fiyatlar ciddi biçimde düşmüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#318",
+            "sentence": "Tarihî kaynaklar, bu esirler arasında normal olarak kadın ve çocukların da olduğunu kaydetmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#319",
+            "sentence": "Asi Türkmenlerden de hayli esir alınmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#320",
+            "sentence": "Diğer yandan Selçuklu sultanlarına hatırı sayılır çoklukta gulam hediye edildiği belgelerden görülmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#321",
+            "sentence": "Sultanların da çeşitli hükümdarlara, devlet ricaline, hatta dönemin halifesine gulam ve cariyeler hediye gönderdiği bilinmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#322",
+            "sentence": "Sonuç olarak gulam olarak yetiştirilmek üzere çok sayıda ergenlik çağına ulaşmamış oğlan çocuğu vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#323",
+            "sentence": "İbn Bibi’ye göre, Selçuklu sarayında Rum, Ermeni, Gürcü, Rus, Frank, ___E:Deylemli U:(https://tr.wikipedia.org/wiki/Deylem)___ , ___E:Kazvinli U:(https://tr.wikipedia.org/wiki/Kazvin_(eyalet))___ , Kürt, ___E:Tacik U:(https://tr.wikipedia.org/wiki/Tacikler)___ , ___E:Hitaylı U:(https://tr.wikipedia.org/wiki/H%C4%B1tay)___ , ___E:Keşmirli U:(https://tr.wikipedia.org/wiki/Ke%C5%9Fmir)___ , ___E:Kıpçak U:(https://tr.wikipedia.org/wiki/K%C4%B1p%C3%A7aklar)___ ve Türk vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#324",
+            "sentence": "Esasen gulamlar da maaş alırlardı, yılda dört kez, “bişegani” adı verilen bir maaş almaktaydılar."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#325",
+            "sentence": "Gulamlar, sultanın eli altında olduğu kadar, hatta bazen daha yüksek sayılarda olmak üzere, emirin maddi gücüne bağlı sayıda onların maiyetinde de bulunmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#326",
+            "sentence": "Öyle ki ___E:I. Alaeddin Keykubat U:(https://tr.wikipedia.org/wiki/I._Al%C3%A2eddin_Keykubad)___ ’ın öldürttüğü 24 emirin maiyetindeki gulamların, sarayın ve sultanın güvenliğini tehdit edebilecek kadar yüksek sayıda olduğu anlaşılmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#327",
+            "sentence": "Sultanın konuya dikkati Naib Hokkabazoğlu Emir Seyfeddin tarafından çekilmiş, öldürülen emirlerin gulamlarının, kölelerinin ve hizmetkarlarının da öldürülmesini tavsiye edilmiş, sultan da bu emri vermiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#328",
+            "sentence": "Akabinde, sultanın kayınpederi olan Emir Komnenos’un adabınca uyarısı üzerine emir geri alınmıştır. ___E:İbn Bibi U:(https://tr.wikipedia.org/wiki/%C4%B0bn_B%C3%AEb%C3%AE)___ ’nin anlatımından anlaşıldığı kadarıyla, birinci gruptakiler yaşça ileri, ikinci gruptakiler küçük yaşta olanlar olmak üzere iki kategori gulam vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#329",
+            "sentence": "Birinci gruptakilerin malları hazineye alındıktan sonra serbest bırakılmasına, ikinci gruptakilerin ise saraya ___E:taştdar U:(https://tr.wikipedia.org/wiki/Ta%C5%9Ftdar)___ olarak alınması ya da gulamhanelere gönderilmesi emrolunmuştur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#330",
+            "sentence": "Saray gulamları içinde bir alt sınıf olarak “gulam-ı hass”, saray gulamları içinden seçilen ve sadece sultana bağlı bir kıt'a vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#331",
+            "sentence": "Bu sınıf, kendi içinde de çeşitli alt sınıflara ayrılarak sultanın tüm özel hizmetlerini ve muhafızlığını üstlendikleri anlaşılmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#332",
+            "sentence": "Sadece sultanın katıldığı savaşlarda değil, zaman zaman sultanın katılmadığı askerî seferlere de katıldıkları biliniyor."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#333",
+            "sentence": "Sultanın emri üzerine devlet ricali ve emirlerin tutuklanması ya da kim olursa olsun birinin sultanın huzuruna çağrılması işlerini doğal olarak yerine getirmektedirler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#334",
+            "sentence": "Anadol Selçuklu Devleti'nde askerî ikta, 12. yüzyılın sonları itibarıyla yaygın uygulama hâline gelmeye başlamıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#335",
+            "sentence": "En belirgin olarak II. Kılıç Arslan'dan sonra ___E:subaşıların U:(https://tr.wikipedia.org/wiki/Suba%C5%9F%C4%B1)___ yetkilerinin sınırlandığı, böylece askerî iktaların küçültüldüğü, subaşlarının ise kendilerine bağlanan maaşlarla gelir elde ettikleri ileri sürülmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#336",
+            "sentence": "İkta sahibi olan birçok bey belirlenmiş bir sayıda asker beslemekle yükümlüdür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#337",
+            "sentence": "Diğer yandan devlet ricali de maddi gücüne göre asker yetiştirirdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#338",
+            "sentence": "I. Alaeddin Keykubat döneminde ikta askerlerinin sayısı 100 bine ulaşmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#339",
+            "sentence": "Anadolu Selçuklu'nun gelişme döneminde ordunun en büyük bileşeni ikta askerleridir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#340",
+            "sentence": "Paralı askerler daimî ordu içinde değil, askerî seferler öncesinde, bu sefer için tutulan askerlerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#341",
+            "sentence": "Anadolu Selçuklu ordusunda paralı askerlerin istihdam edildiğine dair en eski kayıtlar ___E:II. Süleyman Şah U:(https://tr.wikipedia.org/wiki/II._S%C3%BCleyman_%C5%9Eah)___ ’ın 1202 yılındaki ___E:Gürcistan U:(https://tr.wikipedia.org/wiki/G%C3%BCrcistan)___ seferine ilişkindir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#342",
+            "sentence": "Çok farklı etnik unsurlar arasından alınan paralı askerlere örnek olarak ___E:Gotlar U:(https://tr.wikipedia.org/wiki/Gotlar)___ , ___E:Germenler U:(https://tr.wikipedia.org/wiki/Cermenler)___ , ___E:Normanlar U:(https://tr.wikipedia.org/wiki/Normanlar)___ , ___E:Franklar U:(https://tr.wikipedia.org/wiki/Franklar)___ , ___E:Ermeniler U:(https://tr.wikipedia.org/wiki/Ermeniler)___ , ___E:Ruslar U:(https://tr.wikipedia.org/wiki/Ruslar)___ , ___E:İskandinavlar U:(https://tr.wikipedia.org/wiki/Kuzey_Cermenleri)___ , ___E:Sırplar U:(https://tr.wikipedia.org/wiki/S%C4%B1rplar)___ , ___E:Kıpçaklar U:(https://tr.wikipedia.org/wiki/K%C4%B1p%C3%A7aklar)___ , ___E:Uzlar U:(https://tr.wikipedia.org/wiki/Uzlar)___ , ___E:Peçenekler U:(https://tr.wikipedia.org/wiki/Pe%C3%A7enekler)___ , diğer ___E:Türkopoller U:(https://tr.wikipedia.org/wiki/T%C3%BCrkopol)___  sayılmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#343",
+            "sentence": "Köyler tarımsal üretimin merkezleriyken, kalabalık kent nüfusunun çoğunluğunu zanaatçılar ve işçiler oluşturmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#344",
+            "sentence": "Bu nüfusun kentlerde toplanabilmesini sağlayan ise ticarettir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#345",
+            "sentence": "Uluslararası transit ticaret yollarının uzağındaki bile hatırı sayılır bir ticaret hacmi görülmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#346",
+            "sentence": "Anadolu Selçukluları ticarete ve yol güvenliğine büyük önem verdiler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#347",
+            "sentence": "Kervan yollarının güvenliğinin sağlanmasına bağlı olarak Anadolu'da ticaret çok gelişti."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#348",
+            "sentence": "Karadeniz ve Akdeniz'deki limanlar önemli birer dış ticaret merkezi durumuna geldi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#349",
+            "sentence": "Ticareti güvence altına alan devlet, karada haydutların, denizde korsanların saldırısına uğrayarak malları yağmalanan tüccarların zararlarını karşılıyordu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#350",
+            "sentence": "Gerek yolculukları sırasında, gerekse kervansaray ve hanlarda konakladıklarında tüccar ve yolcuların güvenliği ve ihtiyaçları sağlanıyordu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#351",
+            "sentence": "Anadolu Selçuklularında özellikle dokumacılık çok gelişmişti."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#352",
+            "sentence": "Ayrıca Anadolu'nun çeşitli bölgelerindeki demir, bakır, gümüş gibi madenler işletiliyordu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#353",
+            "sentence": "Şehirlerin sağladığı vergi gelirleri içinde en büyük toplam tutan ticari emtiadan alınan vergilerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#354",
+            "sentence": "Ayrıca pazarlardan “bac” adı altında bir harç alınırdı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#355",
+            "sentence": "Ticaretten alınan vergileri toplayan ve denetleyen, maaşlı ya da ___E:iltizam U:(https://tr.wikipedia.org/wiki/%C4%B0ltizam)___ usulü çalışan “şahne” adı verilen görevlilerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#356",
+            "sentence": "Gayrimüslim halktan alınan ___E:cizyeyi U:(https://tr.wikipedia.org/wiki/Cizye)___ “muhassılan-ı harac” adı verilen görevliler tahsil etmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#357",
+            "sentence": "Cizye, Anadolu Selçuklu hazinesi içinde en büyük gelir kalemidir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#358",
+            "sentence": "Anadolu Selçuklu Devleti'nde uygulanan şekliyle toprak kullanımı rejiminde mevcut tarım yapılan arazi, miri topraklar ve bir kısım koşullara göre özel topraklar olarak iki farklı statüdedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#359",
+            "sentence": "Miri topraklar, mülkiyeti sultana ait olmak üzere, has arazi, ikta ve vakıf arazileri olarak kategorilenmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#360",
+            "sentence": "Esasen, mülkiyeti uygulamada sultana ait görünmekle birlikte gerçekte devlete ait arazilerdir, sultan değiştiğinde mülkiyet hakları yeni sultana devrolmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#361",
+            "sentence": "Has arazilerin vergi gelirleri sultana ve hanedan üyelerine ait olan topraklardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#362",
+            "sentence": "İkta arazileri ise mülkiyet hakların yine devlete ait olmak üzere, vergi gelirlerinin tümü ya da bir kısmı devlete verilen belirlenmiş bir hizmet karşılığı olmak üzere şahıslara tahsis edilen arazilerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#363",
+            "sentence": "Bu şahıslar ümera, yani devlet bürokrasisinde bir makam işgal eden ve o makama bağlanan hizmetleri yerine getiren devlet ricali ya da ikta askerleridir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#364",
+            "sentence": "Anadolu Selçuklu Devleti'nde toprak mülkiyeti düzeni “Miri toprak düzeni”dir. Mülkiyet esas olarak devlete aittir ve devlet toprağı işlemek üzere vergi ödemek karşılığında köylülere bir bakıma kiraya vermiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#365",
+            "sentence": "Bu toprakların vergisini toplama hakkı ikta sahiplerine verilmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#366",
+            "sentence": "İkta sahibinin aldığı bu vergiler onun, belirlenmiş bir devlet hizmetini yerine getirmek karşılığında alacağı maaş yerine geçmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#367",
+            "sentence": "Yönetimi ve mali durumu özerktir, devlet tahsildar gönderemez."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#368",
+            "sentence": "Anadolu Selçuklu’da hemen hemen bütün topraklar miri rejime tabidir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#369",
+            "sentence": "Devlet ricali de ikta sahibi kılınmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#370",
+            "sentence": "Ama çoğunluğu askerî iktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#371",
+            "sentence": "İktalar verasete tabi olmadığı gibi kaydi hayat şartı da yoktur, verilen hizmet süresi için verilmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#372",
+            "sentence": "Devlet riacali de çok büyük arazilerden ikta olarak yararlanıyor olmasına karşın aynı stadüdedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#373",
+            "sentence": "İkta sisteminin sonucu olarak tarımdan alınan vergiler hazineye değil ikta sahibine ödenirdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#374",
+            "sentence": "Devlet zekatın onda birini ürün vergisi olarak toplardı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#375",
+            "sentence": "Vergiye esas olan toprak birimi “çift-i avamil”dir, bir çift hayvanla sürülebilecek genişlikteki tarımsal arazidir ve yıllık vergisi nakden ödenmek üzere bir dinardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#376",
+            "sentence": "Mülk arazisi, çoğu kez devlete önemli hizmeti geçmiş kişilere mülkiyet hakkıyla birlikte verilen arazidir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#377",
+            "sentence": "Mül arazisi sahibi, mülkiyetin getirdiği tüm haklara, kullanma, miras bırakma, bağışlama, kiraya verme vs. sahiptir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#378",
+            "sentence": "Çeşitli vakıfların faaliyetlerini sürdürmek için gereken geliri sağlayan gayrimenkul varlıklarıdır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#379",
+            "sentence": "Bu arazilerin vergi ya da kira gelirleri doğrudan doğruya vakıflara kalmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#380",
+            "sentence": "Uluslararası transit ticaretin gelişmesiyle birlikte yeni yeni pazar alanları oluştu, var olanlar genişledi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#381",
+            "sentence": "Özellikle Kayseri’de 13. yüzyılda yazları çalışan ve yabancı tüccarın büyük rağbet ettiği geniş bir pazar ün kazandı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#382",
+            "sentence": "Yabancı tüccarın büyük ölçüde faaliyette bulunduğu bu pazar “Yabanlu Pazarı” olarak bilinmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#383",
+            "sentence": "Anadolu Selçukluları döneminde ülkenin hemen her yerinde imarethaneler vardı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#384",
+            "sentence": "Buralarda yoksul halka, öğrencilere ve yolculara parasız yemek verilirdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#385",
+            "sentence": "Başlıca eğitim kurumları medreselerdi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#386",
+            "sentence": "Başta Konya, Sivas, Tokat ve Amasya olmak üzere birçok kentte medreseler kurulmuştu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#387",
+            "sentence": "Darüşşifa denen hastaneler daha çok Divriği, Sivas, Tokat, Amasra, Kayseri, Konya ve Kastamonu gibi kent merkezlerinde yoğunlaşmışlardı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#388",
+            "sentence": "Kent ve kasabaları birbirine bağlayan yollar üzerinde han ve kervansaray denen konaklama yerleri vardı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#389",
+            "sentence": "Ulaşım ve ticaretin gelişmesine bağlı olarak bu tür konaklama yerlerinin sayısı gittikçe arttı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#390",
+            "sentence": "Bu kurumların giderleri vakıflarca karşılanırdı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#391",
+            "sentence": "Anadolu Selçuklu Devleti'nde kültürel yapı, iki yüzyıl süreye yayılan Oğuz göçleriyle, Orta Asya Türk kültürünün, sıkı ya da gevşek bir İslam anlayışı süzgecinden geçmiş yapıları, İran kültürü ve yerli Bizans kültürünün bir bileşkesi olarak şekillenmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#392",
+            "sentence": "Sonuçta ortaya çıkan, orijinal, benzersiz bir kültürel sentezdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#393",
+            "sentence": "Doğal olarak Anadolu'nun bütününde aynı kültürel yapıların görülmesi beklenemez."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#394",
+            "sentence": "Orta Asya ve ___E:Horasan U:(https://tr.wikipedia.org/wiki/Horasan_(%C4%B0ran))___ ’dan gelen göçebe – sürücü Türkmen topluluklarının yoğun olduğu ___E:Danişmend U:(https://tr.wikipedia.org/wiki/D%C3%A2ni%C5%9Fmendliler_Beyli%C4%9Fi)___ illeri olan Tokat, Niksar, Sivas ve Kayseri bölgelerinde Orta Asya kültürünün, ___E:Artuklu U:(https://tr.wikipedia.org/wiki/Artuklu_Beyli%C4%9Fi)___ bölgesinde İslam önce Iran kültürünün, siyasi merkez olan Konya ve çevresi açılımında ise Orta Asya birikiminden kopuk, Bizans – İslam sentezlemesi denilebilecek bir kültürel yapılanış görülmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#395",
+            "sentence": "Öyle ki bu durum oğullara verilen adlarda belirtin olarak izlenmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#396",
+            "sentence": "Hanedan ailesi, eski Türk adlarını kısa sürede terk ederek oğullarına Keykavus, Keykubat, Keyhüsrev gibi tarihî İran efsanevi kahraman ya da hükümdar adları vermeyi yeğlemiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#397",
+            "sentence": "Türkler yönünden ise, henüz Orta Asya yaşam biçimini, kültürel ögelerini ve inançlarını taşımaya devam eden, İslam kültür ve inançlarını bütünleştirememiş görünüm vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#398",
+            "sentence": "Köy ya da kente yerleşenler İran ve İslam kültürlerinin etkisine girerken, hâlen yarı göçebe geçim ekonomisini sürdüren gruplar ise yerleşim yerlerinde uzak, bol yağış alan bölgeleri, ya da “uçları” tercih etmişlerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#399",
+            "sentence": "Anadolu'nun yeni sahipleri Oğuzlar, 11. ve 12. yüzyıllarda Türkçeyi sadece konuşma dilinde ve sözlü edebiyat geleneklerinde yaşatmaktaydılar."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#400",
+            "sentence": "Bu döneme ait Anadolu'da Türkçe yazılmış hiçbir eserin olmayışı, bize Oğuzların yazı dillerinin bulunmadığını, hatta Kutadgu Bilig gibi dev bir eserin dilini, yani Türkistan yazı dilini bilmediklerini düşündürmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#401",
+            "sentence": "Büyük Selçuklu Devletine hâkim olan dil anlayışı, Anadolu'da da değişmemiş ve iki yüz yıl, yazı dili ihtiyacına Arapça ve Farsça cevap vermiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#402",
+            "sentence": "Bu süre içinde Anadolu Selçuklularının resmî ve edebi dili Farsça, ilim dili Arapçadır.  ___E:İbn Bibi U:(https://tr.wikipedia.org/wiki/%C4%B0bn_B%C3%AEb%C3%AE)___ , Anadolu Selçuklu döneminde Anadolu'da beş dil konuşulduğunu belirtmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#403",
+            "sentence": "Bunlar muhtemelen Rumca, Türkçe, Farsça, Ermenice ve Süryanice'dir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#404",
+            "sentence": "Anadolu'ya kabaca 1075 civarından itibaren büyük sayıda Oğuz göçü gerçekleşmişti."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#405",
+            "sentence": "Anadolu Selçuklu Devleti bu göç hareketinin sağladığı nüfus şartlarında doğmuştur."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#406",
+            "sentence": "Ancak Anadolu nüfusu hâlen seyrektir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#407",
+            "sentence": "Hele 11. yüzyıl boyunca Haçlı Seferleri'nin ve iç çatışmaların soncu nüfus daha da seyrelmişti."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#408",
+            "sentence": "Bununla birlikte ___E:I. Mesud U:(https://tr.wikipedia.org/wiki/I._Mesud)___ 'un hükümdarlık döneminde (1116 -1155) imar çalışmaları başlatılırken Anadolu Türkmenler için çok daha güvenli bir hâl almıştı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#409",
+            "sentence": "Yine de Türkmen nüfus çok büyük ölçüde göçebe – sürücü olduğundan ekonomik ilişkilerin gelişmesi ve devlet gelirlerinin artırılabilmesi için daha fazla yerleşik – tarımcı nüfus gerekmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#410",
+            "sentence": "Oysa zaten önceki yüzyıllarda yaşanan Bizans – ___E:Sasani U:(https://tr.wikipedia.org/wiki/Sasani_%C4%B0mparatorlu%C4%9Fu)___ ve Bizans – Arap savaşları Anadolu ekonomisini bir hayli daraltmıştı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#411",
+            "sentence": "Arap akınlarının ardından gelen Selçuklu akınları da, tarımdan beslenen Bizans kentlerini büsbütün daraltmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#412",
+            "sentence": "Sonuçta Anadolu, tarımsal nüfusun ekonomiyi döndüremediği bir duruma gelmiş, tarımsal nüfusun büyütülmesi gerekmiştir.Bu gereksinimle I. Mesud, ___E:II. Kılıç Arslan U:(https://tr.wikipedia.org/wiki/II._K%C4%B1l%C4%B1%C3%A7_Arslan)___ , ___E:I. Gıyaseddin Keyhüsrev U:(https://tr.wikipedia.org/wiki/I._G%C4%B1y%C3%A2seddin_Keyh%C3%BCsrev)___ ve bazı Danişmendli, Artuklu yöneticiler civar bölgelerden nüfus getirerek toprak, tarım hayvanları, tarım aletleri, tohumluk vs. vermişler, çalışan – üreten nüfusu genişletmeye çalışmışlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#413",
+            "sentence": "Anadolu Selçuklu Devleti'nin kuruluş döneminden Moğol istilasına kadar olan varoluş süresi boyunca nüfus yapısını söyleyecek yeterlilikte kaynak bulunmamaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#414",
+            "sentence": "Anadolu'ya ilk Türk akınlarında Rumların doğu bölgelerinden batıya doğru iskân değiştirdikleri, bu bölgelere zamanla daha büyük Türk nüfusu geldiği bilinmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#415",
+            "sentence": "Bu Türkmen nüfusun bir bölümü, sultanlar tarafından ele geçirilen kentlerin yerli halkı tahliye edilerek onların yerlerine yerleştirilmesiyle yerleşik yaşama geçmişlerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#416",
+            "sentence": "Bu konuda çeşitli örnekler vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#417",
+            "sentence": "Örneğin ___E:Muhiddin Mesud Şah U:(https://tr.wikipedia.org/wiki/Muhiddin_Mesud_%C5%9Eah)___ , 1197'de Kastamonu'ya bağlı Zalifre'yi (günümüzde ___E:Safranbolu U:(https://tr.wikipedia.org/wiki/Safranbolu)___ ) aldıktan sonra yerli Hristiyanların vergi ödeyerek şehirde kalma taleplerini kabul etmeyerek onları sürmüş, yerlerine Türkmenleri yerleştirmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#418",
+            "sentence": "Bu tarz uygulamalar, Anadolu Selçuklu Devleti'nin ilk dönemlerindeki uygulamadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#419",
+            "sentence": "Daha sonra Türkmenlerin iskânı, parçalara ayrılarak \"uç”lara yerleştirilmesi şeklindedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#420",
+            "sentence": "Böylelikle hem sınır boylarında bir düşman tecavüzüne karşı devletin ordusunun müdahalesinden önce karşı koyacak kuvvetler bulundurulmuş oluyordu, hem de ülke içinde çeşitli sorunlara yol açabilecek Türkmen nüfusu değişken ve otoritenin zayıf olduğu bölgelere gönderiliyordu."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#421",
+            "sentence": "Bu ve daha sonraki dönemlerde Anadolu'ya gelen Türklerin tümü göçebe – sürücü değildir, bir kısmı geldikleri yerlerde yerleşik hayata uyum sağlamış ailelerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#422",
+            "sentence": "Yine de Türklerin çoğunluğu hayvancılık, halı ve kilimcilikle geçim sağlayan unsurlardı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#423",
+            "sentence": "Yarı göçebe Türkmenler gruplarının çoğunluğu Batı, Güney ve Güneydoğu Anadolu bölgelerinde toplanmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#424",
+            "sentence": "Orta Anadolu'da çoğunluk yerleşik köy ve şehir topluluklarıdır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#425",
+            "sentence": "Yine de yerleşik toplulukları Anadolu nüfusunun çoğunluğunu oluşturmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#426",
+            "sentence": "Bunun sonucu olarak devlet, yerleşik tarımcıları, zanaatçıları ve tüccarları, üretimin ve dolaşımın gereği olarak himaye etmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#427",
+            "sentence": "Diğer yandan yarı göçebe Türkmen toplulukları bu himayenin dışında yer alır. Bu durum yerleşik halk ve sonuçta devlet için üstesinden gelinmesi güç sorunlar da yaratmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#428",
+            "sentence": "Yarı göçebe Türk topluluklarının yazlak – kışlak arasındaki mevsimlik göçlerinde tarlalara, bağ ve bahçelere zarar verdikleri, bu yüzden köylülerle aralarında zaman zaman da olsa sürtüşmeler yaşandığı, devletin zarara uğrayan köylerin o yılki vergi borçlarını iptal ettiği, hatta tohumluk ve hayvan vermek zorunda kaldığı ileri sürülmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#429",
+            "sentence": "Sonuçta o devirlerden günümüze ulaşan belgelerde Türkmenlerle ilgili ağır ithamlar görülür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#430",
+            "sentence": "Benzer sorunlar Büyük Selçuklu Devleti'yle kendi topraklarındaki Türkmen grupları arasında da yaşanmış, sultanlar Türkmenleri Anadolu'ya sevk etmeye çalışmışlardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#431",
+            "sentence": "Sarayın yönetim prensiplerine göre şekillenen yönetim tarzı, Türkmen grupların henüz yerleşik yaşama geçmemiş olan büyük kısmıyla uzlaşamamasının yol açtığı bu durum karşısında merkezî yönetim, bu Türkmen gruplarının yerleşik yaşamın süregeldiği alanların dışına, ama Hristiyan sınır boylarına sürmüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#432",
+            "sentence": "Bu bölgelerde, yine saray tarafından kendi aralarından belirlenerek atanan bir uç beyinin yönetiminde varlıklarını sürdürmüşlerdir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#433",
+            "sentence": "Bu beyler dışında kalan ve saraya hâkim İran kültürü ile etkilenmiş ve sarayın yönetim tarzıyla uyum sağlayabilmiş Türkmen seçkinler ise, buna rağmen geleneksel yaşam görüşlerini inatla, bilinçli bir direnme göstererek sürdürmüş görünmektedirler."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#434",
+            "sentence": "Selçuklular Devleti'nde edebiyat ve düşüncede büyük gelişmeler oldu. ___E:Necmeddin İshak U:(https://tr.wikipedia.org/w/index.php?title=Necmeddin_%C4%B0shak&action=edit&redlink=1)___ , ___E:Muhiddin Arabi U:(https://tr.wikipedia.org/w/index.php?title=Muhiddin_Arabi&action=edit&redlink=1)___ , ___E:Sadreddin Konevi U:(https://tr.wikipedia.org/wiki/Sadreddin_Konev%C3%AE)___ , ___E:Mevlana Celaleddin Rumi U:(https://tr.wikipedia.org/wiki/Mevl%C3%A2n%C3%A2_Cel%C3%A2ledd%C3%AEn-i_R%C3%BBm%C3%AE)___ gibi bilgin ve yazarlar yetişti."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#435",
+            "sentence": "Anadolu Selçukluları ülkenin pek çok yerinde ___E:cami U:(https://tr.wikipedia.org/wiki/Cami)___ , ___E:han U:(https://tr.wikipedia.org/wiki/Han_(konaklama))___ , ___E:kervansaray U:(https://tr.wikipedia.org/wiki/Kervansaray)___ , ___E:imaret U:(https://tr.wikipedia.org/wiki/%C4%B0maret)___ , köprü, çeşme ve medreseler yaptırdılar. ___E:Beyşehir U:(https://tr.wikipedia.org/wiki/Bey%C5%9Fehir)___ 'deki ___E:Eşrefoğlu Camisi U:(https://tr.wikipedia.org/wiki/E%C5%9Frefo%C4%9Flu_Camii)___ (1296), Anadolu Selçuklu mimarisinin özelliklerini taşıyan en önemli örneklerden biridir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#436",
+            "sentence": "Ağaç direkler üzerine kurulan, içi çini mozaik ve ağaç oyma işleriyle süslenen tip camilerin başka örnekleri de vardır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#437",
+            "sentence": "Anadolu Selçuklu sultanları adına yapılan kervansaraylar \"Sultan Han\" ya da \"Han\" olarak adlandırılırdı."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#438",
+            "sentence": "Hanlar çok büyük boyutlu yapılardı, bir bakıma sultanın ihtişamını yansıtmaktaydılar."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#439",
+            "sentence": "Anadolu Selçuklu mimarisinin günümüze kalan en önemli örnekleri arasında, ___E:Konya U:(https://tr.wikipedia.org/wiki/Konya)___ 'da ___E:Alâeddin Camii U:(https://tr.wikipedia.org/wiki/Al%C3%A2eddin_Camii_(Konya))___ , ___E:Karatay Medresesi U:(https://tr.wikipedia.org/wiki/Karatay_Medresesi)___ , ___E:İnce Minareli Medrese U:(https://tr.wikipedia.org/wiki/%C4%B0nce_Minareli_Medrese)___ , ___E:Beyşehir U:(https://tr.wikipedia.org/wiki/Bey%C5%9Fehir)___ 'de ___E:Kubadabad Sarayı U:(https://tr.wikipedia.org/wiki/Kubadabad_Saray%C4%B1)___ , ___E:Niğde U:(https://tr.wikipedia.org/wiki/Ni%C4%9Fde)___ 'de ___E:Alâeddin Camii U:(https://tr.wikipedia.org/wiki/Al%C3%A2eddin_Camii_(Ni%C4%9Fde))___ , ___E:Ankara U:(https://tr.wikipedia.org/wiki/Ankara)___ 'da ___E:Aslanhane Camisi U:(https://tr.wikipedia.org/w/index.php?title=Aslanhane_Camisi&action=edit&redlink=1)___ , ___E:Kayseri U:(https://tr.wikipedia.org/wiki/Kayseri)___ 'de ___E:Huand Hatun Camii U:(https://tr.wikipedia.org/wiki/Hunad_Hatun_K%C3%BClliyesi)___ ve Külliyesi, ___E:Afyonkarahisar U:(https://tr.wikipedia.org/wiki/Afyonkarahisar)___ 'da ___E:Ulucami U:(https://tr.wikipedia.org/wiki/Ulu_cami)___ , ___E:Erzurum U:(https://tr.wikipedia.org/wiki/Erzurum)___ 'da ___E:Çifte Minareli Medrese U:(https://tr.wikipedia.org/wiki/%C3%87ifte_Minareli_Medrese_(Erzurum))___ , ___E:Sivas U:(https://tr.wikipedia.org/wiki/Sivas)___ 'ta ___E:Gök Medrese U:(https://tr.wikipedia.org/wiki/G%C3%B6k_Medrese_(Sivas))___ , ___E:Buruciye Medresesi U:(https://tr.wikipedia.org/wiki/Buruciye_Medresesi)___ ve ___E:Çifte Minareli Medrese U:(https://tr.wikipedia.org/wiki/%C3%87ifte_Minareli_Medrese_(Sivas))___ , ___E:Kırşehir U:(https://tr.wikipedia.org/wiki/K%C4%B1r%C5%9Fehir)___ 'de Melik Gazi Kümbeti, Ahlat'ta ___E:Ulu Kümbet U:(https://tr.wikipedia.org/w/index.php?title=Ulu_K%C3%BCmbet&action=edit&redlink=1)___ ve ___E:Çifte Kümbetler U:(https://tr.wikipedia.org/w/index.php?title=%C3%87ifte_K%C3%BCmbetler&action=edit&redlink=1)___ ile ___E:Nevşehir U:(https://tr.wikipedia.org/wiki/Nev%C5%9Fehir)___ 'de ( ___E:Tuzköy camii U:(https://tr.wikipedia.org/w/index.php?title=Tuzk%C3%B6y_camii&action=edit&redlink=1)___ , ___E:Kızılkaya camii U:(https://tr.wikipedia.org/w/index.php?title=K%C4%B1z%C4%B1lkaya_camii&action=edit&redlink=1)___ ) ve diğer yapılar ( ___E:Nevşehir Kalesi U:(https://tr.wikipedia.org/wiki/Nev%C5%9Fehir_Kalesi)___ vb), ___E:Çankırı U:(https://tr.wikipedia.org/wiki/%C3%87ank%C4%B1r%C4%B1)___ 'da ___E:Taşmescid U:(https://tr.wikipedia.org/w/index.php?title=Ta%C5%9Fmescid&action=edit&redlink=1)___ gösterilebilir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#440",
+            "sentence": "Anadolu Selçuklu büyük mimari yapıtlarının hepsi de emirler, komutanlar gibi devlet ricali ya da sultanlar tarafından yaptırılmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#441",
+            "sentence": "Bu inşa girişimlerindeki birincil amaç, politik yaşamın gereklerine göre şekillenmiş bir araç ve politik kariyerin bir unsur olmalarıdır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#442",
+            "sentence": "Bu konuda en belirgin örnek, ___E:I. Alaeddin Keykubat U:(https://tr.wikipedia.org/wiki/I._Al%C3%A2eddin_Keykubad)___ 'ın ele geçirdiği Alanya'nın son Bizans beyinin kızı olan ilk eşi ___E:Mahperi Hatun U:(https://tr.wikipedia.org/wiki/Hunad_Hatun)___ 'un eşinin ölümünün hemen ardından Müslüman olması ve bir ___E:külliye U:(https://tr.wikipedia.org/wiki/K%C3%BClliye)___ yaptırmış olmasıdır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#443",
+            "sentence": "Mahperi Hatun eşinin ölümünde ___E:Sadeddin Köpek U:(https://tr.wikipedia.org/wiki/Sadeddin_K%C3%B6pek)___ 'le anlaşarak oğlu ___E:II. Gıyaseddin Keyhüsrev U:(https://tr.wikipedia.org/wiki/II._G%C4%B1y%C3%A2seddin_Keyh%C3%BCsrev)___ 'i devlet ricaline sultan seçtirmiş olması, kocasının ikinci eşi Gaziye Hatun'u ve iki oğlunu ki bunlardan İzzeddin Kılıçarslan Alaeddin Keykubad tarafından veliaht gösterilmişti, öldürtmesi, iki kızını ülke dışına sürdürmesi ile bilinir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#444",
+            "sentence": "Dahası oğlu tahta çıktığında henüz 16 yaşındadır ve annesinin onun vasiliğini üstlenmesi gerekecektir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#445",
+            "sentence": "Bunların sonucunda Müslüman olmasının zorunlu olduğu ileri sürülür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#446",
+            "sentence": "Daha sonra politik durumunu pekiştirmek amaçlı olduğu ileri sürülen bir ___E:külliye U:(https://tr.wikipedia.org/wiki/K%C3%BClliye)___ ve dört ___E:kervansaray U:(https://tr.wikipedia.org/wiki/Kervansaray)___ yaptırmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#447",
+            "sentence": "Anadolu Selçuklu Devleti'nin kurulması ve genişlemesi, Anadolu'da kendi düzenini kurması, Anadolu toplumlarını, bir bütün olarak büyük ölçüde değiştirmiş, dönüştürmüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#448",
+            "sentence": "Yukarıda da belirtildiği gibi, Türkler'in Anadolu'ya büyük kitleler hâlinde, bu kez yurt edinmek için gelmeye başladıkları 1075'ten önce, Anadolu'da hem toplumsal yapı, hem nüfus yoğunluğu, hem de ekonomik ilişkiler ağır bir gerilemenin sonuç tablosunu göstermekteydi."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#449",
+            "sentence": "Anadolu Selçuklu'nun kuruluş dönemi bu durum daha da sarsılmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#450",
+            "sentence": "Hele ___E:I. Haçlı Seferi U:(https://tr.wikipedia.org/wiki/Birinci_Ha%C3%A7l%C4%B1_Seferi)___ ’nin yol açtığı çalkantılarla bütün bu yönlerden durum kötüleşmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#451",
+            "sentence": "Ancak siyasi ve toplumsal çalkantılar, Konya Sultanlığı hâlindeki Anadolu Selçuklu Devleti’nin Anadolu’da görece bir siyasi birlik sağlaması, merkezi bir devlet cihazı oluşturmasıyla gelişme yönüne girmiştir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#452",
+            "sentence": "Anadolu Selçuklu’nun sarsıntılı kuruluş dönemi ve öncesinde, bazıları bütün bütün terk edilmiş ya da nüfusları büyük ölçüde azalmış kentlerin, devletin gelişme döneminde yeniden canlandığı, yeni yeni kentlerin kurulduğu anlaşılmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#453",
+            "sentence": "Arap coğrafyacı ___E:İbn Said U:(https://tr.wikipedia.org/wiki/%C4%B0bn_Sa%C3%AEd_el-Ma%C4%9Frib%C3%AE)___ , Anadolu’da gelişkin 24 şehrin bulunduğunu belirtmektedir."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#454",
+            "sentence": "Ticaret yollarıyla birbirine bağlı olan bu kentlerden bazılarında nüfus 100 binin üzerindedir. ___E:İlhanlı Devleti U:(https://tr.wikipedia.org/wiki/%C4%B0lhanl%C4%B1lar)___ ’nin yıkılması ve Anadolu üzerindeki Moğol baskısının kalmasıyla ortaya çıkan ___E:Anadolu Beylikleri Dönemi U:(https://tr.wikipedia.org/wiki/Anadolu_Beylikleri#İkinci_dönem_Anadolu_beylikleri)___ ’nde Anadolu Selçuklu’nun iç politika prensiplerinin esasen sürdürülmesi sayesinde sosyoekonomik ve kültürel gelişme sürdürülmüştür."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#455",
+            "sentence": "Arap gezgin ___E:İbn Batuta U:(https://tr.wikipedia.org/wiki/%C4%B0bn_Battuta)___ , 14. yüzyılın ilk yarısında Anadolu için “refah ve şefkat ülkesi” diye yazmaktadır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#456",
+            "sentence": "Doğuda Moğol yayılması ve onların önünden çekilen ___E:Kıpçaklar U:(https://tr.wikipedia.org/wiki/K%C4%B1p%C3%A7aklar)___ ’ın etkisi yanında Anadolu’daki belirtilen sosyoekonomik gelişmeler, kalabalık ___E:Oğuz U:(https://tr.wikipedia.org/wiki/O%C4%9Fuzlar)___ topluluklarının Anadolu’ya gelip yerleşmesine yol açmıştır."
+        },
+        {
+            "id": "Anadolu Selçuklu Devleti#457",
+            "sentence": "Günümüzde Osmanlı Tahrir Defterleri üzerinde yapılan bir araştırma, Anadolu’da Oğuz boylarının adını taşıyan 890 köy olduğunu göstermektedir."
+        }
+    ]
+}

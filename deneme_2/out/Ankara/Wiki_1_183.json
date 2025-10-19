@@ -1,0 +1,62 @@
+{
+    "Title": "Turizm",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Turizm#1",
+            "sentence": "Turizm ya da gezim , dinlenmek, eğlenmek, görmek ve tanımak gibi amaçlarla yapılan geziler ve bir ülkeye veya bir bölgeye gezmen (turist) çekmek için alınan ekonomik, kültürel, teknik önlemlerin, yapılan çalışmaların tümüdür."
+        },
+        {
+            "id": "Turizm#2",
+            "sentence": "Turistik gezi, insanların sadece bir yerden bir yere gitmesi değil kültürel, ___E:ekonomik U:(https://tr.wikipedia.org/wiki/Ekonomik)___ ve ___E:toplumsal U:(https://tr.wikipedia.org/wiki/Toplumsal)___ olarak da iletişim içinde olmalarıdır."
+        },
+        {
+            "id": "Turizm#3",
+            "sentence": "Turizm sayesinde insanlar hem diğer ülkelerin, hem kendi ülkelerinde yaşadıkları bölgenin dışındaki güzelliklerin, hem de geçmişte yaşamış olan insanların bırakmış oldukları kültürel mirasın farkına vararak, gelecek kuşaklara daha yaşanılabilir bir dünya bırakmanın gerekliliğine inanarak hayata farklı açılardan bakabilirler."
+        },
+        {
+            "id": "Turizm#4",
+            "sentence": "Turistler gittikleri ülke ya da bölgede gördükleri yerler karşılığında o yöre halkına para kazandırırlar."
+        },
+        {
+            "id": "Turizm#5",
+            "sentence": "Yani turizm ziyaret edilen ülke ve bölgenin ekonomisine büyük bir maddi katkı sağlar."
+        },
+        {
+            "id": "Turizm#6",
+            "sentence": "Turizm açısından Türkiye'ye en çok Antalya ve Bodrum gelir kazandırır."
+        },
+        {
+            "id": "Turizm#7",
+            "sentence": "Turizm sözcüğü ilkin 21. yüzyılda bazı ___E:İngilizlerin U:(https://tr.wikipedia.org/wiki/%C4%B0ngilizler)___ ___E:Avrupa U:(https://tr.wikipedia.org/wiki/Avrupa)___ 'ya yaptığı yolculuklar için kullanılmıştır. ___E:II. Dünya Savaşı U:(https://tr.wikipedia.org/wiki/II._D%C3%BCnya_Sava%C5%9F%C4%B1)___ 'ndan sonra bu eylem, dünya çapında yaygınlık kazanınca, turizm sözcüğü de dilden düşmez olmuştur."
+        },
+        {
+            "id": "Turizm#8",
+            "sentence": "Eskiden yalnız zengin ve aylak kimselerin yaptığı bu geziler, ulaşım kolaylıklarının sürekli olarak gelişmesi (hız, konfor ve güvenlik gibi) ve kısa zamanda herkesin tatil yapmasını sağlayan toplumsal gelişmeler ( ___E:oteller U:(https://tr.wikipedia.org/wiki/Otel)___ , ___E:moteller U:(https://tr.wikipedia.org/wiki/Motel)___ , ___E:kamp yerleri U:(https://tr.wikipedia.org/w/index.php?title=Kamp_yerleri&action=edit&redlink=1)___ , ___E:tatil köyleri U:(https://tr.wikipedia.org/w/index.php?title=Tatil_k%C3%B6yleri&action=edit&redlink=1)___ vb) sonucunda gittikçe çoğalmıştır."
+        },
+        {
+            "id": "Turizm#9",
+            "sentence": "Turistlerin barınmaları, eğlenip dinlenmeleri için yapılan oteller, moteller, ___E:pansiyonlar U:(https://tr.wikipedia.org/wiki/Pansiyon)___ , ___E:plajlar U:(https://tr.wikipedia.org/wiki/Plaj)___ , ___E:lokanta U:(https://tr.wikipedia.org/wiki/Lokanta)___ ve ___E:gazinolar U:(https://tr.wikipedia.org/w/index.php?title=Gazino&action=edit&redlink=1)___ , kamp alanları, eğlence yerleri, ___E:spor U:(https://tr.wikipedia.org/wiki/Spor)___ ve ___E:avcılık U:(https://tr.wikipedia.org/wiki/Avc%C4%B1l%C4%B1k)___ tesisleri, ___E:kaplıcalar U:(https://tr.wikipedia.org/wiki/Kapl%C4%B1ca)___ birer turizm kurum veya kuruluşudur."
+        },
+        {
+            "id": "Turizm#10",
+            "sentence": "Bu kurumların sayısı, konforu, personelinin güler yüzlülüğü, buralara ulaşım kolaylığı turist akımını artırır."
+        },
+        {
+            "id": "Turizm#11",
+            "sentence": "Turizmi arttıran bir başka bir etmen de tarihi anıtların bolluğudur."
+        },
+        {
+            "id": "Turizm#12",
+            "sentence": "Eski kent harabeleri, ünlü anıtlar ( ___E:camiler U:(https://tr.wikipedia.org/wiki/Cami)___ , ___E:kiliseler U:(https://tr.wikipedia.org/wiki/Kilise)___ , açık hava ___E:tiyatroları U:(https://tr.wikipedia.org/wiki/Tiyatro)___ , ___E:müzeler U:(https://tr.wikipedia.org/wiki/M%C3%BCze)___ vb...) her zaman insanların ilgisini çekmiştir."
+        },
+        {
+            "id": "Turizm#13",
+            "sentence": "Bunların yanı sıra doğa güzellikleri de önemli bir ilgi kaynağıdır."
+        },
+        {
+            "id": "Turizm#14",
+            "sentence": "Dünya Turizm Örgütü ( ___E:UNWTO U:(https://tr.wikipedia.org/wiki/D%C3%BCnya_Turizm_%C3%96rg%C3%BCt%C3%BC)___ ) turizm gelirlerinin her yıl %4 oranında artış gösterdiğini belirtmiştir."
+        }
+    ]
+}

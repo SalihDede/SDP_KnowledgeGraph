@@ -1,0 +1,606 @@
+{
+    "Title": "Embryonic stem cell - Wikipedia",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Embryonic stem cell - Wikipedia#1",
+            "sentence": "Embryonic stem cells ( ESCs ) are ___E:pluripotent U:(https://en.wikipedia.org/wiki/Cell_potency#Pluripotency)___ ___E:stem cells U:(https://en.wikipedia.org/wiki/Stem_cell)___ derived from the ___E:inner cell mass U:(https://en.wikipedia.org/wiki/Inner_cell_mass)___ of a ___E:blastocyst U:(https://en.wikipedia.org/wiki/Blastocyst)___ , an early-stage pre- ___E:implantation U:(https://en.wikipedia.org/wiki/Implantation_(human_embryo))___ ___E:embryo U:(https://en.wikipedia.org/wiki/Embryo)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#2",
+            "sentence": "Human ___E:embryos U:(https://en.wikipedia.org/wiki/Embryo)___ reach the ___E:blastocyst U:(https://en.wikipedia.org/wiki/Blastocyst)___ stage 4–5 days post ___E:fertilization U:(https://en.wikipedia.org/wiki/Human_fertilization)___ , at which time they consist of 50–150 cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#3",
+            "sentence": "Isolating the ___E:inner cell mass U:(https://en.wikipedia.org/wiki/Inner_cell_mass)___ (embryoblast) using ___E:immunosurgery U:(https://en.wikipedia.org/wiki/Immunosurgery)___ results in destruction of the blastocyst, a process ___E:which raises ethical issues U:(https://en.wikipedia.org/wiki/Stem_cell_controversy)___ , including whether or not embryos at the pre-implantation stage have the same moral considerations as embryos in the post-implantation stage of development."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#4",
+            "sentence": "Researchers focus heavily on the therapeutic potential of embryonic stem cells, with clinical use being the goal for many laboratories."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#5",
+            "sentence": "Potential uses include the treatment of ___E:diabetes U:(https://en.wikipedia.org/wiki/Diabetes)___ and ___E:heart disease U:(https://en.wikipedia.org/wiki/Heart_disease)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#6",
+            "sentence": "The cells are studied to be used as clinical therapies, models of ___E:genetic disorders U:(https://en.wikipedia.org/wiki/Genetic_disorders)___ , and cellular/DNA repair."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#7",
+            "sentence": "However, adverse effects in the research and clinical processes such as tumors and unwanted ___E:immune responses U:(https://en.wikipedia.org/wiki/Immune_response)___ have also been reported."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#8",
+            "sentence": "Embryonic stem cells (ESCs), derived from the blastocyst stage of early mammalian embryos, are distinguished by their ability to differentiate into any embryonic cell type and by their ability to self-renew."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#9",
+            "sentence": "It is these traits that makes them valuable in the scientific and medical fields."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#10",
+            "sentence": "ESCs have a normal ___E:karyotype U:(https://en.wikipedia.org/wiki/Karyotype)___ , maintain high ___E:telomerase U:(https://en.wikipedia.org/wiki/Telomerase)___ activity, and exhibit remarkable long-term ___E:proliferative U:(https://en.wikipedia.org/wiki/Cell_growth)___ potential."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#11",
+            "sentence": "Embryonic stem cells of the inner cell mass are ___E:pluripotent U:(https://en.wikipedia.org/wiki/Cell_potency#Pluripotency)___ , meaning they are able to ___E:differentiate U:(https://en.wikipedia.org/wiki/Cellular_differentiation)___ to generate primitive ectoderm, which ultimately differentiates during ___E:gastrulation U:(https://en.wikipedia.org/wiki/Gastrulation)___ into all derivatives of the three primary ___E:germ layers U:(https://en.wikipedia.org/wiki/Germ_layer)___ : ___E:ectoderm U:(https://en.wikipedia.org/wiki/Ectoderm)___ , ___E:endoderm U:(https://en.wikipedia.org/wiki/Endoderm)___ , and ___E:mesoderm U:(https://en.wikipedia.org/wiki/Mesoderm)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#12",
+            "sentence": "These germ layers generate each of the more than 220 ___E:cell types U:(https://en.wikipedia.org/wiki/List_of_distinct_cell_types_in_the_adult_human_body)___ in the adult human body. When provided with the appropriate signals, ESCs initially form ___E:precursor cells U:(https://en.wikipedia.org/wiki/Precursor_cells)___ that in subsequently differentiate into the desired cell types."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#13",
+            "sentence": "Pluripotency distinguishes embryonic stem cells from ___E:adult stem cells U:(https://en.wikipedia.org/wiki/Adult_stem_cell)___ , which are ___E:multipotent U:(https://en.wikipedia.org/wiki/Multipotent)___ and can only produce a limited number of cell types."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#14",
+            "sentence": "Under defined conditions, embryonic stem cells are capable of self-renewing indefinitely in an undifferentiated state."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#15",
+            "sentence": "Self-renewal conditions must prevent the cells from clumping and maintain an environment that supports an unspecialized state."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#16",
+            "sentence": "Typically this is done in the lab with media containing ___E:serum U:(https://en.wikipedia.org/wiki/Fetal_bovine_serum)___ and ___E:leukemia inhibitory factor U:(https://en.wikipedia.org/wiki/Leukemia_inhibitory_factor)___ or serum-free media supplements with two inhibitory drugs (\"2i\"), the ___E:MEK inhibitor U:(https://en.wikipedia.org/wiki/MEK_inhibitor)___ PD03259010 and ___E:GSK-3 inhibitor U:(https://en.wikipedia.org/wiki/GSK-3_inhibitor)___ CHIR99021."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#17",
+            "sentence": "ESCs divide very frequently due to a shortened ___E:G1 phase U:(https://en.wikipedia.org/wiki/G1_phase)___ in their ___E:cell cycle U:(https://en.wikipedia.org/wiki/Cell_cycle)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#18",
+            "sentence": "Rapid ___E:cell division U:(https://en.wikipedia.org/wiki/Cell_division)___ allows the cells to quickly grow in number, but not size, which is important for early embryo development."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#19",
+            "sentence": "In ESCs, ___E:cyclin A U:(https://en.wikipedia.org/wiki/Cyclin_A)___ and ___E:cyclin E U:(https://en.wikipedia.org/wiki/Cyclin_E)___ proteins involved in the ___E:G1/S transition U:(https://en.wikipedia.org/wiki/G1/S_transition)___ are always expressed at high levels.  ___E:Cyclin-dependent kinases U:(https://en.wikipedia.org/wiki/Cyclin-dependent_kinase)___ such as ___E:CDK2 U:(https://en.wikipedia.org/wiki/CDK2)___ that promote cell cycle progression are overactive, in part due to downregulation of their inhibitors.  ___E:Retinoblastoma proteins U:(https://en.wikipedia.org/wiki/Retinoblastoma_protein)___ that inhibit the ___E:transcription factor U:(https://en.wikipedia.org/wiki/Transcription_factor)___ ___E:E2F U:(https://en.wikipedia.org/wiki/E2F)___ until the cell is ready to enter ___E:S phase U:(https://en.wikipedia.org/wiki/S_phase)___ are hyperphosphorylated and inactivated in ESCs, leading to continual expression of proliferation genes."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#20",
+            "sentence": "These changes result in accelerated cycles of cell division."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#21",
+            "sentence": "Although high expression levels of pro-proliferative proteins and a shortened G1 phase have been linked to maintenance of pluripotency,   ESCs grown in serum-free 2i conditions do express hypo-phosphorylated active Retinoblastoma proteins and have an elongated G1 phase."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#22",
+            "sentence": "Despite this difference in the cell cycle when compared to ESCs grown in media containing serum these cells have similar pluripotent characteristics."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#23",
+            "sentence": "Pluripotency factors ___E:Oct4 U:(https://en.wikipedia.org/wiki/Oct4)___ and ___E:Nanog U:(https://en.wikipedia.org/wiki/Homeobox_protein_NANOG)___ play a role in transcriptionally regulating the embryonic stem cell cycle."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#24",
+            "sentence": "Due to their plasticity and potentially unlimited capacity for self-renewal, embryonic ___E:stem cell therapies U:(https://en.wikipedia.org/wiki/Stem-cell_therapy)___ have been proposed for ___E:regenerative medicine U:(https://en.wikipedia.org/wiki/Regenerative_medicine)___ and tissue replacement after injury or disease."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#25",
+            "sentence": "Pluripotent stem cells have shown promise in treating a number of varying conditions, including but not limited to: ___E:spinal cord injuries U:(https://en.wikipedia.org/wiki/Spinal_cord_injuries)___ , ___E:age related macular degeneration U:(https://en.wikipedia.org/wiki/Age_related_macular_degeneration)___ , ___E:diabetes U:(https://en.wikipedia.org/wiki/Diabetes)___ , ___E:neurodegenerative disorders U:(https://en.wikipedia.org/wiki/Neurodegenerative_disorders)___ (such as ___E:Parkinson's disease U:(https://en.wikipedia.org/wiki/Parkinson%27s_disease)___ ), ___E:AIDS U:(https://en.wikipedia.org/wiki/AIDS)___ , etc.  In addition to their potential in regenerative medicine, embryonic stem cells provide a possible alternative source of tissue/organs which serves as a possible solution to the donor shortage dilemma."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#26",
+            "sentence": "However, there are ethical controversies surrounding this (see Ethical debate section below)."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#27",
+            "sentence": "Aside from these uses, ESCs can also be used for research on early human development, certain genetic disease, and in vitro ___E:toxicology U:(https://en.wikipedia.org/wiki/Toxicology)___ testing."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#28",
+            "sentence": "According to a 2002 article in PNAS , \"Human embryonic stem cells have the potential to differentiate into various cell types, and, thus, may be useful as a source of cells for transplantation or tissue engineering.\""
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#29",
+            "sentence": "In ___E:tissue engineering U:(https://en.wikipedia.org/wiki/Tissue_engineering)___ , the use of stem cells are known to be of importance."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#30",
+            "sentence": "In order to successfully engineer a tissue, the cells used must be able to perform specific biological functions such as secretion of cytokines, signaling molecules, interacting with neighboring cells, and producing an extracellular matrix in the correct organization."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#31",
+            "sentence": "Stem cells demonstrates these specific biological functions along with being able to self-renew and differentiate into one or more types of specialized cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#32",
+            "sentence": "Embryonic stem cells is one of the sources that are being considered for the use of tissue engineering."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#33",
+            "sentence": "The use of human embryonic stem cells have opened many new possibilities for tissue engineering, however, there are many hurdles that must be made before human embryonic stem cell can even be utilized."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#34",
+            "sentence": "It is theorized that if embryonic stem cells can be altered to not evoke the immune response when implanted into the patient then this would be a revolutionary step in tissue engineering."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#35",
+            "sentence": "Embryonic stem cells are not limited to tissue engineering."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#36",
+            "sentence": "Research has focused on differentiating ESCs into a variety of cell types for eventual use as cell replacement therapies."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#37",
+            "sentence": "Some of the cell types that have or are currently being developed include ___E:cardiomyocytes U:(https://en.wikipedia.org/wiki/Cardiomyocytes)___ , ___E:neurons U:(https://en.wikipedia.org/wiki/Neurons)___ , ___E:hepatocytes U:(https://en.wikipedia.org/wiki/Hepatocytes)___ , ___E:bone marrow U:(https://en.wikipedia.org/wiki/Bone_marrow)___ cells, ___E:islet U:(https://en.wikipedia.org/wiki/Pancreatic_islets)___ cells and ___E:endothelial U:(https://en.wikipedia.org/wiki/Endothelial)___ cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#38",
+            "sentence": "However, the derivation of such cell types from ESCs is not without obstacles, therefore research has focused on overcoming these barriers."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#39",
+            "sentence": "For example, studies are underway to differentiate ESCs into tissue specific cardiomyocytes and to eradicate their immature properties that distinguish them from adult cardiomyocytes."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#40",
+            "sentence": "Besides becoming an important alternative to organ transplants, ESCs are also being used in the field of toxicology, and as cellular screens to uncover new chemical entities that can be developed as ___E:small-molecule drugs U:(https://en.wikipedia.org/wiki/Small-molecule_drug)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#41",
+            "sentence": "Studies have shown that cardiomyocytes derived from ESCs are validated in vitro models to test drug responses and predict toxicity profiles."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#42",
+            "sentence": "ESC derived cardiomyocytes have been shown to respond to pharmacological stimuli and hence can be used to assess cardiotoxicity such as ___E:torsades de pointes U:(https://en.wikipedia.org/wiki/Torsades_de_pointes)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#43",
+            "sentence": "ESC-derived hepatocytes are also useful models that could be used in the preclinical stages of drug discovery."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#44",
+            "sentence": "However, the development of hepatocytes from ESCs has proven to be challenging and this hinders the ability to test drug metabolism."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#45",
+            "sentence": "Therefore, research has focused on establishing fully functional ESC-derived hepatocytes with stable phase I and II enzyme activity."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#46",
+            "sentence": "Several new studies have started to address the concept of modeling genetic disorders with embryonic stem cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#47",
+            "sentence": "Either by genetically manipulating the cells, or more recently, by deriving diseased cell lines identified by prenatal genetic diagnosis (PGD), modeling genetic disorders is something that has been accomplished with stem cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#48",
+            "sentence": "This approach may very well prove valuable at studying disorders such as ___E:Fragile-X syndrome U:(https://en.wikipedia.org/wiki/Fragile-X_syndrome)___ , ___E:Cystic fibrosis U:(https://en.wikipedia.org/wiki/Cystic_fibrosis)___ , and other genetic maladies that have no reliable model system."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#49",
+            "sentence": "___E:Yury Verlinsky U:(https://en.wikipedia.org/wiki/Yury_Verlinsky)___ , a Russian-American ___E:medical researcher U:(https://en.wikipedia.org/wiki/Medical_researcher)___ who specialized in ___E:embryo U:(https://en.wikipedia.org/wiki/Embryo)___ and cellular ___E:genetics U:(https://en.wikipedia.org/wiki/Genetics)___ (genetic ___E:cytology U:(https://en.wikipedia.org/wiki/Cell_biology)___ ), developed ___E:prenatal diagnosis U:(https://en.wikipedia.org/wiki/Prenatal_diagnosis)___ testing methods to determine genetic and ___E:chromosomal disorders U:(https://en.wikipedia.org/wiki/Chromosomal_disorders)___ a month and a half earlier than standard ___E:amniocentesis U:(https://en.wikipedia.org/wiki/Amniocentesis)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#50",
+            "sentence": "The techniques are now used by many pregnant women and prospective parents, especially couples who have a history of genetic abnormalities or where the woman is over the age of 35 (when the risk of genetically related disorders is higher)."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#51",
+            "sentence": "In addition, by allowing parents to select an embryo without genetic disorders, they have the potential of saving the lives of siblings that already had similar disorders and diseases using cells from the disease free offspring."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#52",
+            "sentence": "Differentiated somatic cells and ES cells use different strategies for dealing with DNA damage."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#53",
+            "sentence": "For instance, human foreskin fibroblasts, one type of somatic cell, use ___E:non-homologous end joining (NHEJ) U:(https://en.wikipedia.org/wiki/Non-homologous_end_joining)___ , an error prone DNA repair process, as the primary pathway for repairing double-strand breaks (DSBs) during all cell cycle stages."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#54",
+            "sentence": "Because of its error-prone nature, NHEJ tends to produce mutations in a cell's clonal descendants."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#55",
+            "sentence": "ES cells use a different strategy to deal with DSBs.  Because ES cells give rise to all of the cell types of an organism including the cells of the germ line, mutations arising in ES cells due to faulty DNA repair are a more serious problem than in differentiated somatic cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#56",
+            "sentence": "Consequently, robust mechanisms are needed in ES cells to repair DNA damages accurately, and if repair fails, to remove those cells with un-repaired DNA damages."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#57",
+            "sentence": "Thus, mouse ES cells predominantly use high fidelity ___E:homologous recombinational repair (HRR) U:(https://en.wikipedia.org/wiki/Homology_directed_repair)___ to repair DSBs.  This type of repair depends on the interaction of the two sister chromosomes [verification needed] formed during S phase and present together during the G2 phase of the cell cycle."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#58",
+            "sentence": "HRR can accurately repair DSBs in one sister chromosome by using intact information from the other sister chromosome."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#59",
+            "sentence": "Cells in the G1 phase of the cell cycle (i.e. after metaphase/cell division but prior the next round of replication) have only one copy of each chromosome (i.e. sister chromosomes aren't present)."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#60",
+            "sentence": "Mouse ES cells lack a G1 checkpoint and do not undergo cell cycle arrest upon acquiring DNA damage."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#61",
+            "sentence": "Rather they undergo programmed cell death (apoptosis) in response to DNA damage."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#62",
+            "sentence": "Apoptosis can be used as a fail-safe strategy to remove cells with un-repaired DNA damages in order to avoid mutation and progression to cancer."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#63",
+            "sentence": "Consistent with this strategy, mouse ES stem cells have a mutation frequency about 100-fold lower than that of isogenic mouse somatic cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#64",
+            "sentence": "On January 23, 2009, Phase I clinical trials for transplantation of ___E:oligodendrocytes U:(https://en.wikipedia.org/wiki/Oligodendrocyte)___ (a cell type of the brain and spinal cord) derived from human ESCs into ___E:spinal cord-injured U:(https://en.wikipedia.org/wiki/Spinal_cord_injury)___ individuals received approval from the ___E:U.S. Food and Drug Administration U:(https://en.wikipedia.org/wiki/Food_and_Drug_Administration_(United_States))___ (FDA), marking it the world's first human ESC human trial."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#65",
+            "sentence": "The study leading to this scientific advancement was conducted by Hans Keirstead and colleagues at the ___E:University of California, Irvine U:(https://en.wikipedia.org/wiki/University_of_California,_Irvine)___ and supported by ___E:Geron Corporation U:(https://en.wikipedia.org/wiki/Geron_Corporation)___ of ___E:Menlo Park, CA U:(https://en.wikipedia.org/wiki/Menlo_Park,_CA)___ , founded by ___E:Michael D. West U:(https://en.wikipedia.org/wiki/Michael_D._West)___ , PhD. A previous experiment had shown an improvement in locomotor recovery in spinal cord-injured rats after a 7-day delayed transplantation of human ESCs that had been pushed into an oligodendrocytic lineage."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#66",
+            "sentence": "The phase I clinical study was designed to enroll about eight to ten paraplegics who have had their injuries no longer than two weeks before the trial begins, since the cells must be injected before scar tissue is able to form. The researchers emphasized that the injections were not expected to fully cure the patients and restore all mobility."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#67",
+            "sentence": "Based on the results of the rodent trials, researchers speculated that restoration of myelin sheathes and an increase in mobility might occur."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#68",
+            "sentence": "This first trial was primarily designed to test the safety of these procedures and if everything went well, it was hoped that it would lead to future studies that involve people with more severe disabilities."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#69",
+            "sentence": "The trial was put on hold in August 2009 due to FDA concerns regarding a small number of microscopic cysts found in several treated rat models but the hold was lifted on July 30, 2010."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#70",
+            "sentence": "In October 2010 researchers enrolled and administered ESCs to the first patient at ___E:Shepherd Center U:(https://en.wikipedia.org/wiki/Shepherd_Center)___ in ___E:Atlanta U:(https://en.wikipedia.org/wiki/Atlanta)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#71",
+            "sentence": "The makers of the stem cell therapy, ___E:Geron Corporation U:(https://en.wikipedia.org/wiki/Geron_Corporation)___ , estimated that it would take several months for the stem cells to replicate and for the ___E:GRNOPC1 U:(https://en.wikipedia.org/wiki/Geron_Corporation#GRNOPC1)___ therapy to be evaluated for success or failure."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#72",
+            "sentence": "In November 2011 Geron announced it was halting the trial and dropping out of stem cell research for financial reasons, but would continue to monitor existing patients, and was attempting to find a partner that could continue their research."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#73",
+            "sentence": "In 2013 ___E:BioTime U:(https://en.wikipedia.org/wiki/BioTime)___ , led by CEO Dr. ___E:Michael D. West U:(https://en.wikipedia.org/wiki/Michael_D._West)___ , acquired all of Geron's stem cell assets, with the stated intention of restarting Geron's embryonic stem cell-based clinical trial for ___E:spinal cord injury research U:(https://en.wikipedia.org/wiki/Spinal_cord_injury_research)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#74",
+            "sentence": "BioTime company Asterias Biotherapeutics (NYSE MKT: AST) was granted a $14.3 million Strategic Partnership Award by the California Institute for Regenerative Medicine (CIRM) to re-initiate the world's first embryonic stem cell-based human clinical trial, for spinal cord injury."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#75",
+            "sentence": "Supported by California public funds, CIRM is the largest funder of stem cell-related research and development in the world."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#76",
+            "sentence": "The award provides funding for Asterias to reinitiate clinical development of AST-OPC1 in subjects with spinal cord injury and to expand clinical testing of escalating doses in the target population intended for future pivotal trials."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#77",
+            "sentence": "AST-OPC1 is a population of cells derived from human embryonic stem cells (hESCs) that contains oligodendrocyte progenitor cells (OPCs)."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#78",
+            "sentence": "OPCs and their mature derivatives called oligodendrocytes provide critical functional support for nerve cells in the spinal cord and brain."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#79",
+            "sentence": "Asterias recently presented the results from phase 1 clinical trial testing of a low dose of AST-OPC1 in patients with neurologically complete thoracic spinal cord injury."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#80",
+            "sentence": "The results showed that AST-OPC1 was successfully delivered to the injured spinal cord site. Patients followed 2–3 years after AST-OPC1 administration showed no evidence of serious adverse events associated with the cells in detailed follow-up assessments including frequent neurological exams and MRIs. Immune monitoring of subjects through one year post-transplantation showed no evidence of antibody-based or cellular immune responses to AST-OPC1. In four of the five subjects, serial MRI scans performed throughout the 2–3 year follow-up period indicate that reduced spinal cord cavitation may have occurred and that AST-OPC1 may have had some positive effects in reducing spinal cord tissue deterioration."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#81",
+            "sentence": "There was no unexpected neurological degeneration or improvement in the five subjects in the trial as evaluated by the International Standards for Neurological Classification of Spinal Cord Injury (ISNCSCI) exam."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#82",
+            "sentence": "The Strategic Partnership III grant from CIRM will provide funding to Asterias to support the next clinical trial of AST-OPC1 in subjects with spinal cord injury, and for Asterias' product development efforts to refine and scale manufacturing methods to support later-stage trials and eventually commercialization."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#83",
+            "sentence": "CIRM funding will be conditional on FDA approval for the trial, completion of a definitive agreement between Asterias and CIRM, and Asterias' continued progress toward the achievement of certain pre-defined project milestones."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#84",
+            "sentence": "The major concern with the possible transplantation of ESCs into patients as therapies is their ability to form tumors including teratomas."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#85",
+            "sentence": "Safety issues prompted the FDA to place a hold on the first ESC clinical trial, however no tumors were observed."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#86",
+            "sentence": "The main strategy to enhance the safety of ESCs for potential clinical use is to differentiate the ESCs into specific cell types (e.g. neurons, muscle, liver cells) that have reduced or eliminated ability to cause tumors."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#87",
+            "sentence": "Following differentiation, the cells are subjected to sorting by ___E:flow cytometry U:(https://en.wikipedia.org/wiki/Flow_cytometry)___ for further purification."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#88",
+            "sentence": "ESCs are predicted to be inherently safer than ___E:iPS cells U:(https://en.wikipedia.org/wiki/IPS_cells)___ created with genetically integrating ___E:viral vectors U:(https://en.wikipedia.org/wiki/Viral_vectors)___ because they are not genetically modified with genes such as c-Myc that are linked to cancer."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#89",
+            "sentence": "Nonetheless, ESCs express very high levels of the iPS inducing genes and these genes including Myc are essential for ESC self-renewal and pluripotency,  and potential strategies to improve safety by eliminating c-Myc expression are unlikely to preserve the cells' \"stemness\"."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#90",
+            "sentence": "However, N-myc and L-myc have been identified to induce iPS cells instead of c-myc with similar efficiency."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#91",
+            "sentence": "Later protocols to induce pluripotency bypass these problems completely by using non-integrating RNA viral vectors such as ___E:sendai virus U:(https://en.wikipedia.org/wiki/Sendai_virus)___ or ___E:mRNA U:(https://en.wikipedia.org/wiki/MRNA)___ transfection."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#92",
+            "sentence": "Due to the nature of embryonic stem cell research, there are a lot of controversial opinions on the topic."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#93",
+            "sentence": "Since harvesting embryonic stem cells usually necessitates destroying the embryo from which those cells are obtained, the moral status of the embryo comes into question."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#94",
+            "sentence": "Some people claim that the embryo is too young to achieve personhood or that the embryo, if donated from an IVF clinic (where labs typically acquire embryos), would otherwise go to medical waste anyway."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#95",
+            "sentence": "Opponents of ESC research claim that an embryo is a human life, therefore destroying it is murder and the embryo must be protected under the same ethical view as a more developed human being."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#96",
+            "sentence": "___E:In vitro fertilization U:(https://en.wikipedia.org/wiki/In_vitro_fertilization)___ generates multiple embryos."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#97",
+            "sentence": "The surplus of embryos is not clinically used or is unsuitable for implantation into the patient, and therefore may be donated by the donor with consent."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#98",
+            "sentence": "Human embryonic stem cells can be derived from these donated embryos or additionally they can also be extracted from cloned embryos created using a cell from a patient and a donated egg through the process of ___E:somatic cell nuclear transfer U:(https://en.wikipedia.org/wiki/Somatic_cell_nuclear_transfer)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#99",
+            "sentence": "The inner cell mass (cells of interest), from the blastocyst stage of the embryo, is separated from the trophectoderm, the cells that would differentiate into extra-embryonic tissue. ___E:Immunosurgery U:(https://en.wikipedia.org/wiki/Immunosurgery)___ , the process in which antibodies are bound to the trophectoderm and removed by another solution, and mechanical dissection are performed to achieve separation."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#100",
+            "sentence": "The resulting inner cell mass cells are plated onto cells that will supply support."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#101",
+            "sentence": "The inner cell mass cells attach and expand further to form a human embryonic cell line, which are undifferentiated."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#102",
+            "sentence": "These cells are fed daily and are enzymatically or mechanically separated every four to seven days. For differentiation to occur, the human embryonic stem cell line is removed from the supporting cells to form embryoid bodies, is co-cultured with a serum containing necessary signals, or is grafted in a three-dimensional scaffold to result."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#103",
+            "sentence": "Embryonic stem cells are derived from the ___E:inner cell mass U:(https://en.wikipedia.org/wiki/Inner_cell_mass)___ of the early ___E:embryo U:(https://en.wikipedia.org/wiki/Embryo)___ , which are harvested from the donor mother animal. ___E:Martin Evans U:(https://en.wikipedia.org/wiki/Martin_Evans)___ and ___E:Matthew Kaufman U:(https://en.wikipedia.org/wiki/Matthew_Kaufman)___ reported a technique that delays embryo implantation, allowing the inner cell mass to increase."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#104",
+            "sentence": "This process includes removing the donor mother's ___E:ovaries U:(https://en.wikipedia.org/wiki/Ovaries)___ and dosing her with ___E:progesterone U:(https://en.wikipedia.org/wiki/Progesterone)___ , changing the hormone environment, which causes the embryos to remain free in the uterus."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#105",
+            "sentence": "After 4–6 days of this intrauterine culture, the embryos are harvested and grown in in vitro culture until the inner cell mass forms \"egg cylinder-like structures,\" which are dissociated into single cells, and plated on ___E:fibroblasts U:(https://en.wikipedia.org/wiki/Fibroblasts)___ treated with ___E:mitomycin-c U:(https://en.wikipedia.org/wiki/Mitomycin)___ (to prevent fibroblast ___E:mitosis U:(https://en.wikipedia.org/wiki/Mitosis)___ )."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#106",
+            "sentence": "Clonal ___E:cell lines U:(https://en.wikipedia.org/wiki/Cell_lines)___ are created by growing up a single cell. Evans and Kaufman showed that the cells grown out from these cultures could form ___E:teratomas U:(https://en.wikipedia.org/wiki/Teratoma)___ and ___E:embryoid bodies U:(https://en.wikipedia.org/wiki/Embryoid_body)___ , and differentiate in vitro, all of which indicating that the cells are ___E:pluripotent U:(https://en.wikipedia.org/wiki/Pluripotent)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#107",
+            "sentence": "___E:Gail Martin U:(https://en.wikipedia.org/wiki/Gail_R._Martin)___ derived and cultured her ES cells differently."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#108",
+            "sentence": "She removed the embryos from the donor mother at approximately 76 hours after copulation and cultured them overnight in a medium containing serum."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#109",
+            "sentence": "The following day, she removed the ___E:inner cell mass U:(https://en.wikipedia.org/wiki/Inner_cell_mass)___ from the late ___E:blastocyst U:(https://en.wikipedia.org/wiki/Blastocyst)___ using ___E:microsurgery U:(https://en.wikipedia.org/wiki/Microsurgery)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#110",
+            "sentence": "The extracted ___E:inner cell mass U:(https://en.wikipedia.org/wiki/Inner_cell_mass)___ was cultured on ___E:fibroblasts U:(https://en.wikipedia.org/wiki/Fibroblasts)___ treated with ___E:mitomycin-c U:(https://en.wikipedia.org/wiki/Mitomycin)___ in a medium containing serum and conditioned by ES cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#111",
+            "sentence": "After approximately one week, colonies of cells grew out. These cells grew in culture and demonstrated ___E:pluripotent U:(https://en.wikipedia.org/wiki/Pluripotent)___ characteristics, as demonstrated by the ability to form ___E:teratomas U:(https://en.wikipedia.org/wiki/Teratoma)___ , differentiate in vitro, and form ___E:embryoid bodies U:(https://en.wikipedia.org/wiki/Embryoid_body)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#112",
+            "sentence": "Martin referred to these cells as ES cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#113",
+            "sentence": "It is now known that the ___E:feeder cells U:(https://en.wikipedia.org/wiki/Fibroblast)___ provide ___E:leukemia inhibitory factor U:(https://en.wikipedia.org/wiki/Leukemia_inhibitory_factor)___ (LIF) and serum provides ___E:bone morphogenetic proteins U:(https://en.wikipedia.org/wiki/Bone_morphogenetic_proteins)___ (BMPs) that are necessary to prevent ES cells from differentiating."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#114",
+            "sentence": "These factors are extremely important for the efficiency of deriving ES cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#115",
+            "sentence": "Furthermore, it has been demonstrated that different mouse strains have different efficiencies for isolating ES cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#116",
+            "sentence": "Current uses for mouse ES cells include the generation of ___E:transgenic U:(https://en.wikipedia.org/wiki/Transgenic)___ mice, including ___E:knockout mice U:(https://en.wikipedia.org/wiki/Knockout_mice)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#117",
+            "sentence": "For human treatment, there is a need for patient specific pluripotent cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#118",
+            "sentence": "Generation of human ES cells is more difficult and faces ethical issues."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#119",
+            "sentence": "So, in addition to human ES cell research, many groups are focused on the generation of ___E:induced pluripotent stem cells U:(https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cells)___ (iPS cells)."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#120",
+            "sentence": "On August 23, 2006, the online edition of Nature scientific journal published a letter by Dr. ___E:Robert Lanza U:(https://en.wikipedia.org/wiki/Robert_Lanza)___ (medical director of ___E:Advanced Cell Technology U:(https://en.wikipedia.org/wiki/Advanced_Cell_Technology)___ in Worcester, MA) stating that his team had found a way to extract embryonic stem cells without destroying the actual embryo."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#121",
+            "sentence": "This technical achievement would potentially enable scientists to work with new lines of embryonic stem cells derived using public funding in the US, where federal funding was at the time limited to research using embryonic stem cell lines derived prior to August 2001. In March, 2009, the limitation was lifted."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#122",
+            "sentence": "Human embryonic stem cells have also been derived by ___E:somatic cell nuclear transfer (SCNT) U:(https://en.wikipedia.org/wiki/Somatic_cell_nuclear_transfer)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#123",
+            "sentence": "This approach has also sometimes been referred to as \"therapeutic cloning\" because SCNT bears similarity to other kinds of cloning in that nuclei are transferred from a somatic cell into an enucleated zygote."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#124",
+            "sentence": "However, in this case SCNT was used to produce embryonic stem cell lines in a lab, not living organisms via a pregnancy."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#125",
+            "sentence": "The \"therapeutic\" part of the name is included because of the hope that SCNT produced embryonic stem cells could have clinical utility."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#126",
+            "sentence": "The iPS cell technology was pioneered by ___E:Shinya Yamanaka U:(https://en.wikipedia.org/wiki/Shinya_Yamanaka)___ 's lab in ___E:Kyoto U:(https://en.wikipedia.org/wiki/Kyoto)___ , ___E:Japan U:(https://en.wikipedia.org/wiki/Japan)___ , who showed in 2006 that the introduction of four specific genes encoding ___E:transcription factors U:(https://en.wikipedia.org/wiki/Transcription_factors)___ could convert adult cells into pluripotent stem cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#127",
+            "sentence": "He was awarded the 2012 Nobel Prize along with Sir ___E:John Gurdon U:(https://en.wikipedia.org/wiki/John_Gurdon)___ \"for the discovery that mature cells can be reprogrammed to become pluripotent.\""
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#128",
+            "sentence": "In 2007, it was shown that ___E:pluripotent U:(https://en.wikipedia.org/wiki/Pluripotency)___ ___E:stem cells U:(https://en.wikipedia.org/wiki/Stem_cell)___ , highly similar to embryonic stem cells, can be induced by the delivery of four factors ( Oct3/4 , Sox2 , c-Myc, and Klf4 ) to differentiated cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#129",
+            "sentence": "Utilizing the four genes previously listed, the differentiated cells are \"reprogrammed\" into pluripotent stem cells, allowing for the generation of pluripotent/embryonic stem cells without the embryo."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#130",
+            "sentence": "The morphology and growth factors of these lab induced pluripotent cells, are equivalent to embryonic stem cells, leading these cells to be known as ___E:induced pluripotent stem cells U:(https://en.wikipedia.org/wiki/Induced_pluripotent_stem_cell)___ (iPS cells)."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#131",
+            "sentence": "This observation was observed in mouse pluripotent stem cells, originally, but now can be performed in human adult ___E:fibroblasts U:(https://en.wikipedia.org/wiki/Fibroblast)___ using the same four genes."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#132",
+            "sentence": "Because ethical concerns regarding embryonic stem cells typically are about their derivation from terminated embryos, it is believed that reprogramming to these iPS cells may be less controversial."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#133",
+            "sentence": "This may enable the generation of patient specific ES cell lines that could potentially be used for cell replacement therapies."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#134",
+            "sentence": "In addition, this will allow the generation of ES cell lines from patients with a variety of genetic diseases and will provide invaluable models to study those diseases."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#135",
+            "sentence": "However, as a first indication that the iPS cell technology can in rapid succession lead to new cures, it was used by a research team headed by ___E:Rudolf Jaenisch U:(https://en.wikipedia.org/wiki/Rudolf_Jaenisch)___ of the ___E:Whitehead Institute for Biomedical Research U:(https://en.wikipedia.org/wiki/Whitehead_Institute_for_Biomedical_Research)___ in ___E:Cambridge U:(https://en.wikipedia.org/wiki/Cambridge,_Massachusetts)___ , ___E:Massachusetts U:(https://en.wikipedia.org/wiki/Massachusetts)___ , to cure mice of ___E:sickle cell anemia U:(https://en.wikipedia.org/wiki/Sickle_cell_anemia)___ , as reported by ___E:Science journal's U:(https://en.wikipedia.org/wiki/Science_(journal))___ online edition on December 6, 2007."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#136",
+            "sentence": "On January 16, 2008, a California-based company, Stemagen, announced that they had created the first mature cloned human embryos from single skin cells taken from adults."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#137",
+            "sentence": "These embryos can be harvested for patient matching embryonic stem cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#138",
+            "sentence": "The online edition of Nature Medicine published a study on January 24, 2005, which stated that the human embryonic stem cells available for federally funded research are contaminated with non-human molecules from the culture medium used to grow the cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#139",
+            "sentence": "It is a common technique to use mouse cells and other animal cells to maintain the pluripotency of actively dividing stem cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#140",
+            "sentence": "The problem was discovered when non-human ___E:sialic acid U:(https://en.wikipedia.org/wiki/Sialic_acid)___ in the growth medium was found to compromise the potential uses of the embryonic stem cells in humans, according to scientists at the ___E:University of California, San Diego U:(https://en.wikipedia.org/wiki/University_of_California,_San_Diego)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#141",
+            "sentence": "However, a study published in the online edition of Lancet Medical Journal on March 8, 2005, detailed information about a new stem cell line that was derived from human embryos under completely cell- and serum-free conditions."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#142",
+            "sentence": "After more than 6 months of undifferentiated proliferation, these cells demonstrated the potential to form derivatives of all three embryonic germ layers both in vitro and in ___E:teratomas U:(https://en.wikipedia.org/wiki/Teratoma)___ ."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#143",
+            "sentence": "These properties were also successfully maintained (for more than 30 passages) with the established stem cell lines."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#144",
+            "sentence": "Muse cells (Multi-lineage differentiating stress enduring cell) are ___E:non-cancerous U:(https://en.wikipedia.org/wiki/Carcinogenesis)___ ___E:pluripotent stem cell U:(https://en.wikipedia.org/wiki/Pluripotent_stem_cell)___ found in adults."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#145",
+            "sentence": "They were discovered in 2010 by Mari Dezawa and her research group."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#146",
+            "sentence": "Muse cells reside in the connective tissue of nearly every organ including the umbilical cord, bone marrow and peripheral blood."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#147",
+            "sentence": "They are collectable from commercially obtainable mesenchymal cells such as human ___E:fibroblasts U:(https://en.wikipedia.org/wiki/Fibroblast)___ , bone marrow-mesenchymal stem cells and adipose-derived stem cells."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#148",
+            "sentence": "Muse cells are able to generate cells representative of all three germ layers from a single cell both spontaneously and under ___E:cytokine U:(https://en.wikipedia.org/wiki/Cytokine)___ induction."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#149",
+            "sentence": "Expression of pluripotency genes and triploblastic differentiation are self-renewable over generations."
+        },
+        {
+            "id": "Embryonic stem cell - Wikipedia#150",
+            "sentence": "Muse cells do not undergo ___E:teratoma U:(https://en.wikipedia.org/wiki/Teratoma)___ formation when transplanted into a host environment in vivo, eradicating the risk of ___E:tumorigenesis U:(https://en.wikipedia.org/wiki/Tumorigenesis)___ through unbridled cell proliferation."
+        }
+    ]
+}

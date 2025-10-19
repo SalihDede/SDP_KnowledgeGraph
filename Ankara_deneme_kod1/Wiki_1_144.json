@@ -1,0 +1,322 @@
+{
+    "Title": "Atletizm",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Atletizm#1",
+            "sentence": "Atletizm ; ___E:koşu U:(https://tr.wikipedia.org/wiki/Ko%C5%9Fu)___ , ___E:yürüyüş U:(https://tr.wikipedia.org/wiki/Y%C3%BCr%C3%BCy%C3%BC%C5%9F)___ , atma ve ___E:atlama U:(https://tr.wikipedia.org/wiki/Atlama)___ branşlarını içeren; bir ___E:pist U:(https://tr.wikipedia.org/wiki/Pist)___ veya sahada yapılan dünyanın en eski ___E:sporlarından U:(https://tr.wikipedia.org/wiki/Spor)___ biridir."
+        },
+        {
+            "id": "Atletizm#2",
+            "sentence": "Bu tür fiziksel aktivitelere ___E:çağlar U:(https://tr.wikipedia.org/wiki/%C3%87a%C4%9F)___ boyunca tüm dünyada yaygın ilgi duyulmuştur."
+        },
+        {
+            "id": "Atletizm#3",
+            "sentence": "Tarihin en ünlü atletizm yarışmaları, ilk kez ___E:Antik Yunanistan U:(https://tr.wikipedia.org/wiki/Antik_Yunanistan)___ 'da düzenlenen ___E:Olimpiyat Oyunları U:(https://tr.wikipedia.org/wiki/Olimpiyat_Oyunlar%C4%B1)___ 'nda gerçekleşmiştir."
+        },
+        {
+            "id": "Atletizm#4",
+            "sentence": "Eski Olimpiyat Oyunları, yalnızca spor yarışmalarının düzenlendiği bir etkinlik değil, aynı zamanda sporun sanat ve kültürle birleştiği büyük şenliklerdi."
+        },
+        {
+            "id": "Atletizm#5",
+            "sentence": "Atletler yarışmalardan 10 ay önce hazırlanmaya başlar, son aylarını da Olimpiyat Oyunları'nın düzenlendiği yer olan ___E:Olimpia U:(https://tr.wikipedia.org/wiki/Olimpia_(antik_kent))___ 'da geçirirlerdi."
+        },
+        {
+            "id": "Atletizm#6",
+            "sentence": "Günümüzde de yarışma öncesi hazırlık süreçleri, farklı biçimlerde devam etmektedir."
+        },
+        {
+            "id": "Atletizm#7",
+            "sentence": "Atletizm, insanın fiziksel güç ve yeteneklerinin neredeyse tümünün kullanılmasını gerektiren bir spor dalıdır. ___E:Atletler U:(https://tr.wikipedia.org/wiki/Atlet)___ birbiriyle yarışırken, aynı zamanda kendi güç ve yeteneklerinin sınırlarını tanır, bunları geliştirmeye çalışırlar."
+        },
+        {
+            "id": "Atletizm#8",
+            "sentence": "Pist ve alan atletizmi üç ana kategoriye ayrılır: Koşu, yürüyüş ve alan (atlama ve atma) yarışları."
+        },
+        {
+            "id": "Atletizm#9",
+            "sentence": "Koşu branşı, atletizmin temel disiplinlerinden biridir ve çeşitli kategorilere ayrılır: kısa mesafe sürat koşuları, orta ve uzun mesafe koşuları, engelli koşular ve bayrak yarışları."
+        },
+        {
+            "id": "Atletizm#10",
+            "sentence": "Bu yarışmalar, organizasyonun niteliğine bağlı olarak kapalı salonlarda, açık hava pistlerinde, yollarda ya da kır parkurlarında düzenlenebilir."
+        },
+        {
+            "id": "Atletizm#11",
+            "sentence": "Kısa mesafe sürat koşuları genellikle 400 metreye kadar olan mesafeleri kapsar."
+        },
+        {
+            "id": "Atletizm#12",
+            "sentence": "Bu kategorideki atletler, yarışın başlangıcından bitişine kadar maksimum hızla koşma prensibiyle hareket ederler."
+        },
+        {
+            "id": "Atletizm#13",
+            "sentence": "Temel kısa mesafe koşu mesafeleri şunlardır:"
+        },
+        {
+            "id": "Atletizm#14",
+            "sentence": "100 metre, 200 metre, 400 metre (açık hava pistinin bir turuna eşittir)"
+        },
+        {
+            "id": "Atletizm#15",
+            "sentence": "Kapalı salon pistleri, açık hava pistlerine göre daha kısadır ve genellikle eğimli virajlara sahip 200 metrelik pistler yaygın olarak kullanılır."
+        },
+        {
+            "id": "Atletizm#16",
+            "sentence": "Salon yarışmalarında düzenlenen en kısa sürat koşusu mesafesi 50 metredir."
+        },
+        {
+            "id": "Atletizm#17",
+            "sentence": "Kısa mesafe koşucularının performansı; yarışa hızlı bir çıkışla başlamaları, ivmelerini maksimum seviyeye çıkarmaları ve bu hızı mümkün olduğunca koruyabilmeleri üzerine kuruludur."
+        },
+        {
+            "id": "Atletizm#18",
+            "sentence": "Orta mesafe koşuları, 800 ve 1.500 metre yarışlarını kapsar."
+        },
+        {
+            "id": "Atletizm#19",
+            "sentence": "Bu yarışlar teknik olarak hız koşusu sayılmakla birlikte, orta mesafe koşuları hız ve dayanıklılığın iyi bir taktik anlayışıyla birleştirilmesine dayanır."
+        },
+        {
+            "id": "Atletizm#20",
+            "sentence": "Son birkaç yıldır Türk kadın atlet ___E:Süreyya Ayhan U:(https://tr.wikipedia.org/wiki/S%C3%BCreyya_Ayhan_Kop)___ , 1.500 metre branşının en iyi sporcularından biri olarak kabul edilmektedir."
+        },
+        {
+            "id": "Atletizm#21",
+            "sentence": "Uzun mesafe yarışları pistte koşulan 3.000, 5.000 ve 10.000 metre yarışlarını kapsar. ___E:Maraton U:(https://tr.wikipedia.org/wiki/Maraton)___ ve yol parkurunda koşulan öteki yarışlar ise daha uzun mesafelerde yapılır."
+        },
+        {
+            "id": "Atletizm#22",
+            "sentence": "Son yıllarda uzun mesafe koşularına kadınlar da katılmaktadır."
+        },
+        {
+            "id": "Atletizm#23",
+            "sentence": "İlk kez 1969'da uluslararası bir yarışmada 1.500 metre koşan kadınlar, 1974'te 3.000 metre koşusuna, 1970 sonlarında da maraton yarışlarına katıldılar."
+        },
+        {
+            "id": "Atletizm#24",
+            "sentence": "Yalnızca erkeklerin koştuğu, 28 tahta engel ve 7 su engelinden oluşan 3.000 metre engelli yarışı dışında kalan tüm uzun mesafe koşularına kadınlar da katılırlar."
+        },
+        {
+            "id": "Atletizm#25",
+            "sentence": "Dünya genelinde yaygınlık kazanan uzun mesafe yarışlarında, özellikle maraton koşularına katılım sayısı her geçen yıl artmaktadır."
+        },
+        {
+            "id": "Atletizm#26",
+            "sentence": "Günümüzde ___E:Londra U:(https://tr.wikipedia.org/wiki/Londra)___ ve ___E:New York U:(https://tr.wikipedia.org/wiki/New_York)___ maratonlarına her yıl on binlerce atlet katılmaktadır."
+        },
+        {
+            "id": "Atletizm#27",
+            "sentence": "Düz koşu kategorisi altında yer alan bayrak yarışları, atletizmde özel bir disiplindir."
+        },
+        {
+            "id": "Atletizm#28",
+            "sentence": "Bu yarışlar genellikle 4x100 metre ve 4x400 metre formatında gerçekleştirilir."
+        },
+        {
+            "id": "Atletizm#29",
+            "sentence": "Her takım dört koşucudan oluşur ve her koşucu, toplam mesafenin eşit bir bölümünü koşar."
+        },
+        {
+            "id": "Atletizm#30",
+            "sentence": "Koşucular kendi bölümlerini tamamladıklarında, \"bayrak\" adı verilen çubuğu bir sonraki takım arkadaşına devreder."
+        },
+        {
+            "id": "Atletizm#31",
+            "sentence": "Bayrağın doğru ve kurallara uygun şekilde el değiştirmesi, bu yarış türünde kritik öneme sahiptir."
+        },
+        {
+            "id": "Atletizm#32",
+            "sentence": "Engelli koşular, atletlerin belirli aralıklarla yerleştirilmiş engellerin üzerinden atlayarak tamamladıkları koşu disiplinleridir."
+        },
+        {
+            "id": "Atletizm#33",
+            "sentence": "Bu yarışlarda sporcular, sabit sayıda—genellikle 10 adet—engeli aşmak zorundadır."
+        },
+        {
+            "id": "Atletizm#34",
+            "sentence": "Engel yükseklikleri, yarış mesafesine ve sporcunun cinsiyetine göre farklılık gösterir."
+        },
+        {
+            "id": "Atletizm#35",
+            "sentence": "Erkekler için 110 metre, kadınlar içinse 100 metre engelli koşularında engel yüksekliği 106,7 cm'dir. 400 metre engelli yarışlarında ise, hem erkekler hem de kadınlar için engel yüksekliği 91,4 cm'dir."
+        },
+        {
+            "id": "Atletizm#36",
+            "sentence": "Yürüyüş yarışları, kendine özgü tekniğiyle yapılan, dayanıklılık gerektiren bir atletizm branşıdır."
+        },
+        {
+            "id": "Atletizm#37",
+            "sentence": "Bu disiplinin temel kuralı; sporcunun, yürüyüş sırasında öne attığı ayağı yere basmadan önce, gerideki ayağın yerle temasını kesmemesidir."
+        },
+        {
+            "id": "Atletizm#38",
+            "sentence": "Bu teknik nedeniyle sporcular, adımlarını bacaklarını bükmeden atmak zorundadır."
+        },
+        {
+            "id": "Atletizm#39",
+            "sentence": "Yürüyüş yarışları genellikle yol parkurlarında gerçekleştirilir."
+        },
+        {
+            "id": "Atletizm#40",
+            "sentence": "Mesafeler; kadınlar için 10 kilometre, erkekler için ise 20 ve 50 kilometre olarak belirlenmiştir."
+        },
+        {
+            "id": "Atletizm#41",
+            "sentence": "Yüksek atlamada, ilk yıllarda makas tekniği denen bir teknik kullanılıyordu."
+        },
+        {
+            "id": "Atletizm#42",
+            "sentence": "Bu alanda daha sonra yeni teknikler geliştirildi."
+        },
+        {
+            "id": "Atletizm#43",
+            "sentence": "İçlerinde en iyisi sayılan köprü (flop) tekniğinde atlet, yukarı sıçradıktan sonra dönerek çıtayı sırtüstü geçer."
+        },
+        {
+            "id": "Atletizm#44",
+            "sentence": "Sırıkla atlama, atletin esnek bir sırık yardımıyla yüksekliğe ulaşmayı hedeflediği bir atletizm branşıdır."
+        },
+        {
+            "id": "Atletizm#45",
+            "sentence": "Geçmişte metal ve bambu sırıklar kullanılırken, daha sonra cam elyafından üretilen sırıklar kullanılmaya başlanmış ve bu malzeme değişimi, branşta önemli bir gelişme sağlamıştır."
+        },
+        {
+            "id": "Atletizm#46",
+            "sentence": "Nitekim sırıkla atlamada dünya rekoru, 22 ile 25 yıl arasındaki dönemde 1 metreden fazla bir farkla yenilenmiştir."
+        },
+        {
+            "id": "Atletizm#47",
+            "sentence": "Atlet, sırığı iki eliyle kavradıktan sonra çıtaya doğru hızla koşar; sırığın ucunu çıtanın hemen önündeki V biçimli kutuya yerleştirir ve sırığa abanarak kendini yukarı doğru fırlatır."
+        },
+        {
+            "id": "Atletizm#48",
+            "sentence": "Çıtayı aşarken sırığı bırakır ve sırık, sporcunun atlayış yaptığı tarafta kalır."
+        },
+        {
+            "id": "Atletizm#49",
+            "sentence": "Yüksek atlama ve sırıkla atlamada, yarışmacı her bir yükseklik için üç atlayış hakkına sahiptir."
+        },
+        {
+            "id": "Atletizm#50",
+            "sentence": "Amaç, çıtayı devirmeden mümkün olan en yüksek seviyeyi geçmektir."
+        },
+        {
+            "id": "Atletizm#51",
+            "sentence": "Uzun atlama ve üç adım atlama, sporcunun hız alarak 10 santimetre genişliğindeki basma tahtasından sıçrayıp mümkün olduğunca uzağa atladığı atletizm branşlarıdır."
+        },
+        {
+            "id": "Atletizm#52",
+            "sentence": "Uzun atlamada sporcu, tek bir sıçrayışla en uzak mesafeye ulaşmayı hedefler."
+        },
+        {
+            "id": "Atletizm#53",
+            "sentence": "Üç adım atlama ise üç aşamalı bir sıçrama tekniğine dayanır."
+        },
+        {
+            "id": "Atletizm#54",
+            "sentence": "İlk adımda atlet, sıçradığı ayağıyla yere basar; ikinci adımda diğer ayağıyla yere iner ve bu ayağıyla son sıçrayışı yaparak atlayışını tamamlar."
+        },
+        {
+            "id": "Atletizm#55",
+            "sentence": "Gülle atma, metalden yapılmış top biçimindeki bir cisim olan güllenin, 2,1 metre çapındaki dairesel bir alanın içinden, omuzdan gelen bir kol hareketiyle fırlatıldığı bir atletizm dalıdır."
+        },
+        {
+            "id": "Atletizm#56",
+            "sentence": "Erkekler için kullanılan gülle 7,26 kilogram, kadınlar içinse 4 kilogram ağırlığındadır."
+        },
+        {
+            "id": "Atletizm#57",
+            "sentence": "Sporcu, gülleyi omuz hizasında tutarak tek elle itme şeklinde atışı gerçekleştirir."
+        },
+        {
+            "id": "Atletizm#58",
+            "sentence": "Çekiç atma, 7,26 kilogram ağırlığındaki metal bir topun, ucu halka şeklinde olan bir tel aracılığıyla fırlatıldığı bir atletizm branşıdır."
+        },
+        {
+            "id": "Atletizm#59",
+            "sentence": "Sporcu, bu halkayı eliyle kavrayarak çekici döndürüp fırlatır."
+        },
+        {
+            "id": "Atletizm#60",
+            "sentence": "Atış, 2,1 metre çapındaki ve bir bölümü tel örgüyle çevrili bir çemberin içinden gerçekleştirilir."
+        },
+        {
+            "id": "Atletizm#61",
+            "sentence": "Disk atma ise erkeklerde 2 kilogram, kadınlarda 1 kilogram ağırlığındaki disklerle yapılan bir atma dalıdır."
+        },
+        {
+            "id": "Atletizm#62",
+            "sentence": "Atışlar, 2,5 metre çapındaki dairesel bir alanın içerisinden yapılır."
+        },
+        {
+            "id": "Atletizm#63",
+            "sentence": "Sporcular, diske itici güç sağlamak amacıyla bu dairenin içinde dönerek atışı gerçekleştirirler."
+        },
+        {
+            "id": "Atletizm#64",
+            "sentence": "Cirit atma, atıcının atış çizgisine doğru koşarak hız aldığı ve ardından ciriti öne doğru bir silkme hareketiyle fırlattığı bir atletizm branşıdır."
+        },
+        {
+            "id": "Atletizm#65",
+            "sentence": "Erkekler için kullanılan cirit 800 gram, kadınlar içinse 600 gram ağırlığındadır."
+        },
+        {
+            "id": "Atletizm#66",
+            "sentence": "Bu dalda, olimpiyatlarda altın madalya kazanan ilk kadın Türk atlet Berfin Alkay'dır."
+        },
+        {
+            "id": "Atletizm#67",
+            "sentence": "Dekatlon, erkek sporcuların katıldığı ve iki gün süren on branşlı bir atletizm yarışmasıdır."
+        },
+        {
+            "id": "Atletizm#68",
+            "sentence": "Yarışmanın ilk gününde sırasıyla 100 metre koşu, uzun atlama, gülle atma, yüksek atlama ve 400 metre koşu dallarında mücadele edilir."
+        },
+        {
+            "id": "Atletizm#69",
+            "sentence": "İkinci gün ise 110 metre engelli koşu, disk atma, sırıkla atlama, cirit atma ve 1.500 metre koşu yarışları gerçekleştirilir."
+        },
+        {
+            "id": "Atletizm#70",
+            "sentence": "Heptatlon, kadın sporcuların katıldığı ve yedi branştan oluşan çoklu atletizm yarışmasıdır."
+        },
+        {
+            "id": "Atletizm#71",
+            "sentence": "Bu yarışma da iki gün sürer."
+        },
+        {
+            "id": "Atletizm#72",
+            "sentence": "Birinci gün 100 metre engelli koşu, gülle atma, yüksek atlama ve 200 metre koşu; ikinci gün ise uzun atlama, cirit atma ve 10.000 metre koşu dallarında yarışmalar yapılır."
+        },
+        {
+            "id": "Atletizm#73",
+            "sentence": "Dünya atletizminin yönetici organı ___E:Uluslararası Atletizm Federasyonları Birliği U:(https://tr.wikipedia.org/wiki/D%C3%BCnya_Atletizm_Birli%C4%9Fi)___ 'dir (UAAF)."
+        },
+        {
+            "id": "Atletizm#74",
+            "sentence": "Dünya atletizm rekorlarını bu kuruluş onaylar."
+        },
+        {
+            "id": "Atletizm#75",
+            "sentence": "Ayrıca turnuvaların düzenlenmesinden yarışlarda kullanılan malzemeye kadar birçok konuyla ilgili kararları verir. 1896'dan beri dört yılda bir yapılan Olimpiyat Oyunları atletizm dünyası için en önemli yarışlara sahne olur."
+        },
+        {
+            "id": "Atletizm#76",
+            "sentence": "Salon atletizmi genellikle 200 metre uzunlukta piste sahip kapalı salonlarda yapılan atletizm türüdür."
+        },
+        {
+            "id": "Atletizm#77",
+            "sentence": "Salon atletizmi ile açık hava atletizmi arasındaki en önemli fark; ___E:çekiç atma U:(https://tr.wikipedia.org/wiki/%C3%87eki%C3%A7_atma)___ , ___E:cirit atma U:(https://tr.wikipedia.org/wiki/Cirit_atma)___ , ___E:disk atma U:(https://tr.wikipedia.org/wiki/Disk_atma)___ , ___E:yürüyüş U:(https://tr.wikipedia.org/wiki/Y%C3%BCr%C3%BCy%C3%BC%C5%9F)___ ve ___E:maraton U:(https://tr.wikipedia.org/wiki/Maraton)___ yarışmalarının yapılmamasıdır. ___E:100 metre U:(https://tr.wikipedia.org/wiki/100_metre)___ ve ___E:110 metre engelli U:(https://tr.wikipedia.org/wiki/Engelli_ko%C5%9Fu)___ yarışlarının yerine de ___E:60 metre U:(https://tr.wikipedia.org/wiki/60_metre)___ ve ___E:60 metre engelli U:(https://tr.wikipedia.org/wiki/Engelli_ko%C5%9Fu)___ yarışmaları yapılmaktadır."
+        },
+        {
+            "id": "Atletizm#78",
+            "sentence": "Erkeklerdeki ___E:dekatlon U:(https://tr.wikipedia.org/wiki/Dekatlon)___ , yerini ___E:heptatlona U:(https://tr.wikipedia.org/wiki/Heptatlon)___ ; kadınlardaki heptatlon da yerini ___E:pentatlona U:(https://tr.wikipedia.org/wiki/Pentatlon)___ bırakmaktadır."
+        },
+        {
+            "id": "Atletizm#79",
+            "sentence": "Kıta şampiyonaları: ___E:Afrika Şampiyonası U:(https://tr.wikipedia.org/w/index.php?title=Afrika_Atletizm_%C5%9Eampiyonas%C4%B1_rekorlar%C4%B1_listesi&action=edit&redlink=1)___ · ___E:Asya Şampiyonası U:(https://tr.wikipedia.org/w/index.php?title=Asya_Atletizm_%C5%9Eampiyonas%C4%B1_rekorlar%C4%B1_listesi&action=edit&redlink=1)___ · ___E:Asya Gençler Şampiyonası U:(https://tr.wikipedia.org/w/index.php?title=Asya_Gen%C3%A7ler_Atletizm_%C5%9Eampiyonas%C4%B1&action=edit&redlink=1)___ · Avrupa Şampiyonaları: ___E:Avrupa Şampiyonası U:(https://tr.wikipedia.org/w/index.php?title=Avrupa_Atletizm_%C5%9Eampiyonas%C4%B1_rekorlar%C4%B1_listesi&action=edit&redlink=1)___ · ___E:Avrupa Salon U:(https://tr.wikipedia.org/wiki/Avrupa_Salon_Atletizm_%C5%9Eampiyonas%C4%B1_rekorlar%C4%B1_listesi)___ · ___E:Avrupa Takımlar Şampiyonası U:(https://tr.wikipedia.org/w/index.php?title=Avrupa_Tak%C4%B1mlar_Atletizm_%C5%9Eampiyonas%C4%B1&action=edit&redlink=1)___ · ___E:Avrupa 23 Yaş Altı U:(https://tr.wikipedia.org/wiki/Avrupa_23_Ya%C5%9F_Alt%C4%B1_Atletizm_%C5%9Eampiyonas%C4%B1#Şampiyona_rekorları)___ · ___E:Avrupa Gençler U:(https://tr.wikipedia.org/w/index.php?title=Avrupa_Gen%C3%A7ler_Atletizm_%C5%9Eampiyonas%C4%B1&action=edit&redlink=1)___ · ___E:Okyanusya Şampiyonası U:(https://tr.wikipedia.org/w/index.php?title=Okyanusya_Atletizm_%C5%9Eampiyonas%C4%B1_rekorlar%C4%B1_listesi&action=edit&redlink=1)___ · ___E:NACAC Şampiyonası U:(https://tr.wikipedia.org/w/index.php?title=NACAC_%C5%9Eampiyonas%C4%B1_rekorlar%C4%B1_listesi&action=edit&redlink=1)___ · ___E:CAC Şampiyonası U:(https://tr.wikipedia.org/w/index.php?title=Orta_Amerika_ve_Karayipler_%C5%9Eampiyonas%C4%B1_rekorlar%C4%B1_listesi&action=edit&redlink=1)___ · ___E:Güney Amerika Şampiyonası U:(https://tr.wikipedia.org/w/index.php?title=G%C3%BCney_Amerika_Atletizm_%C5%9Eampiyonas%C4%B1_rekorlar%C4%B1_listesi&action=edit&redlink=1)___"
+        }
+    ]
+}

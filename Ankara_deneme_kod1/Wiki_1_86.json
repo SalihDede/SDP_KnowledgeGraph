@@ -1,0 +1,42 @@
+{
+    "Title": "Havayolu",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Havayolu#1",
+            "sentence": "Havayolu ya da hava yolu , hava taşıtlarıyla (büyük oranda ___E:uçaklarla U:(https://tr.wikipedia.org/wiki/U%C3%A7ak)___ ), insan ve yük taşımacılığı yapan ticari ___E:şirket U:(https://tr.wikipedia.org/wiki/%C5%9Eirket)___ ."
+        },
+        {
+            "id": "Havayolu#2",
+            "sentence": "Hızlı bir taşıma türü olan havayolu taşımacılığı diğer ulaşım metotlarına göre daha masraflıdır. [kaynak belirtilmeli] Havayolu taşımacılığının önemli bir kısmı ekspres ve kurye ___E:kargo U:(https://tr.wikipedia.org/wiki/Kargo)___ taşımacılığıdır."
+        },
+        {
+            "id": "Havayolu#3",
+            "sentence": "Havayolu ulaşımı, ___E:I. Dünya Savaşı U:(https://tr.wikipedia.org/wiki/I._D%C3%BCnya_Sava%C5%9F%C4%B1)___ 'ndan sonra hızla gelişti."
+        },
+        {
+            "id": "Havayolu#4",
+            "sentence": "İlk seferler 1919'da ___E:Fransa U:(https://tr.wikipedia.org/wiki/Fransa)___ 'da başladı. ___E:Atlantik U:(https://tr.wikipedia.org/wiki/Atlantik_Okyanusu)___ seferleri 1930'da başladı."
+        },
+        {
+            "id": "Havayolu#5",
+            "sentence": "Havayolu ulaşımı uçak, yakıt, ___E:havaalanı U:(https://tr.wikipedia.org/wiki/Havaalan%C4%B1)___ , yol, vs. unsurlarını kapsar."
+        },
+        {
+            "id": "Havayolu#6",
+            "sentence": "Havaalanları büyük, küçük, hafif, basit uçakları kabul etmelerine göre sınıflandırılırlar."
+        },
+        {
+            "id": "Havayolu#7",
+            "sentence": "Hav yolu sektöründe başlıca dört farklı iş modeli bulunmaktadır:"
+        },
+        {
+            "id": "Havayolu#8",
+            "sentence": "Bununla birlikte, önümüzdeki yıllarda bu iş modellerinin farklılaşacağı ve charter tipi iş modelinin tamamen ortadan kalkarken, ultra düşükten, premium hizmete kadar beş farklı iş modelinin sektöre hâkim olacağı belirtilmektedir."
+        },
+        {
+            "id": "Havayolu#9",
+            "sentence": "Günümüzde, network taşıyıcılara örnek olarak ___E:Türk Hava Yolları U:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Hava_Yollar%C4%B1)___ , düşük maliyetli taşıyıcılara örnek olarak ise ___E:Ryanair U:(https://tr.wikipedia.org/wiki/Ryanair)___ gösterilebilir. ___E:Amerika Birleşik Devletleri U:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)___ 'de ___E:jetBlue U:(https://tr.wikipedia.org/w/index.php?title=JetBlue&action=edit&redlink=1)___ ve ___E:Avrupa U:(https://tr.wikipedia.org/wiki/Avrupa)___ 'da ___E:airberlin U:(https://tr.wikipedia.org/w/index.php?title=Airberlin&action=edit&redlink=1)___ ise, hibrit iş modelini takip eden havayolu şirketlerindendir."
+        }
+    ]
+}

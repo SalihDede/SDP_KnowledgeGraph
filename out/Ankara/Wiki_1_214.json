@@ -1,0 +1,114 @@
+{
+    "Title": "Eskrim",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Eskrim#1",
+            "sentence": "Eskrim , kılıçla yapılan bir ___E:dövüş sporudur U:(https://tr.wikipedia.org/wiki/D%C3%B6v%C3%BC%C5%9F_sporu)___ ."
+        },
+        {
+            "id": "Eskrim#2",
+            "sentence": "Kökleri ___E:düellolar U:(https://tr.wikipedia.org/wiki/D%C3%BCello)___ ve nefsi müdafaa için kullanılan kılıç ustalığıyla yakından ilişkilidir."
+        },
+        {
+            "id": "Eskrim#3",
+            "sentence": "Eskrimin bir spor dalı olarak gelişmesi 18. yüzyılın ortalarında başlamıştır. ___E:1896 Yaz Olimpiyatları'nda U:(https://tr.wikipedia.org/wiki/1896_Yaz_Olimpiyatlar%C4%B1%27nda_eskrim)___ yer alan spor dallarından biridir."
+        },
+        {
+            "id": "Eskrim#4",
+            "sentence": "Eskrim üç tür silahla yapılır: ___E:Flöre U:(https://tr.wikipedia.org/wiki/Fl%C3%B6re)___ , ___E:epe U:(https://tr.wikipedia.org/wiki/Epe)___ ve ___E:eskrim kılıcı U:(https://tr.wikipedia.org/w/index.php?title=Eskrim_k%C4%B1l%C4%B1c%C4%B1&action=edit&redlink=1)___ (sabre)."
+        },
+        {
+            "id": "Eskrim#5",
+            "sentence": "Bu üç eskrim biçiminin sayı ve süre sistemleri aynıdır, ama karşılaşmalarda farklı yönleri vardır."
+        },
+        {
+            "id": "Eskrim#6",
+            "sentence": "Eskrim dayanıklı özel giysiler içinde yapılır."
+        },
+        {
+            "id": "Eskrim#7",
+            "sentence": "Çelik teller ile örülmüş bir maske, ___E:flöre U:(https://tr.wikipedia.org/wiki/Fl%C3%B6re)___ ve ___E:kılıç U:(https://tr.wikipedia.org/wiki/K%C4%B1l%C4%B1%C3%A7)___ için koruyucu bir yelek, kadınlar için göğüsü koruyan bir plastik, sağlam keten ya da branda bezinden bir ceket ve yumuşak eldivenler giyilir."
+        },
+        {
+            "id": "Eskrim#8",
+            "sentence": "Bu giysiler eskrimciyi yaralanmalardan korur."
+        },
+        {
+            "id": "Eskrim#9",
+            "sentence": "Eskrim karşılaşmaları, genişliği 1.5 - 2.0 metre arası ve uzunluğu 14 metre olan bir pistte yapılır."
+        },
+        {
+            "id": "Eskrim#10",
+            "sentence": "Flöre olarak adlandırılan silah, 1.1 metre uzunluğundadır."
+        },
+        {
+            "id": "Eskrim#11",
+            "sentence": "Ucunda küçük bir düğme ve kabza adı verilen koruyucusu bulunur."
+        },
+        {
+            "id": "Eskrim#12",
+            "sentence": "En çok 500 gram ağırlığında olabilir."
+        },
+        {
+            "id": "Eskrim#13",
+            "sentence": "Flöre silahının ucundaki yaylı noktanın rakibin gövdesine bastırılmasıyla sayı kazanılır."
+        },
+        {
+            "id": "Eskrim#14",
+            "sentence": "Her iki oyuncu da aynı anda bu vuruşu yaparsa, sayıyı atak üstünlüğü olan kazanır."
+        },
+        {
+            "id": "Eskrim#15",
+            "sentence": "Vuruşlar yalnızca gövdeye yapılır, özel yelek olduğundan dolayı, kol ve bacaklara ya da başa değen vuruşlar kural dışı sayılır."
+        },
+        {
+            "id": "Eskrim#16",
+            "sentence": "Karşılaşmalarda eskrimci kısa, hızlı adımlarla ileri-geri hareket eder. Hücum durumundaysa kol, gövde ve bacaklarının hamle denen açılımıyla rakibini dürter."
+        },
+        {
+            "id": "Eskrim#17",
+            "sentence": "Savunmada ise rakibin hücumunu savuşturarak vuruş hakkı kazanmaya çalışır."
+        },
+        {
+            "id": "Eskrim#18",
+            "sentence": "Doğrudan yapılan hamleler rakibi tarafından kolayca savuşturulacağı için, eskrimcinin aldatıcı hareketlerle rakibini şaşırtacak hareketler yapması gerekir."
+        },
+        {
+            "id": "Eskrim#19",
+            "sentence": "Epe, flöreden daha keskin ve ağır bir silahtır."
+        },
+        {
+            "id": "Eskrim#20",
+            "sentence": "Epede dürtüşler yalnızca silahın ucuyla yapılır ve giyside iz bırakmaz."
+        },
+        {
+            "id": "Eskrim#21",
+            "sentence": "Karşılaşma genel düello kurallarıyla yapılır ve özel sınırlamalar yoktur."
+        },
+        {
+            "id": "Eskrim#22",
+            "sentence": "Rakibin herhangi bir yerine yapılan dürtüş puan olarak değer kazanır."
+        },
+        {
+            "id": "Eskrim#23",
+            "sentence": "Aynı anda yapılan vuruşlar iki tarafa da sayı kazandırır."
+        },
+        {
+            "id": "Eskrim#24",
+            "sentence": "Kılıç, hem dürtme, hem de vurma silahı olarak kullanılır."
+        },
+        {
+            "id": "Eskrim#25",
+            "sentence": "Düz ve yassı olan kılıcın yarı yuvarlak bir koruyucusu vardır."
+        },
+        {
+            "id": "Eskrim#26",
+            "sentence": "Rakibin belden yukarısına kılıcın ucuyla ya da kenarlarıyla yapılan vuruşlar sayı kazandırır."
+        },
+        {
+            "id": "Eskrim#27",
+            "sentence": "Eskrim, merkezi İsviçre'nin Lozan kentinde bulunan ___E:Uluslararası Eskrim Federasyonu U:(https://tr.wikipedia.org/w/index.php?title=Uluslararas%C4%B1_Eskrim_Federasyonu&action=edit&redlink=1)___ (FIE) tarafından yönetilmektedir."
+        }
+    ]
+}

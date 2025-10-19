@@ -1,0 +1,18 @@
+{
+    "Title": "Sanayi",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Sanayi#1",
+            "sentence": "Sanayi, endüstri veya işleyim    devamlı veya belli zamanlarda, makine ve benzeri araçlar kullanarak bir madde veya gücün niteliğini veya biçimini değiştirerek toplu üretimde bulunan faaliyet dalı ve ekonominin ana sektörlerinden birisidir."
+        },
+        {
+            "id": "Sanayi#2",
+            "sentence": "Terim, el sanatlarından yüksek teknolojiye kadar bir dizi insan faaliyetine atıfta bulunabilir ancak en yaygın olarak, birincil sektörden gelen hammaddelerin büyük ölçekte işlenmiş ürünlere dönüştürüldüğü endüstriyel tasarım için kullanılır."
+        },
+        {
+            "id": "Sanayi#3",
+            "sentence": "Bu tür mallar, uçak, beyaz eşya, spor ekipmanları veya otomobiller gibi diğer daha karmaşık ürünlerin üretimi için diğer üreticilere satılabilir veya üçüncül endüstri yoluyla ve genellikle marketler, pazarlar aracılığıyla son kullanıcıya ve tüketiciye kadar dağıtılabilir."
+        }
+    ]
+}
