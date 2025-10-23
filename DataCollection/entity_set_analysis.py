@@ -1,40 +1,62 @@
 import pandas as pd
 import glob
+import os
+from collections import defaultdict
+from upsetplot import UpSet, from_memberships
+import matplotlib.pyplot as plt
 
-# CSV klasör yolunu belirt
-path = "./data"  # örn: "data/"
-files = glob.glob(path + "/*.csv")
+# === 1️⃣ CSV klasör yolunu belirt ===
+path = "./data"
+if not os.path.exists(path):
+    raise FileNotFoundError(f"Klasör bulunamadı: {path}")
 
-# Her dosya için entity set'lerini topla
+files = glob.glob(os.path.join(path, "*.csv"))
+if not files:
+    raise FileNotFoundError(f"{path} klasöründe hiç CSV dosyası bulunamadı.")
+
+# === 2️⃣ Her dosyadaki entity setlerini oluştur ===
 entity_sets = {}
 for file in files:
-    df = pd.read_csv(file)
-    entities = set(df['E'].astype(str))
-    entity_sets[file.split('/')[-1]] = entities
+    try:
+        df = pd.read_csv(file)
+        if 'E' not in df.columns:
+            print(f"⚠️ {os.path.basename(file)} dosyasında 'E' sütunu yok, atlandı.")
+            continue
 
-# Tüm entity'lerin birleşimini al
-all_entities = sorted(set.union(*entity_sets.values()))
+        df = df.dropna(subset=['E'])
+        df['E'] = df['E'].astype(str)
+        entities = set(df['E'])
+        entity_sets[os.path.basename(file)] = entities
 
-# Entity - Dosya varlık matrisi oluştur
-presence = pd.DataFrame(0, index=all_entities, columns=entity_sets.keys())
-for f, ents in entity_sets.items():
-    presence.loc[list(ents), f] = 1
+        print(f"✅ {os.path.basename(file)} okundu, {len(entities)} entity bulundu.")
+    except Exception as e:
+        print(f"❌ {file} okunamadı: {e}")
 
-# Ortak entity'leri bul
-multi_common = presence[presence.sum(axis=1) > 1]  # birden fazla dosyada geçenler
-unique_only = presence[presence.sum(axis=1) == 1]  # sadece bir dosyada geçenler
+if len(entity_sets) < 2:
+    raise ValueError("Grafik oluşturmak için en az 2 CSV dosyası gerekli.")
 
-# Konsola yazdır
-print("\n===== 🔁 Ortak (birden fazla dosyada geçen) entity'ler =====")
-for entity, row in multi_common.iterrows():
-    in_files = list(row[row == 1].index)
-    print(f"{entity} → {', '.join(in_files)}")
+# === 3️⃣ Her entity’nin hangi dosyalarda bulunduğunu belirle ===
+entity_to_files = defaultdict(list)
+for fname, ents in entity_sets.items():
+    for e in ents:
+        entity_to_files[e].append(fname)
 
-print("\n===== 🧩 Benzersiz (sadece bir dosyada olan) entity'ler =====")
-for entity, row in unique_only.iterrows():
-    in_files = list(row[row == 1].index)
-    print(f"{entity} → {', '.join(in_files)}")
+# === 4️⃣ UpSet verisi oluştur ===
+memberships = [tuple(v) for v in entity_to_files.values()]
+data = from_memberships(memberships)
 
-# İstersen CSV olarak da kaydedebilirsin
-multi_common.to_csv("ortak_entityler.csv", encoding="utf-8")
-unique_only.to_csv("benzersiz_entityler.csv", encoding="utf-8")
+# === 5️⃣ UpSet grafiğini çiz ===
+plt.figure(figsize=(10, 6))
+upset = UpSet(
+    data,
+    subset_size='count',
+    show_counts='%d',
+    sort_by='cardinality',
+    sort_categories_by=None,
+)
+upset.plot()
+plt.suptitle("CSV Dosyalarındaki Entity Kesişimleri — UpSet Plot", fontsize=14)
+plt.savefig("entity_upset_plot.png", dpi=300, bbox_inches='tight')
+plt.show()
+
+print("\n💾 'entity_upset_plot.png' kaydedildi — çok kümeli entity kesişimleri görselleştirildi.")
