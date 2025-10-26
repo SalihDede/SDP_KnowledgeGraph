@@ -1,0 +1,723 @@
+[
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "parent",
+        "uç": "Diego Maradona Sr.",
+        "uç_tipi": "insan"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "Wikimedia projeleri odak listesi",
+        "uç": "Vikipedi:Her Vikipedi'de olması gereken maddeler/Genişletilmiş",
+        "uç_tipi": "Wikimedia proje sayfası"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "Wikimedia projeleri odak listesi",
+        "uç": "Vikipedi:Her Vikipedi'de olması gereken maddeler/Genişletilmiş",
+        "uç_tipi": "VikiProje odak listesi"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "akraba",
+        "uç": "Sergio Agüero",
+        "uç_tipi": "insan"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "antrenörlüğünü yaptığı spor takımı",
+        "uç": "Deportivo Mandiyú",
+        "uç_tipi": "futbol kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "antrenörlüğünü yaptığı spor takımı",
+        "uç": "Al Wasl FC",
+        "uç_tipi": "futbol kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "antrenörlüğünü yaptığı spor takımı",
+        "uç": "Arjantin millî futbol takımı",
+        "uç_tipi": "erkek millî futbol takımı"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "antrenörlüğünü yaptığı spor takımı",
+        "uç": "Dorados de Sinaloa",
+        "uç_tipi": "futbol kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "antrenörlüğünü yaptığı spor takımı",
+        "uç": "El-Füceyre",
+        "uç_tipi": "futbol kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "antrenörlüğünü yaptığı spor takımı",
+        "uç": "Gimnasia y Esgrima La Plata",
+        "uç_tipi": "spor kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "antrenörlüğünü yaptığı spor takımı",
+        "uç": "Gimnasia y Esgrima La Plata",
+        "uç_tipi": "rugby union club"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "antrenörlüğünü yaptığı spor takımı",
+        "uç": "Racing Club de Avellaneda",
+        "uç_tipi": "futbol kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "antrenörlüğünü yaptığı spor takımı",
+        "uç": "Racing Club de Avellaneda",
+        "uç_tipi": "spor kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "babası",
+        "uç": "Diego Maradona Sr.",
+        "uç_tipi": "insan"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "baskın eli",
+        "uç": "solaklık",
+        "uç_tipi": "el tercihi"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "başlığın ana kategorisi",
+        "uç": "Kategori:Diego Maradona",
+        "uç_tipi": "Wikimedia kategorisi"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "cinsiyeti",
+        "uç": "erkek",
+        "uç_tipi": "cinsiyet kimliği"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "cinsiyeti",
+        "uç": "erkek",
+        "uç_tipi": "insan biyolojik cinsiyeti"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "defin yeri",
+        "uç": "Jardín Bella Vista",
+        "uç_tipi": "mezarlık"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "doğum yeri",
+        "uç": "Lanús",
+        "uç_tipi": "büyük şehir"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "doğum yeri",
+        "uç": "Lanús",
+        "uç_tipi": "kent (Arjantin)"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "doğum yeri",
+        "uç": "Partido de Lanús",
+        "uç_tipi": "partido (Buenos Aires ili)"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "eşi",
+        "uç": "Claudia Villafañe",
+        "uç_tipi": "insan"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "kardeşi",
+        "uç": "Hugo Maradona",
+        "uç_tipi": "insan"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "kardeşi",
+        "uç": "Raúl Maradona",
+        "uç_tipi": "insan"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "katıldığı",
+        "uç": "1979 FIFA World Youth Championship",
+        "uç_tipi": "sezon"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "katıldığı",
+        "uç": "1982 FIFA Dünya Kupası",
+        "uç_tipi": "sezon"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "katıldığı",
+        "uç": "1986 FIFA Dünya Kupası",
+        "uç_tipi": "sezon"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "katıldığı",
+        "uç": "1990 FIFA Dünya Kupası",
+        "uç_tipi": "sezon"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "katıldığı",
+        "uç": "1994 FIFA Dünya Kupası",
+        "uç_tipi": "sezon"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "İspanyolca",
+        "uç_tipi": "doğal dil"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "İspanyolca",
+        "uç_tipi": "dil"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "İspanyolca",
+        "uç_tipi": "modern dil"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "İspanyolca",
+        "uç_tipi": "insan dilleri"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "İtalyanca",
+        "uç_tipi": "doğal dil"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "İtalyanca",
+        "uç_tipi": "modern dil"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "mesleği",
+        "uç": "futbolcu",
+        "uç_tipi": "meslek"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "mesleği",
+        "uç": "futbolcu",
+        "uç_tipi": "uğraş"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "mesleği",
+        "uç": "oyuncu",
+        "uç_tipi": "meslek"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "mesleği",
+        "uç": "oyuncu",
+        "uç_tipi": "uğraş"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "mesleği",
+        "uç": "oyuncu",
+        "uç_tipi": "ISCO-08'e göre meslek grubu"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "mesleği",
+        "uç": "teknik direktör",
+        "uç_tipi": "meslek"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "mesleği",
+        "uç": "teknik direktör",
+        "uç_tipi": "uğraş"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "nedir",
+        "uç": "insan",
+        "uç_tipi": "belirli bir ortak adla bilinen organizmalar grubu"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "oynadığı pozisyon",
+        "uç": "forvet",
+        "uç_tipi": "futbol pozisyonu"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "oynadığı pozisyon",
+        "uç": "orta saha",
+        "uç_tipi": "futbol pozisyonu"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "soyadı",
+        "uç": "Maradona",
+        "uç_tipi": "soyadı"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "spor dalı",
+        "uç": "futbol",
+        "uç_tipi": "spor dalı"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "spor dalı",
+        "uç": "futbol",
+        "uç_tipi": "hobi"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "spor dalı",
+        "uç": "futbol",
+        "uç_tipi": "olimpik sporlar"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "spor dalı",
+        "uç": "futbol",
+        "uç_tipi": "takım sporu"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "spor dalı",
+        "uç": "futbol",
+        "uç_tipi": "gösteri sporu"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "spor ülkesi",
+        "uç": "Arjantin",
+        "uç_tipi": "ülke"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "spor ülkesi",
+        "uç": "Arjantin",
+        "uç_tipi": "millet"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "spor ülkesi",
+        "uç": "Arjantin",
+        "uç_tipi": "federal cumhuriyet"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "spor ülkesi",
+        "uç": "Arjantin",
+        "uç_tipi": "egemen devlet"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "spor ülkesi",
+        "uç": "Arjantin",
+        "uç_tipi": "confessional state"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "suçu",
+        "uç": "atış",
+        "uç_tipi": "Belirtilmemiş"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "Argentinos Juniors",
+        "uç_tipi": "futbol kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "Argentinos Juniors",
+        "uç_tipi": "spor kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "Arjantin 20 yaş altı millî futbol takımı",
+        "uç_tipi": "national association football team"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "Arjantin millî futbol takımı",
+        "uç_tipi": "erkek millî futbol takımı"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "Boca Juniors",
+        "uç_tipi": "futbol kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "Boca Juniors",
+        "uç_tipi": "spor kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "FC Barcelona",
+        "uç_tipi": "representation team"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "FC Barcelona",
+        "uç_tipi": "professional sports team"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "FC Barcelona",
+        "uç_tipi": "men's association football team"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "FC Barcelona",
+        "uç_tipi": "men's association football club"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "Newell's Old Boys",
+        "uç_tipi": "futbol kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "Newell's Old Boys",
+        "uç_tipi": "spor kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "SSC Napoli",
+        "uç_tipi": "futbol kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "Sevilla FC",
+        "uç_tipi": "futbol kulübü"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "Sevilla FC",
+        "uç_tipi": "professional sports team"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "tanımlandığı kaynaklar",
+        "uç": "Ho perso Maradona: Storie di tifo e altre dipendenze",
+        "uç_tipi": "sürüm, baskı veya çeviri"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "tanımlandığı kaynaklar",
+        "uç": "Larousse Ansiklopedisi çevrimiçi",
+        "uç_tipi": "sürüm, baskı veya çeviri"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "tanımlandığı kaynaklar",
+        "uç": "Lentapedi",
+        "uç_tipi": "yazma"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "tanımlandığı kaynaklar",
+        "uç": "Obalky knih.cz",
+        "uç_tipi": "portal"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "vatandaşlığı",
+        "uç": "Arjantin",
+        "uç_tipi": "ülke"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "vatandaşlığı",
+        "uç": "Arjantin",
+        "uç_tipi": "millet"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "vatandaşlığı",
+        "uç": "Arjantin",
+        "uç_tipi": "federal cumhuriyet"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "vatandaşlığı",
+        "uç": "Arjantin",
+        "uç_tipi": "egemen devlet"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "vatandaşlığı",
+        "uç": "Arjantin",
+        "uç_tipi": "confessional state"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "çalışma alanı",
+        "uç": "sport management",
+        "uç_tipi": "akademik disiplin"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "çalışma alanı",
+        "uç": "sport management",
+        "uç_tipi": "uğraş"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "çalışma alanı",
+        "uç": "futbol",
+        "uç_tipi": "spor dalı"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "çalışma alanı",
+        "uç": "futbol",
+        "uç_tipi": "hobi"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "çalışma alanı",
+        "uç": "futbol",
+        "uç_tipi": "olimpik sporlar"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "çalışma alanı",
+        "uç": "futbol",
+        "uç_tipi": "takım sporu"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "çalışma alanı",
+        "uç": "futbol",
+        "uç_tipi": "gösteri sporu"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "çalışma alanı",
+        "uç": "spor eğitimi",
+        "uç_tipi": "Belirtilmemiş"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "çocuğu",
+        "uç": "Diego Sinagra",
+        "uç_tipi": "insan"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "çocuğu",
+        "uç": "Gianinna Maradona",
+        "uç_tipi": "insan"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "çocuğu",
+        "uç": "Dalma Maradona",
+        "uç_tipi": "insan"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "ödülleri",
+        "uç": "diamond Konex award",
+        "uç_tipi": "ödül"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "ödülleri",
+        "uç": "Adidas Altın Top",
+        "uç_tipi": "sports award"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "ödülleri",
+        "uç": "FIFA Yüzyılın Futbolcusu",
+        "uç_tipi": "sports award"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "ödülleri",
+        "uç": "L'Équipe Şampiyonlar Şampiyonu",
+        "uç_tipi": "sports award"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "ölüm nedeni",
+        "uç": "Kardiyak arrest",
+        "uç_tipi": "ölüm nedeni"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "ölüm nedeni",
+        "uç": "Kardiyak arrest",
+        "uç_tipi": "thoracic disease"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "ölüm nedeni",
+        "uç": "Kardiyak arrest",
+        "uç_tipi": "class of disease"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "ölüm yeri",
+        "uç": "Dique Luján",
+        "uç_tipi": "insan yerleşimi"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "ölüm şekli",
+        "uç": "doğal sebepler",
+        "uç_tipi": "ölüm şekli"
+    },
+    {
+        "baş": "Diego Maradona",
+        "baş_tipi": "insan",
+        "ilişki": "ön adı",
+        "uç": "Diego",
+        "uç_tipi": "erkek adı"
+    }
+]
