@@ -1,10 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 import json
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin
 import re
 
-BASE_URL = "https://tr.wikipedia.org"  # varsayılan, fakat sayfa bazlı base kullanılacak
+BASE_URL = "https://tr.wikipedia.org"
 
 
 def web_scraping_yap(url):
@@ -24,10 +24,8 @@ def web_scraping_yap(url):
     return BeautifulSoup(response.content, 'html.parser')
 
 
-def vcard_verilerini_cek(soup, page_base_url: str):
-    """Sayfadaki sağ bilgi kutusundaki (infobox) verileri çeker.
-    Linkleri, sayfanın kendi alan adına göre (en/tr) birleştirir.
-    """
+def vcard_verilerini_cek(soup):
+    """Sayfadaki sağ bilgi kutusundaki (infobox) verileri çeker."""
     vcard = soup.select_one('.vcard')
     if not vcard:
         return {}
@@ -53,8 +51,7 @@ def vcard_verilerini_cek(soup, page_base_url: str):
                 link_text = item.get_text().strip()
                 href = item.get('href')
                 if link_text and href:
-                    # href mutlaksa aynen kullan, değilse sayfa domaini ile birleştir
-                    full_url = urljoin(page_base_url, href)
+                    full_url = urljoin(BASE_URL, href)
                     formatted_link = f"___E:{link_text} U:({full_url})___"
                     value_parts.append(formatted_link)
             else:
@@ -113,9 +110,7 @@ def cumlelere_ayir(metin):
 
 
 def veri_cek_ve_json_olarak_dondur(url):
-    """Wikipedia sayfasını tarar, Card ve Main yapısına uygun JSON döndürür.
-    Linkler sayfanın domainine göre (en/tr) oluşturulur.
-    """
+    """Wikipedia sayfasını tarar, Card ve Main yapısına uygun JSON döndürür."""
     soup = web_scraping_yap(url)
     if soup is None:
         return {"hata": "HTML içeriği alınamadı."}
@@ -125,10 +120,7 @@ def veri_cek_ve_json_olarak_dondur(url):
         if soup.title else "Başlık Bulunamadı"
     )
 
-    parsed = urlparse(url)
-    page_base_url = f"{parsed.scheme}://{parsed.netloc}"
-
-    card = vcard_verilerini_cek(soup, page_base_url)
+    card = vcard_verilerini_cek(soup)
     paragraflar = soup.select('#mw-content-text p')
 
     main_yapisi = []
@@ -144,7 +136,7 @@ def veri_cek_ve_json_olarak_dondur(url):
                 link_text = item.get_text().strip()
                 href = item.get('href')
                 if link_text and href:
-                    full_url = urljoin(page_base_url, href)
+                    full_url = urljoin(BASE_URL, href)
                     formatted_link = f"___E:{link_text} U:({full_url})___"
                     modified_text_parts.append(formatted_link)
             else:

@@ -1,0 +1,32 @@
+{
+    "Title": "Türkiye Voleybol Federasyonu",
+    "Card": {
+        "Spor": "___E:voleybol U:(https://tr.wikipedia.org/wiki/Voleybol)___ ___E:plaj voleybolu U:(https://tr.wikipedia.org/wiki/Plaj_voleybolu)___",
+        "Kısaltma": "___E:TVF U:(https://tr.wikipedia.org/wiki/TVF)___",
+        "Kuruluş tarihi": "1958",
+        "Üyelik": "___E:FİVB U:(https://www.fivb.com)___ ___E:CEV U:(https://www.cev.eu/)___",
+        "Bölgesel üyelik": "___E:BVA U:(http://www.balkanvolleyball.org/)___",
+        "Genel merkez": "___E:Ankara U:(https://tr.wikipedia.org/wiki/Ankara)___",
+        "Başkan": "___E:Mehmet Akif Üstündağ U:(https://tr.wikipedia.org/w/index.php?title=Mehmet_Akif_%C3%9Cst%C3%BCnda%C4%9F&action=edit&redlink=1)___",
+        "Genel sekreter": "Nihal İşçi",
+        "Kadınlar antrenörü": "___E:Daniele Santarelli U:(https://tr.wikipedia.org/wiki/Daniele_Santarelli)___"
+    },
+    "Main": [
+        {
+            "id": "Türkiye Voleybol Federasyonu#1",
+            "sentence": "Türkiye Voleybol Federasyonu , 1958'de Voleybol-Eltopu Federasyonu adıyla kuruldu. 28 Ekim 2004 tarihinde özerk olan Türkiye Voleybol Federasyonu, Türkiye'de voleybol faaliyetlerini resmi olarak yürüten bir kuruluştur. ___E:Uluslararası Voleybol Federasyonu (FIVB) U:(https://tr.wikipedia.org/wiki/Uluslararas%C4%B1_Voleybol_Federasyonu)___ , ___E:Avrupa Voleybol Konfederasyonu (CEV) U:(https://tr.wikipedia.org/wiki/Avrupa_Voleybol_Konfederasyonu)___ ve ___E:Balkan Voleybol Birliği (BVA) U:(https://tr.wikipedia.org/w/index.php?title=Balkan_Voleybol_Birli%C4%9Fi&action=edit&redlink=1)___ resmi üyesidir."
+        },
+        {
+            "id": "Türkiye Voleybol Federasyonu#2",
+            "sentence": "Merkezi Ankara'dadır."
+        },
+        {
+            "id": "Türkiye Voleybol Federasyonu#3",
+            "sentence": "Vizyonu;"
+        },
+        {
+            "id": "Türkiye Voleybol Federasyonu#4",
+            "sentence": "Misyonu;"
+        }
+    ]
+}

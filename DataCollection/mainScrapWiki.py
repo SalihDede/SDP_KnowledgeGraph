@@ -1,248 +1,148 @@
-import os, time, json
-import pandas as pd
-from urllib.parse import urljoin, quote, urlparse
-import re
+import json
+import time
+import os
+from urllib.parse import urljoin
 from scrapWikipedia import veri_cek_ve_json_olarak_dondur
-from getEntityUrlFreq import analiz_yap
+from getEntityUrlFreq import analiz_yap, e_u_total_cikti
+from entityFrequencyAnalyzer import EntityFrequencyAnalyzer
 
 BASE_URL = "https://tr.wikipedia.org"
 
-def wiki_url_from_name(name: str) -> str:
-    return f"{BASE_URL}/wiki/{quote(name.replace(' ', '_'))}"
+print("="*80)
+print("🚀 Wikipedia Entity Frekans Analiz Sistemi")
+print("="*80)
+print("\n📋 İşlem Adımları:")
+print("1️⃣  Wikipedia sayfasını al (tüm içerik)")
+print("2️⃣  Sayfadaki linkleri bul")
+print("3️⃣  Verileri URL bazlı çek ve entityleri al")
+print("4️⃣  Farklı adda aynı URL varsa entity'ye ekle")
+print("5️⃣  Unique linkleri queue'ya al ve aynı işlemi tekrarla")
+print("6️⃣  Tüm frekans tablolarındaki entityleri birleştir")
+print("7️⃣  Frekansları topla ve karşılık gelen cümleleri yaz")
+print("="*80 + "\n")
 
-def safe_slug(text: str) -> str:
-    return "_".join(text.strip().split())
-
-def _combine_unique(dfs: list[pd.DataFrame]) -> pd.DataFrame | None:
+def derin_scrap(root_url, max_depth=2, bekleme_suresi=1):
     """
-    Birden çok DataFrame'i URL'e göre TEKILLEŞTIRIR (her U için 1 satır).
-    - E kolonu: aynı URL için en yüksek toplam Frekans'a sahip etiket seçilir.
-    - Frekans: aynı URL için tüm kayıtların toplamı.
-    - Kaynak_IDler: birleşik benzersiz ID seti.
-    """
-    if not dfs:
-        return None
-    df = pd.concat(dfs, ignore_index=True)
-    if "U" not in df.columns:
-        return df.drop_duplicates()
-
-    freq_col = next((c for c in ["F", "Freq", "Frekans", "Frequency", "Count"] if c in df.columns), None)
-
-    def choose_e_df(sub: pd.DataFrame) -> str:
-        if "E" not in sub.columns or sub.empty:
-            return ""
-        if freq_col and freq_col in sub.columns:
-            grp = sub.groupby("E")[freq_col].sum().sort_values(ascending=False)
-            top_val = grp.iloc[0]
-            candidates = grp[grp == top_val].index.tolist()
-            return sorted(candidates)[0]
-        return sorted(sub["E"].astype(str).tolist())[0]
-
-    def merge_ids_df(sub: pd.DataFrame) -> str:
-        if "Kaynak_IDler" not in sub.columns:
-            return ""
-        parts = ";".join(map(str, sub["Kaynak_IDler"].dropna())).split(";")
-        uniq = sorted(set([p for p in parts if p]))
-        return ";".join(uniq)
-
-    rows = []
-    for u, sub in df.groupby("U"):
-        row = {
-            "E": choose_e_df(sub),
-            "U": str(u),
-            "Kaynak_IDler": merge_ids_df(sub),
-        }
-        if freq_col and freq_col in sub.columns:
-            row[freq_col] = int(sub[freq_col].sum())
-        rows.append(row)
-
-    out = pd.DataFrame(rows)
-    cols = ["E", "U"] + ([freq_col] if freq_col and freq_col in out.columns else []) + (["Kaynak_IDler"] if "Kaynak_IDler" in out.columns else [])
-    return out[cols]
-
-def _combine_intersection_unique(dfs: list[pd.DataFrame]) -> pd.DataFrame | None:
-    """
-    Tüm DataFrame'lerin KESIŞIMINDE kalan URL'leri döndürür (her U için 1 satır).
-    - E: tüm run'lardan gelen kayıtlar arasında toplam frekansı en yüksek etiket
-    - Frekans: tüm run'lar toplamı
-    - Kaynak_IDler: birleşik benzersiz set
-    """
-    if not dfs:
-        return None
-    # Canonical key: dilden bağımsızlaştır (en/tr)
-    def canonical_key(u: str) -> str:
-        return re.sub(r"^https?://(en|tr)\.wikipedia\.org/", "", str(u))
-
-    # Hepsinde olma koşulu (canonical key üzerinden)
-    sets = []
-    for d in dfs:
-        if "U" not in d.columns:
-            return None
-        sets.append({canonical_key(u) for u in d["U"].astype(str)})
-    common_keys = set.intersection(*sets) if sets else set()
-    if not common_keys:
-        return pd.DataFrame(columns=["E", "U", "Frekans", "Kaynak_IDler"])  # boş kesişim
-
-    all_df = pd.concat(dfs, ignore_index=True)
-    all_df = all_df[all_df["U"].astype(str).apply(canonical_key).isin(common_keys)].copy()
-
-    freq_col = next((c for c in ["F", "Freq", "Frekans", "Frequency", "Count"] if c in all_df.columns), None)
-
-    def choose_e_df(sub: pd.DataFrame) -> str:
-        if "E" not in sub.columns or sub.empty:
-            return ""
-        if freq_col and freq_col in sub.columns:
-            grp = sub.groupby("E")[freq_col].sum().sort_values(ascending=False)
-            top_val = grp.iloc[0]
-            candidates = grp[grp == top_val].index.tolist()
-            return sorted(candidates)[0]
-        return sorted(sub["E"].astype(str).tolist())[0]
-
-    def merge_ids_df(sub: pd.DataFrame) -> str:
-        if "Kaynak_IDler" not in sub.columns:
-            return ""
-        parts = ";".join(map(str, sub["Kaynak_IDler"].dropna())).split(";")
-        uniq = sorted(set([p for p in parts if p]))
-        return ";".join(uniq)
-
-        # Eski agg tarzını kullanmıyoruz; aşağıdaki manual gruplayıcı ile ilerliyoruz.
-
-    # Grup canonical key ile; sonra tr > en önceliğiyle bir URL seç
-    def pick_preferred_url(urls: list[str]) -> str:
-        urls_sorted = sorted(map(str, set(urls)))
-        for u in urls_sorted:
-            if u.startswith("https://tr.wikipedia.org/"):
-                return u
-        for u in urls_sorted:
-            if u.startswith("https://en.wikipedia.org/"):
-                return u
-        return urls_sorted[0]
-
-    all_df["_canon"] = all_df["U"].astype(str).apply(canonical_key)
-    grouped = []
-    for canon, sub in all_df.groupby("_canon"):
-        row = {
-            "E": choose_e_df(sub),
-            "U": pick_preferred_url(sub["U"].tolist()),
-            "Kaynak_IDler": merge_ids_df(sub),
-        }
-        if freq_col and freq_col in sub.columns:
-            row[freq_col] = int(sub[freq_col].sum())
-        grouped.append(row)
-
-    out = pd.DataFrame(grouped)
-    cols = ["E", "U"] + ([freq_col] if freq_col and freq_col in out.columns else []) + (["Kaynak_IDler"] if "Kaynak_IDler" in out.columns else [])
-    return out[cols]
-
-def derin_scrap(root_url, max_depth=2, bekleme_suresi=1, etiket=None, output_dir=None):
-    """
-    root_url'den başlayarak max_depth derinlikte scrape + entity-URL analizi.
-    Klasöre parça JSON/CSV yazar, sonunda kişi/URL bazlı E_U_Toplam_<etiket>.csv üretir.
-    Dönen: (pd.DataFrame | None, str | None) -> (birleşik_df, birleşik_csv_yolu)
+    Wikipedia'dan derin scraping ve entity frekans analizi yapar.
+    
+    İşlem Akışı:
+    1. Root URL'den başla
+    2. Her sayfayı scrap et (tüm içeriği al)
+    3. Sayfadaki entity-URL çiftlerini çıkar
+    4. Sayfadaki Wikipedia linklerini bul
+    5. Unique linkleri kuyruğa ekle
+    6. Derinlik limiti dolana kadar devam et
+    7. Tüm entity'leri URL bazlı birleştir ve frekansları topla
     """
     ziyaret_edilenler = set()
     kuyruk = [(root_url, 0)]
     tum_sonuclar = []
-    sayac = 0
+    json_dosyalar = []
+    entity_analyzer = EntityFrequencyAnalyzer()
 
-    if output_dir is None:
-        output_dir = os.path.join("out", safe_slug(etiket or "run"))
-    os.makedirs(output_dir, exist_ok=True)
+    print(f"\n🎯 Root URL: {root_url}")
+    print(f"🔢 Maksimum Derinlik: {max_depth}")
+    print(f"⏱️  Bekleme Süresi: {bekleme_suresi} saniye")
+    print("="*80 + "\n")
 
     while kuyruk:
         url, derinlik = kuyruk.pop(0)
         if url in ziyaret_edilenler or derinlik > max_depth:
             continue
 
-        print(f"\n🌐 [{derinlik}] {url} sayfası işleniyor...")
+        print(f"\n{'  ' * derinlik}🌐 [Derinlik {derinlik}] Sayfa #{len(ziyaret_edilenler)+1}")
+        print(f"{'  ' * derinlik}📍 URL: {url[:80]}...")
         ziyaret_edilenler.add(url)
 
+        # 1️⃣ Sayfayı scrap et (TÜM sayfayı al)
         veri = veri_cek_ve_json_olarak_dondur(url)
         if "hata" in veri:
-            print(f"❌ Hata: {veri['hata']}")
+            print(f"{'  ' * derinlik}❌ Hata: {veri['hata']}")
             continue
 
-        # JSON kaydet
-        sayac += 1
-        json_dosya = os.path.join(output_dir, f"Wiki_{derinlik}_{sayac}.json")
+        # 2️⃣ JSON kaydet
+        json_dosya = f"Wiki_{derinlik}_{len(ziyaret_edilenler)}.json"
         with open(json_dosya, "w", encoding="utf-8") as f:
             json.dump(veri, f, indent=4, ensure_ascii=False)
+        
+        json_dosyalar.append(json_dosya)
+        print(f"{'  ' * derinlik}✅ JSON kaydedildi: {json_dosya}")
 
-        # Entity analizi (tek sayfa CSV)
-        parcacsv = os.path.join(output_dir, f"E_U_{derinlik}_{sayac}.csv")
-        df = analiz_yap(json_dosya, cikti_csv_adi=parcacsv)
-
-        if df is not None and not df.empty:
+        # 3️⃣ Entity analizi (URL bazlı - farklı adlarda aynı URL'yi birleştirir)
+        df = analiz_yap(json_dosya, cikti_csv_adi=f"E_U_{derinlik}_{len(ziyaret_edilenler)}.csv")
+        if df is not None:
             tum_sonuclar.append(df)
+            print(f"{'  ' * derinlik}📊 {len(df)} farklı Entity-URL çifti bulundu")
+        
+        # 4️⃣ Kümülatif entity analizi
+        entity_result = entity_analyzer.analyze_json_file(json_dosya)
+        if "error" not in entity_result:
+            print(f"{'  ' * derinlik}📈 {entity_result['unique_entities']} farklı entity, "
+                      f"{entity_result['unique_pairs']} farklı entity-URL çifti")
 
-            # Yeni bağlantılar (sadece Wikipedia makale iç linkleri)
-            yeni_linkler = set()
-            for _, satir in df.iterrows():
-                u = str(satir.get("U", ""))
-                # Yalnızca en.wikipedia.org veya tr.wikipedia.org alanları ve /wiki/ ile başlayan makaleler
-                if not (u.startswith("https://tr.wikipedia.org/wiki/") or u.startswith("https://en.wikipedia.org/wiki/")):
-                    continue
-                if any(x in u for x in ["action=", "redlink=1", "/w/index.php"]):
-                    continue
-                title = u.split("/wiki/", 1)[1]
-                if ":" in title:  # Kategori:, Dosya:, Özel: vb.
-                    continue
-                yeni_linkler.add(u)
+        # 5️⃣ Yeni Wikipedia bağlantılarını bul
+        yeni_linkler = set()
+        for _, satir in df.iterrows():
+            if satir["U"].startswith(BASE_URL):
+                yeni_linkler.add(satir["U"])
 
-            for yeni_url in yeni_linkler:
-                if yeni_url not in ziyaret_edilenler:
-                    kuyruk.append((yeni_url, derinlik + 1))
+        # 6️⃣ Unique linkleri kuyruğa ekle
+        for yeni_url in yeni_linkler:
+            if yeni_url not in ziyaret_edilenler:
+                kuyruk.append((yeni_url, derinlik + 1))
 
-            print(f"🌀 {len(yeni_linkler)} yeni bağlantı eklendi. Kuyruk boyutu: {len(kuyruk)}")
-        else:
-            print("⚠️ Hiç entity–URL çifti bulunamadı.")
+        print(f"{'  ' * derinlik}🔗 {len(yeni_linkler)} yeni link bulundu, Kuyruk: {len(kuyruk)}")
         time.sleep(bekleme_suresi)
 
-    # Kişi/URL bazlı birleşik CSV
+    # Tüm CSV'leri birleştir (Entity analizi)
     if tum_sonuclar:
-        birlesik_df = _combine_unique(tum_sonuclar)
-        if birlesik_df is None or birlesik_df.empty:
-            birlesik_df = pd.concat(tum_sonuclar, ignore_index=True).drop_duplicates()
-        etiket_slug = safe_slug(etiket or "run")
-        birlesik_yol = os.path.join(output_dir, f"E_U_Toplam_{etiket_slug}.csv")
-        birlesik_df.to_csv(birlesik_yol, index=False, encoding="utf-8-sig")
-        print(f"\n✅ '{etiket_slug}' bitti. {birlesik_yol} oluşturuldu.")
-        return birlesik_df, birlesik_yol
+        import pandas as pd
+        ana_df = pd.concat(tum_sonuclar, ignore_index=True)
+        ana_df.to_csv("E_U_Toplam.csv", index=False, encoding="utf-8-sig")
+        print(f"\n✅ Entity analizi tamamlandı: {len(ana_df)} kayıt 'E_U_Toplam.csv' dosyasında.")
+        
+        # Global Entity raporu oluştur (URL BAZLI RAPOR)
+        # ÇIKTI DOSYA ADI DEĞİŞTİRİLDİ
+        e_u_total_cikti("E_U_URL_Bazli_Global_Toplam_Cümleler_Dahil.csv")
+    
+    # Kümülatif Entity frekans analizi tamamla
+    if json_dosyalar:
+        print(f"\n📊 {len(json_dosyalar)} sayfa için KÜMÜLATIF entity frekans analizi yapılıyor...")
+        
+        # Kümülatif entity raporları oluştur
+        entity_df, pair_df = entity_analyzer.save_reports(
+            entity_report_file="KUMÜLATIF_Entity_Frekanslari.csv",
+            pair_report_file="KUMÜLATIF_Entity_URL_Ciftleri.csv",
+            min_frequency=2
+        )
+        
+        if entity_df is not None and not entity_df.empty:
+            print(f"\n🔥 EN SIK GEÇEN 20 ENTİTY (Kümülatif):")
+            top_entities = entity_analyzer.get_top_entities(20)
+            print(top_entities[["Entity", "Sayfa_Frekans", "Kaynak_Sayfa_Sayisi"]].to_string(index=False))
+            
+            # Özet bilgi
+            total_unique_entities = len(entity_analyzer.global_entity_freq)
+            total_unique_pairs = len(entity_analyzer.entity_url_pairs)
+            print(f"\n📈 KÜMÜLATIF İSTATİSTİKLER:")
+            print(f"   • Toplam farklı entity: {total_unique_entities}")
+            print(f"   • Toplam farklı entity-URL çifti: {total_unique_pairs}")
+            print(f"   • Analiz edilen sayfa: {len(json_dosyalar)}")
+            print(f"   • Minimum 2 sayfada geçen entity: {len(entity_df)}")
+        
+        print("\n✅ TÜM ANALİZLER TAMAMLANDI!")
+        print("📁 Oluşturulan dosyalar:")
+        print("   • E_U_Toplam.csv (Eski sistem - Tek tek E,U çiftleri)")
+        # ÇIKTI MESAJI İSTEĞİNİZE GÖRE GÜNCELLENDİ
+        print("   • E_U_URL_Bazli_Global_Toplam_Cümleler_Dahil.csv (TÜM Sayfalarda URL bazlı Entity birleştirme ve Cümle listesi)")
+        print("   • KUMÜLATIF_Entity_Frekanslari.csv (YENİ - Entity frekansları, Sayfa bazlı sayım)")
+        print("   • KUMÜLATIF_Entity_URL_Ciftleri.csv (YENİ - Entity-URL çift frekansları, Sayfa bazlı sayım)")
+        
     else:
         print("⚠️ Hiç veri oluşturulamadı.")
-        return None, None
+
 
 if __name__ == "__main__":
-    try:
-        roots_input = input("Root Wikipedia URL(leri) (virgülle ayır): ").strip()
-        depth = int(input("Maksimum derinlik (örn 2): ").strip())
-    except Exception as e:
-        print(f"Hatalı giriş: {e}")
-        raise SystemExit(1)
-
-    urls = [u.strip() for u in roots_input.split(",") if u.strip()]
-    if not urls:
-        print("En az bir URL girin.")
-        raise SystemExit(1)
-
-    hepsi = []
-    for root in urls:
-        if not root.startswith("http"):
-            print(f"Atlandı (geçersiz URL): {root}")
-            continue
-        etiket = root.rsplit("/", 1)[-1]
-        try:
-            df, _ = derin_scrap(root, max_depth=depth, etiket=etiket)
-            if df is not None and not df.empty:
-                hepsi.append(df)
-        except Exception as e:
-            print(f"Hata ({root}): {e}")
-
-    if hepsi:
-        # Kesişim: tüm run'larda yer alan URL'ler
-        all_df = _combine_intersection_unique(hepsi)
-        all_dir = os.path.join("out", "ALL")
-        os.makedirs(all_dir, exist_ok=True)
-        all_csv = os.path.join(all_dir, "E_U_Toplam_ALL.csv")
-        all_df.to_csv(all_csv, index=False, encoding="utf-8-sig")
-        print(f"\n🌟 Tüm girdilerin KESİŞİMİ (her URL 1 satır): {all_csv}")
+    root = input("🌍 Root Wikipedia URL'sini girin: ").strip()
+    depth = int(input("🔢 Maksimum derinlik (örnek 2-3): ").strip())
+    derin_scrap(root, max_depth=depth)

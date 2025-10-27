@@ -1,0 +1,14 @@
+{
+    "Title": "\"Halit Demir\" sayfasını oluşturmaktasınız",
+    "Card": {},
+    "Main": [
+        {
+            "id": "\"Halit Demir\" sayfasını oluşturmaktasınız#1",
+            "sentence": "Düzenleyici şimdi yüklenecek."
+        },
+        {
+            "id": "\"Halit Demir\" sayfasını oluşturmaktasınız#2",
+            "sentence": "Birkaç saniye sonra bu iletiyi görmeye devam ederseniz, lütfen ___E:sayfayı yenileyin U:(https://tr.wikipedia.org/w/index.php?action=edit&redlink=1&title=Halit_Demir&venoscript=1)___ ."
+        }
+    ]
+}
