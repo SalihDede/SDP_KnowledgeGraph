@@ -31,56 +31,134 @@ def vcard_verilerini_cek(soup):
         return {}
 
     vcard_dict = {}
+    key_counter = {}  # Aynı key'lerin kaç kez geçtiğini takip et
     rows = vcard.select('tr')
 
     for row in rows:
         th = row.find('th')
         td = row.find('td')
-        if not th or not td:
+        
+        # Eğer hem th hem td yoksa veya sadece biri varsa farklı yaklaşım dene
+        if not th and not td:
+            continue
+            
+        # Sadece th varsa (tek sütunlu başlık olabilir)
+        if th and not td:
+            key = th.get_text(strip=True)
+            if key:
+                # Aynı key varsa numaralandır
+                if key in key_counter:
+                    key_counter[key] += 1
+                    numbered_key = f"{key} ({key_counter[key]})"
+                else:
+                    key_counter[key] = 1
+                    numbered_key = key
+                
+                if numbered_key not in vcard_dict:
+                    vcard_dict[numbered_key] = ""
+            continue
+        
+        # Sadece td varsa (önceki satırın devamı olabilir)
+        if not th and td:
+            # Son eklenen key'e ekle veya atla
+            if vcard_dict:
+                last_key = list(vcard_dict.keys())[-1]
+                additional_value = []
+                for item in td.contents:
+                    if item.name is None:
+                        text = str(item).strip()
+                        if text:
+                            additional_value.append(text)
+                    elif item.name == 'a':
+                        link_text = item.get_text().strip()
+                        href = item.get('href')
+                        if link_text and href:
+                            full_url = urljoin(BASE_URL, href)
+                            formatted_link = f"<PossibleEntity>{link_text}</PossibleEntity> <URL>:({full_url})</URL>"
+                            additional_value.append(formatted_link)
+                    else:
+                        text = item.get_text().strip()
+                        if text:
+                            additional_value.append(text)
+                
+                if additional_value:
+                    add_val = " ".join(additional_value).strip()
+                    add_val = re.sub(r'\s+', ' ', add_val)
+                    add_val = re.sub(r'\[\d+\]', '', add_val)
+                    if vcard_dict[last_key]:
+                        vcard_dict[last_key] += " " + add_val
+                    else:
+                        vcard_dict[last_key] = add_val
             continue
 
+        # Normal durum: hem th hem td var
         key = th.get_text(strip=True)
+        if not key:
+            continue
+            
         value_parts = []
 
-        for item in td.contents:
-            if item.name is None:
-                text = str(item).strip()
-                if text:
-                    value_parts.append(text)
-            elif item.name == 'a':
-                link_text = item.get_text().strip()
-                href = item.get('href')
-                if link_text and href:
-                    full_url = urljoin(BASE_URL, href)
-                    formatted_link = f"___E:{link_text} U:({full_url})___"
-                    value_parts.append(formatted_link)
-            else:
-                text = item.get_text().strip()
-                if text:
-                    value_parts.append(text)
+        # td içindeki tüm içeriği recursive olarak tara
+        def extract_content(element):
+            """Özyinelemeli olarak tüm içeriği çıkar"""
+            parts = []
+            for item in element.contents:
+                if item.name is None:
+                    text = str(item).strip()
+                    if text:
+                        parts.append(text)
+                elif item.name == 'a':
+                    link_text = item.get_text().strip()
+                    href = item.get('href')
+                    if link_text and href:
+                        full_url = urljoin(BASE_URL, href)
+                        formatted_link = f"<PossibleEntity>{link_text}</PossibleEntity> <URL>:({full_url})</URL>"
+                        parts.append(formatted_link)
+                elif item.name == 'br':
+                    parts.append(' ')
+                elif item.name in ['ul', 'ol']:
+                    # Liste elemanları için
+                    for li in item.find_all('li'):
+                        parts.extend(extract_content(li))
+                        parts.append(' ')
+                elif item.name == 'div' or item.name == 'span':
+                    # Div ve span içindekiler için recursive
+                    parts.extend(extract_content(item))
+                else:
+                    # Diğer etiketler için text al
+                    text = item.get_text().strip()
+                    if text:
+                        parts.append(text)
+            return parts
 
+        value_parts = extract_content(td)
+        
         value = " ".join(value_parts).strip()
         value = re.sub(r'\s+', ' ', value)
         value = re.sub(r'\[\d+\]', '', value)
-        vcard_dict[key] = value
+        
+        # Aynı key birden fazla kez gelmişse numaralandır
+        if key in key_counter:
+            key_counter[key] += 1
+            final_key = f"{key} ({key_counter[key]})"
+        else:
+            key_counter[key] = 1
+            final_key = key
+        
+        # Eğer bu numaralı key zaten varsa (nadiren olur) üzerine yaz
+        vcard_dict[final_key] = value
 
     return vcard_dict
 
 
 def cumlelere_ayir(metin):
-    """
-    Cümleleri ayırırken:
-      - ___E:... U:(...)___ bloklarını korur
-      - Kısaltmalarda (ör. 'd.', 'Dr.', 'Prof.') bölünmez
-      - Sayılarda ('19.', '3.1', '2. Dünya') bölünmez
-      - Noktanın cümle sonu olup olmadığını dinamik olarak analiz eder
-    """
+
     if not metin or not isinstance(metin, str):
         return []
 
     # --- 1️⃣ Entity bloklarını koruma ---
     placeholders = {}
-    entity_pattern = r"___E:.*?U:\(.*?\)___"
+    entity_pattern = r"<PossibleEntity>.*?</PossibleEntity> <URL>:\(.*?\)</URL>"
 
     def placeholderify(match):
         key = f"[[ENTITY_BLOCK_{len(placeholders)}]]"
@@ -137,7 +215,7 @@ def veri_cek_ve_json_olarak_dondur(url):
                 href = item.get('href')
                 if link_text and href:
                     full_url = urljoin(BASE_URL, href)
-                    formatted_link = f"___E:{link_text} U:({full_url})___"
+                    formatted_link = f"<PossibleEntity>{link_text}</PossibleEntity> <URL>:({full_url})</URL>"
                     modified_text_parts.append(formatted_link)
             else:
                 text = item.get_text().strip()

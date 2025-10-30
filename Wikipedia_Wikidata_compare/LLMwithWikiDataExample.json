@@ -1,0 +1,514 @@
+[
+  {
+    "metin": "Lamine Yamal Nasraoui Ebana (d. 13 Temmuz 2007, Esplugues de Llobregat ), sağ kanat pozisyonunda oynayan Fas asıllı İspanyol profesyonel futbolcu . La Liga ekiplerinden Barcelona forması giymektedir.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Oynuyor",
+    "uç": "Barcelona",
+    "uç_tipi": "FutbolTakımı"
+  },
+  {
+    "metin": "Yamal, altı yaşındayken Barcelona tarafından keşfedildi ve La Masia'daki antrenmanlara davet edildi.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "KeşfedildiTarafından",
+    "uç": "Barcelona",
+    "uç_tipi": "FutbolTakımı"
+  },
+  {
+    "metin": "2014 yılında kulüple sözleşme imzaladı ve ailesiyle birlikte Barselona'ya taşındı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Sözleşmeİmzaladı",
+    "uç": "Barcelona",
+    "uç_tipi": "FutbolTakımı"
+  },
+  {
+    "metin": "Barcelona'nın gençlik akademisi La Masia'da yetişen Yamal, kısa sürede akademinin en iyi adaylarından biri olarak görülmeye başlandı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "YetiştiğiYer",
+    "uç": "La Masia",
+    "uç_tipi": "FutbolAkademisi"
+  },
+  {
+    "metin": "Yamal, A takımdaki ilk maçına 29 Nisan 2023'te çıktı ve La Liga'da Real Betis'e karşı oynadı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "İlkMaçınaÇıktı",
+    "uç": "Real Betis",
+    "uç_tipi": "FutbolTakımı"
+  },
+  {
+    "metin": "2022-23 La Liga'yı kazanan kadroda yer alarak 14 Mayıs 2023'te Barça ile ilk şampiyonluğunu kazandı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "ŞampiyonlukKazandı",
+    "uç": "Barcelona",
+    "uç_tipi": "FutbolTakımı"
+  },
+  {
+    "metin": "Yamal, 2023-24 sezonunda Barcelona A takım kadrosuna girmeden önce La Masia gençlik akademisinin bir üyesiydi.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Üyesiydi",
+    "uç": "La Masia",
+    "uç_tipi": "FutbolAkademisi"
+  },
+  {
+    "metin": "17 yaşında Ballon d'Or ödülüne aday gösterilen en genç oyuncu oldu ve 2024 yılında dünyanın en iyi genç oyuncusuna verilen Kopa Kupası'nı kazandı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "AdayGösterildi",
+    "uç": "Ballon d'Or",
+    "uç_tipi": "Ödül"
+  },
+  {
+    "metin": "17 yaşında Ballon d'Or ödülüne aday gösterilen en genç oyuncu oldu ve 2024 yılında dünyanın en iyi genç oyuncusuna verilen Kopa Kupası'nı kazandı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Kazandı",
+    "uç": "Kopa Kupası",
+    "uç_tipi": "Ödül"
+  },
+  {
+    "metin": "Barcelona'nın gençlik akademisi La Masia'da yetişen Yamal, kısa sürede akademinin en iyi adaylarından biri olarak görülmeye başlandı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "YetiştiğiYer",
+    "uç": "La Masia",
+    "uç_tipi": "FutbolAkademisi"
+  },
+  {
+    "metin": "Lamine Yamal, kendisi gibi La Masia'da yetişen birçok oyuncunun idolü olan Lionel Messi ile karşılaştırıldı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Karşılaştırıldı",
+    "uç": "Lionel Messi",
+    "uç_tipi": "Kişi"
+  },
+  {
+    "metin": "Lamine Yamal, kendisi gibi La Masia'da yetişen birçok oyuncunun idolü olan Ansu Fati ile karşılaştırıldı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Karşılaştırıldı",
+    "uç": "Ansu Fati",
+    "uç_tipi": "Kişi"
+  },
+  {
+    "metin": "Uluslararası düzeyde İspanya millî takımını temsil etmektedir.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "TemsilEdiyor",
+    "uç": "İspanya millî futbol takımı",
+    "uç_tipi": "FutbolTakımı"
+  },
+  {
+    "metin": "Yamal, İspanya'yı çeşitli gençlik seviyelerinde uluslararası düzeyde temsil etti ve 2023 yılında A takım için ilk maçına çıkarak 16 yaşında ülkeyi temsil eden ve gol atan en genç oyuncu oldu.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "İlkMaçınaÇıktı",
+    "uç": "İspanya millî futbol takımı",
+    "uç_tipi": "FutbolTakımı"
+  },
+  {
+    "metin": "Yamal, İspanya'yı çeşitli gençlik seviyelerinde uluslararası düzeyde temsil etti ve 2023 yılında A takım için ilk maçına çıkarak 16 yaşında ülkeyi temsil eden ve gol atan en genç oyuncu oldu.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "GolAttı",
+    "uç": "İspanya millî futbol takımı",
+    "uç_tipi": "FutbolTakımı"
+  },
+  {
+    "metin": "2024 Avrupa Futbol Şampiyonası'nda forma giyerek İspanya'nın dördüncü şampiyonluğunu kazanmasında önemli bir rol oynadı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Katıldı",
+    "uç": "2024 Avrupa Futbol Şampiyonası",
+    "uç_tipi": "Turnuva"
+  },
+  {
+    "metin": "2024 Avrupa Futbol Şampiyonası'nda forma giyerek İspanya'nın dördüncü şampiyonluğunu kazanmasında önemli bir rol oynadı; aynı zamanda turnuvanın Genç Oyuncu Ödülü'nü kazandı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Kazandı",
+    "uç": "Genç Oyuncu Ödülü",
+    "uç_tipi": "Ödül"
+  },
+  {
+    "metin": "Lamine Yamal Nasraoui Ebana (d. 13 Temmuz 2007, Esplugues de Llobregat), sağ kanat pozisyonunda oynayan Fas asıllı İspanyol profesyonel futbolcu.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "DoğumYeri",
+    "uç": "Esplugues de Llobregat",
+    "uç_tipi": "Şehir"
+  },
+  {
+    "metin": "Esplugues de Llobregat, İspanya.",
+    "baş": "Esplugues de Llobregat",
+    "baş_tipi": "Şehir",
+    "ilişki": "BulunduğuÜlke",
+    "uç": "İspanya",
+    "uç_tipi": "Ülke"
+  },
+  {
+    "metin": "Lamine Yamal Nasraoui Ebana (d. 13 Temmuz 2007, Esplugues de Llobregat), sağ kanat pozisyonunda oynayan Fas asıllı İspanyol profesyonel futbolcu.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Pozisyonu",
+    "uç": "Sağ kanat",
+    "uç_tipi": "Pozisyon"
+  },
+  {
+    "metin": "Sağ kanat pozisyonu, futbol takımında orta sahanın sağ tarafında veya hücum hattının kenarında görev yapan oyuncuyu ifade eder.",
+    "baş": "Sağ kanat",
+    "baş_tipi": "Pozisyon",
+    "ilişki": "Türü",
+    "uç": "Futbol Pozisyonu",
+    "uç_tipi": "Kavram"
+  },
+  {
+    "metin": "Çocukluğunun çoğunu Barselona'da geçirdi.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "ÇocukluğunuGeçirdiğiYer",
+    "uç": "Barselona",
+    "uç_tipi": "Şehir"
+  },
+  {
+    "metin": "Yamal, altı yaşındayken Barcelona tarafından keşfedildi ve La Masia'daki antrenmanlara davet edildi. 2014 yılında kulüple sözleşme imzaladı ve ailesiyle birlikte Barselona'ya taşındı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Taşındı",
+    "uç": "Barselona",
+    "uç_tipi": "Şehir"
+  },
+  {
+    "metin": "Lamine Yamal Nasraoui Ebana, La Liga ekiplerinden Barcelona forması giymektedir.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Oynuyor",
+    "uç": "La Liga",
+    "uç_tipi": "Lig"
+  },
+  {
+    "metin": "Yamal, A takımdaki ilk maçına 29 Nisan 2023'te çıktı ve La Liga'da Real Betis'e karşı oynadı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "İlkMaçınaÇıktı",
+    "uç": "La Liga",
+    "uç_tipi": "Lig"
+  },
+  {
+    "metin": "2022-23 La Liga'yı kazanan kadroda yer alarak 14 Mayıs 2023'te Barça ile ilk şampiyonluğunu kazandı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "ŞampiyonlukKazandı",
+    "uç": "La Liga",
+    "uç_tipi": "Lig"
+  },
+  {
+    "metin": "Yamal'ın çocukluk kahramanları Ronaldinho, Lionel Messi ve Neymar'dı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Kahramanı",
+    "uç": "Lionel Messi",
+    "uç_tipi": "Kişi"
+  },
+  {
+    "metin": "Teknik profiliyle Lamine Yamal, kendisi gibi La Masia'da yetişen birçok oyuncunun idolü olan Lionel Messi ile karşılaştırıldı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Karşılaştırıldı",
+    "uç": "Lionel Messi",
+    "uç_tipi": "Kişi"
+  },
+    {
+    "metin": "Messi'nin 2023 yılında kazandığı Ballon d’Or ödülü konuşmasında Lionel Messi tarafından 'önemli bir genç yetenek' ve 'Ballon d’Or için yarışacak oyunculardan biri' olarak nitelendirildi.",
+    "baş": "Lionel Messi",
+    "baş_tipi": "Kişi",
+    "ilişki": "Nitelendirdi",
+    "uç": "Lamine Yamal",
+    "uç_tipi": "Kişi"
+  },
+  {
+    "metin": "Messi'nin 2023 yılında kazandığı Ballon d’Or ödülü konuşmasında Lionel Messi tarafından 'önemli bir genç yetenek' ve 'Ballon d’Or için yarışacak oyunculardan biri' olarak nitelendirildi.",
+    "baş": "Lionel Messi",
+    "baş_tipi": "Kişi",
+    "ilişki": "Kazandı",
+    "uç": "Ballon d’Or",
+    "uç_tipi": "Ödül"
+  },
+  {
+    "metin": "Yamal, 17 yaşında Ballon d'Or ödülüne aday gösterilen en genç oyuncu oldu.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "AdayGösterildi",
+    "uç": "Ballon d’Or",
+    "uç_tipi": "Ödül"
+  },
+  {
+    "metin": "Yamal, 2022-23 La Liga'yı kazanan kadroda yer alarak 14 Mayıs 2023'te Barça ile ilk şampiyonluğunu kazandı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "ŞampiyonlukKazandı",
+    "uç": "2022-23 La Liga",
+    "uç_tipi": "LigSezonu"
+  },
+  {
+    "metin": "Ertesi sezon Yamal, Barcelona'nın La Liga şampiyonluğu, Copa del Rey ve Supercopa de España'dan oluşan yerel üçlemeyi kazanmasının ayrılmaz bir parçasıydı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Kazandı",
+    "uç": "Supercopa de España",
+    "uç_tipi": "Turnuva"
+  },
+  {
+    "metin": "Ailesiyle birlikte Mataró'da yaşıyordu ancak anne ve babasının ayrıldığı dönemde Yamal'ın annesi Granollers'e taşındı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Yaşadı",
+    "uç": "Mataró",
+    "uç_tipi": "Şehir"
+  },
+  {
+    "metin": "Lamine Yamal Nasraoui Ebana, Fas asıllı İspanyol profesyonel futbolcudur.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Vatandaşlığı",
+    "uç": "İspanyol",
+    "uç_tipi": "Milliyet"
+  },
+  {
+    "metin": "Esplugues de Llobregat, İspanya.",
+    "baş": "Esplugues de Llobregat",
+    "baş_tipi": "Şehir",
+    "ilişki": "BulunduğuÜlke",
+    "uç": "İspanya",
+    "uç_tipi": "Ülke"
+  },
+  {
+    "metin": "Yamal, A takımdaki ilk maçına 29 Nisan 2023'te çıktı ve La Liga'da Real Betis'e karşı oynadı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "İlkMaçınaÇıktı",
+    "uç": "Real Betis",
+    "uç_tipi": "FutbolTakımı"
+  },
+  {
+    "metin": "Yamal, çoğunlukla sağ kanatta olmak üzere merkez forvet, hücum orta saha oyuncusu veya kanat oyuncusu olarak oynayabiliyor.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Pozisyonu",
+    "uç": "Merkez forvet",
+    "uç_tipi": "Pozisyon"
+  },
+  {
+    "metin": "Yamal, 2022-23 sezonunda Juvenil A takımına eklendi ve Xavi tarafından Eylül 2022'nin başlarında diğer gençlerle birlikte seçildi.",
+    "baş": "Xavi",
+    "baş_tipi": "Kişi",
+    "ilişki": "Seçti",
+    "uç": "Lamine Yamal",
+    "uç_tipi": "Kişi"
+  },
+  {
+    "metin": "Ertesi sezon Yamal, Barcelona'nın La Liga şampiyonluğu, Copa del Rey ve Supercopa de España'dan oluşan yerel üçlemeyi kazanmasının ayrılmaz bir parçasıydı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Kazandı",
+    "uç": "Yerel üçleme",
+    "uç_tipi": "Başarı"
+  },
+  {
+    "metin": "Yamal, Faslı bir baba ve Ekvator Gineli bir annenin çocuğu olarak dünyaya geldi.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "BabasıVatandaşlığı",
+    "uç": "Faslı",
+    "uç_tipi": "Milliyet"
+  },
+  {
+    "metin": "Lamine Yamal Nasraoui Ebana, Fas asıllı İspanyol profesyonel futbolcudur.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Kökeni",
+    "uç": "Fas",
+    "uç_tipi": "Ülke"
+  },
+  {
+    "metin": "2022-23 sezonunda Juvenil A takımına eklendi.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Oynadı",
+    "uç": "Juvenil A",
+    "uç_tipi": "FutbolTakımı"
+  },
+  {
+    "metin": "2024 yılında dünyanın en iyi genç oyuncusuna verilen Kopa Kupası'nı kazandı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Kazandı",
+    "uç": "Kopa Kupası",
+    "uç_tipi": "Ödül"
+  },
+  {
+    "metin": "İspanya U-15 millî takımı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Oynadı",
+    "uç": "İspanya U-15",
+    "uç_tipi": "MillîTakım"
+  },
+  {
+    "metin": "İspanya U-19 millî takımı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Oynadı",
+    "uç": "İspanya U-19",
+    "uç_tipi": "MillîTakım"
+  },
+  {
+    "metin": "Barcelona'nın Copa del Rey'den oluşan yerel üçlemeyi kazanmasının ayrılmaz bir parçasıydı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Kazandı",
+    "uç": "Copa del Rey",
+    "uç_tipi": "Turnuva"
+  },
+  {
+    "metin": "Yamal'ın annesi Granollers'e taşındı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Taşındı",
+    "uç": "Granollers",
+    "uç_tipi": "Şehir"
+  },
+  {
+    "metin": "Yamal, La Liga'da Real Betis'e karşı oynarken Barcelona'nın eski kalecisi Claudio Bravo'ya karşı şut çekti.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "KarşıOynadı",
+    "uç": "Claudio Bravo",
+    "uç_tipi": "Kişi"
+  },
+  {
+    "metin": "Ertesi sezon Yamal, Barcelona'nın La Liga şampiyonluğu, Copa del Rey ve Supercopa de España'dan oluşan yerel üçlemeyi kazanmasının ayrılmaz bir parçasıydı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "KatkıSağladı",
+    "uç": "La Liga şampiyonluğu",
+    "uç_tipi": "Başarı"
+  },
+  {
+    "metin": "Yamal'ın çocukluk kahramanları Ronaldinho, Lionel Messi ve Neymar'dı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Kahramanı",
+    "uç": "Neymar",
+    "uç_tipi": "Kişi"
+  },
+  {
+    "metin": "Yamal'ın çocukluk kahramanları Ronaldinho, Lionel Messi ve Neymar'dı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Kahramanı",
+    "uç": "Ronaldinho",
+    "uç_tipi": "Kişi"
+  },
+  {
+    "metin": "2024 Avrupa Futbol Şampiyonası'nda forma giyerek İspanya'nın dördüncü şampiyonluğunu kazanmasında önemli bir rol oynadı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Katıldı",
+    "uç": "2024 Avrupa Futbol Şampiyonası",
+    "uç_tipi": "Turnuva"
+  },
+  {
+    "metin": "Yamal, A takımdaki ilk maçına çıkarken 83. dakikada Gavi'nin yerine geçti.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "YerineGirdi",
+    "uç": "Gavi",
+    "uç_tipi": "Kişi"
+  },
+  {
+    "metin": "Yamal çoğunlukla sağ kanatta olmak üzere merkez forvet, hücum orta saha oyuncusu veya kanat oyuncusu olarak oynayabiliyor.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Pozisyonu",
+    "uç": "Hücum orta saha oyuncusu",
+    "uç_tipi": "Pozisyon"
+  },
+  {
+    "metin": "Yamal çoğunlukla sağ kanatta olmak üzere merkez forvet, hücum orta saha oyuncusu veya kanat oyuncusu olarak oynayabiliyor.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Pozisyonu",
+    "uç": "Kanat oyuncusu",
+    "uç_tipi": "Pozisyon"
+  },
+  {
+    "metin": "İspanya U-17 millî takımı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Oynadı",
+    "uç": "İspanya U-17",
+    "uç_tipi": "MillîTakım"
+  },
+  {
+    "metin": "Uluslararası kariyerinde 17 yaşında Avrupa Futbol Şampiyonası finalinde forma giyen en genç oyuncu olmuştur.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "FormaGiydi",
+    "uç": "Avrupa Futbol Şampiyonası finali",
+    "uç_tipi": "TurnuvaAşaması"
+  },
+  {
+    "metin": "Barcelona B takımı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Oynadı",
+    "uç": "Barcelona B",
+    "uç_tipi": "FutbolTakımı"
+  },
+  {
+    "metin": "Yamal, Faslı bir baba ve Ekvator Gineli bir annenin çocuğu olarak dünyaya geldi.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "AnnesiVatandaşlığı",
+    "uç": "Ekvator Gineli",
+    "uç_tipi": "Milliyet"
+  },
+  {
+    "metin": "Uluslararası kariyerinde Avrupa Futbol Şampiyonası’nda forma giyen en genç oyuncu rekorunu elinde bulundurmaktadır.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "RekorSahibiOldu",
+    "uç": "Avrupa Futbol Şampiyonası",
+    "uç_tipi": "Turnuva"
+  },
+  {
+    "metin": "Lamine Yamal, kendisi gibi La Masia’da yetişen bir oyuncu olan Ansu Fati ile karşılaştırıldı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Karşılaştırıldı",
+    "uç": "Ansu Fati",
+    "uç_tipi": "Kişi"
+  },
+  {
+    "metin": "Lamine Yamal Nasraoui Ebana, Fas asıllı İspanyol profesyonel futbolcudur.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Mesleği",
+    "uç": "Futbolcu",
+    "uç_tipi": "Meslek"
+  },
+  {
+    "metin": "2024 Avrupa Futbol Şampiyonası’nda turnuvanın Genç Oyuncu Ödülü’nü kazandı.",
+    "baş": "Lamine Yamal",
+    "baş_tipi": "Kişi",
+    "ilişki": "Kazandı",
+    "uç": "Genç Oyuncu Ödülü",
+    "uç_tipi": "Ödül"
+  }
+]

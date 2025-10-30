@@ -20,7 +20,7 @@ def temiz_entity_text(entity_text):
         return ""
     
     clean_text = entity_text.strip()
-    clean_text = re.sub(r'___E:.*?U:\(.*?\)___', '', clean_text)
+    clean_text = re.sub(r'<PossibleEntity>.*?</PossibleEntity> <URL>:.*?</URL>', '', clean_text)
     clean_text = re.sub(r'\s+', ' ', clean_text)
     clean_text = re.sub(r'^[=\-\s]+|[=\-\s]+$', '', clean_text)
     
@@ -35,7 +35,7 @@ def analiz_yap(json_dosya_yolu, cikti_csv_adi="E_U_Ciftleri_Frekansli.csv"):
     Tek JSON için entity–URL frekans analizi.
     Ayrıca global toplama (GLOBAL_U_TO_E, GLOBAL_EU_TO_SENTENCES) verisine ekleme yapar.
     """
-    pattern = r"___E:(.*?)\s+U:\((https?://[^\)]+)\)___"
+    pattern = r"<PossibleEntity>(.*?)</PossibleEntity> <URL>:(.*?)</URL>"
 
     frekans_dict = defaultdict(int)
     u_to_e = defaultdict(set)
@@ -117,7 +117,7 @@ def analiz_yap(json_dosya_yolu, cikti_csv_adi="E_U_Ciftleri_Frekansli.csv"):
         for sent_info in GLOBAL_EU_TO_SENTENCES.get((e_text, u_link), []):
             current_id = sent_info.get("id", "")
             cumle = sent_info.get("sentence", "")
-            clean_cumle = re.sub(r'___E:.*?U:\(.*?\)___', '', cumle)
+            clean_cumle = re.sub(r'<PossibleEntity>.*?</PossibleEntity> <URL>:.*?</URL>', '', cumle)
             clean_cumle = re.sub(r'\s+', ' ', clean_cumle).strip()
 
             if current_id and clean_cumle:
@@ -191,7 +191,7 @@ def e_u_total_cikti(cikti_csv_adi="E_U_total_URL_Bazli.csv"):
                     return match.group(1).strip()  # sadece entity adı
 
                 sentence_clean = re.sub(
-                    r"___E:(.*?)\s+U:\(.*?\)___", entity_replacer, sentence_raw
+                    r"<PossibleEntity>(.*?)</PossibleEntity> <URL>:(.*?)</URL>", entity_replacer, sentence_raw
                 )
                 sentence_clean = re.sub(r'\s+', ' ', sentence_clean).strip()
 
