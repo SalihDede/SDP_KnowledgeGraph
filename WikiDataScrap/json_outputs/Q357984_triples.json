@@ -1,0 +1,387 @@
+[
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "ana dili",
+        "uç": "Felemenkçe",
+        "uç_tipi": "doğal dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "ana dili",
+        "uç": "Felemenkçe",
+        "uç_tipi": "modern dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "cinsiyeti",
+        "uç": "erkek",
+        "uç_tipi": "cinsiyet kimliği"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "cinsiyeti",
+        "uç": "erkek",
+        "uç_tipi": "insan biyolojik cinsiyeti"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "doğum yeri",
+        "uç": "Drongen",
+        "uç_tipi": "municipality section"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "katıldığı",
+        "uç": "2014 FIFA Dünya Kupası",
+        "uç_tipi": "sezon"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "katıldığı",
+        "uç": "2016 Avrupa Futbol Şampiyonası",
+        "uç_tipi": "edition of the UEFA European Championship"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "katıldığı",
+        "uç": "2018 FIFA Dünya Kupası",
+        "uç_tipi": "sezon"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "Almanca",
+        "uç_tipi": "dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "Almanca",
+        "uç_tipi": "modern dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "Felemenkçe",
+        "uç_tipi": "doğal dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "Felemenkçe",
+        "uç_tipi": "modern dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "Fransızca",
+        "uç_tipi": "doğal dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "Fransızca",
+        "uç_tipi": "dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "Fransızca",
+        "uç_tipi": "modern dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "İngilizce",
+        "uç_tipi": "doğal dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "İngilizce",
+        "uç_tipi": "dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "İngilizce",
+        "uç_tipi": "makro dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "İngilizce",
+        "uç_tipi": "standart dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "İngilizce",
+        "uç_tipi": "edebi dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "İngilizce",
+        "uç_tipi": "modern dil"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "konuştuğu, yazdığı diller",
+        "uç": "İngilizce",
+        "uç_tipi": "insan dilleri"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "ligi",
+        "uç": "Q15804",
+        "uç_tipi": "professional sports league"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "ligi",
+        "uç": "Q15804",
+        "uç_tipi": "Ulusal futbol ligi"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "ligi",
+        "uç": "Q15804",
+        "uç_tipi": "annual sporting event"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "ligi",
+        "uç": "Q82595",
+        "uç_tipi": "men's association football league"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "ligi",
+        "uç": "Belçika Birinci Ligi",
+        "uç_tipi": "Ulusal futbol ligi"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "ligi",
+        "uç": "Premier Lig",
+        "uç_tipi": "private company limited by shares"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "ligi",
+        "uç": "Premier Lig",
+        "uç_tipi": "professional sports league"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "ligi",
+        "uç": "Premier Lig",
+        "uç_tipi": "Ulusal futbol ligi"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "mesleği",
+        "uç": "futbolcu",
+        "uç_tipi": "meslek"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "mesleği",
+        "uç": "futbolcu",
+        "uç_tipi": "uğraş"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "nedir",
+        "uç": "insan",
+        "uç_tipi": "belirli bir ortak adla bilinen organizmalar grubu"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "oynadığı pozisyon",
+        "uç": "orta saha",
+        "uç_tipi": "futbol pozisyonu"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "soyadı",
+        "uç": "De Bruyne",
+        "uç_tipi": "affixed family name"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "spor dalı",
+        "uç": "futbol",
+        "uç_tipi": "spor dalı"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "spor dalı",
+        "uç": "futbol",
+        "uç_tipi": "hobi"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "spor dalı",
+        "uç": "futbol",
+        "uç_tipi": "olimpik sporlar"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "spor dalı",
+        "uç": "futbol",
+        "uç_tipi": "takım sporu"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "spor dalı",
+        "uç": "futbol",
+        "uç_tipi": "gösteri sporu"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "spor ülkesi",
+        "uç": "Belçika",
+        "uç_tipi": "ülke"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "spor ülkesi",
+        "uç": "Belçika",
+        "uç_tipi": "federasyon"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "spor ülkesi",
+        "uç": "Belçika",
+        "uç_tipi": "egemen devlet"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "takımı",
+        "uç": "SSC Napoli",
+        "uç_tipi": "futbol kulübü"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "vatandaşlığı",
+        "uç": "Belçika",
+        "uç_tipi": "ülke"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "vatandaşlığı",
+        "uç": "Belçika",
+        "uç_tipi": "federasyon"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "vatandaşlığı",
+        "uç": "Belçika",
+        "uç_tipi": "egemen devlet"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "çalışma alanı",
+        "uç": "futbol",
+        "uç_tipi": "spor dalı"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "çalışma alanı",
+        "uç": "futbol",
+        "uç_tipi": "hobi"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "çalışma alanı",
+        "uç": "futbol",
+        "uç_tipi": "olimpik sporlar"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "çalışma alanı",
+        "uç": "futbol",
+        "uç_tipi": "takım sporu"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "çalışma alanı",
+        "uç": "futbol",
+        "uç_tipi": "gösteri sporu"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "ödülleri",
+        "uç": "Almanya'da Yılın Futbolcusu",
+        "uç_tipi": "ödül"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "ödülleri",
+        "uç": "Almanya'da Yılın Futbolcusu",
+        "uç_tipi": "ödül"
+    },
+    {
+        "baş": "Kevin De Bruyne",
+        "baş_tipi": "insan",
+        "ilişki": "ön adı",
+        "uç": "Kevin",
+        "uç_tipi": "erkek adı"
+    }
+]
