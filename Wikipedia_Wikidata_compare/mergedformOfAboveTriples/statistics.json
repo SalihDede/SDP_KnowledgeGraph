@@ -1,0 +1,11 @@
+{
+  "original_records": 208,
+  "unique_entities": 70,
+  "merged_relations": 73,
+  "merged_relations_with_types": 73,
+  "reduction_stats": {
+    "entity_types_reduction": "208 -> 70",
+    "relations_reduction": "208 -> 73",
+    "relations_types_reduction": "208 -> 73"
+  }
+}
