@@ -1,0 +1,254 @@
+[
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "birthPlace",
+        "uç": "Esplugues de Llobregat",
+        "uç_tipi": "Location"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_numberofmatches",
+        "uç": "1",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_years",
+        "uç": "2021",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "position",
+        "uç": "Winger (association football)",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "Person/height",
+        "uç": "180.0",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "height",
+        "uç": "1.8",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_numberofgoals",
+        "uç": "3",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "team",
+        "uç": "Spain national under-16 football team",
+        "uç_tipi": "SportsClub"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "team",
+        "uç": "FC Barcelona",
+        "uç_tipi": "SportsClub"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "team",
+        "uç": "FC Barcelona Atlètic",
+        "uç_tipi": "Organisation"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "team",
+        "uç": "FC Barcelona (youth)",
+        "uç_tipi": "Organisation"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "team",
+        "uç": "Spain national under-15 football team",
+        "uç_tipi": "Organisation"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_team",
+        "uç": "Spain national under-17 football team",
+        "uç_tipi": "SportsClub"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_team",
+        "uç": "FC Barcelona Atlètic",
+        "uç_tipi": "SportsClub"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_team",
+        "uç": "FC Barcelona (youth)",
+        "uç_tipi": "Organisation"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_team",
+        "uç": "Spain national under-16 football team",
+        "uç_tipi": "Organisation"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_team",
+        "uç": "FC Barcelona",
+        "uç_tipi": "SportsClub"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_years",
+        "uç": "2022",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_numberofgoals",
+        "uç": "14",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_numberofmatches",
+        "uç": "4",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "team",
+        "uç": "Spain national under-17 football team",
+        "uç_tipi": "SportsClub"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "birthPlace",
+        "uç": "Spain national football team",
+        "uç_tipi": "Organisation"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_numberofgoals",
+        "uç": "1",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_numberofmatches",
+        "uç": "10",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_numberofmatches",
+        "uç": "73",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "number",
+        "uç": "19",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "description",
+        "uç": "Spanish association football player",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_years",
+        "uç": "2014",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_years",
+        "uç": "2023",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "birthDate",
+        "uç": "2007-07-13",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_numberofgoals",
+        "uç": "0",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_years",
+        "uç": "2012",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_team",
+        "uç": "Spain national under-15 football team",
+        "uç_tipi": "Organisation"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "description",
+        "uç": "İspanyol futbolcu",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_numberofgoals",
+        "uç": "8",
+        "uç_tipi": "Metin"
+    },
+    {
+        "baş": "Lamine_Yamal",
+        "baş_tipi": "Animal, Athlete, Eukaryote, Person, Species",
+        "ilişki": "career_numberofmatches",
+        "uç": "6",
+        "uç_tipi": "Metin"
+    }
+]
