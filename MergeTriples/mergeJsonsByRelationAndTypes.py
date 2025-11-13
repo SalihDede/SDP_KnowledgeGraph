@@ -9,6 +9,7 @@
 ##   },
 ## Uç ve Baş isimleri aynı olan KG 3'lülerini realtion,baş_tipi ve uç_tipi bazlı birleştirir
 ## Çıktı formatından uç, uç tipi, baş, baş tipi ve ralation vardır
+## Çıktı json adı : merged_all_relations_with_types.json
 ##############################################################################
 import json
 from collections import defaultdict

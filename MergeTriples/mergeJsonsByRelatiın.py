@@ -9,6 +9,7 @@
 ##   },
 ## Uç ve Baş isimleri aynı olan KG 3'lülerini realtion bazlı birleştirir
 ## Çıktı formatından uç baş ve relation vardır
+## Çıktı json adı : merged_all_relations.json
 ##############################################################################
 import json
 from collections import defaultdict

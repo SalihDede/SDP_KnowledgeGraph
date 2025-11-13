@@ -9,6 +9,7 @@
 ##   },
 ## Uç ya da Baş isimleri incelenerek aynı olan varlıkların tip bilgilerini toplar
 ## Çıktı formatından entitiy (uç ya da baş) ve entity_type (tip bilgisi) vardır
+## Çıktı json adı : entity_types_analysis.json
 ##############################################################################
 import json
 from collections import defaultdict
