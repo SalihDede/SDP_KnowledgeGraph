@@ -1,3 +1,17 @@
+##############################################################################
+## Girdi Formatı Örneği:
+##   { *.json dosyalarıında bulunan KG triple'ları }
+## json yapısı
+##   {
+##      "baş": "Lamine Yamal",
+##       "baş_tipi": "Kişi",
+##       "ilişki": "Kazandı",
+##       "uç": "La Liga 2022-23 Sezonu",
+##       "uç_tipi": "Turnuva"
+##   },
+## Çıktı formatından interaktif bir karşılaştırma grafiği ve detaylı analizler sunar
+## Çalıştırmak için:     streamlit run json_triple_analyzer.py
+##############################################################################
 import streamlit as st
 import json
 import pandas as pd
@@ -9,6 +23,8 @@ import os
 from rapidfuzz import fuzz, process
 from collections import defaultdict
 import re
+
+# Graf görselleştirme kütüphaneleri kaldırıldı - sadece tablo görünümü kullanılıyor
 
 class TripleAnalyzer:
     """JSON dosyalarındaki KG triple'ları analiz eden sınıf"""
@@ -34,6 +50,42 @@ class TripleAnalyzer:
                 st.error(f"❌ {json_file.stem}.json dosyası yüklenirken hata: {str(e)}")
         
         return len(self.data) > 0
+    
+    def load_merged_files(self, folder_path):
+        """mergedformOfAboveTriples klasöründeki dosyaları yükler"""
+        merged_folder = Path(folder_path) / "mergedformOfAboveTriples"
+        self.merged_data = {}
+        
+        if not merged_folder.exists():
+            st.warning("⚠️ mergedformOfAboveTriples klasörü bulunamadı!")
+            return False
+        
+        merged_files = [
+            "entity_types_merged.json",
+            "relations_merged.json", 
+            "relations_and_types_merged.json",
+            "statistics.json"
+        ]
+        
+        loaded_count = 0
+        for filename in merged_files:
+            file_path = merged_folder / filename
+            if file_path.exists():
+                try:
+                    with open(file_path, 'r', encoding='utf-8') as f:
+                        data = json.load(f)
+                        self.merged_data[filename.replace('.json', '')] = data
+                        loaded_count += 1
+                        if filename != "statistics.json":
+                            st.success(f"✅ {filename} yüklendi ({len(data)} kayıt)")
+                        else:
+                            st.success(f"✅ {filename} yüklendi")
+                except Exception as e:
+                    st.error(f"❌ {filename} yüklenirken hata: {str(e)}")
+            else:
+                st.warning(f"⚠️ {filename} bulunamadı!")
+        
+        return loaded_count > 0
     
     def create_triple_sets(self):
         """Her dosya için triple setleri oluşturur"""
@@ -193,6 +245,187 @@ class TripleAnalyzer:
                         })
         
         return relationship_analysis
+    
+    def analyze_merged_data_quality(self):
+        """Merged data kalitesini analiz eder"""
+        if not hasattr(self, 'merged_data') or not self.merged_data:
+            return None
+        
+        analysis = {}
+        
+        # Statistics analizi
+        if 'statistics' in self.merged_data:
+            stats = self.merged_data['statistics']
+            analysis['reduction_efficiency'] = {
+                'original_records': stats.get('original_records', 0),
+                'entity_types_reduction': stats.get('unique_entities', 0),
+                'relations_reduction': stats.get('merged_relations', 0),
+                'relations_types_reduction': stats.get('merged_relations_with_types', 0)
+            }
+            
+            # Verimlilik yüzdeleri
+            original = stats.get('original_records', 1)
+            analysis['efficiency_percentages'] = {
+                'entity_types_efficiency': round((1 - stats.get('unique_entities', 0) / original) * 100, 2),
+                'relations_efficiency': round((1 - stats.get('merged_relations', 0) / original) * 100, 2),
+                'relations_types_efficiency': round((1 - stats.get('merged_relations_with_types', 0) / original) * 100, 2)
+            }
+        
+        # Entity types analizi
+        if 'entity_types_merged' in self.merged_data:
+            entity_data = self.merged_data['entity_types_merged']
+            entity_type_distribution = defaultdict(int)
+            multi_type_entities = []
+            
+            for entity_record in entity_data:
+                entity_types = entity_record.get('entity_type', '').split(', ')
+                for ent_type in entity_types:
+                    if ent_type.strip():
+                        entity_type_distribution[ent_type.strip()] += 1
+                
+                if len(entity_types) > 1:
+                    multi_type_entities.append({
+                        'entity': entity_record.get('entity', ''),
+                        'types': entity_types,
+                        'type_count': len(entity_types)
+                    })
+            
+            analysis['entity_analysis'] = {
+                'type_distribution': dict(entity_type_distribution),
+                'multi_type_entities': multi_type_entities,
+                'total_entities': len(entity_data)
+            }
+        
+        # Relations analizi
+        if 'relations_merged' in self.merged_data:
+            relations_data = self.merged_data['relations_merged']
+            relation_distribution = defaultdict(int)
+            multi_relation_pairs = []
+            
+            for relation_record in relations_data:
+                relations = relation_record.get('ilişki', '').split(', ')
+                for relation in relations:
+                    if relation.strip():
+                        relation_distribution[relation.strip()] += 1
+                
+                if len(relations) > 1:
+                    multi_relation_pairs.append({
+                        'head': relation_record.get('baş', ''),
+                        'tail': relation_record.get('uç', ''),
+                        'relations': relations,
+                        'relation_count': len(relations)
+                    })
+            
+            analysis['relation_analysis'] = {
+                'relation_distribution': dict(relation_distribution),
+                'multi_relation_pairs': multi_relation_pairs,
+                'total_pairs': len(relations_data)
+            }
+        
+        # Relations with types analizi
+        if 'relations_and_types_merged' in self.merged_data:
+            relations_types_data = self.merged_data['relations_and_types_merged']
+            type_combination_stats = defaultdict(int)
+            complex_records = []
+            
+            for record in relations_types_data:
+                head_types = record.get('baş_tipi', '').split(', ') if record.get('baş_tipi') else ['N/A']
+                tail_types = record.get('uç_tipi', '').split(', ') if record.get('uç_tipi') else ['N/A']
+                relations = record.get('ilişki', '').split(', ')
+                
+                # Tip kombinasyonları
+                for h_type in head_types:
+                    for t_type in tail_types:
+                        type_combination_stats[f"{h_type.strip()} → {t_type.strip()}"] += 1
+                
+                # Karmaşık kayıtlar (çoklu tip/ilişki)
+                complexity_score = len(head_types) + len(tail_types) + len(relations)
+                if complexity_score > 5:  # Eşik değeri
+                    complex_records.append({
+                        'head': record.get('baş', ''),
+                        'tail': record.get('uç', ''),
+                        'head_types': head_types,
+                        'tail_types': tail_types,
+                        'relations': relations,
+                        'complexity_score': complexity_score
+                    })
+            
+            analysis['relations_types_analysis'] = {
+                'type_combinations': dict(type_combination_stats),
+                'complex_records': sorted(complex_records, key=lambda x: x['complexity_score'], reverse=True),
+                'total_records': len(relations_types_data)
+            }
+        
+        return analysis
+    
+    def compare_original_vs_merged(self):
+        """Orijinal veri ile merged veri arasında karşılaştırma yapar"""
+        if not hasattr(self, 'merged_data') or not self.merged_data:
+            return None
+        
+        comparison = {
+            'coverage_analysis': {},
+            'information_loss': {},
+            'data_consistency': {}
+        }
+        
+        # Orijinal verideki unique entity'leri topla
+        original_entities = set()
+        original_relations = set()
+        original_triples = set()
+        
+        for file_name, triples in self.data.items():
+            for triple in triples:
+                head = triple.get('baş', '')
+                tail = triple.get('uç', '')
+                relation = triple.get('ilişki', '')
+                
+                original_entities.add(head)
+                original_entities.add(tail)
+                original_relations.add(relation)
+                original_triples.add((head, relation, tail))
+        
+        # Merged verideki entity'leri topla
+        merged_entities = set()
+        merged_relations = set()
+        merged_triples = set()
+        
+        if 'relations_and_types_merged' in self.merged_data:
+            for record in self.merged_data['relations_and_types_merged']:
+                head = record.get('baş', '')
+                tail = record.get('uç', '')
+                relations = record.get('ilişki', '').split(', ')
+                
+                merged_entities.add(head)
+                merged_entities.add(tail)
+                for rel in relations:
+                    if rel.strip():
+                        merged_relations.add(rel.strip())
+                        merged_triples.add((head, rel.strip(), tail))
+        
+        # Coverage analizi
+        comparison['coverage_analysis'] = {
+            'entity_coverage': len(merged_entities & original_entities) / len(original_entities) * 100 if original_entities else 0,
+            'relation_coverage': len(merged_relations & original_relations) / len(original_relations) * 100 if original_relations else 0,
+            'triple_coverage': len(merged_triples & original_triples) / len(original_triples) * 100 if original_triples else 0,
+            'original_entity_count': len(original_entities),
+            'merged_entity_count': len(merged_entities),
+            'original_relation_count': len(original_relations),
+            'merged_relation_count': len(merged_relations)
+        }
+        
+        # Kayıp entities
+        lost_entities = original_entities - merged_entities
+        new_entities = merged_entities - original_entities
+        
+        comparison['information_loss'] = {
+            'lost_entities': list(lost_entities)[:20],  # İlk 20'si
+            'lost_entity_count': len(lost_entities),
+            'new_entities': list(new_entities)[:20],  # İlk 20'si
+            'new_entity_count': len(new_entities)
+        }
+        
+        return comparison
 
 def main():
     st.set_page_config(
@@ -218,11 +451,24 @@ def main():
     
     analyzer = TripleAnalyzer()
     
+    # Merged dosyaları da yükle seçeneği
+    load_merged = st.sidebar.checkbox("📊 Merged dosyalarını da yükle", value=True, help="mergedformOfAboveTriples klasöründeki dosyaları da analiz eder")
+    
     if st.sidebar.button("📂 Dosyaları Yükle", type="primary"):
         if os.path.exists(folder_path):
             if analyzer.load_json_files(folder_path):
                 st.session_state.analyzer = analyzer
                 st.session_state.data_loaded = True
+                
+                # Merged dosyaları da yükle
+                if load_merged:
+                    if analyzer.load_merged_files(folder_path):
+                        st.session_state.merged_loaded = True
+                    else:
+                        st.session_state.merged_loaded = False
+                        st.info("ℹ️ Merged dosyalar yüklenemedi, sadece orijinal dosyalar analiz edilecek.")
+                else:
+                    st.session_state.merged_loaded = False
             else:
                 st.error("Klasörde JSON dosyası bulunamadı!")
         else:
@@ -235,6 +481,14 @@ def main():
         
         # 1. Dosya Bilgileri
         st.header("📊 Dosya Bilgileri")
+        st.info("""
+        **🎯 Bu analiz neyi gösterir:** Her JSON dosyasındaki toplam triple (üçlü) sayısını karşılaştırır.
+        
+        **📖 Nasıl okumalı:** 
+        - Yüksek sayı = O dosyada daha fazla bilgi/ilişki var
+        - Düşük sayı = Daha az veri içeriyor
+        - **Örnek:** LLMWithCasualDataExample: 85 triple → Bu dosyada 85 adet "baş-ilişki-uç" üçlüsü var
+        """)
         col1, col2, col3 = st.columns(3)
         
         file_names = list(analyzer.data.keys())
@@ -249,7 +503,16 @@ def main():
         
         # 2. Kesişim Analizi (Tam Eşleşme)
         st.header("🔗 Kesişim Analizi (Tam Eşleşme)")
-        st.info("ℹ️ Bu analizde sadece 'baş', 'ilişki' ve 'uç' değerlerinin tamamen aynı olduğu triple'lar kesişim olarak kabul edilir.")
+        st.info("""
+        **🎯 Bu analiz neyi gösterir:** Dosyalar arasında tamamen aynı olan triple'ları bulur (baş, ilişki, uç değerleri birebir aynı).
+        
+        **📖 Nasıl okumalı:**
+        - Yüksek kesişim = Dosyalar benzer bilgiler içeriyor, tutarlılık var
+        - Düşük kesişim = Dosyalar farklı perspektiflerden bilgi içeriyor
+        - **Örnek:** "LLM ∩ WikiData: 15 triple" → Bu iki dosyada tamamen aynı olan 15 üçlü var
+        - **Örnek Triple:** ("Messi", "Oynadı", "Barcelona") her iki dosyada da aynı şekilde geçiyor
+        """)
+        
         intersections = analyzer.calculate_intersections()
         
         col1, col2 = st.columns([1, 1])
@@ -281,6 +544,17 @@ def main():
         
         # 3. Interaktif Heatmap
         st.header("🔥 Interaktif Kesişim Heatmap'i")
+        st.info("""
+        **🎯 Bu analiz neyi gösterir:** Dosyalar arası kesişimleri görsel matris olarak sunar. Her hücre iki dosya arasındaki ortak triple sayısını gösterir.
+        
+        **📖 Nasıl okumalı:**
+        - **Koyu mavi = Yüksek kesişim** (dosyalar çok benzer)
+        - **Açık mavi = Düşük kesişim** (dosyalar farklı)
+        - **Diagonal (köşegen)** = Dosyanın kendisi (toplam triple sayısı)
+        - **Hover** = Hücrenin üzerine gelin, örnek triple'ları görün
+        - **Örnek:** X ekseni "LLM", Y ekseni "WikiData" kesişimi 25 → Bu iki kaynakta 25 ortak triple var
+        """)
+        
         
         matrix, hover_data, file_names = analyzer.create_heatmap_data()
         
@@ -340,6 +614,16 @@ def main():
         # 4. Detaylı Analiz
         st.markdown("---")
         st.header("🔍 Detaylı Triple Analizi")
+        st.info("""
+        **🎯 Bu analiz neyi gösterir:** Seçilen dosyanın tüm triple'larını filtrelenebilir tablo olarak sunar.
+        
+        **📖 Nasıl okumalı:**
+        - **Filtreleme** = Belirli varlık/ilişki arayabilirsiniz
+        - **Örnek Filtre:** "Baş filtresi: Messi" → Sadece Messi ile başlayan triple'ları gösterir
+        - **Örnek Çıktı:** | Messi | Oynadı | Barcelona | → Messi Barcelona'da oynadı
+        - **Kullanım:** Spesifik varlık/ilişki hakkında ne bilgi var görmek için
+        """)
+        
         
         # Seçilen dosyanın triple'larını göster
         selected_file = st.selectbox("Detaylarını görmek istediğiniz dosyayı seçin:", file_names)
@@ -372,6 +656,16 @@ def main():
         # 5. Benzer Varlık Analizi (Entity Normalization)
         st.markdown("---")
         st.header("🔗 Benzer Varlık Analizi (Entity Normalization)")
+        st.info("""
+        **🎯 Bu analiz neyi gösterir:** Farklı yazılış şekillerine sahip ama aynı anlama gelen varlıkları bulur ve bunların farklı ilişkilerini karşılaştırır.
+        
+        **📖 Nasıl okumalı:**
+        - **Benzer Varlıklar:** "Lionel Messi", "L. Messi", "Messi" → Aynı kişi, farklı yazılış
+        - **Farklı İlişkiler:** Aynı varlığın farklı dosyalarda farklı ilişkileri olabilir
+        - **Örnek:** "Messi" bir dosyada "Kazandı" ilişkisiyle, diğerinde "Oynadı" ilişkisiyle geçiyor
+        - **Sonuç:** Veri tutarsızlıklarını ve eksik bilgileri tespit eder
+        """)
+        
         
         with st.spinner("Benzer varlıklar analiz ediliyor..."):
             relationship_analysis = analyzer.analyze_entity_relationships()
@@ -407,111 +701,170 @@ def main():
             
             if len(relationship_analysis) > 10:
                 st.info(f"... ve {len(relationship_analysis) - 10} grup daha. Tam liste için detaylı analiz bölümünü kullanın.")
-            
-            # Detaylı entity cluster analizi
-            st.subheader("🔍 Varlık Kümeleri (Entity Clusters)")
-            
-            # Similarity threshold ayarı
-            similarity_threshold = st.slider(
-                "Benzerlik Eşiği (%)", 
-                min_value=70, 
-                max_value=100, 
-                value=85, 
-                step=5,
-                help="Daha düşük değerler daha fazla benzer varlık bulur"
-            )
-            
-            if st.button("🔄 Benzerlik Eşiğini Yeniden Hesapla"):
-                with st.spinner("Yeniden hesaplanıyor..."):
-                    # Tüm varlıkları topla
-                    all_entities = set()
-                    for triples in analyzer.data.values():
-                        for triple in triples:
-                            all_entities.add(triple.get('baş', ''))
-                            all_entities.add(triple.get('uç', ''))
-                    
-                    # Yeni threshold ile clusters'ları hesapla
-                    new_clusters = analyzer.find_similar_entities(all_entities, similarity_threshold)
-                    
-                    # Sadece 1'den fazla varlık içeren cluster'ları göster
-                    multi_entity_clusters = {k: v for k, v in new_clusters.items() if len(v) > 1}
-                    
-                    if multi_entity_clusters:
-                        st.success(f"✅ {len(multi_entity_clusters)} varlık kümesi bulundu!")
-                        
-                        for cluster_head, entities in list(multi_entity_clusters.items())[:15]:  # İlk 15 küme
-                            with st.expander(f"📊 {cluster_head} ({len(entities)} varlık)"):
-                                col1, col2 = st.columns(2)
-                                with col1:
-                                    st.write("**Kümedeki Varlıklar:**")
-                                    for entity in entities:
-                                        st.write(f"• {entity}")
-                                with col2:
-                                    # Bu varlıkların hangi dosyalarda geçtiğini göster
-                                    file_occurrence = {}
-                                    for file_name, triples in analyzer.data.items():
-                                        count = 0
-                                        for triple in triples:
-                                            if triple.get('baş', '') in entities or triple.get('uç', '') in entities:
-                                                count += 1
-                                        if count > 0:
-                                            file_occurrence[file_name] = count
-                                    
-                                    if file_occurrence:
-                                        st.write("**Dosyalardaki Geçiş Sayıları:**")
-                                        for file_name, count in file_occurrence.items():
-                                            st.write(f"• {file_name}: {count} kez")
-                        
-                        if len(multi_entity_clusters) > 15:
-                            st.info(f"... ve {len(multi_entity_clusters) - 15} küme daha.")
-                    else:
-                        st.warning("Bu benzerlik eşiği ile benzer varlık kümesi bulunamadı.")
         else:
             st.info("Farklı ilişkilere sahip benzer varlık bulunamadı.")
         
-        # 6. İstatistikler
+        # 6. Merged Data Analysis (Eğer yüklenmişse)
+        if hasattr(st.session_state, 'merged_loaded') and st.session_state.merged_loaded:
+            st.markdown("---")
+            st.header("🔄 Merged Data Detaylı Analizi")
+            st.info("""
+            **🎯 Bu analiz neyi gösterir:** Merge işlemi sonrası elde edilen temizlenmiş verinin kalitesini ve verimliliğini analiz eder.
+            
+            **📖 Nasıl okumalı:**
+            - **Azaltma %:** Orijinal veriden ne kadar azaltma sağlandı (yüksek = daha verimli temizlik)
+            - **Çoklu Tipli Varlıklar:** Birden fazla türü olan varlıklar (zengin içerik)
+            - **Karmaşık Kayıtlar:** Çok sayıda ilişki/tip içeren kayıtlar (detaylı bilgi)
+            - **Örnek:** %65 azaltma → Orijinal 200 kayıt 70'e düştü, %65 duplicat temizlendi
+            """)
+            
+            
+
+                
+            # Orijinal vs Merged karşılaştırması
+            st.subheader("⚖️ Orijinal vs Merged Karşılaştırması")
+            comparison = analyzer.compare_original_vs_merged()
+            
+            if comparison:
+                # Coverage analizi
+                coverage = comparison['coverage_analysis']
+                col1, col2, col3 = st.columns(3)
+                
+                with col1:
+                    st.metric(
+                        "Varlık Kapsamı",
+                        f"{coverage['entity_coverage']:.1f}%",
+                        help="Orijinal varlıkların ne kadarı merged'de korundu"
+                    )
+                with col2:
+                    st.metric(
+                        "İlişki Kapsamı",
+                        f"{coverage['relation_coverage']:.1f}%"
+                    )
+                with col3:
+                    st.metric(
+                        "Triple Kapsamı", 
+                        f"{coverage['triple_coverage']:.1f}%"
+                    )
+                
+                # Kayıp/Yeni bilgiler
+                info_loss = comparison['information_loss']
+                col1, col2 = st.columns(2)
+                
+                with col1:
+                    if info_loss['lost_entities']:
+                        st.write(f"**Kayıp Varlıklar ({info_loss['lost_entity_count']} adet):**")
+                        for entity in info_loss['lost_entities']:
+                            st.write(f"• {entity}")
+                    else:
+                        st.write("✅ Hiç varlık kaybedilmedi!")
+                
+                with col2:
+                    if info_loss['new_entities']:
+                        st.write(f"**Yeni Varlıklar ({info_loss['new_entity_count']} adet):**")
+                        for entity in info_loss['new_entities']:
+                            st.write(f"• {entity}")
+                    else:
+                        st.write("ℹ️ Yeni varlık eklenmedi")
+                
+                # Merged dosya içerikleri - basitleştirilmiş
+                st.subheader("📂 Merged Dosya İçerikleri")
+                
+                # İstatistikler önce
+                if 'statistics' in analyzer.merged_data:
+                    st.write("**📊 İstatistikler:**")
+                    stats = analyzer.merged_data['statistics']
+                    col1, col2, col3 = st.columns(3)
+                    with col1:
+                        st.metric("Orijinal Kayıt", stats.get('original_records', 0))
+                    with col2:
+                        st.metric("Unique Varlık", stats.get('unique_entities', 0))
+                    with col3:
+                        st.metric("Merged İlişki", stats.get('merged_relations', 0))
+                
+                # Basit tablo görünümleri
+                if 'entity_types_merged' in analyzer.merged_data:
+                    st.write("**📋 Entity Types (Varlık Tipleri):**")
+                    entity_df = pd.DataFrame(analyzer.merged_data['entity_types_merged'])
+                    st.dataframe(entity_df, use_container_width=True, height=300)
+
+                if 'relations_merged' in analyzer.merged_data:
+                    st.write("**🔗 Relations (İlişkiler):**") 
+                    relations_df = pd.DataFrame(analyzer.merged_data['relations_merged'])
+                    st.dataframe(relations_df, use_container_width=True, height=300)
+
+                if 'relations_and_types_merged' in analyzer.merged_data:
+                    st.write("**📊 Relations + Types (İlişkiler + Tipler):**")
+                    rel_types_df = pd.DataFrame(analyzer.merged_data['relations_and_types_merged'])
+                    st.dataframe(rel_types_df, use_container_width=True, height=300)
+
+                # Baş-Uç İlişki Görselleştirmesi - Streamlit-Agraph
+                if 'relations_merged' in analyzer.merged_data and 'entity_types_merged' in analyzer.merged_data:
+                    st.subheader("🎯 İnteraktif Cytoscape Graf Ağı")
+                    st.info("""
+                    **� İnteraktif Graf Özellikleri:**
+                    - 🔵 **Mavi Düğümler**: Kaynak varlıklar (Baş) + Entity tipleri
+                    - 🔴 **Kırmızı Düğümler**: Hedef varlıklar (Uç) + Entity tipleri  
+                    - 🟢 **Yeşil Kenarlar**: Semantik ilişkiler (hover ile detay)
+                    - �️ **İnteraktif**: Düğümleri sürükle, zoom yap, hover ile bilgi gör
+                    - ⚡ **Fizik Simulasyonu**: Otomatik düğüm yerleşimi ve animasyon
+                    """)
+                    
+                    # Entity types mapping oluştur
+                    entity_types_map = {}
+                    for entity_record in analyzer.merged_data['entity_types_merged']:
+                        entity_name = entity_record.get('entity', '')
+                        entity_type = entity_record.get('entity_type', '')
+                        entity_types_map[entity_name] = entity_type
+                    
+                    # Relations verisini al
+                    relations_data = analyzer.merged_data['relations_merged']
+                    total_relations = len(relations_data)
+                    
+                    # Sayfalama kontrolü ve ayarlar
+                    # Sayfalama kaldırıldı - tüm ilişkileri göster
+                    page_relations = relations_data
+                    
+                    st.write(f"**İlişki Ağı** - Toplam: {len(page_relations)} ilişki çifti")
+                    
+                    # Graf görselleştirme kodu kaldırıldı - sadece tablo görünümü kullanılıyor
+                    # Stylesheet kodu kaldırıldı
+                    
+                    # Sadece tablo görünümü - Graf görselleştirmeleri kaldırıldı
+                    st.write("📊 **Tablo Görünümü**")
+                    for idx, row in enumerate(page_relations):
+                        head = row.get('baş', '')
+                        tail = row.get('uç', '')
+                        relations = row.get('ilişki', '')
+                        head_types = entity_types_map.get(head, '')
+                        tail_types = entity_types_map.get(tail, '')
+                        
+                        col1, col2, col3 = st.columns([3, 2, 3])
+                        with col1:
+                            st.write(f"🔵 **{head}**")
+                            st.caption(f"_{head_types}_")
+                        with col2:
+                            st.write(f"➡️ _{relations}_")
+                        with col3:
+                            st.write(f"🔴 **{tail}**")
+                            st.caption(f"_{tail_types}_")
+                        
+                        if idx < len(page_relations) - 1:
+                            st.divider()
+                    
+                    # İstatistikler
+                    col1, col2 = st.columns(2)
+                    with col1:
+                        # Benzersiz entity sayısını hesapla
+                        unique_entities = set([r.get('baş','') for r in page_relations] + [r.get('uç','') for r in page_relations])
+                        st.metric("📊 Düğüm Sayısı", len(unique_entities))
+                    with col2:
+                        # İlişki sayısını hesapla
+                        st.metric("🔗 İlişki Sayısı", len(page_relations))
+        
+        # 7. Orijinal Veri İstatistikleri
         st.markdown("---")
-        st.header("📊 Genel İstatistikler")
-        
-        col1, col2 = st.columns(2)
-        
-        with col1:
-            st.subheader("📈 Dosya Karşılaştırması")
-            comparison_data = {
-                'Dosya': file_names,
-                'Triple Sayısı': [len(analyzer.triple_sets[name]) for name in file_names]
-            }
-            df_comparison = pd.DataFrame(comparison_data)
-            
-            fig_bar = px.bar(
-                df_comparison, 
-                x='Dosya', 
-                y='Triple Sayısı',
-                title="Dosyalardaki Triple Sayıları",
-                color='Triple Sayısı',
-                color_continuous_scale='Blues'
-            )
-            st.plotly_chart(fig_bar, use_container_width=True)
-        
-        with col2:
-            st.subheader("🥧 Kesişim Dağılımı")
-            intersection_data = {
-                'Kesişim': list(intersections.keys()),
-                'Sayı': [len(intersection_set) for intersection_set in intersections.values()]
-            }
-            df_intersections = pd.DataFrame(intersection_data)
-            
-            if not df_intersections.empty:
-                fig_pie = px.pie(
-                    df_intersections, 
-                    values='Sayı', 
-                    names='Kesişim',
-                    title="Kesişim Türlerinin Dağılımı"
-                )
-                st.plotly_chart(fig_pie, use_container_width=True)
-        
-        # Ek istatistikler
-        st.subheader("📈 Detaylı İstatistikler")
+        st.header("📊 Orijinal Veri İstatistikleri")
         
         # İlişki türü analizi
         relation_stats = defaultdict(int)

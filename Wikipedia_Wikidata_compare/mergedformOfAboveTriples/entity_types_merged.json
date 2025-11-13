@@ -1,0 +1,282 @@
+[
+  {
+    "entity": "2022-23 La Liga",
+    "entity_type": "LigSezonu, Turnuva, sezon"
+  },
+  {
+    "entity": "2023 UEFA European Under-17 Championship",
+    "entity_type": "recurring sporting event edition, sezon"
+  },
+  {
+    "entity": "2023-24 UEFA Şampiyonlar Ligi",
+    "entity_type": "Edition of the UEFA Champions"
+  },
+  {
+    "entity": "2024 Avrupa Futbol Şampiyonası",
+    "entity_type": "Turnuva, edition of the UEFA European Championship, futbol müsabakası"
+  },
+  {
+    "entity": "2024 Avrupa Futbol Şampiyonası elemeleri",
+    "entity_type": "Avrupa Futbol Şampiyonası elemeleri"
+  },
+  {
+    "entity": "Ansu Fati",
+    "entity_type": "Kişi"
+  },
+  {
+    "entity": "Avrupa Futbol Şampiyonası",
+    "entity_type": "Turnuva"
+  },
+  {
+    "entity": "Avrupa Futbol Şampiyonası finali",
+    "entity_type": "Turnuva, TurnuvaAşaması"
+  },
+  {
+    "entity": "Ballon d'Or",
+    "entity_type": "Ödül"
+  },
+  {
+    "entity": "Ballon d’Or",
+    "entity_type": "Ödül"
+  },
+  {
+    "entity": "Barcelona",
+    "entity_type": "FutbolTakımı"
+  },
+  {
+    "entity": "Barcelona B",
+    "entity_type": "FutbolTakımı"
+  },
+  {
+    "entity": "Barselona",
+    "entity_type": "Şehir"
+  },
+  {
+    "entity": "Category:Lamine Yamal",
+    "entity_type": "Wikimedia kategorisi"
+  },
+  {
+    "entity": "Claudio Bravo",
+    "entity_type": "Kişi"
+  },
+  {
+    "entity": "Copa del Rey",
+    "entity_type": "Turnuva"
+  },
+  {
+    "entity": "Ebana",
+    "entity_type": "soyadı"
+  },
+  {
+    "entity": "Ekvator Gineli",
+    "entity_type": "Milliyet"
+  },
+  {
+    "entity": "Ekvator Ginesi",
+    "entity_type": "egemen devlet, Ülke, ülke"
+  },
+  {
+    "entity": "Esplugues de Llobregat",
+    "entity_type": "Yer, belediye (Katalonya), Şehir"
+  },
+  {
+    "entity": "FC Barcelona",
+    "entity_type": "men's association football club, men's association football team, professional sports team, representation team"
+  },
+  {
+    "entity": "FIFA Ballon d'Or",
+    "entity_type": "Ödül"
+  },
+  {
+    "entity": "Fas",
+    "entity_type": "Ülke"
+  },
+  {
+    "entity": "Faslı",
+    "entity_type": "Milliyet"
+  },
+  {
+    "entity": "Futbol Pozisyonu",
+    "entity_type": "Kavram"
+  },
+  {
+    "entity": "Futbolcu",
+    "entity_type": "Meslek"
+  },
+  {
+    "entity": "Gavi",
+    "entity_type": "Kişi"
+  },
+  {
+    "entity": "Genç Oyuncu Ödülü",
+    "entity_type": "Ödül"
+  },
+  {
+    "entity": "Granollers",
+    "entity_type": "Şehir"
+  },
+  {
+    "entity": "Hücum orta saha oyuncusu",
+    "entity_type": "Pozisyon"
+  },
+  {
+    "entity": "Juvenil A",
+    "entity_type": "FutbolTakımı"
+  },
+  {
+    "entity": "Kanat oyuncusu",
+    "entity_type": "Pozisyon"
+  },
+  {
+    "entity": "Katalanca",
+    "entity_type": "dil, modern dil"
+  },
+  {
+    "entity": "Kopa Kupası",
+    "entity_type": "Ödül, ödül"
+  },
+  {
+    "entity": "La Liga",
+    "entity_type": "Lig"
+  },
+  {
+    "entity": "La Liga 2022-23 Sezonu",
+    "entity_type": "Turnuva"
+  },
+  {
+    "entity": "La Liga Player of the Month",
+    "entity_type": "ödül"
+  },
+  {
+    "entity": "La Liga şampiyonluğu",
+    "entity_type": "Başarı"
+  },
+  {
+    "entity": "La Masia",
+    "entity_type": "Akademi, FutbolAkademisi"
+  },
+  {
+    "entity": "La Torreta",
+    "entity_type": "FutbolKulübü"
+  },
+  {
+    "entity": "Lamine Yamal",
+    "entity_type": "Kişi, double given name, erkek adı, insan"
+  },
+  {
+    "entity": "Lionel Messi",
+    "entity_type": "Kişi"
+  },
+  {
+    "entity": "Mataró",
+    "entity_type": "Şehir"
+  },
+  {
+    "entity": "Merkez forvet",
+    "entity_type": "Pozisyon"
+  },
+  {
+    "entity": "Nasraoui",
+    "entity_type": "soyadı"
+  },
+  {
+    "entity": "Neymar",
+    "entity_type": "Kişi"
+  },
+  {
+    "entity": "Nick",
+    "entity_type": "erkek adı"
+  },
+  {
+    "entity": "Real Betis",
+    "entity_type": "FutbolTakımı"
+  },
+  {
+    "entity": "Rocafonda",
+    "entity_type": "mahalle"
+  },
+  {
+    "entity": "Ronaldinho",
+    "entity_type": "Kişi"
+  },
+  {
+    "entity": "Sağ kanat",
+    "entity_type": "Pozisyon"
+  },
+  {
+    "entity": "Supercopa de España",
+    "entity_type": "Turnuva"
+  },
+  {
+    "entity": "Xavi",
+    "entity_type": "Kişi"
+  },
+  {
+    "entity": "Yerel üçleme",
+    "entity_type": "Başarı"
+  },
+  {
+    "entity": "erkek",
+    "entity_type": "cinsiyet kimliği, insan biyolojik cinsiyeti"
+  },
+  {
+    "entity": "futbol",
+    "entity_type": "gösteri sporu, hobi, olimpik sporlar, spor dalı, takım sporu"
+  },
+  {
+    "entity": "futbolcu",
+    "entity_type": "meslek, uğraş"
+  },
+  {
+    "entity": "insan",
+    "entity_type": "belirli bir ortak adla bilinen organizmalar grubu"
+  },
+  {
+    "entity": "kanat",
+    "entity_type": "futbol pozisyonu"
+  },
+  {
+    "entity": "left-footedness",
+    "entity_type": "laterality"
+  },
+  {
+    "entity": "İngilizce",
+    "entity_type": "dil, doğal dil, edebi dil, insan dilleri, makro dil, modern dil, standart dil"
+  },
+  {
+    "entity": "İslam",
+    "entity_type": "büyük dini grup"
+  },
+  {
+    "entity": "İspanya",
+    "entity_type": "Akdeniz ülkesi, egemen devlet, krallık, ulus devlet, Ülke, ülke"
+  },
+  {
+    "entity": "İspanya U-15",
+    "entity_type": "FutbolTakımı, MillîTakım"
+  },
+  {
+    "entity": "İspanya U-17",
+    "entity_type": "FutbolTakımı, MillîTakım"
+  },
+  {
+    "entity": "İspanya U-19",
+    "entity_type": "FutbolTakımı, MillîTakım"
+  },
+  {
+    "entity": "İspanya genç millî takımları",
+    "entity_type": "FutbolTakımı"
+  },
+  {
+    "entity": "İspanya millî futbol takımı",
+    "entity_type": "FutbolTakımı"
+  },
+  {
+    "entity": "İspanyol",
+    "entity_type": "Milliyet"
+  },
+  {
+    "entity": "İspanyolca",
+    "entity_type": "dil, doğal dil, insan dilleri, modern dil"
+  }
+]
