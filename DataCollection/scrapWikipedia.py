@@ -6,7 +6,6 @@ import re
 
 BASE_URL = "https://tr.wikipedia.org"
 
-
 def web_scraping_yap(url):
     """Wikipedia sayfasını indirir ve BeautifulSoup nesnesi döner."""
     try:

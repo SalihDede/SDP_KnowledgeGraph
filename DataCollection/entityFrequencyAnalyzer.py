@@ -22,7 +22,8 @@ class EntityFrequencyAnalyzer:
         if not text:
             return []
         
-        pattern = r"___E:(.*?) U:\((https?://[^\)]+)\)___"
+        # Yeni PossibleEntity formatı için pattern
+        pattern = r"<PossibleEntity>(.*?)</PossibleEntity> <URL>:\((https?://[^\)]+)\)</URL>"
         entities = []
         
         for match in re.finditer(pattern, text):

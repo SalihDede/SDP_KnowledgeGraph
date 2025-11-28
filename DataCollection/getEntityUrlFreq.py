@@ -20,13 +20,14 @@ def temiz_entity_text(entity_text):
         return ""
     
     clean_text = entity_text.strip()
-    clean_text = re.sub(r'<PossibleEntity>.*?</PossibleEntity> <URL>:.*?</URL>', '', clean_text)
+    # PossibleEntity tag'lerini kaldırmayın - sadece whitespace ve özel karakterleri temizleyin
     clean_text = re.sub(r'\s+', ' ', clean_text)
     clean_text = re.sub(r'^[=\-\s]+|[=\-\s]+$', '', clean_text)
     
-    if '=' in clean_text:
+    # Eğer = işareti varsa sol tarafı al (genellikle daha clean)
+    if '=' in clean_text and not clean_text.startswith('='):
         parts = [p.strip() for p in clean_text.split('=')]
-        clean_text = parts[0] if parts[0] else (parts[1] if len(parts) > 1 else clean_text)
+        clean_text = parts[0] if parts[0] else clean_text
     
     return clean_text.strip()
 
@@ -107,8 +108,7 @@ def analiz_yap(json_dosya_yolu, cikti_csv_adi="E_U_Ciftleri_Frekansli.csv"):
     for (e_text, u_link), freq in frekans_dict.items():
         # Bu yerel çıktı için Entity birleştirmesi kaldırıldı (Orijinal yapısı korundu)
         id_list = sorted(list(e_u_to_ids.get((e_text, u_link), [])))
-            # 🔹 ID + Cümle bilgilerini de ekle
-    id_cumle_listesi = []
+        # 🔹 ID + Cümle bilgilerini de ekle
     for (e_text, u_link), freq in frekans_dict.items():
         idler = sorted(list(e_u_to_ids.get((e_text, u_link), [])))
         detay_listesi = []
@@ -117,7 +117,8 @@ def analiz_yap(json_dosya_yolu, cikti_csv_adi="E_U_Ciftleri_Frekansli.csv"):
         for sent_info in GLOBAL_EU_TO_SENTENCES.get((e_text, u_link), []):
             current_id = sent_info.get("id", "")
             cumle = sent_info.get("sentence", "")
-            clean_cumle = re.sub(r'<PossibleEntity>.*?</PossibleEntity> <URL>:.*?</URL>', '', cumle)
+            # PossibleEntity tag'lerini entity adıyla değiştir
+            clean_cumle = re.sub(r'<PossibleEntity>(.*?)</PossibleEntity> <URL>:(.*?)</URL>', r'\1', cumle)
             clean_cumle = re.sub(r'\s+', ' ', clean_cumle).strip()
 
             if current_id and clean_cumle:
@@ -131,14 +132,6 @@ def analiz_yap(json_dosya_yolu, cikti_csv_adi="E_U_Ciftleri_Frekansli.csv"):
             "U": u_link,
             "Frekans": freq,
             "Kaynak_IDler": id_birlestirilmis
-        })
-
-
-        final_kayitlar.append({
-            "E": e_text, 
-            "U": u_link,
-            "Frekans": freq,
-            "Kaynak_IDler": id_birlestirilmis,
         })
 
     df = pd.DataFrame(final_kayitlar)
