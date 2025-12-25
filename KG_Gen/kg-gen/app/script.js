@@ -728,69 +728,86 @@
     };
 
     // Load cached form values from localStorage
-    function loadCachedInputs() {
-        console.log('[kg-gen] Loading cached inputs...');
+    // Load cached form values from localStorage and environment
+async function loadCachedInputs() {
+    console.log('[kg-gen] Loading cached inputs...');
+    try {
+        // İlk olarak backend'den config bilgilerini al
+        let envConfig = null;
         try {
-            // Load API key
-            const cachedApiKey = localStorage.getItem(CACHE_KEYS.apiKey);
-            console.log('[kg-gen] Cached API key exists:', !!cachedApiKey);
-            if (cachedApiKey && apiKeyInput) {
-                apiKeyInput.value = cachedApiKey;
-                console.log('[kg-gen] API key loaded');
+            const response = await fetch('/api/config');
+            if (response.ok) {
+                envConfig = await response.json();
+                console.log('[kg-gen] Loaded config from backend');
             }
-
-            // Load model
-            const cachedModel = localStorage.getItem(CACHE_KEYS.model);
-            console.log('[kg-gen] Cached model:', cachedModel);
-            if (cachedModel && modelSelect) {
-                modelSelect.value = cachedModel;
-                console.log('[kg-gen] Model loaded:', modelSelect.value);
-            }
-
-            // Load chunk size
-            const cachedChunkSize = localStorage.getItem(CACHE_KEYS.chunkSize);
-            if (cachedChunkSize && chunkSizeInput) {
-                chunkSizeInput.value = cachedChunkSize;
-            }
-
-            // Load temperature
-            const cachedTemperature = localStorage.getItem(CACHE_KEYS.temperature);
-            if (cachedTemperature && temperatureInput) {
-                temperatureInput.value = cachedTemperature;
-            }
-
-            // Load cluster toggle
-            const cachedCluster = localStorage.getItem(CACHE_KEYS.cluster);
-            if (cachedCluster !== null && clusterToggle) {
-                clusterToggle.checked = cachedCluster === 'true';
-            }
-
-            // Load retrieval model
-            const cachedRetrievalModel = localStorage.getItem(CACHE_KEYS.retrievalModel);
-            console.log('[kg-gen] Cached retrieval model:', cachedRetrievalModel);
-            if (cachedRetrievalModel && retrievalModelSelect) {
-                retrievalModelSelect.value = cachedRetrievalModel;
-                console.log('[kg-gen] Retrieval model loaded:', retrievalModelSelect.value);
-            }
-
-            // Load context
-            const cachedContext = localStorage.getItem(CACHE_KEYS.context);
-            if (cachedContext && contextInput) {
-                contextInput.value = cachedContext;
-            }
-
-            // Load API Base
-            const cachedApiBase = localStorage.getItem(CACHE_KEYS.apiBase);
-            if (cachedApiBase && apiBaseInput) {
-                apiBaseInput.value = cachedApiBase;
-            }
-
-            console.log('[kg-gen] Cached inputs loaded successfully');
         } catch (error) {
-            console.warn('[kg-gen] Failed to load cached inputs:', error);
+            console.warn('[kg-gen] Failed to load config from backend:', error);
         }
-    }
 
+        // Load API key - önce env, sonra cache
+        const envApiKey = envConfig?.api_key;
+        const cachedApiKey = localStorage.getItem(CACHE_KEYS.apiKey);
+        console.log('[kg-gen] Env API key exists:', !!envApiKey);
+        console.log('[kg-gen] Cached API key exists:', !!cachedApiKey);
+        
+        if (apiKeyInput) {
+            // Öncelik: 1. env, 2. cache
+            apiKeyInput.value = envApiKey || cachedApiKey || '';
+            console.log('[kg-gen] API key loaded from:', envApiKey ? 'env' : (cachedApiKey ? 'cache' : 'none'));
+        }
+
+        // Load API Base - önce env, sonra cache
+        const envApiBase = envConfig?.api_base;
+        const cachedApiBase = localStorage.getItem(CACHE_KEYS.apiBase);
+        if (apiBaseInput) {
+            apiBaseInput.value = envApiBase || cachedApiBase || '';
+            console.log('[kg-gen] API base loaded from:', envApiBase ? 'env' : (cachedApiBase ? 'cache' : 'none'));
+        }
+
+        // Load model - önce env, sonra cache
+        const envModel = envConfig?.model;
+        const cachedModel = localStorage.getItem(CACHE_KEYS.model);
+        console.log('[kg-gen] Env model:', envModel);
+        console.log('[kg-gen] Cached model:', cachedModel);
+        
+        if (modelSelect) {
+            modelSelect.value = envModel || cachedModel || 'openai/gpt-4o';
+            console.log('[kg-gen] Model loaded:', modelSelect.value);
+        }
+
+        // Diğer cache'leri yükle (chunk size, temperature, cluster, retrieval model, context)
+        const cachedChunkSize = localStorage.getItem(CACHE_KEYS.chunkSize);
+        if (cachedChunkSize && chunkSizeInput) {
+            chunkSizeInput.value = cachedChunkSize;
+        }
+
+        const cachedTemperature = localStorage.getItem(CACHE_KEYS.temperature);
+        if (cachedTemperature && temperatureInput) {
+            temperatureInput.value = cachedTemperature;
+        }
+
+        const cachedCluster = localStorage.getItem(CACHE_KEYS.cluster);
+        if (cachedCluster !== null && clusterToggle) {
+            clusterToggle.checked = cachedCluster === 'true';
+        }
+
+        const cachedRetrievalModel = localStorage.getItem(CACHE_KEYS.retrievalModel);
+        console.log('[kg-gen] Cached retrieval model:', cachedRetrievalModel);
+        if (cachedRetrievalModel && retrievalModelSelect) {
+            retrievalModelSelect.value = cachedRetrievalModel;
+            console.log('[kg-gen] Retrieval model loaded:', retrievalModelSelect.value);
+        }
+
+        const cachedContext = localStorage.getItem(CACHE_KEYS.context);
+        if (cachedContext && contextInput) {
+            contextInput.value = cachedContext;
+        }
+
+        console.log('[kg-gen] Cached inputs loaded successfully');
+    } catch (error) {
+        console.warn('[kg-gen] Failed to load cached inputs:', error);
+    }
+}
     // Save form input to localStorage
     function saveCachedInput(key, value) {
         try {

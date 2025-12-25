@@ -12,15 +12,22 @@ from fastapi.responses import FileResponse, HTMLResponse, JSONResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import ValidationError
 
+
 from src.kg_gen.kg_gen import KGGen
 from src.kg_gen.models import Graph
 from src.kg_gen.utils.visualize_kg import _build_view_model
+from dotenv import load_dotenv  # EKLE
+load_dotenv(dotenv_path=Path(__file__).parent.parent / ".env")
+
 
 APP_DIR = Path(__file__).resolve().parent
 TEMPLATE_PATH = (
     APP_DIR.parent / "src" / "kg_gen" / "utils" / "template.html"
 ).resolve()
 DATA_ROOT = (APP_DIR.parent / "app" / "examples").resolve()
+
+## new endpoint for take model and config from env file
+
 
 
 @dataclass(frozen=True)
@@ -81,6 +88,17 @@ kg_gen = KGGen(
     api_base=os.getenv("LLM_API_BASE"),
     temperature=float(os.getenv("LLM_TEMPERATURE", "0.0")),
 )
+
+# Yeni endpoint ekleyin (app tanımlamasından sonra, diğer route'lardan önce)
+@app.get("/api/config")
+async def get_config() -> JSONResponse:
+    """Return configuration from environment variables for UI pre-population"""
+    logger.debug("Serving configuration from environment variables")
+    return JSONResponse({
+        "api_key": os.getenv("OPENAI_API_KEY", ""),
+        "api_base": os.getenv("OPENAI_BASE_URL", ""),
+        "model": os.getenv("OPENAI_MODEL", "openai/gpt-4o"),
+    })
 
 
 @app.get("/", response_class=HTMLResponse)
