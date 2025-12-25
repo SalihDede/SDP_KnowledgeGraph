@@ -1,0 +1,524 @@
+{
+  "entities": [
+    "Messi",
+    "Tara Spires-Jones",
+    "Yuri Uşakov",
+    "Fanil Sarvarov",
+    "Emmanuel Emenike",
+    "Derek Smith",
+    "Yunus Dursun",
+    "Galatasaray",
+    "Ruth Hackett",
+    "Igor Kirillov",
+    "Emily McGarvey",
+    "New York Times",
+    "Luhansk",
+    "Donetsk",
+    "Rusya Soruşturma Komitesi",
+    "Binyamin Netanyahu",
+    "Andy Byron",
+    "Mamata Banerjee",
+    "Lokman Yanık",
+    "Egemen Artun",
+    "Trump",
+    "Seyfettin Alper Yılmaz",
+    "İhsan Kalkavan",
+    "Çin",
+    "F-16",
+    "Times",
+    "WhatsApp",
+    "Dimitri Peskov",
+    "Mehmet Baransu",
+    "Fenerbahçe",
+    "Nicolas Crossley",
+    "Muhammed Selim Özbek",
+    "Emmanuel Macron",
+    "Dünya Sağlık Örgütü",
+    "Ahmet Gülüm",
+    "Bedirhan Durak",
+    "Steve Witkoff",
+    "Recep Tayyip Erdoğan",
+    "Duncan Astle",
+    "NATO",
+    "Kristin Cabot",
+    "Nature Communications",
+    "Avrupa",
+    "Vladimir Putin",
+    "MSB",
+    "Sercan Yaşar",
+    "İsrail",
+    "Suat Yıldırım",
+    "Show TV",
+    "Habertürk TV",
+    "Ela Rümeysa Cebeci",
+    "FIFA",
+    "Sadettin Saran",
+    "Ukrayna istihbarat servisi",
+    "İbrahim Hacıosmanoğlu",
+    "Fethullah Gülen",
+    "Kate Bowie",
+    "Jerusalem Post",
+    "Milli Savunma Bakanlığı",
+    "Martin Bauch",
+    "Astronomer",
+    "Coldplay",
+    "Yaroslav Moskalik",
+    "Herson",
+    "UEFA",
+    "Aziz Yıldırım",
+    "Mehmet Ali Özer",
+    "Karadeniz",
+    "Ukrayna",
+    "Ahmet Çakar",
+    "BBC Galler",
+    "Helen Briggs",
+    "Mumbai",
+    "Image Angel",
+    "Türkmenistan",
+    "BDSM",
+    "Haydarabad",
+    "Salt Lake Stadyumu",
+    "Volodimir Zelenskiy",
+    "PFDK",
+    "Lütfi Arıboğan",
+    "Nicola Lewis",
+    "Nottingham Üniversitesi",
+    "ABD",
+    "Marco Rubio",
+    "BBC Türkçe",
+    "Metehan Baltacı",
+    "GWZO",
+    "Kiryakos Miçotakis",
+    "Serdal Adalı",
+    "Nicola Bryan",
+    "Fuad Oktay",
+    "Chris Martin",
+    "Christophe Fraser",
+    "BBC Morning Live",
+    "Ebru Köksal",
+    "Adana Demirspor",
+    "Zaman Gazetesi",
+    "Mert Hakan Yandaş",
+    "Eli Cohen",
+    "WHO",
+    "Madelaine Thomas",
+    "Hindistan",
+    "Kremlin",
+    "Luis Suarez",
+    "Nazmi Ardıç",
+    "TFF",
+    "Murat Sancak",
+    "Rıza Çalımbay",
+    "İlhan Helvacı",
+    "Jared Kushner",
+    "İngiltere",
+    "Kalküta",
+    "Zorbay Küçük",
+    "Hidayet Karaca",
+    "Sheffield Üniversitesi",
+    "Şekip Mosturoğlu",
+    "Delhi",
+    "Ulf Büntgen",
+    "James Gallagher",
+    "Rodrigo de Paul",
+    "Ekrem Dumanlı",
+    "Rusya",
+    "Oscar Duke",
+    "Susanna McDonald",
+    "Mehmet Akif Ersoy",
+    "Melih Kurt",
+    "Türkiye",
+    "Türk Ceza Kanunu",
+    "Libya",
+    "Nikos Hristodulidis",
+    "Yunanistan",
+    "Communications Earth & Environment",
+    "Zaporijya",
+    "Leibniz Doğu Avrupa Tarih ve Kültür Enstitüsü",
+    "Paul Hatton",
+    "Alvaro Mata",
+    "AB",
+    "Kıbrıs Cumhuriyeti",
+    "Patricia Homan",
+    "Kırım"
+  ],
+  "edges": [
+    "ideolojik eğilimlerini yansıttı",
+    "hoşlandığını itiraf etti",
+    "tenis oynamaya başladı",
+    "istifa etti",
+    "para avcısı olarak suçlandı",
+    "terapist buldu",
+    "yanlış karar verdiğini söyledi",
+    "ailevi çekinmeye başladı",
+    "özel bilgileri internete sızdırıldı",
+    "görevinden ayrıldı",
+    "yatağından geçerek yükseldiği suçlamasıyla karşılaştı",
+    "çocukları ölüm korkusu yaşadı",
+    "kendisini en acımasızca eleştirenlerin kadınlar olduğunu belirtti",
+    "eleştirildi",
+    "mesajlar aldı",
+    "işe alınamaz olduğunun söylendi",
+    "sahte açıklama yalanladı",
+    "internet geyiği haline geldi",
+    "Avrupa'ya sert eleştirilerde bulundu",
+    "kriz yönetimi tavsiyeleri alışverişinde bulundu",
+    "Ulusal Güvenlik Stratejisi açıkladı",
+    "görünüşü didik didik incelendi",
+    "eşinden ayrıydı",
+    "telefon aramalarıyla bombardımana tutuldu",
+    "vücudu didik didik incelendi",
+    "kariyerinden vazgeçti",
+    "ölüm tehdidi aldı",
+    "telefon görüşmeleri aldı",
+    "kıyafetleri didik didik incelendi",
+    "kamuoyuna açıklama yapmadı",
+    "ikili anlaşmaları teşvik etti",
+    "önyargılarla mücadele etti",
+    "Avrupa'nın göç politikalarını eleştirdi",
+    "hakaretin çoğunu hedef aldı",
+    "istifa ettiğini duyurdu",
+    "çok taraflılığı teşvik etmedi",
+    "Rusya veya Çin'e eleştiri getirmedi",
+    "çocukları için endişelendi",
+    "iş aradı",
+    "tehdit mesajları aldı",
+    "görüşmedi",
+    "Avrupa'nın tanınmaz hale geleceğini belirtti",
+    "yorum yaptı",
+    "çocuklarının kızgın olduğunu söyledi",
+    "paparazziler tarafından takip edildi",
+    "inceleme başlattı",
+    "saklanmaya çalıştı",
+    "demokrasiyi teşvik etmedi",
+    "çocuklarının utandığını söyledi",
+    "en çok kötülenen yönetici oldu",
+    "tacizin sonunun gelmediğini söyledi",
+    "yorum almaya çalıştı",
+    "Avrupa'nın medeniyetin silinmesiyle karşı karşıya olduğunu belirtti",
+    "suçlandı",
+    "yüzü didik didik incelendi",
+    "ekonomik milliyetçiliği teşvik etti",
+    "kamuoyuna açıklama yaptı",
+    "sarıldı",
+    "zorbalık yaşadı",
+    "öpüşmediklerini açıkladı",
+    "Avrupa'nın çok taraflı kurumlara yönelmesini eleştirdi",
+    "cinsel ilişki olmadığını açıkladı"
+  ],
+  "relations": [
+    [
+      "Kristin Cabot",
+      "çocukları ölüm korkusu yaşadı",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "telefon görüşmeleri aldı",
+      "kendisi"
+    ],
+    [
+      "Astronomer",
+      "istifa ettiğini duyurdu",
+      "Andy Byron'ın"
+    ],
+    [
+      "Trump",
+      "ekonomik milliyetçiliği teşvik etti",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "çocuklarının utandığını söyledi",
+      "kendisi"
+    ],
+    [
+      "Trump",
+      "Avrupa'nın göç politikalarını eleştirdi",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "vücudu didik didik incelendi",
+      "kendisi"
+    ],
+    [
+      "BBC",
+      "yorum almaya çalıştı",
+      "Andy Byron'dan"
+    ],
+    [
+      "Kristin Cabot",
+      "görevinden ayrıldı",
+      "Astronomer şirketinden"
+    ],
+    [
+      "Kristin Cabot",
+      "hakaretin çoğunu hedef aldı",
+      "kendisine"
+    ],
+    [
+      "Kristin Cabot",
+      "iş aradı",
+      "başka bir iş"
+    ],
+    [
+      "Kristin Cabot",
+      "kriz yönetimi tavsiyeleri alışverişinde bulundu",
+      "Andy Byron ile"
+    ],
+    [
+      "Kristin Cabot",
+      "kendisini en acımasızca eleştirenlerin kadınlar olduğunu belirtti",
+      "kendisi"
+    ],
+    [
+      "Trump",
+      "Ulusal Güvenlik Stratejisi açıkladı",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "paparazziler tarafından takip edildi",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "mesajlar aldı",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "kıyafetleri didik didik incelendi",
+      "kendisi"
+    ],
+    [
+      "Chris Martin",
+      "yorum yaptı",
+      "Kristin Cabot ve Andy Byron hakkında"
+    ],
+    [
+      "Kristin Cabot",
+      "kamuoyuna açıklama yaptı",
+      "video hakkında"
+    ],
+    [
+      "Kristin Cabot",
+      "saklanmaya çalıştı",
+      "Andy Byron ile"
+    ],
+    [
+      "Kristin Cabot",
+      "telefon aramalarıyla bombardımana tutuldu",
+      "kendisi"
+    ],
+    [
+      "Trump",
+      "ideolojik eğilimlerini yansıttı",
+      "kendisi"
+    ],
+    [
+      "Trump",
+      "Avrupa'nın çok taraflı kurumlara yönelmesini eleştirdi",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "cinsel ilişki olmadığını açıkladı",
+      "Andy Byron ile"
+    ],
+    [
+      "Kristin Cabot",
+      "özel bilgileri internete sızdırıldı",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "zorbalık yaşadı",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "işe alınamaz olduğunun söylendi",
+      "kendisine"
+    ],
+    [
+      "Kristin Cabot",
+      "eleştirildi",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "yatağından geçerek yükseldiği suçlamasıyla karşılaştı",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "eşinden ayrıydı",
+      "konserde"
+    ],
+    [
+      "Kristin Cabot",
+      "çocuklarının kızgın olduğunu söyledi",
+      "kendisine"
+    ],
+    [
+      "Kristin Cabot",
+      "önyargılarla mücadele etti",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "internet geyiği haline geldi",
+      "kendisi"
+    ],
+    [
+      "Astronomer",
+      "sahte açıklama yalanladı",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "yüzü didik didik incelendi",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "kariyerinden vazgeçti",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "görünüşü didik didik incelendi",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "tenis oynamaya başladı",
+      "kendisi"
+    ],
+    [
+      "Trump",
+      "ikili anlaşmaları teşvik etti",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "hoşlandığını itiraf etti",
+      "Andy Byron'dan"
+    ],
+    [
+      "Kristin Cabot",
+      "tacizin sonunun gelmediğini söyledi",
+      "kendisine"
+    ],
+    [
+      "Kristin Cabot",
+      "para avcısı olarak suçlandı",
+      "kendisi"
+    ],
+    [
+      "Trump",
+      "Avrupa'ya sert eleştirilerde bulundu",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "tehdit mesajları aldı",
+      "kendisi"
+    ],
+    [
+      "Trump",
+      "çok taraflılığı teşvik etmedi",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "sarıldı",
+      "Andy Byron ile"
+    ],
+    [
+      "Kristin Cabot",
+      "öpüşmediklerini açıkladı",
+      "Andy Byron ile"
+    ],
+    [
+      "Kristin Cabot",
+      "suçlandı",
+      "kendisi"
+    ],
+    [
+      "Trump",
+      "Avrupa'nın tanınmaz hale geleceğini belirtti",
+      "kendisi"
+    ],
+    [
+      "Trump",
+      "demokrasiyi teşvik etmedi",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "çocukları için endişelendi",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "ailevi çekinmeye başladı",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "ölüm tehdidi aldı",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "en çok kötülenen yönetici oldu",
+      "insan kaynakları tarihinde"
+    ],
+    [
+      "Kristin Cabot",
+      "terapist buldu",
+      "çocukları için"
+    ],
+    [
+      "Trump",
+      "Rusya veya Çin'e eleştiri getirmedi",
+      "kendisi"
+    ],
+    [
+      "Astronomer",
+      "inceleme başlattı",
+      "Andy Byron hakkında"
+    ],
+    [
+      "Andy Byron",
+      "istifa etti",
+      "CEO olarak"
+    ],
+    [
+      "Andy Byron",
+      "kamuoyuna açıklama yapmadı",
+      "kendisi"
+    ],
+    [
+      "Trump",
+      "Avrupa'nın medeniyetin silinmesiyle karşı karşıya olduğunu belirtti",
+      "kendisi"
+    ],
+    [
+      "Kristin Cabot",
+      "görüşmedi",
+      "Andy Byron ile"
+    ],
+    [
+      "Kristin Cabot",
+      "yanlış karar verdiğini söyledi",
+      "kendisi"
+    ]
+  ],
+  "entity_clusters": null,
+  "edge_clusters": null,
+  "entity_metadata": null
+}
