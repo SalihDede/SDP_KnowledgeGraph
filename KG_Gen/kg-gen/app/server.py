@@ -77,6 +77,8 @@ if not logger.handlers:
 
 
 app = FastAPI(title="kg-gen explorer")
+# Global graph belleği
+current_graph: Optional[Graph] = None
 app.add_middleware(
     CORSMiddleware,
     allow_origins=["*"],
@@ -236,6 +238,7 @@ async def generate_graph(
     retrieval_model: Optional[str] = Form("sentence-transformers/all-mpnet-base-v2"),
     api_base: Optional[str] = Form(None),
 ) -> JSONResponse:
+    global current_graph
     from src.kg_gen.steps._3_deduplicate import DeduplicateMethod
 
     text_fragments: list[str] = []
@@ -321,8 +324,9 @@ async def generate_graph(
         numeric_temperature,
         retrieval_model,
     )
+
     try:
-        graph = kg_gen.generate(
+        new_graph = kg_gen.generate(
             input_data=request_text,
             model=model or os.getenv("LLM_MODEL"),
             api_key=api_key,
@@ -341,18 +345,24 @@ async def generate_graph(
         logger.exception("KGGen generation failed")
         raise HTTPException(status_code=500, detail=f"KGGen failed: {exc}")
 
+    # Mevcut graph ile birleştir (aggregate ile)
+    if current_graph is not None:
+        current_graph = kg_gen.aggregate([current_graph, new_graph])
+    else:
+        current_graph = new_graph
+
     try:
-        view = _build_view_model(graph)
+        view = _build_view_model(current_graph)
     except Exception as exc:  # pragma: no cover - defensive
         logger.exception("Failed to build view model after generation")
         raise HTTPException(status_code=500, detail=f"Failed to build view: {exc}")
 
     logger.info(
         "Graph generation complete: entities=%s relations=%s",
-        len(graph.entities),
-        len(graph.relations),
+        len(current_graph.entities),
+        len(current_graph.relations),
     )
-    return JSONResponse({"view": view, "graph": graph.model_dump(mode="json")})
+    return JSONResponse({"view": view, "graph": current_graph.model_dump(mode="json")})
 
 
 # Serve static files (CSS, JS, etc.) - must be mounted after all routes

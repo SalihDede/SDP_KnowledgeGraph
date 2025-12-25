@@ -3,20 +3,20 @@ import dspy
 
 
 class TextEntities(dspy.Signature):
-    """Extract key entities from the source text. Extracted entities are subjects or objects.
-    This is for an extraction task, please be THOROUGH and accurate to the reference text."""
+    """Kaynak metinden anahtar varlıkları çıkar. Çıkarılan varlıklar özne veya nesnelerdir.
+    Bu bir çıkarım görevi içindir, lütfen KAPSAMLI ve referans metne sadık olun."""
 
     source_text: str = dspy.InputField()
-    entities: list[str] = dspy.OutputField(desc="THOROUGH list of key entities")
+    entities: list[str] = dspy.OutputField(desc="Anahtar varlıkların KAPSAMLI listesi")
 
 
 class ConversationEntities(dspy.Signature):
-    """Extract key entities from the conversation Extracted entities are subjects or objects.
-    Consider both explicit entities and participants in the conversation.
-    This is for an extraction task, please be THOROUGH and accurate."""
+    """Konuşmadan anahtar varlıkları çıkar. Çıkarılan varlıklar özne veya nesnelerdir.
+    Hem açık varlıkları hem de konuşmadaki katılımcıları dikkate alın.
+    Bu bir çıkarım görevi içindir, lütfen KAPSAMLI ve doğru olun."""
 
     source_text: str = dspy.InputField()
-    entities: list[str] = dspy.OutputField(desc="THOROUGH list of key entities")
+    entities: list[str] = dspy.OutputField(desc="Anahtar varlıkların KAPSAMLI listesi")
 
 
 def get_entities(input_data: str, is_conversation: bool = False) -> List[str]:

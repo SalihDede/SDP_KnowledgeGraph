@@ -24,7 +24,7 @@ class LLMDeduplicate:
 
     def __init__(self, retrieval_model: SentenceTransformer, lm: dspy.LM, graph: Graph):
         """
-        Initialize KG-assisted RAG with cached embeddings, BM25 tokens, and text chunk store.
+        Önbelleğe alınmış gömülemeler, BM25 belirteçleri ve metin parçası deposu ile BG destekli RAG'ı başlat.
         """
         self.graph = graph
         self.nodes = list(graph.entities)
@@ -34,22 +34,22 @@ class LLMDeduplicate:
         self.retrieval_model = retrieval_model
         self.lm = lm
 
-        # Embeddings and BM25 tokens for nodes
+        # Düğümler için gömülemeler ve BM25 belirteçleri
         self.node_embeddings = retrieval_model.encode(
             self.nodes, show_progress_bar=True
         )
         self.node_bm25_tokenized = [text.lower().split() for text in self.nodes]
 
-        # Always rebuild BM25 from tokens (it's fast and simpler than serializing the object)
+        # BM25'i belirteçlerden her zaman yeniden oluştur (hızlıdır ve nesneyi serileştirmekten daha basittir)
         self.node_bm25 = BM25Okapi(self.node_bm25_tokenized)
 
-        # Embeddings and BM25 tokens for edges
+        # Kenarlar için gömülemeler ve BM25 belirteçleri
         self.edge_embeddings = retrieval_model.encode(
             self.edges, show_progress_bar=True
         )
         self.edge_bm25_tokenized = [text.lower().split() for text in self.edges]
 
-        # Always rebuild BM25 from tokens
+        # BM25'i belirteçlerden her zaman yeniden oluştur
         self.edge_bm25 = BM25Okapi(self.edge_bm25_tokenized)
 
         dspy.configure(lm=lm)
@@ -58,7 +58,7 @@ class LLMDeduplicate:
         self, query: str, top_k: int = 50, type: str = "node"
     ) -> list[str]:
         """
-        Use rank fusion of BM25 + embedding to retrieve top-k nodes.
+        En iyi k düğümü almak için BM25 + gömüleme sıralama birleşimini kullan.
         """
         query_tokens = query.lower().split()
 
@@ -69,12 +69,12 @@ class LLMDeduplicate:
             else self.edge_bm25.get_scores(query_tokens)
         )
 
-        # Embedding
+        # Gömüleme
         query_embedding = self.retrieval_model.encode([query], show_progress_bar=False)
         embeddings = self.node_embeddings if type == "node" else self.edge_embeddings
         embedding_scores = cosine_similarity(query_embedding, embeddings).flatten()
 
-        # Rank fusion (equal weighting)
+        # Sıralama birleşimi (eşit ağırlıklandırma)
         combined_scores = 0.5 * bm25_scores + 0.5 * embedding_scores
         top_indices = np.argsort(combined_scores)[::-1][:top_k]
         items = self.nodes if type == "node" else self.edges
@@ -91,7 +91,7 @@ class LLMDeduplicate:
             n_samples = len(embeddings)
             num_clusters = max(1, n_samples // cluster_size)
 
-            # Step 1: Cluster centers
+            # Adım 1: Küme merkezleri
             kmeans = KMeans(
                 n_clusters=num_clusters,
                 init="random",
@@ -104,11 +104,11 @@ class LLMDeduplicate:
             kmeans.fit(embeddings.astype(np.float32))
             centroids = kmeans.cluster_centers_
 
-            # Step 2: Assign each point to nearest centroid (with 25 max per cluster)
+            # Adım 2: Her noktayı en yakın merkeze ata (küme başına maksimum 25)
             distances = cdist(embeddings, centroids)
             assignments = np.argsort(distances, axis=1)
 
-            # Initialize cluster tracking
+            # Küme takibini başlat
             clusters: List[List[int]] = [[] for _ in range(num_clusters)]
             assigned = np.zeros(n_samples, dtype=bool)
 
@@ -123,48 +123,48 @@ class LLMDeduplicate:
 
             unassigned = np.where(~assigned)[0]
 
-            # Add unassigned items as their own cluster if any exist
+            # Varsa atanmamış öğeleri kendi kümeleri olarak ekle
             if len(unassigned) > 0:
                 self.logger.debug(
-                    "Adding %s unassigned items as a separate cluster", len(unassigned)
+                    "%s atanmamış öğe ayrı bir küme olarak ekleniyor", len(unassigned)
                 )
                 clusters.append(unassigned.tolist())
             else:
-                self.logger.debug("No unassigned items to add as a cluster")
+                self.logger.debug("Küme olarak eklenecek atanmamış öğe yok")
 
-            # Save clusters to JSON files
-            cluster_type = embedding_type  # 'node' or 'edge'
+            # Kümeleri JSON dosyalarına kaydet
+            cluster_type = embedding_type  # 'node' veya 'edge'
 
-            # Print debug information about clusters
-            self.logger.debug("Number of %s clusters: %s", cluster_type, len(clusters))
-            self.logger.debug("First cluster size: %s", len(clusters[0]))
-            self.logger.debug("First few items in first cluster: %s", clusters[0][:5])
-            self.logger.debug("Last cluster size: %s", len(clusters[-1]))
+            # Kümeler hakkında hata ayıklama bilgilerini yazdır
+            self.logger.debug("%s küme sayısı: %s", cluster_type, len(clusters))
+            self.logger.debug("İlk küme boyutu: %s", len(clusters[0]))
+            self.logger.debug("İlk kümedeki ilk birkaç öğe: %s", clusters[0][:5])
+            self.logger.debug("Son küme boyutu: %s", len(clusters[-1]))
             self.logger.debug(
-                "Distribution of cluster sizes: %s...",
+                "Küme boyutlarının dağılımı: %s...",
                 [len(clust) for clust in clusters[:5]],
             )
 
-            # Convert clusters to JSON-serializable format - save names instead of indices
+            # Kümeleri JSON serileştirilebilir formata dönüştür - indeksler yerine adları kaydet
             if cluster_type == "node":
-                self.logger.debug("Converting node indices to node names...")
+                self.logger.debug("Düğüm indeksleri düğüm adlarına dönüştürülüyor...")
                 clusters_data = [
                     [self.nodes[idx] for idx in cluster] for cluster in clusters
                 ]
                 self.logger.debug(
-                    "Sample of first cluster after conversion: %s", clusters_data[0][:3]
+                    "Dönüştürme sonrası ilk küme örneği: %s", clusters_data[0][:3]
                 )
-                # Add node clusters to self
+                # Düğüm kümelerini self'e ekle
                 self.node_clusters = clusters_data
             else:  # edge
-                self.logger.debug("Processing edge clusters...")
+                self.logger.debug("Kenar kümeleri işleniyor...")
                 clusters_data = [
                     [self.edges[idx] for idx in cluster] for cluster in clusters
                 ]
                 self.logger.debug(
-                    "Edge clusters data is empty: %s", len(clusters_data) == 0
+                    "Kenar kümeleri verisi boş: %s", len(clusters_data) == 0
                 )
-                # Add edge clusters to self
+                # Kenar kümelerini self'e ekle
                 self.edge_clusters = clusters_data
 
     def deduplicate_cluster(
@@ -174,11 +174,11 @@ class LLMDeduplicate:
 
         items = set()
         item_clusters = {}
-        plural_type = "entities" if type == "node" else "edges"
-        singular_type = "entity" if type == "node" else "edge"
+        plural_type = "varlıklar" if type == "node" else "kenarlar"
+        singular_type = "varlık" if type == "node" else "kenar"
 
         self.logger.info(
-            "Starting deduplication of %s %s in cluster", len(cluster), plural_type
+            "Kümedeki %s %s için tekilleştirme başlatılıyor", len(cluster), plural_type
         )
 
         processed_count = 0
@@ -187,7 +187,7 @@ class LLMDeduplicate:
             item = cluster.pop()
 
             self.logger.debug(
-                "[%s/%s] Processing %s: '%s'",
+                "[%s/%s] İşleniyor %s: '%s'",
                 processed_count,
                 len(cluster),
                 singular_type,
@@ -197,28 +197,28 @@ class LLMDeduplicate:
             relevant_items = self.get_relevant_items(item, 16, type)
 
             self.logger.debug(
-                "  Found %s relevant %s for '%s'",
+                "  '%s' için %s ilgili %s bulundu",
+                item,
                 len(relevant_items),
                 plural_type,
-                item,
             )
             if len(relevant_items) > 0:
                 self.logger.debug(
-                    "  Sample relevant items: %s%s",
+                    "  Örnek ilgili öğeler: %s%s",
                     relevant_items[:3],
                     ("..." if len(relevant_items) > 3 else ""),
                 )
 
             class Deduplicate(dspy.Signature):
-                __doc__ = f"""Find duplicate {plural_type} for the item and an alias that best represents the duplicates. Duplicates are those that are the same in meaning, such as with variation in tense, plural form, stem form, case, abbreviation, shorthand. Return an empty list if there are none. 
+                __doc__ = f"""Öğe için yinelenen {plural_type} ve yinelenenleri en iyi temsil eden bir takma ad bul. Yinelenenler, zaman kipi, çoğul form, kök form, büyük/küçük harf, kısaltma, stenografi gibi varyasyonlarla anlam olarak aynı olanlardır. Hiç yoksa boş liste döndür.
                 """
                 item: str = dspy.InputField()
                 set: list[str] = dspy.InputField()
                 duplicates: list[str] = dspy.OutputField(
-                    description="Exact matches to items in {plural_type} set"
+                    description="{plural_type} kümesindeki öğelerle tam eşleşmeler"
                 )
                 alias: str = dspy.OutputField(
-                    description=f"Best {singular_type} name to represent the duplicates, ideally from the {plural_type} set"
+                    description=f"Yinelenenleri temsil edecek en iyi {singular_type} adı, tercihen {plural_type} kümesinden"
                 )
 
             # with dspy.context(lm=self.lm):
@@ -226,18 +226,18 @@ class LLMDeduplicate:
             result = deduplicate(item=item, set=relevant_items)
             items.add(result.alias)
 
-            # Filter duplicates to only include those that exist in the cluster
+            # Yinelenenleri yalnızca kümede bulunanları içerecek şekilde filtrele
             duplicates = [dup for dup in result.duplicates if dup in cluster]
 
             if len(duplicates) > 0:
                 self.logger.debug(
-                    "  ✓ Found %s duplicates for '%s'", len(duplicates), item
+                    "  ✓ '%s' için %s yinelenen bulundu", item, len(duplicates)
                 )
                 self.logger.info(
-                    "  → Using alias '%s' to represent: '%s' and %s",
-                    result.alias,
+                    "  → '%s' ve %s'i temsil etmek için '%s' takma adı kullanılıyor",
                     item,
                     duplicates,
+                    result.alias,
                 )
                 item_clusters[result.alias] = {item}
                 for duplicate in duplicates:
@@ -245,21 +245,21 @@ class LLMDeduplicate:
                     item_clusters[result.alias].add(duplicate)
             else:
                 self.logger.debug(
-                    "  ✗ No duplicates found for '%s', keeping as is", item
+                    "  ✗ '%s' için yinelenen bulunamadı, olduğu gibi tutuluyor", item
                 )
                 item_clusters[item] = {item}
 
         self.logger.debug(
-            "Deduplication complete: %s unique %s from original %s",
+            "Tekilleştirme tamamlandı: orijinal %s'den %s benzersiz %s",
+            processed_count,
             len(items),
             plural_type,
-            processed_count,
         )
 
         return items, item_clusters
 
     def deduplicate(self) -> Graph:
-        # Check if intermediate progress exists and load it
+        # Ara ilerleme varsa kontrol et ve yükle
         entities = set()
         edges = set()
         entity_clusters = {}
@@ -267,63 +267,63 @@ class LLMDeduplicate:
 
         pool = ThreadPoolExecutor(max_workers=64)
 
-        # Process node clusters in parallel
+        # Düğüm kümelerini paralel olarak işle
         node_futures = []
         cnt_nodes = 0
         for i, cluster in enumerate(self.node_clusters):
             cnt_nodes += len(cluster)
             node_futures.append(pool.submit(self.deduplicate_cluster, cluster, "node"))
 
-        # Process edge clusters in parallel
+        # Kenar kümelerini paralel olarak işle
         edge_futures = []
         cnt_edges = 0
         for i, cluster in enumerate(self.edge_clusters):
             cnt_edges += len(cluster)
             edge_futures.append(pool.submit(self.deduplicate_cluster, cluster, "edge"))
 
-        # Collect results from node futures
+        # Düğüm future'larından sonuçları topla
         for i, future in enumerate(node_futures):
             try:
                 cluster_entities, cluster_entity_map = future.result()
                 entities.update(cluster_entities)
                 entity_clusters.update(cluster_entity_map)
             except Exception as e:
-                self.logger.error("Error processing node cluster %s: %s", i, e)
+                self.logger.error("Düğüm kümesi %s işlenirken hata: %s", i, e)
 
-        # Collect results from edge futures
+        # Kenar future'larından sonuçları topla
         for i, future in enumerate(edge_futures):
             try:
                 cluster_edges, cluster_edge_map = future.result()
                 edges.update(cluster_edges)
                 edge_clusters.update(cluster_edge_map)
             except Exception as e:
-                self.logger.error("Error processing edge cluster %s: %s", i, e)
+                self.logger.error("Kenar kümesi %s işlenirken hata: %s", i, e)
 
         self.logger.info(
-            "Finished processing all clusters with %s nodes and %s edges LLM calls",
+            "Tüm kümeler %s düğüm ve %s kenar LLM çağrısıyla işlendi",
             cnt_nodes,
             cnt_edges,
         )
 
-        # Update relations based on clusters
+        # Kümelere göre ilişkileri güncelle
         relations: set[tuple[str, str, str]] = set()
 
         for s, p, o in self.graph.relations:
-            # Look up subject in entity clusters
+            # Özneyi varlık kümelerinde ara
             if s not in entities:
                 for rep, cluster in entity_clusters.items():
                     if s in cluster:
                         s = rep
                         break
 
-            # Look up predicate in edge clusters
+            # Yüklemi kenar kümelerinde ara
             if p not in edges:
                 for rep, cluster in edge_clusters.items():
                     if p in cluster:
                         p = rep
                         break
 
-            # Look up object in entity clusters
+            # Nesneyi varlık kümelerinde ara
             if o not in entities:
                 for rep, cluster in entity_clusters.items():
                     if o in cluster:
@@ -332,24 +332,24 @@ class LLMDeduplicate:
 
             relations.add((s, p, o))
 
-        # Update entity_metadata keys to match deduplicated entity names
+        # Tekilleştirilmiş varlık adlarıyla eşleşecek şekilde entity_metadata anahtarlarını güncelle
         new_entity_metadata: dict[str, set[str]] | None = None
         if self.graph.entity_metadata:
             new_entity_metadata = {}
             for original_entity, metadata_set in self.graph.entity_metadata.items():
-                # Find the deduplicated representative for this entity
+                # Bu varlık için tekilleştirilmiş temsilciyi bul
                 deduped_entity = original_entity
                 for rep, cluster in entity_clusters.items():
                     if original_entity in cluster:
                         deduped_entity = rep
                         break
-                # Merge metadata sets when entities are deduplicated together
+                # Varlıklar birlikte tekilleştirildiğinde metadata kümelerini birleştir
                 if deduped_entity in new_entity_metadata:
                     new_entity_metadata[deduped_entity].update(metadata_set)
                 else:
                     new_entity_metadata[deduped_entity] = metadata_set.copy()
 
-        # Create new Graph instance with deduplicated data
+        # Tekilleştirilmiş verilerle yeni Graph örneği oluştur
         deduped_graph = Graph(
             entities=entities,
             edges=edges,
