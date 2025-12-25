@@ -1988,10 +1988,10 @@ async function loadCachedInputs() {
             closable: true,
             backdrop: true
         });
-        
 
-
+        // Element tanımları
         apiKeyInput = document.getElementById('apiKey');
+        apiBaseInput = document.getElementById('apiBase'); // EKLENDİ: Base URL input
         modelSelect = document.getElementById('model');
         chunkSizeInput = document.getElementById('chunkSize');
         temperatureInput = document.getElementById('temperature');
@@ -2007,6 +2007,86 @@ async function loadCachedInputs() {
         onChangeGenerateButton()
         onChangeClearTextButton()
 
+        // --- GÜNCELLENEN KISIM: Config Yükleme Fonksiyonu ---
+        async function loadTextInputs() {
+            console.log('[kg-gen] Loading Text Generation inputs...');
+
+            try {
+                // Backend'den config bilgilerini al
+                let envConfig = null;
+                try {
+                    const response = await fetch('/api/config');
+                    if (response.ok) {
+                        envConfig = await response.json();
+                        console.log('[kg-gen] Text - Loaded config from backend:', envConfig);
+                    }
+                } catch (error) {
+                    console.warn('[kg-gen] Text - Failed to load config from backend:', error);
+                }
+
+                // 1. API Key Yükle
+                const envApiKey = envConfig?.api_key;
+                const cachedApiKey = localStorage.getItem(CACHE_KEYS.apiKey); 
+                
+                if (apiKeyInput) {
+                    apiKeyInput.value = envApiKey || cachedApiKey || '';
+                    console.log('[kg-gen] Text - API key loaded from:', envApiKey ? 'env' : (cachedApiKey ? 'cache' : 'none'));
+                }
+
+                // 2. API Base URL Yükle (EKLENDİ)
+                const envApiBase = envConfig?.api_base;
+                const cachedApiBase = localStorage.getItem(CACHE_KEYS.apiBase);
+
+                if (apiBaseInput) {
+                    apiBaseInput.value = envApiBase || cachedApiBase || '';
+                    console.log('[kg-gen] Text - API base loaded from:', envApiBase ? 'env' : (cachedApiBase ? 'cache' : 'none'));
+                }
+
+                // 3. Model Yükle
+                const envModel = envConfig?.model;
+                const cachedModel = localStorage.getItem(CACHE_KEYS.model);
+
+                if (modelSelect) {
+                    modelSelect.value = envModel || cachedModel || 'openai/gpt-4o';
+                    console.log('[kg-gen] Text - Model loaded:', modelSelect.value);
+                }
+
+                // 4. Diğer cache'leri yükle
+                if (chunkSizeInput) {
+                    const cachedChunkSize = localStorage.getItem(CACHE_KEYS.chunkSize);
+                    if (cachedChunkSize) chunkSizeInput.value = cachedChunkSize;
+                }
+
+                if (temperatureInput) {
+                    const cachedTemperature = localStorage.getItem(CACHE_KEYS.temperature);
+                    if (cachedTemperature) temperatureInput.value = cachedTemperature;
+                }
+
+                if (clusterToggle) {
+                    const cachedCluster = localStorage.getItem(CACHE_KEYS.cluster);
+                    if (cachedCluster !== null) clusterToggle.checked = cachedCluster === 'true';
+                }
+
+                if (retrievalModelSelect) {
+                    const cachedRetrievalModel = localStorage.getItem(CACHE_KEYS.retrievalModel);
+                    if (cachedRetrievalModel) retrievalModelSelect.value = cachedRetrievalModel;
+                    else retrievalModelSelect.value = 'sentence-transformers/all-mpnet-base-v2';
+                }
+
+                if (contextInput) {
+                    const cachedContext = localStorage.getItem(CACHE_KEYS.context);
+                    if (cachedContext) contextInput.value = cachedContext;
+                }
+
+                console.log('[kg-gen] Text generation inputs loaded successfully');
+            } catch (error) {
+                console.warn('[kg-gen] Failed to load Text inputs:', error);
+            }
+        }
+
+        // Fonksiyonu çağırarak inputları doldur
+        loadTextInputs();
+        // --- GÜNCELLENEN KISIM SONU ---
 
 
         // Function to remove selected file
@@ -2121,8 +2201,6 @@ async function loadCachedInputs() {
             toggleDropZoneState(hasText);
         }
 
-
-
         // Password toggle functionality
         const passwordToggle = document.getElementById('passwordToggle');
 
@@ -2146,8 +2224,6 @@ async function loadCachedInputs() {
                 }
             });
         }
-
-
     };
 
     window.generateFromWikipedia = function () {
