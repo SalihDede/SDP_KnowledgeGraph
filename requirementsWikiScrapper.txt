@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+httpx>=0.24.0

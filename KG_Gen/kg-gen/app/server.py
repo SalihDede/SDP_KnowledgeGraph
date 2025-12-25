@@ -18,6 +18,8 @@ from src.kg_gen.models import Graph
 from src.kg_gen.utils.visualize_kg import _build_view_model
 from dotenv import load_dotenv  # EKLE
 load_dotenv(dotenv_path=Path(__file__).parent.parent / ".env")
+import httpx
+from fastapi import HTTPException
 
 
 APP_DIR = Path(__file__).resolve().parent
@@ -91,14 +93,14 @@ kg_gen = KGGen(
 
 # Yeni endpoint ekleyin (app tanımlamasından sonra, diğer route'lardan önce)
 @app.get("/api/config")
-async def get_config() -> JSONResponse:
-    """Return configuration from environment variables for UI pre-population"""
-    logger.debug("Serving configuration from environment variables")
-    return JSONResponse({
+async def get_config():
+    """Return environment configuration"""
+    return {
         "api_key": os.getenv("OPENAI_API_KEY", ""),
         "api_base": os.getenv("OPENAI_BASE_URL", ""),
         "model": os.getenv("OPENAI_MODEL", "openai/gpt-4o"),
-    })
+        "scrape_endpoint": os.getenv("WIKIPEDIA_SCRAP_ENDPOINT", "")
+    }
 
 
 @app.get("/", response_class=HTMLResponse)
@@ -149,6 +151,45 @@ async def load_example(slug: str) -> JSONResponse:
     logger.info("Loaded example graph '%s' from %s", slug, example.path)
     return JSONResponse(payload)
 
+@app.post("/api/scrape-wikipedia")
+async def scrape_wikipedia_proxy(request: dict):
+    """Proxy Wikipedia scraping requests to avoid CORS"""
+    scrape_endpoint = os.getenv("WIKIPEDIA_SCRAP_ENDPOINT", "http://localhost:8001/scrape/sentences")
+    
+    logger.info(f"Proxying scrape request to: {scrape_endpoint}")
+    logger.info(f"Request data: {request}")
+    
+    try:
+        async with httpx.AsyncClient(timeout=60.0) as client:
+            response = await client.post(
+                scrape_endpoint,
+                json=request,
+                headers={"Content-Type": "application/json"}
+            )
+            
+            logger.info(f"Scrape response status: {response.status_code}")
+            
+            if response.status_code != 200:
+                logger.error(f"Scrape failed: {response.text}")
+                raise HTTPException(
+                    status_code=response.status_code,
+                    detail=f"Scraping failed: {response.text}"
+                )
+            
+            data = response.json()
+            logger.info(f"Scrape successful, got {len(data.get('Main', []))} sentences")
+            return data
+            
+    except httpx.TimeoutException:
+        logger.error("Scrape request timed out")
+        raise HTTPException(status_code=504, detail="Scraping request timed out")
+    except httpx.HTTPError as e:
+        logger.error(f"HTTP error during scraping: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Scraping failed: {str(e)}")
+    except Exception as e:
+        logger.error(f"Unexpected error during scraping: {str(e)}")
+        raise HTTPException(status_code=500, detail=f"Unexpected error: {str(e)}")
+    
 
 @app.post("/api/graph/view")
 async def build_view(graph: Graph) -> JSONResponse:

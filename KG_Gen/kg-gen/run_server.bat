@@ -24,6 +24,7 @@ docker run --rm ^
     -v "%cd%/output:/workspace/output" ^
     -v "%cd%/logs:/workspace/logs" ^
     -p 8000:8000 ^
+    --add-host=host.docker.internal:host-gateway ^
     --env-file .env ^
     kg-gen-dedup-demo uvicorn app.server:app --reload --host 0.0.0.0 --port 8000
 

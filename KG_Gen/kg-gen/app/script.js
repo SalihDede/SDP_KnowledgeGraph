@@ -1,3 +1,4 @@
+
 (function () {
     // Show loading screen immediately on page load
     function showInitialLoadingScreen() {
@@ -1987,6 +1988,7 @@ async function loadCachedInputs() {
             closable: true,
             backdrop: true
         });
+        
 
 
         apiKeyInput = document.getElementById('apiKey');
@@ -2147,6 +2149,443 @@ async function loadCachedInputs() {
 
 
     };
+
+    window.generateFromWikipedia = function () {
+    // Modal'ı aç
+    const modalWikipediaGenerator = new Modal('wikipediaGeneratorModal', 'Generate from Wikipedia', null, {
+        selector: '#wikipediaGeneratorModalTemplate',
+        width: '800px',
+        closable: true,
+        backdrop: true
+    });
+
+    // Element referansları
+    let wikiApiKeyInput = document.getElementById('wikiApiKey');
+    let wikiModelSelect = document.getElementById('wikiModel');
+    let wikiApiBaseInput = document.getElementById('wikiApiBase');
+    let wikiChunkSizeInput = document.getElementById('wikiChunkSize');
+    let wikiTemperatureInput = document.getElementById('wikiTemperature');
+    let wikiClusterToggle = document.getElementById('wikiClusterToggle');
+    let wikiRetrievalModelSelect = document.getElementById('wikiRetrievalModel');
+    let wikiContextInput = document.getElementById('wikiContext');
+    let wikipediaUrlInput = document.getElementById('wikipediaUrl');
+    let wikiGenerateButton = document.getElementById('wikiGenerateButton');
+    let wikiClearButton = document.getElementById('wikiClearButton');
+
+    // Scraping endpoint'i sakla
+    let scrapeEndpoint = '/api/scrape-wikipedia'; // Default fallback
+
+    console.log('[kg-gen] Wikipedia generator element refs:', {
+        wikiApiKeyInput: !!wikiApiKeyInput,
+        wikiModelSelect: !!wikiModelSelect,
+        wikipediaUrlInput: !!wikipediaUrlInput,
+        wikiGenerateButton: !!wikiGenerateButton
+    });
+
+    // Backend'den env config'i çek ve cache'den değerleri yükle
+    // Backend'den env config'i çek ve cache'den değerleri yükle
+async function loadWikipediaInputs() {
+    console.log('[kg-gen] Loading Wikipedia inputs...');
+    
+    // Scraping endpoint her zaman backend proxy üzerinden gider
+    scrapeEndpoint = '/api/scrape-wikipedia';
+    console.log('[kg-gen] Wiki - Using proxy scrape endpoint:', scrapeEndpoint);
+    
+    try {
+        // Backend'den config bilgilerini al
+        let envConfig = null;
+        try {
+            const response = await fetch('/api/config');
+            if (response.ok) {
+                envConfig = await response.json();
+                console.log('[kg-gen] Loaded config from backend:', envConfig);
+            }
+        } catch (error) {
+            console.warn('[kg-gen] Failed to load config from backend:', error);
+        }
+
+        // Load API key - önce env, sonra cache
+        const envApiKey = envConfig?.api_key;
+        const cachedApiKey = localStorage.getItem(CACHE_KEYS.apiKey);
+        
+        if (wikiApiKeyInput) {
+            wikiApiKeyInput.value = envApiKey || cachedApiKey || '';
+            console.log('[kg-gen] Wiki - API key loaded from:', envApiKey ? 'env' : (cachedApiKey ? 'cache' : 'none'));
+        }
+
+            // Load API Base - önce env, sonra cache
+            const envApiBase = envConfig?.api_base;
+            const cachedApiBase = localStorage.getItem(CACHE_KEYS.apiBase);
+            if (wikiApiBaseInput) {
+                wikiApiBaseInput.value = envApiBase || cachedApiBase || '';
+                console.log('[kg-gen] Wiki - API base loaded from:', envApiBase ? 'env' : (cachedApiBase ? 'cache' : 'none'));
+            }
+
+            // Load model - önce env, sonra cache
+            const envModel = envConfig?.model;
+            const cachedModel = localStorage.getItem(CACHE_KEYS.model);
+            console.log('[kg-gen] Wiki - Env model:', envModel);
+            console.log('[kg-gen] Wiki - Cached model:', cachedModel);
+            
+            if (wikiModelSelect) {
+                wikiModelSelect.value = envModel || cachedModel || 'openai/gpt-4o';
+                console.log('[kg-gen] Wiki - Model loaded:', wikiModelSelect.value);
+            }
+
+            // Diğer cache'leri yükle
+            if (wikiChunkSizeInput) {
+                const cachedChunkSize = localStorage.getItem(CACHE_KEYS.chunkSize);
+                if (cachedChunkSize) wikiChunkSizeInput.value = cachedChunkSize;
+            }
+
+            if (wikiTemperatureInput) {
+                const cachedTemperature = localStorage.getItem(CACHE_KEYS.temperature);
+                if (cachedTemperature) wikiTemperatureInput.value = cachedTemperature;
+            }
+
+            if (wikiClusterToggle) {
+                const cachedCluster = localStorage.getItem(CACHE_KEYS.cluster);
+                if (cachedCluster !== null) wikiClusterToggle.checked = cachedCluster === 'true';
+            }
+
+            if (wikiRetrievalModelSelect) {
+                const cachedRetrievalModel = localStorage.getItem(CACHE_KEYS.retrievalModel);
+                console.log('[kg-gen] Wiki - Cached retrieval model:', cachedRetrievalModel);
+                if (cachedRetrievalModel) wikiRetrievalModelSelect.value = cachedRetrievalModel;
+                else wikiRetrievalModelSelect.value = 'sentence-transformers/all-mpnet-base-v2';
+                console.log('[kg-gen] Wiki - Retrieval model loaded:', wikiRetrievalModelSelect.value);
+            }
+
+            if (wikiContextInput) {
+                const cachedContext = localStorage.getItem(CACHE_KEYS.context);
+                if (cachedContext) wikiContextInput.value = cachedContext;
+            }
+
+            console.log('[kg-gen] Wikipedia inputs loaded successfully');
+        } catch (error) {
+            console.warn('[kg-gen] Failed to load Wikipedia inputs:', error);
+        }
+    }
+
+    // Inputları yükle
+    loadWikipediaInputs();
+
+    // Password toggle functionality
+    const wikiPasswordToggle = document.getElementById('wikiPasswordToggle');
+    if (wikiPasswordToggle && wikiApiKeyInput) {
+        wikiPasswordToggle.addEventListener('click', function () {
+            const isPassword = wikiApiKeyInput.type === 'password';
+            wikiApiKeyInput.type = isPassword ? 'text' : 'password';
+
+            // Update the eye icon
+            const eyeIcon = wikiPasswordToggle.querySelector('.eye-icon');
+            if (eyeIcon) {
+                if (isPassword) {
+                    // Show eye with slash (hidden)
+                    eyeIcon.innerHTML = '<path d="M12 7c2.76 0 5 2.24 5 5 0 .65-.13 1.26-.36 1.83l2.92 2.92c1.51-1.26 2.7-2.89 3.43-4.75-1.73-4.39-6-7.5-11-7.5-1.4 0-2.74.25-3.98.7l2.16 2.16C10.74 7.13 11.35 7 12 7zM2 4.27l2.28 2.28.46.46C3.08 8.3 1.78 10.02 1 12c1.73 4.39 6 7.5 11 7.5 1.55 0 3.03-.3 4.38-.84l.42.42L19.73 22 21 20.73 3.27 3 2 4.27zM7.53 9.8l1.55 1.55c-.05.21-.08.43-.08.65 0 1.66 1.34 3 3 3 .22 0 .44-.03.65-.08l1.55 1.55c-.67.33-1.41.53-2.2.53-2.76 0-5-2.24-5-5 0-.79.2-1.53.53-2.2zm4.31-.78l3.15 3.15.02-.16c0-1.66-1.34-3-3-3l-.17.01z" fill="currentColor"/>';
+                    wikiPasswordToggle.setAttribute('aria-label', 'Hide password');
+                } else {
+                    // Show regular eye (visible)
+                    eyeIcon.innerHTML = '<path d="M12 4.5C7 4.5 2.73 7.61 1 12c1.73 4.39 6 7.5 11 7.5s9.27-3.11 11-7.5c-1.73-4.39-6-7.5-11-7.5zM12 17c-2.76 0-5-2.24-5-5s2.24-5 5-5 5 2.24 5 5-2.24 5-5 5zm0-8c-1.66 0-3 1.34-3 3s1.34 3 3 3 3-1.34 3-3-1.34-3-3-3z" fill="currentColor"/>';
+                    wikiPasswordToggle.setAttribute('aria-label', 'Show password');
+                }
+            }
+        });
+    }
+
+    // Error message functions
+    function showWikiGenerateError(message) {
+        const errorMessage = document.getElementById('wikiGenerateErrorMessage');
+        const errorText = document.getElementById('wikiGenerateErrorText');
+
+        if (errorMessage && errorText) {
+            errorText.textContent = message;
+            errorMessage.style.display = 'flex';
+            errorMessage.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        }
+    }
+
+    function hideWikiGenerateError() {
+        const errorMessage = document.getElementById('wikiGenerateErrorMessage');
+        if (errorMessage) {
+            errorMessage.style.display = 'none';
+        }
+    }
+
+    // Progress functions
+    function showWikiProgress(text) {
+        const wikiProgress = document.getElementById('wikiProgress');
+        const wikiProgressText = document.getElementById('wikiProgressText');
+        if (wikiProgress && wikiProgressText) {
+            wikiProgressText.textContent = text;
+            wikiProgress.style.display = 'block';
+        }
+    }
+
+    function hideWikiProgress() {
+        const wikiProgress = document.getElementById('wikiProgress');
+        if (wikiProgress) {
+            wikiProgress.style.display = 'none';
+        }
+    }
+
+    function updateWikiProgress(percent, text) {
+        const wikiProgressFill = document.getElementById('wikiProgressFill');
+        const wikiProgressText = document.getElementById('wikiProgressText');
+        if (wikiProgressFill) {
+            wikiProgressFill.style.width = `${percent}%`;
+        }
+        if (wikiProgressText && text) {
+            wikiProgressText.textContent = text;
+        }
+    }
+
+    // Wikipedia'dan KG oluşturma ana fonksiyonu
+    // Wikipedia'dan KG oluşturma ana fonksiyonu
+async function generateWikipediaGraph() {
+    hideWikiGenerateError();
+
+    const apiKey = wikiApiKeyInput.value.trim();
+    const wikipediaUrl = wikipediaUrlInput.value.trim();
+    const chunkSizeValue = wikiChunkSizeInput.value.trim();
+    const temperatureValue = wikiTemperatureInput.value.trim();
+
+    // Validasyon
+    if (!apiKey) {
+        const errorMessage = 'Enter your OpenAI API key to generate a graph.';
+        setStatus(errorMessage, 'error');
+        showWikiGenerateError(errorMessage);
+        return;
+    }
+
+    if (!wikipediaUrl) {
+        const errorMessage = 'Enter a Wikipedia URL.';
+        setStatus(errorMessage, 'error');
+        showWikiGenerateError(errorMessage);
+        return;
+    }
+
+    if (!wikipediaUrl.includes('wikipedia.org')) {
+        const errorMessage = 'Please enter a valid Wikipedia URL.';
+        setStatus(errorMessage, 'error');
+        showWikiGenerateError(errorMessage);
+        return;
+    }
+
+    if (!confirmGraphReplacement('Wikipedia graph generation')) {
+        const errorMessage = 'Please confirm the graph generation.';
+        setStatus(errorMessage, 'error');
+        showWikiGenerateError(errorMessage);
+        return;
+    }
+
+    // Butonu disable et
+    wikiGenerateButton.disabled = true;
+    wikiGenerateButton.textContent = 'Generating...';
+
+    try {
+        // 1. Wikipedia içeriğini çek
+        showWikiProgress('Fetching Wikipedia content...');
+        updateWikiProgress(10, 'Scraping Wikipedia article...');
+        setStatus('Fetching Wikipedia content...');
+
+        console.info('[kg-gen] Scraping Wikipedia URL:', wikipediaUrl);
+        console.info('[kg-gen] Using scrape endpoint:', scrapeEndpoint);
+        console.info('[kg-gen] Request payload:', { url: wikipediaUrl });
+
+        let scrapeResponse;
+        let scrapeData;
+        
+        try {
+            scrapeResponse = await fetch(scrapeEndpoint, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ url: wikipediaUrl })
+            });
+
+            console.info('[kg-gen] Scrape response status:', scrapeResponse.status);
+            console.info('[kg-gen] Scrape response ok:', scrapeResponse.ok);
+            
+            // Response text'i al
+            const responseText = await scrapeResponse.text();
+            console.info('[kg-gen] Raw scrape response:', responseText);
+
+            // JSON'a parse et
+            try {
+                scrapeData = JSON.parse(responseText);
+                console.info('[kg-gen] Parsed scrape data:', scrapeData);
+            } catch (parseError) {
+                console.error('[kg-gen] Failed to parse scrape response as JSON:', parseError);
+                throw new Error(`Invalid JSON response from scraper: ${responseText.substring(0, 100)}`);
+            }
+
+        } catch (fetchError) {
+            console.error('[kg-gen] Fetch error:', fetchError);
+            throw new Error(`Network error: ${fetchError.message}`);
+        }
+
+        if (!scrapeResponse.ok) {
+            const errorDetail = scrapeData?.detail || scrapeData?.error || scrapeData?.message || 'Unknown error';
+            console.error('[kg-gen] Scrape endpoint returned error:', errorDetail);
+            throw new Error(`Failed to fetch Wikipedia content: ${errorDetail}`);
+        }
+
+        console.info('[kg-gen] Wikipedia content scraped successfully');
+        updateWikiProgress(30, 'Wikipedia content fetched successfully');
+
+        // 2. Response'u validate et
+        if (!scrapeData.Main || !Array.isArray(scrapeData.Main)) {
+            console.error('[kg-gen] Invalid response format. Expected "Main" array, got:', scrapeData);
+            throw new Error('Invalid Wikipedia response format. Expected { "Main": [...] }');
+        }
+
+        const sentences = scrapeData.Main;
+        const totalSentences = sentences.length;
+        
+        if (totalSentences === 0) {
+            throw new Error('No content found in Wikipedia article');
+        }
+
+        console.info('[kg-gen] Processing', totalSentences, 'sentences');
+        updateWikiProgress(35, `Processing ${totalSentences} sentences...`);
+
+        // 3. Tüm sentence'leri birleştir
+        const combinedText = sentences.map(s => s.sentence).join(' ');
+        console.info('[kg-gen] Combined text length:', combinedText.length);
+        console.info('[kg-gen] First 200 chars:', combinedText.substring(0, 200));
+
+        updateWikiProgress(40, 'Generating knowledge graph...');
+        setStatus('Generating graph with KGGen...');
+
+        // 4. FormData oluştur
+        const formData = new FormData();
+        formData.append('api_key', apiKey);
+        formData.append('model', wikiModelSelect.value);
+        if (wikiApiBaseInput && wikiApiBaseInput.value.trim()) {
+            formData.append('api_base', wikiApiBaseInput.value.trim());
+        }
+        formData.append('cluster', wikiClusterToggle.checked ? 'true' : 'false');
+        formData.append('retrieval_model', wikiRetrievalModelSelect.value);
+        formData.append('source_text', combinedText);
+        
+        if (wikiContextInput.value.trim()) {
+            formData.append('context', wikiContextInput.value.trim());
+        }
+        if (chunkSizeValue) {
+            formData.append('chunk_size', chunkSizeValue);
+        }
+        if (temperatureValue) {
+            formData.append('temperature', temperatureValue);
+        }
+
+        console.info('[kg-gen] Submitting Wikipedia generate request', {
+            model: wikiModelSelect.value,
+            apiBase: wikiApiBaseInput ? wikiApiBaseInput.value : null,
+            cluster: wikiClusterToggle.checked,
+            retrievalModel: wikiRetrievalModelSelect.value,
+            textLength: combinedText.length
+        });
+
+        updateWikiProgress(50, 'Sending to KGGen...');
+
+        // Hide mobile sidebar and show loading
+        if (window.sidebarManager && window.sidebarManager.isMobile) {
+            window.sidebarManager.hideMobileSidebar();
+            setTimeout(() => {
+                showLoadingInViewer('Generating Graph', 'Running KGGen on Wikipedia content. This may take a few minutes...');
+            }, 150);
+        } else {
+            showLoadingInViewer('Generating Graph', 'Running KGGen on Wikipedia content. This may take a few minutes...');
+        }
+
+        if (!hasLoadedGraph) {
+            resetViewer();
+        }
+
+        // 5. KG generate et
+        const generateResponse = await fetch('/api/generate', {
+            method: 'POST',
+            body: formData
+        });
+
+        const rawBody = await generateResponse.text();
+        let payload = null;
+        
+        if (rawBody) {
+            try {
+                payload = JSON.parse(rawBody);
+            } catch (parseError) {
+                console.warn('[kg-gen] Response was not valid JSON', parseError);
+            }
+        }
+
+        if (!generateResponse.ok) {
+            console.warn('[kg-gen] Generation endpoint returned error', payload || rawBody);
+            const message = (payload && (payload.detail || payload.error || payload.message)) ||
+                rawBody?.trim() || `Generation failed (${generateResponse.status})`;
+            throw new Error(message);
+        }
+
+        if (!payload || typeof payload !== 'object') {
+            throw new Error('Generation succeeded but returned invalid response.');
+        }
+
+        console.info('[kg-gen] Wikipedia generation succeeded');
+        updateWikiProgress(90, 'Rendering graph...');
+
+        // 6. Graph'ı render et
+        hideWikiGenerateError();
+        await renderView(payload.view, payload.graph);
+        
+        updateWikiProgress(100, 'Complete!');
+        setStatus('Wikipedia graph generated successfully!', 'success');
+
+        // Modal'ı kapat
+        setTimeout(() => {
+            modalWikipediaGenerator.close();
+        }, 500);
+
+    } catch (error) {
+        console.error('[kg-gen] Wikipedia generation error:', error);
+        console.error('[kg-gen] Error stack:', error.stack);
+        const errorMessage = 'Generation failed: ' + (error.message || 'Unknown error');
+        setStatus(`Generation failed: ${error.message}`, 'error');
+        showWikiGenerateError(errorMessage);
+        hideLoadingInViewer();
+    } finally {
+        wikiGenerateButton.disabled = false;
+        wikiGenerateButton.textContent = 'Generate graph';
+        hideWikiProgress();
+    }
+}
+
+    // Event listeners
+    function onChangeWikiGenerateButton() {
+        if (wikiGenerateButton) {
+            wikiGenerateButton.addEventListener('click', event => {
+                event.preventDefault();
+                generateWikipediaGraph();
+            });
+        }
+    }
+
+    function onChangeWikiClearButton() {
+        if (wikiClearButton) {
+            wikiClearButton.addEventListener('click', event => {
+                event.preventDefault();
+                if (wikipediaUrlInput) wikipediaUrlInput.value = '';
+                hideWikiGenerateError();
+                hideWikiProgress();
+                setStatus('Wikipedia inputs cleared.');
+            });
+        }
+    }
+
+    onChangeWikiGenerateButton();
+    onChangeWikiClearButton();
+};
 
     // Global search shortcut functionality
     function initializeSearchShortcut() {
