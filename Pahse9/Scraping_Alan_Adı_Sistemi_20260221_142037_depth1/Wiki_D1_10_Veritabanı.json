@@ -1,0 +1,110 @@
+{
+    "Title": "Veritabanı",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Veritabanı#1",
+            "sentence": "Veritabanları , yapılandırılmış <PossibleEntity>bilgi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgi)</URL> veya <PossibleEntity>verilerin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Veri)</URL> depolandığı alanlardır."
+        },
+        {
+            "id": "Veritabanı#2",
+            "sentence": "Bilgi artışıyla birlikte bilgisayarda bilgi depolama ve bilgiye erişim konularında yeni yöntemlere ihtiyaç duyulmuştur."
+        },
+        {
+            "id": "Veritabanı#3",
+            "sentence": "Veritabanları; büyük miktardaki bilgileri depolamada geleneksel yöntem olan \"dosya-işlem sistemine\" alternatif olarak geliştirilmiştir."
+        },
+        {
+            "id": "Veritabanı#4",
+            "sentence": "Telefonlardaki kişi rehberi günlük hayatta çok basit bir şekilde kullanılan veritabanı örneği olarak kabul edilebilir."
+        },
+        {
+            "id": "Veritabanı#5",
+            "sentence": "Bunların dışında <PossibleEntity>internet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> sitelerindeki üyelik sistemleri, akademik dergilerin ve üniversitelerin tez yönetim sistemleri de veritabanı kullanımına örnektir."
+        },
+        {
+            "id": "Veritabanı#6",
+            "sentence": "Veritabanları sayesinde bilgilere ulaşılabilir ve bilgiler düzenlenebilir."
+        },
+        {
+            "id": "Veritabanı#7",
+            "sentence": "Veritabanları genellikle bireysel olarak satın alınamayacak kadar yüksek meblağlara sahip olmasına karşın; ücretsiz kullanıma açılan akademik veritabanları da bulunmaktadır."
+        },
+        {
+            "id": "Veritabanı#8",
+            "sentence": "Akademik veritabanları aracılığıyla bazen <PossibleEntity>bibliyografik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bibliyografya)</URL> bilgi bazen de tam metinlere erişmek mümkündür."
+        },
+        {
+            "id": "Veritabanı#9",
+            "sentence": "Veritabanları, veritabanı yönetim sistemleri aracılığıyla oluşturulur ve yönetilir."
+        },
+        {
+            "id": "Veritabanı#10",
+            "sentence": "Bu sistemlere; <PossibleEntity>Microsoft Access</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Microsoft_Access)</URL> , <PossibleEntity>MySQL</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/MySQL)</URL> , <PossibleEntity>IBM DB2</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IBM_DB2)</URL> , <PossibleEntity>Informix</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Informix&action=edit&redlink=1)</URL> , <PossibleEntity>Interbase</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Interbase&action=edit&redlink=1)</URL> , <PossibleEntity>Microsoft SQL Server</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Microsoft_SQL_Server)</URL> , <PossibleEntity>PostgreSQL</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/PostgreSQL)</URL> , <PossibleEntity>Oracle</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Oracle)</URL> ve <PossibleEntity>Sybase</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sybase)</URL> örnek olarak verilebilir."
+        },
+        {
+            "id": "Veritabanı#11",
+            "sentence": "21. yüzyılda, farklı sorgulama dilleri etkin ve verimli bir şekilde kullanılabildiği için ilişkisel olmayan veritabanları popüler hâle gelmiştir."
+        },
+        {
+            "id": "Veritabanı#12",
+            "sentence": "Günümüzde veritabanı sistemleri, bankacılıktan <PossibleEntity>otomotiv</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Otomotiv)</URL> sanayisine, sağlık bilgi sistemlerinden şirket yönetimine, <PossibleEntity>telekomünikasyon</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Telekom%C3%BCnikasyon)</URL> sistemlerinden <PossibleEntity>hava taşımacılığına</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Hava_ta%C5%9F%C4%B1mac%C4%B1l%C4%B1%C4%9F%C4%B1&action=edit&redlink=1)</URL> , çok geniş alanlarda kullanılan bilgisayar sistemlerinin altyapısını oluşturmaktadır."
+        },
+        {
+            "id": "Veritabanı#13",
+            "sentence": "Veritabanı fiziksel olarak bilgileri tutarken mantıksal bir hiyerarşiye de sahiptir."
+        },
+        {
+            "id": "Veritabanı#14",
+            "sentence": "Veritabanı sistemlerinin kurulumu, konfigürasyonu, düzeni, sorgulaması, güvenliği ve denetiminin karmaşık bir hâl alması veritabanı yöneticiliği kavramının oluşmasına neden olmuştur."
+        },
+        {
+            "id": "Veritabanı#15",
+            "sentence": "Bir veritabanı yöneticisi mantıksal data modelleme, fiziksel veritabanı dizaynı çıkarma, fiziksel olarak veritabanı oluşturma, <PossibleEntity>Transact-SQL</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Transact-SQL&action=edit&redlink=1)</URL> kullanarak sorgu yazma, <PossibleEntity>Microsoft SQL Server</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Microsoft_SQL_Server)</URL> kurulumu ve yapılandırılması, <PossibleEntity>güvenlik yönetimi</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=G%C3%BCvenlik_y%C3%B6netimi&action=edit&redlink=1)</URL> ve yapılandırılması, veritabanı yönetimi ve bakımı, veritabanı denetleme ve optimize etme işlerini üstlenir."
+        },
+        {
+            "id": "Veritabanı#16",
+            "sentence": "İlişkisel olmayan (NoSQL) veritabanı sistemleri <PossibleEntity>anahtar-değer</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anahtar-de%C4%9Fer_veritaban%C4%B1)</URL> prensibiyle çalışan veritabanı sistemleridir."
+        },
+        {
+            "id": "Veritabanı#17",
+            "sentence": "Bunlar ilişkisel veritabanlarına göre daha hızlıdırlar."
+        },
+        {
+            "id": "Veritabanı#18",
+            "sentence": "Örnek veritabanı sstemleri:"
+        },
+        {
+            "id": "Veritabanı#19",
+            "sentence": "Veritabanında asıl önemli kavram, kayıt yığını ya da bilgi parçalarının tanımlanmasıdır."
+        },
+        {
+            "id": "Veritabanı#20",
+            "sentence": "Bu tanıma şema adı verilir."
+        },
+        {
+            "id": "Veritabanı#21",
+            "sentence": "Şema, veritabanında kullanılacak bilgi tanımlarının nasıl modelleneceğini gösterir."
+        },
+        {
+            "id": "Veritabanı#22",
+            "sentence": "Bu modele veri modeli ( İngilizce: data model ), yapılan işleme de veri modelleme denir."
+        },
+        {
+            "id": "Veritabanı#23",
+            "sentence": "En yaygın olanı <PossibleEntity>ilişkisel modeldir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0li%C5%9Fkisel_model)</URL> ( İngilizce: relational model )."
+        },
+        {
+            "id": "Veritabanı#24",
+            "sentence": "Bu modelde veriler tablolarda saklanır."
+        },
+        {
+            "id": "Veritabanı#25",
+            "sentence": "Tablolarda bulunan satırlar ( İngilizce: row ) kayıtların kendisini, sütunlar ( İngilizce: column ) ise bu kayıtları oluşturan bilgi parçalarının ne türden olduklarını belirtir."
+        },
+        {
+            "id": "Veritabanı#26",
+            "sentence": "Başka modeller ( sistem modeli ya da ağ modeli gibi) daha belirgin ilişkiler kurarlar."
+        }
+    ]
+}

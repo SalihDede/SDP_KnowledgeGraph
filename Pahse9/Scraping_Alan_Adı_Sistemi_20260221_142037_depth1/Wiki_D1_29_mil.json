@@ -1,0 +1,10 @@
+{
+    "Title": ".mil",
+    "Card": {},
+    "Main": [
+        {
+            "id": ".mil#1",
+            "sentence": ".mil ( mil itary = askeri) <PossibleEntity>ABD</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> <PossibleEntity>askeri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Askeri)</URL> site bağlantısının olduğunu belirtir."
+        }
+    ]
+}

@@ -1,0 +1,198 @@
+{
+    "Title": "İnternet sitesi",
+    "Card": {},
+    "Main": [
+        {
+            "id": "İnternet sitesi#1",
+            "sentence": "Web sitesi , ortak bir <PossibleEntity>alan adı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alan_ad%C4%B1)</URL> ile tanımlanan ve en az bir <PossibleEntity>web sunucusunda</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Web_sunucusu)</URL> yayınlanan <PossibleEntity>web sayfaları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Web_sayfas%C4%B1)</URL> ve ilgili içeriklerden oluşan bir koleksiyondur. <PossibleEntity>Web</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/World_Wide_Web)</URL> üzerindeki sayfalar; metin, görsel ve animasyon şeklinde ziyaretçisine bilgi aktaran veya hizmet sunan sayfaların tümünü kapsayan bir doküman topluluğudur."
+        },
+        {
+            "id": "İnternet sitesi#2",
+            "sentence": "Ziyaretçiler bir web sitesine, <PossibleEntity>HTTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/HTTP)</URL> veya <PossibleEntity>HTTPS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/HTTPS)</URL> protokollerinde aşağıdaki bileşenlerden oluşan benzersiz bir adresi kullanarak erişirler:"
+        },
+        {
+            "id": "İnternet sitesi#3",
+            "sentence": "Web siteleri genellikle haber, eğitim, ticaret, eğlence veya sosyal ağ oluşturma gibi belirli bir konuya veya amaca adanmıştır."
+        },
+        {
+            "id": "İnternet sitesi#4",
+            "sentence": "Web sayfaları arasındaki <PossibleEntity>köprüler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ba%C4%9Flant%C4%B1_(internet))</URL> , genellikle bir <PossibleEntity>ana sayfayla</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anasayfa_(bili%C5%9Fim))</URL> başlayan sitenin gezinmesine rehberlik eder. Mayıs 2023 itibarıyla en çok ziyaret edilen 5 web sitesi <PossibleEntity>Google Arama</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Arama)</URL> , <PossibleEntity>YouTube</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/YouTube)</URL> , <PossibleEntity>Facebook</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Facebook)</URL> , <PossibleEntity>Twitter</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Twitter)</URL> ve <PossibleEntity>Instagram</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Instagram)</URL> 'dır. Son yıllarda sitelerle paralel <PossibleEntity>Web uygulaması</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Web_uygulamas%C4%B1)</URL> , <PossibleEntity>bilgisayar uygulaması</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar_uygulamas%C4%B1)</URL> ve <PossibleEntity>mobil uygulama</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mobil_uygulama)</URL> 'lar da popülerlik kazandı."
+        },
+        {
+            "id": "İnternet sitesi#5",
+            "sentence": "Bu adres gerekli dosyalara ulaşımı ve sergilenmesi sağlanarak ziyaretçiye görsel sunum şeklinde hizmet verir."
+        },
+        {
+            "id": "İnternet sitesi#6",
+            "sentence": "Ayrıca web siteleri çok güncel kullanılmamasına rağmen özel bir <PossibleEntity>IP adresinden</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IP_adresi)</URL> de sergileme hizmeti verir."
+        },
+        {
+            "id": "İnternet sitesi#7",
+            "sentence": "Herkese açık tüm web siteleri toplu olarak <PossibleEntity>World Wide Web</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/World_Wide_Web)</URL> 'i oluşturur."
+        },
+        {
+            "id": "İnternet sitesi#8",
+            "sentence": "Bir şirketin çalışanlarına yönelik dahili web sitesi gibi, yalnızca özel bir ağ ( <PossibleEntity>intranet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ntranet)</URL> ) üzerinden erişilebilen özel web siteleri de vardır. <PossibleEntity>Kullanıcılar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kullan%C4%B1c%C4%B1)</URL> web sitelerine masaüstü bilgisayarlar, dizüstü bilgisayarlar, tabletler ve akıllı telefonlar dahil olmak üzere çeşitli cihazlardan erişebilir."
+        },
+        {
+            "id": "İnternet sitesi#9",
+            "sentence": "Bu cihazlarda kullanılan uygulamaya <PossibleEntity>web tarayıcısı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Web_taray%C4%B1c%C4%B1s%C4%B1)</URL> denir."
+        },
+        {
+            "id": "İnternet sitesi#10",
+            "sentence": "En popüler site türlerine <PossibleEntity>viki</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Viki)</URL> , <PossibleEntity>web portal</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Web_portal)</URL> , <PossibleEntity>web postası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Web_postas%C4%B1)</URL> , <PossibleEntity>Warez</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Korsan_%C3%BCr%C3%BCn)</URL> , <PossibleEntity>sosyal haber sitesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Sosyal_haber_sitesi&action=edit&redlink=1)</URL> , <PossibleEntity>sosyal ağ hizmetleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sosyal_a%C4%9F_hizmetleri)</URL> , <PossibleEntity>sosyal imleme</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sosyal_imleme)</URL> , <PossibleEntity>şok sitesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C5%9Eok_sitesi)</URL> , <PossibleEntity>arama motoru</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Arama_motoru)</URL> , <PossibleEntity>kişisel web sayfaları</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Ki%C5%9Fisel_web_sayfalar%C4%B1&action=edit&redlink=1)</URL> , <PossibleEntity>haber siteleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Elektronik_gazete)</URL> , <PossibleEntity>internet forumu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_forumu)</URL> , <PossibleEntity>çevrimiçi arkadaşlık servisi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87evrimi%C3%A7i_arkada%C5%9Fl%C4%B1k_servisi)</URL> , <PossibleEntity>istihdam web sitesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0stihdam_web_sitesi)</URL> , <PossibleEntity>tıkla bağışla siteleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C4%B1kla_ba%C4%9F%C4%B1%C5%9Fla_siteleri)</URL> , <PossibleEntity>arşiv sitesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Ar%C5%9Fiv_sitesi&action=edit&redlink=1)</URL> , <PossibleEntity>blog</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Blog)</URL> ve diğer türler dahildir."
+        },
+        {
+            "id": "İnternet sitesi#11",
+            "sentence": "Web sitelerin tarihi 1990'lara dayanmaktadır."
+        },
+        {
+            "id": "İnternet sitesi#12",
+            "sentence": "CERN laboratuvarlarında bilgisayar profesörü olarak çalışan <PossibleEntity>Tim Berners-Lee</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tim_Berners-Lee)</URL> , üniversitelerdeki bilim insanları ve enstitüler arasında bilgi paylaşımı amacıyla 1989 yılında World Wide Web'i icat etmiş, 1990 yılında ise <PossibleEntity>http://info.cern.ch</PossibleEntity> <URL>:(http://info.cern.ch)</URL> 'yi kurmuştur."
+        },
+        {
+            "id": "İnternet sitesi#13",
+            "sentence": "İlk web siteleri 1991'de geliştirilmeye başlandı."
+        },
+        {
+            "id": "İnternet sitesi#14",
+            "sentence": "Daha sonra 30 Nisan 1993'te <PossibleEntity>CERN</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avrupa_N%C3%BCkleer_Ara%C5%9Ft%C4%B1rma_Merkezi)</URL> tarafından <PossibleEntity>WWW</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/World_Wide_Web)</URL> ön eki ile internet kullanıcılarının ulaşabileceği şekle getirildi. 12 Nisan 1993 tarihinde <PossibleEntity>ODTÜ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orta_Do%C4%9Fu_Teknik_%C3%9Cniversitesi)</URL> 'den Ankara-Washington arasında kiralık hat ile Türkiye'de ilk internet bağlantısı gerçekleşti."
+        },
+        {
+            "id": "İnternet sitesi#15",
+            "sentence": "Köprü Metni Aktarım Protokolü'nün ( <PossibleEntity>HTTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/HTTP)</URL> ) kullanıma sunulmasından önce, bir sunucudan tek tek dosyaları almak için <PossibleEntity>dosya aktarım iletişim kuralı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dosya_aktar%C4%B1m_ileti%C5%9Fim_kural%C4%B1)</URL> ve <PossibleEntity>gopher</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Gopher)</URL> gibi diğer protokoller kullanılıyordu."
+        },
+        {
+            "id": "İnternet sitesi#16",
+            "sentence": "Bu protokoller, kullanıcının içinde gezindiği ve indirilecek dosyaları seçtiği basit bir dizin yapısı sunar."
+        },
+        {
+            "id": "İnternet sitesi#17",
+            "sentence": "Belgeler çoğunlukla biçimlendirilmeden düz metin dosyaları olarak sunuldu veya <PossibleEntity>kelime işlemci</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kelime_i%C5%9Flemci)</URL> formatlarında kodlandı."
+        },
+        {
+            "id": "İnternet sitesi#18",
+            "sentence": "Şubat 2009'da, Web'in büyümesini takip eden bir <PossibleEntity>web sitesi izleme</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Web_sitesi_izleme)</URL> şirketi olan <PossibleEntity>Netcraft</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Netcraft&action=edit&redlink=1)</URL> , Ağustos 1995'te yalnızca 19.732 web sitesine kıyasla, 2009'da alan adları ve içerikleri olan 215.675.903 web sitesi bulunduğunu ve Eylül 2014'te 1 milyar web sitesine ulaştığını duyurdu."
+        },
+        {
+            "id": "İnternet sitesi#19",
+            "sentence": "Ocak 2020'deki Netcraft Web Sunucusu Araştırması, 1.295.973.827 web sitesi bulunduğunu ve Nisan 2021'de 264.469.666 benzersiz alanda 1.212.139.815 site bulunduğunu bildirdi."
+        },
+        {
+            "id": "İnternet sitesi#20",
+            "sentence": "Tüm web sitelerinin tahmini yüzde 85'i etkin değildir."
+        },
+        {
+            "id": "İnternet sitesi#21",
+            "sentence": "Bir web sitesi statik veya dinamik olabilir:"
+        },
+        {
+            "id": "İnternet sitesi#22",
+            "sentence": "Statik bir web sitesi, monoton veya az güncellenen sitelerdir."
+        },
+        {
+            "id": "İnternet sitesi#23",
+            "sentence": "İçerik sık bir şekilde değişikliğe uğramaz."
+        },
+        {
+            "id": "İnternet sitesi#24",
+            "sentence": "Genellikle uzun süre değişiklik olmayacak olan sitelerdir."
+        },
+        {
+            "id": "İnternet sitesi#25",
+            "sentence": "Ziyaretçi veya üye katkısı yok denecek kadar azdır."
+        },
+        {
+            "id": "İnternet sitesi#26",
+            "sentence": "Site tamamen siteyi oluşturan kişi tarafından düzenlenebilir."
+        },
+        {
+            "id": "İnternet sitesi#27",
+            "sentence": "Statik web sitesini oluştururken;"
+        },
+        {
+            "id": "İnternet sitesi#28",
+            "sentence": "dilleri kullanılabilir."
+        },
+        {
+            "id": "İnternet sitesi#29",
+            "sentence": "<PossibleEntity>Photoshop</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Adobe_Photoshop)</URL> ve <PossibleEntity>FIREWORKS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Adobe_Fireworks)</URL> gibi görsel grafik editörleri kullanarak mizanpajlar da kullanılarak <PossibleEntity>GIF</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Graphics_Interchange_Format)</URL> , <PossibleEntity>JPEG</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/JPEG)</URL> ve <PossibleEntity>PNG</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Portable_Network_Graphics)</URL> formatlarındaki görsel dokümanlar ile ziyaretçinin tarayıcılarında izlenmesi sağlanır."
+        },
+        {
+            "id": "İnternet sitesi#30",
+            "sentence": "Statik web sayfası/sayfaları, sayfaları oluşturan birey tarafından değiştirilmedikçe herhangi bir güncellemeye maruz kalmayarak en son yapılandırıldığı gibi bilgi veya görsel sunum aktarımı sağlar. <PossibleEntity>PHP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/PHP)</URL> (açılımı Hypertext Preprocessor) sanal programlar geliştirmek için tasarlanmış HTML içine gömülebilen, öğrenimi oldukça kolay bir dildir."
+        },
+        {
+            "id": "İnternet sitesi#31",
+            "sentence": "Web Tasarım konusunda en aktif kullanılan diller arasındadır. <PossibleEntity>ASP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ASP)</URL> (Active Server Pages) yani aktif sunucu sayfalarının <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> kısaltmasıdır."
+        },
+        {
+            "id": "İnternet sitesi#32",
+            "sentence": "Bir <PossibleEntity>Microsoft</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Microsoft)</URL> yazılımıdır. <PossibleEntity>Internet Information Services</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Internet_Information_Services)</URL> altında çalışır."
+        },
+        {
+            "id": "İnternet sitesi#33",
+            "sentence": "Temelinde <PossibleEntity>html</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Html)</URL> dosyaları ile aynıdır."
+        },
+        {
+            "id": "İnternet sitesi#34",
+            "sentence": "Kullanılan kodlar sunucu tarafından derlenerek çalışır hâle getirilir."
+        },
+        {
+            "id": "İnternet sitesi#35",
+            "sentence": "ASP 3.0 bağlantılıdır."
+        },
+        {
+            "id": "İnternet sitesi#36",
+            "sentence": "Dinamik bir web sitesi, her kullanıcı için ya da her ziyarette özel olarak oluşturulabilir."
+        },
+        {
+            "id": "İnternet sitesi#37",
+            "sentence": "Dünya üzerindeki her kullanıcı, bir siteye kendi kullanıcı adıyla girdiğinde diğer kullanıcılardan farklı bir içeriğe erişebilir."
+        },
+        {
+            "id": "İnternet sitesi#38",
+            "sentence": "Bu farklı içerik, web sitesinin renkleri, teması, müzikleri, sitedeki yetki derecesi vb. şeklinde olabilir."
+        },
+        {
+            "id": "İnternet sitesi#39",
+            "sentence": "Günümüz internetindeki popüler siteler dinamik sitelerdir."
+        },
+        {
+            "id": "İnternet sitesi#40",
+            "sentence": "Bu dinamikliği oluşturmak için dünyada kullanılan farklı diller vardır."
+        },
+        {
+            "id": "İnternet sitesi#41",
+            "sentence": "Dinamik bir web sitesinde kullanılabilen dillerden bazıları şunlardır:"
+        },
+        {
+            "id": "İnternet sitesi#42",
+            "sentence": "Sayfaların dinamik, yapımcı veya ziyaretçi tarafından sürekli güncellenebilir olmasını sağlayan bu <PossibleEntity>Web yazılımı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Web_yaz%C4%B1l%C4%B1m%C4%B1)</URL> dilleri; yapımcı ve yazılım dillerinin geliştiricileri tarafından sağlanan yenilikler ile kendilerini geliştirmektedir."
+        },
+        {
+            "id": "İnternet sitesi#43",
+            "sentence": "Microsoft firması tarafından geliştirilen <PossibleEntity>ASP.Net</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ASP.NET)</URL> ve <PossibleEntity>ASP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ASP)</URL> 'nin belli bir kesim tarafından kabul edilip kullanılmasının yanı sıra günümüzde <PossibleEntity>PHP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/PHP)</URL> olarak adlandırılan ve belki de en çok kullanılan betik ve <PossibleEntity>programlama dili</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Programlama_dili)</URL> de bir hayli yaygın olarak kullanılır."
+        },
+        {
+            "id": "İnternet sitesi#44",
+            "sentence": "Sayfalardaki içeriğin dinamikliği için bu kullanılan yazılım dillerine yardımcı ve hatta tüm sayfaların dinamik bir şekilde kullanılmasını sağlayan <PossibleEntity>JavaScript</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/JavaScript)</URL> , <PossibleEntity>JQuery</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/JQuery)</URL> , <PossibleEntity>Flash</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Flash)</URL> , <PossibleEntity>Silverlight</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Microsoft_Silverlight)</URL> gibi gerçek zamanlı veri akışı diller de kullanılabilir."
+        },
+        {
+            "id": "İnternet sitesi#45",
+            "sentence": "2008 yılı başlarında <PossibleEntity>Web 2.0</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Web_2.0)</URL> adlı bir kavram doğmuştur."
+        },
+        {
+            "id": "İnternet sitesi#46",
+            "sentence": "Bu kavram yeni nesil web sitesini ifade eder. Hız ve kodlama olarak çok değişen bir şey olmamakla beraber; renk uyumu, daha zarif geçişler, yuvarlak köşeler, kontrast renklerin bir arada bulunması gibi kombinasyonlarla oluşturulan sitelerdir."
+        },
+        {
+            "id": "İnternet sitesi#47",
+            "sentence": "<PossibleEntity>Web3</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Web3)</URL> veya Web 3.0 uzun yıllardan beri var olmasına rağmen 2020-2021 yılları arasında <PossibleEntity>blockchain</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Blok_zinciri)</URL> teknolojisinin popülerleşmesiyle birlikte oldukça yaygın bir terim haline geldi."
+        },
+        {
+            "id": "İnternet sitesi#48",
+            "sentence": "Birçok internet sitesinin kullandığı bu teknolojinin yakın gelecekte daha da yaygın kullanılması beklenmektedir."
+        }
+    ]
+}

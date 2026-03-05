@@ -1,0 +1,730 @@
+{
+    "Title": "DNS",
+    "Card": {},
+    "Main": [
+        {
+            "id": "DNS#1",
+            "sentence": "DNS ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : Domain Name System , <PossibleEntity>Türkçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)</URL> : Alan Adı Sistemi ), internet <PossibleEntity>uzayını</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Uzay)</URL> bölümlemeye, bölümleri adlandırmaya ve bölümler arası <PossibleEntity>iletişimi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0leti%C5%9Fim)</URL> organize etmeye yarayan, bilgisayar, servis, internet veya özel bir ağa bağlı herhangi bir kaynak için hiyerarşik dağıtılmış bir adlandırma sistemidir."
+        },
+        {
+            "id": "DNS#2",
+            "sentence": "<PossibleEntity>İnternet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> ağını oluşturan her birim sadece kendine ait bir <PossibleEntity>IP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IP_adresi)</URL> adresine sahiptir."
+        },
+        {
+            "id": "DNS#3",
+            "sentence": "Bu IP adresleri kullanıcıların kullanımı için www.site_ismi.com gibi kolay hatırlanır adreslere karşılık düşürülür."
+        },
+        {
+            "id": "DNS#4",
+            "sentence": "DNS sunucuları, internet adreslerinin IP adresi karşılığını kayıtlı tutmaktadır."
+        },
+        {
+            "id": "DNS#5",
+            "sentence": "Katılımcı kuruluşların her birine atanmış alan adları çeşitli bilgileri ilişkilendirir."
+        },
+        {
+            "id": "DNS#6",
+            "sentence": "En belirgin olarak, insanlar tarafından kolayca ezberlenebilen alan adlarını, dünya çapında bilgisayar servisleri ve cihazlar için gerekli sayısal IP adreslerine çevirir (dönüştürür)."
+        },
+        {
+            "id": "DNS#7",
+            "sentence": "DNS, çoğu internet servisinin işlevselliği için temel bir bileşendir, çünkü Internetin temel yönetici servisidir."
+        },
+        {
+            "id": "DNS#8",
+            "sentence": "Alan Adı Sistemi DNS her alan için yetkili ad sunucuları atayarak alan adlarını atama ve bu adların IP adreslerine haritalanması sorumluluğunu verir."
+        },
+        {
+            "id": "DNS#9",
+            "sentence": "Yetkili ad sunucuları desteklenen alanları için sorumlu olmakla görevlidirler ve diğer ad sunucuları yerine alt alanlara yetki (otorite) verebilirler."
+        },
+        {
+            "id": "DNS#10",
+            "sentence": "Bu mekanizma dağıtılmış ve arızaya toleranslı servis sağlar ve tek bir merkezi veritabanına ihtiyacı önlemek için tasarlanmıştır."
+        },
+        {
+            "id": "DNS#11",
+            "sentence": "DNS aynı zamanda özünde (çekirdekte) bulunan <PossibleEntity>veritabanı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Veritaban%C4%B1)</URL> servisinin teknik işlevselliğini de belirtir."
+        },
+        {
+            "id": "DNS#12",
+            "sentence": "DNS protokolünü – DNS'de kullanılan veri yapılarının ve veri iletişim alışverişinin (değiş tokuş) detaylı tanımlaması- İnternet Protocol Suite'in bir parçası olarak tanımlar."
+        },
+        {
+            "id": "DNS#13",
+            "sentence": "Tarihsel olarak DNS' den önceki yönetici servisleri orijinal olarak metin dosyalarına ve belirgin bir şekilde HOSTS.TXT çözücüsüne dayandığı için büyük veya küresel yöneticilere göre ölçeklenebilir değildi."
+        },
+        {
+            "id": "DNS#14",
+            "sentence": "DNS 1980'den bu yana yaygın olarak kullanılır olmuştur."
+        },
+        {
+            "id": "DNS#15",
+            "sentence": "İnternet hiyerarşi alan adı ve İnternet Protokol (IP) adres boşluğu olmak üzere iki ana ad boşluğunu sağlar."
+        },
+        {
+            "id": "DNS#16",
+            "sentence": "DNS sistemi alan adı hiyerarşisi sağlar ve onunla adres boşluğu arasında çeviri servisi sağlar."
+        },
+        {
+            "id": "DNS#17",
+            "sentence": "İnternet adı sunucuları ve iletişim protokolü Domain Name Sistemini etkin kılar."
+        },
+        {
+            "id": "DNS#18",
+            "sentence": "Bir DNS ad sunucusu, alan DNS kayıtlarını alan adı için depolayan bir sunucudur; DNS ad sunucusu veritabanına karşı sorulara cevaplarla karşılık verir."
+        },
+        {
+            "id": "DNS#19",
+            "sentence": "DNS veritabanında depolanan en yaygın kayıt türleri; DNS bölgesinin yetkisi otoritesi (SOA), IP adresleri (A ve AAAA), <PossibleEntity>SMTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/SMTP)</URL> posta değiştiriciler (MX), ad sunucuları (NS), ters DNS aramaları için işaretçiler (PTR) ve alan adı takma isimleridir (CNAME)."
+        },
+        {
+            "id": "DNS#20",
+            "sentence": "Genel amaçlı bir veritabanı olmak için tasarlanmamasına rağmen, DNS diğer veri türleri için DNSSEC kayıtları gibi şeyler için otomatik makine aramalarını ya da Sorumlu kişi (RP) kayıtları gibi insan sorularını da depolayabilir."
+        },
+        {
+            "id": "DNS#21",
+            "sentence": "DNS kayıt türlerinin tam listesi için, DNS kayıt türlerinin listesine bakın."
+        },
+        {
+            "id": "DNS#22",
+            "sentence": "Genel amaçlı veritabanı olarak, DNS veritabanında saklanan gerçek zamanlı kara delik listesi kullanılarak istenmeyen e-posta (Spam) ile mücadelede kullanımında da DNS görülebilir."
+        },
+        {
+            "id": "DNS#23",
+            "sentence": "İnternet adlandırma için veya genel amaçlı kullanımlar için olsun, DNS veritabanı, yapılandırılmış bölge dosyasında geleneksel olarak depolanır."
+        },
+        {
+            "id": "DNS#24",
+            "sentence": "<PossibleEntity>İnternette</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> bulunan her nesnenin, etkileşime giren her sunucu ve ucun bir <PossibleEntity>internet sitesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_sitesi)</URL> olması gerekir."
+        },
+        {
+            "id": "DNS#25",
+            "sentence": "Bu adres, <PossibleEntity>protokol</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0leti%C5%9Fim_protokol%C3%BC)</URL> seviyesinin <PossibleEntity>IPv4</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPv4)</URL> ve <PossibleEntity>IPv6</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPv6)</URL> olmasına göre 32 <PossibleEntity>bit</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bit_(bili%C5%9Fim))</URL> ya da 128 bit uzunluğundadır."
+        },
+        {
+            "id": "DNS#26",
+            "sentence": "Alan adı, bu 32 ya da 128 bit uzunluğundaki sayı yerine insanların anlayacağı, akılda tutacağı, <PossibleEntity>kurumsal kimlik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kurumsal_kimlik)</URL> ve <PossibleEntity>marka</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Marka)</URL> ile özdeşleştirebileceği isimlerin kullanılmasını sağlar."
+        },
+        {
+            "id": "DNS#27",
+            "sentence": "Örneğin tr.wikipedia.org alan adı ile 207.142.131.210 şeklindeki <PossibleEntity>IP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IP_adresi)</URL> nosu arasındaki bağlantıyı Alan Adı Sistemi sağlar."
+        },
+        {
+            "id": "DNS#28",
+            "sentence": "Sırayla; <PossibleEntity>org</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Org)</URL> , <PossibleEntity>wikipedia.org</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Wikipedia.org)</URL> ve <PossibleEntity>tr.wikipedia.org</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tr.wikipedia.org)</URL> iç içe geçmiş İnternet alanları ya da bölmeleridir."
+        },
+        {
+            "id": "DNS#29",
+            "sentence": "İnsan dostu bilgisayar sistem adlarını IP adreslerine çevirerek İnternet için telefon rehberi hizmeti sunan sitem, DNS'i tanımlamak için sıkça kullanılan bir benzetmedir."
+        },
+        {
+            "id": "DNS#30",
+            "sentence": "Mesela, alan adı www.example.com, 93.184.216.119 (IPv4) ve 2606:2800:220:6d:26bf:1447:1097:aa7 (IPv6) adreslerine çevrilir."
+        },
+        {
+            "id": "DNS#31",
+            "sentence": "Bir telefon rehberi aksine DNS aynı ana bilgisayar adını kullanmaya devam eden son kullanıcıları etkilemeden ağdaki servisin konumunun değişmesine izin vererek çabuk bir şekilde güncellenebilir."
+        },
+        {
+            "id": "DNS#32",
+            "sentence": "Kullanıcılar anlamlı bir Değişmeyen Kaynak Konum Belirleyici ( <PossibleEntity>URL</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/URL)</URL> ) ve bilgisayarın servisleri nasıl yerleştirdiğini bilmek zorunda kalmadan e-mail adresi kullandıklarında bundan avantaj sağlarlar."
+        },
+        {
+            "id": "DNS#33",
+            "sentence": "Alan Adı Sistemi'nin yarattığı ilişkiler birebir ilişki olmak zorunda değildir."
+        },
+        {
+            "id": "DNS#34",
+            "sentence": "Bir alan adına birden fazla IP adresi atanabilir."
+        },
+        {
+            "id": "DNS#35",
+            "sentence": "Bu yoğun talep olan hallerde geçerlidir."
+        },
+        {
+            "id": "DNS#36",
+            "sentence": "Wikipedia.org, <PossibleEntity>yahoo</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yahoo)</URL> .com, <PossibleEntity>google</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google)</URL> .com gibi adreslerde bu çok olur. Ama daha yaygını, birçok alan adı tek bir IP'ye atanabilir."
+        },
+        {
+            "id": "DNS#37",
+            "sentence": "Buna da \" <PossibleEntity>Sanal Evsahipliği</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Virtual_hosting)</URL> \" (Virtual Hosting) denir."
+        },
+        {
+            "id": "DNS#38",
+            "sentence": "Alan Adı Sistemi hiyerarşik bir yapı gösterir."
+        },
+        {
+            "id": "DNS#39",
+            "sentence": "En üste <PossibleEntity>.com</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.com)</URL> , <PossibleEntity>.org</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.org)</URL> , <PossibleEntity>.net</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.net)</URL> , <PossibleEntity>.int</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.int)</URL> , <PossibleEntity>.edu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.edu)</URL> , <PossibleEntity>.info</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.info)</URL> , <PossibleEntity>.biz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.biz)</URL> , <PossibleEntity>.aero</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.aero)</URL> , <PossibleEntity>.travel</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=.travel&action=edit&redlink=1)</URL> , <PossibleEntity>.jobs</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=.jobs&action=edit&redlink=1)</URL> , <PossibleEntity>.gov</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gov)</URL> , <PossibleEntity>.mil</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mil)</URL> gibi \" <PossibleEntity>jenerik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Jenerik)</URL> \" üst düzey alanlarla ( <PossibleEntity>gTLD</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/GTLD)</URL> ) <PossibleEntity>.tr</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tr)</URL> , <PossibleEntity>.us</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.us)</URL> , <PossibleEntity>.de</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.de)</URL> , <PossibleEntity>.uk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.uk)</URL> , <PossibleEntity>.jp</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.jp)</URL> , <PossibleEntity>.az</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.az)</URL> gibi ülke alanlarından ( <PossibleEntity>CcTLD</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_%C3%BClke_%C3%BCst_seviye_alan_ad%C4%B1)</URL> ) oluşur."
+        },
+        {
+            "id": "DNS#40",
+            "sentence": "Buna son olarak <PossibleEntity>.eu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.eu)</URL> ve <PossibleEntity>.asia</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.asia)</URL> gibi bölgesel birkaç üst düzey alan adı daha eklenmiştir."
+        },
+        {
+            "id": "DNS#41",
+            "sentence": "Bilgisayar ağları üzerindeki isimlendirme sorunu ilk olarak internetin babası sayılan <PossibleEntity>Arpanet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ARPANET)</URL> zamanında ortaya çıkmıştır. 1970'lerde ArpaNet günümüz ağları ile karşılaştırılamayacak kadar küçük durumdaydı ve yalnızca birkaç yüz ile ifade edilebilen sisteme hizmet veriyordu."
+        },
+        {
+            "id": "DNS#42",
+            "sentence": "Bu tarihlerde isimlendirme için tek noktada tutulan bir dosyanın bulunması ve diğer tüm sistemlerin bu dosyayı belli aralıklarla kendi taraflarında güncellemesi isimlendirme sorununu çözmüştü."
+        },
+        {
+            "id": "DNS#43",
+            "sentence": "Adres-isim tanımlamalarını içeren HOSTS.TXT dosyası SRI tarafından SRI-NIC (Stanford Research Institute – Network Information Center) adında bir bilgisayar üzerinde tutulmaktaydı."
+        },
+        {
+            "id": "DNS#44",
+            "sentence": "Bu dosya her adrese bir isim karşılık gelecek şekilde düzenlenmişti. <PossibleEntity>Arpanet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ARPANET)</URL> üzerindeki yeni isim tanımlamaları ve değişiklikleri SRI'ya gönderilen e-postalar arcılığı ile yapılıyor ve HOSTS.TXT' in kopyası <PossibleEntity>File Transfer Protocol</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dosya_aktar%C4%B1m_ileti%C5%9Fim_kural%C4%B1)</URL> ile alınıyordu."
+        },
+        {
+            "id": "DNS#45",
+            "sentence": "<PossibleEntity>Arpanet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ARPANET)</URL> üzerinde <PossibleEntity>TCP/IP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_ileti%C5%9Fim_kurallar%C4%B1_dizisi)</URL> kullanımına paralel olarak ortaya çıkan bağlantı patlaması, isim çözümü için birçok sunucuda ve her bilgisayara özgün bir isim atanmasında problemler yaşanmaktaydı."
+        },
+        {
+            "id": "DNS#46",
+            "sentence": "Ayrıca yalnızca isim çözümlenmesi için oldukça yüksek miktarda <PossibleEntity>bant genişliği</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bant_geni%C5%9Fli%C4%9Fi)</URL> harcanmaktaydı."
+        },
+        {
+            "id": "DNS#47",
+            "sentence": "Buna rağmen kullanılan isim veritabanlarının uyumlu olması her zaman sağlanamamaktaydı."
+        },
+        {
+            "id": "DNS#48",
+            "sentence": "Bu durumun ortaya çıkmasından sonra <PossibleEntity>Arpanet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ARPANET)</URL> daha ölçeklenebilir bir isim çözümleme yapısı için araştırmalara başladı. <PossibleEntity>Paul Mockapetris</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Paul_Mockapetris&action=edit&redlink=1)</URL> bu işle görevlendirildi."
+        },
+        {
+            "id": "DNS#49",
+            "sentence": "Mockapetris 1984 yılında Domain Name System (DNS)’i tanımlayan <PossibleEntity>RFC 882</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc882)</URL> ve <PossibleEntity>RFC 883</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc883)</URL> ’ü yayınladı."
+        },
+        {
+            "id": "DNS#50",
+            "sentence": "Bunlar daha sonra hâlen geçerli olan <PossibleEntity>RFC 1034</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc1034)</URL> ve <PossibleEntity>RFC 1035</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc1035)</URL> tarafından güncellendiler."
+        },
+        {
+            "id": "DNS#51",
+            "sentence": "Alan Adı Sistemi (DNS), internet üzerindeki kaynakları adlandırmak ve bulmak için <PossibleEntity>hiyerarşik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hiyerar%C5%9Fi)</URL> ve <PossibleEntity>dağıtık</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Da%C4%9F%C4%B1t%C4%B1k_hesaplama)</URL> bir yapıya sahiptir."
+        },
+        {
+            "id": "DNS#52",
+            "sentence": "Bu yapı, genellikle kökü en tepede olan ters bir <PossibleEntity>ağaç</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C4%9Fa%C3%A7_(veri_yap%C4%B1s%C4%B1))</URL> (tree) modeline benzetilir ve internetin devasa <PossibleEntity>alan adı boşluğunu</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Alan_ad%C4%B1_bo%C5%9Flu%C4%9Fu&action=edit&redlink=1)</URL> yönetilebilir parçalara (bölgelere veya \"zone\"lara) ayırır."
+        },
+        {
+            "id": "DNS#53",
+            "sentence": "Her bir bölge, kendi yetkili isim sunucuları (authoritative name servers) tarafından yönetilir ve bu sunucular, o bölgeye ait kaynak kayıtlarını (resource records) tutar."
+        },
+        {
+            "id": "DNS#54",
+            "sentence": "Hiyerarşi şu temel seviyelerden oluşur:"
+        },
+        {
+            "id": "DNS#55",
+            "sentence": "Genel ve Özel DNS kullanımı arasında ayrım yapmak önemlidir."
+        },
+        {
+            "id": "DNS#56",
+            "sentence": "Çoğu durumda kullanıcılar, ana bilgisayar adlarını IP adreslerine dönüştürürken genel DNS'ye güvenir."
+        },
+        {
+            "id": "DNS#57",
+            "sentence": "İşte bu sürecin nasıl çalıştığına dair üst düzey genel bir bakış açısı şu şekildedir:"
+        },
+        {
+            "id": "DNS#58",
+            "sentence": "DNS, İnternet'in temel işlevleri için kritik hale geldi ve kullanıcıların kaynak kayıtları yoluyla bir IP adresleri denizinde kolayca gezinmesine yardımcı oldu. Bu temel süreçler olmadan, günlük olarak kullandığımız tüm özellikleri çevrimiçi olarak desteklemek neredeyse imkansız olurdu ve posta hizmetleri, web sitesi yönlendirmeleri veya karmaşık IPv4 ve IPv6 web adreslerini tanıma söz konusu olduğunda yeteneklerimizi sınırlardı."
+        },
+        {
+            "id": "DNS#59",
+            "sentence": "Ancak DNS aramalarını bu kadar harika yapan şey, süreç ne kadar karmaşık olursa olsun, tüm arama sorgularının ve sunucu yönlendirmelerinin istemci tarafını etkilemeden yalnızca milisaniyeler içinde gerçekleşmesidir."
+        },
+        {
+            "id": "DNS#60",
+            "sentence": "Web Uygulamalarının DNS Trafiği ile Yönlendirilmesi"
+        },
+        {
+            "id": "DNS#61",
+            "sentence": "İki tür DNS mesajıyla gerçekleştirilir:"
+        },
+        {
+            "id": "DNS#62",
+            "sentence": "Format, her iki mesaj türü için de benzerdir."
+        },
+        {
+            "id": "DNS#63",
+            "sentence": "Bilgiler, DNS mesaj biçiminin en fazla beş farklı bölümünde tutulur."
+        },
+        {
+            "id": "DNS#64",
+            "sentence": "Sorgu mesajı, başlık ve soru kayıtları olmak üzere iki bölüme sahiptir."
+        },
+        {
+            "id": "DNS#65",
+            "sentence": "Yanıt mesajı beş bölümden oluşur:"
+        },
+        {
+            "id": "DNS#66",
+            "sentence": "Sorgu mesajları iki alana ayrılmıştır, bu alanlar:"
+        },
+        {
+            "id": "DNS#67",
+            "sentence": "Bayraklar alanının her bir alt alanının açıklaması şu şekildedir:"
+        },
+        {
+            "id": "DNS#68",
+            "sentence": "DNS kaynak kayıtları, bir alan adının DNS sunucusunda depolanan ve alan adının isminin bir IP adresine çevrilmesinde kullanılan kayıtlardır."
+        },
+        {
+            "id": "DNS#69",
+            "sentence": "Bu kaynak kayıtları, bir alan adının doğru bir şekilde yönlendirilmesini ve düzgün bir şekilde çalışmasını sağlamak için önemlidir."
+        },
+        {
+            "id": "DNS#70",
+            "sentence": "DNS kaynak kayıtlarının yanlış yapılandırılması, web sitelerinin düzgün çalışmasını engelleyebilir veya e-posta gönderim sorunlarına neden olabilir."
+        },
+        {
+            "id": "DNS#71",
+            "sentence": "Avi Vantage, sorguda ECS seçeneği yoksa bir DNS sorgusuna ECS seçeneğinin eklenmesini destekler."
+        },
+        {
+            "id": "DNS#72",
+            "sentence": "DNS sorgusunda halihazırda bir ECS seçeneği varsa, ECS seçeneğinin güncellenmesini destekler."
+        },
+        {
+            "id": "DNS#73",
+            "sentence": "Avi Vantage, sorguda ECS seçeneği yoksa bir DNS sorgusuna ECS seçeneğinin eklenmesini destekler."
+        },
+        {
+            "id": "DNS#74",
+            "sentence": "DNS sorgusunda halihazırda bir ECS seçeneği varsa, ECS seçeneğinin güncellenmesini destekler."
+        },
+        {
+            "id": "DNS#75",
+            "sentence": "Alan Adı Sistemi ilk geliştirildiğinden beri gerekli geliştirmelere sahiptir."
+        },
+        {
+            "id": "DNS#76",
+            "sentence": "Temel DNS protokolünde bulunan çeşitli bayrak alanlarının, dönüş kodlarının ve etiket türlerinin boyutundaki kısıtlamalar, yeni bayraklara ve yanıt kodlarına izin vermek ve daha uzun yanıtlar için destek sağlamak için DNS'yi geriye dönük uyumlu bir şekilde genişletmeyi motive etti. 1999'dan bu yana, DNS için uzantı mekanizmaları (EDNS) bu zorluğun üstesinden gelmek için benimsenen yaklaşım olmuştur."
+        },
+        {
+            "id": "DNS#77",
+            "sentence": "DNS dinamik bölge güncellemeleri, bir DNS sunucusundaki kayıtların otomatik olarak güncellenmesine izin verir."
+        },
+        {
+            "id": "DNS#78",
+            "sentence": "Bu özellik, ağdaki cihazlar (örneğin, bilgisayarlar, telefonlar, yazıcılar vb.) IP adreslerini değiştirdiğinde veya yeni cihazlar eklendiğinde, DNS kayıtlarını güncellemek için kullanılır."
+        },
+        {
+            "id": "DNS#79",
+            "sentence": "Bu sayede ağ yöneticileri, her bir cihazın IP adresi değiştiğinde manuel olarak DNS kayıtlarını güncellemek zorunda kalmazlar."
+        },
+        {
+            "id": "DNS#80",
+            "sentence": "Bu işlem otomatik olarak gerçekleştirildiği için, ağ yöneticileri zamanlarını daha verimli bir şekilde kullanabilirler."
+        },
+        {
+            "id": "DNS#81",
+            "sentence": "Dinamik DNS Güncellemelerini Destekleyen İstemci Uygulamaları"
+        },
+        {
+            "id": "DNS#82",
+            "sentence": "Dinamik DNS Güncellemelerinin Güvenliğini Artırmak İçin Yapabileceğiniz İşlemler"
+        },
+        {
+            "id": "DNS#83",
+            "sentence": "Yapılandırma Aşağıdaki Genel Adımlardan Oluşur"
+        },
+        {
+            "id": "DNS#84",
+            "sentence": "Bir DNS Sağlayıcısından Diğerine Geçiş Yapma Yöntemi"
+        },
+        {
+            "id": "DNS#85",
+            "sentence": "DNS hizmeti, web sitenize web ziyaretçileri tarafından erişilebilmesini sağlayan temel araçlardan biridir."
+        },
+        {
+            "id": "DNS#86",
+            "sentence": "Düzgün çalışan bir DNS hizmeti olmadan, web sitenizin internetteki varlığını bilmeden kapatma riski çok yüksektir."
+        },
+        {
+            "id": "DNS#87",
+            "sentence": "Ve bu endişe DNS geçişi sırasında daha da kritik hale geliyor."
+        },
+        {
+            "id": "DNS#88",
+            "sentence": "DNS geçişi, mevcut bir DNS bölgesini bir DNS sağlayıcısından diğerine aktarma işlemidir."
+        },
+        {
+            "id": "DNS#89",
+            "sentence": "DNS, web sitenizin internet varlığını koruyan yapıştırıcıdır, bu nedenle büyük değişikliklerin her zaman dikkatli bir şekilde yürütülmesi gerekir."
+        },
+        {
+            "id": "DNS#90",
+            "sentence": "Yukarıdaki genel adımları izleyerek, DNS bölgenizi yeni DNS sağlayıcınıza başarıyla geçirebilir ve aynı zamanda kesinti sürelerini veya işinizde herhangi bir aksaklığı önleyebilirsiniz."
+        },
+        {
+            "id": "DNS#91",
+            "sentence": "Not: Farklı DNS sağlayıcılarının, ad sunucularının kayıt şirketinden nasıl düzenleneceği konusunda farklı önerileri vardır."
+        },
+        {
+            "id": "DNS#92",
+            "sentence": "Daha sorunsuz bir geçiş için belirtilen adımlarını izlemeniz önerilir."
+        },
+        {
+            "id": "DNS#93",
+            "sentence": "Bunu yapmanın başka bir yolu da, NS kaydının ttl(yaşama süresi)'sini ayarladıktan sonra veya yeni kayıt şirketi kaydının yürürlüğe girmesinden SONRA yalnızca geçerli DNS sağlayıcınızın eski ad sunucularını silerken, yeni ad sunucularını yeni DNS sağlayıcınızdan eklemektir."
+        },
+        {
+            "id": "DNS#94",
+            "sentence": "Bu, bazen DNS sunucularının eski ad sunucularına sahip DNS verilerini önbelleğe alabileceği, dolayısıyla istekleri eski ad sunucusuna yönlendirebileceği yaygın bir DNS hizmeti sorununu önlemek için yapılır."
+        },
+        {
+            "id": "DNS#95",
+            "sentence": "Eski ad sunucuları kayıt şirketinden zaten silinmişse, bölge dosyalarınız artık orada olmadığı için DNS isteği başarısız olur."
+        },
+        {
+            "id": "DNS#96",
+            "sentence": "DNS Aktarım Protokolü"
+        },
+        {
+            "id": "DNS#97",
+            "sentence": "DNS, DNS sorgularını sunmak için 53 numaralı bağlantı noktasında Kullanıcı Datagram Protokolü'nü (UDP) kullanır."
+        },
+        {
+            "id": "DNS#98",
+            "sentence": "UDP, hızlı ve yükü düşük olduğu için tercih edilir."
+        },
+        {
+            "id": "DNS#99",
+            "sentence": "DNS sorgusu, DNS istemcisinden gelen tek bir UDP isteği ve ardından sunucudan gelen tek bir UDP yanıtıdır."
+        },
+        {
+            "id": "DNS#100",
+            "sentence": "Bir DNS yanıtı 512 bayttan büyükse veya bir DNS sunucusu bölge aktarımları (DNS kayıtlarını birincilden ikincil DNS sunucusuna aktarma) gibi görevleri yönetiyorsa, veri bütünlüğü kontrollerini etkinleştirmek için UDP yerine İletim Kontrol Protokolü (TCP) kullanılır."
+        },
+        {
+            "id": "DNS#101",
+            "sentence": "DNS güvenliği, hızı ve güvenilirliği korumak ve siber saldırıların feci etkilerini önlemek amacıyla DNS altyapısını siber tehditlerden korumak için oluşturulan tüm prosedürleri ifade eder."
+        },
+        {
+            "id": "DNS#102",
+            "sentence": "En yaygın DNS saldırı türleri"
+        },
+        {
+            "id": "DNS#103",
+            "sentence": "DNS Güvenlik Uzantıları (DNSSEC )"
+        },
+        {
+            "id": "DNS#104",
+            "sentence": "DNS protokol standartlarından sorumlu kuruluş olan İnternet Mühendisliği Görev Gücü'ndeki'ndeki (IETF ) mühendisler, DNS'de daha güçlü kimlik doğrulamasının olmamasının bir sorun olduğunu uzun süredir fark ettiler."
+        },
+        {
+            "id": "DNS#105",
+            "sentence": "Çözüm üzerindeki çalışmalar 1990'larda başladı ve sonuç DNSSEC Güvenlik Uzantıları (DNSSEC ) oldu."
+        },
+        {
+            "id": "DNS#106",
+            "sentence": "DNSSEC, ortak anahtar şifrelemesine dayalı dijital imzalar kullanarak DNS'de kimlik doğrulamasını güçlendirir."
+        },
+        {
+            "id": "DNS#107",
+            "sentence": "DNSSEC ile, kriptografik olarak imzalanan DNS sorguları ve yanıtları değil, verilerin sahibi tarafından imzalanan DNS verileridir."
+        },
+        {
+            "id": "DNS#108",
+            "sentence": "Her DNS bölgesinin bir genel/özel anahtar çifti vardır."
+        },
+        {
+            "id": "DNS#109",
+            "sentence": "Bölge sahibi, bölgedeki DNS verilerini imzalamak ve bu veriler üzerinden dijital imzalar oluşturmak için bölgenin özel anahtarını kullanır. \"Özel anahtar\" adından da anlaşılacağı gibi, bu anahtar materyal bölge sahibi tarafından gizli tutulur."
+        },
+        {
+            "id": "DNS#110",
+            "sentence": "Bununla birlikte, bölgenin genel anahtarı herkesin alması için bölgenin kendisinde yayınlanır."
+        },
+        {
+            "id": "DNS#111",
+            "sentence": "Bölgedeki verileri arayan herhangi bir özyinelemeli çözümleyici, DNS verilerinin gerçekliğini doğrulamak için kullandığı bölgenin ortak anahtarını da alır. Çözümleyici, aldığı DNS verileri üzerinden dijital imzanın geçerli olduğunu onaylar."
+        },
+        {
+            "id": "DNS#112",
+            "sentence": "Eğer öyleyse, DNS veriler yasaldır ve kullanıcıya iade edilir."
+        },
+        {
+            "id": "DNS#113",
+            "sentence": "İmza doğrulanmazsa, çözümleyici bir saldırı varsayar, verileri atar ve kullanıcıya bir hata döndürür."
+        },
+        {
+            "id": "DNS#114",
+            "sentence": "DNSSEC, DNS protokolüne iki önemli özellik ekler"
+        },
+        {
+            "id": "DNS#115",
+            "sentence": "Etki Alanı Adı Sistemi (DNS), orijinal olarak kullanıcı gizliliği dikkate alınmadan geliştirilmiştir ve bu nedenle, belirli ağ etkinliğiyle (ör. kullanılan uygulamalar, ziyaret edilen web siteleri, iletişim kurulan kişiler vb.) ilişkilendirilebilecek DNS sorguları ve yanıtları hakkında bilgi sızdırabilir)."
+        },
+        {
+            "id": "DNS#116",
+            "sentence": "Kapsamlı izleme, protokol geliştirmede önemli bir endişe haline geldiğinden, önemli İnternet protokollerinin gizlilik özelliklerini iyileştirmeyi amaçlayan bir dizi çaba gösterilmiştir. “DNS Gizliliği”, Alan Adı Sisteminde son zamanlarda yapılan gizlilik iyileştirmelerini ifade eder."
+        },
+        {
+            "id": "DNS#117",
+            "sentence": "DNS Gizliliğinin Etkileri"
+        },
+        {
+            "id": "DNS#118",
+            "sentence": "Trafiğinizin HTTPS üzerinden aktığı durumlarda bile, DNS sorgunuz gözlemlenebilir ve kolayca okunabilir."
+        },
+        {
+            "id": "DNS#119",
+            "sentence": "Saldırganlar, DNS trafiğini gözlemleyerek, ziyaret ettiğiniz web sitelerine dayalı olarak, bu web sitelerindeki eylemleriniz şifrelenmiş olsa bile, sizin hakkınızda önemli bilgiler elde edebilir."
+        },
+        {
+            "id": "DNS#120",
+            "sentence": "İSS'ler, DNS trafiğinizi gözlemleme yeteneğine sahiptir ve İSS'nizin DNS sunucusunu varsayılan DNS sunucunuz olarak kullanırsanız hatalı davranış riski daha da artar."
+        },
+        {
+            "id": "DNS#121",
+            "sentence": "Gözlemlenebilir sorgu içerikleri, hükûmetin içeriği birçok nedenden dolayı sansürlemesine neden olabilir."
+        },
+        {
+            "id": "DNS#122",
+            "sentence": "DNS Güvenliğini Çözme – DNSSEC Genel Bakış"
+        },
+        {
+            "id": "DNS#123",
+            "sentence": "Etki Alanı Adı Sistemi Güvenlik Uzantıları (DNSSEC), geriye dönük uyumluluğu korurken özgünlük ve bütünlük sağlamayı amaçlar."
+        },
+        {
+            "id": "DNS#124",
+            "sentence": "DNSSEC uyumlu sunucuların yanıtları her düzeyde (root, TLD vb.) dijital olarak imzalanır."
+        },
+        {
+            "id": "DNS#125",
+            "sentence": "Cevapları inceleyerek ve imzaları doğrulayarak bir güven zinciri kurulabilir."
+        },
+        {
+            "id": "DNS#126",
+            "sentence": "Kimlik doğrulama zincirini tamamlamak için, DNS dışındaki bir kaynaktan, örneğin işletim sistemi veya başka yollarla elde edilen bir güven çapası gerekir."
+        },
+        {
+            "id": "DNS#127",
+            "sentence": "DNSSEC'nin çalışması için çözüm yolundaki her DNS sunucusunun doğru şekilde yapılandırılması gerekir."
+        },
+        {
+            "id": "DNS#128",
+            "sentence": "Bu, yanıtın dijital imzasını içeren RRSIG gibi yeni DNS kayıt türlerinin kullanılmasını gerektirir."
+        },
+        {
+            "id": "DNS#129",
+            "sentence": "İmzaların eklenmesi, sunucuların anahtarları (Bölge İmzalama Anahtarı ve Anahtar İmzalama Anahtarı) işlemesi gerektiği anlamına gelir ve ekstra görevler, sunucunun kendisinde ek yük anlamına gelir. internetsociety.org'da birden fazla DNSSEC istatistiği mevcuttur, bunlar size DNSSEC'nin şu anda ne kadar yaygın olduğu hakkında bir fikir vermelidir."
+        },
+        {
+            "id": "DNS#130",
+            "sentence": "Gizliliği Çözme – TLS Üzerinden DNS"
+        },
+        {
+            "id": "DNS#131",
+            "sentence": "DNS over TLS (DoT), şifrelenmiş DNS trafiğini kullanarak gizlilikle ilgili kaygıları ortadan kaldırmayı amaçlar."
+        },
+        {
+            "id": "DNS#132",
+            "sentence": "Bağlantı iyi bilinen bir bağlantı noktası (RFC7858'e göre varsayılan olarak 853 bağlantı noktası) üzerinden kurulur, istemciler ve sunucular birbirlerinin bir TLS oturumu üzerinde anlaşmasını bekler ve ardından gelen trafik şifrelenir."
+        },
+        {
+            "id": "DNS#133",
+            "sentence": "Doğal olarak, DNS sunucusuna güven tesis edilmelidir."
+        },
+        {
+            "id": "DNS#134",
+            "sentence": "Sunucunun TLS sertifikası, istemci tarafından, örneğin, saklanan bir değere karşı sertifikanın hash'ini kontrol ederek doğrulanmalıdır."
+        },
+        {
+            "id": "DNS#135",
+            "sentence": "DoT'nin piyasaya sürülmesi kademelidir, bazı isim sunucuları henüz bunları desteklememektedir."
+        },
+        {
+            "id": "DNS#136",
+            "sentence": "DoT'nin ayrı bir bağlantı noktası kullandığından, belirli ortamlarda bayraklara neden olabilecek DNS sorguları için kullandığınız açık olacaktır."
+        },
+        {
+            "id": "DNS#137",
+            "sentence": "Son yıllarda IETF, DNS gizliliğini iyileştirmek için şifreleme ve kimlik doğrulama için üç protokol üretti:"
+        },
+        {
+            "id": "DNS#138",
+            "sentence": "DoT: TLS üzerinden DNS, şifreleme yoluyla gizlilik sağlamak için DoT kullanımını belirten, RFC (yorum talebi) 7858'de tanımlanan standartları takip eden bir protokoldür."
+        },
+        {
+            "id": "DNS#139",
+            "sentence": "DoD: <PossibleEntity>RFC 8094</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc8094)</URL> 'te tanımlanan deneysel bir protokol, Datagram Aktarım Katmanı Güvenliği üzerinden DNS, TLS'nin TCP trafiğini koruma yöntemine benzer şekilde, Kullanıcı Datagram Protokolü trafiğini korumak için DTLS protokolüne dayanır."
+        },
+        {
+            "id": "DNS#140",
+            "sentence": "DoH: <PossibleEntity>RFC 8484</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc8484)</URL> 'te tanımlanan başka bir standart izleme protokolü olan HTTPS üzerinden DNS, TLS üzerinden HTTP trafiği gönderme protokolünü tanımlayan HTTP Güvenli protokolü üzerinden DNS sorguları ve yanıtları göndermek için bir mekanizma sağlar."
+        },
+        {
+            "id": "DNS#141",
+            "sentence": "DNS; mail sunucuları, domain isimleri ve IP adresleri gibi bilgileri tutan hiyerarşik bir yapıdır."
+        },
+        {
+            "id": "DNS#142",
+            "sentence": "Bir DNS istemcisi, ad çözümlemesi yapmak için DNS sunucularını sorgular."
+        },
+        {
+            "id": "DNS#143",
+            "sentence": "DNS hizmetleri; kullanıcının girdiği bir DNS adını çözüp, IP adresi gibi o ad ile ilişkili bilgileri oluşturur."
+        },
+        {
+            "id": "DNS#144",
+            "sentence": "DNS sorgulaması yapmadan önce yapılan bir tarama sonucunda, DNS bilgileri 'name servers(NS)' ya da 'domain servers' olarak görülür."
+        },
+        {
+            "id": "DNS#145",
+            "sentence": "Bu bilgilerin erişiminden sonra DNS sorgulamasıyla daha fazla bilgiye ulaşılır."
+        },
+        {
+            "id": "DNS#146",
+            "sentence": "Yanlış yapılandırılmış bir DNS sunucusu sonucunda 'Bölge Transferi(Zone Transfer)' olarak bilinen atak yapılabilir."
+        },
+        {
+            "id": "DNS#147",
+            "sentence": "Bölge transferi ile DNS sorgusu yapılan hedefle ilgili birçok bilgiye ulaşılabilir."
+        },
+        {
+            "id": "DNS#148",
+            "sentence": "Bölge transferi; DNS sunucusunun çalıştığı domain ile ilgili bütün verileri içerir."
+        },
+        {
+            "id": "DNS#149",
+            "sentence": "Bu önemli bilgilerin içinde e-posta sunucusunun ismi, IP adresi, kullanılan işletim sistemi ile ilgili bilgiler vardır."
+        },
+        {
+            "id": "DNS#150",
+            "sentence": "Bölge transferlerine karşı bir önlem olarak <PossibleEntity>güvenlik duvarında</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCvenlik_duvar%C4%B1)</URL> (firewall) veya ağ geçitlerindeki <PossibleEntity>yönlendiricilerde</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Y%C3%B6nlendirici)</URL> 53 numaralı <PossibleEntity>TCP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/TCP)</URL> portu gelen tüm yetkisiz bağlantılara karşı kapalı tutulmalıdır."
+        },
+        {
+            "id": "DNS#151",
+            "sentence": "DNS sorgulamasından bir korunma yöntemi olarak alan adı bir domain değilse, -.tr uzantısı ile sonlanmıyorsa 'private domain' haline getirmek bazı tehlikelerden korur."
+        },
+        {
+            "id": "DNS#152",
+            "sentence": "Private domain olan alan adlarında kişisel bilgiler 'Private' halini alır. Yani gerçek bilgiler gizlenir."
+        },
+        {
+            "id": "DNS#153",
+            "sentence": "Ama private domain her domain sağlayıcıda yoktur."
+        },
+        {
+            "id": "DNS#154",
+            "sentence": "Bu isimlere yakın zaman önce biz gibi uzantılar da eklenmiştir."
+        },
+        {
+            "id": "DNS#155",
+            "sentence": "Alan isimleri, ağaç yapısı denilen ve belli bir kurala göre dallanan bir yapıda kullanılmaktadır."
+        },
+        {
+            "id": "DNS#156",
+            "sentence": "Amerika Birleşik Devletleri haricinde, internete bağlı olan tüm ülkelerdeki adresler, o ülkenin ISO3166 ülkekodu ile bitmektedir."
+        },
+        {
+            "id": "DNS#157",
+            "sentence": "Türkiye'deki tüm alt alan adresleri, .tr ile bitmektedir."
+        },
+        {
+            "id": "DNS#158",
+            "sentence": "Örneğin; marine.ulakbim.gov.tr adresinde;"
+        },
+        {
+            "id": "DNS#159",
+            "sentence": "Bir alan adı kayıt kuruluşu, alan adlarının rezervasyonunu ve bu alan adları için IP adreslerinin atanmasını yöneten bir işletmedir."
+        },
+        {
+            "id": "DNS#160",
+            "sentence": "Alan adları, web sitelerine erişmek için kullanılan alfasayısal takma adlardır; örneğin, Cloudflare'nin alan adı 'cloudflare.com'dur ve IP adresi 192.0.2.1 gibi bir şey olabilir (yalnızca bir örnek)."
+        },
+        {
+            "id": "DNS#161",
+            "sentence": "Alan adları, alfanümerik IP adreslerini ezberlemek ve girmek zorunda kalmadan web sitelerine erişmeyi kolaylaştırır."
+        },
+        {
+            "id": "DNS#162",
+            "sentence": "Kayıt şirketlerinin alan adlarını fiilen yönetmediği ve korumadığına dikkat edilmelidir; bu kısım bir alan adı kaydı tarafından yapılır."
+        },
+        {
+            "id": "DNS#163",
+            "sentence": "Kayıt Yaptırıcısı (Registrar) ve Kayıt Defteri (Registry) Arasındaki Fark"
+        },
+        {
+            "id": "DNS#164",
+            "sentence": "Registries, 'com' ve 'net' gibi üst düzey alan adlarının (TLD'ler) kayıtlarını, hangi bireysel alan adlarının, hangi kişilere ve kuruluşlara ait olduğunu tutarak yöneten kuruluşlardır."
+        },
+        {
+            "id": "DNS#165",
+            "sentence": "Bu kayıtlar, İnternet'in temel işlevlerini destekleyen çeşitli işlemler ve veritabanlarını koordine eden küresel bir organizasyon olan Internet Corporation for Assigned Names and Numbers (ICANN) bünyesinde bir departman olan Internet Assigned Numbers Authority (IANA) tarafından yönetilir."
+        },
+        {
+            "id": "DNS#166",
+            "sentence": "Registries, alan adı kayıt işlemlerinin ticari satışını registrar'lara devreder."
+        },
+        {
+            "id": "DNS#167",
+            "sentence": "Örneğin, bir registrar bir kullanıcıya ('registrant') '.com' alan adı kaydı satarsa, registrar bu durumu 'com' alan adlarının registry'si olan VeriSign'e bildirmek zorundadır."
+        },
+        {
+            "id": "DNS#168",
+            "sentence": "Registrar, VeriSign'e bir ücret ödemek zorundadır ve bu ücret, registrar'ın son kullanıcıya fiyatlandırdığı fiyata dahil edilir."
+        },
+        {
+            "id": "DNS#169",
+            "sentence": "Bu düzenleme, bir araba satış bayisi ile benzer şekilde çalışır."
+        },
+        {
+            "id": "DNS#170",
+            "sentence": "Bir araba satın almak isteyen bir müşteri, showroom'u ziyaret eder ve mevcut arabaları deneyimli bir satış temsilcisi tarafından gösterilir."
+        },
+        {
+            "id": "DNS#171",
+            "sentence": "Müşteri bir araba satın almayı seçerse (bu örnekte stokta olan bir araba değilse), satıcı daha sonra aracı üreticiden sipariş etmek zorundadır."
+        },
+        {
+            "id": "DNS#172",
+            "sentence": "Müşteri sonunda arabayı alır ve satıcıdan müşteri hizmeti alır."
+        },
+        {
+            "id": "DNS#173",
+            "sentence": "Bir registrar, alan adları için bir bayi gibi davranırken, registry ise üreticiye benzer bir rol oynar."
+        },
+        {
+            "id": "DNS#174",
+            "sentence": "Registrar işlemleri kolaylaştırır ve destek hizmetleri sağlarken, registry mal üretmekten ve teslim etmekten sorumludur."
+        },
+        {
+            "id": "DNS#175",
+            "sentence": "Bir alan adı kaydetmenin bir araba satın almadan farklı olarak, arabalar tüketici tarafından sahiplenilebilirken, alan adları teknik olarak yalnızca kiralanabilir."
+        },
+        {
+            "id": "DNS#176",
+            "sentence": "A <PossibleEntity>.ac</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ac)</URL> <PossibleEntity>.ad</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ad)</URL> <PossibleEntity>.ae</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ae)</URL> <PossibleEntity>.af</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.af)</URL> <PossibleEntity>.ag</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ag)</URL> <PossibleEntity>.ai</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ai)</URL> <PossibleEntity>.al</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.al)</URL> <PossibleEntity>.am</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.am)</URL> <PossibleEntity>.ao</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ao)</URL> <PossibleEntity>.aq</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.aq)</URL> <PossibleEntity>.ar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ar)</URL> <PossibleEntity>.as</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.as)</URL> <PossibleEntity>.at</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.at)</URL> <PossibleEntity>.au</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.au)</URL> <PossibleEntity>.aw</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.aw)</URL> <PossibleEntity>.ax</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ax)</URL> <PossibleEntity>.az</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.az)</URL> B <PossibleEntity>.ba</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ba)</URL> <PossibleEntity>.bb</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bb)</URL> <PossibleEntity>.bd</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bd)</URL> <PossibleEntity>.be</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.be)</URL> <PossibleEntity>.bf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bf)</URL> <PossibleEntity>.bg</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bg)</URL> <PossibleEntity>.bh</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bh)</URL> <PossibleEntity>.bi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bi)</URL> <PossibleEntity>.bj</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bj)</URL> <PossibleEntity>.bm</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bm)</URL> <PossibleEntity>.bn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bn)</URL> <PossibleEntity>.bo</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bo)</URL> <PossibleEntity>.br</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.br)</URL> <PossibleEntity>.bs</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bs)</URL> <PossibleEntity>.bt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bt)</URL> <PossibleEntity>.bw</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bw)</URL> <PossibleEntity>.by</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.by)</URL> <PossibleEntity>.bz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bz)</URL> C <PossibleEntity>.ca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ca)</URL> <PossibleEntity>.cc</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cc)</URL> <PossibleEntity>.cd</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cd)</URL> <PossibleEntity>.cf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cf)</URL> <PossibleEntity>.cg</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cg)</URL> <PossibleEntity>.ch</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ch)</URL> <PossibleEntity>.ci</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ci)</URL> <PossibleEntity>.ck</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ck)</URL> <PossibleEntity>.cl</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cl)</URL> <PossibleEntity>.cm</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cm)</URL> <PossibleEntity>.cn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cn)</URL> <PossibleEntity>.co</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.co)</URL> <PossibleEntity>.cr</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cr)</URL> <PossibleEntity>.cu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cu)</URL> <PossibleEntity>.cv</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cv)</URL> <PossibleEntity>.cw</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cw)</URL> <PossibleEntity>.cx</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cx)</URL> <PossibleEntity>.cy</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cy)</URL> <PossibleEntity>.cz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cz)</URL> D <PossibleEntity>.de</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.de)</URL> <PossibleEntity>.dj</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.dj)</URL> <PossibleEntity>.dk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.dk)</URL> <PossibleEntity>.dm</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.dm)</URL> <PossibleEntity>.do</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.do)</URL> <PossibleEntity>.dz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.dz)</URL> E <PossibleEntity>.ec</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ec)</URL> <PossibleEntity>.ee</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ee)</URL> <PossibleEntity>.eg</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.eg)</URL> <PossibleEntity>.er</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.er)</URL> <PossibleEntity>.es</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.es)</URL> <PossibleEntity>.et</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.et)</URL> <PossibleEntity>.eu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.eu)</URL> F <PossibleEntity>.fi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.fi)</URL> <PossibleEntity>.fj</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.fj)</URL> <PossibleEntity>.fk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.fk)</URL> <PossibleEntity>.fm</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.fm)</URL> <PossibleEntity>.fo</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.fo)</URL> <PossibleEntity>.fr</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.fr)</URL> G <PossibleEntity>.ga</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ga)</URL> <PossibleEntity>.gd</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gd)</URL> <PossibleEntity>.ge</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ge)</URL> <PossibleEntity>.gf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gf)</URL> <PossibleEntity>.gg</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gg)</URL> <PossibleEntity>.gh</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gh)</URL> <PossibleEntity>.gi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gi)</URL> <PossibleEntity>.gl</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gl)</URL> <PossibleEntity>.gm</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gm)</URL> <PossibleEntity>.gn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gn)</URL> <PossibleEntity>.gp</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gp)</URL> <PossibleEntity>.gq</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gq)</URL> <PossibleEntity>.gr</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gr)</URL> <PossibleEntity>.gs</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gs)</URL> <PossibleEntity>.gt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gt)</URL> <PossibleEntity>.gu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gu)</URL> <PossibleEntity>.gw</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gw)</URL> <PossibleEntity>.gy</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gy)</URL> H <PossibleEntity>.hk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.hk)</URL> <PossibleEntity>.hm</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.hm)</URL> <PossibleEntity>.hn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.hn)</URL> <PossibleEntity>.hr</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.hr)</URL> <PossibleEntity>.ht</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ht)</URL> <PossibleEntity>.hu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.hu)</URL> I <PossibleEntity>.id</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.id)</URL> <PossibleEntity>.ie</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ie)</URL> <PossibleEntity>.il</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.il)</URL> <PossibleEntity>.im</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.im)</URL> <PossibleEntity>.in</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.in)</URL> <PossibleEntity>.io</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.io)</URL> <PossibleEntity>.iq</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.iq)</URL> <PossibleEntity>.ir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ir)</URL> <PossibleEntity>.is</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.is)</URL> <PossibleEntity>.it</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.it)</URL> J <PossibleEntity>.je</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.je)</URL> <PossibleEntity>.jm</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.jm)</URL> <PossibleEntity>.jo</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.jo)</URL> <PossibleEntity>.jp</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.jp)</URL> K <PossibleEntity>.ke</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ke)</URL> <PossibleEntity>.kg</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.kg)</URL> <PossibleEntity>.kh</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.kh)</URL> <PossibleEntity>.ki</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ki)</URL> <PossibleEntity>.km</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.km)</URL> <PossibleEntity>.kn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.kn)</URL> <PossibleEntity>.kp</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.kp)</URL> <PossibleEntity>.kr</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.kr)</URL> <PossibleEntity>.kw</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.kw)</URL> <PossibleEntity>.ky</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ky)</URL> <PossibleEntity>.kz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.kz)</URL> L <PossibleEntity>.la</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.la)</URL> <PossibleEntity>.lb</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.lb)</URL> <PossibleEntity>.lc</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.lc)</URL> <PossibleEntity>.li</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.li)</URL> <PossibleEntity>.lk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.lk)</URL> <PossibleEntity>.lr</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.lr)</URL> <PossibleEntity>.ls</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ls)</URL> <PossibleEntity>.lt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.lt)</URL> <PossibleEntity>.lu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.lu)</URL> <PossibleEntity>.lv</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.lv)</URL> <PossibleEntity>.ly</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ly)</URL> M <PossibleEntity>.ma</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ma)</URL> <PossibleEntity>.mc</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mc)</URL> <PossibleEntity>.md</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.md)</URL> <PossibleEntity>.me</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.me)</URL> <PossibleEntity>.mg</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mg)</URL> <PossibleEntity>.mh</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mh)</URL> <PossibleEntity>.mk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mk)</URL> <PossibleEntity>.ml</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ml)</URL> <PossibleEntity>.mm</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mm)</URL> <PossibleEntity>.mn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mn)</URL> <PossibleEntity>.mo</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mo)</URL> <PossibleEntity>.mp</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mp)</URL> <PossibleEntity>.mq</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mq)</URL> <PossibleEntity>.mr</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mr)</URL> <PossibleEntity>.ms</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ms)</URL> <PossibleEntity>.mt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mt)</URL> <PossibleEntity>.mu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mu)</URL> <PossibleEntity>.mv</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mv)</URL> <PossibleEntity>.mw</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mw)</URL> <PossibleEntity>.mx</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mx)</URL> <PossibleEntity>.my</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.my)</URL> <PossibleEntity>.mz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mz)</URL> N <PossibleEntity>.na</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.na)</URL> <PossibleEntity>.nc</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.nc)</URL> <PossibleEntity>.ne</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ne)</URL> <PossibleEntity>.nf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.nf)</URL> <PossibleEntity>.ng</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ng)</URL> <PossibleEntity>.ni</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ni)</URL> <PossibleEntity>.nl</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.nl)</URL> <PossibleEntity>.no</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.no)</URL> <PossibleEntity>.np</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.np)</URL> <PossibleEntity>.nr</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.nr)</URL> <PossibleEntity>.nu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.nu)</URL> <PossibleEntity>.nz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.nz)</URL> O <PossibleEntity>.om</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.om)</URL> P <PossibleEntity>.pa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.pa)</URL> <PossibleEntity>.pe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.pe)</URL> <PossibleEntity>.pf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.pf)</URL> <PossibleEntity>.pg</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.pg)</URL> <PossibleEntity>.ph</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ph)</URL> <PossibleEntity>.pk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.pk)</URL> <PossibleEntity>.pl</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.pl)</URL> <PossibleEntity>.pm</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.pm)</URL> <PossibleEntity>.pn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.pn)</URL> <PossibleEntity>.pr</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.pr)</URL> <PossibleEntity>.ps</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ps)</URL> <PossibleEntity>.pt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.pt)</URL> <PossibleEntity>.pw</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.pw)</URL> <PossibleEntity>.py</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.py)</URL> Q <PossibleEntity>.qa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.qa)</URL> R <PossibleEntity>.re</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.re)</URL> <PossibleEntity>.ro</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ro)</URL> <PossibleEntity>.rs</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.rs)</URL> <PossibleEntity>.ru</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ru)</URL> <PossibleEntity>.rw</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.rw)</URL> S <PossibleEntity>.sa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sa)</URL> <PossibleEntity>.sb</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sb)</URL> <PossibleEntity>.sc</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sc)</URL> <PossibleEntity>.sd</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sd)</URL> <PossibleEntity>.se</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.se)</URL> <PossibleEntity>.sg</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sg)</URL> <PossibleEntity>.sh</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sh)</URL> <PossibleEntity>.si</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.si)</URL> <PossibleEntity>.sk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sk)</URL> <PossibleEntity>.sl</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sl)</URL> <PossibleEntity>.sm</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sm)</URL> <PossibleEntity>.sn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sn)</URL> <PossibleEntity>.so</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.so)</URL> <PossibleEntity>.sr</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sr)</URL> <PossibleEntity>.ss</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ss)</URL> <PossibleEntity>.st</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.st)</URL> <PossibleEntity>.su</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.su)</URL> <PossibleEntity>.sv</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sv)</URL> <PossibleEntity>.sx</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sx)</URL> <PossibleEntity>.sy</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sy)</URL> <PossibleEntity>.sz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sz)</URL> T <PossibleEntity>.tc</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tc)</URL> <PossibleEntity>.td</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.td)</URL> <PossibleEntity>.tf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tf)</URL> <PossibleEntity>.tg</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tg)</URL> <PossibleEntity>.th</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.th)</URL> <PossibleEntity>.tj</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tj)</URL> <PossibleEntity>.tk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tk)</URL> <PossibleEntity>.tl</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tl)</URL> <PossibleEntity>.tm</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tm)</URL> <PossibleEntity>.tn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tn)</URL> <PossibleEntity>.to</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.to)</URL> <PossibleEntity>.tr</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tr)</URL> <PossibleEntity>.tt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tt)</URL> <PossibleEntity>.tv</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tv)</URL> <PossibleEntity>.tw</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tw)</URL> <PossibleEntity>.tz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tz)</URL> U <PossibleEntity>.ua</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ua)</URL> <PossibleEntity>.ug</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ug)</URL> <PossibleEntity>.uk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.uk)</URL> <PossibleEntity>.us</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.us)</URL> <PossibleEntity>.uy</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.uy)</URL> <PossibleEntity>.uz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.uz)</URL> V <PossibleEntity>.va</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.va)</URL> <PossibleEntity>.vc</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.vc)</URL> <PossibleEntity>.ve</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ve)</URL> <PossibleEntity>.vg</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.vg)</URL> <PossibleEntity>.vi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.vi)</URL> <PossibleEntity>.vn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.vn)</URL> <PossibleEntity>.vu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.vu)</URL> W <PossibleEntity>.wf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.wf)</URL> <PossibleEntity>.ws</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ws)</URL> Y <PossibleEntity>.ye</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.ye)</URL> <PossibleEntity>.yt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.yt)</URL> Z <PossibleEntity>.za</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.za)</URL> <PossibleEntity>.zm</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.zm)</URL> <PossibleEntity>.zw</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.zw)</URL>"
+        },
+        {
+            "id": "DNS#177",
+            "sentence": "<PossibleEntity>.κπ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cy)</URL> ( kp , Kıbrıs) <PossibleEntity>ישראל.</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.il)</URL> ( Yisrael , İsrail) <PossibleEntity>.日本</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.jp)</URL> ( Nippon , Japonya) <PossibleEntity>.ລາວ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.la)</URL> ( Lao , Laos)"
+        },
+        {
+            "id": "DNS#178",
+            "sentence": "<PossibleEntity>.bl</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bl)</URL> <PossibleEntity>.bq</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=.bq&action=edit&redlink=1)</URL> <PossibleEntity>.eh</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.eh)</URL> <PossibleEntity>.mf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mf)</URL>"
+        },
+        {
+            "id": "DNS#179",
+            "sentence": "<PossibleEntity>.bv</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bv)</URL> <PossibleEntity>.gb</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gb)</URL> <PossibleEntity>.sj</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.sj)</URL>"
+        },
+        {
+            "id": "DNS#180",
+            "sentence": "<PossibleEntity>.su</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.su)</URL>"
+        },
+        {
+            "id": "DNS#181",
+            "sentence": "<PossibleEntity>.an</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.an)</URL> <PossibleEntity>.bu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.bu)</URL> <PossibleEntity>.cs</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cs)</URL> <PossibleEntity>.dd</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.dd)</URL> <PossibleEntity>.tp</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tp)</URL> <PossibleEntity>.um</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.um)</URL> <PossibleEntity>.yu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.yu)</URL> <PossibleEntity>.zr</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.zr)</URL>"
+        }
+    ]
+}

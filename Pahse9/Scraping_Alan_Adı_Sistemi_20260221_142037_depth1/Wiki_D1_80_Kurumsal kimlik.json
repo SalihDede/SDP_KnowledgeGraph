@@ -1,0 +1,50 @@
+{
+    "Title": "Kurumsal kimlik",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Kurumsal kimlik#1",
+            "sentence": "Kurumsal kimlik , pazarlamada (marketing), bir kurumun görünen yüzüne verilen isimdir."
+        },
+        {
+            "id": "Kurumsal kimlik#2",
+            "sentence": "Kurumun kendini ifade etme şeklidir."
+        },
+        {
+            "id": "Kurumsal kimlik#3",
+            "sentence": "Bu ifade belli sınırları çizilmiş ve genellikle değişmez bir ifadedir."
+        },
+        {
+            "id": "Kurumsal kimlik#4",
+            "sentence": "Kurumu anımsatacak bir <PossibleEntity>tasarımın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tasar%C4%B1m)</URL> ne ölçülerde ve nasıl kullanılması gerektiğini belirten kurumsal kimlik kitabı bu sistemin vazgeçilmez öğesidir."
+        },
+        {
+            "id": "Kurumsal kimlik#5",
+            "sentence": "Öyle ki bir kurumsal kimlik tasarımı içinde <PossibleEntity>amblem</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amblem)</URL> ( <PossibleEntity>logo</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Logo)</URL> ) den <PossibleEntity>ofis</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ofis)</URL> dizaynına, çalışanların giyim kuşamından araç üstü giydirmeye, antetli kâğıttan, <PossibleEntity>tabelaya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tabela)</URL> , <PossibleEntity>web sitesinden</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Web_sitesi)</URL> vefat ilanlarına, <PossibleEntity>ambalaj</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ambalaj)</URL> dizaynından faaliyet raporuna kadar her şeyin ne ölçülerde ve nasıl kullanılacağı belirtilmiştir."
+        },
+        {
+            "id": "Kurumsal kimlik#6",
+            "sentence": "Kurumsal kimlik kurumun imzasıdır ve bu yönüyle değişime kapalıdır."
+        },
+        {
+            "id": "Kurumsal kimlik#7",
+            "sentence": "Belli dönemlerde firma ve tasarımcıların ortak çalışmasıyla değiştirilebilmesine rağmen firma kurumsal kimlik ile oluşturduğu imajı sıklıkla değiştirmek istemez."
+        },
+        {
+            "id": "Kurumsal kimlik#8",
+            "sentence": "Kurumsal kimlik çalışmalarında hiç şüphesiz çalışmanın temeli firma <PossibleEntity>amblemi</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Amblemi&action=edit&redlink=1)</URL> üzerine kurulmuştur. <PossibleEntity>Amblem</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amblem)</URL> renklerinin her durumda aynı değerde basılması, <PossibleEntity>yazı tiplerinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yaz%C4%B1_tipleri)</URL> hiçbir zaman değişmemesi bu çalışmanın temelini oluşturur."
+        },
+        {
+            "id": "Kurumsal kimlik#9",
+            "sentence": "Özellikle <PossibleEntity>renk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Renk)</URL> bilgisinin taşınması, değişmemesi için renklerin <PossibleEntity>pantone</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Pantone)</URL> numaraları belirtilir."
+        },
+        {
+            "id": "Kurumsal kimlik#10",
+            "sentence": "Kurumsal kimlik <PossibleEntity>firma</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Firma)</URL> için oluşturduğu imajla, <PossibleEntity>tüketicinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCketici)</URL> aklına kazınır."
+        },
+        {
+            "id": "Kurumsal kimlik#11",
+            "sentence": "Bu yönüyle firmanın <PossibleEntity>reklam</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Reklam)</URL> yatırımlarının başarılı olmasının sağlayan çalışmalardan biridir."
+        }
+    ]
+}

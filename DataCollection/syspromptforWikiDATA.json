@@ -56,7 +56,6 @@ system_prompt_tr = (
     "  - 'Dil' → doğal diller\n"
     "  - 'SporTürü' → belirli spor dalları\n"
     "  - 'Kavram' → soyut ya da genel kavramlar\n"
-    "- Aşırı özel türlerden kaçın (örneğin 'TeknikDirektör' yerine 'Kişi' kullan).\n"
     "\n"
     "## 3. İlişkiler\n"
     "- Her bilgi bir **ilişki** (edge) olarak ifade edilir.\n"

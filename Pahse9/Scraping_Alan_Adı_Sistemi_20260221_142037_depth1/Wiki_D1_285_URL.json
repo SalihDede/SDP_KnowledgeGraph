@@ -1,0 +1,74 @@
+{
+    "Title": "URL",
+    "Card": {},
+    "Main": [
+        {
+            "id": "URL#1",
+            "sentence": "URL ( Uniform Resource Locator , Birörnek Kaynak Konumlayıcı , Tekdüzen Kaynak Bulucu ),  <PossibleEntity>İnternet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> 'te bir kaynağa (belge veya resim gibi) rastgelen, standart bir formata uygun bir karakter tertibidir."
+        },
+        {
+            "id": "URL#2",
+            "sentence": "Örneğin bu sayfanın Vikipedi'deki URL'si aşağıdaki gibidir:"
+        },
+        {
+            "id": "URL#3",
+            "sentence": "http://tr.wikipedia.org/wiki/URL ."
+        },
+        {
+            "id": "URL#4",
+            "sentence": "Her URL web kaynağına <PossibleEntity>bilgisayar ağı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar_a%C4%9F%C4%B1)</URL> üzerinde konumu belirleyen referanstır ve kurtarması için mekanizmadır."
+        },
+        {
+            "id": "URL#5",
+            "sentence": "URL, tekdüzen kaynak tanımlayıcı ( <PossibleEntity>URI</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/URI)</URL> )'den spesifik tiptir, Bazı insanlar bu iki terim karıştırır."
+        },
+        {
+            "id": "URL#6",
+            "sentence": "URL'ler yaygın olarak web sayfalarına ( <PossibleEntity>HTTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/HTTP)</URL> ) işaret edilmek için oluyor fakat URL'ler dosya aktarım ( <PossibleEntity>FTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dosya_aktar%C4%B1m_ileti%C5%9Fim_kural%C4%B1)</URL> ), E-mail (mailto), veritabanı erişimleri (JDBC), gibi ve başka çok sayıda uygulamalar için kullanılır."
+        },
+        {
+            "id": "URL#7",
+            "sentence": "HTTP URL'leri, daha yaygın tabirle Web adresleri , genellikle <PossibleEntity>İnternet tarayıcılarının</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Web_taray%C4%B1c%C4%B1s%C4%B1)</URL> <PossibleEntity>adres kutusunda</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Adres_kutusu&action=edit&redlink=1)</URL> gösterilir."
+        },
+        {
+            "id": "URL#8",
+            "sentence": "makale: <PossibleEntity>Uniform Resource Identifier § Syntax</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Uniform_Resource_Identifier_%C2%A7_Syntax&action=edit&redlink=1)</URL> [en]"
+        },
+        {
+            "id": "URL#9",
+            "sentence": "HTTP deki URL'ler, jenerik URI 'nın söz dizimine uyar. jenerik URI 'nın söz dizimi 5 bileşenden oluşur soldan sağa azalan önem sırasına göre hiyerarşik olarak düzenlenmiştir:"
+        },
+        {
+            "id": "URL#10",
+            "sentence": "Bir bileşen, bağlantılı sınırlayıcına sahipse ve sınırlayıcı URI 'de gözükmüyorsa, tanımsız oluyor; şema ve yol bileşenleri her zaman belirlenir."
+        },
+        {
+            "id": "URL#11",
+            "sentence": "Bir bileşen, herhangi karakter içermiyorsa boş bileşen oluyor; şema bileşeni hep dolu oluyor."
+        },
+        {
+            "id": "URL#12",
+            "sentence": "Authority [ server DNS host name or IP address, server DNS Host adı veya ip adresi ] bileşeni alt bileşenlerden oluşur:"
+        },
+        {
+            "id": "URL#13",
+            "sentence": "<PossibleEntity>URl</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/URI)</URL> içerir:"
+        },
+        {
+            "id": "URL#14",
+            "sentence": "URL 1994 yılında <PossibleEntity>Tim Berners-Lee</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tim_Berners-Lee)</URL> tarafından oluşturulmuştur."
+        },
+        {
+            "id": "URL#15",
+            "sentence": "URL formatı, <PossibleEntity>UNIX</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Unix)</URL> dosya yol referansları esasına dayanır."
+        },
+        {
+            "id": "URL#16",
+            "sentence": "Slash (/) işareti klasör veya indeksleri, dosya veya kaynakları ayırmakta kullanılır."
+        },
+        {
+            "id": "URL#17",
+            "sentence": "Dosya formatları nokta son ekleri kullanılarak sınıflandırılabilirler. file.html veya file.txt istekleri doğrudan yerine getirilirken, file.php , işlenen sonuç son kullanıcıya servis edilmeden önce bir <PossibleEntity>PHP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/PHP)</URL> <PossibleEntity>ön işlemcisine</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=%C3%96n_i%C5%9Flemci&action=edit&redlink=1)</URL> yollanmasına ihtiyaç duyar."
+        }
+    ]
+}

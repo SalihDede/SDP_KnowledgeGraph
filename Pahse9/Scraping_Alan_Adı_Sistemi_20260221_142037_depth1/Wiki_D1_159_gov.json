@@ -1,0 +1,38 @@
+{
+    "Title": ".gov",
+    "Card": {},
+    "Main": [
+        {
+            "id": ".gov#1",
+            "sentence": ".gov , kullanımı devlet kurumlarıyla sınırlı olan <PossibleEntity>üst seviye alan adıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9Cst_seviye_alan_ad%C4%B1)</URL> (TLD). <PossibleEntity>İngilizcedeki</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> government [a] kelimesinin kısaltılmasıyla oluşturulmuştur. <PossibleEntity>Amerika Birleşik Devletleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> hükûmeti tarafından kullanılmakla birlikte diğer ülkelerin hükûmetlerince de kendi <PossibleEntity>ülke üst seviye alan adlarına</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_%C3%BClke_%C3%BCst_seviye_alan_ad%C4%B1)</URL> (ccTLD) bağlı olarak kullanılmaktadır. [b] 1985'te kullanıma sunulmuştur. <PossibleEntity>ABD İç Güvenlik Bakanlığı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ABD_%C4%B0%C3%A7_G%C3%BCvenlik_Bakanl%C4%B1%C4%9F%C4%B1)</URL> 'nın bir bileşeni olan <PossibleEntity>Siber Güvenlik ve Altyapı Güvenliği Ajansı</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Siber_G%C3%BCvenlik_ve_Altyap%C4%B1_G%C3%BCvenli%C4%9Fi_Ajans%C4%B1&action=edit&redlink=1)</URL> (CISA) tarafından yönetilmektedir."
+        },
+        {
+            "id": ".gov#2",
+            "sentence": "Başlangıçta her türlü devlet dairesi veya ajansı için tasarlanmış olmasına rağmen  yalnızca ABD merkezli devlet kuruluşları .gov alan adlarını kaydedebilir."
+        },
+        {
+            "id": ".gov#3",
+            "sentence": "Bu durum İnternet'in ABD hükûmeti destekli bir araştırma ağı olarak ortaya çıktığının bir vurgusudur."
+        },
+        {
+            "id": ".gov#4",
+            "sentence": "1997'den itibaren <PossibleEntity>Genel Hizmetler İdaresi</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Genel_Hizmetler_%C4%B0daresi&action=edit&redlink=1)</URL> (GSA) .gov'ı yönetmeye başladı."
+        },
+        {
+            "id": ".gov#5",
+            "sentence": "TLD'nin sorumluluğu, 2021 Konsolide Ödenekler Yasası'nın bir parçası olan 2020 DOTGOV Çevrimiçi Hükûmete Güven Yasası kapsamında CISA'ya devredildi."
+        },
+        {
+            "id": ".gov#6",
+            "sentence": ".gov etki alanları dotgov.gov adresinde kayıtlıdır."
+        },
+        {
+            "id": ".gov#7",
+            "sentence": "2019 yılında KrebsOnSecurity şirketinde çalışan bir siber güvenlik araştırmacısı, bir belediye başkanının kimliğine bürünerek başvurduğu .gov alan adı başvurusunun olumlu sonuçlanması üzerine seyreden gelişmeler, devlet kurumlarının dışında sıradan insanların da .gov alan adını elde edebileceğine işaret ederek GSA otoritesinin itibarını ve .gov alan adlı sitelerin güvenirliğini sorgulamaya itmiştir."
+        },
+        {
+            "id": ".gov#8",
+            "sentence": "2020 yılının sonunda .gov alan adının idaresi GSA'dan alınıp CISA'ya bırakılmıştır."
+        }
+    ]
+}

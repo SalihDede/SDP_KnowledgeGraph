@@ -1,0 +1,70 @@
+{
+    "Title": "Türkçe Vikipedi",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Türkçe Vikipedi#1",
+            "sentence": "Türkçe Vikipedi , <PossibleEntity>Vikipedi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vikipedi)</URL> 'nin 5 Aralık 2002'de başlatılan <PossibleEntity>Türkçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)</URL> sürümüdür."
+        },
+        {
+            "id": "Türkçe Vikipedi#2",
+            "sentence": "Madde sayısına göre 25. en büyük Vikipedi sürümüdür.  20 Şubat 2026 günü saat 22.50 itibarıyla ( <PossibleEntity>UTC</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)</URL> ) 668.108 maddeye ulaşmıştır."
+        },
+        {
+            "id": "Türkçe Vikipedi#3",
+            "sentence": "Tam olarak 1.782.631 kayıtlı kullanıcısından 5.327 kadarı aktiftir."
+        },
+        {
+            "id": "Türkçe Vikipedi#4",
+            "sentence": "Açıldığı günden beri 36.762.976 kez katkıda bulunulmuştur."
+        },
+        {
+            "id": "Türkçe Vikipedi#5",
+            "sentence": "Kasım 2006'da <PossibleEntity>Altın Örümcek Web Ödülleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alt%C4%B1n_%C3%96r%C3%BCmcek_Web_%C3%96d%C3%BClleri)</URL> 'nin <PossibleEntity>fen</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fen_bilimleri)</URL> kategorisinde aday olarak gösterildi."
+        },
+        {
+            "id": "Türkçe Vikipedi#6",
+            "sentence": "Ocak 2007'de bu yarışmada \"En İyi İçerik\" ödülünü kazandı."
+        },
+        {
+            "id": "Türkçe Vikipedi#7",
+            "sentence": "Ödül 25 Ocak 2007'de <PossibleEntity>İstanbul Teknik Üniversitesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0stanbul_Teknik_%C3%9Cniversitesi)</URL> 'nde yapılan bir törenle verildi."
+        },
+        {
+            "id": "Türkçe Vikipedi#8",
+            "sentence": "Türkçe Vikipedi'de bulunan bazı maddeler, 17 Kasım 2014 tarihinden itibaren Türkiye'deki kullanıcıların erişimine engellendi."
+        },
+        {
+            "id": "Türkçe Vikipedi#9",
+            "sentence": "Bu engelleme URL tabanlı olup sadece <PossibleEntity>HTTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/HTTP)</URL> bağlantılar üzerinde etkili olmuştur."
+        },
+        {
+            "id": "Türkçe Vikipedi#10",
+            "sentence": "Vikipedi ve kardeş projelerinde 2013 yılından beri kayıtlı kullanıcılar için HTTPS sistemi güvenlik nedeniyle zorunlu olduğu için bu engelleme onları etkilememiştir. 12 Haziran 2015 tarihinde Wikimedia Blog'u üzerinde yapılan duyuruda <PossibleEntity>Wikimedia Vakfı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Wikimedia_Vakf%C4%B1)</URL> 2011 yılından beri üzerinde çalıştıkları HTTPS şifreleme sisteminin tüm projelerde ve tüm kullanıcılar için aktifleştirildiğini kamuoyuna açıkladı."
+        },
+        {
+            "id": "Türkçe Vikipedi#11",
+            "sentence": "Böylelikle sadece anonim kullanıcıları etkileyen erişim engelleme durumu tek taraflı olarak kaldırılmış oldu. Ayrıca Vakıf yaptığı açıklamada HTTPS şifreleme sistemine geçişin, hükûmetlerin uyguladığı erişim engellemelerini kaldırmanın yanı sıra kullanıcıların internet trafiğinin hükûmet, internet sağlayıcı veya üçüncü grup kişiler tarafından takip edilmesini, değiştirilmesini ya da kullanıcı bilgilerinin çalınmasını da zorlaştırdığını söyledi."
+        },
+        {
+            "id": "Türkçe Vikipedi#12",
+            "sentence": "<PossibleEntity>İnsan penisi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nsan_penisi)</URL>"
+        },
+        {
+            "id": "Türkçe Vikipedi#13",
+            "sentence": "29 Nisan 2017'de Türkiye hükûmeti, <PossibleEntity>Vikipedi'ye erişimi engelledi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vikipedi%27ye_T%C3%BCrkiye%27den_eri%C5%9Fimin_engellenmesi)</URL> ."
+        },
+        {
+            "id": "Türkçe Vikipedi#14",
+            "sentence": "Sitenin, <PossibleEntity>Türkiye-IŞİD ilişkileriyle</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye-I%C5%9E%C4%B0D_%C3%A7at%C4%B1%C5%9Fmas%C4%B1)</URL> ilgili maddeler nedeniyle engellendiği iddia edilse de, engel nedeni tam olarak belirtilmemiştir."
+        },
+        {
+            "id": "Türkçe Vikipedi#15",
+            "sentence": "Aralık 2019'da Anayasa Mahkemesi, yasağın ifade özgürlüğünü ihlal ettiğine karar verdi."
+        },
+        {
+            "id": "Türkçe Vikipedi#16",
+            "sentence": "Engel, 991 gün sonra 15 Ocak 2020'de kaldırıldı."
+        }
+    ]
+}

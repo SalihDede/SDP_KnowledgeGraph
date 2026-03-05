@@ -1,0 +1,358 @@
+{
+    "Title": "İnternet",
+    "Card": {},
+    "Main": [
+        {
+            "id": "İnternet#1",
+            "sentence": "İnternet , bilgisayar sistemlerini birbirine bağlayan <PossibleEntity>elektronik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Elektronik)</URL> <PossibleEntity>iletişim ağıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0leti%C5%9Fim_a%C4%9F%C4%B1)</URL> .  <PossibleEntity>TDK</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Dil_Kurumu)</URL> , internet sözcüğüne karşılık olarak genel ağ ı önermiştir."
+        },
+        {
+            "id": "İnternet#2",
+            "sentence": "İnternet yerine zaman zaman sadece net sözcüğü de kullanılır."
+        },
+        {
+            "id": "İnternet#3",
+            "sentence": "İnternet, çok protokollü bir ağ olup birbirine bağlı <PossibleEntity>bilgisayar ağlarının</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar_a%C4%9F%C4%B1)</URL> tümü olarak da tanımlanabilir."
+        },
+        {
+            "id": "İnternet#4",
+            "sentence": "Binlerce <PossibleEntity>akademik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Akademik)</URL> ve <PossibleEntity>ticari</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ticari)</URL> ağ ile <PossibleEntity>devlet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Devlet)</URL> ve serbest bilgisayar ağının birbirine bağlanmasıyla oluşmuştur."
+        },
+        {
+            "id": "İnternet#5",
+            "sentence": "Bilgisayarlar arasında bilgi çeşitli protokollere göre paketler hâlinde transfer edilir."
+        },
+        {
+            "id": "İnternet#6",
+            "sentence": "İnternet üzerinde <PossibleEntity>elektronik posta</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Elektronik_posta)</URL> ve birbirine bağlı sayfalar gibi çok çeşitli bilgiler ve hizmetler vardır."
+        },
+        {
+            "id": "İnternet#7",
+            "sentence": "İnternet üzerinden oyunlar da oynanabilir."
+        },
+        {
+            "id": "İnternet#8",
+            "sentence": "İnternetin kökeni, hataya dayanıklı, sağlam ve özel bir bilgisayar ağı kurmak isteyen <PossibleEntity>Amerika Birleşik Devletleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> hükûmeti tarafından 1960 yılındaki araştırmalara dayanır. <PossibleEntity>1980'lerde</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/1980%27ler)</URL> <PossibleEntity>Ulusal Bilim Vakfı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ulusal_Bilim_Vakf%C4%B1)</URL> tarafından yeni bir ABD omurgasının finansmanı için toplanan özel fonlar, dünya çapında katılım ve birçok özel ağın birleşmesine neden olmuştur. <PossibleEntity>1990'larda</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/1990%27lar)</URL> uluslararası bir ağın yaygınlaşması ile internet, modern insan hayatının temelinde yer almıştır."
+        },
+        {
+            "id": "İnternet#9",
+            "sentence": "1985 yılında kullanılmaya başlayan  <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> internet kelimesi, \"kendi aralarında bağlantılı ağlar\" anlamına gelen Interconnected Networks teriminin kısaltmasıdır."
+        },
+        {
+            "id": "İnternet#10",
+            "sentence": "Ön ek olan inter- , İngilizcede arasında ve karşılıklı anlamlarına gelir."
+        },
+        {
+            "id": "İnternet#11",
+            "sentence": "Net kelimesi ise ağ anlamına gelir."
+        },
+        {
+            "id": "İnternet#12",
+            "sentence": "Zaman zaman internet kelimesi yerine kullanılan \" <PossibleEntity>WWW</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/World_Wide_Web)</URL> \" kısaltması ise World Wide Web ( Dünya Çapında Ağ ) sözcüklerinin <PossibleEntity>akronimidir</PossibleEntity> <URL>:(https://tr.wiktionary.org/wiki/akronim)</URL> ve internet ile eş anlamlı değildir."
+        },
+        {
+            "id": "İnternet#13",
+            "sentence": "İnternet, belirli ve tek bir iletişim ağının adı olduğu için <PossibleEntity>özel isimdir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96zel_isim)</URL> ."
+        },
+        {
+            "id": "İnternet#14",
+            "sentence": "Özel isimlerin büyük harfle yazılması gerektiği kuralına  dayanarak büyük harfle yazılmalıdır."
+        },
+        {
+            "id": "İnternet#15",
+            "sentence": "Ancak bunun dışında, özel isimler, anlamı dışında kullanıldığı zaman küçük harfle yazılabilir."
+        },
+        {
+            "id": "İnternet#16",
+            "sentence": "Örneğin: \"Güneş'e en yakın gezegen Merkür'dür\" cümlesinde Güneş büyük harfle yazılırken \"Bu odaya hiç güneş girmiyor\" cümlesinde \"güneş\" özel isim anlamı yerine \"güneş ışığı\" anlamında kullanıldığından küçük harfle yazılır."
+        },
+        {
+            "id": "İnternet#17",
+            "sentence": "Buna benzer olarak \"İnternet\" de bazen anlamı dışında, örneğin \"Evimde internet yok\", \"İnternet hızım düşük\" gibi bir cümlelerde \"internet bağlantısı\" anlamında kullanılabilir ve özel isimlerin yazım kuralı gereği bu kullanımlar bağlamında küçük harfle yazılabilir."
+        },
+        {
+            "id": "İnternet#18",
+            "sentence": "İnternet'in yaygınlaşmasıyla, özel isim olan temel anlamı dışındaki yan anlamlar da yaygınlaşmış, Türk Dil Kurumu Sözlüğü'nde de sadece \"isim\" olarak nitelendirilmiş  ve küçük harfle yazılmış, temel anlamının gerektirdiği \"özel isim\" yazım biçimine yer verilmemiştir."
+        },
+        {
+            "id": "İnternet#19",
+            "sentence": "İnternet üzerinden ağ sayesinde iletişim kuran bilgisayar sistemleri olan askerî iletişim sistemi Semi-Automatic Ground Environment (SAGE) ve ticari hava yolu rezervasyon sistemi olan Semi-Automatic Business Research Environment (SABRE) 1950'lerin başında başlamıştır. 1960^'larda ise the Advanced Research Projects Agency (ARPA), ABD'nin savunma sistemi için the Advanced Research Projects Agency Network'ün (ARPANET) tasarım finansmanı olmaya başladı. 1960'larda oluşturulan projelerin sayesinde 1969'da internet o dönemin zirvesine ulaşmıştır."
+        },
+        {
+            "id": "İnternet#20",
+            "sentence": "Bu tarihten sonra da ARPANET bildiğimiz modern internet olarak hayatımıza girmiş oldu. <PossibleEntity>70</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/1970)</URL> 'li yılların başında Amerikan üniversitelerinde bu projeden yararlanma imkânı verilmesinin ardından <PossibleEntity>e-posta</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/E-posta)</URL> ( <PossibleEntity>SMTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/SMTP)</URL> ) ve NNTP uygulamaları yaygınlık kazanmaya başlamıştır."
+        },
+        {
+            "id": "İnternet#21",
+            "sentence": "Bunları <PossibleEntity>FTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dosya_aktar%C4%B1m_ileti%C5%9Fim_kural%C4%B1)</URL> ve <PossibleEntity>HTTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/HTTP)</URL> izlemiştir. 30 Nisan 1993'te <PossibleEntity>CERN</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avrupa_N%C3%BCkleer_Ara%C5%9Ft%C4%B1rma_Merkezi)</URL> tarafından <PossibleEntity>WWW</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/World_Wide_Web)</URL> ön eki ile internet <PossibleEntity>kamunun</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kamu)</URL> ulaşabileceği şekle getirildi. internet teknolojisi Türkiye'ye ilk olarak 1987 yılında <PossibleEntity>Ege Üniversitesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ege_%C3%9Cniversitesi)</URL> 'nin öncülüğünde kurulan Türkiye Üniversite ve Araştırma Kurumları Ağı (TÜVAKA) ile geldi,    12 Nisan 1993 tarihinde <PossibleEntity>ODTÜ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orta_Do%C4%9Fu_Teknik_%C3%9Cniversitesi)</URL> 'den Ankara-Washington arasında kiralık hat ile de Türkiye'de ilk internet bağlantısı kuruldu ve vatandaşların kullanımına açıldı."
+        },
+        {
+            "id": "İnternet#22",
+            "sentence": "Kişisel bilgisayarlar ile internete bağlanabilmek için genellikle bir <PossibleEntity>telefon</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Telefon)</URL> hattına ihtiyacı vardır."
+        },
+        {
+            "id": "İnternet#23",
+            "sentence": "Bunun yanında <PossibleEntity>uydu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dijital_uydu)</URL> , <PossibleEntity>kablo</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kablo)</URL> ve <PossibleEntity>Wi-Fi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Wi-Fi)</URL> diye adlandırılan <PossibleEntity>radyo</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Radyo)</URL> yayınlarıyla da internete bağlanılabilir."
+        },
+        {
+            "id": "İnternet#24",
+            "sentence": "En yaygın olanı ise bir analog <PossibleEntity>modem</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Modem)</URL> ile belli hızda bir internet servisi veren bir şirketin hizmetinden yararlanmaktır."
+        },
+        {
+            "id": "İnternet#25",
+            "sentence": "Modemin ayarları şirketin verdiği servis telefon numarası ve özelliklerine göre ayarlanıp, bağlan komutu verilir."
+        },
+        {
+            "id": "İnternet#26",
+            "sentence": "Analog modem bilgisayarın dijital verileri (bits) çeşitli ses frekanslarına çevirip telefon hattından internet servisine ulaştırmakta olup tersine aynı yöntemle verileri almaktadır."
+        },
+        {
+            "id": "İnternet#27",
+            "sentence": "Her görüntülenen sitenin bir adresi numarası vardır Bu, dört yuvadan oluşan ve her yuvanın 0 ile 255 arası değeri olan bir adrestir."
+        },
+        {
+            "id": "İnternet#28",
+            "sentence": "Fakat kullanıcı bu yalın sayı değerini her çağıracağı site için aklında tutamayacağı için bu adresleri Web sayfasına eş değer tutan <PossibleEntity>DNS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/DNS)</URL> bilgisayarları vardır."
+        },
+        {
+            "id": "İnternet#29",
+            "sentence": "Bunların görevi ise görüntülenecek her site ismine eş değer IP adresini hazır tutmak ve bilgi taşıma protokolünün paketlerini ( <PossibleEntity>TCP/IP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_ileti%C5%9Fim_kurallar%C4%B1_dizisi)</URL> ) bu adrese yönlendirmektir."
+        },
+        {
+            "id": "İnternet#30",
+            "sentence": "Tıpkı telefon rehberlerindeki isim-numara eşleştirmesi gibi alan adı-IP eşleştirmesi yapar."
+        },
+        {
+            "id": "İnternet#31",
+            "sentence": "Böylece az uğraşla internet gezgincisinin çağırdığı sitedeki bilgilere ulaşılabilir."
+        },
+        {
+            "id": "İnternet#32",
+            "sentence": "Günümüzde analog modemlerin yerini daha hızlı ve daha az hatalı olan dijital (ADSL) modemler almaktadır."
+        },
+        {
+            "id": "İnternet#33",
+            "sentence": "Bunların kullanım ücretleri, çoğul katılımın artması sayesinde makul ödenebilir düzeye inmektedir."
+        },
+        {
+            "id": "İnternet#34",
+            "sentence": "ADSL bir analog modemden 10x - 1500x kez hıza sahip olup canlı videolu <PossibleEntity>sohbet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sohbet)</URL> imkânı yanında bir <PossibleEntity>sinema</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sinema)</URL> filmini kısa bir zaman dilimi içinde yükleme imkânı vermektedir."
+        },
+        {
+            "id": "İnternet#35",
+            "sentence": "WWW. Dünyası yanında dosya indirimi sanal sohbet odaları, eCommerce (sanal ticaret), tartışma mekânları (forum), internet üzerinden sohbet doğrudan mesaj (IM) gibi kullanım alanlarını, bugün bütün Dünya'da yüz milyonlarca insan kullanmaktadırlar."
+        },
+        {
+            "id": "İnternet#36",
+            "sentence": "Günümüzde özellikle mobil internet aygıtlarıyla hemen hemen her yerden internete erişilebilir."
+        },
+        {
+            "id": "İnternet#37",
+            "sentence": "Kablosuz ağ bağlantısını destekleyen cep telefonları, taşınabilir oyun konsolları, dizüstü bilgisayarlar gibi cihazlarla kullanıcılar istedikleri zaman istedikleri yerden internete ulaşabilirler."
+        },
+        {
+            "id": "İnternet#38",
+            "sentence": "Servis sağlayıcılarının hizmetleri ve sundukları kablosuz veri iletim ücretleri diğer erişim yöntemlerine göre daha yüksek olabilir."
+        },
+        {
+            "id": "İnternet#39",
+            "sentence": "<PossibleEntity>Radyo</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Radyo)</URL> , <PossibleEntity>televizyon</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Televizyon)</URL> ve internetin bulunuşundan 50 milyon kullanıcıya ulaşmak için geçen süre incelendiğinde radyo için 38, televizyon için 13 yıl iken internet için sadece beş yıldır."
+        },
+        {
+            "id": "İnternet#40",
+            "sentence": "İnternet <PossibleEntity>Türkiye</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)</URL> 'ye 1993 yılında gelmiştir ve geldikten sonra Türkiye'de kullanımı yaygınlaşmıştır."
+        },
+        {
+            "id": "İnternet#41",
+            "sentence": "İnternet günümüzde de yaygın olan yediden 70'e herkesin kullandığı teknoloji ürünü olan ve her gün yenilenen bir bilgi kaynağı teknoloji ürünüdür."
+        },
+        {
+            "id": "İnternet#42",
+            "sentence": "İnternet ve \"World Wide Web\" sözcükleri günlük kullanımda genelde aynı anlamda kullanılır fakat aynı şey değillerdir."
+        },
+        {
+            "id": "İnternet#43",
+            "sentence": "İnternet yazılım ve donanım altyapısı ile sağlanan küresel veri iletişim dizgesidir fakat web, internet ile sağlanan iletişim şekillerinden yalnızca birisidir."
+        },
+        {
+            "id": "İnternet#44",
+            "sentence": "İnternet sitesi, internet üzerinden yazı, resim ve diğer dosyaların paylaşıldığı dijital sayfalar grubudur. internetin, ekran aracılığıyla görsel olarak hoparlörler aracılığıyla da işitsel olarak kullanıldığı ortamlardır."
+        },
+        {
+            "id": "İnternet#45",
+            "sentence": "Bir internet sitesi bir sayfadan ya da binlerce sayfadan oluşabilir."
+        },
+        {
+            "id": "İnternet#46",
+            "sentence": "Bir sitenin kullanıcının karşısına çıkan ilk sayfasına \"ana sayfa\" denir."
+        },
+        {
+            "id": "İnternet#47",
+            "sentence": "Ana sayfadan, linkler (bağlantılar) aracılığıyla sitenin diğer kısımlarına veya yabancı sitelere ulaşılabilir."
+        },
+        {
+            "id": "İnternet#48",
+            "sentence": "Telefon sinyallerini sayısal verilere çeviren ve bilgisayarın internete bağlanmasını sağlayan elektronik alettir."
+        },
+        {
+            "id": "İnternet#49",
+            "sentence": "interneti çağın haberleşme ortamı yapan ise TCP/IP dosya iletişim protokolüdür."
+        },
+        {
+            "id": "İnternet#50",
+            "sentence": "Açılımı; Transmission Control Protocol/Internet Protocol' dur (Aktarım Denetim Kuralı/internet Kuralı)."
+        },
+        {
+            "id": "İnternet#51",
+            "sentence": "TCP/IP, özde makinelerin konuşmasını sağlayan, işletim sisteminden veya uygulama yazılımlarından bağımsız bir kuralıdır."
+        },
+        {
+            "id": "İnternet#52",
+            "sentence": "Bu özelliği sayesinde, cep telefonu, kişisel bilgisayar veya bir saat dahi internete bağlı diğer cihazlarla konuşabilir."
+        },
+        {
+            "id": "İnternet#53",
+            "sentence": "internette sık kullanılan sembollerden birisi @'dir (okunuşu: et ). <PossibleEntity>Elektronik posta</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/E-posta)</URL> adreslerinde kullanıcı ismi ile gönderilen hedef alanını (site adı) ayırır."
+        },
+        {
+            "id": "İnternet#54",
+            "sentence": "Adres işareti, güzel a olarak da bilinir. <PossibleEntity>Türk Dil Kurumu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Dil_Kurumu)</URL> çengelli a ya da kuyruklu a karşılıklarını önermiştir."
+        },
+        {
+            "id": "İnternet#55",
+            "sentence": "E-posta ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : e-mail ) \"elektronik posta\" sözcüklerinin kısaltmasıdır. internet üzerinden gönderilen ve alınan dijital mektuplardır."
+        },
+        {
+            "id": "İnternet#56",
+            "sentence": "Günlük kullanımda \" mail \" (okunuşu: meyl) olarak da geçer."
+        },
+        {
+            "id": "İnternet#57",
+            "sentence": "Görsel olarak kâğıt bir mektup ile aralarında büyük bir fark yoktur."
+        },
+        {
+            "id": "İnternet#58",
+            "sentence": "E-postalara resim, müzik, video gibi her türlü dosya türü eklenebilir ve alıcının bilgisayarına transfer edilebilir."
+        },
+        {
+            "id": "İnternet#59",
+            "sentence": "Her gün Dünya'da milyarlarca e-posta gönderilmektedir."
+        },
+        {
+            "id": "İnternet#60",
+            "sentence": "Ucuzluğu ve kolaylığı nedeniyle kâğıt mektuplardan daha yaygın olarak kullanılmaktadır ancak güvenilirliğinin yetersizliği nedeniyle resmî işlerde kullanımı oldukça kısıtlıdır."
+        },
+        {
+            "id": "İnternet#61",
+            "sentence": "E-posta hesapları bu hizmeti veren çeşitli sitelerden ücretsiz veya belirli bir ücret karşılığında açılabilir."
+        },
+        {
+            "id": "İnternet#62",
+            "sentence": "E-posta adresleri; kullanıcı adı, adres işareti, hesabın oluşturulduğu sitenin e-posta sunucusunun adı, nokta (.) ve site uzantısının aralık bırakılmadan yazılması ile oluşur."
+        },
+        {
+            "id": "İnternet#63",
+            "sentence": "Örneğin: vikipedist@vikipedi.com"
+        },
+        {
+            "id": "İnternet#64",
+            "sentence": "Pek çok faydasının yanında internet çeşitli tehlikelere de yol açar. İnternet ağına bağlanıldığı andan itibaren çeşitli zararlı yazılımların saldırılarına mazur kalınabilir, hacker diye tanımlanan bilgisayar korsanlarının bilgisayarı ele geçirebileceğine şahit olunabilir, çevrimiçi bankacılık aracılığı ile banka hesabı boşaltılabilir; cihazlar, anlaşılamayan garip davranışlarda bulunmaya başlayabilir."
+        },
+        {
+            "id": "İnternet#65",
+            "sentence": "Bilgisayar virüsleri, zararlı kod ve programcıklardır."
+        },
+        {
+            "id": "İnternet#66",
+            "sentence": "Bilgisayarlara veri taşıyan diskler, taşınabilir hafızalar, yerel ağlar ya da internet aracılığıyla girerler."
+        },
+        {
+            "id": "İnternet#67",
+            "sentence": "Kendini kopyalamak, verileri silmek, istenmeyen programları çalıştırmak, kişisel (şifre vb.) bilgileri yaymak gibi zararlı faaliyetlerde bulunabilirler."
+        },
+        {
+            "id": "İnternet#68",
+            "sentence": "Bilgisayarlara zarar verme yöntemleri canlılarda hastalık meydana getiren virüslere benzediği için bu isim uygun görülmüştür."
+        },
+        {
+            "id": "İnternet#69",
+            "sentence": "Bazı virüsler bir programın zaman aşımına uğramış veya bozunmuş yani istem dışı çalışan ve genellikle görevleri belli olmayan hâlleridir."
+        },
+        {
+            "id": "İnternet#70",
+            "sentence": "Kötü emeller için hazırlanan trojan, win32, win29, solucan vb. virüsler başkaları tarafından bulaştırılırlar."
+        },
+        {
+            "id": "İnternet#71",
+            "sentence": "Virüsler kendi kendine oluşmazlar, fark edildiğinde derhâl temizlenmesi gerekir."
+        },
+        {
+            "id": "İnternet#72",
+            "sentence": "<PossibleEntity>Malware</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Malware)</URL> , <PossibleEntity>adware</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Adware)</URL> , <PossibleEntity>spyware</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Spyware)</URL> gibi çeşitli şekillerde adlandırılan casus programlar, bilgisayarlardan bilgi toplamak amacıyla oluşturulmuş küçük yazılımlardır."
+        },
+        {
+            "id": "İnternet#73",
+            "sentence": "Virüs gibi faaliyet gösterirler bu nedenle bir kısmı virüs olarak da adlandırılır."
+        },
+        {
+            "id": "İnternet#74",
+            "sentence": "Bilgisayar kullanıcısının internet alışkanlıkları, hesap numaraları gibi bilgileri zararlı kişi ve kuruluşlara ulaştırırlar."
+        },
+        {
+            "id": "İnternet#75",
+            "sentence": "Bazıları çok zararlı olmamakla birlikte, veri toplarken arka planda çalışarak bilgisayar hafızasını gereksiz yere işgal ederler."
+        },
+        {
+            "id": "İnternet#76",
+            "sentence": "Bazı casus programlar ise resmî kuruluşlar tarafından suçluları ve terörist faaliyetleri izlemek amacı ile geliştirilmiştir."
+        },
+        {
+            "id": "İnternet#77",
+            "sentence": "Ayrıca devletler eski casusluk yöntemleri yerine bilgisayar ortamında casusluk yöntemlerine başvurmakta buna bağlı olarak risk ve maliyeti düşürmektedirler."
+        },
+        {
+            "id": "İnternet#78",
+            "sentence": "Başka insanların bilgisayar, telefon gibi elektronik cihazların bilgilerine izinsiz olarak ulaşarak kişisel bilgilerini çalan kişilerdir."
+        },
+        {
+            "id": "İnternet#79",
+            "sentence": "Fakat her zaman bu gerekmez."
+        },
+        {
+            "id": "İnternet#80",
+            "sentence": "Bazı hacker lara yer verilen sitelerde hacker lar, sitelerin teknik gelişimine yardım ederler."
+        },
+        {
+            "id": "İnternet#81",
+            "sentence": "Bunun <PossibleEntity>Vikipedi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vikipedi)</URL> 'de örneği <PossibleEntity>teknisyenlerdir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vikipedi:Teknisyenler)</URL> ."
+        },
+        {
+            "id": "İnternet#82",
+            "sentence": "Bilgisayarları internetten gelebilecek tehditlere karşı korumanın en etkin yolu bilinçli olmaktır."
+        },
+        {
+            "id": "İnternet#83",
+            "sentence": "Şüpheli sitelere, bağlantılara girilmemeli ve antivirüs, anticasus ve güvenlik duvarı yazılımları kullanılmalıdır. <PossibleEntity>Norton</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Norton_County)</URL> , <PossibleEntity>Kaspersky</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kaspersky_Lab.)</URL> , <PossibleEntity>McAfee</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/McAfee)</URL> , <PossibleEntity>Avast</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avast_Antivirus)</URL> gibi günümüzdeki birçok ticari güvenlik yazılımı, bu üç korumayı da içerir."
+        },
+        {
+            "id": "İnternet#84",
+            "sentence": "İnternetin yaygınlaşması sonucu her gün milyonlarca insanın hiç tanımadığı insanlarla şahsi bilgilerini paylaşması, virüslerden çok daha tehlikeli bir tehdit oluşturmaktadır."
+        },
+        {
+            "id": "İnternet#85",
+            "sentence": "İnternetin dikkatsiz kullanımı, kimlik bilgilerinin çalınması ya da polisiye olaylara istemeden karışmak gibi sonuçlar doğurabilir."
+        },
+        {
+            "id": "İnternet#86",
+            "sentence": "Sohbet ve oyun odaları, çok güzel dostluklara ve ilişkilere vesile olabildiği gibi, hırsızlık, <PossibleEntity>pedofili</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Pedofili)</URL> , <PossibleEntity>teşhir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Te%C5%9Fhircilik)</URL> , <PossibleEntity>taciz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Taciz)</URL> , <PossibleEntity>tecavüz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tecav%C3%BCz)</URL> ve hatta <PossibleEntity>cinayete</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Cinayet)</URL> varan tehditlere de kapımızı sonuna kadar açmaktadır."
+        },
+        {
+            "id": "İnternet#87",
+            "sentence": "<PossibleEntity>Pornografiye</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Pornografi)</URL> erişimin hızlı ve kolay olması, her yaşta pornografi bağımlılığı riskini artırmakta; şahısların cinsel hayatını, aile hayatını ve zaman zaman da psikolojilerini tehdit etmektedir."
+        },
+        {
+            "id": "İnternet#88",
+            "sentence": "Çocukların çok küçük yaşta pornografiye kolayca erişebilmeleri, ileriki yaşlarda ciddi cinsel ve psikolojik rahatsızlıklara sahip olmalarına neden olabilmektedir."
+        }
+    ]
+}

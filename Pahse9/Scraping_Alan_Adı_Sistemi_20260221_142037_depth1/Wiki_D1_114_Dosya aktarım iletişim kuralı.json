@@ -1,0 +1,110 @@
+{
+    "Title": "Dosya aktarım iletişim kuralı",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Dosya aktarım iletişim kuralı#1",
+            "sentence": "<PossibleEntity>OSI modeli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/OSI_modeli)</URL>"
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#2",
+            "sentence": "Dosya aktarım iletişim kuralı , ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : F ile T ransfer P rotocol; FTP ), bir <PossibleEntity>veri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Veri)</URL> yığınının - <PossibleEntity>ASCII</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ASCII)</URL> , <PossibleEntity>EBCDIC</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/EBCDIC)</URL> ve binary- bir uç aygıttan diğerine iletimi için kullanılmaktadır."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#3",
+            "sentence": "Bir <PossibleEntity>dosyayı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dosya)</URL> <PossibleEntity>FTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/FTP)</URL> kullanarak başka bir <PossibleEntity>TCP/IP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/TCP/IP)</URL> ağı üzerindeki kullanıcıya yollamak için o ağdaki bilgisayarda geçerli bir kullanıcı ismi ve şifresi gerekmektedir."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#4",
+            "sentence": "Birçok FTP sunucusu, kullanıcı ismi ve parola olmadan erişim için \"anonim FTP\" (anonymous FTP) desteği verir, bu kullanım için kullanıcı adı olarak anonymous parola olarak ise bir <PossibleEntity>e-mail</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/E-mail)</URL> adresi girilmesi gerekmektedir ( <PossibleEntity>Internet Explorer</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Internet_Explorer)</URL> , e-mail olarak IEuser@ girer)."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#5",
+            "sentence": "FTP, dosya transferi ve komut transferi için değişik <PossibleEntity>portlar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Port)</URL> kullanır."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#6",
+            "sentence": "Varsayılan konfigürasyonda, komut transferi (yani sisteme giriş, klasör değiştirme, dosya adı değiştirme veya \"dosya yolluyorum\" komutları) için kullanılan port numarası 21'dir. Dosyalar indirilir veya gönderilirken ise o an boş olan bir port numarası kullanılır."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#7",
+            "sentence": "Dosya aktarım iletişim kuralı için orijinal tanımlama Abhay Bushan tarafından yazılmış ve 16 Nisan 1971'de <PossibleEntity>RFC 114</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc114)</URL> olarak yayınlanmıştır."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#8",
+            "sentence": "Daha sonra Haziran 1980'de <PossibleEntity>RFC 765</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc765)</URL> 'e ve Ekim 1985'te <PossibleEntity>RFC 959</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc959)</URL> olan bugünkü haline getirilmiştir."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#9",
+            "sentence": "Teklif edilen son standartlar <PossibleEntity>RFC 959</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc959)</URL> 'u geliştirmiştir, örneğin <PossibleEntity>RFC 2228</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc2228)</URL> (Haziran 1997) güvenlik geliştirmelerini önerir ve <PossibleEntity>RFC 2428</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc2428)</URL> (Eylül 1998) <PossibleEntity>IPv6</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPv6)</URL> için destek sağlar, yeni bir çeşit pasif mod tanımlar."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#10",
+            "sentence": "Ağ açısından bakıldığı zaman FTP' ni iki türü vardır."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#11",
+            "sentence": "Bu FTP çeşitlerinden hangisinin kullanılacağını istemci tarafı belirler."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#12",
+            "sentence": "<PossibleEntity>İstemci</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0stemci)</URL> , <PossibleEntity>sunucunun</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sunucu_(bili%C5%9Fim))</URL> 21 numaralı <PossibleEntity>portundan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/TCP_ve_UDP_port_numaralar%C4%B1_listesi)</URL> kontrol bağlantısı kurarak FTP sunucusuna bağlanır."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#13",
+            "sentence": "Bu durumda istemci komut satırına düşer ve ls ve get komutlarını buradan gönderir."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#14",
+            "sentence": "Tüm veri aktarım bağlantısı sunucu üzerinden 20 numaralı <PossibleEntity>porttan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/TCP_ve_UDP_port_numaralar%C4%B1_listesi)</URL> gerçekleştirilir."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#15",
+            "sentence": "İstemci ls komutunu çalıştırdığında geri dönen cevap sunucunun 20 numaralı portundan değil, 21 numaralı portundan gerçekleşir."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#16",
+            "sentence": "Daha sonra sunucu kaynak portunu 20 yapacak şekilde değiştirir ve dosya aktarımına devam eder."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#17",
+            "sentence": "Pasif FTP, değişik sebeplerden dolayı sistemde meydana gelen ftp problemlerine sunucu tarafında çözüm bulmak amacıyla çıkarılmış ftp çeşididir."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#18",
+            "sentence": "İstemci, 21 numaralı porttan önce kontrol bağlantısı kurarak FTP sunucusuna bağlanır."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#19",
+            "sentence": "Aktif bağlantıdaki gibi istemci ne zaman veri aktarımı gerçekleştirmeye başlarsa istemciden yeni bir port açılır."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#20",
+            "sentence": "İstemci, sunucuya PASV komutu gönderir."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#21",
+            "sentence": "Bu komut sonucunda sunucuda da yeni bir port açılır."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#22",
+            "sentence": "Böylece veri aktarımı <PossibleEntity>istemcinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0stemci)</URL> en son açtığı port ile sunucunun en son açtığı port arasında gerçekleşir."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#23",
+            "sentence": "Bu yöntem genelde bağlantı filtreleme ve güvenlik duvarı gibi problemleri ortadan kaldırmaya yönelik geliştirilmiştir."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#24",
+            "sentence": "FTP, güvenli bir protokol olarak dizayn edilmemişti -özellikle günümüz standartlarında- ve güvenlik açısından birçok zayıflığı vardı."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#25",
+            "sentence": "Mayıs 1999'da <PossibleEntity>RFC 2577</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc2577)</URL> 'nin yazarları güvenlik zaaflarını listeledi."
+        },
+        {
+            "id": "Dosya aktarım iletişim kuralı#26",
+            "sentence": "Bunlar; Bounce saldırısı, Spoof saldırısı, Kaba kuvvet saldırı, Kullanıcı adı korunumu, Port hırsızlığı"
+        }
+    ]
+}

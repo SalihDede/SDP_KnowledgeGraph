@@ -1,0 +1,818 @@
+{
+    "Title": "IPv6",
+    "Card": {},
+    "Main": [
+        {
+            "id": "IPv6#1",
+            "sentence": "<PossibleEntity>OSI modeli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/OSI_modeli)</URL>"
+        },
+        {
+            "id": "IPv6#2",
+            "sentence": "Internet Protocol Version 6 ( <PossibleEntity>Türkçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)</URL> : İnternet Protokol Sürüm 6 ) kısaca IPv6 , 32 <PossibleEntity>bitlik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bit_(bili%C5%9Fim))</URL> bir adres yapısına sahip olan <PossibleEntity>IPv4</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPv4)</URL> 'ün adreslemede artık yetersiz kalması ve ciddi sıkıntılar meydana getirmesi üzerine <PossibleEntity>IETF</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_M%C3%BChendisli%C4%9Fi_G%C3%B6rev_G%C3%BCc%C3%BC)</URL> tarafından geliştirilmiştir."
+        },
+        {
+            "id": "IPv6#3",
+            "sentence": "IPv4 oluşturulmaya başlandığında <PossibleEntity>internetin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> bu kadar ilerleyeceği hesap edilmemişti."
+        },
+        {
+            "id": "IPv6#4",
+            "sentence": "Ancak internet kullanımının yaygınlaşması ve IP (Internet Protocol) adresi gerektiren yeni aygıtların (cep telefonları, IP telefon, sayısal fotoğraf makineleri vb.) ortaya çıkması, var olan adreslerin yetersiz kalmasına yol açmıştır."
+        },
+        {
+            "id": "IPv6#5",
+            "sentence": "Adresleme sıkıntısı oluşunca 128 bitlik adres yapısı olan IPv6'ya geçilmesi kaçınılmaz olmuştur."
+        },
+        {
+            "id": "IPv6#6",
+            "sentence": "Bu sefer gelecek fazlasıyla düşünülerek oluşturulmuş bir adres yapısıdır."
+        },
+        {
+            "id": "IPv6#7",
+            "sentence": "Yeni adreslemede sınırsız denebilecek bir adres aralığı olacaktır."
+        },
+        {
+            "id": "IPv6#8",
+            "sentence": "IPv6'da adresler 8 (sekiz) oktetten oluşur ve 16 (on altılık) tabanda temsil edilir. 128 bit önce 16 bitlik bölümlere (oktet) ayrılır."
+        },
+        {
+            "id": "IPv6#9",
+            "sentence": "Her oktet, on altılık tabana çevrilir."
+        },
+        {
+            "id": "IPv6#10",
+            "sentence": "Ve iki nokta üst üste (:) ile birbirlerinden ayrılırlar."
+        },
+        {
+            "id": "IPv6#11",
+            "sentence": "21DA:00D3:0000:2F3B:02AA:00FF:FE28:9C5A IPv6; kimlik denetimi ve ağdaki bilgisayarların konumlandırılmasını sağlar."
+        },
+        {
+            "id": "IPv6#12",
+            "sentence": "IPv6'da adres uzunluğunun 128-bit olmasının yanı sıra adresleme mimarisi ve adres yapısı oldukça değişmiştir; adreslerin yazımında da, genel olarak, 16'lık tabandaki notasyonun kullanılması tercih edilmiştir."
+        },
+        {
+            "id": "IPv6#13",
+            "sentence": "Örneğin, aşağıda tipik iki IPv6 adresi verilmiştir."
+        },
+        {
+            "id": "IPv6#14",
+            "sentence": "Görüldüğü gibi her dört-karakterden oluşan gruplar birbirlerinden “:” karakteriyle ayrılmıştır. 16'lık tabanda her bir karakter 4-bit ile temsil edildiğinden dört karakteri toplamda 16-bit eder. Yani 16 bitlik adres parçaları 4 (dört) karakterden oluşmakta ve birbirlerinden “:” ile ayrılmaktadır."
+        },
+        {
+            "id": "IPv6#15",
+            "sentence": "Dolayısıyla bir IPv6 adresinde her biri 16-bitten oluşan 8 (sekiz) parça vardır."
+        },
+        {
+            "id": "IPv6#16",
+            "sentence": "Yukarıda farklı iki IPv6 (a ve b) adresi verilmiştir."
+        },
+        {
+            "id": "IPv6#17",
+            "sentence": "Üstteki (a) adreste tüm karakterler tam olarak yazılmış iken, alttaki (b) adreste görüldüğü gibi 4 (dört) karakterlik parçaların soldaki karakterleri sıfır (0) ise yazılmasına gerek yoktur. 4-karakterlik parçanın tamamı sıfır ise bir tane sıfır yazılır ve sıfır olan parçalar birden fazla ise özel bir kısaltma kullanılabilir."
+        },
+        {
+            "id": "IPv6#18",
+            "sentence": "Örneğin aşağıda tam yazım ve kısaltmalı yazım şekli gösterilmiştir:"
+        },
+        {
+            "id": "IPv6#19",
+            "sentence": "1999:6:13:0:0:1962:2:15 → kısaltmalı → 1999:6:13::1962:2:15"
+        },
+        {
+            "id": "IPv6#20",
+            "sentence": "0:0:0:0:0:0:0:1 → kısaltmalı → ::1"
+        },
+        {
+            "id": "IPv6#21",
+            "sentence": "0:0:0:0:0:0:0:0 → kısaltmalı → ::"
+        },
+        {
+            "id": "IPv6#22",
+            "sentence": "FF01:0:0:0:0:0:0:0:0:101 → kısaltmalı → FF01::101"
+        },
+        {
+            "id": "IPv6#23",
+            "sentence": "Yeni nesil protokolde adresleme şeklinin yanı sıra adres türü ve iletişim şekillerinde de değişiklik gözlenmektedir."
+        },
+        {
+            "id": "IPv6#24",
+            "sentence": "Günümüzde IPv4'te yaygın bir şekilde kullanılan ve ağ uzmanları için bazı sorunları da birlikte getiren yayın (broadcast) türü iletim şekli yeni nesil yönlendirme protokolünde kaldırılmıştır."
+        },
+        {
+            "id": "IPv6#25",
+            "sentence": "IPv6'da adres türleri aşağıdaki gibidir:"
+        },
+        {
+            "id": "IPv6#26",
+            "sentence": "Tek-alıcılı (unicast) : Bir düğümün bir arayüzüne verilebilir; bu tekil bir durumdur ve o arayüzü kimlik sahibi yapar."
+        },
+        {
+            "id": "IPv6#27",
+            "sentence": "Ancak, aynı arayüz birden fazla IPv6 adresine sahip olabilir."
+        },
+        {
+            "id": "IPv6#28",
+            "sentence": "Örneğin, iki farklı iletişim kanalının band birleştirilmesi için böyle durum kullanılabilir."
+        },
+        {
+            "id": "IPv6#29",
+            "sentence": "Fakat, bir tek-alıcılı adres birden çok arayüze de atanabilir; böylece bu adres tek-alıcılı adres olmaktan çıkıp “herhangi bir alıcılı” adres durumuna dönüşür."
+        },
+        {
+            "id": "IPv6#30",
+            "sentence": "Herhangi bir alıcılı (anycast) : Birden çok arayüze atanmış adrestir."
+        },
+        {
+            "id": "IPv6#31",
+            "sentence": "Gönderilen IP paketi bunlardan hangisine ilk önce ulaşırsa paket ona gider."
+        },
+        {
+            "id": "IPv6#32",
+            "sentence": "Yani, herhangi bir alıcılı adrese gönderilen bir paket bu adrese sahip arayüzlerden en yakında olanına teslim edilir."
+        },
+        {
+            "id": "IPv6#33",
+            "sentence": "Çok-alıcılı (multicast) : Birden çok arayüze verilebilen adres türüdür."
+        },
+        {
+            "id": "IPv6#34",
+            "sentence": "Bu adrese gönderilen bir paket adresin atanmış olduğu tüm arayüzlere gider."
+        },
+        {
+            "id": "IPv6#35",
+            "sentence": "Çok-alıcılı adresleme yayın türü adresleme ihtiyacını da giderir."
+        },
+        {
+            "id": "IPv6#36",
+            "sentence": "IPv6 ağ omurgasında en azından bir adet adres atanarak kimliklendirilmiş bir cihaz, bir sistem “düğüm” olarak görülür."
+        },
+        {
+            "id": "IPv6#37",
+            "sentence": "Ancak, IPv6 adresleri düğümlere değil de arayüzlere atanır."
+        },
+        {
+            "id": "IPv6#38",
+            "sentence": "Bir düğüm bir tane arayüze sahip olabildiği gibi birden çok arayüze de sahip olabilir."
+        },
+        {
+            "id": "IPv6#39",
+            "sentence": "Kısacası IPv6 adresi arayüzlere atanır."
+        },
+        {
+            "id": "IPv6#40",
+            "sentence": "Eğer bir düğümün bir tane arayüzü varsa o adres aynı zamanda düğüm adresi olur. Bir arayüze birden çok IPv6 adresi atanabilir; bu adresler tek-alıcılı, herhangi bir alıcılı veya çok-alıcılı olabilir."
+        },
+        {
+            "id": "IPv6#41",
+            "sentence": "IPv4'te olan trafik işgal edici <PossibleEntity>paket</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Paket)</URL> başlıkları kaldırılarak bir hız arttırımına gidilmiştir."
+        },
+        {
+            "id": "IPv6#42",
+            "sentence": "Ayrıca yeni eklenen <PossibleEntity>şifreleme</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C5%9Eifreleme)</URL> sistemleriyle daha güvenli iletimler sağlanmaktadır."
+        },
+        {
+            "id": "IPv6#43",
+            "sentence": "Uçlar arasında şifreli iletimi kolaylaştıran AH ve ESP başlıkları mevcuttur."
+        },
+        {
+            "id": "IPv6#44",
+            "sentence": "AH ve ESP başlıkları uçlar arasındaki tüm veri iletimini şifreleyen <PossibleEntity>IPSec protokolünü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPsec)</URL> desteklemek amaçlı kullanılmıştır."
+        },
+        {
+            "id": "IPv6#45",
+            "sentence": "Ayrıca şu anda IPv4'ün, <PossibleEntity>QoS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/QoS_(port_%C3%B6nceli%C4%9Fi))</URL> eklentisiyle idare ettiği ama tam olarak destekleyemediği görüntü ve ses iletimi sıkıntısı IPv6 ile çözülecektir."
+        },
+        {
+            "id": "IPv6#46",
+            "sentence": "IPv6, görüntü ve ses paketlerine \"öncelikli pakettir\" ibaresi atanarak bunlara trafikte öncelik tanımasına olanak sağlamaktadır."
+        },
+        {
+            "id": "IPv6#47",
+            "sentence": "IPv4 ve IPv6 protokolleri birlikte çalışabilirler."
+        },
+        {
+            "id": "IPv6#48",
+            "sentence": "Sadece farklı protokoller."
+        },
+        {
+            "id": "IPv6#49",
+            "sentence": "Bu iki protokolün birbirleriyle haberleşebilmesi için ise bir çevirici gereklidir."
+        },
+        {
+            "id": "IPv6#50",
+            "sentence": "Bir veri internet üzerinde ağ paketleri biçiminde taşınır."
+        },
+        {
+            "id": "IPv6#51",
+            "sentence": "IPv6 yönlendiriciler tarafından işlenebilen paket başlığının boyutunu küçültmek için yeni bir paket biçimi belirler."
+        },
+        {
+            "id": "IPv6#52",
+            "sentence": "Çünkü IPv4 paketlerinin ve IPv6 paketlerinin başlıkları önemli derecede farklıdır, 2 protokol birlikte çalışamazlar."
+        },
+        {
+            "id": "IPv6#53",
+            "sentence": "Bununla birlikte çoğu açıdan IPv6 IPv4 ün genişletilmişidir."
+        },
+        {
+            "id": "IPv6#54",
+            "sentence": "Çoğu iletim ve uygulama katmanı protokolleri IPv6 üzerinde çok az değişikliğe ihtiyaç duyarlar ya da hiç duymazlar."
+        },
+        {
+            "id": "IPv6#55",
+            "sentence": "İstisnalar FTP ve NTPv3 benzeri yeni adres biçimi var olan protokol söz dizimi ile çakışmalara sebep olabilecek gömülü internet katman adresleri bulunan uygulama protokolleridir."
+        },
+        {
+            "id": "IPv6#56",
+            "sentence": "-Ağda veri paket şeklinde iletilir."
+        },
+        {
+            "id": "IPv6#57",
+            "sentence": "IPv6 da paket başlığı; yönlendiriciler tarafından daha hızlı bir şekilde işlenebilmeleri için sabit ve daha sade tasarlanmıştır."
+        },
+        {
+            "id": "IPv6#58",
+            "sentence": "IPv6 adres uzayı oldukça büyük olmasına rağmen paket başlığının IPv4'e göre daha küçük olmasından dolayı oldukça hızlıdır."
+        },
+        {
+            "id": "IPv6#59",
+            "sentence": "adet IPv6 adresi demektir. 32 bitlik adres (IPv4) yapısı demek"
+        },
+        {
+            "id": "IPv6#60",
+            "sentence": "adet IPv4 adresi demektir."
+        },
+        {
+            "id": "IPv6#61",
+            "sentence": "-Bir grup cihaza veri göndermeye çoklu gönderim (multicast) denir."
+        },
+        {
+            "id": "IPv6#62",
+            "sentence": "Broadcast ise ağdaki tüm cihazlara veri gönderimidir."
+        },
+        {
+            "id": "IPv6#63",
+            "sentence": "Veri broadcast ile gönderildiğinde yoğun bir ağ trafiği oluşur."
+        },
+        {
+            "id": "IPv6#64",
+            "sentence": "IPv6 da ise broadcast gönderim yoktur."
+        },
+        {
+            "id": "IPv6#65",
+            "sentence": "Böylece ağdaki trafik azaltılmış ve saldırı girişimleri daha kolay engellenebilecek seviyeye gelmiştir (ARP ve DHCP protokollerinde kimlik denetimi olmadığından saldırı amaçlı da kullanılabilir)."
+        },
+        {
+            "id": "IPv6#66",
+            "sentence": "IPv4 broadcast haberleşmeyi daha çok ARP ve DHCP protokollerinde kullanır."
+        },
+        {
+            "id": "IPv6#67",
+            "sentence": "IPv6'da ise ARP ve DHCP protokollerinin eşdeğerleri multicast haberleşmeyi kullanmaktadır."
+        },
+        {
+            "id": "IPv6#68",
+            "sentence": "IPv6'da üç tane dağıtım çeşidi vardır; unicast (tekli dağıtım), anycast (herhangi birine dağıtım), multicast (çoklu dağıtım)."
+        },
+        {
+            "id": "IPv6#69",
+            "sentence": "-ICMPv6 yönlendirici bulma mesajları ile Komşu Bulma Protokolü (NDP) IPv6 ağına bağlanıldığında IPv6 konak adresleri kendilerini otomatik olarak yapılandırabilir."
+        },
+        {
+            "id": "IPv6#70",
+            "sentence": "-IPSec (IP protokolünün IP ve daha üst katmanlar için güvenlik sağlayan bir genişletmesidir) ilk IPv6 için geliştirildi fakat daha sonra IPv4 için de tasarlandı."
+        },
+        {
+            "id": "IPv6#71",
+            "sentence": "IPv4 ile karşılaştırılıdığında , IPv6 nın en önemli avantajı geniş adres uzayına sahip olmasıdır."
+        },
+        {
+            "id": "IPv6#72",
+            "sentence": "IPv4 adresleri 32 bit uzunluğunda ve yaklaşık 4.3 milyar civarındadır."
+        },
+        {
+            "id": "IPv6#73",
+            "sentence": "IPv6 adresleri 128 bit uzunluğundadır ve yaklaşık 340 desilyondur (milyonun 10^36 katı)."
+        },
+        {
+            "id": "IPv6#74",
+            "sentence": "IPv6 adreslerinin tahmin edilebilen gelecek için yeterli olduğu varsayılır."
+        },
+        {
+            "id": "IPv6#75",
+            "sentence": "IPv6 adresleri virgüllerle ayrılmış 4'erli 8 grup şeklinde yazılır, 2001:0db8:85a3:0000:0000:8a2e:0370:7334 gibi. IPv6 unicast (teke-gönderim) adresleri bunlardan 000 ikilisi ile başlar ve sayısal olarak 2 parçaya bölünür: ilk 64 bit alt ağ ön eki ve 2. 64 bit arayüz tanımlayıcısıdır."
+        },
+        {
+            "id": "IPv6#76",
+            "sentence": "Stateless adres otokonfigürasyonu (SLAAC) çalışması için, alt ağlar <PossibleEntity>RFC 4291</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc4291)</URL> section 2.5.1'in tanımladığı üzere bir tane 64 blok adres gerektirir."
+        },
+        {
+            "id": "IPv6#77",
+            "sentence": "Yerel internet kaydedicileri ayrılmış en az /32 bloğu alırlar."
+        },
+        {
+            "id": "IPv6#78",
+            "sentence": "Bu blok ISP (internet hizmet sağlayıcı)‘ler arasında bölüştürülür."
+        },
+        {
+            "id": "IPv6#79",
+            "sentence": "Eski <PossibleEntity>RFC 3177</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc3177)</URL> tavsiyesi /48 son kullanıcı tarafına tahsis edilmişti."
+        },
+        {
+            "id": "IPv6#80",
+            "sentence": "Bu müşteri tarafına tek bir /64 bitten daha fazla vermeyi ön gören <PossibleEntity>RFC 6177</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc6177)</URL> ile değiştirildi fakat her bir eve ya /48 ya da /56 bit özel olarak verilebileceği ön görülmemiştir."
+        },
+        {
+            "id": "IPv6#81",
+            "sentence": "ISP'ler (internet hizmet sağlayıcıları) bu öngörüyü kabul edecekmiş gibi görünüyor mesala başlangıç sürümlerinde Comcast müşterilerine tek bir /64 ağ verilmişti."
+        },
+        {
+            "id": "IPv6#82",
+            "sentence": "IPv6 adresleri 3 tip ağ metodoloji ile sınıflandırılır."
+        },
+        {
+            "id": "IPv6#83",
+            "sentence": "Unicast (teke-gönderim) adresleri her bir ağ bağlantı arayüzünü (interface) tanımlar, anycast (herhangiye-gönderim) adresler grup bağlantı arayüzlerini tanımlar, genellikle farklı yerlerde en yakın kanal arayüzü otomatik olarak seçilir ve multicast adresleri birden çok bağlantı arayüzüne dağıtmak için kullanılır."
+        },
+        {
+            "id": "IPv6#84",
+            "sentence": "Broadcast (çoğa-yayım) metodunun IPv6 içinde gerçekleştirimi yoktur."
+        },
+        {
+            "id": "IPv6#85",
+            "sentence": "Her bir IPv6 adres geçerli ve benzersiz bir ağın bir parçası içinde belirlenmiş bir alana sahiptir."
+        },
+        {
+            "id": "IPv6#86",
+            "sentence": "Bazı adresler sadece yerel ağda benzersizdir."
+        },
+        {
+            "id": "IPv6#87",
+            "sentence": "Diğerleri evrensel olarak benzersizdir."
+        },
+        {
+            "id": "IPv6#88",
+            "sentence": "Bazı IPv6 adresleri belirli gruplar için ayrılmıştır; loopback, 6to4 tunelleme ve Teredo tünelleme gibi. <PossibleEntity>RFC 5156</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc5156)</URL> içinde bunlar belirtilmiştir."
+        },
+        {
+            "id": "IPv6#89",
+            "sentence": "Bazı adres aralıkları da özel olarak göz önüne alınmıştır hat-yerel (link-local) adresleri gibi adresler sadece yerel bağlantıda Unique Local adresler (ULA) kullanılırlar."
+        },
+        {
+            "id": "IPv6#90",
+            "sentence": "ULA <PossibleEntity>RFC 4193</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc4193)</URL> içinde tanımlanmıştır ve sorgu yapan host (solicidet-node) multicast adresleri (Komşu keşif protokolü) Neighbor Discovery Protocol içerisinde kullanılır."
+        },
+        {
+            "id": "IPv6#91",
+            "sentence": "Aşağıda belirtilen adresler özel IPv6 adresleridir:"
+        },
+        {
+            "id": "IPv6#92",
+            "sentence": "Belirtilmemiş adresler (0:0:0:0:0:0:0:0 ya da ::) sadece bir adresin var olmadığını belirtir."
+        },
+        {
+            "id": "IPv6#93",
+            "sentence": "Bu adres <PossibleEntity>IPv4</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPv4)</URL> sürümündeki 0.0.0.0 adresiyle eşdeğerdir."
+        },
+        {
+            "id": "IPv6#94",
+            "sentence": "Belirtilmemiş adres tipik olarak eşsiz adres belirlenilmeden önce kaynak adres olarak kullanılır."
+        },
+        {
+            "id": "IPv6#95",
+            "sentence": "Belirtilmemiş bir adres hiçbir zaman arayüz olarak atanmaz ya da hedef adres olarak kullanılmaz."
+        },
+        {
+            "id": "IPv6#96",
+            "sentence": "Loopback adresi (0:0:0:0:0:0:0:1 ya da ::1) bir düğümün kendine paket göndermesini etkinleştiren bir loopback arayüzünü belirlemek için kullanılır."
+        },
+        {
+            "id": "IPv6#97",
+            "sentence": "Bu adres IPv4 sürümündeki 127.0.0.1 adresiyle eşdeğerdir."
+        },
+        {
+            "id": "IPv6#98",
+            "sentence": "Paketler Loopback adresine IPv6 yönlendiricisinden link üzerinden gönderilmemeli ya da iletilmemelidir."
+        },
+        {
+            "id": "IPv6#99",
+            "sentence": "Veriyi korumak amacıyla, olası <PossibleEntity>Threadlerin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0%C5%9F_par%C3%A7ac%C4%B1%C4%9F%C4%B1)</URL> haberdar olması gerekir."
+        },
+        {
+            "id": "IPv6#100",
+            "sentence": "İnsanlar sıklıkla, sadece yabancı ağdan gelen kötü niyetli saldırılara odaklanıyorlar."
+        },
+        {
+            "id": "IPv6#101",
+            "sentence": "Kapsamlı bir güvenlik kavramı birçok yönden düşünülmelidir."
+        },
+        {
+            "id": "IPv6#102",
+            "sentence": "Aşağıda olası zayıf noktalar listelenmiştir:"
+        },
+        {
+            "id": "IPv6#103",
+            "sentence": "Birçok istatistik dışarıdan gelen kötü niyetli saldırıların tüm olası risklerden sadece küçük bir bölümü olduğunu gösteriyor."
+        },
+        {
+            "id": "IPv6#104",
+            "sentence": "Birçok tehdit, iç ağdan gelir ve bunların birçoğu insan hatası ya da hatalı uygulamaya bağlıdır."
+        },
+        {
+            "id": "IPv6#105",
+            "sentence": "Bu risklerin çoğu teknik mekanizmalar tarafından kontrol edilemez."
+        },
+        {
+            "id": "IPv6#106",
+            "sentence": "Bu bölüm tüm güvenlik kavramıyla ilgili bir rehber değil, IPv6 ile güvenliğin teknoloji tarafından değerlendirilmesidir."
+        },
+        {
+            "id": "IPv6#107",
+            "sentence": "IPv6'nın IPv4 üzerine temel avantajı daha geniş adres uzayına sahip oluşudur."
+        },
+        {
+            "id": "IPv6#108",
+            "sentence": "IPv6 nın adres uzunluğu 128 bittir, IPv4 de 32 bittir. bu yüzden adres uzayı yaklaşık olarak 3,4×1038 dir. Hesaplarsak bu miktar yaklaşık olarak 2011'de yaşayan 7 milyar insanın her birine 4,8×1028 adres düşmektedir."
+        },
+        {
+            "id": "IPv6#109",
+            "sentence": "Ek olarak IPv4 adres uzayı istifade edilen hazır adresin %14'ü yetersiz olarak ayırılmıştır. bu sayılar çok fazla iken, IPv6 adres uzayı tasarımcılarının niyeti kullanılabilir adreslerin coğrafik doyumunu güvene almak değildi."
+        },
+        {
+            "id": "IPv6#110",
+            "sentence": "Onun yerine niyetleri daha uzun adreslerin adres yer ayırmayı kolaylaştırmasını sağlamak, verimli yönlenme yığınını aktif etmesini ve belirli adresleme özelliklerine izin vermesini sağlamaya çalışmaktır."
+        },
+        {
+            "id": "IPv6#111",
+            "sentence": "IPv4 içinde karmaşık olan sınıfsız ara-bölge yönlendirme bildiğimiz adıyla CIDR (Classless Inter-Domain Routing) küçük adres uzayında en iyi kullanımı sağlamak amacıyla geliştirilmiştir."
+        },
+        {
+            "id": "IPv6#112",
+            "sentence": "IPv6 içinde alt ağın standart boyu 264'tür yani IPv4 tüm adres uzayının iki katıdır."
+        },
+        {
+            "id": "IPv6#113",
+            "sentence": "Bu yüzden gerçek adres uzayı sağlama oranı IPv6 içinde küçük olacaktır fakat ağ yönetimi ve yönlendirme verimliliği geniş alt ağı uzayıyla geliştirilmiştir."
+        },
+        {
+            "id": "IPv6#114",
+            "sentence": "Farklı yönlendirme ile birlikte yeni bağlantı sağlayıcı için var olan bir ağı yeniden numaralandırma, IPv4 de büyük bir çaba gerektirir."
+        },
+        {
+            "id": "IPv6#115",
+            "sentence": "IPv6 ile ön ekin değişeceği tüm ağa duyurulur ve tüm ağa ana bir numara verilir ağa bağlı makinalar (host) tanımlayıcıları (en az anlamlı 64 biti) birbirinden bağımsız olarak host tarafından konfigüre edilir."
+        },
+        {
+            "id": "IPv6#116",
+            "sentence": "Tek bir gönderme işlemi içerisinde birden çok hedefe bir paketin iletimidir."
+        },
+        {
+            "id": "IPv6#117",
+            "sentence": "IPv4 içinde bu ortak gerçekleştirim özelliğine rağmen seçimlidir."
+        },
+        {
+            "id": "IPv6#118",
+            "sentence": "IPv6 içerisinde ise temel tanımlamanın bir parçasıdır."
+        },
+        {
+            "id": "IPv6#119",
+            "sentence": "IPv6 çoğa-gönderim (multicast) adresleme IPv4 çoğa-gönderim ile ortak protokoller ve ortak özellikler paylaşır fakat IPv6 kesin protokol için gereklilikleri ortadan kaldırarak geliştirim ve değişimde sağlar."
+        },
+        {
+            "id": "IPv6#120",
+            "sentence": "IPv6 geleneksel ip broadcast (geniş-ağ, tüm ağa gönderim) gerçekleştirimine ihtiyaç duymaz."
+        },
+        {
+            "id": "IPv6#121",
+            "sentence": "Mesala bir paketin özel geniş-ağ (broad-cast) adresi kullanan hatta bağlı tüm hostlara (internete bağlı bilgisayar) gönderimini gerçekleştirmez ve bu yüzden broadcast adres tanımı yapmaz."
+        },
+        {
+            "id": "IPv6#122",
+            "sentence": "IPv6 içerisinde, broadcast gönderim ile aynı sonuç bir paketi bağlı-yerel (link-local) nodelara (bağlı makine -host) göndererek elde edilir, IPv4 broadcast adresle eş 224.0.0.1 adresi IPv6 içinde ff02::1 link-local multicast adresidir."
+        },
+        {
+            "id": "IPv6#123",
+            "sentence": "IPv6, bir multicast grup adres içindeki nokta adreslerle buluşma içeren yeni bir multicast gerçekleştirimde sağlar."
+        },
+        {
+            "id": "IPv6#124",
+            "sentence": "Bu da merkezi-bölge (inter-domain) çözümlerinin gerçekleştirimini kolaylaştırır."
+        },
+        {
+            "id": "IPv6#125",
+            "sentence": "IPv4 içerisinde küresel olarak yönlendirilebilir multicast grup atamasını elde etmek oldukça zordur ve merkezi-bölge (inter-domain) çözümünün gerçekleştirimi çok esrarlıdır."
+        },
+        {
+            "id": "IPv6#126",
+            "sentence": "IPv6 için en azından 64 bit yönlendirme ön eki için Yerel internet kaydı (local internet registry) tarafından unicast (tekağ-gönderimi) adres atamaları, IPv6 içindeki en küçük alt ağ boyutu uygunluğu kadar sonuç üretmektedir. bu gibi bir atamayla unicast adres ön ekini IPv6 multicast adres formatına çevirmek mümkündür."
+        },
+        {
+            "id": "IPv6#127",
+            "sentence": "Bu yüzden IPv6 alt ağının her bir kullanıcısı otomatik olarak multicast uygulamalar için küresel yönlendirilebilir kaynağı-belirli multicast gruplara uyarlanabilir"
+        },
+        {
+            "id": "IPv6#128",
+            "sentence": "İnternet protokol güvenliği (IPSec) orijinal olarak IPv6 için geliştirildi. fakat ilk IPv4 içinde de geniş alanda kullanım alanı buldu."
+        },
+        {
+            "id": "IPv6#129",
+            "sentence": "IPSec temel IPv6 protokol uyumunun zorunlu tanımlamasıdır fakat o zamandan beri seçimli olarak gelmektedir."
+        },
+        {
+            "id": "IPv6#130",
+            "sentence": "IPv6 içerisinde paket başlığı ve paket ilerleme süreci basitleştirilmiştir."
+        },
+        {
+            "id": "IPv6#131",
+            "sentence": "IPv6 paket başlıkları IPv4 paket başlıklarının en az iki katı boyutta olmasına rağmen yönlendiriciler tarafından paket işleyişi genel olarak daha verimlidir."
+        },
+        {
+            "id": "IPv6#132",
+            "sentence": "Bunun sebebi Internet tasarımının sondan-sona (end-to-end) ilkesi geliştirilmiş olmasıdır."
+        },
+        {
+            "id": "IPv6#133",
+            "sentence": "Özellikle:"
+        },
+        {
+            "id": "IPv6#134",
+            "sentence": "Sondan sona parçalama işlemini gerçekleştirirler veya paket göndermek için IPv6 varsayılan MTU boyutu olan 1280 oktetten daha geniş MTU kullanırlar."
+        },
+        {
+            "id": "IPv6#135",
+            "sentence": "IPv6 başlıkları checksum tarafından kontrol edilmez."
+        },
+        {
+            "id": "IPv6#136",
+            "sentence": "Bütünlük korumasının hem bağlı-katman (link-layer) hem de daha üst katman (TCP, UDP) hata tespiti tarafından güvene alındığı varsayılır."
+        },
+        {
+            "id": "IPv6#137",
+            "sentence": "UDP/IPv4 hiçbir checksum kontrolü yoksa 0 değerine sahip olabilir; IPv6 UDP nin kendi checksum kontrolünü yapmasına ihtiyaç duyar.Bu yüzden IPv6 yönlendiricileri başlık alanlarının (Time to Live (TTL) veya hop count (yönlendirici sayısı) benzeri) checksumlarını yeninden hesaplamaya ihtiyaç duymaz."
+        },
+        {
+            "id": "IPv6#138",
+            "sentence": "Bu geliştirim yönlendiricilerin bağlantı hızında işaret edilen donanımı kullanarak checksum hesaplaması yapmasını sağlayabilir fakat hala yazılım-tabanlı yönlendiriciler için ayırıcı durumlar vardır."
+        },
+        {
+            "id": "IPv6#139",
+            "sentence": "Alan İsim Sisteminde, makine isimleri IPv6 adreslerine AAAA kaynak kayıtları tarafından eşleştirilir, 4'lü-A kayıtları olarak isimlendirilir."
+        },
+        {
+            "id": "IPv6#140",
+            "sentence": "Tersine çözüm için, IETF ip6.arpa alanını ayırmıştır."
+        },
+        {
+            "id": "IPv6#141",
+            "sentence": "Bu alanda isim uzayı IPv6 adresinin 4 bit birimlerinin 1 haneli hexadecimali şeklinde ayrıldı."
+        },
+        {
+            "id": "IPv6#142",
+            "sentence": "Bu yöntem <PossibleEntity>RFC 3596</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc3596)</URL> içinde tanımlanmıştır."
+        },
+        {
+            "id": "IPv6#143",
+            "sentence": "IPv6 paket başlığı 32 bitlik 10 satırdan oluşur."
+        },
+        {
+            "id": "IPv6#144",
+            "sentence": "Paket başlığındaki bölümler şunlardır:"
+        },
+        {
+            "id": "IPv6#145",
+            "sentence": "<PossibleEntity>Mobil ipv</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mobil_IP)</URL> 4'e benzemeksizin <PossibleEntity>mobil ipv</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mobil_IP)</URL> 6 triangular routing problemden( <PossibleEntity>mobil ip</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mobil_IP)</URL> içerisinde karşılık gelen host tarafından mobil bir hosta gönderilen paketler ilk olarak mobil hotsun home Agent'ına gönderilir daha sonra o anki lokasyonundaki home agent'ına bakılarak o mobil hosta paket ilerler."
+        },
+        {
+            "id": "IPv6#146",
+            "sentence": "Bununla birlikte mobil hosttan gönderilmiş paketler bu yöntemle elde edilmez fakat onun yerine hedeflerine doğrudan gönderilir.) sakınmaktadır."
+        },
+        {
+            "id": "IPv6#147",
+            "sentence": "IPv6 paket başlığı sabit bir büyüklüğe sahiptir (40 oktet)."
+        },
+        {
+            "id": "IPv6#148",
+            "sentence": "IPv6 başlığından sonra, ek uzantı başlıkları olarak eklenir ki bunların büyüklüğü sadece tüm bir paketin büyüklüğünde limitlenir."
+        },
+        {
+            "id": "IPv6#149",
+            "sentence": "Ek uzatma başlığı mekanizması, protolokolü genişletilebilir yapar ve bu, gelecekte hizmetin kalitesinin, güvenliğinin, taşınabilmesinin ve birçok özelliğinin, temel protokol düzenlenmeden yapılmasına olanak sağlar."
+        },
+        {
+            "id": "IPv6#150",
+            "sentence": "IPv6 ağı ile uyumluluk, temel olarak bir yazılım ya da aygıt yazılımı (firmware) meselesidir."
+        },
+        {
+            "id": "IPv6#151",
+            "sentence": "Ancak, prensipte yükseltilebilir olan eski donanımların birçoğunun değiştirilmesi muhtemeldir. <PossibleEntity>The American Registry for Internet Numbers (ARIN)</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=The_American_Registry_for_Internet_Numbers_(ARIN)&action=edit&redlink=1)</URL> , tüm internet sunucularının Ocak 2012 itibarıyla sadece IPv6 istemcilerine hizmet sağlanmasını önerdi."
+        },
+        {
+            "id": "IPv6#152",
+            "sentence": "Eğer siteler IPv4 literalerini kullanmazlarsa, sadece <PossibleEntity>NAT64</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/NAT64)</URL> (Network Address Translation - Ağ Adresi Dönüştürme) üzerinden erişilebilir olacak."
+        },
+        {
+            "id": "IPv6#153",
+            "sentence": "IPv4 gibi IPv6 her bir cihazın potansiyel olarak izlenebildiği küresel eşsiz ip adreslerini destekler."
+        },
+        {
+            "id": "IPv6#154",
+            "sentence": "IPv6'nın tasarımı Internetin erken gelişmeleri boyunca orijinal olarak tasarlanılmış sondan sona (end-to-end) ağ tasarım ilkelerinden yeniden etkilenilerek planlanmıştır."
+        },
+        {
+            "id": "IPv6#155",
+            "sentence": "Bu yaklaşımda ağ üzerindeki her bir cihaz internet üzerinde herhangi bir lokasyondan doğrudan ulaşılabilir eşsiz bir adrese sahiptir."
+        },
+        {
+            "id": "IPv6#156",
+            "sentence": "Uygun adres uzayı sağlamak için harcanan çaba, Network-address-translation (ağ-adres-dönüşüm-NAT) ile sağlanmıştır fakat ağ adres uzaylarını, hostları ve IPv4 deki topolojileri allak bullak etmiştir. adres otokonfigürasyonu kullanıldığında arayüz portunun donanım adresi (MAC adresi) genel adresi kullanıcının online aktiviteleri ve benzersiz yönetim için donanımın tipini üstlenerek adres eşsiz yapılır."
+        },
+        {
+            "id": "IPv6#157",
+            "sentence": "IPv6 hostları için adres oto konfigürasyon gerekli değildir."
+        },
+        {
+            "id": "IPv6#158",
+            "sentence": "Bununla birlikte hala adresler MAC adres tabanlı değildir."
+        },
+        {
+            "id": "IPv6#159",
+            "sentence": "Arayüzün adresi özel ağlar içinde NAT'lanarak küresel olarak benzersiz yapılır."
+        },
+        {
+            "id": "IPv6#160",
+            "sentence": "IPv6 için olan gizlilik uzantısı gizli adresleri tanımlar."
+        },
+        {
+            "id": "IPv6#161",
+            "sentence": "Gizlilik uzantısı aktif edildiğinde işletim sistemi rastgele host tanımlayıcısı üreterek atanmış ağ ön ekiyle birlikte geçici olarak bir ip adresi üretir."
+        },
+        {
+            "id": "IPv6#162",
+            "sentence": "Bu geçici adresler, izlenilebilir statik ip adreslerinin yerine uzaktaki hostlarla haberleşmek için kullanılır."
+        },
+        {
+            "id": "IPv6#163",
+            "sentence": "Geçici adreslerin kullanımı tek bir IPv6 adresi için aktivite akışını tarayarak kullanıcının internet aktivitesini doğru olarak izlemeyi zorlaştırır."
+        },
+        {
+            "id": "IPv6#164",
+            "sentence": "Windows, Mac OS X (10.7 sürümünden beri) ve iOS (versiyon 4.3 den bu yana) içinde varsayılan olarak gizlilik uzantısı aktiftir."
+        },
+        {
+            "id": "IPv6#165",
+            "sentence": "Bazı Linux dağıtımlarında da gizlilik uzantısı aktiftir."
+        },
+        {
+            "id": "IPv6#166",
+            "sentence": "Gizlilik uzantıları kullanıcıyı aktivitesinin izlenmesinden korumaz."
+        },
+        {
+            "id": "IPv6#167",
+            "sentence": "Gizlilik uzantıları eğer sadece bir veya iki host verilen ağ ön ekini kullanıyorsa kullanıcı aktivitesinin izlenmesinden korumaz ve aktivite izleyici bu bilgiyi saklar."
+        },
+        {
+            "id": "IPv6#168",
+            "sentence": "Bu sahnede, ağ ön eki izleme için eşsiz tanımlayıcıdır."
+        },
+        {
+            "id": "IPv6#169",
+            "sentence": "Ağ ön eki izlemesi eğer kullanıcının ISP atamaları DHCP tarafından dinamik ağ öneki verilerek yapılıyorsa koruma daha azdır."
+        },
+        {
+            "id": "IPv6#170",
+            "sentence": "<PossibleEntity>IPv6 adresleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPv6_Adres)</URL> 128 bit içeriyor."
+        },
+        {
+            "id": "IPv6#171",
+            "sentence": "IPv6 adres alanının tasarımı, küçük adres alanının kullanım verimliliğini artırmak için alt ağın kullanıldığı IPv4'tekinden farklı bir tasarım felsefesi uygular."
+        },
+        {
+            "id": "IPv6#172",
+            "sentence": "IPv6'da, adres alanı öngörülebilir gelecek için yeterince büyük kabul edilir ve yerel alan alt ağı her zaman adresin ana bilgisayar kısmı için arabirim tanımlayıcısı olarak belirlenmiş 64 bit kullanır, en önemli 64 bit ise yönlendirme olarak kullanılır önek. IPv6 alt ağlarının taranmasının imkânsız olduğu konusunda efsane mevcut olsa da, <PossibleEntity>RFC 7707</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc7707)</URL> , bazı IPv6 adres yapılandırma tekniklerinden ve algoritmalarından kaynaklanan kalıpların birçok gerçek dünya senaryosunda adres taramasına izin verdiğini belirtmektedir."
+        },
+        {
+            "id": "IPv6#173",
+            "sentence": "Bir IPv6 adresinin 128 biti, her biri 16 bitlik 8 grupta temsil edilir."
+        },
+        {
+            "id": "IPv6#174",
+            "sentence": "Her grup dört onaltılık basamak olarak yazılır (bazen <PossibleEntity>hextet</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Hextet&action=edit&redlink=1)</URL> olarak adlandırılır   veya daha fazla resmi olarak <PossibleEntity>onaltılık</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Onalt%C4%B1l%C4%B1k&action=edit&redlink=1)</URL>  ve gayri resmi olarak bir kelime oyunu veya dört kelime oyunu  ) ve gruplar iki nokta üst üste (:) ile ayrılır."
+        },
+        {
+            "id": "IPv6#175",
+            "sentence": "Bu temsilin bir örneği 2001:0db8:0000:0000:0000:ff00:0042:8329."
+        },
+        {
+            "id": "IPv6#176",
+            "sentence": "Kolaylık olması açısından, bir IPv6 adresi aşağıdaki kuralların uygulanmasıyla daha kısa gösterimler olarak kısaltılabilir."
+        },
+        {
+            "id": "IPv6#177",
+            "sentence": "Bu kuralların uygulanmasına bir örnek:"
+        },
+        {
+            "id": "IPv6#178",
+            "sentence": "Geri döngü adresi 0000:0000:0000:0000:0000:0000:0000:0001, 5156'da tanımlanmıştır ve her iki kural kullanılarak ::1 olarak kısaltılabilir."
+        },
+        {
+            "id": "IPv6#179",
+            "sentence": "Bir IPv6 adresinin birden fazla temsili olabileceğinden, IETF <PossibleEntity>bunları metinde temsil etmek için önerilen bir standart</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPv6_Adres)</URL> yayınlamıştır."
+        },
+        {
+            "id": "IPv6#180",
+            "sentence": "IPv6 ana bilgisayarlarının tüm arabirimleri bir bağlantı yerel adresi gerektirir."
+        },
+        {
+            "id": "IPv6#181",
+            "sentence": "IPv6 bağlantı yerel adresleri fe80::10 önekine sahiptir."
+        },
+        {
+            "id": "IPv6#182",
+            "sentence": "Bu önek, yapılandırmanın ve DHCP sunucusu gibi harici bir ağ bileşeninin varlığı veya işbirliği olmadan, kendi başına hesaplayabileceği ve/veya atayabileceği 64 bit sonekle birleştirilir."
+        },
+        {
+            "id": "IPv6#183",
+            "sentence": "Bağlantı yerel adresinin (sonek) alt 64 biti, temelde temel ağ arabirim kartının MAC adresinden türetilmiştir."
+        },
+        {
+            "id": "IPv6#184",
+            "sentence": "Bu adres atama yöntemi, hatalı ağ kartları değiştirildiğinde istenmeyen adres değişikliklerine neden olacağından ve bir dizi güvenlik ve gizlilik sorunundan muzdarip olduğu için, <PossibleEntity>RFC 8064</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc8064)</URL> , orijinal MAC tabanlı yöntemi, belirtilen karma tabanlı yöntemle değiştirmiştir."
+        },
+        {
+            "id": "IPv6#185",
+            "sentence": "IPv6, katman adreslerini ( <PossibleEntity>MAC adresi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/MAC_adresi)</URL> ) bağlamak için IP adreslerini eşleştirmek için yeni bir mekanizma kullanır, çünkü <PossibleEntity>Adres Çözümleme Protokolü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Adres_%C3%87%C3%B6z%C3%BCmleme_Protokol%C3%BC)</URL> 'nun işlevselliğinin bulunduğu <PossibleEntity>yayın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yay%C4%B1n)</URL> adresleme yöntemini desteklemez (ARP) IPv4 tabanlıdır."
+        },
+        {
+            "id": "IPv6#186",
+            "sentence": "IPv6, <PossibleEntity>ICMPv6</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ICMPv6)</URL> ve multicast iletimine dayanan <PossibleEntity>bağlantı katmanı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ba%C4%9Flant%C4%B1_katman%C4%B1)</URL> da <PossibleEntity>Komşu Saptama İletişim Kuralı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kom%C5%9Fu_Saptama_%C4%B0leti%C5%9Fim_Kural%C4%B1)</URL> (NDP, ND) uygular.  210 IPv6 ana bilgisayarları, IP adresinin bağlantı katmanı adresini soran bir komşu talep mesajı göndererek <PossibleEntity>çok yöne yayın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87ok_y%C3%B6ne_yay%C4%B1n)</URL> (LAN) içindeki IPv6 adreslerinin benzersizliğini doğrular."
+        },
+        {
+            "id": "IPv6#187",
+            "sentence": "LAN'daki başka bir ana bilgisayar bu adresi kullanıyorsa yanıt verir."
+        },
+        {
+            "id": "IPv6#188",
+            "sentence": "Bir ana bilgisayar yeni bir IPv6 arabirimi getirir, önce benzersiz bir adres oluşturmak için tasarlanmış birkaç mekanizmadan birini kullanarak benzersiz bir bağlantı yerel adresi oluşturur."
+        },
+        {
+            "id": "IPv6#189",
+            "sentence": "Benzersiz olmayan bir adres algılanırsa, ana bilgisayar yeni oluşturulan bir adresle tekrar deneyebilir."
+        },
+        {
+            "id": "IPv6#190",
+            "sentence": "Benzersiz bir bağlantı yerel adresi oluşturulduktan sonra IPv6 ana bilgisayarı, LAN'ın bu bağlantıda IPv6'yı destekleyen herhangi bir <PossibleEntity>yönlendirici</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Y%C3%B6nlendirici)</URL> arabirime bağlı olup olmadığını belirler."
+        },
+        {
+            "id": "IPv6#191",
+            "sentence": "Bunu tüm yönlendiricilere bir ICMPv6 yönlendirici istek mesajı göndererek yapar  kaynak olarak yerel bağlantı adresi ile çok noktaya yayın grubu."
+        },
+        {
+            "id": "IPv6#192",
+            "sentence": "Önceden belirlenmiş sayıda denemeden sonra cevap yoksa, ana bilgisayar hiçbir yönlendiricinin bağlı olmadığı sonucuna varır."
+        },
+        {
+            "id": "IPv6#193",
+            "sentence": "Bir yönlendiriciden yönlendirici reklamı olarak bilinen bir yanıt alırsa, yanıt, uygun bir tek noktaya yayın ağ önekine sahip genel olarak benzersiz bir adres oluşturulmasına izin vermek için ağ yapılandırma bilgilerini içerir."
+        },
+        {
+            "id": "IPv6#194",
+            "sentence": "Ayrıca, ana bilgisayara daha fazla bilgi ve adres almak için DHCP kullanması gerekip gerekmediğini söyleyen iki bayrak biti vardır:"
+        },
+        {
+            "id": "IPv6#195",
+            "sentence": "Genel adresler için atama prosedürü yerel adres yapısına benzer."
+        },
+        {
+            "id": "IPv6#196",
+            "sentence": "Ön ek, ağdaki yönlendirici reklamlarından sağlanır."
+        },
+        {
+            "id": "IPv6#197",
+            "sentence": "Birden çok önek duyurusu birden çok adresin yapılandırılmasına neden olur."
+        },
+        {
+            "id": "IPv6#198",
+            "sentence": "Durum bilgisi olmayan adres otomatik yapılandırması (SLAAC), 4291'de tanımlandığı gibi 64 adres bloğu gerektirir."
+        },
+        {
+            "id": "IPv6#199",
+            "sentence": "Yerel İnternet kayıtlarına, alt ağlar arasında bölündükleri en az 32 blok atanır."
+        },
+        {
+            "id": "IPv6#200",
+            "sentence": "İlk öneri, son tüketici sitelerine 48 alt ağın atandığını belirtti (3177)."
+        },
+        {
+            "id": "IPv6#201",
+            "sentence": "Bu, 6177 ile değiştirildi; bu, \"ana sitelere tek bir 64'ten daha fazla önem verilmesini önerir, ancak her ana siteye de 48 verilmesini önermez\". 56 özellikle dikkate alınmıştır."
+        },
+        {
+            "id": "IPv6#202",
+            "sentence": "İSS'lerin bu öneriyi yerine getirip getirmeyecekleri görülüyor."
+        },
+        {
+            "id": "IPv6#203",
+            "sentence": "Örneğin, ilk denemeler sırasında, <PossibleEntity>Comcast</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Comcast)</URL> müşterilerine tek bir 64 ağ verildi."
+        }
+    ]
+}

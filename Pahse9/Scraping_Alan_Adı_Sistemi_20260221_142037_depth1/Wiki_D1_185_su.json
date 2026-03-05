@@ -1,0 +1,50 @@
+{
+    "Title": ".su",
+    "Card": {},
+    "Main": [
+        {
+            "id": ".su#1",
+            "sentence": ".su <PossibleEntity>Sovyetler Birliği</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sovyetler_Birli%C4%9Fi)</URL> için 19 Eylül 1990 tarihinde tanımlanmış <PossibleEntity>İnternet ülke üst seviye alan adıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_%C3%BClke_%C3%BCst_seviye_alan_ad%C4%B1)</URL> ."
+        },
+        {
+            "id": ".su#2",
+            "sentence": "Alan adının kullanıma sunulmasından 15 ay sonra <PossibleEntity>Sovyetler Birliği'nin dağılmasına</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sovyetler_Birli%C4%9Fi%27nin_da%C4%9F%C4%B1lmas%C4%B1)</URL> rağmen hâlâ kullanılabilirdir."
+        },
+        {
+            "id": ".su#3",
+            "sentence": "Yönetimi Rusya Kamu Ağları Enstitüsü (РосНИИРОС) tarafından yapılmaktadır."
+        },
+        {
+            "id": ".su#4",
+            "sentence": "1989'dan sonra <PossibleEntity>Avrupa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avrupa)</URL> 'da .pl ( <PossibleEntity>Polonya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Polonya)</URL> ), .cs ( <PossibleEntity>Çekoslovakya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87ekoslovakya)</URL> ), .yu ( <PossibleEntity>Yugoslavya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yugoslavya)</URL> ), .dd ( <PossibleEntity>Doğu Almanya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Almanya)</URL> ) dahil olmak üzere çok sayıda alan adı oluşturuldu."
+        },
+        {
+            "id": ".su#5",
+            "sentence": "Bunların arasında Sovyetler Birliği için tahsis edilmiş .su alan adı da bulunuyordu."
+        },
+        {
+            "id": ".su#6",
+            "sentence": "İlk başta <PossibleEntity>CcTLD</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_%C3%BClke_%C3%BCst_seviye_alan_ad%C4%B1)</URL> 'ler iki harfli olarak standart haline gelmeden önce .ussr alan adı alınacaktı fakat .su adı, Fin öğrenci Petri Ojala tarafından önerildi."
+        },
+        {
+            "id": ".su#7",
+            "sentence": "Sovyetler Birliği'nin dağılmasının ardından kurulan <PossibleEntity>Rusya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Rusya)</URL> 'ya 1993 yılına kadar alan adı tahsis edilmediği için .su kullanmaya devam edildi. <PossibleEntity>ICANN</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_Tahsisli_Say%C4%B1lar_ve_%C4%B0simler_Kurumu)</URL> tarafından alan adının kullanımdan çekilmesi gerekiyordu fakat Rus hükûmeti ve internet kullanıcılarının isteği üzere çekilmedi."
+        },
+        {
+            "id": ".su#8",
+            "sentence": "2001'de <PossibleEntity>ICANN</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_Tahsisli_Say%C4%B1lar_ve_%C4%B0simler_Kurumu)</URL> tarafından yeni .su kayıtlarının kabul edileceği açıklandı. 2008'in ilk çeyreğinde .su kullanımı %45 arttığı belirtildi."
+        },
+        {
+            "id": ".su#9",
+            "sentence": "Alan adının Sovyet kurumları ve SSCB'de faaliyet gösteren şirketler tarafından kullanılması amaçlanmıştır."
+        },
+        {
+            "id": ".su#10",
+            "sentence": "Sovyetler Birliği'nin dağılmasına arından kurulan yeni ülkelere alan adı tahsisi yapılmasına rağmen aktif olarak kullanılmaktadır."
+        },
+        {
+            "id": ".su#11",
+            "sentence": "En fazla .su alan adlı internet sitesine sahip iki ülke <PossibleEntity>Rusya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Rusya)</URL> ve <PossibleEntity>Amerika Birleşik Devletleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> 'dir.  Sovyetler Birliği zamanında kurulmuş olan bazı kuruluşlar da hâlâ .su alan adını kullanmaktadır."
+        }
+    ]
+}

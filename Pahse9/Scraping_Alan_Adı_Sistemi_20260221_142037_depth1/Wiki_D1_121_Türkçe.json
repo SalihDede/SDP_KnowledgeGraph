@@ -1,0 +1,1470 @@
+{
+    "Title": "Türkçe",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Türkçe#1",
+            "sentence": "Türkçe ya da Türkiye Türkçesi , <PossibleEntity>Güneydoğu Avrupa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCneydo%C4%9Fu_Avrupa)</URL> ve <PossibleEntity>Batı Asya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bat%C4%B1_Asya)</URL> 'da konuşulan, <PossibleEntity>Türk dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_dilleri)</URL> dil ailesine ait <PossibleEntity>sondan eklemeli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eklemeli_dil)</URL> bir <PossibleEntity>dildir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dil)</URL> .  <PossibleEntity>Türk dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_dilleri)</URL> ailesinin <PossibleEntity>Oğuz dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/O%C4%9Fuz_dil_grubu)</URL> grubundan bir <PossibleEntity>Batı Oğuz dili</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bat%C4%B1_O%C4%9Fuz_dilleri)</URL> olan <PossibleEntity>Osmanlı Türkçesinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1ca)</URL> devamını oluşturur."
+        },
+        {
+            "id": "Türkçe#2",
+            "sentence": "Dil, başta <PossibleEntity>Türkiye</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)</URL> olmak üzere <PossibleEntity>Balkanlar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Balkanlar)</URL> , <PossibleEntity>Ege Adaları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ege_Adalar%C4%B1)</URL> , <PossibleEntity>Kıbrıs</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s)</URL> ve <PossibleEntity>Orta Doğu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orta_Do%C4%9Fu)</URL> 'yu kapsayan eski <PossibleEntity>Osmanlı İmparatorluğu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)</URL> coğrafyasında konuşulur."
+        },
+        {
+            "id": "Türkçe#3",
+            "sentence": "Ethnologue 'a göre Türkçe, 91.3 milyon konuşanı ile dünyada en çok konuşulan 20. dildir."
+        },
+        {
+            "id": "Türkçe#4",
+            "sentence": "Türkçe, <PossibleEntity>Türkiye</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)</URL> , <PossibleEntity>Kuzey Kıbrıs</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kuzey_K%C4%B1br%C4%B1s_T%C3%BCrk_Cumhuriyeti)</URL> ve <PossibleEntity>Kıbrıs Cumhuriyeti</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s_Cumhuriyeti)</URL> 'nde ulusal resmî dil statüsüne sahiptir."
+        },
+        {
+            "id": "Türkçe#5",
+            "sentence": "Türkçe, diğer pek çok Türk dili ile de paylaştığı <PossibleEntity>sondan eklemeli olması</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eklemeli_dil)</URL> ve <PossibleEntity>ünlü uyumu</PossibleEntity> <URL>:(https://tr.wikipedia.org#Büyük_ve_küçük_ünlü_uyumu)</URL> gibi dilbilgisi özellikleri ile karakterize edilir."
+        },
+        {
+            "id": "Türkçe#6",
+            "sentence": "Dil, <PossibleEntity>tümce yapısı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/C%C3%BCmlenin_%C3%B6geleri)</URL> açısından genellikle <PossibleEntity>özne-nesne-yüklem</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96zne-nesne-fiil)</URL> sırasına sahiptir."
+        },
+        {
+            "id": "Türkçe#7",
+            "sentence": "Almanca, Arapça gibi dillerin aksine <PossibleEntity>gramatik cinsiyetin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Gramatik_cinsiyet)</URL> (erillik, dişilik, cinsiyet ayrımı) bulunmadığı Türkçede, sözcüklerin bir kısmı <PossibleEntity>Arapça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Arap%C3%A7a)</URL> , <PossibleEntity>Farsça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fars%C3%A7a)</URL> ve <PossibleEntity>Fransızca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Frans%C4%B1zca)</URL> gibi yabancı dillerden geçmedir."
+        },
+        {
+            "id": "Türkçe#8",
+            "sentence": "Ayrıca <PossibleEntity>Azerice</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Azerice)</URL> , <PossibleEntity>Gagavuzca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Gagavuzca)</URL> ve <PossibleEntity>Türkmence</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkmence)</URL> gibi diğer <PossibleEntity>Oğuz dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/O%C4%9Fuz_dil_grubu)</URL> ile Türkçe yüksek oranda <PossibleEntity>karşılıklı anlaşılabilirlik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kar%C5%9F%C4%B1l%C4%B1kl%C4%B1_anla%C5%9F%C4%B1labilirlik)</URL> gösterir."
+        },
+        {
+            "id": "Türkçe#9",
+            "sentence": "Türkçe, 1928'de <PossibleEntity>Atatürk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk)</URL> önderliğinde gerçekleştirilmiş <PossibleEntity>Harf Devrimi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Harf_Devrimi)</URL> 'nden beri <PossibleEntity>Latin alfabesini</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Latin_harfleri)</URL> temel alan <PossibleEntity>Türk alfabesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_alfabesi)</URL> ile yazılır."
+        },
+        {
+            "id": "Türkçe#10",
+            "sentence": "Standart Türkçedeki yazım kuralları, <PossibleEntity>Türk Dil Kurumu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Dil_Kurumu)</URL> tarafından denetlenir."
+        },
+        {
+            "id": "Türkçe#11",
+            "sentence": "İstanbul Türkçesi olarak da adlandırılan İstanbul ağzı;  Türkçenin <PossibleEntity>standart formudur</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Standart_dil)</URL> ve Türkçe <PossibleEntity>yazı dili</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yaz%C4%B1_dili)</URL> , bu ağzı temel alır. Bununla birlikte <PossibleEntity>Güneydoğu Avrupa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCneydo%C4%9Fu_Avrupa)</URL> ve <PossibleEntity>Orta Doğu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orta_Do%C4%9Fu)</URL> 'da çeşitli <PossibleEntity>Türkçe şiveleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e_a%C4%9F%C4%B1zlar%C4%B1)</URL> bulunur ve bu şiveler İstanbul Türkçesi ile çeşitli <PossibleEntity>ses</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sesbirim)</URL> ve dilbilgisi farklılıklarına sahiptir."
+        },
+        {
+            "id": "Türkçe#12",
+            "sentence": "Türkçe, dil ailesi sınıflandırmasında <PossibleEntity>Doğu Avrupa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Avrupa)</URL> , <PossibleEntity>Orta Asya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orta_Asya)</URL> ve <PossibleEntity>Sibirya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sibirya)</URL> 'da konuşulan 30 kadar yaşayan dili kapsayan  <PossibleEntity>Türk dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_dilleri)</URL> ailesine mensuptur ve bu dil ailesinin <PossibleEntity>Şaz Türkçesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C5%9Eaz_T%C3%BCrk%C3%A7esi)</URL> koluna bağlı <PossibleEntity>Oğuz dil grubunda</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/O%C4%9Fuz_dil_grubu)</URL> yer alır. Oğuz grubu içinde ise <PossibleEntity>Rumeli Türkçesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Balkan_Gagavuzcas%C4%B1)</URL> ve <PossibleEntity>Gagavuzca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Gagavuzca)</URL> ile birlikte grubun <PossibleEntity>Batı kolunu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bat%C4%B1_O%C4%9Fuz_dilleri)</URL> oluşturur."
+        },
+        {
+            "id": "Türkçe#13",
+            "sentence": "Türk dillerini konuşanların yaklaşık %43 kadar bir kesimi, Türkiye Türkçesini konuşmaktadır."
+        },
+        {
+            "id": "Türkçe#14",
+            "sentence": "Türkçe dışında <PossibleEntity>Azerice</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Azerice)</URL> , <PossibleEntity>Başkurtça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ba%C5%9Fkurt%C3%A7a)</URL> , <PossibleEntity>Çuvaşça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87uva%C5%9F%C3%A7a)</URL> , <PossibleEntity>Kazan Tatarcası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tatarca)</URL> , <PossibleEntity>Kazakça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kazak%C3%A7a)</URL> , <PossibleEntity>Kırgızca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1rg%C4%B1zca)</URL> , <PossibleEntity>Nogayca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nogayca)</URL> , <PossibleEntity>Özbekçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96zbek%C3%A7e)</URL> , <PossibleEntity>Türkmence</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkmence)</URL> ve <PossibleEntity>Yakutça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yakut%C3%A7a)</URL> Türk dilleri ailesinin en çok konuşulan diğer üyeleridir."
+        },
+        {
+            "id": "Türkçe#15",
+            "sentence": "Azerice, Gagavuzca, <PossibleEntity>Kaşkayca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ka%C5%9Fkayca)</URL> ve <PossibleEntity>Türkmence</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkmence)</URL> gibi diğer Oğuz dilleri ile Türkçenin yüksek oranda <PossibleEntity>karşılıklı anlaşılabilirlik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kar%C5%9F%C4%B1l%C4%B1kl%C4%B1_anla%C5%9F%C4%B1labilirlik)</URL> gösterdiği bulunmuştur."
+        },
+        {
+            "id": "Türkçe#16",
+            "sentence": "Her ne kadar <PossibleEntity>Kıpçak grubuna</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1p%C3%A7ak_grubu)</URL> üye diller olsa da <PossibleEntity>Kırım Tatarcası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1r%C4%B1m_Tatarcas%C4%B1)</URL> ve <PossibleEntity>Urumca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Urumca)</URL> da tarih boyunca <PossibleEntity>Osmanlı Türkçesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1ca)</URL> gibi Oğuz dilleri ile etkileşimlerinden ötürü Türkiye Türkçesi ile benzerlikler gösterir."
+        },
+        {
+            "id": "Türkçe#17",
+            "sentence": "Önce <PossibleEntity>Ural-Altay dil ailesine</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ural-Altay_dil_ailesi)</URL> mensup olduğu ifade edilen ancak sonrasında <PossibleEntity>Altay dillerinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Altay_dilleri)</URL> bir üyesi olarak sınıflandırılan <PossibleEntity>Türk dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_dilleri)</URL> , günümüzde diğer dil ailelerinden bağımsız bir dil ailesi olduğu kanısı, dilbilimciler arasında giderek daha çok taraftar toplayan bir görüştür."
+        },
+        {
+            "id": "Türkçe#18",
+            "sentence": "Türkçe, <PossibleEntity>Güneydoğu Avrupa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Balkanlar)</URL> ve <PossibleEntity>Orta Doğu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orta_Do%C4%9Fu)</URL> 'da yer alan çeşitli ülke ve bölgelerde <PossibleEntity>ana dil</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anadili)</URL> veya <PossibleEntity>ikinci dil</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0kinci_dil)</URL> olarak konuşulur."
+        },
+        {
+            "id": "Türkçe#19",
+            "sentence": "Dil, <PossibleEntity>Anadolu'nun</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anadolu)</URL> büyük çoğunluğunda, <PossibleEntity>Doğu Trakya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Trakya)</URL> 'da ve <PossibleEntity>Kıbrıs Adası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s)</URL> 'nın kuzeyinde çoğunluk tarafından ana dil olarak konuşulmaktadır."
+        },
+        {
+            "id": "Türkçe#20",
+            "sentence": "Eski <PossibleEntity>Osmanlı İmparatorluğu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)</URL> coğrafyasının kapsadığı <PossibleEntity>Kuzey Suriye</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Suriye)</URL> ve <PossibleEntity>Irak</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Irak)</URL> , bazı <PossibleEntity>Ege Adaları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ege_Adalar%C4%B1)</URL> ve <PossibleEntity>Balkanların</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Balkanlar)</URL> güneyi ve doğusunda yaşayan <PossibleEntity>Türk azınlıklar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu%27nun_eski_topraklar%C4%B1ndaki_T%C3%BCrk_topluluklar%C4%B1)</URL> da Türkçeyi ana dilleri olarak kullanır."
+        },
+        {
+            "id": "Türkçe#21",
+            "sentence": "2006 yılında yürütülen bir araştırmaya göre Türkçe, Türkiye'de yaşayan nüfusun %84'ünün ana dilidir.  <PossibleEntity>Geriye kalan nüfus ise</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27deki_az%C4%B1nl%C4%B1klar)</URL> , çoğunluğu <PossibleEntity>Kürtçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C3%BCrt%C3%A7e)</URL> olacak şekilde <PossibleEntity>Türkiye'deki azınlık dillerinden</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye%27de_konu%C5%9Fulan_diller)</URL> birini ana dilleri olarak benimsemiştir ve Türkçeyi ikinci dilleri olarak kullanırlar."
+        },
+        {
+            "id": "Türkçe#22",
+            "sentence": "Bu yayılıma ek olarak <PossibleEntity>Türk diasporasının</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_diasporas%C4%B1)</URL> göç etmiş olduğu bölgelerde de Türkçe konuşurları bulunur. 2 milyondan fazla <PossibleEntity>Türkçe konuşura</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Almanya%27daki_T%C3%BCrkler)</URL> sahip olduğu tahmin edilen <PossibleEntity>Almanya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Almanya)</URL> 'da nüfusun yaklaşık %3'ü Türkçe bilmektedir."
+        },
+        {
+            "id": "Türkçe#23",
+            "sentence": "Almanya'nın yanı sıra <PossibleEntity>ABD</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> , <PossibleEntity>Fransa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fransa)</URL> , <PossibleEntity>Hollanda</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hollanda)</URL> , <PossibleEntity>Avusturya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avusturya)</URL> , <PossibleEntity>Belçika</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bel%C3%A7ika)</URL> , <PossibleEntity>İsviçre</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0svi%C3%A7re)</URL> ve <PossibleEntity>Birleşik Krallık</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Birle%C5%9Fik_Krall%C4%B1k)</URL> da Türkçe konuşabilen nüfusun yaşadığı önemli bölgelerdir."
+        },
+        {
+            "id": "Türkçe#24",
+            "sentence": "Göç edilen ülkelerde gerçekleşen <PossibleEntity>kültürel asimilasyon</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C3%BClt%C3%BCr)</URL> sonucunda etnik Türk göçmenlerin yalnızca bir kısmı Türkçeyi <PossibleEntity>akıcı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ak%C4%B1c%C4%B1l%C4%B1k)</URL> ve ana dil seviyesinde konuşabilmektedir."
+        },
+        {
+            "id": "Türkçe#25",
+            "sentence": "Almanya'da 1980'li yıllardan itibaren Türkçe yayın yapan TD1, TFD, ATT, BTT gibi televizyon kanalları kurulmaya başlamıştır ve ZDF, WDR, DW gibi kanallarda Türkçe yayınlara yer verilmektedir."
+        },
+        {
+            "id": "Türkçe#26",
+            "sentence": "<PossibleEntity>Türkiye</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)</URL> ve <PossibleEntity>Kuzey Kıbrıs Türk Cumhuriyeti</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kuzey_K%C4%B1br%C4%B1s_T%C3%BCrk_Cumhuriyeti)</URL> 'nde bu dil ülkenin resmî dilidir.   <PossibleEntity>Kıbrıs Cumhuriyeti</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s_Cumhuriyeti)</URL> 'nde (diğer adıyla Güney Kıbrıs Rum Yönetimi ) anayasal olarak Türkçe, <PossibleEntity>Yunanca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yunanca)</URL> ile beraber resmî dil olarak geçer.  1982 <PossibleEntity>T.C. Anayasasına</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti_Anayasas%C4%B1)</URL> göre Türkçe, <PossibleEntity>Türkiye Devleti</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)</URL> 'nin dilidir."
+        },
+        {
+            "id": "Türkçe#27",
+            "sentence": "Bu yasa anayasanın Birinci Kısmının Genel Esaslar Bölümünde, 3. Maddede geçer."
+        },
+        {
+            "id": "Türkçe#28",
+            "sentence": "Aynı zamanda, ilgili bölümde bulunan 4. Maddeye göre bu madde asla değiştirilemez, değiştirilmesi teklif dahi edilemez."
+        },
+        {
+            "id": "Türkçe#29",
+            "sentence": "Türkiye Devleti, ülkesi ve milletiyle bölünmez bir bütündür."
+        },
+        {
+            "id": "Türkçe#30",
+            "sentence": "Dili Türkçedir. - <PossibleEntity>T.C. Anayasası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti_Anayasas%C4%B1)</URL>"
+        },
+        {
+            "id": "Türkçe#31",
+            "sentence": "Türkçe, diğer <PossibleEntity>Türk devletlerinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_devletleri_listesi)</URL> de üyesi olduğu <PossibleEntity>Türk Konseyi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Devletleri_Te%C5%9Fkilat%C4%B1)</URL> ve <PossibleEntity>Uluslararası Türk Kültürü Teşkilatı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Uluslararas%C4%B1_T%C3%BCrk_K%C3%BClt%C3%BCr%C3%BC_Te%C5%9Fkilat%C4%B1)</URL> gibi kuruluşlarda resmiyete sahiptir."
+        },
+        {
+            "id": "Türkçe#32",
+            "sentence": "Kıbrıs Cumhuriyeti ise <PossibleEntity>Avrupa Birliği</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avrupa_Birli%C4%9Fi)</URL> 'nin Türkçeyi 25. <PossibleEntity>resmî dili</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avrupa_Birli%C4%9Fi%27nin_dilleri)</URL> olarak kabul etmesi için başvuruda bulunmuştur."
+        },
+        {
+            "id": "Türkçe#33",
+            "sentence": "Türkçe aynı zamanda çeşitli ülkelerde resmî açıdan bölgesel veya <PossibleEntity>azınlık dili</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Az%C4%B1nl%C4%B1k_dili)</URL> statüsüne sahiptir. <PossibleEntity>Irak</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Irak)</URL> 'ın <PossibleEntity>Kerkük ilinde</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kerk%C3%BCk_(il))</URL> Türkçe, Kürtçe ve Arapça ile birlikte resmî dildir.  <PossibleEntity>Kuzey Makedonya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kuzey_Makedonya)</URL> 'nın batısında yer alan <PossibleEntity>Gostivar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Gostivar_Belediyesi)</URL> ,  <PossibleEntity>Merkez Jupa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Merkez_Jupa_Belediyesi)</URL> ,  <PossibleEntity>Plasniça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Plasni%C3%A7a_Belediyesi)</URL>  ve <PossibleEntity>Mavrova ve Rostuşa Belediyesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mavrova_ve_Rostu%C5%9Fa_Belediyesi)</URL>  sınırları içinde Türkçe, <PossibleEntity>Makedonca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Makedonca)</URL> ve <PossibleEntity>Arnavutça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Arnavut%C3%A7a)</URL> ile beraber resmî kullanımdadır.  <PossibleEntity>Kosova</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kosova)</URL> 'da <PossibleEntity>Prizren</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Prizren_Belediyesi)</URL> , <PossibleEntity>Mamuşa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mamu%C5%9Fa_Belediyesi)</URL> , <PossibleEntity>Gilan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Gilan_Belediyesi)</URL> , <PossibleEntity>Mitroviça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mitrovi%C3%A7a_Belediyesi)</URL> , <PossibleEntity>Priştine</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Pri%C5%9Ftine_Belediyesi)</URL> ve <PossibleEntity>Vıçıtırın Belediyesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/V%C4%B1%C3%A7%C4%B1t%C4%B1r%C4%B1n_Belediyesi)</URL> kapsamında Arnavutça, Sırpça ve Türkçe resmî dil statüsüne sahiptir."
+        },
+        {
+            "id": "Türkçe#34",
+            "sentence": "Prizren Belediyesi sınırları içinde Türkçenin resmiyeti ise ayrıca herhangi bir ölçütün dışında, Kosova Cumhuriyeti “Dillerin Kullanımı İçin Yasa” kapsamında yasa koruması altındadır.  <PossibleEntity>Romanya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Romanya)</URL> 'da Türkçe, devletin ilgili bölge veya bölgeler için resmî olarak kabul ettiği 14 azınlık dilinden biridir."
+        },
+        {
+            "id": "Türkçe#35",
+            "sentence": "Ayrıca Romanya'da Kanal D Romania, Happy Channel, Acasă ve Timeless Dizi Channel gibi televizyon kanallarında Türkiye'de çekilen diziler alt yazılı olarak Türkçe yayımlanmaktadır."
+        },
+        {
+            "id": "Türkçe#36",
+            "sentence": "Türkçenin önemli konuşur sayısına sahip olduğu ancak devletin ya da bölgenin resmî dili olmadığı yerler de bulunmaktadır."
+        },
+        {
+            "id": "Türkçe#37",
+            "sentence": "Nüfusunun %10 kadarının ana dili Türkçe olan <PossibleEntity>Bulgaristan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bulgaristan)</URL> ile kuzeydoğusunda Türk azınlıkların yaşadığı <PossibleEntity>Yunanistan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yunanistan)</URL> bu bölgelere örnektir."
+        },
+        {
+            "id": "Türkçe#38",
+            "sentence": "Buna rağmen Türkçe bu bölgelerde medyada, eğitimde ve çeşitli kurumlarda kullanılır."
+        },
+        {
+            "id": "Türkçe#39",
+            "sentence": "Bulgaristan devlet televizyonunun Türkçe programları vardır. <PossibleEntity>Kırcaali Belediyesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1rcaali)</URL> ise iki dilde hizmet verir.  <PossibleEntity>Deliorman</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Deliorman)</URL> ve <PossibleEntity>Doğu Rumeli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Rumeli)</URL> 'de okullarda seçmeli ana dili dersi yer alır. <PossibleEntity>Yunanistan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yunanistan)</URL> 'ın <PossibleEntity>İskeçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ske%C3%A7e)</URL> ve <PossibleEntity>Gümülcine</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCm%C3%BClcine)</URL> 'yi de kapsayan <PossibleEntity>Batı Trakya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bat%C4%B1_Trakya)</URL> bölgesinde yer alan 200'ü aşkın azınlık okulunda ise <PossibleEntity>Yunanca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yunanca)</URL> ve Türkçe eğitim verilmektedir."
+        },
+        {
+            "id": "Türkçe#40",
+            "sentence": "Türkçe, bölgedeki <PossibleEntity>Müslüman halkın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/M%C3%BCsl%C3%BCman_Rumlar)</URL> dinî eğitiminde de kullanılmaktadır."
+        },
+        {
+            "id": "Türkçe#41",
+            "sentence": "Türkçe, Türkiye'nin ve <PossibleEntity>Türkiye Türklerinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkler)</URL> kurumsal dilidir. <PossibleEntity>Türkiye</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)</URL> 'de <PossibleEntity>Türk Dil Kurumu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Dil_Kurumu)</URL> , Türk Dili Tetkik Cemiyeti adıyla 12 Temmuz 1932'de <PossibleEntity>Atatürk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mustafa_Kemal_Atat%C3%BCrk)</URL> 'ün talimatıyla kurulmuştur."
+        },
+        {
+            "id": "Türkçe#42",
+            "sentence": "Cemiyetin kurucuları, hepsi de milletvekili ve dönemin tanınmış edebiyatçıları olan <PossibleEntity>Sâmih Rifat</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C3%A2mih_Rifat)</URL> , <PossibleEntity>Ruşen Eşref</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ru%C5%9Fen_E%C5%9Fref_%C3%9Cnayd%C4%B1n)</URL> , <PossibleEntity>Celâl Sahir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Cel%C3%A2l_Sahir_Erozan)</URL> ve <PossibleEntity>Yakup Kadri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yakup_Kadri_Karaosmano%C4%9Flu)</URL> 'dir. Kurumun ilk başkanı Sâmih Rifat'tır. Türk Dili Tetkik Cemiyetinin amacı, \"Türk dilinin öz güzelliğini ve zenginliğini meydana çıkarmak, onu yeryüzü dilleri arasında değerine yaraşır yüksekliğe eriştirmek\" olarak tespit edilmiştir."
+        },
+        {
+            "id": "Türkçe#43",
+            "sentence": "Atatürk'ün sağlığında, 1932, 1934 ve 1936 yıllarında yapılan üç kurultayda hem Kurumun yönetim organları seçilmiş, hem dil politikası belirlenmiş, hem de bilimsel bildiriler sunulup tartışılmıştır. 26 Eylül-5 Ekim 1932 tarihleri arasında <PossibleEntity>Dolmabahçe Sarayı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dolmabah%C3%A7e_Saray%C4%B1)</URL> 'nda yapılan Birinci Türk Dili Kurultayı sonunda Kurumun \"Lügat-Istılah, Gramer-Sentaks, Derleme, Lengüistik-Filoloji, Etimoloji, Yayın\" adları ile altı kol hâlinde çalışmalarını sürdürmesi kabul edilmiştir."
+        },
+        {
+            "id": "Türkçe#44",
+            "sentence": "Sonraki kurultaylarda bu kollardan bazıları ayrılmış, bazıları tekrar birleştirilmiş; fakat ana çatı değiştirilmemiştir. 1934'te yapılan kurultayda Cemiyetin adı, Türk Dili Araştırma Kurumu; 1936'daki kurultayda ise Türk Dil Kurumu olmuştur."
+        },
+        {
+            "id": "Türkçe#45",
+            "sentence": "Türk Dil Kurumu, Türkçenin imlasının standartlarını belirleme, dil hakkında çeşitli düzeyde çalışmalar yapma gibi konularda faaliyetler yürütür."
+        },
+        {
+            "id": "Türkçe#46",
+            "sentence": "Günümüzde bu kurum, yalnızca Türkiye değil, dünya çapında Türkçe ve <PossibleEntity>Türkoloji</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkoloji)</URL> ile ilgili çeşitli çalışmalarda kurumsal yüzü veya akademik mensuplarıyla yer almaktadır."
+        },
+        {
+            "id": "Türkçe#47",
+            "sentence": "Türk Dil Kurumunun yapısıyla ilgili ilk önemli değişiklik 1951 yılındaki olağanüstü kurultayda yapılmıştır."
+        },
+        {
+            "id": "Türkçe#48",
+            "sentence": "Atatürk'ün sağlığında Millî Eğitim Bakanının Kurum başkanı olmasını sağlayan tüzük maddesi 1951'de değiştirilmiş; böylece Kurumun devletle bağlantısı koparılmıştır."
+        },
+        {
+            "id": "Türkçe#49",
+            "sentence": "İkinci önemli yapı değişikliği 1982-1983 yıllarında gerçekleştirilmiştir. 1982'de kabul edilen ve şu anda da yürürlükte olan Anayasa ile Türk Dil Kurumu ve <PossibleEntity>Türk Tarih Kurumu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Tarih_Kurumu)</URL> , bir Anayasa kuruluşu olan Atatürk Kültür, Dil ve Tarih Yüksek Kurumu çatısı altına alınmış; böylece devletle olan bağlar yeniden ve daha güçlü olarak kurulmuştur."
+        },
+        {
+            "id": "Türkçe#50",
+            "sentence": "Türkçe, <PossibleEntity>Eski Türkçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_T%C3%BCrk%C3%A7e)</URL> yazılmış ve <PossibleEntity>Türk dillerinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_dilleri)</URL> bilinen ilk yazılı kaynağı olan <PossibleEntity>Orhun Yazıtları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orhun_Yaz%C4%B1tlar%C4%B1)</URL> ele alındığında yaklaşık 1.300 yıllık bir tarihe sahiptir. <PossibleEntity>Eski Türkçenin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_T%C3%BCrk%C3%A7e)</URL> de üyesi olduğu <PossibleEntity>Doğu grubu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C5%9Eaz_T%C3%BCrk%C3%A7esi)</URL> ile <PossibleEntity>Ogur grubuna</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ogur_%C3%B6be%C4%9Fi)</URL> ait tüm Türk dillerinin ortak atası olan varsayımsal bir <PossibleEntity>Ön Türkçenin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96n_T%C3%BCrk%C3%A7e)</URL> var olduğu da düşünülmektedir."
+        },
+        {
+            "id": "Türkçe#51",
+            "sentence": "Türkçe, <PossibleEntity>Türkmence</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkmence)</URL> , <PossibleEntity>Salarca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Salarca)</URL> ve <PossibleEntity>Azerice</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Azerice)</URL> 'nin, <PossibleEntity>Ana Oğuzca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ana_O%C4%9Fuzca)</URL> denilen bir dilden evrilerek oluştuğu varsayılır."
+        },
+        {
+            "id": "Türkçe#52",
+            "sentence": "Bu ön dilin Türkçeyi oluşturacak batı kolu, 11. ve 15. yüzyıllar arasında <PossibleEntity>Anadolu Selçuklu Devleti</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anadolu_Sel%C3%A7uklu_Devleti)</URL> ile <PossibleEntity>Anadolu beylikleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anadolu_beylikleri)</URL> etrafında gelişerek <PossibleEntity>Eski Anadolu Türkçesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_Anadolu_T%C3%BCrk%C3%A7esi)</URL> 'ne evrilmiştir."
+        },
+        {
+            "id": "Türkçe#53",
+            "sentence": "Bu dil dönemi ise yerini, 15. yüzyıldan 19. yüzyıla değin devam edecek <PossibleEntity>Klasik Osmanlı Türkçesine</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1ca)</URL> bırakır. <PossibleEntity>Yeni Osmanlı Türkçesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1ca)</URL> , 19. ve 20. yüzyıllar arasında gelişir."
+        },
+        {
+            "id": "Türkçe#54",
+            "sentence": "Cumhuriyet döneminde yapılan reformlar sonucunda ise 20. yüzyıl itibarıyla dilde çeşitli değişiklikler yaşanmıştır ve Batı Türkçesinin üçüncü bölümü olan Türkiye Türkçesine geçilmiştir."
+        },
+        {
+            "id": "Türkçe#55",
+            "sentence": "Ön Türkçe, Ana Türkçe veya Proto-Türkçe; <PossibleEntity>Türk dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_dilleri)</URL> ailesinin <PossibleEntity>Şaz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C5%9Eaz_T%C3%BCrk%C3%A7esi)</URL> (Doğu) ve <PossibleEntity>Oğur</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ogur_%C3%B6be%C4%9Fi)</URL> (Batı) branşlarına ayrılmadan önceki dönemlerine ait varsayımsal (hipotetik) bir ön dil veya <PossibleEntity>proto-dildir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anadil)</URL> ."
+        },
+        {
+            "id": "Türkçe#56",
+            "sentence": "Türk dillerinde yazılmış tarihi kaynakların büyük bir kısmı, bu ailenin Doğu koluna ait <PossibleEntity>Karluk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Karluk_grubu)</URL> , <PossibleEntity>Kıpçak</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1p%C3%A7ak_grubu)</URL> ve <PossibleEntity>Oğuz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/O%C4%9Fuz_dil_grubu)</URL> dilleri ile yazılmıştır."
+        },
+        {
+            "id": "Türkçe#57",
+            "sentence": "Bilinen en eski Türk dili olan <PossibleEntity>Eski Türkçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_T%C3%BCrk%C3%A7e)</URL> de bu gruba aittir."
+        },
+        {
+            "id": "Türkçe#58",
+            "sentence": "Ancak bu gruba ait olmayan <PossibleEntity>Hazarca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hazarca)</URL> , <PossibleEntity>Bulgarca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0dil_Bulgarcas%C4%B1)</URL> ve <PossibleEntity>Çuvaşça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87uva%C5%9F%C3%A7a)</URL> gibi Ogur grubu dilleri de vardır."
+        },
+        {
+            "id": "Türkçe#59",
+            "sentence": "Bu iki grubun ortak bir atadan türediği göz önünde bulundurularak, Ogur dilleri ile Türkiye Türkçesi ve Eski Türkçe dahil tüm Türk dillerinin kökeni Ön Türkçeye dayandırılabilir."
+        },
+        {
+            "id": "Türkçe#60",
+            "sentence": "Bu dil dönemine ait yazılı kaynakların olmamasından ötürü Ana Türkçe <PossibleEntity>varsayımsal</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hipotez)</URL> bir 'yeniden oluşturulmuş' dildir ve diğer proto diller gibi belirli bir dönemdeki konuşma dili ile birebir aynı değildir."
+        },
+        {
+            "id": "Türkçe#61",
+            "sentence": "Türk dillerinde görülen *ŕ ve *z ile *ĺ ve *š ayrımları bu dönemde gerçekleşmiştir."
+        },
+        {
+            "id": "Türkçe#62",
+            "sentence": "Ogur grubu dilleri *ĺ ve *ŕ seslerini benimserken Türkiye Türkçesi gibi geriye kalan tüm Türk dillerinin atası olacak Şaz Türkçesi *z ve *š seslerini benimsemiştir."
+        },
+        {
+            "id": "Türkçe#63",
+            "sentence": "Aynı anlama gelen \"ogur\" ve \"oğuz\" sözcükleri bu ayrıma örnek teşkil etmektedir."
+        },
+        {
+            "id": "Türkçe#64",
+            "sentence": "Doğu grubu sözcüğün sonunda \"z\" sesini kullanırken, Batı grubu \"r\" sesini kullanmaktadır."
+        },
+        {
+            "id": "Türkçe#65",
+            "sentence": "Bilinen en eski Türkçe yazıt olan <PossibleEntity>Orhun Yazıtları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orhun_Yaz%C4%B1tlar%C4%B1)</URL> , <PossibleEntity>Eski Türkçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_T%C3%BCrk%C3%A7e)</URL> ile yazılmıştır."
+        },
+        {
+            "id": "Türkçe#66",
+            "sentence": "Bu yazıttan yola çıkılarak Türk dillerinin tarihi 1300 yıl önceye kaynaklandırılmış ancak yazıtlarda kullanılan abecenin gelişmişliği bu dilin daha eski tarihlerde de var olmuş olabileceğine delil oluşturmuştur."
+        },
+        {
+            "id": "Türkçe#67",
+            "sentence": "Bugünkü <PossibleEntity>Moğolistan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mo%C4%9Folistan)</URL> 'da Orhun (öz adında Orkun  ) ırmağı yakınlarında bulunan <PossibleEntity>Kül Tigin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C3%BCl_Tigin)</URL> ve <PossibleEntity>Bilge Kağan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilge_Ka%C4%9Fan)</URL> yazıtlarından başka, dönemin tanınmış veziri <PossibleEntity>Tonyukuk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tonyukuk)</URL> 'un da kendi için diktirdiği <PossibleEntity>Ulan Bator</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ulan_Batur)</URL> kenti yakınlarındaki iki taş, Orhun Yazıtları'nın başlıca örnekleridir."
+        },
+        {
+            "id": "Türkçe#68",
+            "sentence": "Çıgany bodunug bay kıltım, az bodunug üküş kıltım - (Yoksul halkı zengin yaptım, az halkı çok yaptım) - <PossibleEntity>Orhun Yazıtları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orhun_Yaz%C4%B1tlar%C4%B1)</URL>"
+        },
+        {
+            "id": "Türkçe#69",
+            "sentence": "Eski Türkçe ile ilgili bilgilere <PossibleEntity>Yenisey Yazıtları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yenisey_Yaz%C4%B1tlar%C4%B1)</URL> 'ndan da ulaşılabilir."
+        },
+        {
+            "id": "Türkçe#70",
+            "sentence": "Eski Türkçe hakkında en kapsamlı bilgiler 9. yüzyılda kağıda yazılmış <PossibleEntity>Irk Bitig</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Irk_Bitig)</URL> adlı eserin keşfi ile sağlanmıştır."
+        },
+        {
+            "id": "Türkçe#71",
+            "sentence": "Türkçe, onu kullanan göçebe ve yerleşik kavimlerin <PossibleEntity>Orta Asya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orta_Asya)</URL> , <PossibleEntity>Doğu Avrupa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Avrupa)</URL> , <PossibleEntity>Sibirya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sibirya)</URL> ve <PossibleEntity>Orta Doğu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orta_Do%C4%9Fu)</URL> 'ya doğru göçleriyle yayılmıştır."
+        },
+        {
+            "id": "Türkçe#72",
+            "sentence": "<PossibleEntity>Dîvânu Lugâti't-Türk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/D%C3%AEv%C3%A2nu_Lug%C3%A2ti%27t-T%C3%BCrk)</URL> , Türk dilini anlatan ve bu dilin yetisini göstermek için yazılan ilk <PossibleEntity>sözlük</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C3%B6zl%C3%BCk)</URL> yapıtıdır ve <PossibleEntity>Kaşgarlı Mahmud</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C3%A2%C5%9Fgarl%C4%B1_Mahmud)</URL> tarafından 25 Ocak 1072'de yazılmaya başlanmış ve 10 Şubat 1074'te bitirilmiştir."
+        },
+        {
+            "id": "Türkçe#73",
+            "sentence": "Bu kitap içinde şu tümce bulunuyor: \"Türk dilini öğrenmek çok gerekli bir iş olur.\"."
+        },
+        {
+            "id": "Türkçe#74",
+            "sentence": "Yapıt, Türkçenin varsıl dilbilgisi özelliklerini en çarpıcı biçimde yansıtan bir özelliktedir."
+        },
+        {
+            "id": "Türkçe#75",
+            "sentence": "Türkçenin kullanım alanını genişleten bir başka kişi, <PossibleEntity>Karahanlı Devleti</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Karahanl%C4%B1lar)</URL> 'nin üyesi, ikinci bir Türk ve Türkçe kültür abidesi olan <PossibleEntity>Yusuf Has Hacib</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yusuf_Has_Hacib)</URL> 'dir. Yusuf Has Hacib, <PossibleEntity>Kutadgu Bilig</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kutadgu_Bilig)</URL> adlı yapıtı ile Türk dil birliğinin diğer önemli yazılı temelini attı. 1069-1070 yıllarında bu Türkçe yapıtı tamamladı."
+        },
+        {
+            "id": "Türkçe#76",
+            "sentence": "<PossibleEntity>Ahmed Yesevi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ahmed_Yesev%C3%AE)</URL> 12. yüzyılda Türk dilinde yazdığı \" <PossibleEntity>Hikmet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilim)</URL> \" adlı şiirleri bir araya getiren <PossibleEntity>Türk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkler)</URL> <PossibleEntity>tasavvuf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tasavvuf)</URL> edebiyatının bilinen en eski örneklerini içeren kitap ile Türkçenin kullanımını etkiledi."
+        },
+        {
+            "id": "Türkçe#77",
+            "sentence": "13. ve 14. yüzyılda yaşamını süren <PossibleEntity>Yunus Emre</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yunus_Emre)</URL> Türkçenin, özellikle \"Türkçe şiir dilinin\" temel ustası ve abidesi olmuştur."
+        },
+        {
+            "id": "Türkçe#78",
+            "sentence": "Yunus Emre'nin edebiyat tarihi bakımından önemli bir yanı da <PossibleEntity>Anadolu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anadolu)</URL> 'da, Türkçe şiir dilinin öncüsü olması ve tasavvuf sorunlarını yalın ve kolay anlaşılır bir dille söyleyişi nedeniyledir."
+        },
+        {
+            "id": "Türkçe#79",
+            "sentence": "Şiirlerinin ölçüsü, Türkçenin ses yapısına uygun <PossibleEntity>aruz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Aruz)</URL> olmakla birlikte söyleyişi akıcı, sürükleyici bir nitelik taşır."
+        },
+        {
+            "id": "Türkçe#80",
+            "sentence": "Tasavvufun en güç anlaşılır kavramlarını, Türkçenin ses yapısına uygun biçimde dile getirir; şiirinde, duygu ve düşünce birliğinden oluşan bir derinlik görülür."
+        },
+        {
+            "id": "Türkçe#81",
+            "sentence": "<PossibleEntity>Hacı Bayram Veli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hac%C4%B1_Bayr%C3%A2m-%C4%B1_Vel%C3%AE)</URL> 14-15. yüzyılda Anadolu'da yaşamış Türk mutasavvıf ve şair olarak eserlerini Türkçe olarak yazdı ve Türkçenin kullanımını Anadolu'da önemli biçimde etkiledi."
+        },
+        {
+            "id": "Türkçe#82",
+            "sentence": "Hacı Bayram Veli, Anadolu'da dil ve kültür birliğinin sağlanması için Türkçe eserler yazılmasında Leme’at ve Gülşen-i Raz gibi eserlerin Türkçeleştirilmesinde etkili olmuş, kendi de halkın anlayacağı dilden <PossibleEntity>Ahmed Yesevi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ahmed_Yesev%C3%AE)</URL> geleneğine uygun olarak şiirler yazmıştır."
+        },
+        {
+            "id": "Türkçe#83",
+            "sentence": "Devrinde <PossibleEntity>Arapça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Arap%C3%A7a)</URL> ve <PossibleEntity>Farsça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fars%C3%A7a)</URL> eser vermek revaçta iken, Hacı Bayram Veli'nin halk ile ilişki kurabileceği Türkçeyi tercih etmesi belli bir olgunluğa işaret eder. Bu olgunluk Anadolu'da dil birliğinin sağlanması ve Türk kültürünün egemen olmasıdır."
+        },
+        {
+            "id": "Türkçe#84",
+            "sentence": "Türkçecilik akımı yandaşlarını da etkilemiş, bu sufiler özellikle Türkçe yapıtlar vermişlerdir."
+        },
+        {
+            "id": "Türkçe#85",
+            "sentence": "<PossibleEntity>Yazıcıoğlu Muhammed</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Yaz%C4%B1c%C4%B1o%C4%9Flu_Muhammed&action=edit&redlink=1)</URL> , <PossibleEntity>Eşrefoğlu Rumi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/E%C5%9Frefo%C4%9Flu_R%C3%BBm%C3%AE)</URL> gibi öğrencilerinin Envârü'l-âşıkîn , Muhammediye , Müzekinnüfûs gibi eserleri Anadolu'da yıllarca kolaylıkla okunmuş, halkın elinden düşmemiştir."
+        },
+        {
+            "id": "Türkçe#86",
+            "sentence": "Ayrıca <PossibleEntity>Akşemsettin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ak%C5%9Femseddin)</URL> (1389/1390 - 1460), 15. yüzyılın en büyük sufilerinden biridir ve Türkçe ile, (örnek olarak Hayatın Maddesi ve Tıp adında) çeşitli eserler ortaya koymuştur."
+        },
+        {
+            "id": "Türkçe#87",
+            "sentence": "Osmanlı Türkçesi, <PossibleEntity>Osmanlı İmparatorluğu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)</URL> 'nda konuşulmuş, Eski Anadolu Türkçesinin ardılı olan bir dildir. <PossibleEntity>Arapça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Arap%C3%A7a)</URL> ve <PossibleEntity>Farsçadan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fars%C3%A7a)</URL> etkilenmiş bu dönemin Türkçesinde söz varlığının %88'i bu iki dil kaynaklı olmaktadır."
+        },
+        {
+            "id": "Türkçe#88",
+            "sentence": "Buna rağmen dilde kullanılmakta olan Arapça kökenli sözcüklerin kaynağı bu iki dilin birbirleriyle direkt etkileşimi yerine, Farsçaya girmiş ve Farsçalaşmış Arapça kökenli sözcüklerin Osmanlı Türkçesine girmesi ile gerçekleşmiştir."
+        },
+        {
+            "id": "Türkçe#89",
+            "sentence": "Türkçe ve Farsçanın etkileşiminin Osmanlı Dönemi öncesinde modern Türklerin atası halkların Kuzeybatı İran bölgesinde bulunduğu dönemde gerçekleştiği düşünülmektedir."
+        },
+        {
+            "id": "Türkçe#90",
+            "sentence": "Arapça ve Farsçanın etkileri yalnızca alıntı sözcükleri değil, dilin dilbilgisini de önemli ölçüde etkilemiştir."
+        },
+        {
+            "id": "Türkçe#91",
+            "sentence": "Alfabe olarak <PossibleEntity>Arap alfabesinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Arap_harfleri)</URL> <PossibleEntity>Farsça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fars%C3%A7a)</URL> ve Türkçe için uyarlanmış bir biçimi kullanılmıştır."
+        },
+        {
+            "id": "Türkçe#92",
+            "sentence": "Bu dile \"Osmanlıca\" denilmesi <PossibleEntity>Tanzimat döneminde</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tanzimat)</URL> gerçekleşmiştir."
+        },
+        {
+            "id": "Türkçe#93",
+            "sentence": "Ancak modern Türkçenin temeli olan, daha az alıntı sözcüğe sahip ve daha az eğitimli, alt sınıf ve kırsal kesimde yaşayan halkın konuştuğu kaba Türkçe ile edebiyat ve devlet işlerinde kullanılmış Osmanlı Türkçesi, tıpkı <PossibleEntity>Latince</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Latince)</URL> ve <PossibleEntity>Halk Latincesinde</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Halk_Latincesi)</URL> olduğu gibi düşük bir <PossibleEntity>karşılıklı anlaşılabilirlik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kar%C5%9F%C4%B1l%C4%B1kl%C4%B1_anla%C5%9F%C4%B1labilirlik)</URL> göstermektedir."
+        },
+        {
+            "id": "Türkçe#94",
+            "sentence": "<PossibleEntity>Türkiye Cumhuriyeti</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)</URL> 'nin uluslaşma sürecini tamamlayan Türk Devrimi'nin ya da <PossibleEntity>Atatürk devrimlerinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Atat%C3%BCrk_Devrimleri)</URL> en önemli basamaklarından ilki, Cumhuriyet'in kuruluşundan 5 yıl sonra yapılan Harf Devrimi, ikincisi de Cumhuriyet'in kuruluşundan 9 yıl sonra yapılan Dil Devrimi'dir."
+        },
+        {
+            "id": "Türkçe#95",
+            "sentence": "Dil Devrimi kısaca, Türkçe ile düşünmeyi, Türkçenin bütün bilim, sanat ve teknik kavramları karşılayacak yolda gelişmesini sağlayan eylemdir."
+        },
+        {
+            "id": "Türkçe#96",
+            "sentence": "Dilbilimci Kâmile İmer \"Dil Devrimi nedir?\" sorusunu şöyle yanıtlıyor:"
+        },
+        {
+            "id": "Türkçe#97",
+            "sentence": "Her insan düşüncesini sözcükler arasında bağ kurarak oluşturduğu tümcelerle aktarır, bu açıdan bakınca Dil Devrimi aynı zamanda düşüncenin yenileşmesidir. \"Dil Devrimi'nin gerçekleşmesini sağlayan etkenler, aynı zamanda onun amaçlarını ortaya koymaktadır."
+        },
+        {
+            "id": "Türkçe#98",
+            "sentence": "Uluslaşma etkeni dili yabancı ögelerden arındırma amacını, diğeri de kültür dili durumuna getirmeyi amaçlamaktadır."
+        },
+        {
+            "id": "Türkçe#99",
+            "sentence": "Bu amaçların olumlu sonuçlar vermesi, ortaya çıkan ürünlerin toplumun malı olmasına bağlıdır."
+        },
+        {
+            "id": "Türkçe#100",
+            "sentence": "Devletin desteği olmaksızın dilde yapılan devrim, bireysel bir eylem olarak kalır; topluma mal olmaz."
+        },
+        {
+            "id": "Türkçe#101",
+            "sentence": "Dil Devrimi'nin hazırlık evresindeki çabalar, bunun en güzel örnekleridir."
+        },
+        {
+            "id": "Türkçe#102",
+            "sentence": "Türk Dil Devrimi'nin hazırlık evresi olarak nitelendirebileceğimiz ve <PossibleEntity>Tanzimat Fermanı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tanzimat_Ferman%C4%B1)</URL> ile başlayan dönemdeki dili yalınlaştırma istemi toplumu kapsayamamıştır."
+        },
+        {
+            "id": "Türkçe#103",
+            "sentence": "Ancak, Cumhuriyet'ten sonra, 1932 yılında devletin öncülüğünde Türk Dili Tetkik Cemiyeti'nin kuruluşuyla dilde yapılan yenilikler, ulus çapında bir eylem olarak topluma mal olmaya başlayagelmiştir.\""
+        },
+        {
+            "id": "Türkçe#104",
+            "sentence": "Türkçe, yapı bakımından çok varsıl bir dil olmakla birlikte, dünya çapında çok konuşulan bir dildir."
+        },
+        {
+            "id": "Türkçe#105",
+            "sentence": "Bu varsıllık her ne kadar içinde yabancı sözcükler bulundursa da, bu durum dilde hiçbir bozukluğa yol açmamıştır."
+        },
+        {
+            "id": "Türkçe#106",
+            "sentence": "Bunun nedeni de, <PossibleEntity>Osmanlı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)</URL> 'nın, zamanında barındırdığı halkların olmasıdır."
+        },
+        {
+            "id": "Türkçe#107",
+            "sentence": "Çünkü bu nedenle dilde pek çok yabancı \"sözcük alış-verişleri\" olmuştur."
+        },
+        {
+            "id": "Türkçe#108",
+            "sentence": "Türkçe, dili kullanan halkların dünyanın çeşitli bölgelerine yayılması ve buradaki kültürler ile etkileşimleri nedeniyle tarih boyunca pek çok <PossibleEntity>yazı sistemi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yaz%C4%B1_sistemi)</URL> kullanılarak yazılmıştır."
+        },
+        {
+            "id": "Türkçe#109",
+            "sentence": "Bilinen en eski Türk alfabesi olan ve 8. yüzyılın başlarına tarihlenen <PossibleEntity>Orhun alfabesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_T%C3%BCrk_yaz%C4%B1s%C4%B1)</URL> , yerini bölgedeki yerel alfabelerden etkilenmiş <PossibleEntity>Eski Uygur alfabesine</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_Uygur_alfabesi)</URL> 10. yüzyıl civarında bırakmıştır."
+        },
+        {
+            "id": "Türkçe#110",
+            "sentence": "Daha sonra farklı bölgelere yayılan Türk boyları <PossibleEntity>Kiril</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kiril_alfabesi)</URL> , <PossibleEntity>Yunan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yunan_alfabesi)</URL> , <PossibleEntity>İbrani</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0brani_alfabesi)</URL> ve <PossibleEntity>Latin alfabesi|Latin alfabeleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Latin_harfleri)</URL> gibi farklı yazı sistemleri benimsemiştir."
+        },
+        {
+            "id": "Türkçe#111",
+            "sentence": "Türkiye Türkçesinin de üyesi olduğu <PossibleEntity>Oğuz dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/O%C4%9Fuz_dil_grubu)</URL> konuşurları ise <PossibleEntity>İslam ile temasları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrklerin_%C4%B0slam%27a_ge%C3%A7i%C5%9Fi)</URL> sonucunda Fars-Arap alfabesi temelli yazı sistemleri geliştirmiştir."
+        },
+        {
+            "id": "Türkçe#112",
+            "sentence": "Bu alfabe, Türkiye Türkçesi için 1 Kasım 1928 tarihinde kabul edilen <PossibleEntity>Latin esaslı yeni Türk alfabesine</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_alfabesi)</URL> geçilinceye dek, dilin konuşurlarının temel yazı sistemi olmuştur."
+        },
+        {
+            "id": "Türkçe#113",
+            "sentence": "Buna ek olarak, Türkçe konuşulan devletlerde yaşayan, <PossibleEntity>Ermeni</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ermeni_alfabesi)</URL> , <PossibleEntity>Rum</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yunan_alfabesi)</URL> , <PossibleEntity>Süryani</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C3%BCryani_alfabesi)</URL> , <PossibleEntity>Musevi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0brani_alfabesi)</URL> ve <PossibleEntity>Gürcüler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BC_alfabesi)</URL> gibi azınlıklar da kendi milletlerinin alfabelerini kullanarak Türkçe eserler üretmişlerdir."
+        },
+        {
+            "id": "Türkçe#114",
+            "sentence": "Türkçenin bilinen ilk alfabesi, <PossibleEntity>Orhun Yazıtları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orhun_Yaz%C4%B1tlar%C4%B1)</URL> 'nda da kullanılan ve yaygın adıyla <PossibleEntity>Göktürk alfabesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_T%C3%BCrk_yaz%C4%B1s%C4%B1)</URL> olarak bilinen Orhun alfabesidir. <PossibleEntity>Avrasya'da</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avrasya)</URL> çeşitli örnekleri bulunan <PossibleEntity>Runik yazıya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Runik_yaz%C4%B1)</URL> benzerliğinden ötürü bazen bu şekilde adlandırıldığı da olmuştur.  8. yüzyılın başlarına tarihlenen yazı sisteminin  <PossibleEntity>Çin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87in_karakterleri)</URL> veya <PossibleEntity>Soğd</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/So%C4%9Fd_alfabesi)</URL> yazı sistemlerinden etkilenerek oluşturulduğu düşünülmektedir."
+        },
+        {
+            "id": "Türkçe#115",
+            "sentence": "Sağdan sola yazılmış alfabe, <PossibleEntity>Göktürk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%B6kt%C3%BCrk_Ka%C4%9Fanl%C4%B1%C4%9F%C4%B1)</URL> ve <PossibleEntity>Uygur Kağanlıkları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Uygur_Ka%C4%9Fanl%C4%B1%C4%9F%C4%B1)</URL> tarafından kullanılmış, <PossibleEntity>Karahoca Uygur Krallığı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Karahoca_Uygur_Krall%C4%B1%C4%9F%C4%B1)</URL> devrinde ise kullanımı ortadan kalkmıştır."
+        },
+        {
+            "id": "Türkçe#116",
+            "sentence": "<PossibleEntity>Eski Uygur alfabesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_Uygur_alfabesi)</URL> ise Türk dillerinin bütün yazı çeşitleri içinde en uzun süre kullanılmış olan yazı sistemlerinden biridir. <PossibleEntity>Soğd alfabesinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/So%C4%9Fd_alfabesi)</URL> yakın akrabası olan ve <PossibleEntity>Eski Uygurlar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Uygur_Ka%C4%9Fanl%C4%B1%C4%9F%C4%B1)</URL> 'ın 840 yılında <PossibleEntity>Turfan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Turfan)</URL> bölgesine göçmeleri sonucunda <PossibleEntity>Eski Uygurcaya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_Uygur_T%C3%BCrk%C3%A7esi)</URL> uyarlanmış alfabe,  16. yüzyılda Arap harfli bir alfabe ile değiştirilene kadar <PossibleEntity>Orta Asya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orta_Asya)</URL> ve <PossibleEntity>İran</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ran)</URL> 'ın bazı kısımlarında yüzyıllarca kullanılmıştır."
+        },
+        {
+            "id": "Türkçe#117",
+            "sentence": "Alfabe yukarıdan aşağıya doğru yazılmış ve bir <PossibleEntity>ebcedin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ebced_hesab%C4%B1)</URL> özelliklerini göstermiştir."
+        },
+        {
+            "id": "Türkçe#118",
+            "sentence": "Alfabe kullanılarak pek çok <PossibleEntity>Budist</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Budizm)</URL> ve <PossibleEntity>Maniheist</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Maniheizm)</URL> eser yazılmış,  Eski Uygurcaya ilk <PossibleEntity>İncil</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ncil)</URL> çevirileri gerçekleştirilmiştir.  <PossibleEntity>Dunhuang el yazmaları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dunhuang_el_yazmalar%C4%B1)</URL> da bu alfabede yazılmış metinler içermektedir. <PossibleEntity>Dîvânu Lugâti't-Türk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/D%C3%AEv%C3%A2nu_Lug%C3%A2ti%27t-T%C3%BCrk)</URL> 'te <PossibleEntity>Kaşgarlı Mahmud</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C3%A2%C5%9Fgarl%C4%B1_Mahmud)</URL> , Eski Uygur alfabesini, “Türk alfabesi” adıyla anmaktadır."
+        },
+        {
+            "id": "Türkçe#119",
+            "sentence": "9. yüzyıl civarlarından 20. yüzyılın başlarına dek, yaklaşık 1000 yıl boyunca Türkçe, <PossibleEntity>Arap harfli alfabeler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Arap_harfleri)</URL> kullanılarak yazılmıştır."
+        },
+        {
+            "id": "Türkçe#120",
+            "sentence": "Müslümanlığı benimsemeye başlayan Türk boyları, bu yüzyıllar içinde bu alfabeyi kullanmaya başlamış ve 13. yüzyıl dolaylarında artık bu alfabe, Müslüman Türk boyları arasında ortak bir alfabe özelliği kazanmıştır."
+        },
+        {
+            "id": "Türkçe#121",
+            "sentence": "Türkçeyi yazmak için kullanılmış bu yazı sistemi her ne kadar Arap alfabesi kökenli olsa da, Arapçada bulunmayan “j, ç, ŋ, p” gibi sesleri içermesinden ötürü <PossibleEntity>Arap alfabesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Arap_alfabesi)</URL> ile aynı değildir. <PossibleEntity>Uygurlar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Uygur_Arap_yaz%C4%B1s%C4%B1)</URL> ve <PossibleEntity>İran Azeriler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ran_Azerileri)</URL> gibi bazı Türki halklar hâlen Arap alfabesi kökenli yazı sistemleri kullanmaktadır."
+        },
+        {
+            "id": "Türkçe#122",
+            "sentence": "Arap harfli bir alfabe kullanmış olan <PossibleEntity>Osmanlı İmparatorluğu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)</URL> 'nda alfabenin üzerinde birtakım düzenleme ve eklemeler yapılarak <PossibleEntity>Osmanlı alfabesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_alfabesi)</URL> denilen bir alfabe kullanılmıştır."
+        },
+        {
+            "id": "Türkçe#123",
+            "sentence": "Bu yazı sistemi, <PossibleEntity>Osmanlıcanın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1ca)</URL> <PossibleEntity>Farsça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fars%C3%A7a)</URL> ve <PossibleEntity>Arapça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Arap%C3%A7a)</URL> dillerinden alınma söz varlığını yazmak için uygun olmak ile birlikte, dildeki Türkçe kökenli sözcükleri yazarken pek çok zorluk getirmekteydi."
+        },
+        {
+            "id": "Türkçe#124",
+            "sentence": "Arapça sessiz harfler bakımından zengin, sesli harflerin kullanımı bakımından ise fakir bir dil iken, Türkçe bunun tam tersi özellikler göstermektedir."
+        },
+        {
+            "id": "Türkçe#125",
+            "sentence": "Bunun sonucunda Arap harfli Türk alfabesi Türkçede yer alan pek çok <PossibleEntity>fonemi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fonem)</URL> (ses birimi) uygun bir şekilde temsil etmemektedir."
+        },
+        {
+            "id": "Türkçe#126",
+            "sentence": "Türkçede yer alan bir ses için Arap harfli alfabede 4 farklı harf bulunurken, kimi sesler için ise sesi temsil edecek uygun bir harf bulunmamaktadır."
+        },
+        {
+            "id": "Türkçe#127",
+            "sentence": "Özellikle <PossibleEntity>telgraf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Telgraf)</URL> ve <PossibleEntity>matbaanın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Matbaac%C4%B1l%C4%B1k)</URL> 19. yüzyılda Osmanlı İmparatorluğu'nda yaygınlaşması ile Arap harfli Türk alfabesinin Türkçede yer alan sesleri temsil edememesi daha da büyük bir sorun hâline geldi."
+        },
+        {
+            "id": "Türkçe#128",
+            "sentence": "Osmanlı Devleti sınırları içinde yaşayan ve konuşma dili olarak Türkçeyi kullanan <PossibleEntity>Ermenilerin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ermeniler)</URL> bir kısmı günlük hayatlarında ve edebiyatta <PossibleEntity>Ermeni harfli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ermeni_alfabesi)</URL> bir yazı sistemi kullanmıştır. <PossibleEntity>Ermeni harfli Türkçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ermeni_harfli_T%C3%BCrk%C3%A7e)</URL> alfabesi Anadolu Ermenicesi de denilen <PossibleEntity>Batı Ermenicesinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bat%C4%B1_Ermenicesi)</URL> alfabesini baz alır; ancak Ermeni diline özgü olan Ծ Ձ Ց harfleri Türkçe yazarken kullanılmaz."
+        },
+        {
+            "id": "Türkçe#129",
+            "sentence": "Bu şekilde yazılmış oldukça fazla eser bulunmaktadır ve alfabe <PossibleEntity>Tanzimat sonrası Osmanlı Devleti</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tanzimat_edebiyat%C4%B1)</URL> 'nin en önemli azınlık yazı sistemi olarak nitelendirilmiştir."
+        },
+        {
+            "id": "Türkçe#130",
+            "sentence": "Özellikle <PossibleEntity>Katolik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ermeni_Katolik_Kilisesi)</URL> ve daha az bir şekilde <PossibleEntity>Protestan Ermeniler</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Ermeni_Protestan_Kilisesi&action=edit&redlink=1)</URL> tarafından kullanılmış bu alfabe, <PossibleEntity>Vartan Paşa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vartan_Pa%C5%9Fa)</URL> tarafından yazılmış ve ilk Türkçe roman olan <PossibleEntity>Akabi Hikâyesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Akabi_Hik%C3%A2yesi)</URL> 'nin yazıldığı alfabe de olmuştur.  1841 yılında yazılmış Türkçe İncil de Ermeni harfli Türkçe eserlerden biridir."
+        },
+        {
+            "id": "Türkçe#131",
+            "sentence": "Bu eserlere Türkiye'nin çeşitli kütüphanelerinde ulaşmak mümkündür."
+        },
+        {
+            "id": "Türkçe#132",
+            "sentence": "Bunun yanında <PossibleEntity>Paris</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Paris)</URL> ve <PossibleEntity>Venedik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Venedik)</URL> 'in yanında bulunan St. Lazar adasında da bu eserlere ait kütüphaneler bulunmaktadır."
+        },
+        {
+            "id": "Türkçe#133",
+            "sentence": "Osmanlı döneminde <PossibleEntity>Karamanlıca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Karamanl%C4%B1ca)</URL> ismi verilen bir Anadolu Türkçesi benimsemiş; ancak dinen <PossibleEntity>Rum Ortodoks Kilisesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Rum_Ortodoks_Kilisesi)</URL> 'ne bağlı bir halk olan <PossibleEntity>Karamanlılar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Karamanl%C4%B1lar)</URL> , Türkçeyi Yunan alfabesi kullanarak yazmışlardır."
+        },
+        {
+            "id": "Türkçe#134",
+            "sentence": "Halk, kullandıkları <PossibleEntity>Helen alfabesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yunan_alfabesi)</URL> ile gazete, dinî metin ve edebî eserler gibi çeşitli Türkçe metinler ortaya koymuştur."
+        },
+        {
+            "id": "Türkçe#135",
+            "sentence": "Türkçe ve Azerice dillerinde yazılmış; ancak <PossibleEntity>Gürcü alfabeleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCrc%C3%BC_alfabesi)</URL> kullanılmış 18. yüzyıla tarihlenen tıbbi ve dinî pek çok metin ile Türkçe-Gürcüce sözlükler de bulunmaktadır.  <PossibleEntity>İbranî alfabesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0brani_alfabesi)</URL> ile yazılmış Yahudi Türkçesinin ise ilk örnekleri 16. yüzyıla uzanmaktadır; ancak diğer azınlık alfabeleri ile yazılmış Türkçe metinlerin aksine bu yazıtların ana amacı, o dönemde <PossibleEntity>Yahudi İspanyolcası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yahudi_%C4%B0spanyolcas%C4%B1)</URL> konuşmuş Osmanlı Musevilerine Türkçe öğretmektir.  <PossibleEntity>Süryani alfabesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C3%BCryani_alfabesi)</URL> ile yazılmış Türkçe dua, şiir ve gazeteler de bulunmaktadır."
+        },
+        {
+            "id": "Türkçe#136",
+            "sentence": "1 Kasım 1928 tarihinde, eski Arap harfli Türk alfabesinin yerine, Latin yazısından Türkçe için uyarlanan bu 29 harfli alfabe kabul edilmiştir. <PossibleEntity>Harf Devrimi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Harf_Devrimi)</URL> , Türkiye'de bu kanunun kabul edilmesi ve yeni alfabenin yerleştirilmesi sürecine genel olarak verilen isimdir."
+        },
+        {
+            "id": "Türkçe#137",
+            "sentence": "Türkiye, Kıbrıs Cumhuriyeti, Kuzey Kıbrıs Türk Cumhuriyeti ve Balkanlarda Türkçe için bu alfabe kullanılır."
+        },
+        {
+            "id": "Türkçe#138",
+            "sentence": "Türk alfabesinin içeriği, <PossibleEntity>Latin harflerini</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Latin_harfleri)</URL> yazı sistemlerinde kullanan diğer ülkelerin alfabeleriyle birebir aynı olmayıp Türk dilinin seslerini karşılamaları amacıyla türetilmiş harfleri bulundurmaktadır ( <PossibleEntity>Ç</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87)</URL> , <PossibleEntity>Ş</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C5%9E)</URL> , <PossibleEntity>Ğ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%9E)</URL> , <PossibleEntity>I</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/I)</URL> , <PossibleEntity>İ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0)</URL> , <PossibleEntity>Ö</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96)</URL> , <PossibleEntity>Ü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9C)</URL> )."
+        },
+        {
+            "id": "Türkçe#139",
+            "sentence": "Ayrıca ISO temel Latin alfabesinde yer alan <PossibleEntity>I</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/I_(temel_Latin))</URL> , <PossibleEntity>Q</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Q)</URL> , <PossibleEntity>W</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/W)</URL> ve <PossibleEntity>X</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/X)</URL> harfleri Latin harfli Türk alfabesinde yer almaz."
+        },
+        {
+            "id": "Türkçe#140",
+            "sentence": "Alfabede genellikle her bir harf bir <PossibleEntity>foneme</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fonem)</URL> eş değerdir; ancak bazı harfler birden fazla sesi teşkil edebilir."
+        },
+        {
+            "id": "Türkçe#141",
+            "sentence": "Buna örnek olarak 'e' harfinin \"gelmek\" sözcüğünün ilk hecesinde [æ] sesini, son hecesinde ise [e] sesini teşkil etmesi verilebilir."
+        },
+        {
+            "id": "Türkçe#142",
+            "sentence": "Türk alfabesindeki harflerin okunuşları bazı Batı dillerindeki harflerin okunuşlarından da farklıdır."
+        },
+        {
+            "id": "Türkçe#143",
+            "sentence": "Örneğin <PossibleEntity>C</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/C)</URL> harfinin okunuşu Türkçede /d͡ʒ/ iken İngilizcede /ˈsiː/ olarak okunabilir."
+        },
+        {
+            "id": "Türkçe#144",
+            "sentence": "Günümüzdeki standart Türkçe, İstanbul'da konuşulan Türkçe ağzı örnek alınarak oluşturulmuştur."
+        },
+        {
+            "id": "Türkçe#145",
+            "sentence": "Bu \"İstanbul Türkçesi\", Türkçeyi yazarken ve konuşurken model teşkil etmektedir ve kullanımı 1910'larda <PossibleEntity>Ziya Gökalp</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ziya_G%C3%B6kalp)</URL> ve <PossibleEntity>Ömer Seyfettin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96mer_Seyfettin)</URL> gibi <PossibleEntity>Türk yazarlar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_edebiyat%C4%B1)</URL> tarafından önerilmiştir."
+        },
+        {
+            "id": "Türkçe#146",
+            "sentence": "Buna rağmen günümüzde modern <PossibleEntity>Türkiye Cumhuriyeti</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)</URL> 'ni de kapsayan tarihî <PossibleEntity>Osmanlı İmparatorluğu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1_%C4%B0mparatorlu%C4%9Fu)</URL> coğrafyasında hâlâ konuşulmaya devam eden Türkçe ağız ve lehçeleri bulunmakta ve bu ağızlar özellikleri bakımından çeşitli gruplara ayrılmaktadır."
+        },
+        {
+            "id": "Türkçe#147",
+            "sentence": "Bu gruplara, kendi içlerinde de alt gruplara ayrılan <PossibleEntity>Anadolu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anadolu)</URL> , <PossibleEntity>Rumeli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Rumeli)</URL> , <PossibleEntity>Kıbrıs</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s_Cumhuriyeti)</URL> , <PossibleEntity>Suriye</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Suriye)</URL> ve <PossibleEntity>Irak</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Irak)</URL> diyalekt bölgeleri dahildir."
+        },
+        {
+            "id": "Türkçe#148",
+            "sentence": "Ağızlar arasında bulunan bazı farklılıkların nedeni, bölgeye göre <PossibleEntity>Lazca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Lazca)</URL> , <PossibleEntity>Azerice</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Azerice)</URL> , <PossibleEntity>Arapça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Arap%C3%A7a)</URL> , <PossibleEntity>Kürtçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C3%BCrt%C3%A7e)</URL> veya <PossibleEntity>Yunancanın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yunanca)</URL> bölgede konuşulan Türkçeye olan etkileridir."
+        },
+        {
+            "id": "Türkçe#149",
+            "sentence": "Türkçenin bu alt dil grupları Türk araştırmacılar tarafından <PossibleEntity>şive</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C5%9Eive)</URL> veya <PossibleEntity>ağız</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C4%9F%C4%B1z_(dilbilim))</URL> olarak adlandırılıyor."
+        },
+        {
+            "id": "Türkçe#150",
+            "sentence": "<PossibleEntity>Anadolu ağız bölgesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anadolu_a%C4%9F%C4%B1zlar%C4%B1)</URL> , <PossibleEntity>Türkiye</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)</URL> 'nin <PossibleEntity>Anadolu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anadolu)</URL> topraklarını içerir."
+        },
+        {
+            "id": "Türkçe#151",
+            "sentence": "Türkçe konuşan en büyük ve nüfusça en yoğun bölge olan Anadolu, içinde yer alan ana ağız grupları bakımından Doğu Grubu, Kuzeydoğu Grubu ve Batı Grubu olarak üçe ayrılır."
+        },
+        {
+            "id": "Türkçe#152",
+            "sentence": "Prof. Dr."
+        },
+        {
+            "id": "Türkçe#153",
+            "sentence": "Leylâ Karahan'ın Anadolu Ağızlarının Sınıflandırılması adlı çalışması <PossibleEntity>Anadolu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anadolu)</URL> ağızları üzerine yapılmış en geniş akademik çalışmadır."
+        },
+        {
+            "id": "Türkçe#154",
+            "sentence": "Anadolu'da özellikle <PossibleEntity>Karadeniz Bölgesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Karadeniz_B%C3%B6lgesi)</URL> , <PossibleEntity>Güneydoğu Bölgesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCneydo%C4%9Fu_Anadolu_B%C3%B6lgesi)</URL> ve <PossibleEntity>Ege Bölgesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ege_B%C3%B6lgesi)</URL> 'nde ağız farklılıkları belirgindir; ancak bu ağızlar, küçük yaşlardan itibaren eğitimde yazı dilinin kullanımı, basın-yayın gibi bazı nedenlerle yavaş yavaş kaybolmaktadır."
+        },
+        {
+            "id": "Türkçe#155",
+            "sentence": "Ağızlar arasında pek çok ses değişimi vardır."
+        },
+        {
+            "id": "Türkçe#156",
+            "sentence": "Anadolu ağızlarında \"açık e\" (/ <PossibleEntity>ǝ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C6%8E)</URL> /), \"hırıltılı h\" (/ <PossibleEntity>ḫ</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=%E1%B8%AA&action=edit&redlink=1)</URL> /) ve \"öndamaksıl n\" (/ <PossibleEntity>ŋ</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=%C5%8A&action=edit&redlink=1)</URL> /) sesleri, İstanbul ağzında bulunmamaktadır. <PossibleEntity>Ege</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ege_Denizi)</URL> ağızlarında /r/ sesi kaybolmuştur: var - vā gibi. <PossibleEntity>Orta Anadolu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0%C3%A7_Anadolu_B%C3%B6lgesi)</URL> ağızlarında /k/ sesi, /g/ olmuş ( Konya - Gonya , keçi - geçi ), p-b ses değişimi de yaşanmıştır ( piliç - biliç ). <PossibleEntity>Kayseri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kayseri)</URL> yöresinde ö-ü sesleri değişmiştir: öküz - oküz gibi ."
+        },
+        {
+            "id": "Türkçe#157",
+            "sentence": "Doğu ve güneydoğu ağzında ise Arapçaya özgü, alem - a'lem gibi gırtlak sesleri bulunmaktadır. <PossibleEntity>Karadeniz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Karadeniz)</URL> ağızlarında b-p değişimi görülür: bunu - puni."
+        },
+        {
+            "id": "Türkçe#158",
+            "sentence": "Türkçenin ağızlarından <PossibleEntity>Rumeli kolu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Rumeli_a%C4%9F%C4%B1zlar%C4%B1)</URL> ana ağız grupları bakımından Doğu Rumeli ve Batı Rumeli olarak ikiye ayrılır."
+        },
+        {
+            "id": "Türkçe#159",
+            "sentence": "Ayrıca bu ağız yörelere göre <PossibleEntity>Gagavuzca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Gagavuzca)</URL> ile benzer veya aynı özellikler taşımaktadır."
+        },
+        {
+            "id": "Türkçe#160",
+            "sentence": "Batı Rumeli kolunun özellikleri <PossibleEntity>Gyula Németh</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Gyula_N%C3%A9meth)</URL> 'in “Bulgaristan Türk Ağızlarının Sınıflandırılması Üzerine” adlı makalesinde, 8 maddede gösterilmiştir."
+        },
+        {
+            "id": "Türkçe#161",
+            "sentence": "Sonrasında birçok çalışmada da bu madde açıklaması benimsenmiş, uygulanmıştır."
+        },
+        {
+            "id": "Türkçe#162",
+            "sentence": "Batı Rumeli sahasının coğrafi sınırları <PossibleEntity>Bulgaristan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bulgaristan)</URL> 'da <PossibleEntity>Tuna</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tuna)</URL> 'nın hemen güneyindeki <PossibleEntity>Lom</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Lom)</URL> 'dan doğuya doğru <PossibleEntity>Vraça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0vraca)</URL> , <PossibleEntity>Sofya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sofya)</URL> , <PossibleEntity>Samokov</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Samokov)</URL> 'dan doğuya doğru ilerleyip <PossibleEntity>Köstendil</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C3%B6stendil)</URL> 'e uzanır."
+        },
+        {
+            "id": "Türkçe#163",
+            "sentence": "Ayrıca <PossibleEntity>Makedonya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kuzey_Makedonya)</URL> , <PossibleEntity>Arnavutluk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Arnavutluk)</URL> , <PossibleEntity>Bosna-Hersek</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bosna-Hersek)</URL> ve <PossibleEntity>Sırbistan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C4%B1rbistan)</URL> 'da <PossibleEntity>Adakale</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Adakale)</URL> 'yi uç olarak kapsar.  <PossibleEntity>Kosova</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kosova)</URL> da Batı Rumeli Türkçesinin içinde yer alır."
+        },
+        {
+            "id": "Türkçe#164",
+            "sentence": "Doğu Rumeli ağız bölgesi ise Batı Rumeli'nin doğusunda kalan bütün alanı kapsar. <PossibleEntity>Bulgaristan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bulgaristan)</URL> 'da <PossibleEntity>Lom</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Lom)</URL> , <PossibleEntity>Vraça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0vraca)</URL> , <PossibleEntity>Sofya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sofya)</URL> , <PossibleEntity>Samokov</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Samokov)</URL> ve <PossibleEntity>Köstendil</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C3%B6stendil)</URL> şehirlerinin doğusundan itibaren ülkenin tamamı, <PossibleEntity>Yunanistan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yunanistan)</URL> , <PossibleEntity>Makedonya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kuzey_Makedonya)</URL> 'nın güney kesimleri ve <PossibleEntity>Türkiye</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye)</URL> 'nin <PossibleEntity>Trakya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Trakya)</URL> 'sı (Doğu Trakya) bu sahanın içindedir."
+        },
+        {
+            "id": "Türkçe#165",
+            "sentence": "<PossibleEntity>Kıbrıs ağızları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s_T%C3%BCrk%C3%A7esi)</URL> , <PossibleEntity>Kıbrıs</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s)</URL> 'ta, daha ziyade yerli <PossibleEntity>Kıbrıs Türklerinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s_T%C3%BCrkleri)</URL> konuştuğu, Türkçe ağzıdır."
+        },
+        {
+            "id": "Türkçe#166",
+            "sentence": "Türkiye'nin <PossibleEntity>Taşeli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ta%C5%9Feli)</URL> yöresi ağzıyla ( <PossibleEntity>Alanya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alanya)</URL> - <PossibleEntity>Anamur</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anamur)</URL> - <PossibleEntity>Aydıncık</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ayd%C4%B1nc%C4%B1k,_Mersin)</URL> ) benzerlik gösterir."
+        },
+        {
+            "id": "Türkçe#167",
+            "sentence": "Kıbrıs ağızlarıyla ilgili ilk bilimsel çalışma <PossibleEntity>Hasan Eren</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hasan_Eren)</URL> 'in 1963 yılındaki bildirisidir."
+        },
+        {
+            "id": "Türkçe#168",
+            "sentence": "Eren 1959 yılında adada yapmış olduğu üç aylık bir araştırma gezisi sırasında bazı köylerden derlediği malzeme yardımıyla Kıbrıs ağzının kökeni meselesini ele almıştır."
+        },
+        {
+            "id": "Türkçe#169",
+            "sentence": "Eren'in görüşüne göre Kıbrıs ağzının oluşumunda önce Konya ve yöresi, sonra da Antalya, İçel, Alanya gibi yerlerden yapılan göçler rol oynamıştır."
+        },
+        {
+            "id": "Türkçe#170",
+            "sentence": "Bu durum, <PossibleEntity>adanın Osmanlı egemenliğine geçmesinden</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1-Venedik_Sava%C5%9F%C4%B1_(1570-1573))</URL> sonra Kıbrıs'a gönderilen Türk nüfus hakkındaki tarihi belgelerle de örtüşür."
+        },
+        {
+            "id": "Türkçe#171",
+            "sentence": "<PossibleEntity>Suriye sahası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Suriye_a%C4%9F%C4%B1zlar%C4%B1)</URL> , Türkçenin Batı Grubu ve çoklukla Doğu Grubu ağızlarına benzeyen bir ağız bölgesidir."
+        },
+        {
+            "id": "Türkçe#172",
+            "sentence": "Bu bölge, Suriye Türklerinin ağızlarının konuşulduğu alt ağız bölgesidir."
+        },
+        {
+            "id": "Türkçe#173",
+            "sentence": "Standart dil olarak Türkiye Türkçesi yazı dili kullanımdadır."
+        },
+        {
+            "id": "Türkçe#174",
+            "sentence": "Suriye bölgesi konusunda ağız çalışmaları beklenen düzeyin altındadır."
+        },
+        {
+            "id": "Türkçe#175",
+            "sentence": "<PossibleEntity>Irak sahası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Irak_a%C4%9F%C4%B1zlar%C4%B1)</URL> , Türkçe ile <PossibleEntity>Azericenin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Azerice)</URL> sınırdaş oldukları bir sahadır. <PossibleEntity>Kerkük</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kerk%C3%BCk)</URL> , <PossibleEntity>Musul</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Musul)</URL> , <PossibleEntity>Telafer</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Telafer)</URL> gibi yerleşim yerlerinde konuşulur."
+        },
+        {
+            "id": "Türkçe#176",
+            "sentence": "Standart dil olarak Türkçenin yazı dili kullanımdadır."
+        },
+        {
+            "id": "Türkçe#177",
+            "sentence": "Kafkaslar'ın batı sahası için de benzer durum söz konusu edilmiştir."
+        },
+        {
+            "id": "Türkçe#178",
+            "sentence": "Gürcistan ve Ermenistan'ın yer aldığı bu saha da iki büyük Oğuz grubunun kesişim alanındadır."
+        },
+        {
+            "id": "Türkçe#179",
+            "sentence": "Dilbilgisi ya da gramer, bir <PossibleEntity>dilin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dil)</URL> <PossibleEntity>ses</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ses)</URL> , biçim ve <PossibleEntity>cümle</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/C%C3%BCmle)</URL> yapısını inceleyip, kurallarını saptayan bir <PossibleEntity>bilim</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilim)</URL> dalıdır."
+        },
+        {
+            "id": "Türkçe#180",
+            "sentence": "Türkçe bu hususta <PossibleEntity>sondan eklemeli bir dildir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eklemeli_dil)</URL> ve dilde pek çok <PossibleEntity>son ek</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Son_ek)</URL> kullanılmaktadır."
+        },
+        {
+            "id": "Türkçe#181",
+            "sentence": "Bir sözcükte birden fazla ek yer alabilir ve bu ekler <PossibleEntity>yapım ekleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yap%C4%B1m_eki)</URL> ve <PossibleEntity>çekim ekleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87ekim_ekleri)</URL> olmak üzere iki kategoriye ayrılır. <PossibleEntity>Yapım ekleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yap%C4%B1m_eki)</URL> , isimlerden ve sıfatlardan fiil, fiillerden de isim ve sıfat üretmek için kullanılır.  <PossibleEntity>Çekim ekleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87ekim_eki)</URL> ise sözcüğün anlamında değişikliğe yol açmadan sözcüğün hali, <PossibleEntity>sayısı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87o%C4%9Ful_eki)</URL> , <PossibleEntity>kişisi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0yelik_eki)</URL> gibi özelliklerini belirtir."
+        },
+        {
+            "id": "Türkçe#182",
+            "sentence": "Dilin eklemeli olma özelliği, Çekoslovakyalılaştıramadıklarımızdanmışsınızcasına gibi pek çok uzun sözcüğün yaratılmasına olanak sağlamaktadır."
+        },
+        {
+            "id": "Türkçe#183",
+            "sentence": "Bu kadar uzun sözcükler bir istisna olsa da, günlük hayatta ve medyada uzun sözcüklere sıklıkla rastlanılmaktadır."
+        },
+        {
+            "id": "Türkçe#184",
+            "sentence": "Dilde bulunan tek yerli <PossibleEntity>ön ek</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96n_ek)</URL> ise, <PossibleEntity>aliterasyon</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Aliterasyon)</URL> ile oluşturulan, sımsıcak ve masmavi gibi bir özelliği kuvvetlendirici eklerden oluşur."
+        },
+        {
+            "id": "Türkçe#185",
+            "sentence": "Türkçede doğru tümce yapısı, özne , tümleç , yüklem biçimindedir; ancak Türkçe esnek bir dildir."
+        },
+        {
+            "id": "Türkçe#186",
+            "sentence": "Bu yüzden günlük yaşamda devrik tümceler sıklıkla kullanılır."
+        },
+        {
+            "id": "Türkçe#187",
+            "sentence": "Örneğin, \"Bugün yazılı sınav olacağız.\" tümcesine eşdeğer \"Yazılı sınav olacağız, bugün.\" tümcesi kurulabilir."
+        },
+        {
+            "id": "Türkçe#188",
+            "sentence": "Bu tür tümceler daha şiirsel anlatıma sahiptir."
+        },
+        {
+            "id": "Türkçe#189",
+            "sentence": "Türkçede kısa yoldan anlatım da ön plandadır."
+        },
+        {
+            "id": "Türkçe#190",
+            "sentence": "Örneğin, \"sobayı yak.\" derken \"sobanın içindeki odun ve kömürleri yak.\" anlamındadır."
+        },
+        {
+            "id": "Türkçe#191",
+            "sentence": "Bunun dilbilgisindeki adı \" <PossibleEntity>ad aktarması</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ad_aktarmas%C4%B1)</URL> \"dır."
+        },
+        {
+            "id": "Türkçe#192",
+            "sentence": "Türkçede kişi adılları altı tanedir."
+        },
+        {
+            "id": "Türkçe#193",
+            "sentence": "Örneğin Türkçede, ben , sen , o , biz , siz , onlar biçimindedir."
+        },
+        {
+            "id": "Türkçe#194",
+            "sentence": "Türkçedeki önemli bir başka özellik, \"siz\" adılının kibar olarak 2. tekil kişiyi (sen) belirtmesidir."
+        },
+        {
+            "id": "Türkçe#195",
+            "sentence": "Bir Türk dilinin dilbilgisi hakkında tarihteki ilk kaynağın <PossibleEntity>Kaşgarlı Mahmud</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C3%A2%C5%9Fgarl%C4%B1_Mahmud)</URL> 'un 11. yüzyılda yazdığı düşünülen “ <PossibleEntity>Kitâbu Cevâhirü’n-nahv</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kit%C3%A2b%C3%BC_Cev%C3%A2hiri%27n-Nahv_f%C3%AE_Lug%C3%A2ti%27t-T%C3%BCrk)</URL> ” adlı kitabı olduğu varsayılmaktadır; ancak günümüzde yapıt hâlâ bulunmamıştır."
+        },
+        {
+            "id": "Türkçe#196",
+            "sentence": "Türkçe yazılmış ilk dilbilgisi kitabı <PossibleEntity>Bergamalı Kadri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bergamal%C4%B1_Kadr%C3%AE)</URL> 'nin “ <PossibleEntity>Müyessiretü’l-Ulûm</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/M%C3%BCyessiret%C3%BC%27l-Ul%C3%BBm)</URL> ” (1559) adlı yapıtıdır."
+        },
+        {
+            "id": "Türkçe#197",
+            "sentence": "Yapıtta örnekler Türkçedir, fakat dil kuralları Arapçanın kurallarına uydurulmuştur. <PossibleEntity>Tanzimat</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tanzimat_edebiyat%C4%B1)</URL> döneminde başta <PossibleEntity>Ahmet Cevdet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ahmed_Cevdet_Pa%C5%9Fa)</URL> (1851) ve Fuat Paşa'nın (1865) kitaplarında <PossibleEntity>Osmanlıcanın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1ca)</URL> yapısı göz önünde tutulmuştur. 1908'de ilan edilen <PossibleEntity>Meşrutiyet'ten</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0kinci_Me%C5%9Frutiyet)</URL> sonra, <PossibleEntity>Hüseyin Cahit</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Cahit_S%C4%B1tk%C4%B1_Taranc%C4%B1)</URL> 'in “ <PossibleEntity>Sarf ve Nahiv</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Sarf_ve_Nahiv&action=edit&redlink=1)</URL> ” adlı eserinin dilbilgisi konusunda önemli bir yeri vardır."
+        },
+        {
+            "id": "Türkçe#198",
+            "sentence": "Bu kitapta Fransızca dilbilgisinin etkisi görülür. <PossibleEntity>Cumhuriyet Döneminin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Cumhuriyet_d%C3%B6nemi_T%C3%BCrk_edebiyat%C4%B1)</URL> ilk esaslı dilbilgisi kitabı, <PossibleEntity>İbrahim Necmi Dilmen</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0brahim_Necmi_Dilmen)</URL> 'in 1939 tarihli “Türkçe Gramer” adlı yapıtıdır. 1940′tan sonra pek çok Türkçe dilbilgisi kitabı yazılmıştır."
+        },
+        {
+            "id": "Türkçe#199",
+            "sentence": "Bunlardan önemli olanları: <PossibleEntity>Tahsin Banguoğlu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tahsin_Banguo%C4%9Flu)</URL> 'nun “ <PossibleEntity>Ana Hatlarıyla Türk Grameri</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Ana_Hatlar%C4%B1yla_T%C3%BCrk_Grameri&action=edit&redlink=1)</URL> ” (1940), <PossibleEntity>Tahir Nejat Gencan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tahir_Nejat_Gencan)</URL> 'ın “Dilbilgisi” (1950-1954) ve <PossibleEntity>Muharrem Ergin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Muharrem_Ergin)</URL> 'in “Türkçe Dil Bilgisi”dir (1958)"
+        },
+        {
+            "id": "Türkçe#200",
+            "sentence": "Özelliği gereği sona eklemeli bir dil olduğundan Türkçede basit bir kökten çok sayıda sözcük türetmek mümkündür."
+        },
+        {
+            "id": "Türkçe#201",
+            "sentence": "Bu özelliğin bulunmadığı <PossibleEntity>Hint-Avrupa dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hint-Avrupa_dil_ailesi)</URL> kolundan gelen İngilizce, Almanca ve İspanyolca aşağıda Türkçe ile karşılaştırılmıştır."
+        },
+        {
+            "id": "Türkçe#202",
+            "sentence": "Ve eylemden türeme:"
+        },
+        {
+            "id": "Türkçe#203",
+            "sentence": "Yeni sözcükler ayrıca var olan iki eski sözcüğün birleşmesi ile de yaratılır."
+        },
+        {
+            "id": "Türkçe#204",
+            "sentence": "Bu, Türkçe ve Almanca ile İngilizcenin paylaştığı bir ayrıklık benzerliği oluşturur."
+        },
+        {
+            "id": "Türkçe#205",
+            "sentence": "Altta bazı örnekler:"
+        },
+        {
+            "id": "Türkçe#206",
+            "sentence": "Diğer yaygın olarak konuşulan dillerle karşılaştırıldığında, daha az sayıda sözcük ve harf ile daha çok bilgi aktarmak olanaklıdır."
+        },
+        {
+            "id": "Türkçe#207",
+            "sentence": "Diğer pek çok dilde olmayan bir özelliğe göre, bir sözcük köküne ekler ekleyerek, tek sözcüklü tümce oluşturulabilir."
+        },
+        {
+            "id": "Türkçe#208",
+            "sentence": "Türkçede <PossibleEntity>büyük ünlü uyumu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_%C3%BCnl%C3%BC_uyumu)</URL> ve <PossibleEntity>küçük ünlü uyumu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C3%BC%C3%A7%C3%BCk_%C3%BCnl%C3%BC_uyumu)</URL> olarak bilinen iki ünlü uyumu vardır."
+        },
+        {
+            "id": "Türkçe#209",
+            "sentence": "En yaygın ve kapsamlı olan, büyük ünlü uyumudur."
+        },
+        {
+            "id": "Türkçe#210",
+            "sentence": "Küçük ünlü uyumu, Türkçede genelde geçerli iken diğer Türk dillerinde bu uyum pek aranmaz zira küçük ünlü uyumu, ileri ve keyfî bir uyum düzeyidir."
+        },
+        {
+            "id": "Türkçe#211",
+            "sentence": "Büyük ünlü uyumu konusunda kural dışı kalan çok az sözcük mevcuttur ki, bunların büyük bir kısmı yabancı kökenli sözcüklerdir."
+        },
+        {
+            "id": "Türkçe#212",
+            "sentence": "İstisna oluşturan birkaç sözcük de, köken bakımıyla Türkçe olup uyum dışına çıkan sözlerdir: elma (<< alma); ücra (<< uçra) gibi. Bu kurala göre Türkçede bir sözcüğün ilk hecesinde <PossibleEntity>kalın bir ünlü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9Cnl%C3%BC_(dilbilim))</URL> (a, ı, o, u) varsa, izleyen hecelerde de kalın heceler; <PossibleEntity>ince bir ünlü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9Cnl%C3%BC_(dilbilim))</URL> (e, i, ö, ü) varsa, izleyen hecelerde de ince ünlüler yer alır. Küçük ünlü uyumunda sözcüğün ilk hecesi düz ünlüyle başlamışsa (a, e, ı, i) diğer hecelerde düz ünlüyle devam eder."
+        },
+        {
+            "id": "Türkçe#213",
+            "sentence": "Örnek:"
+        },
+        {
+            "id": "Türkçe#214",
+            "sentence": "Türkçede iki adet <PossibleEntity>ses</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ses)</URL> ya da <PossibleEntity>fonem</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fonem)</URL> grubu vardır."
+        },
+        {
+            "id": "Türkçe#215",
+            "sentence": "Bunlardan ilki <PossibleEntity>ağızdan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C4%9F%C4%B1z)</URL> sürekli ve engelsiz çıkan ünlü seslerdir."
+        },
+        {
+            "id": "Türkçe#216",
+            "sentence": "Türkçede dokuz adet ünlü ses bulunur."
+        },
+        {
+            "id": "Türkçe#217",
+            "sentence": "Bunlar / <PossibleEntity>ä</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Kapal%C4%B1_ince_yuvarlak_%C3%BCnl%C3%BC_(merkezlenmi%C5%9F)&action=edit&redlink=1)</URL> /, / <PossibleEntity>e</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Orta-kapal%C4%B1_ince_d%C3%BCz_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> /, / <PossibleEntity>ɛ</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Orta-a%C3%A7%C4%B1k_ince_d%C3%BCz_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> /, / <PossibleEntity>i</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Kapal%C4%B1_ince_d%C3%BCz_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> /, / <PossibleEntity>ɯ</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Kapal%C4%B1_kal%C4%B1n_d%C3%BCz_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> /, / <PossibleEntity>o</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Orta-kapal%C4%B1_kal%C4%B1n_yuvarlak_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> /, / <PossibleEntity>ø</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Orta-kapal%C4%B1_ince_yuvarlak_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> /, / <PossibleEntity>u</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Kapal%C4%B1_kal%C4%B1n_yuvarlak_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> /, / <PossibleEntity>y</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kapal%C4%B1_%C3%B6n_yuvarlak_%C3%BCnl%C3%BC)</URL> / sesleridir."
+        },
+        {
+            "id": "Türkçe#218",
+            "sentence": "Bunlardan beşi ince, dördü kalındır."
+        },
+        {
+            "id": "Türkçe#219",
+            "sentence": "Bunlardan, / <PossibleEntity>ɛ</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Orta-a%C3%A7%C4%B1k_ince_d%C3%BCz_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> /, / <PossibleEntity>e</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Orta-kapal%C4%B1_ince_d%C3%BCz_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> /, / <PossibleEntity>i</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Kapal%C4%B1_ince_d%C3%BCz_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> /, / <PossibleEntity>ø</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Orta-kapal%C4%B1_ince_yuvarlak_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> / ve / <PossibleEntity>y</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kapal%C4%B1_%C3%B6n_yuvarlak_%C3%BCnl%C3%BC)</URL> / sesleri, ince seslerdir."
+        },
+        {
+            "id": "Türkçe#220",
+            "sentence": "Diğer / <PossibleEntity>ä</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Kapal%C4%B1_ince_yuvarlak_%C3%BCnl%C3%BC_(merkezlenmi%C5%9F)&action=edit&redlink=1)</URL> /, / <PossibleEntity>ɯ</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Kapal%C4%B1_kal%C4%B1n_d%C3%BCz_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> /, / <PossibleEntity>o</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Orta-kapal%C4%B1_kal%C4%B1n_yuvarlak_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> / ve / <PossibleEntity>u</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Kapal%C4%B1_kal%C4%B1n_yuvarlak_%C3%BCnl%C3%BC&action=edit&redlink=1)</URL> / sesleri ise kalın seslerdir."
+        },
+        {
+            "id": "Türkçe#221",
+            "sentence": "Türkçede bulunan diğer bir <PossibleEntity>ses</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ses)</URL> grubu ise ünsüz seslerdir."
+        },
+        {
+            "id": "Türkçe#222",
+            "sentence": "Türk dilleri arasında bazı ses farklılıkları vardır."
+        },
+        {
+            "id": "Türkçe#223",
+            "sentence": "Örneğin arka damaksıl genizcil n sesi olan [ŋ] sesi Türkiye Türkçesinde, Azerbaycancada ve bazı diğer Türk dillerinde yoktur."
+        },
+        {
+            "id": "Türkçe#224",
+            "sentence": "Buna rağmen [ŋ] Öz Türkçe bir sestir."
+        },
+        {
+            "id": "Türkçe#225",
+            "sentence": "İlk Türkçede bu ses /nk/ olarak geçer."
+        },
+        {
+            "id": "Türkçe#226",
+            "sentence": "Bazı örnekleri şunlardır: me nk e (baŋa), bunk (buŋ), te nk ri (taŋrı), -ni nk (-niŋ)..."
+        },
+        {
+            "id": "Türkçe#227",
+            "sentence": "Zaman içinde düşen [g] sesi [ŋ] sesinin de yok olmasını sağlamıştır."
+        },
+        {
+            "id": "Türkçe#228",
+            "sentence": "Bir başka farklılık ise [ʒ] sesidir."
+        },
+        {
+            "id": "Türkçe#229",
+            "sentence": "Diğer Türk dillerinde bu ses bulunmaz; ancak Kazakçada bu durum farklıdır."
+        },
+        {
+            "id": "Türkçe#230",
+            "sentence": "Öz Türkçe /j/ sesleri, yani \"y\" sesleri [ʒ] yani \"j\" seslerine dönüşür."
+        },
+        {
+            "id": "Türkçe#231",
+            "sentence": "Örneğin: yok → joq, yıl → jıl, yay → jay..."
+        },
+        {
+            "id": "Türkçe#232",
+            "sentence": "Aynı durum Kırgızca için de geçerlidir."
+        },
+        {
+            "id": "Türkçe#233",
+            "sentence": "Türkçede [d͡ʒ] yani \"c\" sesi olmamasına rağmen Kırgızcada baştaki [j] yani \"y\" sesleri bu sese dönüşmüştür."
+        },
+        {
+            "id": "Türkçe#234",
+            "sentence": "Örneğin: yol → col, yıldız → cıldız..."
+        },
+        {
+            "id": "Türkçe#235",
+            "sentence": "Bunun dışında bazı sesler ise yalnızca Türkiye Türkçesi ve Azerbaycanca, Türkmence gibi daha batıda ve Oğuz öbeği içerisindeki dillere özgü sesler vardır."
+        },
+        {
+            "id": "Türkçe#236",
+            "sentence": "Örneğin ince ünlülerle kullanılan \"ğ\" sesi /ʝ/ ve kalın ünlülerle kullanılan \"ğ\" sesi /ɣ/ Öz Türkçede bulunmaz."
+        },
+        {
+            "id": "Türkçe#237",
+            "sentence": "Buna rağmen Oğuz grubu dillerde bulunur."
+        },
+        {
+            "id": "Türkçe#238",
+            "sentence": "Bu seslerin tümü \"g\" yani /ɟ/ sesinden gelir."
+        },
+        {
+            "id": "Türkçe#239",
+            "sentence": "Eski Türkçede uzun ünlü bulunduğuna dair ortaya konan çalışmalar bulunmakla birlikte bugünkü Türkçede Arapça ve Farsça gibi dillerden alınan sözler ve hakan, hatun, yarın, niçin gibi bazı istisnalar dışında uzun ünlülü sözcük bulunmaz."
+        },
+        {
+            "id": "Türkçe#240",
+            "sentence": "Türk dillerinde <PossibleEntity>zaman</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Zaman)</URL> içinde değişen belli başlı <PossibleEntity>sesler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ses)</URL> vardır."
+        },
+        {
+            "id": "Türkçe#241",
+            "sentence": "İlk Türkçeden bu yana değişimi olağan olan <PossibleEntity>evrimler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Evrim)</URL> olduğu gibi değişimi olağan olmayanları da vardır."
+        },
+        {
+            "id": "Türkçe#242",
+            "sentence": "Türkçedeki geçmiş zaman işlevi iki ayrı ek ile yapılır."
+        },
+        {
+            "id": "Türkçe#243",
+            "sentence": "Bunlardan ilki, görülen geçmiş zaman olarak, bir eylemin artık sona ermiş olduğunu anlatmak için, şu an itibarıyla anlamındaki \"Di\" sözcüğünün bir son ek hâline gelmesiyle -dı, -di, -du, -dü; -tı, -ti, -tu, -tü şekilleriyle yapılır ve ikincisi öğrenilen geçmiş zaman olarak haberdar etmek anlamındaki \"Muş-mak\" fiilinin bir son ek hâline gelmesiyle -mış, -miş, -muş, -müş şekilleriyle yapılır."
+        },
+        {
+            "id": "Türkçe#244",
+            "sentence": "Bu şekil çokluğunun nedeni Türkiye Türkçesinde ileri düzeydeki ünlü ve ünsüz uyumudur. (Örneğin, gel- eylemine -di eklenip geldi oluşturulurken, git- eylemine -ti eklenip gitti kurulur."
+        },
+        {
+            "id": "Türkçe#245",
+            "sentence": "Bu örneklerin ilkindeki “l” ünsüzü “d”yi kabul ederken, “e” ünlüsü de “i”yi kabul etmiştir."
+        },
+        {
+            "id": "Türkçe#246",
+            "sentence": "İkinci örnekteki “t” ünsüzü ise d yerine “t”yi kabul etmekte ve “i” ünlüsü de “i”yi kabul ederek eklenmektedir.)"
+        },
+        {
+            "id": "Türkçe#247",
+            "sentence": "Öğrenilen geçmiş zaman ( -mış, -miş, -muş, -müş ) tümceye öğrenilmişlik, duyulmuşluk, haberdar edilmişlik anlamı katmaktadır."
+        },
+        {
+            "id": "Türkçe#248",
+            "sentence": "Görülen geçmiş zaman ( -dı, -di, -du, -dü; -tı, -ti, -tu, -tü ) ise tümceye görülen bir sonuç bilgisi vermektedir."
+        },
+        {
+            "id": "Türkçe#249",
+            "sentence": "Zaman ekinden sonra kişi eki gelir: de-di-m, yetiş-ti-k, sor-du-lar vb."
+        },
+        {
+            "id": "Türkçe#250",
+            "sentence": "Türkiye Türkçesinde şimdiki zamanlı bir tümce kurabilmek için eylem kökünün sonuna “-yor” eki getirilir."
+        },
+        {
+            "id": "Türkçe#251",
+            "sentence": "Geniş Türkçe coğrafyası içinde yalnızca Türkiye Türkçesinde bulunan bu ek, tarihî nedenlerden ötürü tek şekillidir (sadece -yor): geliyor, bakıyor, düşüyor, soruyor vb."
+        },
+        {
+            "id": "Türkçe#252",
+            "sentence": "Bu ek aslında bir ek değildir."
+        },
+        {
+            "id": "Türkçe#253",
+            "sentence": "İlk Türkçe bu ek \"yor-mak\" fiilinden gelen ve o an için hangi eylemle uğraşıldığını anlatmak için kullanılan bir ektir."
+        },
+        {
+            "id": "Türkçe#254",
+            "sentence": "Örneğin \"geliyorum\" demek için \"kel-i yorur-u-men\" derlerdi."
+        },
+        {
+            "id": "Türkçe#255",
+            "sentence": "Burada \"kel-\", \"gel-\" anlamında, \"i\" \"hakkında\" anlamında, \"u\" \"işaret zamiri\" olarak ve \"men\" ise \"ben\" anlamındadır."
+        },
+        {
+            "id": "Türkçe#256",
+            "sentence": "Zaman içinde çok kullanılan bu yapı Türkçenin sondan eklemeli olması nedeniyle ekleşmiştir."
+        },
+        {
+            "id": "Türkçe#257",
+            "sentence": "Ancak her zaman \"-yor\" biçiminde kalır."
+        },
+        {
+            "id": "Türkçe#258",
+            "sentence": "“-yor” eki, eylemlerden sonra gelirken; ekle eylem arasına, kalın-ince durumuna göre \"hakkında\" anlamında bir yardımcı ses alır: gel-i-yor, dur-u-yor vb. Ünlü ile biten eylemlerde bu ünlü harf yardımcı sese dönüşür."
+        },
+        {
+            "id": "Türkçe#259",
+            "sentence": "Bu tür durumda yalnızca ek okunur: de-i-yor > diyor, başla-ı-yor > başlıyor, susa-ı-yor > susuyor vb."
+        },
+        {
+            "id": "Türkçe#260",
+            "sentence": "Bu şimdiki zaman eki, hem şekli hem kullanım tarzı açısından, Türkiye Türkçesinde ayrıklı bir özelliğe sahiptir."
+        },
+        {
+            "id": "Türkçe#261",
+            "sentence": "Zaman ekinden sonra kişi eki gelir: seslen-i-yor-uz, dur-u-yor-um vb."
+        },
+        {
+            "id": "Türkçe#262",
+            "sentence": "-mekte -makta ekleri de tümceye şimdiki zaman anlamını kazandırır."
+        },
+        {
+            "id": "Türkçe#263",
+            "sentence": "Ders çalış makta yım. Seni düşün mekte yim. Türkçede Şimdiki Zaman Tablosu (-yor):"
+        },
+        {
+            "id": "Türkçe#264",
+            "sentence": "Türkçede Şimdiki Zaman Tablosu (-makta):"
+        },
+        {
+            "id": "Türkçe#265",
+            "sentence": "İlk Türkçe bu zaman ekleri \"Çak-mak\" ve \"Çek-mek\" fiillerinden gelen eklerdir."
+        },
+        {
+            "id": "Türkçe#266",
+            "sentence": "\"-A-cak\" ve \" -e-cek,\" şekilleri ile yapılır."
+        },
+        {
+            "id": "Türkçe#267",
+            "sentence": "Ünsüzden sonra ek doğrudan gelirken, ünlü ile biten eylemlere eklenmeden önce, yardımcı ünsüz olarak “y” harfiyle başlar."
+        },
+        {
+            "id": "Türkçe#268",
+            "sentence": "Türkçede Gelecek Zaman Tablosu (-acak):"
+        },
+        {
+            "id": "Türkçe#269",
+            "sentence": "Eski Türkçe bu zaman ekleri \"Var-mak\" ve \"Er-mek\" fiillerinden gelen eklerdir."
+        },
+        {
+            "id": "Türkçe#270",
+            "sentence": "Öznenin bir eylemi yapma ihtimalinin var olduğunu veya bu imkâna ermiş olduğunu yani bu fiili işleme imkânına sahip olunduğunu ifade eder."
+        },
+        {
+            "id": "Türkçe#271",
+            "sentence": "(Yap-a-Var-sen) >Yaparsın = yapma şansın var veya (Git-e-Er-ler) > Giderler = gitme imkanına erdiler, gitme fırsatı elde ettiler anlamındadır."
+        },
+        {
+            "id": "Türkçe#272",
+            "sentence": "Türkiye Türkçesinde geniş zaman eylem sonuna -r, -er, -ar ek şekillerinden biri getirilerek oluşturulur."
+        },
+        {
+            "id": "Türkçe#273",
+            "sentence": "Türkçede Geniş Zaman Tablosu (-r):"
+        },
+        {
+            "id": "Türkçe#274",
+            "sentence": "Türkçede <PossibleEntity>zamanlar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Zaman)</URL> çok çeşitlidir ve varlıklıdır."
+        },
+        {
+            "id": "Türkçe#275",
+            "sentence": "Yalnızca bir <PossibleEntity>zaman</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Zaman)</URL> belirtmek zorunda olmazsınız."
+        },
+        {
+            "id": "Türkçe#276",
+            "sentence": "Türkçede bunun için <PossibleEntity>ek eylem</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ek_eylem)</URL> yapısı vardır."
+        },
+        {
+            "id": "Türkçe#277",
+            "sentence": "Türkçede <PossibleEntity>ek eylem</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ek_eylem)</URL> dört ayrı çekimlidir."
+        },
+        {
+            "id": "Türkçe#278",
+            "sentence": "Bunlardan biri <PossibleEntity>ek</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ek)</URL> olarak kullanılan \"'-dir'\", diğerleri ise \"'idi'\", \"'imiş'\", \"'ise'\" olmaktadır."
+        },
+        {
+            "id": "Türkçe#279",
+            "sentence": "Bunların <PossibleEntity>dördü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/4_(say%C4%B1))</URL> de “olmak” (İlk Türkçede “bolmak”) anlamına gelen i- eyleminden gelir."
+        },
+        {
+            "id": "Türkçe#280",
+            "sentence": "Bu eylemin İlk Türkçede durumu \"er-\" biçimindedir, <PossibleEntity>zamanla</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Zaman)</URL> \"i-\" biçiminde kalmıştır."
+        },
+        {
+            "id": "Türkçe#281",
+            "sentence": "Türkçede <PossibleEntity>ek</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ek)</URL> <PossibleEntity>eylem</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fiil)</URL> için \"olmak\" eylemi kullanılmaz."
+        },
+        {
+            "id": "Türkçe#282",
+            "sentence": "Çünkü bu <PossibleEntity>eylem</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fiil)</URL> , <PossibleEntity>yardımcı eylem</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yard%C4%B1mc%C4%B1_eylem)</URL> olarak kullanılır, bunun yerine \"er-\" eylemi ek eylem olarak kullanılır."
+        },
+        {
+            "id": "Türkçe#283",
+            "sentence": "Bu yüzden kullanılmaz ancak kullanılması anlamsız kalmaz."
+        },
+        {
+            "id": "Türkçe#284",
+            "sentence": "İlk Türkçe bu ek \"Dur-mak\" fiilinden gelen bir ektir."
+        },
+        {
+            "id": "Türkçe#285",
+            "sentence": "Resmî dilde sadece üçüncü tekil ve üçüncü çoğul şahıs eki olarak sürecin böyle devam ettiğini anlatır ve bir kesinlik ifade eder."
+        },
+        {
+            "id": "Türkçe#286",
+            "sentence": "Günlük dilde ise sürecin böyle göründüğünü anlatır ve sadece bir tahmin ifade eder."
+        },
+        {
+            "id": "Türkçe#287",
+            "sentence": "Türkçede herhangi bir zamanın genişini (-dir) eki yapar."
+        },
+        {
+            "id": "Türkçe#288",
+            "sentence": "Türkçede Görece Geniş Zaman Tablosu (yaz-):"
+        },
+        {
+            "id": "Türkçe#289",
+            "sentence": "Türkçede herhangi bir zamanın görülen geçmişini \"idi\" yapar."
+        },
+        {
+            "id": "Türkçe#290",
+            "sentence": "Ancak bu ekleşebilir de. Örneğin \"yazmış idi\" yerine \"yazmıştı\" kullanılabilir."
+        },
+        {
+            "id": "Türkçe#291",
+            "sentence": "Böyle ekli kullanım günlük yaşamda daha çok kullanılır; ancak yazı dilinde \"idi\" biçiminde geçebilir."
+        },
+        {
+            "id": "Türkçe#292",
+            "sentence": "Türkçede Görülen Geçmiş Zaman Tablosu (yaz-):"
+        },
+        {
+            "id": "Türkçe#293",
+            "sentence": "Türkçede herhangi bir zamanın görülen geçmişini \"imiş\" yapar."
+        },
+        {
+            "id": "Türkçe#294",
+            "sentence": "Ancak bu ekleşebilir de. Örneğin \"yazmış imiş\" yerine \"yazmışmış\" kullanılabilir."
+        },
+        {
+            "id": "Türkçe#295",
+            "sentence": "Böyle ekli kullanım günlük yaşamda daha çok kullanılır; ancak yazı dilinde \"imiş\" biçiminde geçebilir."
+        },
+        {
+            "id": "Türkçe#296",
+            "sentence": "Türkçede Duyulan Geçmiş Zaman Tablosu (yaz-):"
+        },
+        {
+            "id": "Türkçe#297",
+            "sentence": "Türkçede herhangi bir zamanın görülen geçmişini \"ise\" yapar."
+        },
+        {
+            "id": "Türkçe#298",
+            "sentence": "Ancak bu ekleşebilir de. Örneğin \"yazmış ise\" yerine \"yazmışsa\" kullanılabilir."
+        },
+        {
+            "id": "Türkçe#299",
+            "sentence": "Böyle ekli kullanım günlük yaşamda daha çok kullanılır; ancak yazı dilinde \"ise\" biçiminde geçebilir."
+        },
+        {
+            "id": "Türkçe#300",
+            "sentence": "Türkçede Şart Tablosu (yaz-):"
+        },
+        {
+            "id": "Türkçe#301",
+            "sentence": "Türkçede birleşik zamanlı yapan \"i-\" eyleminin yanında aynı anlamda \"ol-\" eylemi de görev yapar."
+        },
+        {
+            "id": "Türkçe#302",
+            "sentence": "Hiçbir zaman \"-yor\" ve \"-acak\" eklerini almayan \"i-\" eyleminin bu eksikliğini \"ol-\" eylemi doldurur."
+        },
+        {
+            "id": "Türkçe#303",
+            "sentence": "Örneğin \"gitmiş iyorlar\" yerine \"gitmiş oluyorlar\" kullanılır."
+        },
+        {
+            "id": "Türkçe#304",
+            "sentence": "Türkçede birleşik zaman yapan \"ol-\" eyleminin görevlerinden biri \"-mış olmak\" yapmaktır."
+        },
+        {
+            "id": "Türkçe#305",
+            "sentence": "Buna göre eylem duyulan geçmiş zamana göre çekimlenir, daha sonra olacak eylemini alır ki bu yüklem olur, sonra kişi eki koyulur."
+        },
+        {
+            "id": "Türkçe#306",
+            "sentence": "Türkçede -mış olacak Tablosu (yaz-):"
+        },
+        {
+            "id": "Türkçe#307",
+            "sentence": "Türkçede birleşik zaman yapan \"ol-\" eyleminin görevlerinden bir diğeri \"-yor olmak\" yapmaktır."
+        },
+        {
+            "id": "Türkçe#308",
+            "sentence": "Buna göre eylem şimdiki geçmiş zamana göre çekimlenir, daha sonra olacak eylemini alır ki bu yüklem olur, sonra kişi eki koyulur."
+        },
+        {
+            "id": "Türkçe#309",
+            "sentence": "Bu biçimde çekimlenen eylemler \"gelecek zaman\" anlamı vermezler; ancak gelecek zaman içerisinde yapılıyor olacağını belirtir."
+        },
+        {
+            "id": "Türkçe#310",
+            "sentence": "Bu da bir iş kılışın, oluşun veya durumun gelecekte yapılıyor olacağını gösterir."
+        },
+        {
+            "id": "Türkçe#311",
+            "sentence": "Türkçede -mış olacak Tablosu (yaz-):"
+        },
+        {
+            "id": "Türkçe#312",
+            "sentence": "<PossibleEntity>Ötüken Neşriyat</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96t%C3%BCken_Ne%C5%9Friyat)</URL> 'ın hazırladığı Ötüken Türkçe Sözlük'te <PossibleEntity>Göktürkçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%B6kt%C3%BCrk%C3%A7e)</URL> , <PossibleEntity>Eski Uygurca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_Uygur_T%C3%BCrk%C3%A7esi)</URL> , <PossibleEntity>Hakaniye Türkçesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Karahanl%C4%B1_T%C3%BCrk%C3%A7esi)</URL> , <PossibleEntity>Oğuzca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/O%C4%9Fuz_dil_grubu)</URL> , <PossibleEntity>Eski Anadolu Türkçesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_Anadolu_T%C3%BCrk%C3%A7esi)</URL> , <PossibleEntity>Osmanlıca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1ca)</URL> , Çağdaş Türkiye Türkçesi ile Anadolu, <PossibleEntity>Rumeli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Rumeli_a%C4%9F%C4%B1zlar%C4%B1)</URL> , <PossibleEntity>Kıbrıs</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1br%C4%B1s_T%C3%BCrk%C3%A7esi)</URL> ve Kerkük ağızlarından alınan toplam 316.000 sözcük bulunmaktadır."
+        },
+        {
+            "id": "Türkçe#313",
+            "sentence": "20 Ekim 2008 tarihinde 6. Uluslararası Türk Dili Kurultayı'nın açılışında dönemin başbakanı <PossibleEntity>Recep Tayyip Erdoğan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan)</URL> tarafından 616.767 söz varlığı içeren <PossibleEntity>Büyük Türkçe Sözlük</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=B%C3%BCy%C3%BCk_T%C3%BCrk%C3%A7e_S%C3%B6zl%C3%BCk&action=edit&redlink=1)</URL> çalışması <PossibleEntity>Türk Dil Kurumu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk_Dil_Kurumu)</URL> sitesi üzerinden sanal ortamda kullanıma açıldı."
+        },
+        {
+            "id": "Türkçe#314",
+            "sentence": "Türk Dil Kurumunun tüm sözlüklerini bir araya getiren bu sözlük Güncel Türkçe Sözlük yanı sıra 1948-2008 yılları arası yayımlanmış tüm Bilim ve Sanat Terimleri Sözlüklerini, Türkiye Türkçesi Ağızları Sözlüğünü, Yer Adları Sözlüğünü, Kişi Adları Sözlüğünü, Atasözleri ve Deyimler Sözlüğünü, Türkçede Batı Kökenli Kelimeler Sözlüğünü, Türk Lehçeleri Sözlüğünü, Tarama Sözlüğünü, Eş ve Yakın Anlamlı Kelimeler Sözlüğünü ve Zıt Anlamlı Kelimeler Sözlüğünü içermekteydi.  2009 yılında dönemin Türk Dil Kurumu başkanı <PossibleEntity>Şükrü Haluk Akalın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C5%9E%C3%BCkr%C3%BC_Hal%C3%BBk_Akal%C4%B1n)</URL> Büyük Türkçe Sözlük'ün kitap olarak basılacağını duyurdu."
+        },
+        {
+            "id": "Türkçe#315",
+            "sentence": "Kitap ön hazırlıkları sırasında Atasözleri ve Deyimler Sözlüğü, Türkçede Batı Kökenli Kelimeler Sözlüğü, Türk Lehçeleri Sözlüğü, Tarama Sözlüğü ve Eş ve Yakın Anlamlı Kelimeler Sözlüğü çalışmadan çıkartılarak söz varlığı sayısı 570.723'e düşürüldü.    2012 yılında Şükrü Haluk Akalın'ın Türk Dil Kurumu başkanlığı görevinden ayrılmasıyla Büyük Türkçe Sözlük'ün kitap çalışması devam etmedi. 2019 yılında Türk Dil Kurumu başkanı <PossibleEntity>Gürer Gülsevin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCrer_G%C3%BClsevin)</URL> tarafından yürütülen yeni genel ağ ve yeni çevrimiçi sözlük sayfasına geçiş çalışmaları sırasında Büyük Türkçe Sözlük'ün sanal ortamdaki kullanımı sonlandırıldı ve bu sözlük ile ilgili bilgiler Türk Dil Kurumu sitesinden kaldırıldı."
+        },
+        {
+            "id": "Türkçe#316",
+            "sentence": "Türk Dil Kurumu tarafından dilde yaşayan gelişmelerin yansıtıldığı Güncel Türkçe Sözlük'ün 2023 yılındaki 12. baskısında 64.994 kelime ve 33.744 deyim, atasözü, birleşik fiil ve birleşik ifade olmak üzere toplam 98.738 madde, 132.548 açıklama ve Türk edebiyatından seçilmiş 45.362 örnek cümle bulunmaktadır."
+        },
+        {
+            "id": "Türkçe#317",
+            "sentence": "Türkçenin ulaşılabilen en eski kaynaklarındaki (Orhun Yazıtları) yabancı sözcük oranı 1%'in altındaydı."
+        },
+        {
+            "id": "Türkçe#318",
+            "sentence": "Uygurlardan günümüze gelen metinlerde Çin, Sogot, Sanskrit dilleri gibi birçok yabancı dilden Türkçeye giren kelimelerin oranı %2 ile %5 arasındadır."
+        },
+        {
+            "id": "Türkçe#319",
+            "sentence": "İslamiyet'in kabulünden itibaren Türkçedeki yabancı unsurlar eserden esere farklılık göstermek üzere artmıştır.  11. yüzyıla ait Kutadgu Bilig'de bu oran %1,9 dolayındadır."
+        },
+        {
+            "id": "Türkçe#320",
+            "sentence": "Kutadgu Bilig'den 150-200 yıl sonra yazıldığı anlaşılan Atebetü'l Hakayık'ta yabancı kelime oranı %20'ye yükselmiştir."
+        },
+        {
+            "id": "Türkçe#321",
+            "sentence": "Eski Anadolu Türkçesine gelindiğinde ise yabancı kelime oranları Yunus Emre'de %13, Aşık Paşa'nın Garibnâmesi'nde %20, Ahmet Fakih'in Çarhnâmesi'nde %28'dir. 15. yüzyıl sonları ve 16. yüzyılın başlarında başlayan Yeni Türkçe (Osmanlı Türkçesi) döneminde Arapça ve Farsça kelimeler Türk dilinde ağırlık kazanmıştır."
+        },
+        {
+            "id": "Türkçe#322",
+            "sentence": "Bu dönemde yabancı kelimeler <PossibleEntity>Divan Edebiyatı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Divan_edebiyat%C4%B1)</URL> temsilcilerinden Bâkî'de %65, Nef‘î'de %60 ve Nâbî'de %54'e yükselir."
+        },
+        {
+            "id": "Türkçe#323",
+            "sentence": "Tanzimat döneminde ise Namık Kemal'de %62, Şemsettin Sami'de %64, Ahmet Mithat'ta %57 düzeyindedir."
+        },
+        {
+            "id": "Türkçe#324",
+            "sentence": "Bu oranlar 1965'e kadar %25'e düşmüştür."
+        },
+        {
+            "id": "Türkçe#325",
+            "sentence": "1931 yılında, yani Türk Dil Kurumu kurulmadan bir yıl önce gazetelerde haber dilinde %35 oranında Türkçe kökenli sözcük kullanılmışken 1933'te, yani TDK kurulduktan bir yıl sonra, bu oran %44'e ulaşmış, 1936'da ise %48 olmuştur."
+        },
+        {
+            "id": "Türkçe#326",
+            "sentence": "Türkçe sözcüklerin oranı 1946'da %57'ye ulaşmıştır. 1950'den başlayarak Türkiye'de de dil, politikaya araç edilir olmuş; bu bağlamda öncelikle 1945'te Türkçeleştirilmiş bulunan Anayasa metni yürürlükten kaldırılarak Teşkilât-ı Esasiye Kanunu metni yürürlüğe konmuştur."
+        },
+        {
+            "id": "Türkçe#327",
+            "sentence": "Bu dönemden başlayarak sağ eğilimli hükûmetler daha çok Osmanlıca, sol eğilimli olanlar da Türkçe kökenli öğeler kullanır olmuşlardır."
+        },
+        {
+            "id": "Türkçe#328",
+            "sentence": "Türkçe sözcüklerin oranı 1951'de %51'e düşmüş ve 1956'da da aynı oranda (% 51) kullanılmıştır. 1956 yılında Akşam gazetesinde ortalama %54.3 oranında Türkçe sözcük kullanılırken Hürriyet gazetesinde aynı yılda %43 oranında Türkçe sözcük kullanılmıştır. 1961'de %56'ya, 1965'te %60.5'e yükselmiştir. 1977 yılında Cumhuriyet gazetesinde %75.5, Tercüman gazetesinde %66.5 oranında Türkçe sözcük kullanılmışken 1980 yılında Cumhuriyet gazetesinde %81, Tercüman gazetesinde %72 oranında Türkçe sözcük kullanılmıştır."
+        },
+        {
+            "id": "Türkçe#329",
+            "sentence": "Sonuçta her iki gazetenin Türkçe sözcük kullanımında %9 oranında bir fark ortaya çıkmaktadır, ancak gazete haber dilinde kullanılan Türkçe sözcüklerin ortalama oranı %70'in üstüne çıkmıştır."
+        },
+        {
+            "id": "Türkçe#330",
+            "sentence": "Tercüman gazetesindeki 1985-1990 yıllan arasında % 68.5 ile %70.3 arasında Türkçe sözcük kullanılmışken aynı dönemde Cumhuriyet gazetesindeki haberlerde %71.5 ile %74.1 arasında Türkçe sözcük kullanılmıştır."
+        },
+        {
+            "id": "Türkçe#331",
+            "sentence": "Bir başka deyişle bu dönemde Tercüman'da %69.6, Cumhuriyet'te ise %72 oranında Türkçe sözcük kullanılmıştır."
+        },
+        {
+            "id": "Türkçe#332",
+            "sentence": "Böylece 1950'lerde başlayan ve gazetelerin haber dillerinde %9-11 arasında değişen bir farka dayanarak sürdürülen \"Osmanlıca-(Öz) Türkçe\" savaşımı, 1985-1990 döneminde değişik tutumlar arasındaki farkın %2.4'e inmesiyle sona ermiştir."
+        },
+        {
+            "id": "Türkçe#333",
+            "sentence": "Osmanlı döneminde basılan <PossibleEntity>Kamus-ı Türkî</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kam%C3%BBs-%C4%B1_T%C3%BCrk%C3%AE)</URL> , <PossibleEntity>Lügat-i Naci</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Lugat-i_N%C3%A2c%C3%AE)</URL> , Mükemmel Osmanlı Lügati, Resimli Kâmûs-i Osmânî, Mükemmel Kamus-I Osmanî, Türk Lügati ve Cumhuriyet döneminde basılan Yeni Türkçe Lügat, Büyük Osmanlıca-Türkçe Sözlük, Osmanlıca Türkçe Ansiklopedik Lügât, Osmanlıca-Türkçe Sözlük, Osmanlıca-Türkçe Ansiklopedik Sözlük, Osmanlıca Türkçe Lügât, Hayat Büyük Türk Sözlüğü, TDK Türkçe Sözlük, Büyük Türkçe Sözlük ve <PossibleEntity>Misalli Büyük Türkçe Sözlük</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Misalli_B%C3%BCy%C3%BCk_T%C3%BCrk%C3%A7e_S%C3%B6zl%C3%BCk)</URL> incelenerek yapılan çalışmada sadece ana/kök kelimeler dikkate alınarak sözcük kökenlerinin Osmanlıca sözlüklerde %62'si Arapça, %21'i Farsça, %13'ü Türkçe ve %4'ü batı dillerinden olduğu; Türkçe sözlüklerde ise %38'i Arapça, %36'sı Türkçe, %16'sı Batı dillerinden, %10'u Farsça olduğu tespit edilmiştir."
+        },
+        {
+            "id": "Türkçe#334",
+            "sentence": "Türk Dil Kurumunun 1998 tarihli 9. baskı Türkçe Sözlüğü'ndeki kelimelerin ana/kök halleri dikkate alınarak yapılan çalışmada ise %35'inin Arapça, %34'ünün batı dilleri, %24'ünün Türkçe, %7'sinin Farsça olduğu sonucuna varılmıştır."
+        },
+        {
+            "id": "Türkçe#335",
+            "sentence": "Türk Dil Kurumunun 1988 tarihli 8. baskı Türkçe Sözlüğü üzerine yapılan başka bir incelemede sözlükte yer alan kelimelerden 29.942'sinin Türkçe, 13.244'ün ise yabancı kökenli olduğu tespit edilmiştir."
+        },
+        {
+            "id": "Türkçe#336",
+            "sentence": "Türkçe kökenli kelimelerin genel toplam içindeki oranı %69.3, yabancı kökenli kelimelerin genel toplam içindeki oranı ise %30.6'dır. En çok 6914 sözcük ile Fransızca, daha sonra 3174 Arapça ve 1850 Farsça sözcük vardır."
+        },
+        {
+            "id": "Türkçe#337",
+            "sentence": "2005 tarihli 10. baskı Türkçe Sözlük'teki sözlerin kökenlerine ait sayısal döküm Türk Dil Kurumu tarafından 6463 Arapça, 4974 Fransızca, 1374 Farsça, 632 İtalyanca, 538 İngilizce, 399 Yunanca, 147 Latince kelime olarak açıklanmıştır."
+        },
+        {
+            "id": "Türkçe#338",
+            "sentence": "Bu açıklamadan yola çıkılarak Türkçe Sözlük'teki kelimelerin %85.58'i Türkçe iken; %5.83'ü Arapça, %4.73'ü Fransızca, %1.22'si Farsça, %0.43'ü İngilizce, %0.36'sı Rumca kökenli olduğu varsayılmaktadır.  11. ve 12. baskı Türkçe Sözlükler için Türk Dil Kurumunun kelime kökenlerine ilişkin sayısal dökümü bulunmamaktadır."
+        },
+        {
+            "id": "Türkçe#339",
+            "sentence": "Her ne kadar <PossibleEntity>Atatürk'ün dil devrimi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dil_Devrimi)</URL> ile Türkçe, kökeni Arapça ve Farsça olan sözcüklerden arındırılmaya çalışıldıysa da, dil devriminin politik etkenlerle aksamasından ötürü bu iki dilden sözcükler, Fransızca sözcüklerle birlikte Türkçe sözlüğünün önemli bir bölümünü oluşturmayı sürdürmektedir."
+        },
+        {
+            "id": "Türkçe#340",
+            "sentence": "Ancak <PossibleEntity>Arapça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Arap%C3%A7a)</URL> ve <PossibleEntity>Farsçadan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fars%C3%A7a)</URL> gelmiş sözcüklerin bir bölümü o denli Türkçeleşmiştir ki <PossibleEntity>Arap</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Araplar)</URL> veya <PossibleEntity>Fars</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Farslar)</URL> dilindeki durumundan oldukça farklıdır ve kimi sözcüklerin anlamı da farklılaşmıştır. [kaynak belirtilmeli]"
+        },
+        {
+            "id": "Türkçe#341",
+            "sentence": "Anlam farklılığına sahip Türkçedeki yabancı sözcükler:"
+        },
+        {
+            "id": "Türkçe#342",
+            "sentence": "Yabancı kökenli sözcüklerden bazı örnekler:"
+        },
+        {
+            "id": "Türkçe#343",
+            "sentence": "1983 yılında Türk Dil Kurumunun dernek tüzel kişiliğine son verilmesiyle <PossibleEntity>Öz Türkçecilik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96z_T%C3%BCrk%C3%A7e)</URL> çalışmaları durduruldu. 20 Aralık 1984 tarihinde <PossibleEntity>TRT</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Radyo_Televizyon_Kurumu)</URL> Genel Müdürü <PossibleEntity>Tunca Toskay</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tunca_Toskay)</URL> ; dibilimci Hamza Zülfikar ve <PossibleEntity>Ahmet Bican Ercilasun</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ahmet_Bican_Ercilasun)</URL> danışmanlığında yönetim kurul kararı ile dil devrimi ve sonrasında türetilmiş anlatı, bellek, benzeti, betimlemek, deneyim, devrim, doğa, ekin, esin, etkin, gereksinim, görsel, imge, karşın, kuram, kuşku, olanak, örneğin, öykü, özgür, özveri, sanal, sınav, ulus, yanıt, yapay, yapıt, yaşam gibi 205 sözcüğü yasaklayan gizli bir karar yayımladı ve bunu TRT'nin tüm birim ve müdürlüklerine iletti."
+        },
+        {
+            "id": "Türkçe#344",
+            "sentence": "Daha sonra bu yasaklı sözcükler listesi <PossibleEntity>Millî Eğitim Bakanlığı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mill%C3%AE_E%C4%9Fitim_Bakanl%C4%B1%C4%9F%C4%B1_(T%C3%BCrkiye))</URL> , <PossibleEntity>Emniyet Genel Müdürlüğü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Emniyet_Genel_M%C3%BCd%C3%BCrl%C3%BC%C4%9F%C3%BC)</URL> , <PossibleEntity>Devlet İstatistik Enstitüsü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_%C4%B0statistik_Kurumu)</URL> gibi diğer kurumların kitap, broşür ve kurum içi yazışmalarında da uygulanmaya başlandı."
+        },
+        {
+            "id": "Türkçe#345",
+            "sentence": "Türkçede öze dönüş ve öz Türkçeyi koruma çalışmaları neticesinde Türk Dil Kurumu tarafından birçok yabancı kelimenin Türkçe karşılıkları önerilmiştir."
+        },
+        {
+            "id": "Türkçe#346",
+            "sentence": "Örnekler:"
+        },
+        {
+            "id": "Türkçe#347",
+            "sentence": "Diğer dillere geçmiş sözcüklerin hepsi Türki kökenli olmamakla birlikte Osmanlı'nın etkisiyle <PossibleEntity>Osmanlı Türkçesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Osmanl%C4%B1ca)</URL> Balkan, Kafkas ve Orta Doğu coğrafyasında yaşamış Yunan, Ermeni, Slav ve Arnavut halklarının dilleri üzerinde önemli etkiler bırakmıştır."
+        },
+        {
+            "id": "Türkçe#348",
+            "sentence": "Osmanlı Türkçesi aracılığıyla birçok Arapça ve Farsça sözcük de diğer dillere geçmiştir ve bunlar ilgili dillerde Türkçe olarak bilinir."
+        },
+        {
+            "id": "Türkçe#349",
+            "sentence": "Türkçenin imparatorluk dili olmasının, çok sayıda komşu ülkeye sözcük vermesine neden olduğunu belirten Dr. Günay Karağaaç, Türkçe Verintiler Sözlüğü adlı çalışmasında diğer dillere geçen 20 binden fazla sözcük olduğunu belirtmiştir."
+        },
+        {
+            "id": "Türkçe#350",
+            "sentence": "Sırpçada 9000, Ermenicede 4260, Bulgarcada 3500, Farsça   , Rumence, Arnavutça ve Yunancada 3000, Rusçada 2500, Arapça     ve Macarcada 2000, Ukraynacada 800, İngilizcede 470, Çincede 300, İtalyancada 146, Almancada 166, Urducada 227 ve Çekçede 248 Türk dili kökenli sözcük olduğunu belirtmiştir."
+        },
+        {
+            "id": "Türkçe#351",
+            "sentence": "Diğer dillerdeki Türkçe kökenli sözcüklerden bazı örnekler:"
+        },
+        {
+            "id": "Türkçe#352",
+            "sentence": "Bazı Türkçe kökenli kabul edilen sözcüklerin, Sevan Nişanyan gibi çeşitli kişiler tarafından yabancı kökenli oldukları iddia ediliyor."
+        },
+        {
+            "id": "Türkçe#353",
+            "sentence": "Özellikle <PossibleEntity>Soğdcadan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/So%C4%9Fdca)</URL> birtakım alıntı gerçekleştiği sanılıyor ya da tersine Türkçeden Soğdcaya."
+        },
+        {
+            "id": "Türkçe#354",
+            "sentence": "Bu durumda kimin kimden alıntı yaptığı kesinlik kazanmamıştır, başka bir olasılık ise karşılıklı etkilenme de söz konusu olduğudur."
+        },
+        {
+            "id": "Türkçe#355",
+            "sentence": "Bu durum, Eski Türkler ve Soğdların iç içe yaşadıklarından kaynaklanabilir."
+        },
+        {
+            "id": "Türkçe#356",
+            "sentence": "Bunun yanında Toharca, Orta Farsça ve Türkçe karşılıklı etkilenme olduğu öngörülüyor."
+        },
+        {
+            "id": "Türkçe#357",
+            "sentence": "Çin'de Uygur Türklerinin yaşadığı ve özerkliğe sahip olan <PossibleEntity>Sincan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sincan_Uygur_%C3%96zerk_B%C3%B6lgesi)</URL> (Doğu Türkistan) bölgesinde <PossibleEntity>İrani</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ran_dilleri)</URL> olan Partça, Orta Farsça, Soğdca ve Sakaca dillerinden yazı buluntular  tespit edilmiştir."
+        },
+        {
+            "id": "Türkçe#358",
+            "sentence": "Bunun yanı sıra <PossibleEntity>Hint-Avrupa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hint-Avrupa_dil_ailesi)</URL> dil ailesinin içinde ayrı gruba ait olan Toharcadan da yazılar bulunmuştur."
+        },
+        {
+            "id": "Türkçe#359",
+            "sentence": "Türkçe olmadığı sanılan sözcüklerin kökleri hakkında yaklaşımlar:"
+        },
+        {
+            "id": "Türkçe#360",
+            "sentence": "Bu sözcüklerin kökenleri hakkında farklı değerlendirmeler için Hasan Eren'in kökenbilim çalışmalarına da bakılabilir."
+        },
+        {
+            "id": "Türkçe#361",
+            "sentence": "Türkçede çok sayıda unutulan ve daha günlük hayatta kullanılmayan ya da yalnızca özel terimlerde kullanılan saf Türkçe sözcükler vardır."
+        },
+        {
+            "id": "Türkçe#362",
+            "sentence": "Bu sözcükler TDK tarafından sonradan türetilmiş sözcüklerle karıştırılmamalı."
+        },
+        {
+            "id": "Türkçe#363",
+            "sentence": "Bunlar Orta Çağ'da da kullanılmaktaydı ve bugünkü yabancı uyruklu sözcükler için karşılık olarak alınabilir."
+        },
+        {
+            "id": "Türkçe#364",
+            "sentence": "TDK bu sözcüklerin çoğunu eskimiş olarak tanımlar."
+        },
+        {
+            "id": "Türkçe#365",
+            "sentence": "Bazı örnekler:"
+        },
+        {
+            "id": "Türkçe#366",
+            "sentence": "1 Özge (T.) sözcük anlamı 'başka'dır. Burada kullanımı 'yabancı'dır."
+        }
+    ]
+}

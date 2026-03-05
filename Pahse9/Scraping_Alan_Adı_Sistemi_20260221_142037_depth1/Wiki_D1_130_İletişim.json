@@ -1,0 +1,554 @@
+{
+    "Title": "İletişim",
+    "Card": {},
+    "Main": [
+        {
+            "id": "İletişim#1",
+            "sentence": "İletişim , iletilmek istenen <PossibleEntity>bilginin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgi)</URL> hem gönderici hem de <PossibleEntity>alıcı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Al%C4%B1c%C4%B1)</URL> tarafından anlaşıldığı ortamda, bilginin bir göndericiden bir alıcıya aktarılma sürecidir."
+        },
+        {
+            "id": "İletişim#2",
+            "sentence": "Organizmaların çeşitli yöntemlerle bilgi alışverişi yapmalarına olanak tanıyan bir süreçtir."
+        },
+        {
+            "id": "İletişim#3",
+            "sentence": "İletişim tüm tarafların üzerinden bilgi alışverişi yapılacak ortak bir <PossibleEntity>dili</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dil)</URL> anlamalarına ihtiyaç duyar."
+        },
+        {
+            "id": "İletişim#4",
+            "sentence": "İletişimi açıklayan en öz tanım ise iletişimin bilgi ya da duygu aktarımı olduğudur."
+        },
+        {
+            "id": "İletişim#5",
+            "sentence": "Belirli mesajların kodlanarak bir kanal aracılığıyla bir kaynaktan bir hedefe/alıcıya aktarılması süreci."
+        },
+        {
+            "id": "İletişim#6",
+            "sentence": "Örneğin bir konuşmacı (kaynak) ortak bir dil aracılığıyla (örn. Türkçe) kodladığı belirli kelimeleri (mesaj/ileti) ses dalgaları ve hava yoluyla (kanal) dinleyiciye/alımlayıcı (hedef) aktarır."
+        },
+        {
+            "id": "İletişim#7",
+            "sentence": "Bu süreçte geribildirim hedefleniyorsa, iletiyi gönderen başat kaynak , hedef/alımlayıcı ise sonat kaynak olarak tanımlanırlar."
+        },
+        {
+            "id": "İletişim#8",
+            "sentence": "İletişimi açıklamak için altı temel öge kullanılır:"
+        },
+        {
+            "id": "İletişim#9",
+            "sentence": "Gönderici, duygu düşünce ve isteğin aktarılmasında sözü söyleyen kişi veya topluluklara denir."
+        },
+        {
+            "id": "İletişim#10",
+            "sentence": "Alıcı, iletilen sözü alan kişiye veya topluluğa denir."
+        },
+        {
+            "id": "İletişim#11",
+            "sentence": "Aynı şekilde ileti, gönderici ile alıcı arasında aktarılmakta olan duygu, düşünce ya da isteğe denmektedir."
+        },
+        {
+            "id": "İletişim#12",
+            "sentence": "Bu temel iletişimin gerçekleştiği ortama bağlam; gönderici ile alıcı arasındaki iletinin hangi yolla gönderildiğine ise kanal denmektedir."
+        },
+        {
+            "id": "İletişim#13",
+            "sentence": "Eğer varsa iletiye verilen her türlü yanıt da dönüt olarak adlandırılmaktadır."
+        },
+        {
+            "id": "İletişim#14",
+            "sentence": "Eğer sistemde bir tür şifreleme söz konusuysa ve konuşan iki kişinin birbirini anladığı seslerden oluşan ve belli kuralları olan her doğal dile de kod denir."
+        },
+        {
+            "id": "İletişim#15",
+            "sentence": "İletişim haberleşme olarak kullanılır."
+        },
+        {
+            "id": "İletişim#16",
+            "sentence": "İletişim bir toplulukta veya bir grupta oldukça önemlidir ve sosyal açıdan olmazsa olmaz bir nitelik taşımaktadır."
+        },
+        {
+            "id": "İletişim#17",
+            "sentence": "Kişi, sosyal çevrede sağlıklı ve mutlu bir yaşam sürmek için iletişim kurmak zorundadır."
+        },
+        {
+            "id": "İletişim#18",
+            "sentence": "İletişim hayatın vazgeçilmez bir gereğidir."
+        },
+        {
+            "id": "İletişim#19",
+            "sentence": "Ayrıca ruhsal - bedensel ihtiyaçları gidermek için iletişim oldukça gereklidir."
+        },
+        {
+            "id": "İletişim#20",
+            "sentence": "Toplumsal kanun ve kuralları sağlıklı bir biçimde işletebilmek için gereklidir."
+        },
+        {
+            "id": "İletişim#21",
+            "sentence": "Kendi dışında başka bir şeyi gösteren, düşündüren, onun yerini alabilen, <PossibleEntity>sözcük</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C3%B6zc%C3%BCk)</URL> , <PossibleEntity>nesne</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nesne)</URL> , görünüş veya olgulara gösterge denir."
+        },
+        {
+            "id": "İletişim#22",
+            "sentence": "Yine bir göstergenin gerçek dünyadaki karşılığına gönderge denir."
+        },
+        {
+            "id": "İletişim#23",
+            "sentence": "Sözcükler, resim, şekil, işaret gibi diğer ögelere de gösteren adı verilir."
+        },
+        {
+            "id": "İletişim#24",
+            "sentence": "Eğer gösteren olgu akılda birtakım görüntüler oluşturuyorsa; bu da gösterilen dir."
+        },
+        {
+            "id": "İletişim#25",
+            "sentence": "Dil göstergeleri: Söz ve yazıyla gerçekleştirilen her eylem bu gruba girer."
+        },
+        {
+            "id": "İletişim#26",
+            "sentence": "İnsan duygu ve düşüncelerini en iyi şekilde dil ile anlatır."
+        },
+        {
+            "id": "İletişim#27",
+            "sentence": "Dil bir iletişim aracıdır."
+        },
+        {
+            "id": "İletişim#28",
+            "sentence": "Bilinen iletişim modeli <PossibleEntity>Karl Bühler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Karl_B%C3%BChler)</URL> 'in \"Organan modeli\" adlı (1933) kuramıdır."
+        },
+        {
+            "id": "İletişim#29",
+            "sentence": "Bühler, göstergelerin betimleme, ifade etme ve algılama işlevini ayırır. <PossibleEntity>Roman Jakobson</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Roman_Jakobson)</URL> 1960 yılında bu modeli altı işlev olarak genişletmiştir."
+        },
+        {
+            "id": "İletişim#30",
+            "sentence": "İletişimin standart modeli olarak, bilgi kuramı çerçevesinde <PossibleEntity>Claude Shannon</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Claude_Shannon)</URL> ve <PossibleEntity>Warren Weaver</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Warren_Weaver)</URL> tarafından geliştirilen “ileten- iletilen modeli” (1949) geçerlidir. <PossibleEntity>Dan Sperber</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Dan_Sperber&action=edit&redlink=1)</URL> ve <PossibleEntity>Deirde Wilson</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Deirde_Wilson&action=edit&redlink=1)</URL> , bu modelin iletişimin açıklanmasına yönelik çok kısa ele alındığını ve bir aracı model yoluyla genişletilmesi gerektiğini gösterir."
+        },
+        {
+            "id": "İletişim#31",
+            "sentence": "Sperber ve Wilson'un Relevance (1986) adlı kitapta geliştirdikleri anlam kuramı Grice'in düşünceleriyle bağlantılıdır."
+        },
+        {
+            "id": "İletişim#32",
+            "sentence": "Bu kuram, temel olarak anlamın iki ilkesinden oluşmaktadır."
+        },
+        {
+            "id": "İletişim#33",
+            "sentence": "<PossibleEntity>Sözsüz iletişim</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C3%B6zs%C3%BCz_ileti%C5%9Fim)</URL> sözcük kullanmadan anlaşılan dildir."
+        },
+        {
+            "id": "İletişim#34",
+            "sentence": "Aynı zamanda sözsüz iletişim iki insan arasında konuşmadan gerçekleştirilen iletişim olarak tanımlanmaktadır."
+        },
+        {
+            "id": "İletişim#35",
+            "sentence": "Sözsüz iletişim, sözcük kullanmadan anlaşılan dildir."
+        },
+        {
+            "id": "İletişim#36",
+            "sentence": "Sözsüz iletişim ne sesli dil üzerinden ne de <PossibleEntity>işaret dili</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0%C5%9Faret_dili)</URL> ya da <PossibleEntity>yazı dili</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yaz%C4%B1_dili)</URL> üzerinden gerçekleştirilir."
+        },
+        {
+            "id": "İletişim#37",
+            "sentence": "Dilsel işaretlerin bu sistemlerin birinden diğer bir yönteme çevrildiği bu anlaşma sistemleri, örneğin sesli dile karşılık gelen işaretler aynı biçimde sözsüz iletişimden sayılmaz."
+        },
+        {
+            "id": "İletişim#38",
+            "sentence": "Çünkü bu iletişimlerde kendilerinin de türediği o sözlü sistemlerin kodlanması söz konusudur."
+        },
+        {
+            "id": "İletişim#39",
+            "sentence": "Ayrıca yazılı resim, ses durumu ve konuşma tutumu da başlıca –sözsüz– yapma dilsel iletileri insanlara ulaştırabilir."
+        },
+        {
+            "id": "İletişim#40",
+            "sentence": "Bunu sözlü iletilen bilgileri tamamlayan sözlü ve sözsüz payların yanı sıra resimli yazılarda ve işaret sistemlerinde de olduğu gibi gerçekleştirmektedir."
+        },
+        {
+            "id": "İletişim#41",
+            "sentence": "Farklı <PossibleEntity>işaretlerin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0%C5%9Faret)</URL> ve <PossibleEntity>sembollerin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sembol)</URL> ve bilgi grafiklerinin kullanımı da bir diğer düzeyde sözsüz iletişim olarak tanımlanmaktadır."
+        },
+        {
+            "id": "İletişim#42",
+            "sentence": "Kavramın diğer bir yorumu, ses bakımından önemli olmayan iletişimle sözsüz iletişimin ve <PossibleEntity>ses</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ses)</URL> dilsel iletişimli sözlü iletişimin eşit değerlere sahip olmasıdır."
+        },
+        {
+            "id": "İletişim#43",
+            "sentence": "Bu yorum günlük dilde yaygındır, fakat dilbilimde kavramın kullanım biçimine uygunluk göstermemektedir."
+        },
+        {
+            "id": "İletişim#44",
+            "sentence": "Kavram geniş anlamda tutum sergileyen canlı varlığın iç durumları hakkında bilgi veren dilsel olmayan her tutumun sözsüz iletişimini tanımlamaktadır."
+        },
+        {
+            "id": "İletişim#45",
+            "sentence": "Bu yorumda sözsüz iletişim vardır."
+        },
+        {
+            "id": "İletişim#46",
+            "sentence": "İletişimin alıcısı bir diğerinin tutumundan ya da bir diğerinin algılanan sonuçlarından anahtarlar aldıkça <PossibleEntity>göndericinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=G%C3%B6nderici&action=edit&redlink=1)</URL> iletişimsel amacı bu durumda gerekli değildir."
+        },
+        {
+            "id": "İletişim#47",
+            "sentence": "İletişim anlamında yüz kızarması, çekingenlikten ya da vicdanın rahatsız olmasından, elbise ve aksesuar gibi dış görüntüsünün biçiminden, saç şeklinden, dövmelerden ve deriyi kazımadan, yaşadığı evin mimarisine ve bir gruba ait olmayı ya da belli bir yaşam duygusunu ifade eden mimarideki biçimsel önlemlere kadar, birçok durum buna örnek verilebilir."
+        },
+        {
+            "id": "İletişim#48",
+            "sentence": "<PossibleEntity>Mesaj</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mesaj)</URL> taşıyıcıları, sadece <PossibleEntity>jestler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Jest)</URL> , <PossibleEntity>mimikler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mimik)</URL> , göz teması ya da gülme gibi dilsel olmayan seslendirmeler, istemli olarak kontrol edilebilir açıklamalar değildir, dahası o tutumların kavramının kullanış biçimi sözsüz iletişim olarak kabul görebilmektedir. <PossibleEntity>Paul Watzlawick</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Paul_Watzlawick)</URL> ’in ünlü sözüne göre insan iletişimi bu olguya dayanır."
+        },
+        {
+            "id": "İletişim#49",
+            "sentence": "Watzlawick’in görüşlerinden yola çıkarak sözsüz iletişim bazen <PossibleEntity>analog iletişim</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Analog_ileti%C5%9Fim&action=edit&redlink=1)</URL> olarak, sözlü iletişim ise <PossibleEntity>dijital iletişim</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Dijital_ileti%C5%9Fim&action=edit&redlink=1)</URL> olarak tanımlanmaktadır."
+        },
+        {
+            "id": "İletişim#50",
+            "sentence": "Sözsüz iletişimin anlamını açıklamak için sadece iletişimin sağlandığı iletişim kanallarının bildirilmesi yeterli değildir."
+        },
+        {
+            "id": "İletişim#51",
+            "sentence": "Aynı zamanda da bilgi akışının belirlenmesi ve bilinçsel algıyla ilişkilendirilmesi gerekmektedir."
+        },
+        {
+            "id": "İletişim#52",
+            "sentence": "Ayrıca bilgiyi kabul eden alıcıların türü ve duyarlılığı hakkındaki ifadelere de rastlanmaktadır:"
+        },
+        {
+            "id": "İletişim#53",
+            "sentence": "Aşağıdaki tabela <PossibleEntity>duyu organları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Duyu_organlar%C4%B1)</URL> tarafından bir saniyede ne kadar bilgi algılanabileceği üzerine nicel bir bakış sunmaktadır."
+        },
+        {
+            "id": "İletişim#54",
+            "sentence": "Burada bir “Bit” (bilişimde kullanılan en küçük bilgi birimidir) en küçük muhtemel bilgi birimini temsil etmektedir:"
+        },
+        {
+            "id": "İletişim#55",
+            "sentence": "Mimik, jest gibi görsel olarak algılanan bilgilerin yanı sıra diğer duyuların sözsüz iletişim tarafından yönlendirilen tavırlar için büyük bir önemi vardır."
+        },
+        {
+            "id": "İletişim#56",
+            "sentence": "Koku alma duyusu aracılığıyla algılanan işaretler algılama eşiğimizin altındadır."
+        },
+        {
+            "id": "İletişim#57",
+            "sentence": "Örneğin uzaktaki bir duman kokusunun bir fırtına öncesinde havaya karışması, davranışları bilinçsiz biçimde etkiler."
+        },
+        {
+            "id": "İletişim#58",
+            "sentence": "Belirli beden dili işaretleri kısmen bilinçli olarak ortaya çıkmaktadır."
+        },
+        {
+            "id": "İletişim#59",
+            "sentence": "Böylece mimiklerimizdeki bazı değişiklikleri kendimiz fark ederiz."
+        },
+        {
+            "id": "İletişim#60",
+            "sentence": "Uzun mesafede bu değişiklikleri algılamamaktayız ve bunları bilinçsiz olarak da iletişimin içine dâhil edememekteyiz. <PossibleEntity>Friedrich Nietzsche</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Friedrich_Nietzsche)</URL> bu durumu bir noktada dile getirmiştir: “İnsan ağzıyla yalan söyler, fakat o esnadaki ağız hareketleriyle de doğruyu söyler.”"
+        },
+        {
+            "id": "İletişim#61",
+            "sentence": "Belirli bağımsız bedensel işlevler bilinçli olarak yönlendirilemeyebilir."
+        },
+        {
+            "id": "İletişim#62",
+            "sentence": "Bu duruma örnek olarak karşıdaki kişinin dikkatini çeken terleme, göz bebeklerindeki değişiklikler veya <PossibleEntity>nabız</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nab%C4%B1z)</URL> atışları örnek gösterilebilir."
+        },
+        {
+            "id": "İletişim#63",
+            "sentence": "Fakat bu bağımsız işlevler tamamen kendiliğinden algılanabilir."
+        },
+        {
+            "id": "İletişim#64",
+            "sentence": "<PossibleEntity>Vücut dili</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/V%C3%BCcut_dili)</URL> aynı şekilde koklama yoluyla elde edilen işaretlere benzer biçimde genetik olarak değerlendirilen hareket kontrolünün ifade biçimlerini oluşturmaktadır."
+        },
+        {
+            "id": "İletişim#65",
+            "sentence": "Bu ifade biçimleri bize, örneğin tehlike anında yüksek hareket veya yüksek algılama yeteneği sağlar."
+        },
+        {
+            "id": "İletişim#66",
+            "sentence": "Bu durum şu şekilde açıklanabilir; tehlike anında gerçekleşen terleme oluşmasıyla deri tarafından yapılan algılama, nabız değişikliği sayesinde artan hareket kabiliyeti, yüz kısmında meydana gelen algılama değişiklikleri ve bunlar gibi durumlar."
+        },
+        {
+            "id": "İletişim#67",
+            "sentence": "Diğer bir yandan da bu ifade biçimleri üremenin hazırlık aşamasında bize en iyi erişilebilir genetik maddeyi elde etmemize yardımcı olmaktadır, örneğin güçlü erkeksi görünüm dayanıklılık kabiliyetinin işareti olarak görülür veya kadının ikincil cinsiyet özelliğinin ifadesi çocuklarla ilgilenmesidir."
+        },
+        {
+            "id": "İletişim#68",
+            "sentence": "Bu varsayımlar kısmen bilinçsiz şekilde ortaya çıktığından genellikle kültürel olarak gizlenilmektedir."
+        },
+        {
+            "id": "İletişim#69",
+            "sentence": "İnsanın yaşam alışkanlıklarındaki uzun süreli değişiklikler aynı zamanda beden diliyle ortaya çıkmaktadır."
+        },
+        {
+            "id": "İletişim#70",
+            "sentence": "Bu durumu şu şekilde örneklendirebiliriz."
+        },
+        {
+            "id": "İletişim#71",
+            "sentence": "Tırnakların ve saçların özelliği, beslenmeye bağlı olarak derideki değişiklikler ya da yağlanmalar, giderek azalan canlılık nedeniyle omurga çevresinde ortaya çıkan kas yapısı ve bedensel davranış rahatsızlıkları olabilir."
+        },
+        {
+            "id": "İletişim#72",
+            "sentence": "Aynı zamanda uzun süren tek taraflı duygusal yaşam koşulları nedeniyle oluşan “somurtkan görünüm”, “gülerken ortaya çıkan kırışıklıklar” gibi mimiklerdeki değişiklikler de insan yaşamındaki değişikliklere örnek olarak verilebilir."
+        },
+        {
+            "id": "İletişim#73",
+            "sentence": "Bu tür işaretlerin şifrelerini çözme yeteneği, evrim boyunca beden dilsel ifade biçimine bağlı işaretlerin bilinçsiz yoldan, yani sözsüz bir biçimde gönderilmesi gerçeğinden yola çıkarak belirginleşebilmektedir."
+        },
+        {
+            "id": "İletişim#74",
+            "sentence": "Bir taraftan bu yarışta en iyi genetik maddeyi garanti etmek için (Gene Shopping), diğer taraftan da sosyal çevrede birlikte yarar sağlamak için bu durum kendini göstermektedir."
+        },
+        {
+            "id": "İletişim#75",
+            "sentence": "Bu bağlamda özellikle önemli bir örnek gülmedir."
+        },
+        {
+            "id": "İletişim#76",
+            "sentence": "Her şeyden önce kadınların sosyal ağırlıklı alışkanlıklarından dolayı gülmeleri söz konusudur ve kadınlar gülümsemeyi kültür tarihsel anlamda bir “silah” olarak kullanmışlardır, hatta kadınlar gülümsemeyi gruplarındaki ya da ailelerindeki sosyal gerilimlere “karşı güç” olarak kullanmışlardır."
+        },
+        {
+            "id": "İletişim#77",
+            "sentence": "Davranış araştırmacıları günümüzde hâlâ yönetici konumundaki kadınların doğru zamandaki bir gülümsemeleriyle kararlı davranış durumlarını gevşetebileceklerini gözlemlemektedirler."
+        },
+        {
+            "id": "İletişim#78",
+            "sentence": "Bu, genetik olarak ortaya çıkan ve grubunun eğitiminde ve bakımında sosyalleşme süreçleriyle evrimsel olarak şekillenen ilişki sayesinde onları sürekli hayatta tutacak öneme sahip bir yetenektir."
+        },
+        {
+            "id": "İletişim#79",
+            "sentence": "Konuşan bir insanın jest ve mimikleri kollar, eller ve vücudun üst kısmı yardımıyla kendini belirginleştirmektedir."
+        },
+        {
+            "id": "İletişim#80",
+            "sentence": "Mimik, yüz ile özellikle de göz ve ağız alanlarıyla ilişkilendirilmektedir."
+        },
+        {
+            "id": "İletişim#81",
+            "sentence": "Bu noktada farklı yaklaşımlarda ifade biçimleri bulunmaktadır."
+        },
+        {
+            "id": "İletişim#82",
+            "sentence": "Bunlar iç dünyada yaşananların birçok kelimeye göre daha fazla kendini gösterdiği ifade biçimleridir."
+        },
+        {
+            "id": "İletişim#83",
+            "sentence": "Yüz “okuma” yeteneği de dilin henüz gelişmemiş olduğu zamanlarda yararlandığımız kabiliyetlerimizin bir kısmını oluşturmaktaydı."
+        },
+        {
+            "id": "İletişim#84",
+            "sentence": "Toplumsal dilin parçası olarak jestlerin, mimiklerin ve bedenin duruşunun bilinçli bir şekilde kullanılması her bir insanın kültürünün bileşenini oluşturmaktadır."
+        },
+        {
+            "id": "İletişim#85",
+            "sentence": "Birbirlerine benzer jestler yeryüzünün farklı bölgelerinde tamamen karşıt bir anlama sahip olabilmektedir:"
+        },
+        {
+            "id": "İletişim#86",
+            "sentence": "Sözsüz dilin kısmı bilinçli ifade biçimlerinin aksine beden dilinin bilinçli alanlarında sözsüz iletişimin ifade biçimlerini öğrenmek mümkündür."
+        },
+        {
+            "id": "İletişim#87",
+            "sentence": "Buna ilişkin örnekler şöyledir:"
+        },
+        {
+            "id": "İletişim#88",
+            "sentence": "Parfüm, dudak kalemi, maskara gibi koku ve renk maddelerinin amaca yönelik olarak kullanılması sayesinde \"güzelleşme\" ve titizlikle seçilmiş bir kıyafet bilinçli sözsüz iletişimin farklı işaret davranışlarının kültür içerisindeki bir birleşimidir."
+        },
+        {
+            "id": "İletişim#89",
+            "sentence": "Bu, toplumsal çevrede \"bakımlı\" ve dolayısıyla çekici görünümün ifadesi olarak görülmektedir."
+        },
+        {
+            "id": "İletişim#90",
+            "sentence": "İşitme engellilerin kullandığı işaret dili “sözsüz” bir dil değildir."
+        },
+        {
+            "id": "İletişim#91",
+            "sentence": "Beden hareketlerinin “dilsel olmayan” iletişimin kısımları işaret dilbiliminde “sözsüz iletişim” olarak tanımlanmaktadır."
+        },
+        {
+            "id": "İletişim#92",
+            "sentence": "Bu duruma, konuşan kişinin dikkatini çekmek için göz kırpmak, kollarını hızlı hızlı sallamak ve konuştuğu kişinin ona parmaklarıyla dokunarak vurması örnek olarak verilebilir."
+        },
+        {
+            "id": "İletişim#93",
+            "sentence": "Buna karşın mimik dilbilimsel işlevleri yerine getirdiği ölçüde toplam işaret dilinin bileşeni olarak gözlemlenmektedir."
+        },
+        {
+            "id": "İletişim#94",
+            "sentence": "Buna elle yapılan heceleme bakımından birbirinden ayrılmayan işaretlerin birbirinden ayrılması örnek olarak gösterilebilir."
+        },
+        {
+            "id": "İletişim#95",
+            "sentence": "Beden dilinin öğeleri olarak kıyafet ve süs, saç şekli, sakal tarzı, dövmeler, başörtüleri gibi vücudun diğer şekillendirme ölçütleri bilinçli sözsüz iletişimin diğer bir alanını oluşturmaktadır."
+        },
+        {
+            "id": "İletişim#96",
+            "sentence": "Vücut dilinin öğeleri olarak ev, araba, bahçe gibi çevreyi şekillendiren ölçütler de ele alınabilmektedir ve bunlar da bilinçli sözsüz iletişimin diğer bir alanını oluştur (mesela gösterge sistemi olarak elbise olabilir)."
+        },
+        {
+            "id": "İletişim#97",
+            "sentence": "Günlük konuşma dilinde yapılan saptamalar insan kıyafetinin sözsüz iletişimin hedeflenmiş ifade öğeleri olarak anlam kazandığını göstermektedir."
+        },
+        {
+            "id": "İletişim#98",
+            "sentence": "Bu duruma şunlar örnek olarak verilebilir: “İnsanı insan yapan kıyafetidir.” veya “Kralın yeni elbiseleri” ya da “Köpenick Yüzbaşısı” hikâyesi gibi."
+        },
+        {
+            "id": "İletişim#99",
+            "sentence": "Özellikle kolların, ellerin ve kafanın iletişimsel hareketi anlamında jestler hem dilsel seslerin yerini alır biçimde hem de dilsel seslere eşlik eder biçimde ya da dilsel sesleri destekler olarak kullanılmaktadır."
+        },
+        {
+            "id": "İletişim#100",
+            "sentence": "Jest ve mimikler sözsüz iletişimden sayılmaktadır ve jest ve mimiklerin birçoğu günlük yaşamda uygulanmaktadır."
+        },
+        {
+            "id": "İletişim#101",
+            "sentence": "Jestler sözlü bir iletişimi destekleyebilmekte ve onun yerini alabilmektedir."
+        },
+        {
+            "id": "İletişim#102",
+            "sentence": "Jestler aşağıdaki durumlarda farklılık gösterebilmektedir;"
+        },
+        {
+            "id": "İletişim#103",
+            "sentence": "Bununla beraber diğerlerinin yanı sıra jestler zihinsel sürece bir anlayış sunabilir."
+        },
+        {
+            "id": "İletişim#104",
+            "sentence": "Jest ve mimikler soyut yapıları ve resimsel düşünceleri sesli dilsel anlamda olanaklı sunabildiği için insani düşüncelerin türünün ve biçiminin zihinsel sürece sesbilimsel olarak aktarılması mümkündür."
+        },
+        {
+            "id": "İletişim#105",
+            "sentence": "Jest araştırması, son yirmi yılda yürütülen ve jest ve <PossibleEntity>mimikleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mimik)</URL> sadece duyguların etkili ifadesi olarak gören sözsüz iletişim araştırmasından ortaya çıkmıştır."
+        },
+        {
+            "id": "İletişim#106",
+            "sentence": "Bugün bu alan; dilbilim, psikoloji, bilişsel bilim, anlambilim (Semantik), davranış araştırması ve işaret dilinin araştırılması ve geliştirilmesi arasında bulunmaktadır."
+        },
+        {
+            "id": "İletişim#107",
+            "sentence": "İletişim partnerlerinin birbirleriyle olan, duruma bağlı alansal etkileşimleriyle beden dilinin ayrı bir alanı olarak “proksemik” (konuşma uzaklığı bilgisi/uzaklık incelemesi) ilgilenmektedir."
+        },
+        {
+            "id": "İletişim#108",
+            "sentence": "Bu noktada; mesafe, beden boyu, beden yönü ve dokunma biçimleri önemli bir rol oynamaktadır."
+        },
+        {
+            "id": "İletişim#109",
+            "sentence": "Güncel durumun yanı sıra bu alan tutumu kültüre özgü normlara, cinsiyete ve iletişim partnerinin mesleğine ve ayrıca da içe dönüklük ve dışa dönüklük gibi bireysel unsurlara bağlıdır."
+        },
+        {
+            "id": "İletişim#110",
+            "sentence": "Her bir uzaklık bölgesi kendi yayılmaları içinde kültüre bağlı oldukları için mesafe belli bir ölçüde değişiklik gösterebilmektedir."
+        },
+        {
+            "id": "İletişim#111",
+            "sentence": "Çağdaş psikolojide genelde şu kurallar geçerlidir:"
+        },
+        {
+            "id": "İletişim#112",
+            "sentence": "İletişimin sözsüz kısımları ağırlıklı olarak duygularla ve ilgili kişinin motivasyonuyla yönlendirildiği için kontrol edilmesi hemen hemen hiç mümkün değildir."
+        },
+        {
+            "id": "İletişim#113",
+            "sentence": "Bu yüzden karakterini ifade eden kişiler ilk başta ikna etmemektedirler, çünkü onlar iyi rol yapmaktadırlar, hatta rolleriyle bütünleşmektedirler, rollerine kendilerini vermektedirler, rollerini üstlenebilmektedirler."
+        },
+        {
+            "id": "İletişim#114",
+            "sentence": "Müşteri ve banka memuru, hasta ve psikiyatrist gibi konuşma çiftlerinde olduğu gibi biçimsel ilişkiler açık hedef koymalarla ve üst bir yapıcılıkla kendilerini biçimsel olmayan ya da “yakın” ilişkiler olarak öne çıkarmaktadırlar."
+        },
+        {
+            "id": "İletişim#115",
+            "sentence": "Bunun yanı sıra her sosyal rol gerçekte rol tutumları ve rollere katılımlar gibi karışık rol beklentileriyle tanımlanmaktadır."
+        },
+        {
+            "id": "İletişim#116",
+            "sentence": "Sosyal bir rol sadece biçim nedeniyle üstlenilirse ve bilinçli olarak kontrol edilmeye çalışılırsa, bu tüm açılardan nadir olarak başarıya kavuşmaktadır."
+        },
+        {
+            "id": "İletişim#117",
+            "sentence": "<PossibleEntity>Jakob Levy Moreno</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Jakob_Levy_Moreno&action=edit&redlink=1)</URL> ; “grup içinde tedavi, grupla birlikte tedavi ve grup için tedavi” olarak psikodrama ve sosyal dramaya yönelik insani rol tutumunun bir bakış açısını geliştirmiştir."
+        },
+        {
+            "id": "İletişim#118",
+            "sentence": "Diğer hedeflerin yanı sıra asıl hedef katı rol yapılarını ya da artık zamana uygunluk göstermeyen rol birikimlerini geride bırakmaktır."
+        },
+        {
+            "id": "İletişim#119",
+            "sentence": "Ayrıca doğmaca bir doğallık ve yaratıcılık sayesinde duruma uygun <PossibleEntity>rol</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Rol)</URL> tutumu geliştirmek ve yabancılarla olan ilişki yeteneğinin bir oluşumunu mümkün hâle getirmektir."
+        },
+        {
+            "id": "İletişim#120",
+            "sentence": "Dil, insanlar arasında anlaşmayı sağlayan, kendisine özgü yasaları olan ve ancak bu yasalar çerçevesinde gelişen, temeli bilinmeyen zamanlarda atılmış seslerden örülmüş bir anlaşma sistemidir."
+        },
+        {
+            "id": "İletişim#121",
+            "sentence": "Dilin özellikleri aşağıdaki gibidir."
+        },
+        {
+            "id": "İletişim#122",
+            "sentence": "Dil aynı şekilde milli bir ögedir:"
+        },
+        {
+            "id": "İletişim#123",
+            "sentence": "En genel anlamıyla kültür bir toplumun maddi ve manevi alanda ortaya koyduğu tüm eserlerdir."
+        },
+        {
+            "id": "İletişim#124",
+            "sentence": "Toplumların yaşam biçimleri, gelenek-görenekleri kullandıkları araç gereçleri, inançları, dili, sanat anlayışı vb. kültürü oluşturur."
+        },
+        {
+            "id": "İletişim#125",
+            "sentence": "Toplumlar yüzyıllar boyu maddi ve manevi alanda çok değerli eserler üretmişlerdir."
+        },
+        {
+            "id": "İletişim#126",
+            "sentence": "Bu eserler gelecek kuşaklara dil sayesinde aktarılır."
+        },
+        {
+            "id": "İletişim#127",
+            "sentence": "Örneğin <PossibleEntity>İslâmiyet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0slam)</URL> 'ten önceki döneme ait destan, koşuk, sağu, savlar, <PossibleEntity>Orhun Yazıtları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orhun_Yaz%C4%B1tlar%C4%B1)</URL> , <PossibleEntity>Dede Korkut Hikâyeleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dede_Korkut_Hik%C3%A2yeleri)</URL> , <PossibleEntity>Yunus Emre</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yunus_Emre)</URL> 'nin şiirleri dil sayesinde günümüze dek yaşamışlardır."
+        },
+        {
+            "id": "İletişim#128",
+            "sentence": "Günümüz gençleri o eserleri okuyarak o dönemle ilgili bilgi sahibi olabilirler."
+        },
+        {
+            "id": "İletişim#129",
+            "sentence": "Bu bilgilenme dil sayesinde olmaktadır."
+        },
+        {
+            "id": "İletişim#130",
+            "sentence": "Bu bakımdan dil önemli bir kültür taşıyıcısıdır."
+        },
+        {
+            "id": "İletişim#131",
+            "sentence": "Dil ve kültürün ortak yanları aşağıdaki gibidir:"
+        },
+        {
+            "id": "İletişim#132",
+            "sentence": "Kelime dağarcığı yazı diline göre sınırlı olan ve günlük hayatta kullanılan doğal dile konuşma dili denir."
+        },
+        {
+            "id": "İletişim#133",
+            "sentence": "Bir ülkede resmi dil olarak kabul edilen ve her alanda aynı kurallarla kullanılan dile ise yazı dili denir."
+        },
+        {
+            "id": "İletişim#134",
+            "sentence": "Her ikisi arasındaki fark aşağıdaki gibidir:"
+        },
+        {
+            "id": "İletişim#135",
+            "sentence": "<PossibleEntity>Argo</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Argo)</URL> , bir dil içinde belli bir grubun sözcüklere yeni anlamlar vererek kullanmasıyla oluşan konuşma şekline denir."
+        },
+        {
+            "id": "İletişim#136",
+            "sentence": "Bu sözcükler ancak bu grup içinde kullanılır ve bu gruba dâhil olan kişiler anlamlarını bilebilir."
+        },
+        {
+            "id": "İletişim#137",
+            "sentence": "Argo günlük hayatta ve edebiyatta bir malzeme olarak kullanılabilir."
+        }
+    ]
+}

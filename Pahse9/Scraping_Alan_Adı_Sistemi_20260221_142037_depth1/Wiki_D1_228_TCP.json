@@ -1,0 +1,278 @@
+{
+    "Title": "TCP",
+    "Card": {},
+    "Main": [
+        {
+            "id": "TCP#1",
+            "sentence": "<PossibleEntity>OSI modeli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/OSI_modeli)</URL>"
+        },
+        {
+            "id": "TCP#2",
+            "sentence": "TCP (Transmission Control Protocol) , <PossibleEntity>TCP/IP protokol takımının</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_ileti%C5%9Fim_kurallar%C4%B1_dizisi)</URL> <PossibleEntity>taşıma katmanı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ta%C5%9F%C4%B1ma_katman%C4%B1)</URL> <PossibleEntity>protokollerinden</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Protokol)</URL> birisidir."
+        },
+        {
+            "id": "TCP#3",
+            "sentence": "İlk ağ implementasyonunda, İnternet Protokolü (IP) ile birlikte çalışarak TCP ortaya çıkmıştır."
+        },
+        {
+            "id": "TCP#4",
+            "sentence": "Bu nedenle, tüm takım genellikle TCP/IP olarak adlandırılır."
+        },
+        {
+            "id": "TCP#5",
+            "sentence": "TCP, IP ağı üzerinden iletişim kuran uygulamalar arasında bir dizi oktetin (baytların) güvenilir, sıralı ve hata kontrolü yapılmış bir şekilde iletimini sağlar."
+        },
+        {
+            "id": "TCP#6",
+            "sentence": "Dünya Çapında Ağ (WWW), e-posta, uzak yönetim, dosya transferi ve akış medyası gibi büyük internet uygulamaları, TCP'yi kullanır; bu protokol, TCP/IP takımının taşıma katmanının bir parçasıdır."
+        },
+        {
+            "id": "TCP#7",
+            "sentence": "SSL/TLS sıklıkla TCP'nin üstünde çalışır."
+        },
+        {
+            "id": "TCP#8",
+            "sentence": "Bugün TCP, çoğu İnternet iletişimi için temel bir protokol olarak kalmakta ve farklı ağlar arasında güvenilir veri aktarımını sağlamaktadır."
+        },
+        {
+            "id": "TCP#9",
+            "sentence": "Son güncellemesi Ağustos 2022 tarihi itibarıyla <PossibleEntity>RFC 9293</PossibleEntity> <URL>:(https://www.ietf.org/rfc/rfc9293.txt)</URL>  içerisinde tanımlanmıştır."
+        },
+        {
+            "id": "TCP#10",
+            "sentence": "Gelişmiş bilgisayar ağlarında paket anahtarlamalı bilgisayar iletişiminde kayıpsız veri gönderimi sağlayabilmek için TCP protokolü yazılmıştır. <PossibleEntity>HTTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/HTTP)</URL> , <PossibleEntity>HTTPS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/HTTPS)</URL> , <PossibleEntity>POP3</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/POP3)</URL> , <PossibleEntity>SSH</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCvenli_kabuk)</URL> , <PossibleEntity>SMTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/SMTP)</URL> , <PossibleEntity>Telnet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Telnet)</URL> ve <PossibleEntity>FTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dosya_aktar%C4%B1m_ileti%C5%9Fim_kural%C4%B1)</URL> gibi internetin kullanıcı açısından en popüler protokollerinin veri iletimi TCP vasıtasıyla yapılır."
+        },
+        {
+            "id": "TCP#11",
+            "sentence": "TCP, bağlantı odaklıdır, yani gönderici ve alıcı, ilk olarak bağlantıyı kurmak için üzerinde anlaşılmış parametrelere dayanarak bir bağlantı kurmak zorundadır; bunu üç aşamalı el sıkışma (3-way handshake) prosedürüyle yaparlar."
+        },
+        {
+            "id": "TCP#12",
+            "sentence": "Sunucu, bağlantı talepleri için dinlemede olmalı (pasif açılış) ve bir bağlantı kurulmadan önce istemciden gelen talepleri beklemelidir."
+        },
+        {
+            "id": "TCP#13",
+            "sentence": "Üç aşamalı el sıkışma (aktif açılış), veri iletimi yeniden gönderimi ve hata tespiti güvenilirliği artırır, ancak gecikmeyi uzatır."
+        },
+        {
+            "id": "TCP#14",
+            "sentence": "Güvenilir veri akışı servisi gerektirmeyen uygulamalar, zaman öncelikli olup güvenilirlikten ödün veren Bağlantısız Datagram Protokolü (UDP) kullanabilirler."
+        },
+        {
+            "id": "TCP#15",
+            "sentence": "TCP, ağ tıkanıklığını önlemeyi de içerir."
+        },
+        {
+            "id": "TCP#16",
+            "sentence": "Ancak, TCP'nin bazı güvenlik açıkları vardır; bunlar arasında hizmeti engelleme (Denial of Service), bağlantı kaçırma, TCP veto ve sıfırlama saldırıları yer alır."
+        },
+        {
+            "id": "TCP#17",
+            "sentence": "İlk olarak 1974 Mayıs ayında Elektrik ve Elektronik Mühendisleri Enstitüsü ( <PossibleEntity>IEEE</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IEEE)</URL> ) tarafından “A Protocol for Packet Network Intercommunication”  başlıklı bir makale yayınlandı."
+        },
+        {
+            "id": "TCP#18",
+            "sentence": "Makalenin yazarları bu yazıda; <PossibleEntity>Vint Cerf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vint_Cerf)</URL> ve <PossibleEntity>Bob Kahn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bob_Kahn)</URL> bir ağ üzerinde yer alan uçlar (nodes) arasında kaynak paylaşımını sağlamak amacıyla \"packet-switching\" yöntemini kullanan bir ağ protokolü tanımladılar."
+        },
+        {
+            "id": "TCP#19",
+            "sentence": "Bu protokol modelini <PossibleEntity>paket anahtarlamalı</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Paket_anahtarlamal%C4%B1&action=edit&redlink=1)</URL> [en] olarak nitelendirdiler ve TCP‘nin temelleri atılmış oldu."
+        },
+        {
+            "id": "TCP#20",
+            "sentence": "TCP/IP ilk olarak Amerika Savunma Bakanlığı'nın ( <PossibleEntity>DoD</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Savunma_Bakanl%C4%B1%C4%9F%C4%B1_(Amerika_Birle%C5%9Fik_Devletleri))</URL> ) veri iletişimi ihtiyacını karşılamak amacıyla tasarlanmıştır. 1960'lı yılların sonunda Amerika Savunma Bakanlığı'na bağlı olarak çalışan <PossibleEntity>Advanced Research Projects Agency (ARPA)</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/DARPA)</URL> , <PossibleEntity>ABD</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> 'de bulunan üniversitelerle, ağ üzerinden veri alışverişinde bulunmak amacıyla, üretici markasından bağımsız bir protokol bulmak amacıyla çalışmaya başladı."
+        },
+        {
+            "id": "TCP#21",
+            "sentence": "Katılımcılar bu çalışmalar sonucunda <PossibleEntity>ARPANET</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ARPANET)</URL> 'i kurdular. <PossibleEntity>ARPANET</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ARPANET)</URL> internet tarihindeki ilk <PossibleEntity>paket anahtarlamalı</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Paket_anahtarlamal%C4%B1&action=edit&redlink=1)</URL> [en] ağ oldu. <PossibleEntity>ARPANET</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ARPANET)</URL> ilk olarak 1969 yılının sonlarında dört adet uçla (node) çalışmaya başladı."
+        },
+        {
+            "id": "TCP#22",
+            "sentence": "Bu çalışmanın başarılı olmasının sonucunda \"ARPA Internet ( <PossibleEntity>ARPANET</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ARPANET)</URL> )\" adındaki ilk geniş alan ağı kurulmuş oldu."
+        },
+        {
+            "id": "TCP#23",
+            "sentence": "TCP'nin çalışma esası üç faz altında incelenebilir: 1) Öncelikle hedefle bir bağlantı gerçekleşir. 2) Bağlantı gerçekleştikten sonra veri transferi yapılır. 3) Veri transferi yapıldıktan sonra da bağlantı sona erdirilir."
+        },
+        {
+            "id": "TCP#24",
+            "sentence": "TCP'de bu üç fazın gerçekleşmesi için bazı ara durumlar (state) tanımlanmıştır."
+        },
+        {
+            "id": "TCP#25",
+            "sentence": "Bu durumlar aşağıdaki gibidir:"
+        },
+        {
+            "id": "TCP#26",
+            "sentence": "(sunucu) İstemci tarafından bir TCP bağlantı isteğinin beklenildiği durum"
+        },
+        {
+            "id": "TCP#27",
+            "sentence": "(istemci) Karşı tarafa TCP bağlantısı isteği gönderildikten sonra karşı taraftan bağlantı isteğine cevap beklenilen durum"
+        },
+        {
+            "id": "TCP#28",
+            "sentence": "(sunucu) İstemci tarafından SYN bayrağı ile yapılan bağlantı isteğine sunucunun SYN-ACK bayrağı ile cevap vermesinden sonraki bekleme durum"
+        },
+        {
+            "id": "TCP#29",
+            "sentence": "(sunucu ve istemci) Bağlantı kurulduktan sonraki veri transferinin yapıldığı durum"
+        },
+        {
+            "id": "TCP#30",
+            "sentence": "(sunucu ve istemci)"
+        },
+        {
+            "id": "TCP#31",
+            "sentence": "(sunucu ve istemci) karşı taraftan TCP bağlantısının bitirilme isteğinin beklendiği durum"
+        },
+        {
+            "id": "TCP#32",
+            "sentence": "(sunucu ve istemci)"
+        },
+        {
+            "id": "TCP#33",
+            "sentence": "(sunucu ve istemci) Karşı tarafa bağlantının bitirilmesine dair bir ACK bayrağı gönderildikten sonra bağlantının bitmesini bekleme durumu"
+        },
+        {
+            "id": "TCP#34",
+            "sentence": "(sunucu ve istemci)"
+        },
+        {
+            "id": "TCP#35",
+            "sentence": "(sunucu ve istemci)"
+        },
+        {
+            "id": "TCP#36",
+            "sentence": "(sunucu ve istemci) TCP bağlantısının tamamen bittiği durum"
+        },
+        {
+            "id": "TCP#37",
+            "sentence": "A bilgisayarı B bilgisayarına TCP yoluyla bağlanmak istediğinde şu yol izlenir:"
+        },
+        {
+            "id": "TCP#38",
+            "sentence": "Üç zamanlı el sıkışma adı verilen bu yöntem sonucunda TCP bağlantısı açılmış olur."
+        },
+        {
+            "id": "TCP#39",
+            "sentence": "TCP'de veri iletimi çift yönlüdür."
+        },
+        {
+            "id": "TCP#40",
+            "sentence": "Yani her iki taraf da birbirlerine aynı bağlantı içerisinde veri gönderebilmektedir."
+        },
+        {
+            "id": "TCP#41",
+            "sentence": "Bağlantı oluşturulduktan sonra, B bilgisayarı A bilgisayarından paketler almaya başlar."
+        },
+        {
+            "id": "TCP#42",
+            "sentence": "B, her aldığı paketten sonra bir süre bekledikten sonra en son düzgün olarak aldığı paket grubunu A'ya bildirir."
+        },
+        {
+            "id": "TCP#43",
+            "sentence": "Gelen bildirimlere göre A, daha sonra hangi paketleri yollaması gerektiğine karar verir ve yollar."
+        },
+        {
+            "id": "TCP#44",
+            "sentence": "Veri iletişimi bitince bilgisayarlardan herhangi biri diğerine TCP kapatma mesajı yollar."
+        },
+        {
+            "id": "TCP#45",
+            "sentence": "Diğer bilgisayar, kapatmayı teyit etme paketi ve kapatma isteği yollar."
+        },
+        {
+            "id": "TCP#46",
+            "sentence": "Son olarak, diğer bilgisayar da kapatma teyidini yollar ve bağlantı kapatılmış olur."
+        },
+        {
+            "id": "TCP#47",
+            "sentence": "Bu işlemin adımları tam olarak şöyledir:"
+        },
+        {
+            "id": "TCP#48",
+            "sentence": "Bu işlemlerin sonunda TCP bağlantısı sonlandırılmış olur. Buna 4 zamanlı el sıkışma denir."
+        },
+        {
+            "id": "TCP#49",
+            "sentence": "Görüldüğü üzere, bağlantının kurulmasından farklı olarak bağlantı her cihaz için ayrıca kapatılmaktadır."
+        },
+        {
+            "id": "TCP#50",
+            "sentence": "Bunun nedeni, istenildiğinde bağlantının tek yönlü olarak açık tutulabilmesini sağlamaktır."
+        },
+        {
+            "id": "TCP#51",
+            "sentence": "Bunun için tek tarafın bağlantı kapama adımlarını gerçekleştirmesi gerekir."
+        },
+        {
+            "id": "TCP#52",
+            "sentence": "TCP bağlantı tabanlı (connection-oriented) bir protokoldür."
+        },
+        {
+            "id": "TCP#53",
+            "sentence": "TCP bağlantı tabanlı bir protokol olduğu için iki bilgisayar, üçlü el sıkışma (3-way handshaking)   yaptıktan sonra veri alışverişi yapmaya başlar."
+        },
+        {
+            "id": "TCP#54",
+            "sentence": "TCP, <PossibleEntity>taşıma katmanında</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ta%C5%9F%C4%B1ma_katman%C4%B1)</URL> <PossibleEntity>alt katmandan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C4%9F_katman%C4%B1)</URL> gelen verilere bir başlık bilgisi ekler."
+        },
+        {
+            "id": "TCP#55",
+            "sentence": "Başlık bilgisiyle birlikte bu veriye 'TCP Segmenti' denir."
+        },
+        {
+            "id": "TCP#56",
+            "sentence": "0 0 0 0"
+        },
+        {
+            "id": "TCP#57",
+            "sentence": "Kaynak Port (Source Port): Veriyi gönderen bilgisayarın kullandığı TCP portudur."
+        },
+        {
+            "id": "TCP#58",
+            "sentence": "Hedef Port (Destination Port): Hedef bilgisayarın TCP portudur."
+        },
+        {
+            "id": "TCP#59",
+            "sentence": "Sıra Numarası (Sequence Number): TCP'nin verinin böldüğü her bir segmentine verdiği numaradır."
+        },
+        {
+            "id": "TCP#60",
+            "sentence": "Onay Numarası (ACK Number): Alınan bir SYN paketine karşılık olan onay mesajı ACK biti ile gönderilir."
+        },
+        {
+            "id": "TCP#61",
+            "sentence": "Başlık Uzunluğu (Header Length/Data Offset): TCP başlığının uzunluğunu gösterir."
+        },
+        {
+            "id": "TCP#62",
+            "sentence": "Rezerve Edilmiş (Reserved): İleride kullanılmak üzere saklı tutulur."
+        },
+        {
+            "id": "TCP#63",
+            "sentence": "Kod Bitleri ya da Bayraklar (Code Bits or Flags): Segment ile ilgili kontrol bilgilerini taşır."
+        },
+        {
+            "id": "TCP#64",
+            "sentence": "Pencere (Window): Akış denetimi için kullanılır."
+        },
+        {
+            "id": "TCP#65",
+            "sentence": "Hata Kontrol Bitleri (Checksum): Segmentin hatalı ulaşıp ulaşmadığını kontrol etmek için kullanılır."
+        },
+        {
+            "id": "TCP#66",
+            "sentence": "Acil İşaretçisi (Urgent Pointer): Bir verinin acil olarak iletilmek istendiği durumlarda kullanılır."
+        },
+        {
+            "id": "TCP#67",
+            "sentence": "Seçenek (Option): TCP segmentinin maksimum boyutunun bilgisini taşır."
+        },
+        {
+            "id": "TCP#68",
+            "sentence": "Veri (Data): Verinin bulunduğu kısım."
+        }
+    ]
+}

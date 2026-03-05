@@ -1,0 +1,30 @@
+{
+    "Title": "Dağıtık hesaplama",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Dağıtık hesaplama#1",
+            "sentence": "Dağıtık hesaplama <PossibleEntity>bilişim biliminde</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bili%C5%9Fim_bilimi)</URL> dağıtık sistemleri inceleyen bir bilim dalıdır. <PossibleEntity>Dağıtık sistem</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Da%C4%9F%C4%B1t%C4%B1k_sistemler)</URL> , birden fazla otomatik <PossibleEntity>bilgisayarın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar)</URL> bir <PossibleEntity>ağ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar_a%C4%9F%C4%B1)</URL> üzerindeki iletişimidir."
+        },
+        {
+            "id": "Dağıtık hesaplama#2",
+            "sentence": "Ağdaki bilgisayarlar belirli bir hedefe ulaşmak için birbirleriyle etkileşim içerisindedirler."
+        },
+        {
+            "id": "Dağıtık hesaplama#3",
+            "sentence": "Dağıtık sistemi çalıştıran <PossibleEntity>bilgisayar programına</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar_program%C4%B1)</URL> dağıtık program denir."
+        },
+        {
+            "id": "Dağıtık hesaplama#4",
+            "sentence": "Bu tür programları yazma işlemine dağıtık programlama adı verilir."
+        },
+        {
+            "id": "Dağıtık hesaplama#5",
+            "sentence": "Dağıtık hesaplama aynı zamanda dağıtık sistemleri kullanarak hesaplama yöntemiyle problemleri çözmeye denir."
+        },
+        {
+            "id": "Dağıtık hesaplama#6",
+            "sentence": "Dağıtık hesaplamalarda bir problem birden fazlaya parçaya bölünür ve her bir parça farklı bir bilgisayar tarafından çözülür."
+        }
+    ]
+}

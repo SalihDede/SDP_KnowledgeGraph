@@ -1,0 +1,62 @@
+{
+    "Title": ".tk",
+    "Card": {},
+    "Main": [
+        {
+            "id": ".tk#1",
+            "sentence": ".tk <PossibleEntity>Tokelau</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tokelau)</URL> için <PossibleEntity>internet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> <PossibleEntity>ülke kodu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9Clke_kodu)</URL> <PossibleEntity>üst seviye alan adıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9Cst_seviye_alan_ad%C4%B1)</URL> . ( <PossibleEntity>CcTLD</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_%C3%BClke_%C3%BCst_seviye_alan_ad%C4%B1)</URL> ) Dağıtımı <PossibleEntity>dot.tk</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Dot.tk&action=edit&redlink=1)</URL> tarafından yapılmaktadır."
+        },
+        {
+            "id": ".tk#2",
+            "sentence": "Tokelau, herhangi bir kişinin alan adlarını kaydetmesine izin verir."
+        },
+        {
+            "id": ".tk#3",
+            "sentence": "Kullanıcılar ve küçük işletmeler, istedikleri sayıda alan adını ücretsiz olarak kaydedebilir (bazı kısıtlamalarla)."
+        },
+        {
+            "id": ".tk#4",
+            "sentence": "Adın kendisine ek olarak, kullanıcılar web trafiğini <PossibleEntity>HTML</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/HTML)</URL> çerçevelerini ve <PossibleEntity>e-posta</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/E-posta)</URL> trafiğini kullanarak, kullanıcı oturumu başına maksimum 250 adresle iletebilir, kendi üçüncü taraf sunucuları aracılığıyla dot.tk sunucularını kullanarak tam <PossibleEntity>DNS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/DNS)</URL> kullanabilir."
+        },
+        {
+            "id": ".tk#5",
+            "sentence": "Ücretsiz alan adları, cinsel içerik barındıran sitelerin yasaklanması, uyuşturucu kullanımı, <PossibleEntity>nefret söylemi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nefret_s%C3%B6ylemi)</URL> , <PossibleEntity>ateşli silahlar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ate%C5%9Fli_silah)</URL> ve <PossibleEntity>spam</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Spam)</URL> veya <PossibleEntity>telif hakkı ihlali</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Telif_hakk%C4%B1_ihlali)</URL> için içerik kısıtlamaları vardır.  dot.tk, ücretsiz alan adlarının düzenli bir ziyaretçi trafiğine sahip olmasını gerektirir ve bir alanın yönlendirme hedefi çalışmıyorsa (geçici olarak bile olsa) alan çevrimdışına alınır."
+        },
+        {
+            "id": ".tk#6",
+            "sentence": "Bir alan bu koşullardan herhangi birini ihlal ederse, bunun yerine bir Sedo reklam sayfası gelir ve önceden uyarı verilmez."
+        },
+        {
+            "id": ".tk#7",
+            "sentence": "dot.tk ayrıca .tk <PossibleEntity>web sitelerine</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_sitesi)</URL> , siteleri TiKilinks adı verilen anahtar kelimelere dayalı olarak birbirine bağlayan sıkı sıkıya bağlı bir ağ olan TiKinet adlı bir ağa katılma seçeneği sunar."
+        },
+        {
+            "id": ".tk#8",
+            "sentence": "\"Özel\" bir .tk alan adı alabilmek için kullanıcının onu satın alması gerekir."
+        },
+        {
+            "id": ".tk#9",
+            "sentence": "Buna <PossibleEntity>Fortune 500</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fortune_500)</URL> şirketlerinin çoğu için ticari marka alan adları ve yaygın sözlük terimleri dahildir."
+        },
+        {
+            "id": ".tk#10",
+            "sentence": "Ücretli alan adları ilk iki yıl için 19.90 <PossibleEntity>ABD Doları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)</URL> tutarındadır. 4 karakterden daha az potansiyel olarak değerli isimler benzer şekilde ücretsiz kayıt için kullanılamaz ve genellikle 1000 doların üzerinde bir premium fiyattan satın alınmaları gerekir."
+        },
+        {
+            "id": ".tk#11",
+            "sentence": "dot.tk, Nisan 2010'da <PossibleEntity>Twitter</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Twitter)</URL> kullanıcıları için TweaK adlı yeni bir hizmet başlattı ve diğerlerinden daha az alan kullanan bir <PossibleEntity>URL</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/URL)</URL> kısaltma hizmeti ve <PossibleEntity>Facebook</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Facebook)</URL> için kullanıcının Facebook hesap sayfalarını .tk adıyla yeniden adlandırabileceği bir hizmet sundu."
+        },
+        {
+            "id": ".tk#12",
+            "sentence": "2016 yılında Nominet, her ülkenin üst düzey alan adının popülerliğine göre yeniden boyutlandırıldığı bir dünya haritası yayınladı ve .tk alan adı 31.311.498 kayıtlı alan adıyla dünya çapında ilk sırada yer aldı (Çin (.cn) 16.810.737 kayıtlı alan adıyla ikinci sırada). .tk üst düzey alan işinden elde edilen gelirler, adanın yıllık gelirinin yaklaşık 1/6'sını temsil eder."
+        },
+        {
+            "id": ".tk#13",
+            "sentence": ".tk <PossibleEntity>üst düzey alan adı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9Cst_d%C3%BCzey_alan_ad%C4%B1)</URL> , <PossibleEntity>phishing</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Phishing)</URL> saldırılarında sıkça kullanılmasıyla ve uluslararası alanda özellikle dolandırıcılar arasında popüler olmasıyla bilinir. .tk, 2010'un ikinci yarısında İnternet genelinde toplam 11768 kimlik avı saldırısının 2533'ünde (~%21,5) kullanıldı."
+        },
+        {
+            "id": ".tk#14",
+            "sentence": "Michelle Base-Bursey tarafından 2018 yılında yayınlanan bir raporda, <PossibleEntity>kimlik avı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kimlik_av%C4%B1)</URL> saldırıları için en yaygın üçüncü <PossibleEntity>TLD</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/TLD)</URL> 'nin, Güney Pasifik'te Yeni Zelanda'nın kuzeyinde bir bölge olan Tokelau'nun ülke kodu olan .tk olduğu paylaşıldı."
+        }
+    ]
+}

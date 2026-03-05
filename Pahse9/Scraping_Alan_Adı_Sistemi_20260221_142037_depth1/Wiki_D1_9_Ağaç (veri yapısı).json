@@ -1,0 +1,22 @@
+{
+    "Title": "Ağaç (veri yapısı)",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Ağaç (veri yapısı)#1",
+            "sentence": "<PossibleEntity>Bilgisayar biliminde</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar_bilimi)</URL> , ağaç veri düğümleri ve düğümler arası ilişkileri belirten kenarlardan oluşan, ters bir ağacı andıran <PossibleEntity>veri yapısıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Veri_yap%C4%B1s%C4%B1)</URL> ."
+        },
+        {
+            "id": "Ağaç (veri yapısı)#2",
+            "sentence": "Ağaçlar döngü içermeyen <PossibleEntity>çizgeler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87izge)</URL> olarak da tanımlanabilir."
+        },
+        {
+            "id": "Ağaç (veri yapısı)#3",
+            "sentence": "Her <PossibleEntity>düğümün</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/D%C3%BC%C4%9F%C3%BCm_(bilgisayar_bilimleri))</URL> sıfır ya da daha fazla alt düğümü ve en fazla bir üst düğümü olabilir."
+        },
+        {
+            "id": "Ağaç (veri yapısı)#4",
+            "sentence": "Üst düğümü olmayan düğüme kök , alt düğümü olmayan düğümlere yaprak denir."
+        }
+    ]
+}

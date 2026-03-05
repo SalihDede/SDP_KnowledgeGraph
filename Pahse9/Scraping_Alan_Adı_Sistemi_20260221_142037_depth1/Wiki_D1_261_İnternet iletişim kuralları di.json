@@ -1,0 +1,902 @@
+{
+    "Title": "İnternet iletişim kuralları dizisi",
+    "Card": {},
+    "Main": [
+        {
+            "id": "İnternet iletişim kuralları dizisi#1",
+            "sentence": "<PossibleEntity>OSI modeli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/OSI_modeli)</URL>"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#2",
+            "sentence": "<PossibleEntity>İnternet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> protokol takımı ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : Internet Protocol Suite [en] ), bilgisayarlar ve <PossibleEntity>ağ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar_a%C4%9F%C4%B1)</URL> cihazları arasında iletişimi sağlamak amacıyla standart olarak kabul edilmiş kurallar dizisidir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#3",
+            "sentence": "Bu kurallar dizisi temel olarak verinin ağ üzerinden ne şekilde paketleneceğini ve iletilen veride hata olup olmadığının nasıl denetleneceğini belirlemektedir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#4",
+            "sentence": "Ağ kavramının ortaya çıkmasından günümüze kadar geçen sürede farklı amaçlar için birçok protokol geliştirilmiştir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#5",
+            "sentence": "Bu protokoller ilk zamanlar belli bir standarda uygun olarak geliştirilmemiş, genelde bilgisayar donanımlarına bağlı olacak şekilde tasarlanmışlardır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#6",
+            "sentence": "Bu dönemde ağ yapıları donanım üreticileri tarafından kendilerine has bir biçimde geliştirilmekteydi."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#7",
+            "sentence": "Bu yapılara örnek olarak <PossibleEntity>IBM</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IBM)</URL> 'in SNA   ve DEC'in DECnet   ağları verilebilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#8",
+            "sentence": "Farklı markalara ait donanımlara özel tanımlanan bu tür protokollerden dolayı farklı donanımlar arası iletişimde bir ortak nokta bulunamamıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#9",
+            "sentence": "Bu durum, ağlar arası yazılımların geliştirilmesinde sorun oluşturmuştur."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#10",
+            "sentence": "Ortaya çıkan bu sorunun çözümüne yönelik 1984 yılında <PossibleEntity>ISO</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ISO)</URL> (International Organization for Standardization - Uluslararası Standartlık Örgütü) tarafından, donanım ve ağ altyapısından bağımsız olarak geliştirilmiş <PossibleEntity>OSI</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/OSI_modeli)</URL> (Open Systems Interconnection) başvuru modeli ortaya konmuştur."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#11",
+            "sentence": "<PossibleEntity>İnternet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> iletişim kuralları, internet ve benzeri bilgisayar ağları üzerinde kullanılan iletişim kuralları ve bilgisayar ağ modeli ve kümesidir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#12",
+            "sentence": "Genel olarak TCP/IP olarak bilinir çünkü bunlar; İletim Kontrol Protokolü ( <PossibleEntity>TCP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/TCP)</URL> ) ve Internet Protokolü (IP) olarak bu standartta tanımlanmış internet iletişim kurallarıdır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#13",
+            "sentence": "Bunun yanında bunlar, Amerika Birleşik Devletleri Savunma Bakanlığı'nın bir alt kolu olan DARPA'nın finanse ettiği ağ bağlantısının geliştirilmesi nedeniyle orijinal olarak DoD olarak bilinen internet modeli olarak da tanımlanır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#14",
+            "sentence": "TCP/IP modeli ve ilgili iletişim kuralları Internet Engineering Task Force ( <PossibleEntity>IETF</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_M%C3%BChendisli%C4%9Fi_G%C3%B6rev_G%C3%BCc%C3%BC)</URL> ) tarafından yapılmaktadır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#15",
+            "sentence": "İnternet protokol takımı 1960'ların sonunda İleri Araştırma Projeleri Savunma Ajansı (Defense Advanced Research Projects Agency - DARPA) tarafından yapılan araştırma ve geliştirme sonucu ortaya çıkmıştır.  1969 yılında öncü olarak başlatılan <PossibleEntity>ARPANET</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ARPANET)</URL> sonrasında DARPA diğer veri iletim teknolojileri ile ilgili bir dizi çalışma başlattı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#16",
+            "sentence": "Uydu paket ağları (satellite packet networks) ve karasal radyo paket ağları (radio packet networks) üzerine çalışan ve bu iki farklı ağ arasında iletişim kurabilmenin değerinin farkına varmış olan <PossibleEntity>Robert E. Kahn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bob_Kahn)</URL> 1972 yılında DARPA <PossibleEntity>Bilgi İşleme Tekik Ofisi</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Bilgi_%C4%B0%C5%9Fleme_Tekik_Ofisi&action=edit&redlink=1)</URL> [en] 'ne katıldı. 1973 baharında, mevcut <PossibleEntity>ARPANET</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ARPANET)</URL> Ağı Kontrol Programı (NCP) protokolünün geliştiricisi olan <PossibleEntity>Vint Cerf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vint_Cerf)</URL> , yeni nesil <PossibleEntity>ARPANET</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ARPANET)</URL> protokolleri tasarımı amacıyla, açık mimari arabağlantı modelleri üzerinde çalışmak için <PossibleEntity>Robert E. Kahn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bob_Kahn)</URL> ile birlikte çalışmaya başladı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#17",
+            "sentence": "1973 yazında <PossibleEntity>Kahn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bob_Kahn)</URL> ve <PossibleEntity>Cerf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vint_Cerf)</URL> ağlar arası iletişim protokollerinde yeni temel bir formül geliştirdiler."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#18",
+            "sentence": "Bu yeni formülde iletişimin güvenilirliğinin (reliability) sorumluluğu ARPANET'tekinin aksine olarak, ağa değil de uçlara ( <PossibleEntity>host</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Host)</URL> ) veriliyordu. <PossibleEntity>Cerf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vint_Cerf)</URL> , <PossibleEntity>CYCLADES</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=CYCLADES&action=edit&redlink=1)</URL> [en] ağının tasarımcıları olan <PossibleEntity>Hubert Zimmermann</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Hubert_Zimmermann&action=edit&redlink=1)</URL> [en] ve <PossibleEntity>Louis Pouzin</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Louis_Pouzin&action=edit&redlink=1)</URL> [en] 'i bu yeni tasarımlarına yapmış oldukları katkılardan dolayı takdir etmiştir. <PossibleEntity>Kahn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bob_Kahn)</URL> ve <PossibleEntity>Cerf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vint_Cerf)</URL> 'in yapmış oldukları bu tasarım Transmission Control Protocol adıyla kodlanmış ve 1974 yılında yayınlanmıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#19",
+            "sentence": "Bu ağın tasarımının temelinde şu kabul vardı: Ağ, sadece uçlar (node) arasındaki trafiğin verimli bir şekilde iletilmesi ve yönlendirilmesini sağlamaktan sorumluydu."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#20",
+            "sentence": "Bunun haricindeki diğer tüm bilgiler uçlarda (node) bulunacaktı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#21",
+            "sentence": "Bu tasarım \"uçtan uca prensibi (end-to-end principle)\" olarak bilinir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#22",
+            "sentence": "Bu tasarım ile ARPANET'e herhangi bir ağın bağlanması mümkün olabilecekti."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#23",
+            "sentence": "ARPANET'e bağlanacak olan bir ağın, sadece kendisine has özelliklerinin bulunması bile ARPANET'e bağlanabilmesine engel olmayacaktı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#24",
+            "sentence": "Böylece <PossibleEntity>Kahn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bob_Kahn)</URL> 'ın en başta karşılaşmış olduğu problem de çözülmüş oluyordu. <PossibleEntity>Cerf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vint_Cerf)</URL> ve <PossibleEntity>Kahn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bob_Kahn)</URL> 'ın nihai ürünü olan TCP/IP böylece adeta \" <PossibleEntity>iki teneke kutu ve bir ip</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=%C4%B0ki_teneke_kutu_ve_bir_ip&action=edit&redlink=1)</URL> [en] \" ile çalışabilecek duruma gelmişti."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#25",
+            "sentence": "Yıllar sonra -şaka yollu gibi gözükse de- \" <PossibleEntity>IP üzerinden güvercin haberleşmesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=IP_%C3%BCzerinden_g%C3%BCvercin_haberle%C5%9Fmesi&action=edit&redlink=1)</URL> [en] \" kavramının protokol tanımlamaları D. Waitzman tarafından yapılmış ve <PossibleEntity>RFC 1449</PossibleEntity> <URL>:(https://tools.ietf.org/html/rfc1149)</URL> 27 Nisan 2017 tarihinde <PossibleEntity>Wayback Machine</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Wayback_Machine)</URL> sitesinde <PossibleEntity>arşivlendi</PossibleEntity> <URL>:(https://web.archive.org/web/20170427214349/https://tools.ietf.org/html/rfc1149)</URL> . adıyla 1 Nisan 1990 yılında resmî olarak yayınlanmıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#26",
+            "sentence": "<PossibleEntity>Vint Cerf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vint_Cerf)</URL> 'in Stanford'daki ağ araştırma grubu, 1973'ten 1974'e kadar TCP'in ilk tanımlamalarının yapılması üzerine çalıştı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#27",
+            "sentence": "TCP'nin bu ilk tanımlamaları, o tarihlerde yaygın olarak kullanılan ve <PossibleEntity>Xerox PARC</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Xerox_PARC&action=edit&redlink=1)</URL> [en] tarafından geliştirilmiş olan <PossibleEntity>PARC Universal Suite</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=PARC_Universal_Suite&action=edit&redlink=1)</URL> [en] ağ çalışmalarından teknik olarak önemli ölçüde etkilenmiştir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#28",
+            "sentence": "<PossibleEntity>DARPA</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/DARPA)</URL> , sonrasında TCP'nin, farklı donanımlar üzerinde çalışabilecek sürümlerinin geliştirilmesi amacıyla; <PossibleEntity>BBN</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=BBN&action=edit&redlink=1)</URL> [en] , <PossibleEntity>Stanford Üniversitesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Stanford_%C3%9Cniversitesi)</URL> ve <PossibleEntity>University College London</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/University_College_London)</URL> ile anlaştı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#29",
+            "sentence": "Bu çalışmalar sonrasında dört adet TCP versiyonu üretilmiştir: TCP v1, TCP v2, TCP v3 ve IP v3 ve TCP/IP v4. Son versiyon bugün hala kullanılmaktadır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#30",
+            "sentence": "1975 yılında, <PossibleEntity>Stanford Üniversitesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Stanford_%C3%9Cniversitesi)</URL> ve <PossibleEntity>University College London</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/University_College_London)</URL> tarafından iki ağdan oluşan bir TCP/IP haberleşme testi gerçekleştirilmiştir. 1977 yılının Kasım ayında ise; ABD, Birleşik Krallık ve Norveç'teki birimler arasında üç ağdan oluşan bir TCP/IP haberleşme testi yapılmıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#31",
+            "sentence": "1978 ve 1983 yılları arasında birçok araştırma merkezinde bazı farklı TCP/IP prototipleri de geliştirilmiştir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#32",
+            "sentence": "ARPANET'in TCP/IP'ye geçişi; 1 Ocak 1983 tarihinde, bir <PossibleEntity>bayrak gününde</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Bayrak_g%C3%BCn%C3%BCnde&action=edit&redlink=1)</URL> [en] tamamlanmıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#33",
+            "sentence": "Bu tarihten sonra ARPANET'te yeni protokoller kalıcı bir şekilde kullanılmaya başlanmıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#34",
+            "sentence": "1982 yılının Mart ayında ABD Savunma Bakanlığı, TCP/IP'yi tüm askerî bilgisayar ağları için standart olarak kabul ettiğini açıkladı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#35",
+            "sentence": "1985 yılında, Dan Lynch Internet Danışma Kurulu (sonraki ismiyle <PossibleEntity>Internet Mimarisi Kurulu</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Internet_Mimarisi_Kurulu&action=edit&redlink=1)</URL> [en] ), bilişim sektöründe TCP/IP'yi teşvik etmek ve ticari kullanımını artırmak amacıyla, 250 üretici firma temsilcisinin katıldığı, üç günlük bir atölye çalışması düzenledi."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#36",
+            "sentence": "TCP/IP'nin yaygın bir şekilde kullanılması üzerine 1985 yılında düzenlenen ilk <PossibleEntity>Interop</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Interop&action=edit&redlink=1)</URL> [en] konferansı, bilgisayar ağlarında birlikte çalışabilme üzerinde yoğunlaştı. <PossibleEntity>Dan Lynch</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Dan_Lynch&action=edit&redlink=1)</URL> [en] 1988 yılında, ürünlerinde TCP/IP'yi destekleyen üreticilerle, <PossibleEntity>San Jose</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/San_Jose_(anlam_ayr%C4%B1m%C4%B1))</URL> (ABD) şehrinde ilk ticari <PossibleEntity>Interop</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Interop&action=edit&redlink=1)</URL> [en] konferansını düzenledi."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#37",
+            "sentence": "TCP/IP'nin nasıl çalıştığını ya da hangi şartlarda çalışamadığını görmek amacıyla, bu organizasyona 50 firma ve 5,000 ağ uzmanı katıldı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#38",
+            "sentence": "<PossibleEntity>SNA</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=SNA&action=edit&redlink=1)</URL> [en] , <PossibleEntity>XNS</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=XNS&action=edit&redlink=1)</URL> [en] ve <PossibleEntity>DECNET</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=DECNET&action=edit&redlink=1)</URL> [en] gibi kendilerine özel iletişim protokollerine sahip olmalarına rağmen; <PossibleEntity>IBM</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IBM)</URL> , <PossibleEntity>AT&T</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/AT%26T)</URL> ve <PossibleEntity>Digital Equipment Corporation</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Digital_Equipment_Corporation)</URL> gibi başlıca büyük firmalar, ürünlerinde TCP/IP'yi kullanmaya başladılar. 1984'ten sonra IBM'de Barry Appelman'ın grubu TCP/IP'yi geliştirdi. (Appelman sonra tüm kalkınma çabalarının başkanı olmak için AOL'a taşındı.) Bunlar çalışmalarına devam ederek MVS, VM ve OS / 2 dahil olmak üzere çeşitli IBM sistemlerinin, TCP / IP ürünlerinin akışı elde etmek için bir bağ kurdular."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#39",
+            "sentence": "Aynı zamanda, FTP Yazılım ve Wollongong Grup gibi birkaç küçük şirket, DOS ve MS Windows için TCP / IP kümeleri sunmaya başladı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#40",
+            "sentence": "İlk VM / CMS TCP / IP kümesiWisconsin Üniversitesi'nden geldi."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#41",
+            "sentence": "O zamanlarda bu TCP/IP yığınlarının çoğu, birkaç yetenekli programcı tarafından yazılmıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#42",
+            "sentence": "Örneğin, FTP Yazılımcısı olan John Romkey MIT PC / IP paketinin yazarıdır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#43",
+            "sentence": "John Romkey'nin PC / IP uygulaması ilk IBM PC TCP / IP yığını olmuştur."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#44",
+            "sentence": "Jay Elinsky ve IBM Araştırmacısı Oleg Vishnepolsky TCP / IP VM / CMS ve sırasıyla OS / 2 için kümeler yazmıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#45",
+            "sentence": "TCP / IP yayılması, AT & T'nin kamusal alana UNIX için geliştirilen bir TCP / IP kodunu yerleştirmek için anlaştığı zaman olan Haziran 1989 yılında daha da hızlandı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#46",
+            "sentence": "IBM dahil olmak üzere çeşitli sunucular, bu kodu kendi TCP / IP kümelerinin içerisine dahil etti. Birçok şirket Microsoft Windows 95 yerli TCP / IP kümesi yayınlayana kadar Windows için TCP / IP kümelerini sattı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#47",
+            "sentence": "Bu süreç internetin evrimine kadar biraz geç kalsa da diğer internet iletişim kurallarının yok olduğu gibi TCP/IP'nin sunuculuğuna eklenmiştir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#48",
+            "sentence": "Bu protokoller aynı zamanda IBM System's Ağ Mimarisi (SNA), Açık Sistem Arabağlantı (OSI), Microsoft'un yerli NetBIOS ve Xerox Ağ Sistemleri'ni de içermektedir. (XNS)"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#49",
+            "sentence": "İlk mimari belge olan RFC 1122, katman üzerinde mimari ilkeleri vurgular."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#50",
+            "sentence": "End to End Principle; Bu prensip zamanla gelişmiştir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#51",
+            "sentence": "Orijinal açıklaması durumun devamlılığını sağlamak ve köşelerde bulunan bilginin bir uçtan bir uca transferi sağlamak, buna ek olarak internetin kenarlara hızını ve basitliğini etkilemeyecek bir şekilde bağlı olduğunu kabul etmektir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#52",
+            "sentence": "Dünya'nın bu prensipte güvenlik duvarları, ağ adresi çevirmenleri, web içeriği önbelleklerini ve benzeri zorunlu değişikliklerden dolayı ihtiyacı vardır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#53",
+            "sentence": "Dayanıklılık Prensibi; “Genel anlamda bir uygulama göndericisine göre korunumlu ve alıcı tarafından özgür olmak zorundadır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#54",
+            "sentence": "Yani iyi biçimlenmiş datagram göndermek için dikkatli olmak gerekir, ama aynı zamanda yorumlayabileceği herhangi bir datagram kabul etmelidir. (teknik hatalardan dolayı açıklaması hala net değildir.) İlkenin ikinci kısmı diğerleri kadar önemlidir: Diğer bilgisayarlar üzerindeki yazılım akılsızca yasal ama karanlık protokol özelliklerini istismar edebilecek eksiklikleri içerebilir.”"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#55",
+            "sentence": "İnternet protokol takımı protokolleri ve hizmetlerin soyutlama sağlamak için kapsülleme kullanır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#56",
+            "sentence": "Encapsulation genellikle genel işlevsellik katmanlarına, protokol paketinin bölümü ile uyumludur."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#57",
+            "sentence": "Genel olarak, bir uygulama (modelin en üst düzeyi) her seviyede daha fazla kapsülleme olmak, katmanlar aşağı veri göndermek için bir protokol kümesi kullanır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#58",
+            "sentence": "Protokol paketinin katmanları, alt kısımdaki katmanların veri transferine yakın olmasına rağmen, kullanıcı uygulamasına mantıksal olarak yakındır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#59",
+            "sentence": "Katmanları hizmeti sağlayan veya tüketen olarak görmek soyutlama yöntemi üzerinde bit iletilmesi ve ayrıntıları üst katman protokolleri ile izole etmektir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#60",
+            "sentence": "Örneğin Ethener ve çarpışma algılaması, alt tabakaların her ayrıntılarını ve her uygulama ve protokol bilmek zorunda olmasından kaçınmasıdır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#61",
+            "sentence": "Katmanlar, çeşitli mimari belgeler incelendiğinde bile -ISO 7498, Açık Sistemler Bağlantısı (OSI) modu gibi tek mimari model var- OSI modelinin daha az veya daha az katı olarak tanımlanan katmanları ve bu nedenle dünya protokolleri için daha kolay bir uyum sağlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#62",
+            "sentence": "Sık başvurulan başka bir belge ise, RFC 1958, tabakalar yığınını içermemesidir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#63",
+            "sentence": "Tabakaların vurgu eksikliği IETF ve OSI yaklaşımlar arasındaki önemli bir farktır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#64",
+            "sentence": "Sadece bu üst tabakalar, genel olarak iletişim tabakasının varlığını ifade eder; Aslında bu belge 1996 yılının anlık mimarisi olarak düşünülmüştü. “İnternet ve mimarisi oldukça görkemli bir plandan ve daha mütevazı başlangıçtan evrimsel biçimde büyüdü."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#65",
+            "sentence": "Evrim bu sürecin teknolojisinin başarısı için ana nedenlerinden biri iken yine de internet mimarisinin mevcut ilkelerin bir anlık kaydetmek için yararlı olacaktır.”"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#66",
+            "sentence": "RFC 1122, Sunucu Gereksinimleri başlıklı, katmanlara atıfta olacak şekilde paragraflarda yapılandırılmıştır, ancak belge vurgulayan katmanlardan ziyade diğer pek çok mimari ilkelere hitap eder. Bahsi geçen RFC 1122 aşağıdaki gibi gevşek, katmanların sayılarını değil, isimlerini, dört katmanlı bir model olarak tanımlar:"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#67",
+            "sentence": "Uygulama katmanı uygulamaları kullanıcı verilerini oluşturmak ve başka diğer uygulamalar veya aynı ana bilgisayara bu verileri ileten bir katmandır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#68",
+            "sentence": "Uygulamalar veya işlemler, temel, alt tabakalar tarafından sağlanan hizmetlerin özellikle diğer işlemlere güvenilir veya güvenilmez komutları sağlayan taşıma katmanının kullanımını gerçekleştirir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#69",
+            "sentence": "İletişim ortakları, istemci-sunucu modeli ve peer-to-peer network olarak, uygulama mimarisi ile karakterize edilebilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#70",
+            "sentence": "Bu tür SMTP, FTP, SSH, HTTP gibi tüm yüksek seviyeli protokoller, faaliyet gösterdikleri tabakadır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#71",
+            "sentence": "Süreçler esas hizmeti temsil eden portlar üzerinden ele alınmaktadır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#72",
+            "sentence": "Taşıma Katmanı ya aynı ya da farklı bilgisayarlar ve yerel ağ veya yönlendirici bulunan uzak ağlar ya da üzerinde host-to-host iletişimi gerçekleştirir Bu katman uygulamaların iletişim ihtiyaçları için bir kanal sağlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#73",
+            "sentence": "UDP güvenilmez bir datagram hizmeti veren, basit bir temel taşıma katmanı protokolüdür."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#74",
+            "sentence": "İletim Kontrol Protokolü akış kontrolü, bağlantı kurulması ve verilerin güvenilir biçimde iletilmesini sağlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#75",
+            "sentence": "Internet katmanı'nın ağ sınırları boyunca datagramları alışverişi görevi vardır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#76",
+            "sentence": "Bu temel ağ bağlantılarının gerçek topolojisini (düzenini) gizleyen bir üniforma ağ arabirimi sağlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#77",
+            "sentence": "Bu nedenle, aynı zamanda internetworking'i kuran tabaka olarak adlandırılır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#78",
+            "sentence": "Aslında gerçekten de interneti kurar ve tanımlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#79",
+            "sentence": "Bu katman, TCP / IP protokol takımı için kullanılan adresleme ve yönlendirme yapıları tanımlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#80",
+            "sentence": "Bu kapsamda, öncelikli olan protokol IP adreslerini tanımlayan Internet Protokolü vardır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#81",
+            "sentence": "Bu protokolün amacı verileri final bağlantısına yönlendiren bir ağa sahip olan bir sonraki IP dağıtıcısına ulaştırmaktır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#82",
+            "sentence": "Link katmanı iletişimin yerel ağ ağlantısı kapsamında ana yönlendiricilerin müdahale olmadığı ağ yöntemlerini tanımlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#83",
+            "sentence": "Bu katman, yerel ağ topolojisini tanımlamak için kullanılan protokol ve sonraki komşu hosts internet tabakası datagramlarının iletimini gerçekleştirmek için gerekli arabirimler içerir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#84",
+            "sentence": "İnternet İletişim kuralı ve katmanlı iletişim kuralları tasarımı OSI modeli kurulmadan önce kullanımdaydı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#85",
+            "sentence": "Bu süreçten beri TCP / IP modeli kitap ve dersliklerde, sonuç olarak karışıklık ile sonuçlanan OSI modeli ile karşılaştırılmıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#86",
+            "sentence": "Çünkü iki model de sıkı katman göreceli önemi de dahil olmak üzere farklı varsayımları ve amaçları kullanmaktaydı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#87",
+            "sentence": "Bu soyutlama aynı zamanda alt tabakaların sağlayamadığı fakat üst katmanların sağladığı hizmetin sağlanmasına olanak tanır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#88",
+            "sentence": "Orijinal OSI modeli bağlantısız hizmetleri (OSI RM CL) kapsayacak şekilde genişletilmişken, IP güvenilir olarak tasarlanmamış fakat yine de en iyi veri teslimi için çaba gösteren bir protokoldür."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#89",
+            "sentence": "Bu, tüm ulaşım katmanı uygulamalarının güvenirlik sağlayıp sağlayamayacağı yahut nasıl sağlayacağı konusunda seçim yapılması gerektiğini belirtir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#90",
+            "sentence": "UDP, sağlama yoluyla veri bütünlüğünü sağlar, ancak teslimini garanti etmez; bunun yanında TCP, alıcı paket alımını kabul edene kadar retransmitting üzerinde veri bütünlüğü ve dağıtım garantisini sağlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#91",
+            "sentence": "Bu model OSI modeli ve ilgili belgelerin formalizminden yoksundur ancak IETF bir model kullanmaz ve David D.Clark'ın bir yorumunda özetlediği gibi bunu bir sınırlama olarak da algılamaz” Bizler; kralları, başkanları ve oylamayı reddediyoruz."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#92",
+            "sentence": "İnandığımız şey kabaca uzlaşma ve kod çalıştırmadır.” OSI modeline göre yapılan bu modelin eleştirisi, bu modele göre ISO'nun sonraki geliştirmelerini hesaba katmamıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#93",
+            "sentence": "Adresleme sistemlerinin kendi multiaccess bağlantıları için (örneğin Ethernet) bir adres eşleme protokolü gereklidir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#94",
+            "sentence": "Bu protokoller IP'nin altında, ancak mevcut bağlantı sistemi üzerinde olarak kabul edilebilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#95",
+            "sentence": "IETF teminolojiyi kullanmaz iken, bu durum ağ katmanı (IONL) iç organizasyonu olan OSI modeli bir uzantısına göre bir alt ağ bağımlı yakınsama kolaylığıdır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#96",
+            "sentence": "ICMP & IGMP IP üstünde çalışır ancak UDP veya TCP gibi veri transferi gerçekleştirmez."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#97",
+            "sentence": "Yine de, bu işlevselliği kendi Yönetim Çerçevesinde (OSIRM MF)[, OSI modeli katman yönetimi uzantıları olarak var eder."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#98",
+            "sentence": "SSL/TLS Kütüphanesi ise yukarıda belirtilen ve TCP kullanan taşıyıcı katmanlarını aşağıda belirtilen uygulama protokolleri kapsamında kullanır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#99",
+            "sentence": "Yine, OSI mimarisine uymak için, bu protokollerin tasarımlarının parçalarının hiçbir amacı yoktur."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#100",
+            "sentence": "Bağlantıya karşı kara kutuya benzer bir davranış sergilenir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#101",
+            "sentence": "IETF açık bir şekilde, OSI modeline nazaran daha az akademik fakat pratik bir alternatif olan iletim sistemlerini tartışmak niyetinde değildir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#102",
+            "sentence": "TCP/IP modelinde, yollanan veriler her katmanda sarmallanır (encapsulation) ve bir alt katmana yollanır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#103",
+            "sentence": "Alıcı tarafında bu veriler teker teker açılıp (decapsulation) bir üst katmana gönderilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#104",
+            "sentence": "Bu yöntem farklı marka ve modellerdeki cihazların birlikte çalışmasını sağlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#105",
+            "sentence": "Örneğin bir bilgisayarın ağ bağlantısınde <PossibleEntity>Ethernet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ethernet)</URL> yerine <PossibleEntity>Wi-fi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Wi-Fi)</URL> kullanılması o bilgisayarın üzerinde başka bir web tarayıcı kullanılmasını gerektirmez."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#106",
+            "sentence": "OSI modelinde yedi ve TCP/IP modelinde ise dört katman bulunmaktadır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#107",
+            "sentence": "TCP/IP modelindeki katmanlar aşağıda verilmiştir:"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#108",
+            "sentence": "Uygulama Katmanı, bünyesinde ağ yönlendirici protokolleri ve sunucu düzenleme protokolleri gibi basit ağ destekli servisleri içeren fakat düşük seviyedeki katmanlar tarafından kurulan ağ bağlantıları üzerindeki uygulama verilerinin değişimini yahut kullanıcılara servis sağlayan protokoller içerir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#109",
+            "sentence": "Uygulama katmanı protokolleri örnekleri Hypertext Transfer Protocol [Köprü Metni Aktarım Protokolü] (HTTP), the File Transfer Protocol [Dosya Transferi Protokolü] (FTP), the Simple Mail Transfer Protocol [Basit Mail Transfer Protokolü] (SMTP) ve the Dynamic Host Configuration Protocol [Aktif Sunucu Düzenleme Protokolü] (DHCP)'dür. Veri, protokol birimler halinde kapsüllü bir biçimde uygulama katmanı protokollerine göre taşıma katmanı yani gerçek veri transferi gerçekleştirilmesi için alt katman protokolleri halinde kodlanmıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#110",
+            "sentence": "IP modeli biçimlendirme ve veri sunma özelliklerini dikkate almaz ve OSI modeli (Sunum ve oturum katmanları) gibi uygulama ve ulaşım katmanları arasında ilave katmanları tanımlamaz."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#111",
+            "sentence": "Bu tür işlevler ise kütüphane bölümleri ve uygulama programları arayüzleridir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#112",
+            "sentence": "Uygulama Katmanı protokolleri taşıyıcı katmana veya daha altındaki katmanlara, taşıyıcı katmanların özelliklerinden olan çıkmaz IP adresleri ve port numaraları gibi uygulamalara rağmen iletişim kurmaya yarayan ağ bağlantıları sağlayan siyah kutulara davrandığı gibi davranır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#113",
+            "sentence": "Uygulama katman protokolleri genel olarak sunucu server uygulamaları ile bağdaştırılır ve Internet Assigned Numbers Authority (IANA) tarafından rezerve edilmiş iyi bilinen port numaraları gibi servis görür."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#114",
+            "sentence": "Örneğin; the HyperText Transfer Protokolü 80 numaralı portu ve Telnet ise 23 numaralı portu kullanır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#115",
+            "sentence": "Bir servise bağlanan istemciler ise genellikle bağlantı noktası numaralarının rastgele veya uygulama yapılandırılmış belirli bir mesafeden işlem süresince atanan kısa ömürlü bağlantı noktalarını kullanır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#116",
+            "sentence": "Taşıma katmanı ve alt düzey katmanları uygulama katmanı protokolleri özellikleri ile ilgisizdir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#117",
+            "sentence": "Yönlendiriciler ve anahtarlar genellikle kapsüllü trafiği incelemek yerine sadece bir kanal sağlarlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#118",
+            "sentence": "Yine de, bazı güvenlik duvarı ve bant genişliği daraltma uygulamaları, uygulama verilerini yorumlamak zorundadır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#119",
+            "sentence": "Bunun bir örneği Kaynak Rezervasyon Protokolüdür (RSVP)."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#120",
+            "sentence": "Bu uygulama yükü, ayrıca ağ adresi çeviricisi (NAT) geçişi için bazen gereklidir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#121",
+            "sentence": "TCP/IP modelindeki uygulama katmanı, Open System Interconnection (OSI) modelinin beşinci (oturum), altıncı (sunum) ve yedinci (uygulama) katmanlarını kapsamaktadır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#122",
+            "sentence": "Ayrıca, TCP/IP referans modeli kullanıcı protokolleri ve destek protokolleri arasında çeşitlere ayrılır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#123",
+            "sentence": "Destek protokolleri sisteme servis sağlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#124",
+            "sentence": "Kullanıcı protokolleri ise kullanıcı uygulamaları için kullanılır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#125",
+            "sentence": "Örneğin, FTP bir kullanıcı protokolü ve DNS ise sistem protokolüdür."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#126",
+            "sentence": "Taşıma katmanı uygulama görevinin özel veri alışverişini kullanan bir temel veri kanalı kurar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#127",
+            "sentence": "Katman kullanıcı verisinin yapısından bağımsız olarak end-to-end servisinin sağlandığı ve herhangi belirli bir amaç için bilgi alışverişinin gerçekleştiği process-to-process bağlantısı kurar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#128",
+            "sentence": "Sorumluluğu kapsamında bağımsız temel ağın end-to-end mesaj transferini, hata kontrolünü, segmentasyonu, akış kontrolünü, tıkanma kontrolünü ve port numaraları ile birlikte uygulama adreslemesini içerir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#129",
+            "sentence": "Uçtan uca aktarım katmanındaki mesaj iletimi veya bağlantı uygulamaları bütün bunları ya TCP'de uygulanan bağlantı yönelimi ya da UDP'de uygulanan bağlantısız yönelimi olarak kategorize edebilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#130",
+            "sentence": "Uygulamalar için process-specific iletim kanallarını sağlamak amacıyla, katman port kavramını ortaya çıkarmıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#131",
+            "sentence": "Bu, bir uygulamanın ihtiyacı olan iletişim kanallarının her biri için özel olarak tahsis edilen numaralı bir mantıksal yapıdır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#132",
+            "sentence": "TCP güvenilir bir veri akışı sağlayan güvenilirlik sorunlarını gideren bir bağlantı tabanlı (connection oriented) protokoldür:"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#133",
+            "sentence": "· Veri bir düzen içerisinde ulaşır"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#134",
+            "sentence": "· Veride minimum düzeyde hata vardır (Örneğin; hata düzeltme)"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#135",
+            "sentence": "· Kopya veri atılmıştır"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#136",
+            "sentence": "· Kayıp veya atılan paketler yok edilmiştir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#137",
+            "sentence": "· Trafik sıkışıklığı kontrolü içerir"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#138",
+            "sentence": "Yeni olan Bağlantı Transferi Kontrol Protokolü de (SCTP: Stream Control Transmission Protocol) aynı zamanda güvenilir, bağlantı yönelimli taşıma mekanizmasıdır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#139",
+            "sentence": "Bu protokol mesaj bağlantı odaklı – TCP gibi bit bağlantı odaklı değil- ve tek bir bağlantı üzerinden çoklu bağlantılar sağlayabilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#140",
+            "sentence": "Aynı zamanda bir bağlantının kopması durumunda diğer bağlantının otomatik olarak devreye girdiği çoklu IP'nin başlangıcı ile son bulan farklı bir bağlantı olan multi-homing desteği de sağlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#141",
+            "sentence": "Bu, ilk başta telefon uygulamaları için geliştirilse de (IP üzerinden SS7'i transfer etmek için), farklı uygulamalar tarafından da kullanılabilmiştir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#142",
+            "sentence": "UDP (Kullanıcı Datagram Protokolü) bir bağlantı tabanlı olmayan (connectionless) bir protokolüdür."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#143",
+            "sentence": "IP gibi, en iyi bir çabası, \"güvenilmez\" bir protokoldür."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#144",
+            "sentence": "Güvenilirlik, zayıf sağlama algoritması kullanılarak hata tespiti yoluyla ele alınmaktadır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#145",
+            "sentence": "UDP tipik olarak akış ortamı gibi güvenilirlikten ziyade zamanında ulaşımın önemli olduğu ya da basit bir sorgu / DNS aramaları gibi güvenilir bağlantı kurma yükünün orantısızca fazla olduğu uygulamalar için kullanılır. (ses, video, vb.) Real-time Transport Protocol (RTP) ise bu tür akışı ses ve video gibi gerçek zamanlı veriler için tasarlanmış bir datagram protokolüdür."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#146",
+            "sentence": "Herhangi bir ağ adresindeki uygulamalar kendi TCP veya UDP bağlantı noktası ile ayırt edilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#147",
+            "sentence": "Geleneksel olarak belli bir şekilde tanınmış portlar özel uygulamalar ile ilişkilidir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#148",
+            "sentence": "TCP/IP modelinin ulaşım ya da host-to-host katmanı OSI modelindeki dördüncü katmana karşılık gelmektedir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#149",
+            "sentence": "İnternet katmanının, potansiyel çoklu ağlar üzerinden paketleri gönderme sorumluluğu vardır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#150",
+            "sentence": "Internetworking hedef ağa kaynak ağdan veri göndermeyi gerektirir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#151",
+            "sentence": "Bu süreç yönlendirme işlemi olarak tanımlanır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#152",
+            "sentence": "Internet Protokolü iki temel işlevleri gerçekleştirir:"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#153",
+            "sentence": "Host addressing and identification: Bu süreç hiyerarşik bir IP adresleme sistemi ile gerçekleştirilir"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#154",
+            "sentence": "Paket Yönlendirme: Bu süreç veri paketlerinin kaynak üzerinden hedefe en yakın ağ yönlendiricisi üzerinden ulaştırılmasıdır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#155",
+            "sentence": "İnternet katmanı sadece taşıma katmanında agnostik veri yapıları değil, bunun yanı sıra çeşitli ulaşım katmanı protokollerinin operasyonu arasında ayırım yapmaz."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#156",
+            "sentence": "IP, farklı üst katman protokolleri için çeşitli veri taşır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#157",
+            "sentence": "Bu protokollerin her biri bünyesindeki benzersiz protokol sayısına göre tespit edilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#158",
+            "sentence": "Örneğin; Internet Denetim İletisi Protokolü (ICMP) ve Internet Grup Yönetimi Protokolü (IGMP) sırasıyla 1 ve 2 numaralı iletişim kurallarıdır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#159",
+            "sentence": "IP üzerinden taşınan bu protokollerin bazıları Tanı bilgilerini aktarmak için kullanılan ICMP gibi veya IP Multicast verileri yönetmek için kullanılan IGMP'dir. Bu, internet TCP / IP yığını ve OSI modelinin mimarisinde farklılıkları göstermektedir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#160",
+            "sentence": "TCP / IP modeli internet katmanı ağ katmanına hitap eden Açık Sistemler Bağlantısı (OSI)'nın üç katmanına tekabül eder."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#161",
+            "sentence": "Internet Katmanı potansiyel olarak aldığı verileri hedefine ulaştırmak üzere en yakınındaki yönlendiriciye gönderen ve farklı IP'ler üzerinde yer alan sunucular arasında sadece güvenilmez bir datagram iletim tesisi sağlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#162",
+            "sentence": "Bu işlevsellik ile internet katmanı temel olarak internet üzerine kurulu internetworking'i, farklı IP'ler üzerindeki internetworking'i mümkün kılar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#163",
+            "sentence": "Internet Protokolü İnternet katmanın başlıca bileşenidir ve ağ sunucuları bilgisayarlarını tanımlamak için iki adresleme sistemleri tanımlar ve onların ağ üzerindeki yerini belirler."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#164",
+            "sentence": "ARPANET'in orijinal adresleme sistemi ve onların arkasından gelenler ise; internet üzerindeki internet iletişim kuralları versiyon 4 (IPv4)'tür. 32 bit IP adresi kullandığından dolayı yaklaşık 4 milyar sunucuyu tanımlama kapasitesindedir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#165",
+            "sentence": "Bu sınırlama, 1998'de yayınlanan Internet Protokolü 6. sürüm standardizasyonu dahilinde elimine edildi ve 2006 yılında üretim çalışmaları başladı."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#166",
+            "sentence": "<PossibleEntity>Bağlantı katmanın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ba%C4%9Flant%C4%B1_katman%C4%B1)</URL> , sunucunun bağlı olduğu yerel ağ bağlantısına ait bir ağ kapsamı vardır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#167",
+            "sentence": "Bu kapsama literatürde, TCP / IP bağlantısı denir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#168",
+            "sentence": "TCP / IP donanım bağımsız olacak şekilde tasarlandığından dolayı bu bağlantı internet protokolleri arasındaki en yavaş bağlantı olarak tanımlanır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#169",
+            "sentence": "Sonuç olarak TCP / IP hemen hemen herhangi bir donanım ağ teknolojisi ile birlikte uygulanabilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#170",
+            "sentence": "Bağlantı katmanı aynı linke iki farklı türdeki internet katman arayüzleri arasındaki paketleri taşımak için kullanılır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#171",
+            "sentence": "Belirli bir bağlantıyı paketleri gönderme ve alma işlemleri hem ağ kartı için yazılım aygıt sürücüsünde hem de software veya özel yonga setinde kontrol edilebilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#172",
+            "sentence": "Bunlar iletim için hazırlamak için bir paket başlığını ekleme sonrasında çerçeveyi fiziksel bir ortam üzerinde iletmek gibi veri bağlantısını çalıştırır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#173",
+            "sentence": "TCP/IP modeli, İnternet iletişim kuralları kapsamındaki Media Access Control (MAC) gibi veri yönlendirme ağları içeren özellikler içermektedir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#174",
+            "sentence": "Bu düzeyin altındaki tüm diğer yönleri ise, örtülü bağlantı katmanı var varsayılır, fakat açıkça tanımlanmamıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#175",
+            "sentence": "Bu da paketlerin bir sanal özel ağ ya da diğer ağ tüneli üzerinden gönderilmek üzere seçilebilir tabakadır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#176",
+            "sentence": "Bu senaryoda, bağlantı katmanı veri başka bir IP bağlantısı üzerinden iletimi ya da alımı için IP yığını başka örneğinin erişir uygulama verileri kabul edilebilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#177",
+            "sentence": "Böyle bir bağlantı veya sanal bağlantı, protokol kümesinin bağlantı katmanında bir tünel olarak hizmet veren bir taşıma protokolü ya da bir uygulama kapsamı protokolü ile kurulabilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#178",
+            "sentence": "Böylece, TCP / IP modeli sıkı bir hiyerarşik kapsülleme dizisi dikte etmez."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#179",
+            "sentence": "TCP/IP modelinin bağlantı katmanı fiziksel ve veri bağlantı katmanları olan Açık Sistemler- Interconnection (OSI) modeli, katmanlar tek ve OSI modeline tekabül etmektedir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#180",
+            "sentence": "Bilgisayarınız Wikipedia ana sayfasını alırken işlemler şu şekilde gerçekleşir;"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#181",
+            "sentence": "Katmanlama, her katmana özel donanımlar yapılmasına olanak sağlamıştır: fiziksel katmanda paket yönlendirmesi <PossibleEntity>switch</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Switch)</URL> 'ler, IP katmanında paket yönlendirmesi <PossibleEntity>router</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Router)</URL> 'lar, taşıma katmanında paket yönlendirmesi ise <PossibleEntity>NAT</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/NAT)</URL> 'lar tarafından yapılır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#182",
+            "sentence": "Bu sayede, basit donanımlarla yüksek TCP/IP performansları elde edilebilmektedir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#183",
+            "sentence": "Katmanlama, uygulamalar arası uyumu kolaylaştırdığı gibi büyük bir dezavantaja da sahiptir: her katman veriye tekrarlanan (dolayısıyla gereksiz) veriler ekler."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#184",
+            "sentence": "Örneğin her katman pakete ekstra bir boy bilgisi ekleyecektir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#185",
+            "sentence": "Çoğu katman verinin doğruluğundan emin olmak için muhtelif rakamlar da ekleyebilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#186",
+            "sentence": "Bunun, dünya internet trafiğinin %15'ini oluşturduğu tahmin edilmektedir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#187",
+            "sentence": "Katmanlama sistemindeki ilk üç katman (yani donanım, ağ ve taşıma katmanları) arasından:"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#188",
+            "sentence": "Bazı IP adresleri ve maskeleri bazı kullanımlar için ayrılmıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#189",
+            "sentence": "Bunlar şu şekildedir:"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#190",
+            "sentence": "Bu sayede, bir ağdaki IP adreslerini mantıksal olarak tasarlamak mümkündür."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#191",
+            "sentence": "Buna ek olarak, kullanıcılara IP adresi, ağ maskesi ve varsayılan ağ geçidini otomatik atayabilmek için <PossibleEntity>DHCP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/DHCP)</URL> protokolü kullanılabilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#192",
+            "sentence": "Tüm bu protokoller (ve dahası) sayesinde TCP/IP her geçen gün daha da popülerleşen bir protokol olmuştur."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#193",
+            "sentence": "OSI modelindeki en üst katman olan; uygulama katmanı, sunucu katmanı ve oturum katmanı, taşıcıyı katmanı üzerinde sadece uygulama katmanı bulunan TCP/IP gibi ayrı ayrı çeşitlenmez."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#194",
+            "sentence": "OSI uygulama protokollerini birbirine bağlayan X.400 gibi, TCP/IP'de, taşıyıcı katmanı üzerinde kurulu monolitik mimariyi empoze etmeyi gerektirecek bir zorunluluk yoktur."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#195",
+            "sentence": "Örneğin, NFS uygulama protokolleri Remote Procedure Call (RPC) gibi bir protokol çalıştıran External Data Representation (XDR) sunucu protokolleri üzerinde çalışır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#196",
+            "sentence": "RPC güvenilir kayıt iletimini sağlar ve en iyi eforu verecek UDP taşıyıcısını güvenlice kullanabilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#197",
+            "sentence": "Değişik yazarlar TCP/IP'yi farklı bir şekilde yorumlamıştır ve bağlantı katmanının yahut tüm TCP/IP modelinin OSI 1. Katmanını kapsayıp kapsamadığının yahut donanım katmanının bağlantı katmanı altında farz edilip edilmediği konusunda anlaşamamışlardır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#198",
+            "sentence": "Birkaç yazar, OSI modelinin katmanlarının bir yahut ikisini modern standartlara atfettiğinden dolayı TCP/IP modelinde birleştirmeye çalışmıştır. (Örneğin; IEEE ve ITU)."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#199",
+            "sentence": "Bu da ağlardan birinin OSI Modeli'nin katmanlarından birinci ve ikinciye bağlı beş katmanlı bir modelin ortaya çıkması ile sonuçlanmıştır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#200",
+            "sentence": "Bazı protokolleri, OSI’nin katman numaralarını kullansa ve RFC bazen buna atfetse bile, OSI modele uyum sağlayamayabilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#201",
+            "sentence": "IETF defalarca Internet protokolü ve mimari gelişimini değil OSI ile uyumlu olmasını amaçladığını ifade etmiştir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#202",
+            "sentence": "RFC 3439 Internet mimarisini şu şekilde başlıklı bir bölüm içerir. “Zararlı olarak değerlendirildiğinde Katmanlama”"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#203",
+            "sentence": "Örneğin, OSI paketinin oturumu ve sunum katmanları, TCP/IP paketinin uygulama katmanına dahil olarak kabul edilirler."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#204",
+            "sentence": "Bu oturumun katman işlevselliği HTTP ve SMTP gibi protokollerde bulunabilir ve Telnet ve Oturum Başlatma Protokolü (SIP) gibi protokollerden daha belirgindir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#205",
+            "sentence": "Oturum katmanı işlevselliği TCP ve UDP protokolleri, TCP/IP modelinin taşıyıcı katmanını kaplayan port numaralandırma ile gerçekleştirilmektedir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#206",
+            "sentence": "TCP/IP uygulamalarındaki Sunum katmanı fonksiyonları MIME standartındaki veri alışverişi ile gerçekleştirilmektedir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#207",
+            "sentence": "Orijinal OSI modelinde ISO 7498/4 Management Framework yahut ISO 8648 Internal Organization of the Network layer (IONL) gibi ekler bu model için göz önüne alınmadığonda özellikle ISO7498'de çatışmalar daha belirgindir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#208",
+            "sentence": "IONL ve Management Framework belgeleri dikkate alındığında, ICMP ve IGMP, ağ katmanı için katman yönetimi protokolleri olarak tanımlanırlar."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#209",
+            "sentence": "Benzer şekilde, ARP ve RARP gibi IONL ekleri \"alt ağ bağımlı yakınsama imkanları\" için bir yapı sunmaktadır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#210",
+            "sentence": "Generic Routing Encapsulation (GRE) gibi tünel protokolleri tarafından gösterildiği için IETF protokolleri ardışık bir şekilde sarmalanabilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#211",
+            "sentence": "GRE, OSI'nin ağ katmanında tünel için kullandığı aynı mekanizmayı kullanır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#212",
+            "sentence": "İnternet iletişim kuralları herhangi bir donanım veya yazılım ortamı varsaymaz."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#213",
+            "sentence": "Sadece bilgisayar ağı üzerinde gönderme ve alma kapasitesine sahip olan donanım ve yazılım katmanlarına gerek duymaktadır."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#214",
+            "sentence": "En küçük TCP/IP uygulamaları şunları içermektedir: Internet Protocol (IP), Address Resolution Protocol (ARP), Internet Control Message Protocol (ICMP), Transmission Control Protocol (TCP), User Datagram Protocol (UDP) ve IGMP. IP ye ek olarak ICMP, CP, UDP, Internet Protocol versiyon 6 Neighbour Discovery Protocol (NDP), ICMPv6 ve IGMPv' ye ihtiyaç duyar ve genellikle entegre edilmiş IPSec koruma katmanı tarafından eşlik edilir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#215",
+            "sentence": "Alt katmanlar yönetici sistemindeki sıkışmış TCP/IP tarafından desteklenirken, uygulama programcıları genellikle taşıma katmanında yalnızca uygulama katmanında arayüzleri ile ilgilidir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#216",
+            "sentence": "IP'lerin çoğu soketler ve API gibi programlar sayesinde ulaşılabilirdir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#217",
+            "sentence": "Benzersiz uygulamalar, gömülü sistemler için tasarlanmış açık kaynak yığını olan Lightweight TCP/IP ve amatör paket radyo sistemleri ve seri hatlar üzerinden bağlanan kişisel bilgisayarlar ile ilgili protokollere sahip olan KA9Q NOS içerir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#218",
+            "sentence": "Ağ adaptöründeki mikro kontrolcü işletim sistemindeki sürücü yazılım tarafından desteklenerek yazılım üzerinde tipik olarak bağlantı sorunları ile ilgilenir."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#219",
+            "sentence": "Programlanamaz analog ve dijital elektronikler tipik olarak her bir ağ arayüzü veya fiziksel standart için yongaseti olarak application-specific integrated circuit (ASIC)'i kullanarak, normal olarak bağlantı katmanının altındaki fiziksel parçalardan sorumludur."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#220",
+            "sentence": "Yüksek performanslı yönlendiriciler büyük ölçüde bağlantı düzeyi geçişini ortaya koyan ve programlanamayan hızlı dijital elektronik üzerine kuruludur."
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#221",
+            "sentence": "Bilgisayar Ağları ve İletişim - Abdullah Kuzu"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#222",
+            "sentence": "Requirements for Internet Hosts – Communication Layers, R. Braden (October 1989)"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#223",
+            "sentence": "Computer Networks, Vinton G. Cerf and Edward Cain (1983)"
+        },
+        {
+            "id": "İnternet iletişim kuralları dizisi#224",
+            "sentence": "Specification of Internet Transmission Control Protocol, V. Cerf et al. (December 1974)"
+        }
+    ]
+}

@@ -1,0 +1,62 @@
+{
+    "Title": "Bit (bilişim)",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Bit (bilişim)#1",
+            "sentence": "<PossibleEntity>Programlama</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Programlama_dilleri_listesi)</URL> ve haberleşmede, bir bit bilgi <PossibleEntity>depolama</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Depolama)</URL> ve haberleşme veya bağlantının en küçük ve temel ünitesidir."
+        },
+        {
+            "id": "Bit (bilişim)#2",
+            "sentence": "Bir cihaz ya da fiziksel bir sistem tarafından depolanabilecek bilginin maksimum değeri normal olarak sadece 2 farklı şekilde bulunabilir."
+        },
+        {
+            "id": "Bit (bilişim)#3",
+            "sentence": "Bu durumlar genellikle (özellikle numerik veride) ikili sayılar 0 ve 1 olarak yorumlanır."
+        },
+        {
+            "id": "Bit (bilişim)#4",
+            "sentence": "Ayrıca mantıksal değerler logical values , doğru ya da yanlış, <PossibleEntity>flag</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Flag)</URL> ya da <PossibleEntity>switch</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Switch)</URL> , on ya da off olarak yorumlanabilir."
+        },
+        {
+            "id": "Bit (bilişim)#5",
+            "sentence": "Mantıksal değerlerin elektronikteki karşılıkları ise 0 için 0 Volt (aslında sıfıra çok yakın bir gerilimdir.), 1 için de 5 Volt olarak tanımlıdır."
+        },
+        {
+            "id": "Bit (bilişim)#6",
+            "sentence": "Teoride, bir bit genel anlamda ikili rastgele değişken belirsizliği (eşit ihtimallerle 0 ya da 1) olarak nitelendirilebilir."
+        },
+        {
+            "id": "Bit (bilişim)#7",
+            "sentence": "İkili rakam anlamına gelen ' bi nary digi t' kelimelerinin kısaltmasıdır."
+        },
+        {
+            "id": "Bit (bilişim)#8",
+            "sentence": "Çoğu platformda 1 <PossibleEntity>bayt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bayt)</URL> , 8 bit bulundurur."
+        },
+        {
+            "id": "Bit (bilişim)#9",
+            "sentence": "<PossibleEntity>Bilgisayarda</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar)</URL> veri depolama ve transferlerinde ise bit en küçük dosya birimidir."
+        },
+        {
+            "id": "Bit (bilişim)#10",
+            "sentence": "<PossibleEntity>Veri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Data)</URL> (data) boyutları <PossibleEntity>byte</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bayt)</URL> cinsinden hesaplanmaktadır."
+        },
+        {
+            "id": "Bit (bilişim)#11",
+            "sentence": "Bir byte 8 bitten oluşur."
+        },
+        {
+            "id": "Bit (bilişim)#12",
+            "sentence": "Bu birimden sonra küçükten büyüğe doğru sırasıyla <PossibleEntity>kilobyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kilobayt)</URL> , <PossibleEntity>megabyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Megabayt)</URL> , <PossibleEntity>gigabyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Gigabayt)</URL> , <PossibleEntity>terabyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Terabayt)</URL> , <PossibleEntity>petabyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Petabayt)</URL> , <PossibleEntity>eksabyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eksabayt)</URL> <PossibleEntity>zettabyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Zettabayt)</URL> ve <PossibleEntity>yottabyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yottabayt)</URL> şeklinde üst katları vardır."
+        },
+        {
+            "id": "Bit (bilişim)#13",
+            "sentence": "Her üst kat bir önceki birimin 1000 katıdır."
+        },
+        {
+            "id": "Bit (bilişim)#14",
+            "sentence": "Bu birimler bir bayt'ın 1024 katı şeklinde artar şekilde bilinir ancak bu yanlıştır. 1024 kat halinde artan birimler küçükten büyüğe doğru sırasıyla; <PossibleEntity>kibibyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kibibayt)</URL> , <PossibleEntity>mebibyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mebibayt)</URL> , <PossibleEntity>gibibyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Gibibayt)</URL> , <PossibleEntity>tebibyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Tebibayt&action=edit&redlink=1)</URL> , <PossibleEntity>pedibyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Pebibayt&action=edit&redlink=1)</URL> , <PossibleEntity>eksibyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Eksibayt&action=edit&redlink=1)</URL> , <PossibleEntity>zebibyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Zebibayt&action=edit&redlink=1)</URL> ve <PossibleEntity>yobibyte</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Yobibayt&action=edit&redlink=1)</URL> şeklindedir."
+        }
+    ]
+}

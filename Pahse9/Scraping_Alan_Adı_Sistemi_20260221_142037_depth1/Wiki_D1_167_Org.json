@@ -1,0 +1,82 @@
+{
+    "Title": "Org",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Org#1",
+            "sentence": "Müzikte org , bir veya daha fazla <PossibleEntity>boru bölümünden</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Borulu_org)</URL> veya ton üretmek için başka araçlardan oluşan <PossibleEntity>klavyeli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Klavyeli_%C3%A7alg%C4%B1lar)</URL> bir enstrümandır."
+        },
+        {
+            "id": "Org#2",
+            "sentence": "Orglarda ellerle çalmak için genellikle iki veya üç, en fazla beş kılavuz ve ayaklarla çalmak için pedal tahtası bulunur."
+        },
+        {
+            "id": "Org#3",
+            "sentence": "Kayıtların kullanılmasıyla birden fazla boru grubu tek bir kılavuza bağlanabilir."
+        },
+        {
+            "id": "Org#4",
+            "sentence": "Org, su orgunu icat eden <PossibleEntity>Ktesibios</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ktesibios)</URL> 'un (MÖ 3. yüzyıl) zamanından kalma nispeten eski bir <PossibleEntity>çalgıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87alg%C4%B1)</URL> . <PossibleEntity>Antik Yunanistan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Antik_Yunanistan)</URL> ve <PossibleEntity>Antik Roma</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Antik_Roma)</URL> dünyasında, özellikle yarışlar ve oyunlar sırasında çalınmıştır."
+        },
+        {
+            "id": "Org#5",
+            "sentence": "Erken ortaçağ döneminde, seküler (dini olmayan) ve imparatorluk saray müziğinde kullanılmaya devam ettiği <PossibleEntity>Bizans İmparatorluğu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bizans_%C4%B0mparatorlu%C4%9Fu)</URL> 'ndan, <PossibleEntity>Katolik Kilisesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Katolik_Kilisesi)</URL> 'nin ayinlerinde yavaş yavaş önemli bir yer edindiği <PossibleEntity>Batı Avrupa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bat%C4%B1_Avrupa)</URL> 'ya yayılmıştır."
+        },
+        {
+            "id": "Org#6",
+            "sentence": "<PossibleEntity>Borulu org</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Borulu_org)</URL> en büyük <PossibleEntity>çalgıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87alg%C4%B1)</URL> ."
+        },
+        {
+            "id": "Org#7",
+            "sentence": "Bu enstrümanların boyutları bir <PossibleEntity>metreküpten</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Metrek%C3%BCp)</URL> beş kat yüksekliğe kadar büyük farklılıklar gösterir ve kiliselerde, sinagoglarda, konser salonlarında ve evlerde inşa edilir."
+        },
+        {
+            "id": "Org#8",
+            "sentence": "<PossibleEntity>Wolfgang Amadeus Mozart</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Wolfgang_Amadeus_Mozart)</URL> orgu “Enstrümanların Kralı” olarak adlandırmıştır."
+        },
+        {
+            "id": "Org#9",
+            "sentence": "Avrupa, Amerika ve Avustralasya'daki orgların çoğu <PossibleEntity>kiliselerde</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kilise_(%C3%B6rg%C3%BCt))</URL> bulunmaktadır."
+        },
+        {
+            "id": "Org#10",
+            "sentence": "Kilise orglarının kullanılmaya başlanması geleneksel olarak 7. yüzyılda <PossibleEntity>Vitalianus</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vitalianus)</URL> 'a atfedilir."
+        },
+        {
+            "id": "Org#11",
+            "sentence": "Akor orgu 1950 yılında Laurens Hammond tarafından icat edilmiştir."
+        },
+        {
+            "id": "Org#12",
+            "sentence": "Akordeona benzer şekilde sol el için akor düğmeleri sağlıyordu."
+        },
+        {
+            "id": "Org#13",
+            "sentence": "Diğer kamışlı org üreticileri de, özellikle 1958'den 1970'lerin sonuna kadar Magnus olmak üzere, akorlu orglar üretmiştir."
+        },
+        {
+            "id": "Org#14",
+            "sentence": "Hammond'un elektro-mekanik tasarımının aksine Allen Organ Company, şirketin kurucusu Jerome Markowitz tarafından tasarlanan ve patenti alınan sabit osilatöre dayanan ilk tamamen elektronik orgu 1938 yılında tanıttı."
+        },
+        {
+            "id": "Org#15",
+            "sentence": "Allen, 1960'lara kadar ek patentlerle analog ton üretimini geliştirmeye devam etti.  1971 yılında Allen, North American Rockwell ile işbirliği yaparak dünyanın ilk ticari dijital müzik aletini tanıttı."
+        },
+        {
+            "id": "Org#16",
+            "sentence": "İlk Allen Dijital Org şu anda Smithsonian Enstitüsü'nde bulunmaktadır."
+        },
+        {
+            "id": "Org#17",
+            "sentence": "Melezler, 20. yüzyılın başlarından itibaren, bazı sesleri üretmek için birkaç sıra boru içerir ve diğer sesler için ve ödünç alma çarpışmalarını çözmek için elektronik devreler veya dijital örnekler kullanır."
+        },
+        {
+            "id": "Org#18",
+            "sentence": "Fransız orgcu-besteciler arasında Marcel Dupré, Maurice Duruflé, <PossibleEntity>Olivier Messiaen</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Olivier_Messiaen)</URL> ve Jean Langlais 20. yüzyıl org repertuarına önemli katkılarda bulunmuşlardır."
+        },
+        {
+            "id": "Org#19",
+            "sentence": "Charles Tournemire, Marcel Dupré, Pierre Cochereau, Pierre Pincemaille ve Thierry Escaich gibi orgcularla birlikte org, <PossibleEntity>müzikal doğaçlama</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/M%C3%BCzikal_do%C4%9Fa%C3%A7lama)</URL> için de çokça kullanılmıştır."
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "Title": "İletişim protokolü",
+    "Card": {},
+    "Main": [
+        {
+            "id": "İletişim protokolü#1",
+            "sentence": "İletişim protokolü veya ağ protokolü , iki ya da daha fazla cihaz arasındaki iletişimi sağlamak amacıyla verileri düzenlemeye yarayan, <PossibleEntity>standart</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Teknik_standart)</URL> olarak kabul edilmiş kurallar dizisidir."
+        },
+        {
+            "id": "İletişim protokolü#2",
+            "sentence": "İki sistem arasında iletişim için kullanılan dili, yani mesajlaşma kurallarını belirtir. \"Dil\" yerine \"protokol\" kelimesinin seçilmiş olmasının sebebi, bu kelimenin <PossibleEntity>programlama dili</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Programlama_dili)</URL> terimleri arasında, daha önceden yer alıyor olmasından kaynaklanır."
+        },
+        {
+            "id": "İletişim protokolü#3",
+            "sentence": "Sistemler iletişim için tek bir protokol kullanmazlar."
+        },
+        {
+            "id": "İletişim protokolü#4",
+            "sentence": "Bunun yerine, protokol ailesi ya da diğer bir deyişle protokol takımı kullanırlar."
+        },
+        {
+            "id": "İletişim protokolü#5",
+            "sentence": "Protokollerin birbirleriyle iletişiminin koordinasyonu için, konsept bir yapı gereklidir."
+        },
+        {
+            "id": "İletişim protokolü#6",
+            "sentence": "Bunu sağlayacak yazılım hem protokolü, hem de 'xfer-mekanizmasını' sağlamak zorundadır."
+        },
+        {
+            "id": "İletişim protokolü#7",
+            "sentence": "Bilgisayar iletişimi programlamaya benzetilebilir. 'Xfer-mekanizması' da işlemci'ye benzer gibi bir <PossibleEntity>analoji</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Analoji)</URL> de bu benzetim üzerine doğru olur; 'Xfer-mekanizması' iletişimi sağlar ve <PossibleEntity>CPU</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Merkez%C3%AE_i%C5%9Flem_birimi)</URL> işler, sistem de protokollere, diğer protokollerle olan iletişimler için bağımsız bir çalışma çevresi tanımlar."
+        },
+        {
+            "id": "İletişim protokolü#8",
+            "sentence": "Önemli bir tanım da, protokollerin bilgisayar iletişim için, programlamanın ise işlem için olduğudur."
+        },
+        {
+            "id": "İletişim protokolü#9",
+            "sentence": "Popüler iletişim protokolleri örnekleri: <PossibleEntity>GSM</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/GSM)</URL> , <PossibleEntity>GPRS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/GPRS)</URL> , <PossibleEntity>TCP/IP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/TCP/IP)</URL> , <PossibleEntity>HTTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/HTTP)</URL> veya <PossibleEntity>ISDN</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ISDN)</URL> olabilir."
+        }
+    ]
+}

@@ -1,0 +1,314 @@
+{
+    "Title": "ARPANET",
+    "Card": {},
+    "Main": [
+        {
+            "id": "ARPANET#1",
+            "sentence": "ARPANET ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : Advanced Research Projects Agency Network 'ün kısaltması), bir <PossibleEntity>bilgisayar ağıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar_a%C4%9F%C4%B1)</URL> ve ilk olarak 1968'den itibaren <PossibleEntity>Amerika Birleşik Devletleri Hava Kuvvetleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri_Hava_Kuvvetleri)</URL> adına <PossibleEntity>Massachusetts Teknoloji Enstitüsü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Massachusetts_Teknoloji_Enstit%C3%BCs%C3%BC)</URL> ve <PossibleEntity>ABD Savunma Bakanlığı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Savunma_Bakanl%C4%B1%C4%9F%C4%B1_(Amerika_Birle%C5%9Fik_Devletleri))</URL> liderliğindeki küçük bir araştırmacı grubu tarafından geliştirilmiştir."
+        },
+        {
+            "id": "ARPANET#2",
+            "sentence": "Günümüz <PossibleEntity>internetinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternetin_tarihi)</URL> öncüsüdür. <PossibleEntity>Paul Baran</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Paul_Baran)</URL> ( <PossibleEntity>RAND Corporation</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/RAND_Corporation)</URL> ) ve Donald Watts Davies (merkezsiz ağ yapısı ve paket şifreleme), ARPANET'in geliştirilmesinde iletişim için temel olarak kullanılan kısmî ağ düzeni ve paket şifreleme ağlar alanında önemli bulgular sağlamıştır."
+        },
+        {
+            "id": "ARPANET#3",
+            "sentence": "Günümüzde veri ve ses iletişiminin dünya çapındaki baskın temeli olarak görülen paket dağıtımı veri iletişiminde yeni ve önemli bir kavram işlevi görüyordu."
+        },
+        {
+            "id": "ARPANET#4",
+            "sentence": "Daha önceleri veri iletişimi devre dağıtımı yöntemine dayanıyordu."
+        },
+        {
+            "id": "ARPANET#5",
+            "sentence": "Eski telefon devrelerini andıran bu yöntemde telefonun bir ucundaki kişinin konuşma süresinin sonuna dek hattın diğer ucundaki kişiden başkasıyla iletişim kurması olanaksızdı."
+        },
+        {
+            "id": "ARPANET#6",
+            "sentence": "Paket dağıtma yönteminde bir sistemin tek bir iletişim hattı kullanarak birden çok makineyle haberleşebilmesi için verinin küçük parçalara ayrılıp bu parçaların daha sonra paketler halinde düzenlenmesi gerekiyordu."
+        },
+        {
+            "id": "ARPANET#7",
+            "sentence": "Bu sayede bağlantı hattı paylaşılabiliyor (Tek bir posta merkezinden farklı varış noktalarına birçok mektubun gönderilmesinde olduğu gibi) ve her paket diğer paketlerden bağımsız olarak gönderilebiliyordu."
+        },
+        {
+            "id": "ARPANET#8",
+            "sentence": "Lincoln Laboratuvarı bilim insanlarından Larry Roberts tarafından geliştirilen bir paket dağıtım yöntemi ARPANET'in tasarımının temelini oluşturmuştur."
+        },
+        {
+            "id": "ARPANET#9",
+            "sentence": "Çok sayıda bilgisayar kullanıcısının birbirleriyle haberleşebilmelerini öngören bir bilgisayar ağı hakkındaki ilk düşünceler Ağustos 1962'de Bolt, Beranek ve Newman (BBN)'den J.C.R. Licklider tarafından \"Galaksilerarası Bilgisayar Ağı\" kavramına atfen ortaya atılmıştır. <PossibleEntity>İnternet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> 'in günümüzde sahip olduğu tüm özellikler bu çalışma sırasında belirlenmiştir."
+        },
+        {
+            "id": "ARPANET#10",
+            "sentence": "Ekim 1963'te Licklider, ABD Savunma Bakanlığı'nın Gelişmiş Araştırma Projeleri Dairesi (o tarihteki adıyla ARPA) bünyesindeki Davranış Bilimleri ve Denetim ve Komuta Programları başkanlığına atandı."
+        },
+        {
+            "id": "ARPANET#11",
+            "sentence": "Daha sonraları <PossibleEntity>Ivan Sutherland</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ivan_Sutherland)</URL> ve Bob Taylor'ı bu projenin çok önemli bir kavram kurgusuna sahip olduğuna ikna etti ancak çalışmaların somut sonuçlarını göremeden ARPA'dan ayrıldı."
+        },
+        {
+            "id": "ARPANET#12",
+            "sentence": "ARPA ve Taylor'ın bir bilgisayar iletişim ağı kurma çalışmaları sürmekteydi."
+        },
+        {
+            "id": "ARPANET#13",
+            "sentence": "Öncelikli hedef, ARPA tarafından sağlanan bilgisayarların bulunduğu farklı konumlardaki ARPA destekli araştırmacıların birbirleriyle iletişiminin sağlanması ve üretilecek yazılımların daha geniş bir çevrede kullanılmasının yolunun açılmasıydı."
+        },
+        {
+            "id": "ARPANET#14",
+            "sentence": "Taylor, ofisinde ARPA tarafından sağlanan üç bilgisayar yardımıyla üç farklı konumla iletişim sağlayabiliyordu."
+        },
+        {
+            "id": "ARPANET#15",
+            "sentence": "Bunlar; Santa Monica'da Sistem Geliştirme Kuruluşu için kullanılan Q-32, <PossibleEntity>Kalifornia Üniversitesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kaliforniya_%C3%9Cniversitesi)</URL> 'nde için kullanılan bir bilgisayar ve <PossibleEntity>MIT</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Massachusetts_Teknoloji_Enstit%C3%BCs%C3%BC)</URL> 'de bulunan ve <PossibleEntity>Multics</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Multics)</URL> projesi için kullanılan bilgisayardı."
+        },
+        {
+            "id": "ARPANET#16",
+            "sentence": "Taylor'ın bu konudaki sözleri şöyle:"
+        },
+        {
+            "id": "ARPANET#17",
+            "sentence": "O sıralar başka kişiler de (büyük çoğunluğu birbirinden bağımsız olmak üzere) daha sonraları \"paket dağıtma\" olarak adlandırılacak olan kavramın birçok yönünü çözmüşlerdi."
+        },
+        {
+            "id": "ARPANET#18",
+            "sentence": "Bu nedenle, ARPANET'in asıl tarihi tüm bu farklı kaynaklara dayanmaktadır."
+        },
+        {
+            "id": "ARPANET#19",
+            "sentence": "1968 yazı itibarıyla eksiksiz bir plan hazırlanmıştı."
+        },
+        {
+            "id": "ARPANET#20",
+            "sentence": "Planın ARPA'dan onay almasının hemen ardından 140 kuruluşa açık artırma için fiyat belirleme isteğinde bulunuldu."
+        },
+        {
+            "id": "ARPANET#21",
+            "sentence": "Bunlardan çoğu isteği tuhaf buldu ve içlerinde yalnızca dördünün dünya çapında olduğu 12 şirket fiyat bildiriminde bulundu."
+        },
+        {
+            "id": "ARPANET#22",
+            "sentence": "Yıl sonu itibarıyla katılımcı sayısı ikiye kadar düşen ihale, sonuç müzakerelerinin ardından 7 Nisan 1969 tarihinde BBN'e verildi."
+        },
+        {
+            "id": "ARPANET#23",
+            "sentence": "BBN'in proje planı Roberts'ın planıyla örtüşmekteydi."
+        },
+        {
+            "id": "ARPANET#24",
+            "sentence": "Şöyle ki, ağ şu anda \"yönlendiriciler\" olarak adlandırılan arayüz ileti işlemcilerinden oluşacaktı."
+        },
+        {
+            "id": "ARPANET#25",
+            "sentence": "Her konumdaki işlemciler \"kaydet ve yönlendir\" denilen paket dağıtma işlevini görecek ve bu işlemciler birbirlerine 50 kbps hızda çalışan <PossibleEntity>çevirgeler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87evirge)</URL> yardımıyla bağlanacaklardı."
+        },
+        {
+            "id": "ARPANET#26",
+            "sentence": "Sunucu bilgisayarlarla işlemciler arasındaki bağlantı özel arayüzler aracılığıyla sağlanacaktı."
+        },
+        {
+            "id": "ARPANET#27",
+            "sentence": "BBN birinci kuşak işlemci yapımı için sağlamlaştırılmış bir <PossibleEntity>Honeywell</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Honeywell)</URL> DDP-516 kullanmaya karar verdi. 516, 24 kBlik bir belleğe (artırılabilir) ve 16 kanallı bir <PossibleEntity>doğrudan bellek erişimli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Do%C4%9Frudan_bellek_eri%C5%9Fimi)</URL> bir kontrol birimine sahipti."
+        },
+        {
+            "id": "ARPANET#28",
+            "sentence": "Sunucu ve çevirge bağlantıları için özel arayüzler kullanıldı. 516, ön yüzdeki lambalara ek olarak 24 sinyal ışığından oluşan ve işlemcinin iletişim kanallarının durumunu gösteren lamba kümesine de sahipti."
+        },
+        {
+            "id": "ARPANET#29",
+            "sentence": "Her işlemci dört yerel sunucuyu destekliyor ve altı işlemciyle bağlantı kurabiliyordu."
+        },
+        {
+            "id": "ARPANET#30",
+            "sentence": "BBN'in küçük ekibi (başlangıçta yalnızca yedi kişiden oluşmaktaydı) fiyat bildirimi metninde belirtilen ayrıntılara uymak koşuluyla kısa süre içinde çalışan bir sistem tasarladılar."
+        },
+        {
+            "id": "ARPANET#31",
+            "sentence": "Donanım ve dünyanın ilk paket dağıtma yazılımından oluşan sistemin kurulumu dokuz ay içinde tamamlandı."
+        },
+        {
+            "id": "ARPANET#32",
+            "sentence": "İlk ARPANET dört işlemciden oluşmaktaydı."
+        },
+        {
+            "id": "ARPANET#33",
+            "sentence": "Bu işlemciler aşağıda listelenen konumlara kuruldular."
+        },
+        {
+            "id": "ARPANET#34",
+            "sentence": "İlk kesin ARPANET hattı <PossibleEntity>Kaliforniya Üniversitesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kaliforniya_%C3%9Cniversitesi_(Los_Angeles))</URL> ile SAE'deki işlemciler arasında 21 Kasım 1969 tarihinde kurulmuştur."
+        },
+        {
+            "id": "ARPANET#35",
+            "sentence": "Dört üçlü ağ 5 Aralık 1969 tarihi itibarıyla tamamlanmıştır <PossibleEntity></PossibleEntity> <URL>:(https://web.archive.org/web/20080308120314/http://www.engineer.ucla.edu/stories/2004/Internet35.htm)</URL> ."
+        },
+        {
+            "id": "ARPANET#36",
+            "sentence": "ARPANET üzerinden ilk ileti gönderimi 29 Ekim 1969 tarihinde saat 22:30'da iki sunucu arasında gerçekleşmiştir."
+        },
+        {
+            "id": "ARPANET#37",
+            "sentence": "İleti, UCLA profesörlerinden Leonard Kleinrock'un danışmanlığını yaptığı UCLA öğrencisi bir programcı olan Charley Kline tarafından gönderilmiştir."
+        },
+        {
+            "id": "ARPANET#38",
+            "sentence": "Yalnızca \"login\" sözcüğünü içeren ileti UCLA'daki SDS Sigma 7 sunucusundan SAE'deki SDS 940 sunucusuna gönderilmiştir."
+        },
+        {
+            "id": "ARPANET#39",
+            "sentence": "İlk iki harf olan \"l\" ve \"o\" sorunsuz biçimde iletildi ancak sistem bundan hemen sonra durdu."
+        },
+        {
+            "id": "ARPANET#40",
+            "sentence": "Böylece ARPANET üzerindeki ilk başarılı ileti \"lo\" oldu. \"login\" sözcüğünün tamamının gönderilmesi için bir saate yakın bir çalışma gerekti."
+        },
+        {
+            "id": "ARPANET#41",
+            "sentence": "İki sunucunun ARPANET üzerindeki iletişiminin başlangıç noktası sunucuların ARPANET işlemcilerine hangi yolla ileti gönderebileceklerini tanımlayan 1822 protokolüdür."
+        },
+        {
+            "id": "ARPANET#42",
+            "sentence": "İleti biçimi geniş bir bilgisayar mimarisine hizmet sunacak biçimde tasarlanmıştı."
+        },
+        {
+            "id": "ARPANET#43",
+            "sentence": "Bir 1822 iletisi; ileti türü, sunucu adresi ve bir veri alanından oluşmaktaydı."
+        },
+        {
+            "id": "ARPANET#44",
+            "sentence": "Bir sunucudan diğerine ileti göndermek için gönderici sunucunun alıcı sunucunun sunucu adresini içeren bir iletiyi biçimleyip onu 1822 donanım arayüzü yardımıyla karşıya iletmesi gerekiyordu."
+        },
+        {
+            "id": "ARPANET#45",
+            "sentence": "İletinin yerel bir sunucuya ya da başka bir işlemciye gönderilmesi durumunda işlemci, iletinin gönderildiğini görebiliyordu."
+        },
+        {
+            "id": "ARPANET#46",
+            "sentence": "İleti karşı tarafa ulaştığında alıcı göndericiye bir onay iletisi ( Sonraki İleti İçin Hazırım ) gönderiyordu."
+        },
+        {
+            "id": "ARPANET#47",
+            "sentence": "Çagdaş İnternet datagramlarının aksine ARPANET, tüm 1822 iletilerinin başarılı bir biçimde karşı tarafa iletilmesini amaçlıyordu."
+        },
+        {
+            "id": "ARPANET#48",
+            "sentence": "Ne var ki, 1822 protokolünün aynı sunucu üzerinde çalışan farklı uygulamalar arasındaki bağlantılarda karışıklığa yol açtığı gözlenmiştir."
+        },
+        {
+            "id": "ARPANET#49",
+            "sentence": "Bu sorun Ağ Denetim Programı yoluyla çözülmüştür."
+        },
+        {
+            "id": "ARPANET#50",
+            "sentence": "Buna göre, farklı sunuculardaki farklı işlemler arasındaki çift yönlu iletişim hatları standart bir yöntem kullanmak suretiyle kurulabilirdi."
+        },
+        {
+            "id": "ARPANET#51",
+            "sentence": "Bu arayüz, <PossibleEntity>yazılım uygulamaları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yaz%C4%B1l%C4%B1m)</URL> kullanarak üst düzey <PossibleEntity>iletişim protokollerinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0leti%C5%9Fim_protokol%C3%BC)</URL> oluşturulmasına yardımcı oldu. Bu, OSI modeline aktarılan bir kavram olan protokol katmanlama nın ilk örneğidir."
+        },
+        {
+            "id": "ARPANET#52",
+            "sentence": "1983'te <PossibleEntity>TCP/IP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_ileti%C5%9Fim_kurallar%C4%B1_dizisi)</URL> protokolleri ARPANET'in ana kısmı haline gelirken ARPANET, yeni doğmakta olan İnternet'in birçok bileşeninden yalnızca biri olmak üzereydi."
+        },
+        {
+            "id": "ARPANET#53",
+            "sentence": "Ağ Denetim Programı bir sunucu üzerinde çalışan çeşitli uygulamalar tarafından kullanılan standart bir ağ hizmetleri kümesi sunmaktaydı."
+        },
+        {
+            "id": "ARPANET#54",
+            "sentence": "Bu, üzerine inşa edildiği ağ hizmetinden az çok bağımsız olarak çalışan uygulama protokolleri nin gelişimine katkıda bulundu."
+        },
+        {
+            "id": "ARPANET#55",
+            "sentence": "ARPANET'in İnternet protokollerine geçtiği 1983 yılında kayda değer uygulama protokolleri de aynı yolu izledi."
+        },
+        {
+            "id": "ARPANET#56",
+            "sentence": "Mart 1970'te BBN'in doğu yakasındaki bir işlemciyle birleşen ARPANET'in etkinlik alanı genişledi."
+        },
+        {
+            "id": "ARPANET#57",
+            "sentence": "Ağ, bundan sonra çabucak büyüdü: Haziran 1970'te 9, Aralık 1970'te 13, Eylül 1971'de 18 işlemciye ulaştı (Bu sırada üniversite ve devlet araştırma merkezlerinde toplam 23 sunucu ağa bağlıydı)."
+        },
+        {
+            "id": "ARPANET#58",
+            "sentence": "Ağustos 1972'de 29'a ulaşan işlemci sayısı Eylül 1973'te 40'a kadar yükseldi."
+        },
+        {
+            "id": "ARPANET#59",
+            "sentence": "Ayrıca, Pasifik Okyanusu üzerinden <PossibleEntity>Hawaii</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hawaii)</URL> 'ye ve Atlantik Okyanusu üzerinden <PossibleEntity>Norveç</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Norve%C3%A7)</URL> 'e iki uydu hattı kuruldu."
+        },
+        {
+            "id": "ARPANET#60",
+            "sentence": "Kısa bir süre sonra, Norveç ile İngiltere'yi birbirine bağlamak amacıyla Londra'da karasal bir devre kuruldu."
+        },
+        {
+            "id": "ARPANET#61",
+            "sentence": "Haziran 1974'te 46 olan işlemci sayısı Temmuz 1975'te 57'ye yükseldi. 213'e ulaşan sunucu sayısı ortalama yirmi günde bir artmaktaydı."
+        },
+        {
+            "id": "ARPANET#62",
+            "sentence": "ARPANET'in birkaç yıl boyunca sorunsuz çalışması ARPA'yı ağı yönetecek başka bir birim aramaya yöneltti."
+        },
+        {
+            "id": "ARPANET#63",
+            "sentence": "Bunun nedeni, ARPA'nın kuruluş amacının bir iletişim hattı yönetmekten çok araştırma-geliştirme çalışmaları için kaynak sağlamak olmasıydı."
+        },
+        {
+            "id": "ARPANET#64",
+            "sentence": "Görüşmeler sonucunda ağın yönetimi Savunma Bakanlığı'na bağlı Savunma İletişim Dairesi'ne bırakıldı."
+        },
+        {
+            "id": "ARPANET#65",
+            "sentence": "1983 yılında ARPANET'in ordu ile ilintili kısmı MILNET adı altında başka bir ağa ayrıldı."
+        },
+        {
+            "id": "ARPANET#66",
+            "sentence": "Ayrılmadan önce 113 terminalden oluşan ARPANET'e, MILNET'in kurulmasının ardından 68 terminal kaldı."
+        },
+        {
+            "id": "ARPANET#67",
+            "sentence": "230.4 kbit/s hızları destekleyen işlemci devreleri 1970 yılında ağ bünyesine katıldı ancak bu kapasite çok kullanılmadı."
+        },
+        {
+            "id": "ARPANET#68",
+            "sentence": "1971 yılı Honeywell 316 adlı düşük yoğunluklu makinelerin işlemci olarak kullanıldıkları ilk tarihtir."
+        },
+        {
+            "id": "ARPANET#69",
+            "sentence": "Makine, terminal işlemcisi olarak kullanıldığında sunucuların tek terminaline karşılık 65 <PossibleEntity>ASCII</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ASCII)</URL> seri terminaline izin veriyordu. 316, mali ve bakım kolaylığı açısından 516'ya göre daha elverişliydi."
+        },
+        {
+            "id": "ARPANET#70",
+            "sentence": "Bu makine, sunucu sürümlerinde 40 kB'lik bir belleğe sahipti. 1973 yılında, bellek boyutu işlemciler için 32 kB'a, sunucu işlemciler için 56 kB'a yükseltildi."
+        },
+        {
+            "id": "ARPANET#71",
+            "sentence": "BBN 1975 yılında Pluribus işlemcilerinde çalışabilecek bir yazılım geliştirdi ancak kısa süre içinde pek yayılma olanağı bulamadı. 1981 yılında ise BBN, kendi ürettiği C/30 işlemcileri için bir yazılım geliştirdi."
+        },
+        {
+            "id": "ARPANET#72",
+            "sentence": "NSFNet'in kurulmasını izleyen süreçte ARPANET bünyesindeki çoğu işlemci devre dışı bırakıldı."
+        },
+        {
+            "id": "ARPANET#73",
+            "sentence": "Az sayıdaki diğer işlemciler ise 1989 yılına kadar çalışmayı sürdürdü."
+        },
+        {
+            "id": "ARPANET#74",
+            "sentence": "ARPANET hakkındaki bir yarı efsaneye göre ağın kuruluş amacı <PossibleEntity>nükleer saldırılara</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/N%C3%BCkleer_sava%C5%9F)</URL> karşı koymaktı. <PossibleEntity>Internet Society</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Internet_Society)</URL> 'nin ARPANET'in teknik ayrıntılarını anlattığı yazıda şöyle deniliyor:"
+        },
+        {
+            "id": "ARPANET#75",
+            "sentence": "ARPANET'in asıl amacı herhangi bir nükleer saldırıya maruz kalınmadığında bile ortaya çıkabilecek düğüm ve hat işlev bozukluklarını engellemekti. 1965-1967 yılları arasında ARPA'da yöneticilik görevini üstlenen Charles Herzfeld, kısıtlı bilgisayar kaynaklarının ARPANET'in ortaya çıkışını nasıl güçleştirdiğini anlatıyor:"
+        },
+        {
+            "id": "ARPANET#76",
+            "sentence": "ARPA tarafından sunulan destek ve bakım hizmetinin ARPANET'in başarısında büyük etkisi vardı."
+        },
+        {
+            "id": "ARPANET#77",
+            "sentence": "BBN ve ARPA'nın ortak çalışması sonucunda hazırlanan ARPANET Sonuç Raporu şöyle bitiyor:"
+        }
+    ]
+}

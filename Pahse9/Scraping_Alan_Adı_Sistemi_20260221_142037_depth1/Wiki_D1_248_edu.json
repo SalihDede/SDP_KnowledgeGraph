@@ -1,0 +1,18 @@
+{
+    "Title": ".edu",
+    "Card": {},
+    "Main": [
+        {
+            "id": ".edu#1",
+            "sentence": ".edu , <PossibleEntity>Amerika Birleşik Devletleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> merkezli eğitim ve araştırma kurumları tarafından kullanılan bir <PossibleEntity>üst düzey alan adıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9Cst_d%C3%BCzey_alan_ad%C4%B1)</URL> . 1 Ocak 1985'te kullanıma açılmıştır."
+        },
+        {
+            "id": ".edu#2",
+            "sentence": "Educase tarafından yönetilir."
+        },
+        {
+            "id": ".edu#3",
+            "sentence": "<PossibleEntity>.edu delegasyon verileri | IANA</PossibleEntity> <URL>:(https://www.iana.org/domains/root/db/edu.html)</URL>"
+        }
+    ]
+}

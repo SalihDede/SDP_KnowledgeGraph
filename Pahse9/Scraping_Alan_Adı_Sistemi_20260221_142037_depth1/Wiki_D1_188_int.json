@@ -1,0 +1,30 @@
+{
+    "Title": ".int",
+    "Card": {},
+    "Main": [
+        {
+            "id": ".int#1",
+            "sentence": ".int alan adı, <PossibleEntity>internette</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> <PossibleEntity>Domain Name System</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Domain_Name_System)</URL> (DNS) içinde bir sponsorlu üst düzey alan adıdır (sTLD)."
+        },
+        {
+            "id": ".int#2",
+            "sentence": "Uluslararası kuruluşlar ve anlaşmaları için kullanımını karakterize eden ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : International ) kelimesinden türetilmiştir."
+        },
+        {
+            "id": ".int#3",
+            "sentence": "Bu alan adının kullanımı, daha önce kendi <PossibleEntity>.nato</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.nato)</URL> üst düzey alan adını kullanan <PossibleEntity>NATO</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/NATO)</URL> 'nun \"nato.int\" adresini kullanmasıyla başlamıştır."
+        },
+        {
+            "id": ".int#4",
+            "sentence": "<PossibleEntity>Internet Assigned Numbers Authority</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority)</URL> (IANA) politikasına göre <PossibleEntity>RFC 1591</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc1591)</URL> temelinde \".int\" sTLD'si; uluslararası antlaşma temelli kuruluşlar, <PossibleEntity>Birleşmiş Milletler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Birle%C5%9Fmi%C5%9F_Milletler)</URL> ajansları ve BM'de gözlemci statüsü bulunan kuruluşlar için ayrılmıştır.  \".int\" en katı başvuru politikalarına sahip TLD olarak kabul edilir çünkü bu alan adı, sahibinin uluslararası statüye sahip bir kuruluş olduğunu gösterir."
+        },
+        {
+            "id": ".int#5",
+            "sentence": "Bu nedenle başvuru süreci, başvuru sahibinin Birleşmiş Milletler <PossibleEntity>antlaşma</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Antla%C5%9Fma)</URL> kayıt numarası ve bağımsız yasal statüsü olduğunu gösteren kanıtlar sunmasını gerektirir."
+        },
+        {
+            "id": ".int#6",
+            "sentence": "Daha önce İnternet altyapı hizmetlerine de açıktı ancak günümüzde bu hizmetler <PossibleEntity>.arpa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.arpa)</URL> 'da kaydolmak zorundadır."
+        }
+    ]
+}

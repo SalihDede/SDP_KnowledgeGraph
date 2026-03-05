@@ -1,0 +1,14 @@
+{
+    "Title": ".info",
+    "Card": {},
+    "Main": [
+        {
+            "id": ".info#1",
+            "sentence": ".info üst seviye alan adıdır."
+        },
+        {
+            "id": ".info#2",
+            "sentence": "İngilizcedeki \" info rmation kelimesinin kısaltmasıdır. 2001 yılında kullanıma açılmıştır."
+        }
+    ]
+}

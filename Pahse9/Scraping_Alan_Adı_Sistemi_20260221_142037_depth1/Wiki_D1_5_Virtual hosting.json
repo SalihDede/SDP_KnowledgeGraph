@@ -1,0 +1,74 @@
+{
+    "Title": "Virtual hosting",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Virtual hosting#1",
+            "sentence": "Virtual hosting (sanal barındırma) , tek bir fiziksel sunucunun üzerinde birden fazla bağımsız web sitesinin veya alan adının eş zamanlı olarak barındırılmasına olanak tanıyan bir teknolojidir."
+        },
+        {
+            "id": "Virtual hosting#2",
+            "sentence": "Bu yöntem, sunucu kaynaklarının (işlemci gücü, bellek, depolama alanı gibi) daha etkin kullanılmasını sağlayarak web sitesi barındırma maliyetlerini önemli ölçüde düşürür."
+        },
+        {
+            "id": "Virtual hosting#3",
+            "sentence": "Sanal Barındırma genellikle, her bir web sitesinin kendi alan adına (domain) sahip olduğu ve bu alan adlarının aynı fiziksel sunucu üzerindeki farklı konumlara işaret ettiği durumlarda kullanılır."
+        },
+        {
+            "id": "Virtual hosting#4",
+            "sentence": "En yaygın Sanal Barındırma uygulaması, farklı alan adlarının aynı IP adresini paylaşmasıdır."
+        },
+        {
+            "id": "Virtual hosting#5",
+            "sentence": "Bu durumda sunucu, gelen web isteğinin hangi alan adına yönelik olduğunu 'Host' başlığına bakarak anlar ve ilgili web sitesinin içeriğini sunar."
+        },
+        {
+            "id": "Virtual hosting#6",
+            "sentence": "Bu yaklaşım, özellikle kişisel web siteleri, bloglar, küçük ve orta ölçekli işletmelerin web siteleri gibi çok sayıda farklı sitenin tek bir sunucu altyapısı üzerinden yayımlanması için oldukça yaygın ve ekonomiktir."
+        },
+        {
+            "id": "Virtual hosting#7",
+            "sentence": "<PossibleEntity>IPv4</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPv4)</URL> , her biri 32 bit uzunluğunda olan yaklaşık 4,3 milyar benzersiz adres sağlamaktadır."
+        },
+        {
+            "id": "Virtual hosting#8",
+            "sentence": "İnternetin hızla büyümesiyle birlikte, bu adreslerin büyük bir kısmı, özellikle de büyük platformlar ve hizmet sağlayıcıları tarafından kullanıldığı için tükenmiştir."
+        },
+        {
+            "id": "Virtual hosting#9",
+            "sentence": "Bu durum, yeni web siteleri için IP adresi almayı zorlaştırmış ve Virtual Hosting teknolojisinin gelişmesine olanak sağlamıştır."
+        },
+        {
+            "id": "Virtual hosting#10",
+            "sentence": "Kısaca bu teknoloji ile birlikte tek bir <PossibleEntity>IP adresi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IP_adresi)</URL> kullanılarak binlerce site yayında kalabilmektedir. <PossibleEntity>IPv6</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPv6)</URL> , 128 <PossibleEntity>bit</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bit_(bili%C5%9Fim))</URL> uzunluğundaki adres yapısıyla, çok daha geniş bir adres alanı sunar."
+        },
+        {
+            "id": "Virtual hosting#11",
+            "sentence": "Yaklaşık 340 trilyon ( 3.4 x 10^38 ) benzersiz adres sağlayarak, dünya genelinde herkesin kolayca web sitesi sahibi olabilmesine olanak tanır. <PossibleEntity>IPv6</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPv6)</URL> 'ya geçişin tamamlanması, yalnızca mevcut IPv4 adresleriyle sınırlı kalmadan, herkesin yeni bir web sitesi açabilmesi için gerekli bir alt yapıyı sağlayacaktır."
+        },
+        {
+            "id": "Virtual hosting#12",
+            "sentence": "Sanal özel sunucu ( VPS ), fiziksel bir sunucunun sanal parçalara ayrılmasıyla oluşturulan bir sunucu türüdür. <PossibleEntity>VPS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Virtual_private_server)</URL> , kullanıcılara bağımsız bir <PossibleEntity>sunucu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sunucu_(bili%C5%9Fim))</URL> deneyimi sunarken, fiziksel sunucunun kaynaklarını ( RAM, İşlemci, Disk Alanı ) paylaşır."
+        },
+        {
+            "id": "Virtual hosting#13",
+            "sentence": "Her sanal sunucu, belirli miktarda kaynakla sınırlıdır ve kendi <PossibleEntity>işletim sistemi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0%C5%9Fletim_sistemi)</URL> ve yazılımlarını çalıştırabilir."
+        },
+        {
+            "id": "Virtual hosting#14",
+            "sentence": "Sanal tahsisli sunucu ( VDS ), sanallaştırma teknolojisi kullanılarak fiziksel bir sunucu üzerinde oluşturulan, VPS'e göre daha yüksek düzeyde kaynak garantisi ve izolasyon sunan bir sunucu türüdür."
+        },
+        {
+            "id": "Virtual hosting#15",
+            "sentence": "VDS'te kullanıcılara belirli miktarda RAM, İşlemci gücü ve Disk Alanı garanti edilir."
+        },
+        {
+            "id": "Virtual hosting#16",
+            "sentence": "Bu kaynaklar, diğer sanal sunucularla paylaşılsa bile, kullanıcıya tahsis edilen miktar her zaman kullanılabilir durumdadır."
+        },
+        {
+            "id": "Virtual hosting#17",
+            "sentence": "Bu özellikleriyle VDS, VPS'ten daha istikrarlı performans ve daha fazla kontrol sunar ve fiziksel Dedicated Server'a daha yakın bir deneyim sağlar, ancak yine de altında yatan fiziksel sunucu başkalarıyla paylaşılabilir."
+        }
+    ]
+}

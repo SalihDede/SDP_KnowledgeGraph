@@ -1,0 +1,234 @@
+{
+    "Title": "IP adresi",
+    "Card": {},
+    "Main": [
+        {
+            "id": "IP adresi#1",
+            "sentence": "IP adresi ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : Internet Protocol address ), <PossibleEntity>interneti</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> ya da <PossibleEntity>TCP/IP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_ileti%C5%9Fim_kurallar%C4%B1_dizisi)</URL> protokolünü kullanan diğer paket anahtarlamalı <PossibleEntity>ağlara</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar_a%C4%9F%C4%B1)</URL> bağlı cihazların, ağ üzerinden birbirleri ile veri alışverişi yapmak için kullandıkları adres."
+        },
+        {
+            "id": "IP adresi#2",
+            "sentence": "<PossibleEntity>OSI modeli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/OSI_modeli)</URL>"
+        },
+        {
+            "id": "IP adresi#3",
+            "sentence": "<PossibleEntity>İnternet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> 'e bağlanan her <PossibleEntity>cihaza</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_of_Things)</URL> , <PossibleEntity>İnternet Servis Sağlayıcısı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_Servis_Sa%C4%9Flay%C4%B1c%C4%B1)</URL> tarafından bir \"public\" IP adresi atanır ve internete bağlı cihazlar birbirleriyle bu \"public\" IP adresleri üzerinden ulaşırlar."
+        },
+        {
+            "id": "IP adresi#4",
+            "sentence": "IP adresine sahip iki farklı cihaz aynı ağda olmadıkları durumlarda, <PossibleEntity>yönlendiriciler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Y%C3%B6nlendirici)</URL> (router) ya da yönlendirme (routing) özelliği olan cihazlar vasıtası ile birbirleri ile iletişim kurarlar."
+        },
+        {
+            "id": "IP adresi#5",
+            "sentence": "IP adresleri şu anda yaygın kullanımda olan <PossibleEntity>IPv4</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPv4)</URL> adresleri 32 <PossibleEntity>bit</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bit_(bili%C5%9Fim))</URL> boyutunda olup, noktalarla ayrılmış 4 adet onluk düzendeki sayılarla gösterilirler."
+        },
+        {
+            "id": "IP adresi#6",
+            "sentence": "Örneğin: 192.168.10.5 (Bu örnekte verilen IP adresi özel (private) IP adresi olarak tanımlanır ve sadece yerel ağlarda iletişim sağlayabilir."
+        },
+        {
+            "id": "IP adresi#7",
+            "sentence": "Diğer ağlar ile iletişim sağlanabilmesi için cihazın genel (public) IP adresine sahip olması gerekmektedir.)"
+        },
+        {
+            "id": "IP adresi#8",
+            "sentence": "Bazı internet sayfalarına, o sayfaların IP adresleri ile de bağlanılabilir."
+        },
+        {
+            "id": "IP adresi#9",
+            "sentence": "Ancak bu IP adreslerinin hangi sayfalara ait olduklarını bilebilmek pratikte çok mümkün olmadığından IP adreslerine karşılık gelen bir <PossibleEntity>alan adı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/DNS)</URL> sistemi kullanılmaktadır. <PossibleEntity>Alan Adı Sunucuları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alan_Ad%C4%B1_Sunucular%C4%B1)</URL> 'ndan (DNS -Domain Name System ) oluşan hiyerarşik bir sistem, hangi alan adının hangi IP adresine karşılık geldiği bilgisini eşler."
+        },
+        {
+            "id": "IP adresi#10",
+            "sentence": "<PossibleEntity>Yönlendiriciler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Y%C3%B6nlendirici)</URL> IP paketleri iletme görevlerini IP paket başlıklarında yer alan IP adreslerine göre gerçekleştirirler."
+        },
+        {
+            "id": "IP adresi#11",
+            "sentence": "IP'nin ilk büyük versiyonu İnternet Protokolü Sürüm 4'tür. IPv4 internette baskın olan bir protokoldür."
+        },
+        {
+            "id": "IP adresi#12",
+            "sentence": "Onun halefi İnternet Protokolü Sürüm 6 (IPv6)'dır. IPv6, internete bağlanan cihaz sayısının artmasından ve bu cihazlara yetecek sayıda IP adresi verilmesini sağlama zorunluluğundan ortaya çıkmıştır."
+        },
+        {
+            "id": "IP adresi#13",
+            "sentence": "Her <PossibleEntity>datagramın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Datagram)</URL> iki bileşeni vardır."
+        },
+        {
+            "id": "IP adresi#14",
+            "sentence": "Bir başlık ve bir yük. Yük, taşınan veridir."
+        },
+        {
+            "id": "IP adresi#15",
+            "sentence": "IP adresleme IP adreslerinin atamasını ve ilişkili parametrelerin arabirimlerini barındırmayı gerektirir."
+        },
+        {
+            "id": "IP adresi#16",
+            "sentence": "Adres uzayı ağlara ve alt ağlara ayrılır, ağın tanımını ve yönlendirme öneklerini içerir. <PossibleEntity>IP yönlendirme</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IP_y%C3%B6nlendirme)</URL> bütün ana bilgisayarlardan olduğu gibi yönlendiriciler tarafından da gerçekleştirilir ve asıl işlevi ağ sınırları boyunca paketleri ulaştırmaktır."
+        },
+        {
+            "id": "IP adresi#17",
+            "sentence": "İnternet protokollerinin tasarımı uçtan uca prensibine dayanır."
+        },
+        {
+            "id": "IP adresi#18",
+            "sentence": "Ağ altyapısı tek bir ağ elemanı veya iletim ortamı da doğal olarak güvenilmez olarak kabul edilir ve linkleri ve düğümleri kullanılabilirliği açısından dinamik varsayar."
+        },
+        {
+            "id": "IP adresi#19",
+            "sentence": "Ağın durumunu devam ettiren veya izini süren hiçbir merkezi izleme veya performans ölçüm kolaylığı yoktur."
+        },
+        {
+            "id": "IP adresi#20",
+            "sentence": "Ağ karmaşıklığını azaltma yararına, ağda istihbarat bilerek çoğunlukla veri aktarımı uç düğümleri yer almaktadır."
+        },
+        {
+            "id": "IP adresi#21",
+            "sentence": "İletim yolundaki yönlendiriciler paketleri direkt olarak sonraki bilinen ve varış adresinin girişi ile eşleşen ulaşılabilir geçide doğru yönlendirir."
+        },
+        {
+            "id": "IP adresi#22",
+            "sentence": "Bu tasarımın bir sonucu olarak, İnternet Protokolü sadece en iyi çaba teslim sağlar ve hizmet güvenilmez olarak karakterize edilir."
+        },
+        {
+            "id": "IP adresi#23",
+            "sentence": "Ağ mimari dili, bu iletim bağlantı yönelimli modlarda aksine bir bağlantısız protokoldür."
+        },
+        {
+            "id": "IP adresi#24",
+            "sentence": "İnternet Protokolü Sürüm 4 (IPv4) başlığında, başlığın hatasız gönderilmiş olmasını sağlamak için \"header checksum\" isimli bir sağlama alanı içermektedir."
+        },
+        {
+            "id": "IP adresi#25",
+            "sentence": "IPv4 protokolüne bir destek protokolü olması amacıyla geliştirilmiş olan İnternet Denetim İletisi Protokolü (ICMP) gönderilen paketlerin hedefe ulaşıp ulaşmadıklarına dair bazı geri bildirimler sağlamaktadır."
+        },
+        {
+            "id": "IP adresi#26",
+            "sentence": "İnternete bağlanan kullanıcının dış dünyaya bağlantı sağladığı gerçek IP adresi çoğu zaman <PossibleEntity>dinamiktir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dinamik_IP)</URL> ."
+        },
+        {
+            "id": "IP adresi#27",
+            "sentence": "Kullanıcının hizmet aldığı <PossibleEntity>internet servis sağlayıcı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_servis_sa%C4%9Flay%C4%B1c%C4%B1s%C4%B1)</URL> , kullanıcıya o an boşta bulunan bir IP adresini verir."
+        },
+        {
+            "id": "IP adresi#28",
+            "sentence": "Bu yüzden internete her bağlantı yapıldığı zaman kullanıcıların dış dünyaya açıldıkları gerçek IP adresi değişebilmektedir."
+        },
+        {
+            "id": "IP adresi#29",
+            "sentence": "Statik IP adresleri olan bilgisayarların adresleri değişmez. <PossibleEntity>Sunucu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sunucu_(bili%C5%9Fim))</URL> görevi gören bilgisayarlar için tercih edilir."
+        },
+        {
+            "id": "IP adresi#30",
+            "sentence": "Kullanım alanlarına göre IP Adresleri sınıflandırılır."
+        },
+        {
+            "id": "IP adresi#31",
+            "sentence": "A sınıfı 1-127, B sınıfı 128-191, C sınıfı 192-223, D sınıfı 224-239, E sınıfı 240-255."
+        },
+        {
+            "id": "IP adresi#32",
+            "sentence": "Örneğin;"
+        },
+        {
+            "id": "IP adresi#33",
+            "sentence": "Aşağıda yer alan üç IP adres bloku yerel alan ağlarında kullanılmak üzere ayrılmıştır."
+        },
+        {
+            "id": "IP adresi#34",
+            "sentence": "Bu IP adres blokları <PossibleEntity>yerel alan ağlarında</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yerel_alan_a%C4%9F%C4%B1)</URL> kullanılmak üzere tahsis edilmiştir (Dünya üzerinde tekil değildirler) ve <PossibleEntity>geniş alan ağlarında</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Geni%C5%9F_alan_a%C4%9F%C4%B1)</URL> <PossibleEntity>internet servis sağlayıcılar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_servis_sa%C4%9Flay%C4%B1c%C4%B1s%C4%B1)</URL> tarafından yönlendirilmezler."
+        },
+        {
+            "id": "IP adresi#35",
+            "sentence": "Bu nedenle bu IP ağlarından internete çıkarken gerçek IP adreslerine <PossibleEntity>NAT</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/NAT)</URL> yapılır."
+        },
+        {
+            "id": "IP adresi#36",
+            "sentence": "Versiyon ya da sürüm ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : version ), kullanılan <PossibleEntity>IP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IP)</URL> versiyonunu gösterir."
+        },
+        {
+            "id": "IP adresi#37",
+            "sentence": "Uzunluğu dört <PossibleEntity>bittir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bit_(bili%C5%9Fim))</URL> ."
+        },
+        {
+            "id": "IP adresi#38",
+            "sentence": "IP başlığın uzunluğunu gösterir ile ilgilidir."
+        },
+        {
+            "id": "IP adresi#39",
+            "sentence": "Uzunluğu dört <PossibleEntity>bittir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bit_(bili%C5%9Fim))</URL> ."
+        },
+        {
+            "id": "IP adresi#40",
+            "sentence": "Uzunluğu bir <PossibleEntity>bayttır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bayt)</URL> ."
+        },
+        {
+            "id": "IP adresi#41",
+            "sentence": "Uzunluğu iki <PossibleEntity>bayttır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bayt)</URL> ."
+        },
+        {
+            "id": "IP adresi#42",
+            "sentence": "Uzunluğu iki <PossibleEntity>bayttır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bayt)</URL> ."
+        },
+        {
+            "id": "IP adresi#43",
+            "sentence": "Uzunluğu üç <PossibleEntity>bittir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bit_(bili%C5%9Fim))</URL> ."
+        },
+        {
+            "id": "IP adresi#44",
+            "sentence": "Uzunluğu bir <PossibleEntity>bayttır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bayt)</URL> ."
+        },
+        {
+            "id": "IP adresi#45",
+            "sentence": "Uzunluğu bir <PossibleEntity>bayttır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bayt)</URL> ."
+        },
+        {
+            "id": "IP adresi#46",
+            "sentence": "Uzunluğu iki <PossibleEntity>bayttır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bayt)</URL> ."
+        },
+        {
+            "id": "IP adresi#47",
+            "sentence": "Uzunluğu dört <PossibleEntity>bayttır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bayt)</URL> ."
+        },
+        {
+            "id": "IP adresi#48",
+            "sentence": "Uzunluğu dört <PossibleEntity>bayttır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bayt)</URL> ."
+        },
+        {
+            "id": "IP adresi#49",
+            "sentence": "IPv4'ün adres uzayı, IPv6'ya göre daha dardır."
+        },
+        {
+            "id": "IP adresi#50",
+            "sentence": "IPv4 adres uzayında (2 32 ) adet, IPv6 adres uzayında ise (2 128 ) adet adres bulunmaktadır."
+        },
+        {
+            "id": "IP adresi#51",
+            "sentence": "Ayrıca IPv4 başlık formatı ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : header format ), IPv6 formatına göre daha basit yapıdadır."
+        },
+        {
+            "id": "IP adresi#52",
+            "sentence": "IPv4 başlık boyutu 20 bayttan iken, IPv6 başlık boyutu sabit olarak 40 bayttır."
+        },
+        {
+            "id": "IP adresi#53",
+            "sentence": "IPv4 başlığının 12 alanının 6'sı IPv6 da yoktur."
+        },
+        {
+            "id": "IP adresi#54",
+            "sentence": "Bu alanların kaldırılması, IPv6'nın daha kolay işlenmesini sağlamıştır."
+        },
+        {
+            "id": "IP adresi#55",
+            "sentence": "Ayrıca IPv6 üzerindeki otomatik konfigürasyon özelleği <PossibleEntity>internet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> üzerindeki adres yönetimini kolaylaştırır."
+        },
+        {
+            "id": "IP adresi#56",
+            "sentence": "IPv6'da <PossibleEntity>NAT</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/NAT)</URL> ’a ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : Network Address Translation ) duyulan ihtiyaç azalmıştır."
+        },
+        {
+            "id": "IP adresi#57",
+            "sentence": "Kullanılabilecek adres sayısının artması, NAT'ta gerçekleştirilen özel IP adreslerinin (private IP address), genel IP adreslerine (public IP address) dönüştürülmesi ihtiyacını büyük oranda ortadan kaldırabilecektir."
+        }
+    ]
+}

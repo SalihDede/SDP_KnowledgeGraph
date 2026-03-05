@@ -1,0 +1,30 @@
+{
+    "Title": ".biz",
+    "Card": {},
+    "Main": [
+        {
+            "id": ".biz#1",
+            "sentence": ".biz , <PossibleEntity>internetin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> <PossibleEntity>DNS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/DNS)</URL> sisteminde bir <PossibleEntity>üst seviye alan adıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9Cst_seviye_alan_ad%C4%B1)</URL> ."
+        },
+        {
+            "id": ".biz#2",
+            "sentence": "Asıl kullanım amacı işletmeler içindir."
+        },
+        {
+            "id": ".biz#3",
+            "sentence": "İngilizcede işletme anlamına gelen business kelimesinin ilk hecesinin duyulma şeklidir."
+        },
+        {
+            "id": ".biz#4",
+            "sentence": "23 Haziran 2008'de Paris'te gerçekleştirilen 32. <PossibleEntity>İnternet Tahsisli Sayılar ve İsimler Kurumu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_Tahsisli_Say%C4%B1lar_ve_%C4%B0simler_Kurumu)</URL> Toplantısı'nda .biz'in iki milyondan fazla kayıt edildiğini resmi olarak açıklandı."
+        },
+        {
+            "id": ".biz#5",
+            "sentence": "Türkçede . biz 'in biz kelimesi ile aynı olmasından dolayı bu şekilde kullanımlar da bulunmaktadır."
+        },
+        {
+            "id": ".biz#6",
+            "sentence": "Örneğin, turkleriz.biz ve fenerliyiz.biz ."
+        }
+    ]
+}

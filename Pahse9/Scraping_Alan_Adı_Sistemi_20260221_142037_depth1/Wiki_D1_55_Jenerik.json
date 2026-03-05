@@ -1,0 +1,30 @@
+{
+    "Title": "Jenerik",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Jenerik#1",
+            "sentence": "Jenerik , bir <PossibleEntity>filmin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Film)</URL> başındaki veya sonundaki tanıtım yazıları."
+        },
+        {
+            "id": "Jenerik#2",
+            "sentence": "Bazen film başladıktan ve konuya kısa bir giriş yapıldıktan sonra gösterilir."
+        },
+        {
+            "id": "Jenerik#3",
+            "sentence": "Jenerik, filmin adının yanı sıra <PossibleEntity>oyuncular</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Akt%C3%B6r)</URL> ile yapım aşamasında emeği geçen kişi ve kuruluşlar hakkında bilgi verir."
+        },
+        {
+            "id": "Jenerik#4",
+            "sentence": "Çağdaş sinemada açılış jeneriğinde genellikle sadece filmin adı, yönetmeni ve önemli oyuncular listelenir; kapanış jeneriğinde ise film ve yapım ekibi hakkında detaylı bilgi verilir."
+        },
+        {
+            "id": "Jenerik#5",
+            "sentence": "<PossibleEntity>Türkçeye</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)</URL> aynı anlamdaki <PossibleEntity>Fransızca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Frans%C4%B1zca)</URL> générique sözcüğünden geçmiştir."
+        },
+        {
+            "id": "Jenerik#6",
+            "sentence": "Sözcüğün kökü Latince genus (tür) sözcüğüne dayanır."
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "Title": ".org",
+    "Card": {},
+    "Main": [
+        {
+            "id": ".org#1",
+            "sentence": ".org alan adı, <PossibleEntity>İnternet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> 'te kullanılan bir <PossibleEntity>genel üst seviye alan adıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Genel_%C3%BCst_seviye_alan_ad%C4%B1)</URL> (gTLD) ve İngilizce \"organization\" kelimesinin kısaltmasıdır. 1985'te kurulan ilk <PossibleEntity>alan adlarından</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alan_ad%C4%B1)</URL> biridir ve 2003'ten beri <PossibleEntity>Public Interest Registry</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Public_Interest_Registry)</URL> tarafından işletilmektedir."
+        },
+        {
+            "id": ".org#2",
+            "sentence": "Başlangıçta başka bir alan adı için uygun olmayan organizasyonlar için düşünülmüştü ancak sonradan kâr amacı gütmeyen kuruluşlar tarafından kullanımı yaygınlaştı."
+        },
+        {
+            "id": ".org#3",
+            "sentence": "Günümüzde genellikle kâr amacı gütmeyen kuruluşlar, açık kaynak projeleri ve topluluklar tarafından kullanılsa da herkese açıktır. 1990'larda bir milyondan az olan kayıtlı alan sayısı 2012'de on milyona ulaştı. 2024 itibarıyla 11 milyondan fazla .org uzantılı alan adı bulunur."
+        },
+        {
+            "id": ".org#4",
+            "sentence": "\".org\" alan adı, Ocak 1985'te kurulan ilk <PossibleEntity>üst seviye alan adlarından</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9Cst_seviye_alan_ad%C4%B1)</URL> biriydi."
+        },
+        {
+            "id": ".org#5",
+            "sentence": "Diğer ilk kurulan üst seviye alan adları <PossibleEntity>.com</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.com)</URL> , <PossibleEntity>.us</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.us)</URL> , <PossibleEntity>.edu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.edu)</URL> , <PossibleEntity>.gov</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gov)</URL> , <PossibleEntity>.mil</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mil)</URL> ve <PossibleEntity>.net</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.net)</URL> idi. The MITRE Corporation, Temmuz 1985'te mitre.org ile ilk .org alanını kaydettiren kuruluştu."
+        },
+        {
+            "id": ".org#6",
+            "sentence": "Bu <PossibleEntity>TLD</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/TLD)</URL> , 1 Ocak 2003'ten beri <PossibleEntity>Public Interest Registry</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Public_Interest_Registry)</URL> tarafından işletilmektedir, bu görev <PossibleEntity>Verisign</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Verisign)</URL> 'in bir bölümü olan VeriSign Global Registry Services'den devralınmıştır."
+        },
+        {
+            "id": ".org#7",
+            "sentence": "Kasım 2019'da Public Interest Registry (PIR), <PossibleEntity>Internet Society</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Internet_Society)</URL> tarafından Ethos Capital adlı şirkete 1,135 milyar <PossibleEntity>ABD doları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ABD_dolar%C4%B1)</URL> karşılığında satılacaktı."
+        },
+        {
+            "id": ".org#8",
+            "sentence": "PIR, kâr amacı gütmeyen statüsünden vazgeçerek B Corporation olacağını da açıkladı."
+        },
+        {
+            "id": ".org#9",
+            "sentence": "Ancak bu durum, Ethos Capital'in ücretleri artırabileceği veya alan adını sansürleyebileceği endişesiyle eleştirildi."
+        },
+        {
+            "id": ".org#10",
+            "sentence": "Satış, Nisan 2020'de <PossibleEntity>ICANN</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ICANN)</URL> tarafından bu alan adının özel sermaye firmasına devredilmesinin kâr amacı gütmeyen kuruluşlar için \"kabul edilemez belirsizlik\" yaratacağı gerekçesiyle engellendi."
+        }
+    ]
+}

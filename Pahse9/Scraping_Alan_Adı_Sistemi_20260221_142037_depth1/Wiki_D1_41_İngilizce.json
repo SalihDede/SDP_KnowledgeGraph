@@ -1,0 +1,806 @@
+{
+    "Title": "İngilizce",
+    "Card": {},
+    "Main": [
+        {
+            "id": "İngilizce#1",
+            "sentence": "İngilizce ( Englishⓘ, İngilizce telaffuz: [ˈɪŋɡlɪʃ]), ilk olarak 5. yüzyılda İngiltere'de ortaya çıkmış, modern zamanlarda ise küresel bir lingua franca haline gelmiş Batı Cermen dilidir."
+        },
+        {
+            "id": "İngilizce#2",
+            "sentence": "İngilizce günümüzde Birleşik Krallık, Amerika Birleşik Devletleri, Karayipler, Avustralya, İrlanda, Kanada ve Yeni Zelanda'da yaşayan kişilerin çoğunluğunun ana dilini oluşturmaktadır."
+        },
+        {
+            "id": "İngilizce#3",
+            "sentence": "İkinci dil ve resmî dil olarak dünya genelinde, özellikle İngiliz Milletler Topluluğu üyeleri ve çok sayıda uluslararası örgüt tarafından kullanılmaktadır."
+        },
+        {
+            "id": "İngilizce#4",
+            "sentence": "Modern İngilizce, ana dili farklı olan insanların konuştuğu ilk \" <PossibleEntity>küresel ortak dil</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Lingua_franca)</URL> \" olarak tanımlanmaktadır."
+        },
+        {
+            "id": "İngilizce#5",
+            "sentence": "İngilizce iletişim, bilim, ticaret, havacılık, eğlence, radyo ve diplomasi alanlarında egemen uluslararası yardımcı dildir."
+        },
+        {
+            "id": "İngilizce#6",
+            "sentence": "Dilin <PossibleEntity>Britanya Adaları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Britanya_Adalar%C4%B1)</URL> 'ndan öteye yayılarak benimsenmesinde, <PossibleEntity>Britanya İmparatorluğu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Britanya_%C4%B0mparatorlu%C4%9Fu)</URL> ile <PossibleEntity>Amerika Birleşik Devletleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> 'nin <PossibleEntity>II. Dünya Savaşı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/II._D%C3%BCnya_Sava%C5%9F%C4%B1)</URL> sonrasında artan ekonomik ve kültürel etkisi rol oynamıştır."
+        },
+        {
+            "id": "İngilizce#7",
+            "sentence": "İngilizce adı, Eski İngilizcedeki Englisc (yakl. [ˈeŋɡliʃ]) sözcüğünden gelir."
+        },
+        {
+            "id": "İngilizce#8",
+            "sentence": "Englisc , Britanya'ya yerleşen Germen topluluklarından Angluslar ın (Lat. Angli ) adından türetilmiştir."
+        },
+        {
+            "id": "İngilizce#9",
+            "sentence": "Anglus adının kökeni çoğu kez <PossibleEntity>Schleswig-Holstein</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Schleswig-Holstein)</URL> ’daki Angeln yarımadasıyla ilişkilendirilir."
+        },
+        {
+            "id": "İngilizce#10",
+            "sentence": "Ülke adı England , Eski İngilizcedeki Engla land “Anglusların ülkesi” bileşiminden evrilmiştir."
+        },
+        {
+            "id": "İngilizce#11",
+            "sentence": "Orta İngilizce döneminde yazım varyantları yaygındır."
+        },
+        {
+            "id": "İngilizce#12",
+            "sentence": "Kaynaklarda Englissh , Englysshe ve English biçimleri görülür."
+        },
+        {
+            "id": "İngilizce#13",
+            "sentence": "İskoçya'da 16. yüzyıldan itibaren yerel yazı dili için Scottis/Scots adlandırması yerleşmiştir."
+        },
+        {
+            "id": "İngilizce#14",
+            "sentence": "Böylece Inglis adı İngiltere'ye atıf yapan daha dar bir kapsama çekilmiştir."
+        },
+        {
+            "id": "İngilizce#15",
+            "sentence": "Güncel otoglotonim English tir. Başka dillerdeki karşılıklar çoğunlukla Latince–Fransızca çizgisi üzerinden türemiş biçimlerdir."
+        },
+        {
+            "id": "İngilizce#16",
+            "sentence": "Örnek olarak Fransızca anglais , İtalyanca inglese , İspanyolca inglés ve Türkçe İngilizce sayılabilir."
+        },
+        {
+            "id": "İngilizce#17",
+            "sentence": "Türkçedeki İngiliz etnonimi ve İngilizce dil adı, Osmanlı metinlerinde İngiliz/İngilizce biçimleriyle kullanılagelmiş ve modernleşme döneminde standartlaşmıştır."
+        },
+        {
+            "id": "İngilizce#18",
+            "sentence": "Adlandırmada iki ayrım öne çıkar."
+        },
+        {
+            "id": "İngilizce#19",
+            "sentence": "Birincisi, halk adı ( English/İngiliz ) ile dil adı ( English/İngilizce ) eş kökenlidir ancak kullanım bağlamları farklıdır."
+        },
+        {
+            "id": "İngilizce#20",
+            "sentence": "İkincisi, <PossibleEntity>Kelt dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kelt_dilleri)</URL> İngilizceye çoğu kez Sakson ekseninden ad verir."
+        },
+        {
+            "id": "İngilizce#21",
+            "sentence": "Galce Saesneg “Saksonca, İngilizce” anlamındadır."
+        },
+        {
+            "id": "İngilizce#22",
+            "sentence": "İrlandaca Béarla özgün olarak “söz, konuşma” anlamından gelmiştir ve güncel kullanımda çoğunlukla İngilizceyi belirtir."
+        },
+        {
+            "id": "İngilizce#23",
+            "sentence": "İskoç Galcesi Beurla için de benzer bir gelişme söz konusudur."
+        },
+        {
+            "id": "İngilizce#24",
+            "sentence": "Standartlama ve teknik sınıflandırma bağlamında dilin otoglotonimi English <PossibleEntity>ISO 639-1</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ISO_639-1)</URL> kodu en ile gösterilir."
+        },
+        {
+            "id": "İngilizce#25",
+            "sentence": "Bu kod, dilbilim ve bilişim uygulamalarında temel tanımlayıcıdır."
+        },
+        {
+            "id": "İngilizce#26",
+            "sentence": "İngilizce, <PossibleEntity>Hint-Avrupa dil ailesinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hint-Avrupa_dil_ailesi)</URL> <PossibleEntity>Cermen dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Cermen_dilleri)</URL> alt ailesinin bir üyesidir."
+        },
+        {
+            "id": "İngilizce#27",
+            "sentence": "Diğer Cermen dillerinden <PossibleEntity>Almanca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Almanca)</URL> ve <PossibleEntity>Felemenkçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Felemenk%C3%A7e)</URL> ile birlikte bu alt ailenin <PossibleEntity>batı koluna</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bat%C4%B1_Cermen_dilleri)</URL> mensup olan dil, bu grup içerisinde <PossibleEntity>Friz dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Frizce)</URL> ile beraber <PossibleEntity>Anglo-Friz dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anglo-Friz_dilleri)</URL> grubuna bağlıdır."
+        },
+        {
+            "id": "İngilizce#28",
+            "sentence": "Modern İngilizce ve tarihi İngilizce formları ile İngilizce ile çok yakın bir ilişkide olan <PossibleEntity>Scots</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0sko%C3%A7%C3%A7a_(Cermen_dili))</URL> ( <PossibleEntity>Kelt İskoççası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0sko%C3%A7%C3%A7a_(Kelt_dili))</URL> ile karıştırılmamalıdır) <PossibleEntity>İngiliz dilleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngiliz_dilleri)</URL> alt grubunu oluşturmaktadır."
+        },
+        {
+            "id": "İngilizce#29",
+            "sentence": "<PossibleEntity>İzlandaca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0zlandaca)</URL> ve <PossibleEntity>Faroece</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Faroece)</URL> dillerinde olduğu gibi İngilizcenin bir ada grubunda konuşulmasının yarattığı izolasyon, dilin <PossibleEntity>Kıta Avrupası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C4%B1ta_Avrupas%C4%B1)</URL> 'ndaki diğer Cermen dillerinden etkilenmesini engellemiş ve farklılaşmasına neden olmuştur."
+        },
+        {
+            "id": "İngilizce#30",
+            "sentence": "Modern İngilizce, en yakın akrabası olduğu Friz dilleri de dahil olmak üzere hiçbir Anakara Cermen dili ile <PossibleEntity>karşılıklı anlaşılabilirlik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kar%C5%9F%C4%B1l%C4%B1kl%C4%B1_anla%C5%9F%C4%B1labilirlik)</URL> göstermemektedir."
+        },
+        {
+            "id": "İngilizce#31",
+            "sentence": "Eski İngilizce ise <PossibleEntity>Felemenkçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Felemenk%C3%A7e)</URL> ve Frizce ile bazı güçlü benzerliklere sahiptir."
+        },
+        {
+            "id": "İngilizce#32",
+            "sentence": "İngilizce diğer Cermen dilleri ile birlikte ortak <PossibleEntity>Proto Cermence</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Proto_Cermence)</URL> dilinden türediği ve bazı temel özelliklerini diğer Cermen dilleri ile paylaştığı için bir Cermen dili olarak sınıflandırılmaktadır."
+        },
+        {
+            "id": "İngilizce#33",
+            "sentence": "Buna rağmen İngilizce konuşulan bölgeler çeşitli diğer halkların işgaline ve fethine uğradıkları için dil özellikle <PossibleEntity>Norman Fransızcası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Normanca)</URL> ile <PossibleEntity>Eski Norsça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_Nors%C3%A7a)</URL> gibi dillerden büyük oranda etkilenmiştir.   <PossibleEntity>Latince</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Latince)</URL> ve <PossibleEntity>Grekçe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Grek%C3%A7e)</URL> de İngilizce üzerinde söz varlığı açısından yoğun etkilere sahiptir."
+        },
+        {
+            "id": "İngilizce#34",
+            "sentence": "İngilizcenin atası olacak dil, <PossibleEntity>Kavimler Göçü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kavimler_G%C3%B6%C3%A7%C3%BC)</URL> sırasında yer değiştiren <PossibleEntity>Cermen</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Cermenler)</URL> kavimlerinin <PossibleEntity>Britanya Adaları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Britanya_Adalar%C4%B1)</URL> ’ndaki <PossibleEntity>Kelt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Keltler)</URL> topluluklarını gerileterek bölgeye yerleşmesiyle yaygınlaştı."
+        },
+        {
+            "id": "İngilizce#35",
+            "sentence": "Adını <PossibleEntity>Angluslardan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Angluslar)</URL> alan <PossibleEntity>Anglosaksonlar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Anglosaksonlar)</URL> ile <PossibleEntity>Saksonların</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Saksonlar)</URL> karışımı sonucu ortaya çıkan bu dil, konuşurları tarafından “ <PossibleEntity>Anglik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_%C4%B0ngilizce)</URL> ” olarak da anıldı.   <PossibleEntity>Roma İmparatorluğu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Roma_%C4%B0mparatorlu%C4%9Fu)</URL> döneminde adalara gönderilen <PossibleEntity>rahipler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Rahip)</URL> aracılığıyla <PossibleEntity>İncil</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ncil)</URL> çeviri geleneği ve <PossibleEntity>Latince</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Latince)</URL> yazı kültürü güç kazandı; 9.–10. yüzyıllarda ise İskandinav kökenli akınlar ve yerleşimler sonucunda <PossibleEntity>Eski Norsça</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eski_Nors%C3%A7a)</URL> kaynaklı çok sayıda temel sözcük dile girdi ve çekim sisteminde sadeleşme görüldü."
+        },
+        {
+            "id": "İngilizce#36",
+            "sentence": "1066'daki <PossibleEntity>Hastings Savaşı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hastings_Sava%C5%9F%C4%B1)</URL> ve <PossibleEntity>Fâtih William</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/I._William)</URL> 'ın fethiyle yönetici sınıfın dili <PossibleEntity>Norman Fransızcası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Normanca)</URL> oldu. <PossibleEntity>Latince</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Latince)</URL> idari ve hukuki alanlarda egemenliğini sürdürürken halk gündelik yaşamda İngilizce konuşmaya devam etti. Bu iki dillilik süreci, saray, hukuk ve yönetim başta olmak üzere binlerce Fransızca–Latince kökenli alıntının İngilizceye yerleşmesini sağladı."
+        },
+        {
+            "id": "İngilizce#37",
+            "sentence": "Aynı dönemde isim ve sıfat çekimleri yalınlaştı, <PossibleEntity>dilbilgisel cins</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Gramer_cinsi&action=edit&redlink=1)</URL> sistemi çözüldü ve söz dizimi daha sabit söz sırasına yöneldi.   14. yüzyılda <PossibleEntity>Geoffrey Chaucer</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Geoffrey_Chaucer)</URL> ’ın eserleri ve 15. yüzyıl idari yazışmalarında görülen Chancery Standard , <PossibleEntity>Londra</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Londra)</URL> temelli bir yazı normunun yükselişine zemin hazırladı."
+        },
+        {
+            "id": "İngilizce#38",
+            "sentence": "1476’da <PossibleEntity>William Caxton</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/William_Caxton)</URL> ’ın Londra’da matbaayı kurması, yazımda görece bir tutarlılık sağladı ve Londra normunun yayılmasına katkıda bulundu.  15.–17. yüzyıllar arasında gerçekleşen <PossibleEntity>Büyük Ünlü Kayması</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=B%C3%BCy%C3%BCk_%C3%9Cnl%C3%BC_Kaymas%C4%B1&action=edit&redlink=1)</URL> ( Great Vowel Shift ), günümüz yazım–ses eşleşmesindeki düzensizliklerin büyük bölümünü açıklayan kapsamlı bir ses değişimidir.  <PossibleEntity>Shakespeare</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/William_Shakespeare)</URL> ’ın oyunları ve <PossibleEntity>Kral James İncili</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kral_James_Onayl%C4%B1_Kitab-%C4%B1_Mukaddes)</URL> (1611), ortak sözvarlığın ve ifade olanaklarının genişlemesinde kalıcı rol oynadı.  18. yüzyılda standartlaşma, <PossibleEntity>Samuel Johnson</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Samuel_Johnson)</URL> ’ın A Dictionary of the English Language (1755) ve <PossibleEntity>Robert Lowth</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Robert_Lowth&action=edit&redlink=1)</URL> ’ın A Short Introduction to English Grammar (1762) gibi eserlerle güçlendi."
+        },
+        {
+            "id": "İngilizce#39",
+            "sentence": "Sonraki yüzyıllarda <PossibleEntity>Britanya İmparatorluğunun</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Britanya_%C4%B0mparatorlu%C4%9Fu)</URL> yayılması ve <PossibleEntity>Amerika Birleşik Devletleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> ’nin kültürel–ekonomik etkisi, dilin dünya geneline yayılmasını hızlandırdı."
+        },
+        {
+            "id": "İngilizce#40",
+            "sentence": "Günümüzde İngilizce, ana dil sayısı bakımından <PossibleEntity>Çince</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87ince)</URL> ve <PossibleEntity>İspanyolca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0spanyolca)</URL> ile birlikte dünyanın en geniş topluluklarına sahip diller arasındadır."
+        },
+        {
+            "id": "İngilizce#41",
+            "sentence": "Küresel ölçekte ise bilim, iletişim ve popüler kültürde bir lingua franca olarak işlev görmektedir."
+        },
+        {
+            "id": "İngilizce#42",
+            "sentence": "İngilizce, dünya üzerinde ana dil ve ikinci dil olarak toplamda 1,8 milyar insan tarafından konuşulur."
+        },
+        {
+            "id": "İngilizce#43",
+            "sentence": "Ana dili İngilizce olanlar daha çok <PossibleEntity>Amerika</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika)</URL> , <PossibleEntity>Avustralya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avustralya)</URL> ve <PossibleEntity>Büyük Britanya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Britanya)</URL> adalarında bulunmaktadır."
+        },
+        {
+            "id": "İngilizce#44",
+            "sentence": "Ana dili İngilizce olanların en fazla olduğu yer <PossibleEntity>Amerika Birleşik Devletleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> 'dir. Ayrıca <PossibleEntity>Okyanusya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Okyanusya)</URL> 'da da çok konuşulan bir dildir."
+        },
+        {
+            "id": "İngilizce#45",
+            "sentence": "Dünya üzerinde birçok ülkede resmî dil İngilizcedir."
+        },
+        {
+            "id": "İngilizce#46",
+            "sentence": "Hint dil bilimci Braj Kachru, İngilizce konuşulan ülkeleri üç daire modeliyle ayırmıştır."
+        },
+        {
+            "id": "İngilizce#47",
+            "sentence": "Onun modelinde,"
+        },
+        {
+            "id": "İngilizce#48",
+            "sentence": "Kachru, modelini İngilizcenin farklı ülkelerde nasıl yayıldığının, kullanıcıların İngilizceyi nasıl edindiğinin ve İngilizcenin her ülkede kullanım alanlarının geçmişine dayandırdı."
+        },
+        {
+            "id": "İngilizce#49",
+            "sentence": "Üç daire üyeliği zamanla değiştirir."
+        },
+        {
+            "id": "İngilizce#50",
+            "sentence": "Ana dili İngilizce olan geniş topluluklara sahip ülkeler (iç halka), çoğunluğun İngilizce konuştuğu <PossibleEntity>İngiltere</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngiltere)</URL> , <PossibleEntity>Amerika Birleşik Devletleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> , <PossibleEntity>Avustralya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avustralya)</URL> , <PossibleEntity>Kanada</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kanada)</URL> , <PossibleEntity>İrlanda</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0rlanda)</URL> ve <PossibleEntity>Yeni Zelanda</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yeni_Zelanda)</URL> ile önemli bir azınlığın İngilizce konuştuğu <PossibleEntity>Güney Afrika'yı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCney_Afrika_Cumhuriyeti)</URL> içerir."
+        },
+        {
+            "id": "İngilizce#51",
+            "sentence": "En çok ana dili İngilizce olan ülkeler, azalan sırayla <PossibleEntity>Amerika Birleşik Devletleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> (en az 231 milyon),  Birleşik Krallık (60 milyon),    Kanada (19 milyon),  Avustralya (en az 17 milyon),  Güney Afrika (4,8 milyon),  İrlanda (4,2 milyon) ve Yeni Zelanda (3,7 milyon)."
+        },
+        {
+            "id": "İngilizce#52",
+            "sentence": "Bu ülkelerde, ana dili İngilizce olanların çocukları, ebeveynlerinden İngilizce öğrenirler ve diğer dilleri konuşan yerel halk ve yeni göçmenler, mahallelerinde ve işyerlerinde iletişim kurmak için İngilizce öğrenirler."
+        },
+        {
+            "id": "İngilizce#53",
+            "sentence": "İç çevre ülkeleri, İngilizcenin dünyadaki diğer ülkelere yayıldığı temeli sağlar."
+        },
+        {
+            "id": "İngilizce#54",
+            "sentence": "İkinci dili ve yabancı dili İngilizce konuşanların sayısına ilişkin tahminler, yeterliliğin nasıl tanımlandığına bağlı olarak 470 milyondan 1 milyarın üzerine kadar büyük farklılıklar gösteriyor."
+        },
+        {
+            "id": "İngilizce#55",
+            "sentence": "Dilbilimci <PossibleEntity>David Crystal</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/David_Crystal)</URL> , ana dili olmayanların sayısının artık ana dili konuşanlardan 3'e 1 oranında daha fazla olduğunu tahmin ediyor."
+        },
+        {
+            "id": "İngilizce#56",
+            "sentence": "Kachru'nun üç daire modelinde, \"dış daire\" ülkeleri <PossibleEntity>Filipinler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Filipinler)</URL> ,  <PossibleEntity>Jamaika</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Jamaika)</URL> ,  <PossibleEntity>Hindistan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hindistan)</URL> , <PossibleEntity>Pakistan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Pakistan)</URL> , <PossibleEntity>Singapur</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Singapur)</URL> ,  <PossibleEntity>Malezya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Malezya)</URL> ve <PossibleEntity>Nijerya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nijerya)</URL> gibi ülkelerdir."
+        },
+        {
+            "id": "İngilizce#57",
+            "sentence": "Bu ülkelerde, İngilizce temelli bir kreolden daha standart bir İngilizce versiyonuna kadar değişen milyonlarca ana dili lehçesi vardır."
+        },
+        {
+            "id": "İngilizce#58",
+            "sentence": "Özellikle eğitim dilinin İngilizce olduğu okullara gidiyorlarsa, büyüdükçe ve günlük kullanımla ve yayınları dinleyerek İngilizce öğrenen çok daha fazla İngilizce konuşmacısı var. Ana dili İngilizce olmayan ve İngilizce konuşan ebeveynlerden doğanların öğrendiği İngilizce çeşitleri, özellikle gramerlerinde, bu öğrenciler tarafından konuşulan diğer dillerden etkilenebilir."
+        },
+        {
+            "id": "İngilizce#59",
+            "sentence": "Bu İngilizce çeşitlerinin çoğu, iç çevre ülkelerde ana dili İngilizce olan kişiler tarafından çok az kullanılan kelimeleri içerir,  dil bilgisi ve fonolojik olarak iç çember çeşitlerinden de farklılıklar gösterebilirler."
+        },
+        {
+            "id": "İngilizce#60",
+            "sentence": "İç çevre ülkelerinin standart İngilizcesi, genellikle dış çevre ülkelerdeki İngilizcenin kullanımı için bir norm olarak alınır."
+        },
+        {
+            "id": "İngilizce#61",
+            "sentence": "Üç daire modelinde <PossibleEntity>Polonya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Polonya)</URL> , <PossibleEntity>Çin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87in)</URL> , <PossibleEntity>Brezilya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Brezilya)</URL> , <PossibleEntity>Almanya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Almanya)</URL> , <PossibleEntity>Japonya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Japonya)</URL> , <PossibleEntity>Endonezya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Endonezya)</URL> , <PossibleEntity>Mısır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/M%C4%B1s%C4%B1r)</URL> gibi ülkeler ve İngilizcenin yabancı dil olarak öğretildiği diğer ülkeler \"genişleyen daire\"yi oluşturmaktadır."
+        },
+        {
+            "id": "İngilizce#62",
+            "sentence": "Birinci dil, ikinci dil ve yabancı dil olarak İngilizce arasındaki farklar genellikle tartışmalıdır ve belirli ülkelerde zaman içinde değişebilir."
+        },
+        {
+            "id": "İngilizce#63",
+            "sentence": "Örneğin, <PossibleEntity>Hollanda'da</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hollanda)</URL> ve diğer bazı <PossibleEntity>Avrupa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avrupa)</URL> ülkelerinde, ikinci dil olarak İngilizce bilgisi neredeyse evrenseldir ve nüfusun yüzde 80'inden fazlası İngilizceyi kullanabilir,  ve bu nedenle İngilizce rutin olarak yabancılarla ve genellikle yüksek öğrenimde iletişim kurmak için kullanılır."
+        },
+        {
+            "id": "İngilizce#64",
+            "sentence": "Bu ülkelerde, İngilizce devlet işleri için kullanılmasa da, yaygın kullanımı onları \"dış daire\" ile \"genişleyen daire\" arasındaki sınıra yerleştirir."
+        },
+        {
+            "id": "İngilizce#65",
+            "sentence": "İngilizce, kullanıcılarının kaçının ana dili değil, ikinci veya yabancı dil olarak İngilizce konuşanlar olması nedeniyle dünya dilleri arasında sıra dışıdır."
+        },
+        {
+            "id": "İngilizce#66",
+            "sentence": "Genişleyen çevredeki birçok İngilizce kullanıcısı, onu genişleyen çevredeki diğer insanlarla iletişim kurmak için kullanır, böylece ana dili İngilizce olanlarla etkileşim, dili kullanma kararlarında hiçbir rol oynamaz."
+        },
+        {
+            "id": "İngilizce#67",
+            "sentence": "Yerel olmayan İngilizce türleri, uluslararası iletişim için yaygın olarak kullanılır ve bu türden bir türün konuşmacıları genellikle diğer türlerin özellikleriyle karşılaşır."
+        },
+        {
+            "id": "İngilizce#68",
+            "sentence": "Bugün dünyanın herhangi bir yerindeki İngilizce bir sohbette, birçok farklı ülkeden konuşmacılar dahil olsa bile, ana dili İngilizce olan hiç kimse olmayabilir."
+        },
+        {
+            "id": "İngilizce#69",
+            "sentence": "Bu özellikle matematik ve bilimlerin ortak söz dağarcığı için geçerlidir."
+        },
+        {
+            "id": "İngilizce#70",
+            "sentence": "İngilizce çok merkezli bir dildir, bu da hiçbir ulusal otoritenin dilin kullanım standardını belirlemediği anlamına gelir."
+        },
+        {
+            "id": "İngilizce#71",
+            "sentence": "Konuşulan İngilizce, örneğin yayında kullanılan İngilizce, genellikle yönetmeliklerden ziyade gelenekler tarafından belirlenen ulusal telaffuz standartlarını takip eder. Uluslararası yayıncıların genellikle aksanlarından başka bir ülkeden çok bir ülkeden geldikleri anlaşılır,  ancak haber spikeri senaryoları da büyük ölçüde uluslararası standart yazılı İngilizce ile yazılır."
+        },
+        {
+            "id": "İngilizce#72",
+            "sentence": "Standart yazılı İngilizce normları, herhangi bir hükûmet veya uluslararası kuruluş tarafından herhangi bir gözetim olmaksızın, tamamen dünyanın her yerindeki eğitimli İngilizce konuşanların fikir birliği ile korunur."
+        },
+        {
+            "id": "İngilizce#73",
+            "sentence": "Amerikalı dinleyiciler genellikle İngiliz yayınlarının çoğunu kolayca anlarlar ve İngiliz dinleyiciler Amerikan yayınlarının çoğunu kolayca anlarlar."
+        },
+        {
+            "id": "İngilizce#74",
+            "sentence": "Dünyanın her yerindeki İngilizce konuşanların çoğu, İngilizce konuşulan dünyanın birçok yerindeki radyo programlarını, televizyon programlarını ve filmleri anlayabilir."
+        },
+        {
+            "id": "İngilizce#75",
+            "sentence": "Hem standart hem de standart olmayan İngilizce çeşitleri, kelime seçimi ve söz dizimi ile ayırt edilen ve hem teknik hem de teknik olmayan kayıtları kullanan hem resmî hem de gayriresmî stilleri içerebilir."
+        },
+        {
+            "id": "İngilizce#76",
+            "sentence": "İngiltere dışındaki İngilizce konuşan yakın çevre ülkelerinin yerleşim tarihi, Güney Afrika, Avustralya ve Yeni Zelanda'da lehçe ayrımlarının düzeltilmesine ve koineleştirilmiş İngilizce biçimlerinin üretilmesine yardımcı oldu.  Amerika Birleşik Devletleri'ne İngiliz soyundan gelmeyen göçmenlerin çoğu, geldikten sonra İngilizceyi hızla benimsedi."
+        },
+        {
+            "id": "İngilizce#77",
+            "sentence": "Şu anda Amerika Birleşik Devletleri nüfusunun çoğunluğu tek dilli İngilizce konuşmaktadır   ve İngilizceye 50 eyalet hükûmetinin 30'u ve ABD'nin beş bölgesel hükûmetinin tümü tarafından resmî veya eş resmî statü verilmiştir; ayrıca **1 Mart 2025 tarihli 14224 sayılı Başkanlık Kararnamesi** ile İngilizce federal düzeyde **resmî dil** olarak belirlenmiştir."
+        },
+        {
+            "id": "İngilizce#78",
+            "sentence": "İngilizce, ana dili konuşur sayısı bakımından Çince ve İspanyolcadan sonra gelir."
+        },
+        {
+            "id": "İngilizce#79",
+            "sentence": "Buna karşılık toplam (L1+L2) konuşur sayısında dünyada birincidir."
+        },
+        {
+            "id": "İngilizce#80",
+            "sentence": "Küresel olarak İngilizce iletişim dili olarak kabul edilir."
+        },
+        {
+            "id": "İngilizce#81",
+            "sentence": "Bu yüzden 1 milyarı aşkın kişi en basit seviyede de olsa İngilizce bilmektedir."
+        },
+        {
+            "id": "İngilizce#82",
+            "sentence": "Bununla birlikte İngilizce en fazla bilinen 2. dil olma özelliğini de kapsar."
+        },
+        {
+            "id": "İngilizce#83",
+            "sentence": "İngilizce dünyanın çoğu yerinde konuşulur."
+        },
+        {
+            "id": "İngilizce#84",
+            "sentence": "İngilizce günümüzde uluslararası dil, iletişim dili ya da dünya dili olarak anılır ve birçok meslek için gereklilik haline gelmiştir."
+        },
+        {
+            "id": "İngilizce#85",
+            "sentence": "Resmî dil olmadığı pek çok ülkede yabancı dil olarak öğretilir."
+        },
+        {
+            "id": "İngilizce#86",
+            "sentence": "Avrupa'da İngilizce, resmî dil olmadığı 25 üye ülkenin büyük kısmında en yaygın yabancı dildir ve nüfusun yaklaşık yarısı İngilizceyi yabancı ya da ikinci dil olarak bildiğini belirtir.  <PossibleEntity>Birleşmiş Milletler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Birle%C5%9Fmi%C5%9F_Milletler)</URL> 'in resmî dillerinden biridir."
+        },
+        {
+            "id": "İngilizce#87",
+            "sentence": "İngilizcenin küresel ölçekte hızla yayılması bazı araştırmacılara göre dilsel çeşitliliğin azalmasına ve kimi dillerin yok olma baskısıyla karşılaşmasına yol açabilir."
+        },
+        {
+            "id": "İngilizce#88",
+            "sentence": "Öte yandan dil, farklı coğrafyalarda “dünya İngilizceleri” adıyla anılan yerel çeşitlerle genişler ve zaman içinde yeni varyantların ortaya çıkma potansiyelini korur."
+        },
+        {
+            "id": "İngilizce#89",
+            "sentence": "1950'lerde ve 1960'larda Britanya İmparatorluğu boyunca <PossibleEntity>dekolonizasyon</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dekolonizasyon)</URL> ilerledikçe, eski koloniler genellikle İngilizceyi reddetmedi, bunun yerine kendi dil politikalarını belirleyen bağımsız ülkeler olarak İngilizceyi kullanmaya devam ettiler."
+        },
+        {
+            "id": "İngilizce#90",
+            "sentence": "Örneğin, pek çok Kızılderili arasında İngilizceye ilişkin görüş, onu sömürgecilikle ilişkilendirmekten, onu ekonomik ilerlemeyle ilişkilendirmeye geçmiştir ve İngilizce, <PossibleEntity>Hindistan'ın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hindistan)</URL> resmi dili olmaya devam etmektedir."
+        },
+        {
+            "id": "İngilizce#91",
+            "sentence": "İngilizce, medya ve edebiyatta da yaygın olarak kullanılmaktadır ve Hindistan'da her yıl yayınlanan İngilizce kitap sayısı, ABD ve Birleşik Krallık'tan sonra dünyanın en büyük üçüncü yayınlanan İngilizce kitap sayısıdır."
+        },
+        {
+            "id": "İngilizce#92",
+            "sentence": "Bununla birlikte, İngilizce nadiren birinci dil olarak konuşulur, yalnızca birkaç yüz bin kişi civarındadır ve Hindistan'da nüfusun %5'inden azı akıcı İngilizce konuşmaktadır."
+        },
+        {
+            "id": "İngilizce#93",
+            "sentence": "David Crystal 2004'te, ana dili İngilizce olan ve olmayanları bir araya getirerek, Hindistan'ın şu anda dünyadaki herhangi bir ülkeden daha fazla İngilizce konuşan veya anlayan insana sahip olduğunu iddia etti  ancak Hindistan'daki İngilizce konuşanların sayısı belirsizdir, çoğu akademisyen <PossibleEntity>Amerika Birleşik Devletleri'nin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> hala Hindistan'dan daha fazla İngilizce konuşanı olduğu sonucuna varmaktadır."
+        },
+        {
+            "id": "İngilizce#94",
+            "sentence": "Bazen ilk küresel <PossibleEntity>lingua franca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Lingua_franca)</URL> olarak tanımlanan modern İngilizce,   aynı zamanda birinci dünya dili olarak kabul edilir."
+        },
+        {
+            "id": "İngilizce#95",
+            "sentence": "İngilizce, gazete yayıncılığı, kitap yayıncılığı, uluslararası telekomünikasyon, bilimsel yayıncılık, uluslararası ticaret, kitlesel eğlence ve diplomaside dünyanın en yaygın kullanılan dilidir."
+        },
+        {
+            "id": "İngilizce#96",
+            "sentence": "İngilizce, uluslararası anlaşma gereği, uluslararası denizcilik  ve havacılık dilidir."
+        },
+        {
+            "id": "İngilizce#97",
+            "sentence": "Seaspeak ve Airspeak'in temelidir."
+        },
+        {
+            "id": "İngilizce#98",
+            "sentence": "Eskiden İngilizce, bilimsel araştırmalarda <PossibleEntity>Fransızca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Frans%C4%B1zca)</URL> ve <PossibleEntity>Almancaya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Almanca)</URL> eşitti, ancak şimdi bu alana hakim.  1919'daki <PossibleEntity>Versay Antlaşması</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Versay_Bar%C4%B1%C5%9F_Antla%C5%9Fmas%C4%B1)</URL> müzakerelerinde bir diplomasi dili olarak <PossibleEntity>Fransızca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Frans%C4%B1zca)</URL> ile eşitlik sağladı.   <PossibleEntity>II. Dünya Savaşı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/II._D%C3%BCnya_Sava%C5%9F%C4%B1)</URL> ve şu anda dünya çapında diplomasi ve uluslararası ilişkilerin ana dilidir.  <PossibleEntity>Uluslararası Olimpiyat Komitesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Uluslararas%C4%B1_Olimpiyat_Komitesi)</URL> de dahil olmak üzere dünya çapındaki diğer birçok uluslararası kuruluş, kuruluşun çalışma dili veya resmî dili olarak İngilizceyi belirtir."
+        },
+        {
+            "id": "İngilizce#99",
+            "sentence": "<PossibleEntity>Avrupa Serbest Ticaret Birliği</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avrupa_Serbest_Ticaret_Birli%C4%9Fi)</URL> , <PossibleEntity>Güneydoğu Asya Uluslar Birliği</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/ASEAN)</URL> (ASEAN),  ve <PossibleEntity>Asya-Pasifik Ekonomik İşbirliği</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Asya-Pasifik_Ekonomik_%C4%B0%C5%9Fbirli%C4%9Fi)</URL> (APEC) gibi birçok bölgesel uluslararası kuruluş, çoğu üye bir ülke olmasa da İngilizceyi kuruluşlarının tek çalışma dili olarak belirledi. <PossibleEntity>Avrupa Birliği</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avrupa_Birli%C4%9Fi)</URL> (AB), üye devletlerin ulusal dillerden herhangi birini birliğin resmî dili olarak belirlemesine izin verirken, pratikte İngilizce, AB kuruluşlarının ana çalışma dilidir."
+        },
+        {
+            "id": "İngilizce#100",
+            "sentence": "Çoğu ülkede İngilizce resmî bir dil olmasa da, şu anda en sık yabancı dil olarak öğretilen dildir.   <PossibleEntity>AB</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avrupa_Birli%C4%9Fi)</URL> ülkelerinde İngilizce, resmi dil olmadığı yirmi beş üye devletin on dokuzunda (yani, <PossibleEntity>İrlanda</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0rlanda)</URL> ve <PossibleEntity>Malta</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Malta)</URL> dışındaki ülkelerde) en çok konuşulan yabancı dildir.). 2012 resmi bir Eurobarometer anketinde (Birleşik Krallık henüz AB üyesiyken gerçekleştirildi), İngilizcenin resmi dil olduğu ülkeler dışındaki AB'de yanıt verenlerin yüzde 38'i, İngilizceyi o dilde sohbet edecek kadar iyi konuşabildiklerini söyledi."
+        },
+        {
+            "id": "İngilizce#101",
+            "sentence": "Bir sonraki en sık bahsedilen yabancı dil olan <PossibleEntity>Fransızca</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Frans%C4%B1zca)</URL> (Birleşik Krallık ve İrlanda'da en çok bilinen yabancı dildir), katılımcıların yüzde 12'si tarafından konuşmalarda kullanılabilir."
+        },
+        {
+            "id": "İngilizce#102",
+            "sentence": "<PossibleEntity>Tıp</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C4%B1p)</URL> ve bilgisayar gibi bir dizi meslek ve meslekte İngilizce çalışma bilgisi bir gereklilik haline geldi."
+        },
+        {
+            "id": "İngilizce#103",
+            "sentence": "İngilizce, bilimsel yayıncılıkta o kadar önemli hale geldi ki, 1998'de Chemical Abstracts tarafından indekslenen tüm bilimsel dergi makalelerinin yüzde 80'inden fazlası, 1996'da doğa bilimleri yayınlarındaki tüm makalelerin yüzde 90'ı ve beşeri bilimler yayınlarındaki makalelerin yüzde 82'si İngilizce olarak yazıldı."
+        },
+        {
+            "id": "İngilizce#104",
+            "sentence": "Uluslararası iş adamları gibi uluslararası topluluklar, ilgi alanlarına uygun kelime dağarcığına vurgu yaparak İngilizceyi yardımcı dil olarak kullanabilirler."
+        },
+        {
+            "id": "İngilizce#105",
+            "sentence": "Bu, bazı akademisyenlerin İngilizce çalışmalarını yardımcı bir dil olarak geliştirmelerine yol açtı. Ticari markalı Globish, standart İngilizce dilbilgisi ile birlikte İngilizce kelime dağarcığının nispeten küçük bir alt kümesini (uluslararası iş İngilizcesinde en yüksek kullanımı temsil etmek üzere tasarlanmış yaklaşık 1.500 kelime) kullanır."
+        },
+        {
+            "id": "İngilizce#106",
+            "sentence": "İngilizce dilinin küresel olarak artan kullanımı, diğer dilleri de etkilemiş ve bazı İngilizce kelimelerin diğer dillerin kelime dağarcığına asimile edilmesine yol açmıştır."
+        },
+        {
+            "id": "İngilizce#107",
+            "sentence": "İngilizcenin bu etkisi, dilin ölümüyle ilgili endişelere  ve dilsel emperyalizm iddialarına  yol açtı ve İngilizcenin yayılmasına karşı direnişi kışkırttı; ancak konuşanların sayısı artmaya devam ediyor çünkü dünya çapında birçok insan İngilizcenin kendilerine daha iyi istihdam ve daha iyi yaşam fırsatları sağladığını düşünüyor."
+        },
+        {
+            "id": "İngilizce#108",
+            "sentence": "Her ne kadar bazı alimler İngilizce lehçelerinin gelecekte karşılıklı olarak anlaşılmaz dillere dönüşme olasılığından bahsetse de, çoğu kişi daha olası bir sonucun, İngilizcenin standart biçimin dünyanın dört bir yanından gelen konuşmacıları birleştirdiği ortaklaştırılmış bir dil olarak işlev görmeye devam edeceği olduğunu düşünüyor."
+        },
+        {
+            "id": "İngilizce#109",
+            "sentence": "İngilizce, dünyanın dört bir yanındaki ülkelerde daha geniş iletişim dili olarak kullanılmaktadır."
+        },
+        {
+            "id": "İngilizce#110",
+            "sentence": "Böylece İngilizce, dünya çapında kullanımda, <PossibleEntity>Esperanto</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Esperanto)</URL> da dahil olmak üzere uluslararası bir yardımcı dil olarak önerilen herhangi bir yapılandırılmış dilden çok daha fazla büyüdü."
+        },
+        {
+            "id": "İngilizce#111",
+            "sentence": "Dünya çapında İngilizceye farklı kurumsal roller verilmiştir."
+        },
+        {
+            "id": "İngilizce#112",
+            "sentence": "Aşağıda öne çıkan ve kaynaklandırılmış bazı örnekler yer almaktadır."
+        },
+        {
+            "id": "İngilizce#113",
+            "sentence": "2025 itibarıyla web içeriği dilleri içinde İngilizce yaklaşık %49 pay ile ilk sıradadır."
+        },
+        {
+            "id": "İngilizce#114",
+            "sentence": "İnternet ve yazılım standartlarında dil tanımlama için yaygın biçimde <PossibleEntity>IETF</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IETF)</URL> 'nin BCP 47 etiketleri kullanılır."
+        },
+        {
+            "id": "İngilizce#115",
+            "sentence": "İngilizce için “en”, bölgesel varyantlar için “en-GB” ve “en-US” gibi etiketler temel örneklerdir."
+        },
+        {
+            "id": "İngilizce#116",
+            "sentence": "<PossibleEntity>Unicode</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Unicode)</URL> 'un CLDR veri tabanı, yazılımların yerelleştirme için kullandığı en büyük ortak yerel ayar deposudur."
+        },
+        {
+            "id": "İngilizce#117",
+            "sentence": "Birçok modern platform CLDR'yi varsayılan kaynak olarak kullanır. <PossibleEntity>Java</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Java)</URL> 'da bu yaklaşım JEP 252 ile benimsenmiştir."
+        },
+        {
+            "id": "İngilizce#118",
+            "sentence": "Bilimsel yayıncılık, açık kaynak belgeleri ve çevrimiçi teknik dokümantasyon alanlarında İngilizce çoğu zaman ortak yazı dili işlevi görür."
+        },
+        {
+            "id": "İngilizce#119",
+            "sentence": "Bu durum, disiplinler arası iletişim ve bilgi paylaşımı için ortak bir terminoloji zemini sağlar."
+        },
+        {
+            "id": "İngilizce#120",
+            "sentence": "İngilizce <PossibleEntity>fonolojisi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fonoloji)</URL> lehçeler arasında değişken olmakla birlikte, çoğu çeşitte yaklaşık 24 <PossibleEntity>ünsüz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9Cns%C3%BCz)</URL> ve 14–20 arası <PossibleEntity>ünlü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9Cnl%C3%BC)</URL> / <PossibleEntity>ikili ünlü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Diftong)</URL> ayırt edilir.  <PossibleEntity>Vurgu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vurgu_(dilbilim))</URL> genellikle sözün kök hecesine yakındır ve <PossibleEntity>tonlama</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Tonlama&action=edit&redlink=1)</URL> kalıpları anlam ayrımında belirleyicidir."
+        },
+        {
+            "id": "İngilizce#121",
+            "sentence": "Büyük Ünlü Kayması modern standartların ses sistemlerini derinden etkilemiş."
+        },
+        {
+            "id": "İngilizce#122",
+            "sentence": "Yazımla ses arasındaki düzensizliklerin önemli bir kısmı bu tarihsel değişimlerden kaynaklanmıştır."
+        },
+        {
+            "id": "İngilizce#123",
+            "sentence": "<PossibleEntity>/θ/</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96t%C3%BCms%C3%BCz_di%C5%9Fsil_s%C3%BCrt%C3%BCnmeli_%C3%BCns%C3%BCz)</URL> ve <PossibleEntity>/ð/</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96t%C3%BCml%C3%BC_di%C5%9Fsil_s%C3%BCrt%C3%BCnmeli_%C3%BCns%C3%BCz)</URL> İngilizcenin ayırt edici özelliklerindendir; bazı lehçelerde /f, v/ ya da /t, d/ ile yer değiştirebilir (ör. Londra çevresi, bazı <PossibleEntity>Güney Asya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCney_Asya)</URL> çeşitleri)."
+        },
+        {
+            "id": "İngilizce#124",
+            "sentence": "Kuzey Amerika çeşitlerinde (özellikle <PossibleEntity>Amerikan İngilizcesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerikan_%C4%B0ngilizcesi)</URL> ) ve <PossibleEntity>İrlanda İngilizcesinde</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=%C4%B0rlanda_%C4%B0ngilizcesi&action=edit&redlink=1)</URL> rotiklik baskınken, <PossibleEntity>İngiliz İngilizcesinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngiliz_%C4%B0ngilizcesi)</URL> birçok çeşidi rotik değildir."
+        },
+        {
+            "id": "İngilizce#125",
+            "sentence": "İngilizcede <PossibleEntity>cümle vurgusu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vurgu_(dilbilim))</URL> bilgi yapısıyla yakından ilişkilidir: bilinen (given) bilgi çoğu kez deaksentlenir, yeni ya da <PossibleEntity>odak</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Odak_(dilbilim)&action=edit&redlink=1)</URL> bilgi ise çekirdek vurguyu ( nuclear stress ) taşır."
+        },
+        {
+            "id": "İngilizce#126",
+            "sentence": "Varsayılan olarak çekirdek vurgu sağdaki içerik sözcüğüne düşer; karşıtsal odakta vurgu ilgili ögeye kayar."
+        },
+        {
+            "id": "İngilizce#127",
+            "sentence": "Diyalektologlar, genellikle dilbilgisi, kelime dağarcığı ve telaffuz kalıpları açısından birbirinden farklı bölgesel çeşitlere atıfta bulunan birçok İngilizce lehçeyi tanımlar."
+        },
+        {
+            "id": "İngilizce#128",
+            "sentence": "Belirli alanların telaffuzu, lehçeleri ayrı bölgesel vurgular olarak ayırır."
+        },
+        {
+            "id": "İngilizce#129",
+            "sentence": "İngilizcenin ana yerel lehçeleri, dilbilimciler tarafından genellikle <PossibleEntity>İngiliz İngilizcesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngiliz_%C4%B0ngilizcesi)</URL> (BrE) ve <PossibleEntity>Kuzey Amerika İngilizcesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerikan_%C4%B0ngilizcesi)</URL> (NAE) olmak üzere son derece genel iki kategoriye ayrılır."
+        },
+        {
+            "id": "İngilizce#130",
+            "sentence": "İngilizce çeşitlerinin üçüncü bir ortak ana grubu da vardır: en belirgin olanı <PossibleEntity>Avustralya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avustralya_%C4%B0ngilizcesi)</URL> ve <PossibleEntity>Yeni Zelanda İngilizcesidir.</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yeni_Zelanda_%C4%B0ngilizcesi)</URL>"
+        },
+        {
+            "id": "İngilizce#131",
+            "sentence": "İngiliz dili ilk olarak <PossibleEntity>Britanya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/B%C3%BCy%C3%BCk_Britanya)</URL> ve <PossibleEntity>İrlanda'da</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0rlanda)</URL> geliştiğinden, takımadalar, özellikle İngiltere'de en çeşitli lehçelere ev sahipliği yapmaktadır."
+        },
+        {
+            "id": "İngilizce#132",
+            "sentence": "Birleşik Krallık içinde, Güney Doğu İngiltere'nin eğitimli bir lehçesi olan Received Pronunciation (RP), geleneksel olarak yayın standardı olarak kullanılır ve İngiliz lehçelerinin en prestijlisi olarak kabul edilir."
+        },
+        {
+            "id": "İngilizce#133",
+            "sentence": "RP'nin (BBC English olarak da bilinir) medya aracılığıyla yayılması, gençler yerel lehçelerin özellikleri yerine prestij çeşitliliğinin özelliklerini benimsediğinden, İngiltere kırsalındaki birçok geleneksel lehçenin geri çekilmesine neden oldu. İngiliz Lehçeleri Araştırması sırasında, dilbilgisi ve sözcük dağarcığı ülke çapında farklılık gösteriyordu, ancak sözcüksel yıpranma süreci bu çeşitliliğin çoğunun ortadan kalkmasına neden oldu."
+        },
+        {
+            "id": "İngilizce#134",
+            "sentence": "Bununla birlikte, bu yıpranma, çoğunlukla dilbilgisi ve kelime dağarcığındaki diyalektik çeşitliliği etkilemiştir ve aslında, İngiliz nüfusunun yalnızca yüzde 3'ü fiilen RP konuşur, geri kalanı, değişen derecelerde RP etkisine sahip bölgesel aksanlar ve lehçelerde konuşur."
+        },
+        {
+            "id": "İngilizce#135",
+            "sentence": "RP içinde, özellikle Üst ve Orta sınıf RP konuşmacıları arasında ve ana dili RP konuşmacıları ile RP'yi daha sonraki yaşamlarında benimseyen konuşmacılar arasında sınıf çizgileri boyunca da değişkenlik vardır."
+        },
+        {
+            "id": "İngilizce#136",
+            "sentence": "Britanya içinde, sosyal sınıf çizgileri boyunca da önemli farklılıklar vardır ve son derece yaygın olmasına rağmen bazı özellikler \"standart dışı\" olarak kabul edilir ve alt sınıf konuşmacılar ve kimliklerle ilişkilendirilir."
+        },
+        {
+            "id": "İngilizce#137",
+            "sentence": "Bunun bir örneği H-düşmesidir., tarihsel olarak alt sınıf Londra İngilizcesinin, özellikle de Cockney'in bir özelliği olan ve şimdi İngiltere'nin çoğu bölgesinin yerel aksanlarında duyulabilen - yine de yayıncılıkta ve İngiliz toplumunun üst tabakası arasında büyük ölçüde yok olmaya devam ediyor."
+        },
+        {
+            "id": "İngilizce#138",
+            "sentence": "İngiltere'de İngilizce, Güneybatı İngilizcesi, Güney Doğu İngilizcesi, Midlands İngilizcesi ve Kuzey İngilizcesi olmak üzere dört ana lehçe bölgesine ayrılabilir."
+        },
+        {
+            "id": "İngilizce#139",
+            "sentence": "Bu bölgelerin her birinde birkaç yerel alt lehçe mevcuttur: Kuzey bölgesinde, Newcastle civarında Northumbria'da konuşulan Yorkshire lehçeleri ve Geordie lehçesi ile <PossibleEntity>Liverpool</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Liverpool)</URL> (Scouse) ve <PossibleEntity>Manchester'da</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Manchester)</URL> (Mancunian) yerel şehir lehçeleri ile Lancashire lehçeleri arasında bir ayrım vardır.)."
+        },
+        {
+            "id": "İngilizce#140",
+            "sentence": "Viking İstilaları sırasında Danimarka işgalinin merkezi olan Kuzey İngiliz lehçeleri, özellikle Yorkshire lehçesi, diğer İngiliz çeşitlerinde bulunmayan İskandinav özelliklerini koruyor."
+        },
+        {
+            "id": "İngilizce#141",
+            "sentence": "15. yüzyıldan beri, güneydoğu İngiltere çeşitleri, diyalektik yeniliklerin diğer lehçelere yayıldığı merkez olan Londra'da yoğunlaşmıştır."
+        },
+        {
+            "id": "İngilizce#142",
+            "sentence": "Londra'da, Cockney lehçesi geleneksel olarak alt sınıflar tarafından kullanılıyordu ve uzun süredir sosyal olarak damgalanmış bir çeşitti."
+        },
+        {
+            "id": "İngilizce#143",
+            "sentence": "Cockney özelliklerinin güneydoğuya yayılması, medyanın Estuary English'ten yeni bir lehçe olarak bahsetmesine yol açtı, ancak bu kavram, <PossibleEntity>Londra'nın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Londra)</URL> tarih boyunca komşu bölgeleri etkilediği gerekçesiyle birçok dilbilimci tarafından eleştirildi."
+        },
+        {
+            "id": "İngilizce#144",
+            "sentence": "Son yıllarda Londra'dan yayılan özellikler arasında müdahaleci R kullanımı yer alır ( çizim , çizim olarak telaffuz edilir / ˈdrɔːrɪŋ /), t -glottalization ( Potter gırtlaksı bir durakla Po'er /poʔʌ/ olarak telaffuz edilir) ve th-'nin telaffuzu /f/ ( teşekkürler fanks olarak telaffuz edilir ) veya /v/ ( rahatsız etmek bover olarak telaffuz edilir)."
+        },
+        {
+            "id": "İngilizce#145",
+            "sentence": "<PossibleEntity>İskoçlar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0sko%C3%A7lar)</URL> bugün İngilizceden ayrı bir dil olarak kabul edilir, ancak kökenleri erken Kuzey Orta İngilizceye  sahiptir ve tarihi boyunca diğer kaynakların, özellikle İskoç Galcesi ve Eski İskandinav dilinin etkisiyle gelişmiş ve değişmiştir."
+        },
+        {
+            "id": "İngilizce#146",
+            "sentence": "İskoçların kendisinde bir dizi bölgesel lehçe vardır."
+        },
+        {
+            "id": "İngilizce#147",
+            "sentence": "İskoç İngilizcesine ek olarak, İskoç İngilizcesi, İskoçya'da konuşulan Standart İngilizce çeşitlerini içerir; çeşitlerin çoğu, İskoçlardan biraz etkilenen Kuzey İngiliz aksanlarıdır."
+        },
+        {
+            "id": "İngilizce#148",
+            "sentence": "<PossibleEntity>İrlanda'da</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0rlanda)</URL> , 11. yüzyıldaki Norman istilalarından bu yana İngilizcenin çeşitli biçimleri konuşulmaktadır."
+        },
+        {
+            "id": "İngilizce#149",
+            "sentence": "County Wexford'da, Dublin'i çevreleyen bölgede, Forth ve Bargy ve Fingallian olarak bilinen iki soyu tükenmiş lehçe, Erken Orta İngilizcenin yan dalları olarak gelişti ve 19. yüzyıla kadar konuşuldu."
+        },
+        {
+            "id": "İngilizce#150",
+            "sentence": "Bununla birlikte, modern İrlanda İngilizcesinin kökleri 17. yüzyıldaki İngiliz <PossibleEntity>kolonizasyonuna</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C3%B6m%C3%BCrgecilik)</URL> dayanmaktadır."
+        },
+        {
+            "id": "İngilizce#151",
+            "sentence": "Bugün İrlanda İngilizcesi, Ulster İngilizcesine ayrılmıştır."
+        },
+        {
+            "id": "İngilizce#152",
+            "sentence": "İskoçlardan güçlü bir şekilde etkilenen Kuzey İrlanda lehçesi ve İrlanda Cumhuriyeti'nin çeşitli lehçeleri."
+        },
+        {
+            "id": "İngilizce#153",
+            "sentence": "İskoç ve çoğu Kuzey Amerika aksanı gibi, hemen hemen tüm İrlanda aksanı, RP'nin etkilediği lehçelerde kaybolan rhotikliği korur."
+        },
+        {
+            "id": "İngilizce#154",
+            "sentence": "Kuzey Amerika İngilizcesi, İngiliz İngilizcesine kıyasla oldukça homojen kabul edildi, ancak bu tartışmalı."
+        },
+        {
+            "id": "İngilizce#155",
+            "sentence": "Bugün, Amerikan aksanı çeşitliliği genellikle bölgesel düzeyde artıyor ve çok yerel düzeyde azalıyor,  ancak çoğu Amerikalı hala topluca General American (GA) olarak bilinen benzer aksanların fonolojik bir sürekliliği içinde konuşuyor,  <PossibleEntity>Amerikalılar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerikal%C4%B1lar)</URL> arasında bile neredeyse hiç fark edilmeyen farklılıklar (Midland ve Batı Amerikan İngilizcesi gibi)."
+        },
+        {
+            "id": "İngilizce#156",
+            "sentence": "Çoğu Amerikan ve Kanada İngiliz lehçesinde, rotiklik (veya r -doluluk) baskındır, rotik olmama ( r -düşme) özellikle <PossibleEntity>II. Dünya Savaşı'ndan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/II._D%C3%BCnya_Sava%C5%9F%C4%B1)</URL> sonra daha düşük prestij ve sosyal sınıfla ilişkilendirilir hale gelir; bu, rotik olmamanın standart haline geldiği İngiltere'deki durumla çelişiyor."
+        },
+        {
+            "id": "İngilizce#157",
+            "sentence": "GA'dan ayrı olarak, tarihsel olarak Güney Amerika İngilizcesi, Kuzeydoğu kıyı İngilizcesi (ünlü Doğu New England İngilizcesi ve New York City İngilizcesi dahil) ve Afro-Amerikan Yöresel İngilizcesi dahil olmak üzere, açıkça farklı ses sistemlerine sahip Amerikan lehçeleri vardır."
+        },
+        {
+            "id": "İngilizce#158",
+            "sentence": "Kanada İngilizcesi, Atlantik eyaletleri ve belki de <PossibleEntity>Quebec</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Qu%C3%A9bec)</URL> dışında, GA altında da sınıflandırılabilir, ancak sessiz ünsüzlerden önce / aɪ / ve / aʊ / ünlülerinin yükselişini sıklıkla gösterir."
+        },
+        {
+            "id": "İngilizce#159",
+            "sentence": "GA dışındaki en kalabalık Amerikan \"aksan grubu\" olan Güney Amerika İngilizcesinde,  rotiklik, bölgenin rotik olmayan tarihsel prestijinin yerini alarak güçlü bir şekilde hakimdir."
+        },
+        {
+            "id": "İngilizce#160",
+            "sentence": "Güney aksanı halk arasında \"çekme\" veya \"tınlama\" olarak tanımlanır,  en kolay şekilde /aɪ/ sesli harfinde kayma-silme işlemiyle başlatılan Güney Ünlü Kayması tarafından tanınır (örn. casus neredeyse spa gibi), birkaç ön saf ünlünün \"Güney kırılması\" kayan sesli harfe veya hatta iki heceye (örneğin, \"basın\" kelimesinin neredeyse \" gibi telaffuz edilmesi)toplu iğne-kalem birleşmesi ve diğer ayırt edici fonolojik, dilbilgisel ve sözlüksel özellikler, bunların çoğu aslında 19. yüzyılın veya daha sonrasının son gelişmeleridir."
+        },
+        {
+            "id": "İngilizce#161",
+            "sentence": "Bugün esasen işçi sınıfı ve orta sınıf Afrikalı Amerikalılar tarafından konuşulan Afro-Amerikan Yerel İngilizcesi (AAVE) de büyük ölçüde rotik değildir ve muhtemelen rotik olmayan, standart olmayan eski Güney lehçelerinden etkilenen köleleştirilmiş Afrikalılar ve Afrikalı Amerikalılar arasında ortaya çıkmıştır."
+        },
+        {
+            "id": "İngilizce#162",
+            "sentence": "Az sayıda dilbilimci  aksine, AAVE'nin izini çoğunlukla diğer etnik ve dilsel kökenlerden kölelerle iletişim kurmak için bir pidgin veya kreol İngilizcesi geliştirmek zorunda kalan köleler tarafından konuşulan Afrika dillerine kadar uzandığını öne sürüyor."
+        },
+        {
+            "id": "İngilizce#163",
+            "sentence": "AAVE'nin Güney aksanlarıyla önemli ortaklıkları, 19. veya 20. yüzyılın başlarında oldukça tutarlı ve homojen bir çeşit haline geldiğini gösteriyor."
+        },
+        {
+            "id": "İngilizce#164",
+            "sentence": "AAVE, Kuzey Amerika'da beyaz Güney aksanları gibi genellikle \"bozuk\" veya \"eğitimsiz\" bir İngilizce biçimi olarak damgalanır, ancak bugün dilbilimciler, her ikisini de büyük bir konuşma topluluğu tarafından paylaşılan kendi normlarına sahip, tamamen gelişmiş İngilizce çeşitleri olarak kabul etmektedir."
+        },
+        {
+            "id": "İngilizce#165",
+            "sentence": "1788'den beri İngilizce, <PossibleEntity>Okyanusya'da</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Okyanusya)</URL> konuşulmaktadır ve <PossibleEntity>Avustralya İngilizcesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avustralya_%C4%B0ngilizcesi)</URL> , Avustralya kıtasının sakinlerinin büyük çoğunluğunun birinci dili olarak gelişmiştir ve standart aksanı Genel Avustralya'dır. Komşu <PossibleEntity>Yeni Zelanda'nın İngilizcesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yeni_Zelanda_%C4%B0ngilizcesi)</URL> , daha az derecede etkili bir standart dil çeşidi haline gelmek zorundadır."
+        },
+        {
+            "id": "İngilizce#166",
+            "sentence": "Avustralya ve Yeni Zelanda İngilizcesi, birkaç ayırt edici özellik ile birbirlerinin en yakın akrabalarıdır, ardından Güney Afrika İngilizcesi ve Güneydoğu İngiltere'nin İngilizcesi gelir; Güney Adası'ndaki bazı aksanlar dışında, hepsi benzer şekilde rotik olmayan aksanlara sahiptir."
+        },
+        {
+            "id": "İngilizce#167",
+            "sentence": "Yeni Zelanda."
+        },
+        {
+            "id": "İngilizce#168",
+            "sentence": "Avustralya ve Yeni Zelanda İngilizcesi, yenilikçi sesli harfleriyle öne çıkıyor: birçok kısa sesli harf önlü veya yükseltilmiş, oysa birçok uzun sesli harf iki tonlu hale getirildi."
+        },
+        {
+            "id": "İngilizce#169",
+            "sentence": "Avustralya İngilizcesi ayrıca, diğer türlerin çoğunda bulunmayan, uzun ve kısa ünlüler arasında bir karşıtlığa sahiptir."
+        },
+        {
+            "id": "İngilizce#170",
+            "sentence": "Avustralya İngilizcesi dilbilgisi, İngiliz ve Amerikan İngilizcesine yakındır; Amerikan İngilizcesi gibi, toplu çoğul özneler tekil bir fiil alır ( are yerine hükümette olduğu gibi)."
+        },
+        {
+            "id": "İngilizce#171",
+            "sentence": "Yeni Zelanda İngilizcesi, genellikle Avustralya İngilizcesinden bile daha yüksek olan ön sesli harfleri kullanır."
+        },
+        {
+            "id": "İngilizce#172",
+            "sentence": "<PossibleEntity>Filipinler'in</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Filipinler)</URL> İngilizceye ilk önemli maruz kalması, 1762'de İngilizlerin <PossibleEntity>Yedi Yıl Savaşları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yedi_Y%C4%B1l_Sava%C5%9F%C4%B1)</URL> sırasında <PossibleEntity>Manila'yı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Manila)</URL> işgal etmesiyle gerçekleşti, ancak bu, kalıcı bir etkisi olmayan kısa bir olaydı."
+        },
+        {
+            "id": "İngilizce#173",
+            "sentence": "İngilizce daha sonra 1898 ile 1946 arasındaki Amerikan yönetimi sırasında daha önemli ve yaygın hale geldi ve Filipinler'in resmi dili olmaya devam ediyor."
+        },
+        {
+            "id": "İngilizce#174",
+            "sentence": "Bugün, Filipinler'de sokak tabelaları ve pankartlar, hükûmet belgeleri ve formları, mahkeme salonları, medya ve eğlence endüstrileri, iş sektörü ve günlük hayatın diğer yönlerinde İngilizce kullanımı her yerde mevcuttur."
+        },
+        {
+            "id": "İngilizce#175",
+            "sentence": "Ülkede de öne çıkan bu tür bir kullanım, çoğu Filipinlinin Manila'dan olduğu konuşmadadır. <PossibleEntity>Tagalog</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tagalogca)</URL> ve İngilizce arasında bir kod değiştirme biçimi olan Taglish'i kullanır veya maruz kalırdı."
+        },
+        {
+            "id": "İngilizce#176",
+            "sentence": "Benzer bir kod değiştirme yöntemi, Bislish adı verilen Visayan dillerinin kentsel anadili tarafından kullanılır."
+        },
+        {
+            "id": "İngilizce#177",
+            "sentence": "İngilizce, Güney Afrika'da yaygın olarak konuşulur ve birçok ülkede resmi veya ortak resmi dildir."
+        },
+        {
+            "id": "İngilizce#178",
+            "sentence": "Güney Afrika'da İngilizce, 1820'den beri Afrikaans ve Khoe ve Bantu dilleri gibi çeşitli Afrika dilleriyle birlikte konuşulmaktadır."
+        },
+        {
+            "id": "İngilizce#179",
+            "sentence": "Bugün, Güney Afrika nüfusunun yaklaşık yüzde 9'u birinci dil olarak Güney Afrika İngilizcesi (SAE) konuşuyor."
+        },
+        {
+            "id": "İngilizce#180",
+            "sentence": "SAE, RP'yi bir norm olarak takip etme eğiliminde olan rotik olmayan bir çeşittir."
+        },
+        {
+            "id": "İngilizce#181",
+            "sentence": "Rotik olmayan çeşitler arasında müdahaleci r eksikliğinde yalnızdır."
+        },
+        {
+            "id": "İngilizce#182",
+            "sentence": "Konuşanların ana dillerine göre farklılık gösteren farklı L2 çeşitleri vardır."
+        },
+        {
+            "id": "İngilizce#183",
+            "sentence": "RP'den fonolojik farklılıkların çoğu ünlülerdedir."
+        },
+        {
+            "id": "İngilizce#184",
+            "sentence": "Ünsüz farklılıklar, /p, t, t͡ʃ, k/'yi aspirasyon olmadan telaffuz etme eğilimini içerir (örneğin, diğer birçok çeşitte olduğu gibi [ pʰɪn] yerine pim [pɪn] olarak telaffuz edilir), r ise bunun yerine genellikle bir flep [ɾ] olarak telaffuz edilir. daha yaygın sürtünmeli olarak."
+        },
+        {
+            "id": "İngilizce#185",
+            "sentence": "Nijerya İngilizcesi, Nijerya'da konuşulan İngilizcenin bir <PossibleEntity>lehçesidir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Leh%C3%A7e_(dilbilim))</URL> ."
+        },
+        {
+            "id": "İngilizce#186",
+            "sentence": "İngiliz İngilizcesine dayanmaktadır, ancak son yıllarda <PossibleEntity>Amerika Birleşik Devletleri'nin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> etkisiyle, <PossibleEntity>Amerikan İngilizcesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerikan_%C4%B0ngilizcesi)</URL> kökenli bazı kelimeler onu <PossibleEntity>Nijerya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nijerya)</URL> İngilizcesine dönüştürmüştür."
+        },
+        {
+            "id": "İngilizce#187",
+            "sentence": "Ek olarak, dilden, ulusun kültürüne özgü kavramları (örneğin kıdemli eş ) ifade etme ihtiyacından kaynaklanan bazı yeni kelimeler ve eş dizimler ortaya çıkmıştır. 150 milyondan fazla Nijeryalı İngilizce konuşuyor."
+        },
+        {
+            "id": "İngilizce#188",
+            "sentence": "<PossibleEntity>Jamaika</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Jamaika)</URL> , Leeward ve Windward Adaları ve <PossibleEntity>Trinidad ve Tobago</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Trinidad_ve_Tobago)</URL> , <PossibleEntity>Barbados</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Barbados)</URL> , <PossibleEntity>Cayman Adaları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Cayman_Adalar%C4%B1)</URL> ve <PossibleEntity>Belize</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Belize)</URL> dahil olmak üzere <PossibleEntity>Britanya'nın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Britanya_%C4%B0mparatorlu%C4%9Fu)</URL> sömürge mülkü olan <PossibleEntity>Karayip</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Karayipler)</URL> adalarında da çeşitli İngilizce türleri konuşulmaktadır."
+        },
+        {
+            "id": "İngilizce#189",
+            "sentence": "Bu alanların her biri, hem yerel bir İngilizce çeşitliliğine hem de İngilizce ve Afrika dillerini birleştiren yerel İngilizce temelli bir kreole ev sahipliği yapmaktadır."
+        },
+        {
+            "id": "İngilizce#190",
+            "sentence": "En öne çıkan çeşitler Jamaika İngilizcesi ve Jamaika Kreolü'dür. <PossibleEntity>Orta Amerika'da</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orta_Amerika)</URL> , <PossibleEntity>Nikaragua</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nikaragua)</URL> ve <PossibleEntity>Panama'nın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Panama)</URL> <PossibleEntity>Karayip</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Karayipler)</URL> kıyılarında İngilizce temelli kreoller konuşulmaktadır."
+        },
+        {
+            "id": "İngilizce#191",
+            "sentence": "Yerliler genellikle hem yerel İngilizce çeşidinde hem de yerel kreol dillerinde akıcıdır ve bunlar arasında sık sık kod değiştirme vardır, gerçekten de Kreol ve Standart çeşitler arasındaki ilişkiyi kavramsallaştırmanın başka bir yolu, Kreol biçimlerinin hizmet ettiği bir sosyal kayıtlar yelpazesini görmektir. \"basilect\" ve daha çok RP benzeri formlar, en resmi kayıt olan \"acrolect\" olarak hizmet eder."
+        },
+        {
+            "id": "İngilizce#192",
+            "sentence": "Karayip çeşitlerinin çoğu İngiliz İngilizcesine dayanmaktadır ve sonuç olarak, genellikle rotik olan Jamaika İngilizcesinin resmi stilleri dışında çoğu rotik değildir."
+        },
+        {
+            "id": "İngilizce#193",
+            "sentence": "Jamaika İngilizcesi, Standart İngilizcede olduğu gibi gergin ve gevşek sesli harflerden ziyade uzun ve kısa ünlüler arasında bir ayrıma sahip olan sesli harf envanterinde RP'den farklıdır. /ei/ ve /ou/ ikili ünlüleri [eː] ve [oː] tek sesli ünlüler veya hatta [ie] ve [uo] ters ikili ünlülerdir (örneğin bay ve tekne [bʲeː] ve [bʷoːt] olarak telaffuz edilir)."
+        },
+        {
+            "id": "İngilizce#194",
+            "sentence": "Genellikle kelime sonundaki ünsüz kümeler basitleştirilir, böylece \"çocuk\" telaffuz edilir[t͡ʃail] ve \"rüzgar\" [kazan]."
+        },
+        {
+            "id": "İngilizce#195",
+            "sentence": "Tarihsel bir miras olarak, Hint İngilizcesi RP'yi ideal olarak alma eğilimindedir ve bu idealin bir bireyin konuşmasında ne kadar iyi gerçekleştirildiği, Hint İngilizcesi konuşanlar arasındaki sınıf ayrımlarını yansıtır."
+        },
+        {
+            "id": "İngilizce#196",
+            "sentence": "Hint İngilizcesi aksanları, /t/ ve /d/ (genellikle [ʈ] ve [ɖ] olarak retrofleks artikülasyonla telaffuz edilir) gibi fonemlerin telaffuzu ve /θ/ ve /ð/ 'nin dental [t̪] ile değiştirilmesiyle işaretlenir. ve [d̪]."
+        },
+        {
+            "id": "İngilizce#197",
+            "sentence": "Bazen Hintli İngilizce konuşanlar, hayalet gibi sözcüklerde bulunan sessiz ⟨h⟩'nin bir Hint sesinin aspire edildiği gibi telaffuz edildiği yazım tabanlı telaffuzlar da kullanabilir."
+        },
+        {
+            "id": "İngilizce#198",
+            "sentence": "İngilizce İnsan Hakları Evrensel Beyannamesi'nin 1. Maddesi :"
+        },
+        {
+            "id": "İngilizce#199",
+            "sentence": "All human beings are born free and equal in dignity and rights."
+        },
+        {
+            "id": "İngilizce#200",
+            "sentence": "They are endowed with reason and conscience and should act towards one another in a spirit of brotherhood."
+        }
+    ]
+}

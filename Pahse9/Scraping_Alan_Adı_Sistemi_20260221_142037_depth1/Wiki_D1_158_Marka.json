@@ -1,0 +1,10 @@
+{
+    "Title": "Marka",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Marka#1",
+            "sentence": "Marka , bir <PossibleEntity>işletmenin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0%C5%9Fletme)</URL> mal veya hizmetlerini bir başka işletmenin mal veya hizmetlerinden ayırt etmeyi sağlaması koşuluyla kişi adları dahil, özellikle sözcükler, şekiller, harfler, sayılar, malların biçimi veya ambalajları gibi çizimle görüntülenebilen veya benzer biçimde ifade edilebilen, baskı yoluyla yayınlanabilen ve çoğaltılabilen her türlü işaretleri içerir."
+        }
+    ]
+}

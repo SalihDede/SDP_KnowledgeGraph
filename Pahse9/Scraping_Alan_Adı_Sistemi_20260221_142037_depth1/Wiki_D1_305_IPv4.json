@@ -1,0 +1,742 @@
+{
+    "Title": "IPv4",
+    "Card": {},
+    "Main": [
+        {
+            "id": "IPv4#1",
+            "sentence": "<PossibleEntity>OSI modeli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/OSI_modeli)</URL>"
+        },
+        {
+            "id": "IPv4#2",
+            "sentence": "İnternet Protokol Versiyon 4 ( IPv4 ), İnternet Protokolü'nün ( <PossibleEntity>IP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IP_adresi)</URL> ) dördüncü versiyonudur."
+        },
+        {
+            "id": "IPv4#3",
+            "sentence": "IPv4, 32-bitlik adreslerden oluşmaktadır ve (2 32 ) tekil adres sağlamaktadır."
+        },
+        {
+            "id": "IPv4#4",
+            "sentence": "IPv4, <PossibleEntity>RFC 791</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc791)</URL> 'de tanımlanmıştır (Eylül 1981)."
+        },
+        {
+            "id": "IPv4#5",
+            "sentence": "Bir önceki versiyonu olan <PossibleEntity>RFC 760</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc760)</URL> 'ın (Ocak 1980) yerini almıştır."
+        },
+        {
+            "id": "IPv4#6",
+            "sentence": "IPv4 paket anahtarlamalı bağlantı katman ( internet layer ) ağları üzerinde kullanım için bir bağlantısız protokoldür."
+        },
+        {
+            "id": "IPv4#7",
+            "sentence": "En iyi çabayla dağıtım ( best effort delivery ) modeli üzerinde çalışır."
+        },
+        {
+            "id": "IPv4#8",
+            "sentence": "Bilgi bütünlüğü içeren bu yönleri bir üst katman taşıma protokolü tarafından adreslenirler. (Örn.: <PossibleEntity>TCP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/TCP)</URL> )"
+        },
+        {
+            "id": "IPv4#9",
+            "sentence": "IPv4 adresleri 32 bittir. 32 bit ile en fazla 4,294,967,296 (2 32 ) IPv4 adreslemesi yapmak mümkündür."
+        },
+        {
+            "id": "IPv4#10",
+            "sentence": "Bazı IPv4 adresleri; <PossibleEntity>özel ağlar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96zel_a%C4%9F)</URL> ( private network ) (~18 milyon adres ) ya da <PossibleEntity>çok yöne yayın</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87ok_y%C3%B6ne_yay%C4%B1n)</URL> ( multicast ) adresleri (~270 milyon adres ) gibi özel amaçlarla ayrılmıştır."
+        },
+        {
+            "id": "IPv4#11",
+            "sentence": "Bu, genel <PossibleEntity>internet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> üzerinde yönlendirme için muhtemelen ayrılacak olan adres sayısını azaltır."
+        },
+        {
+            "id": "IPv4#12",
+            "sentence": "Ağ adresleme mimarisinin <PossibleEntity>sınıflı ağ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C4%B1n%C4%B1fl%C4%B1_adreslendirme)</URL> ( classful network ) dizaynı aracılığıyla yeniden düzenlenmesine, <PossibleEntity>sınıfsız alanlar arası yönlendirme</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C4%B1n%C4%B1fs%C4%B1z_alanlar_aras%C4%B1_y%C3%B6nlendirme)</URL> ( Classless Inter Domain Routing ) ve <PossibleEntity>ağ adres çevirisinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/NAT)</URL> (NAT) kaçınılmaz tüketimi büyük oranda ertelemesine rağmen adresler artarak son kullanıcılara verildikçe bir IPv4 adres eksikliği ortaya çıkmaktadır."
+        },
+        {
+            "id": "IPv4#13",
+            "sentence": "IPv4 uzayının sınırlı olması, <PossibleEntity>6 Haziran 2012</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=6_Haziran_2012&action=edit&redlink=1)</URL> [en] tarihi itibarıyla yaygın olarak kullanılmaya başlanan ve bu konuda şu an için uzun vadeli tek çözüm olan <PossibleEntity>IPv6</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPv6)</URL> 'nın gelişimini teşvik etmektedir."
+        },
+        {
+            "id": "IPv4#14",
+            "sentence": "IPv4 adresleri, genellikle noktalarla ayrılan ve <PossibleEntity>onluklar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Onlu_say%C4%B1_sistemi)</URL> şeklinde ifade edilen, 4 oktetli notasyonda yazılırlar."
+        },
+        {
+            "id": "IPv4#15",
+            "sentence": "IPv4 yazım formatları aşağıdaki tabloda gösterilmiştir:"
+        },
+        {
+            "id": "IPv4#16",
+            "sentence": "Bir IPv4 adresi iki kısımdan oluşur: Ağ adresi ve host adresi."
+        },
+        {
+            "id": "IPv4#17",
+            "sentence": "Sınıflı IP adresleme, IP adreslerinin belirli aralıklarla sabit ağ ve host bölümlerine ayrılarak sınıflara (Class A, B, C, D ve E) göre tanımlandığı eski bir IP adresleme yöntemidir."
+        },
+        {
+            "id": "IPv4#18",
+            "sentence": "Bu yapı, 1980'li yıllarda internetin ilk yaygınlaştığı dönemlerde, IP adreslerinin yönetimini ve dağıtımını kolaylaştırmak amacıyla geliştirilmiştir."
+        },
+        {
+            "id": "IPv4#19",
+            "sentence": "Her sınıf, belirli bir IP adresi aralığına ve belirli sayıda ağ/host kombinasyonuna sahiptir."
+        },
+        {
+            "id": "IPv4#20",
+            "sentence": "A sınıfında, ilk 8 bit (bir oktet) ağ adresi olarak kullanılırken, kalan 24 bit hostlar için ayrılmıştır."
+        },
+        {
+            "id": "IPv4#21",
+            "sentence": "B sınıfında ilk 16 bit ağ adresi olarak kullanır."
+        },
+        {
+            "id": "IPv4#22",
+            "sentence": "B sınıfı, orta büyüklükteki ağlara yöneliktir."
+        },
+        {
+            "id": "IPv4#23",
+            "sentence": "C sınıfı ise küçük ağlar için tasarlanmıştır."
+        },
+        {
+            "id": "IPv4#24",
+            "sentence": "C sınıfında ilk 24 bit ağ adresi olarak kullanılır."
+        },
+        {
+            "id": "IPv4#25",
+            "sentence": "D sınıfı adresler <PossibleEntity>multicast</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87ok_y%C3%B6ne_yay%C4%B1n)</URL> adreslemeleri için ayrılırken, E sınıfı adresler deneysel uygulamalar için ayrılmıştır."
+        },
+        {
+            "id": "IPv4#26",
+            "sentence": "Bu sınıflandırma yöntemi başlangıçta kullanışlı görünse de zamanla ciddi bir verimsizlik sorununa yol açmıştır."
+        },
+        {
+            "id": "IPv4#27",
+            "sentence": "Özellikle A ve B sınıfı bloklarının gereğinden fazla IP içeriyor olması, birçok adresin atıl kalmasına neden oldu. Aynı zamanda küçük ağlara yeterli IP verilmemesi, esnek yapıların kurulmasını engelledi."
+        },
+        {
+            "id": "IPv4#28",
+            "sentence": "Bu durum, IPv4 adreslerinin hızla tükenmesine sebep oldu."
+        },
+        {
+            "id": "IPv4#29",
+            "sentence": "Mevcut <PossibleEntity>Classful</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C4%B1n%C4%B1fl%C4%B1_adreslendirme)</URL> adreslerin <PossibleEntity>alt ağlara</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alt_a%C4%9F)</URL> () bölünmesi 1985 yılında <PossibleEntity>RFC 950</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc950)</URL> ile başlamıştır."
+        },
+        {
+            "id": "IPv4#30",
+            "sentence": "Bu adres bölünmesi, oldukça esnek bir yöntem olan 'değişken uzunluklu alt ağ maskeleme' (variable-length subnet mask ( <PossibleEntity>VLSM</PossibleEntity> <URL>:(https://tr.wikipedia.org#VLSM)</URL> )) adı altında tanımlanmıştır."
+        },
+        {
+            "id": "IPv4#31",
+            "sentence": "Eylül 1993'te yayınlanan <PossibleEntity>RFC 1519</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc1519)</URL> ile birlikte <PossibleEntity>sınıfsız alanlar arası yönlendirme</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C4%B1n%C4%B1fs%C4%B1z_alanlar_aras%C4%B1_y%C3%B6nlendirme)</URL> (CIDR) resmi olarak tanıtıldı ve bu sistem, <PossibleEntity>sınıflı adreslendirme</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C4%B1n%C4%B1fl%C4%B1_adreslendirme)</URL> (classful addressing) yerine kullanılmaya başlandı."
+        },
+        {
+            "id": "IPv4#32",
+            "sentence": "CIDR, IP adres alanlarının ihtiyaçlara göre daha küçük veya daha büyük bloklara bölünebilmesini sağlamak amacıyla tasarlanmıştır."
+        },
+        {
+            "id": "IPv4#33",
+            "sentence": "CIDR ile oluşturulan hiyerarşik adresleme yapısı, <PossibleEntity>IANA</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_Tahsisli_Say%C4%B1lar_Otoritesi)</URL>  ve <PossibleEntity>RIR</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=RIR&action=edit&redlink=1)</URL> [en] ’ler tarafından yönetilmektedir Her bir RIR, IP adresi atamalarıyla ilgili bilgileri içeren ve kamuya açık şekilde sorgulanabilen bir <PossibleEntity>WHOIS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Whois)</URL> veritabanına sahiptir."
+        },
+        {
+            "id": "IPv4#34",
+            "sentence": "Alt ağlandırma ( <PossibleEntity>subnetting</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Subnet)</URL> ), bir IP adres uzayının daha küçük ve yönetilebilir parçalara bölünmesi işlemidir."
+        },
+        {
+            "id": "IPv4#35",
+            "sentence": "Bu işlem, özellikle büyük ölçekli ağlarda ağ yönetimini kolaylaştırmak, performansı artırmak ve güvenliği sağlamak amacıyla yaygın olarak kullanılır."
+        },
+        {
+            "id": "IPv4#36",
+            "sentence": "Alt ağlara ayrılan yapılar, her biri kendi yayın alanına ( <PossibleEntity>broadcast domain</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Broadcast_domain&action=edit&redlink=1)</URL> [en] ) sahip olan bağımsız alt ağlar oluşturur."
+        },
+        {
+            "id": "IPv4#37",
+            "sentence": "Alt ağlandırma, birçok teknik ve yapısal avantaj sağlar:"
+        },
+        {
+            "id": "IPv4#38",
+            "sentence": "1. Ağ performansını artırma: Alt ağlar sayesinde yayın trafiği ( <PossibleEntity>broadcasting</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Broadcasting)</URL> [en] ) sınırlı alanlarda kalır."
+        },
+        {
+            "id": "IPv4#39",
+            "sentence": "Bu, her alt ağın sadece kendi cihazlarına yayın yapmasına olanak tanır ve genel ağ trafiğini azaltarak ağ performansını performansı artırır."
+        },
+        {
+            "id": "IPv4#40",
+            "sentence": "2. Ağ tıkanıklığını azaltma: Ağ trafiğinin küçük ve bağımsız alt ağlara bölünmesi, veri iletiminde çakışmaları ve gecikmeleri azaltır."
+        },
+        {
+            "id": "IPv4#41",
+            "sentence": "Bu durum, özellikle yoğun trafikli ağlarda önemli bir avantaj sağlar."
+        },
+        {
+            "id": "IPv4#42",
+            "sentence": "3. Yönetim kolaylığı: Alt ağlar, daha sade ve modüler bir yapı sunduklarından dolayı, ağ yöneticileri için arıza tespiti daha kolay hale gelir."
+        },
+        {
+            "id": "IPv4#43",
+            "sentence": "Sorunların kaynağı daha hızlı belirlenebilir."
+        },
+        {
+            "id": "IPv4#44",
+            "sentence": "4. Güvenlik: Alt ağlar arasında erişim kontrolleri uygulanabilir."
+        },
+        {
+            "id": "IPv4#45",
+            "sentence": "Bu, yetkisiz erişimlerin engellenmesine yardımcı olur ve daha güvenli bir ağ ortamı oluşturulmasını sağlar."
+        },
+        {
+            "id": "IPv4#46",
+            "sentence": "Subnetting İşlemi"
+        },
+        {
+            "id": "IPv4#47",
+            "sentence": "Bir ağı alt ağlara bölerken sıklıkla kullanacağımız iki formül vardır."
+        },
+        {
+            "id": "IPv4#48",
+            "sentence": "Birincisi alt ağda yer alacak host sayısı, ikincisi ise kaç adet alt ağ olacağını bulmamıza yarar:"
+        },
+        {
+            "id": "IPv4#49",
+            "sentence": "Örnek: 192.168.0.0 255.255.255.0 ağını 2 alt ağa ayıralım."
+        },
+        {
+            "id": "IPv4#50",
+            "sentence": "Alt ağların sayısını bildiğim için “2^m >= alt ağ sayısı” formülünü kullanacağım. 2^m >= 2 ifadesinde m değeri için 1 vermek yeterlidir. 1 değeri yeni ağların yeni alt ağ maskesini hesaplarken kullanılacaktır."
+        },
+        {
+            "id": "IPv4#51",
+            "sentence": "Bu host bitlerinden 1 bitin kullanılacağı anlamına gelmektedir."
+        },
+        {
+            "id": "IPv4#52",
+            "sentence": "Host biti alt ağ maskesindeki 0'lar ile gösterilen alandir."
+        },
+        {
+            "id": "IPv4#53",
+            "sentence": "Ağ biti ise 1'ler ile gösterilen alandır."
+        },
+        {
+            "id": "IPv4#54",
+            "sentence": "Örnekte verilen maske bilgisi 255.255.255.0"
+        },
+        {
+            "id": "IPv4#55",
+            "sentence": "Yeni durumda host bitlerinin sayısı 7 oldu. Bu durumda her ağda kullanılacak IP sayısı ise 2^7-2= 126 olacaktır."
+        },
+        {
+            "id": "IPv4#56",
+            "sentence": "Burada sayıyı 2 eksiltmemizin sebebi bir tane IP'nin alt ağ kimliği için, bir tanesinin de <PossibleEntity>yayın adresi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yay%C4%B1n_adresi)</URL> için kullanılacağıdır."
+        },
+        {
+            "id": "IPv4#57",
+            "sentence": "Alt ağ kimliği ve yayın adresleri bu amaçlarla özel olarak ayrılmış adresler olduğundan bu adresleri bir hosta vermek mümkün değildir."
+        },
+        {
+            "id": "IPv4#58",
+            "sentence": "Peki alt ağ kimliği ve yayın adresi nasıl bulacağız?"
+        },
+        {
+            "id": "IPv4#59",
+            "sentence": "Alt ağlandırma alt ağ kimliği ve yayın adresini bulmak için alt ağ kimliği, ilk IP, son IP, yayın adresi sıralamasını kullanınız."
+        },
+        {
+            "id": "IPv4#60",
+            "sentence": "Subnet ID+1 = İlk IP"
+        },
+        {
+            "id": "IPv4#61",
+            "sentence": "Son IP + 1 = Broadcast Adresi"
+        },
+        {
+            "id": "IPv4#62",
+            "sentence": "Subnet ID -1 = Broadcast Adresi"
+        },
+        {
+            "id": "IPv4#63",
+            "sentence": "Ilk networkun Subnet ID' si ile ikinci networkun Subnet ID' si arasındaki fark 2^n kadardır."
+        },
+        {
+            "id": "IPv4#64",
+            "sentence": "Bu bilgiler doğrultusunda rahatlıkla Subnet ID ve Broadcast adresi bulabilirsiniz."
+        },
+        {
+            "id": "IPv4#65",
+            "sentence": "Son durumda 2 alt networkum aşağıdaki gibi olacaktır:"
+        },
+        {
+            "id": "IPv4#66",
+            "sentence": "VLSM, Aralık 1995'te <PossibleEntity>RFC 1878</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc1878)</URL>  ile yayımlanmıştır."
+        },
+        {
+            "id": "IPv4#67",
+            "sentence": "Değişken uzunluklu alt ağ maskesi, ([[Sınıfsız alanlar arası yönlendirme |Variable Length Subnet Mask (VLSM)]]) farklı boyutlardaki <PossibleEntity>alt ağları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alt_a%C4%9F)</URL> tanımlamak için kullanılır."
+        },
+        {
+            "id": "IPv4#68",
+            "sentence": "1993 yılında adres sınıfından bağımsız yönlendirme ( <PossibleEntity>CIDR</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C4%B1n%C4%B1fs%C4%B1z_alanlar_aras%C4%B1_y%C3%B6nlendirme)</URL> ) ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : Classless Inter-Domain Routing ) tanıtıldı."
+        },
+        {
+            "id": "IPv4#69",
+            "sentence": "CIDR üst ağ oluşturma ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : <PossibleEntity>Supernetting</PossibleEntity> <URL>:(https://en.wikipedia.org/wiki/Supernetting)</URL> )yı gerçekleştirmek için kullanılır."
+        },
+        {
+            "id": "IPv4#70",
+            "sentence": "Üst ağ oluşturma yön kümeleme ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : <PossibleEntity>Route Aggregation</PossibleEntity> <URL>:(https://en.wikipedia.org/wiki/Route_aggregation)</URL> ) ye olanak sağlar."
+        },
+        {
+            "id": "IPv4#71",
+            "sentence": "CIDR, CIDR notasyonu olarak da bilinen önek notasyonunu tanıttı."
+        },
+        {
+            "id": "IPv4#72",
+            "sentence": "Önek/CIDR notasyonu sınıfsız IP adreslemenin 3 şeklinde kullanılıyor: Alt ağ oluşturma, VLSM/farklı boyutların alt ağları, CIDR / Üst ağ oluşturma."
+        },
+        {
+            "id": "IPv4#73",
+            "sentence": "IP adres sınıflarının orijinal sistemi CIDR ile yer değiştirdi ve sınıf-tabanlı şema karşılaştırma amacıyla sınıflı (classful) olarak adlandırıldı."
+        },
+        {
+            "id": "IPv4#74",
+            "sentence": "CIDR'ın en temel avantajı; herhangi bir adres alanının, daha küçük ya da daha büyük adres blokları kullanıcılara ayrılabilmesi amacıyla yeniden bölümlendirilmesine izin vermesidir."
+        },
+        {
+            "id": "IPv4#75",
+            "sentence": "CIDR tarafından oluşturulan, IANA ( <PossibleEntity>Internet Assigned Numbers Authority</PossibleEntity> <URL>:(https://en.wikipedia.org/wiki/Internet_Assigned_Numbers_Authority)</URL> ) ve RIRs ( <PossibleEntity>Regional Internet registry</PossibleEntity> <URL>:(https://en.wikipedia.org/wiki/Regional_Internet_Registry)</URL> ) tarafından denetlenen hiyerarşik yapı, internet adreslerinin dünya çapında uygulamasını yönetir."
+        },
+        {
+            "id": "IPv4#76",
+            "sentence": "Her RIR, IP adresi uygulamaları hakkında bilgi sunan genel araştırılabilen <PossibleEntity>WHOIS</PossibleEntity> <URL>:(https://en.wikipedia.org/wiki/WHOIS)</URL> veritabanını muhafaza eder. Bu veritabanlarından gelen bilgi IP adreslerini coğrafik olarak konumlandırmaya çabalayan çok sayıda araçta merkezi bir rol oynar."
+        },
+        {
+            "id": "IPv4#77",
+            "sentence": "IPv4'te yer alan adreslerin üç bloku özel ağlarda ( <PossibleEntity>Private networks</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96zel_a%C4%9F)</URL> ) için kullanılmak üzere ayrılmıştır."
+        },
+        {
+            "id": "IPv4#78",
+            "sentence": "Bu IP adres blokları özel ağların dışında yönlendirilmezler."
+        },
+        {
+            "id": "IPv4#79",
+            "sentence": "Özel ağ IP adreslerine sahip olan bilgisayarlar ancak ağ adresi dönüştürme ( <PossibleEntity>NAT</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/NAT)</URL> ) yapılarak internete erişim sağlayabilirler."
+        },
+        {
+            "id": "IPv4#80",
+            "sentence": "Aşağıdaki tabloda özel ağlar için ayrılmış olan adres blokları gösterilmiştir:"
+        },
+        {
+            "id": "IPv4#81",
+            "sentence": "169.254.0.0/16 adres bloğu, RFC 3927 ile IPv4 yerel bağlantı ( <PossibleEntity>Link-local address</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Link-local_address&action=edit&redlink=1)</URL> [en] ) adresleme amacıyla ayrılmıştır."
+        },
+        {
+            "id": "IPv4#82",
+            "sentence": "Bu adresler, yalnızca aynı fiziksel bağlantıda bulunan cihazlar arasında iletişim kurmak için kullanılır."
+        },
+        {
+            "id": "IPv4#83",
+            "sentence": "Bu adres bloğu yönlendirilebilir değildir (non-routable)."
+        },
+        {
+            "id": "IPv4#84",
+            "sentence": "Dolayısıyla farklı ağ segmentlerine veri gönderimi için kullanılamaz."
+        },
+        {
+            "id": "IPv4#85",
+            "sentence": "( <PossibleEntity>Yerel bağlantı adresleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Yerel_ba%C4%9Flant%C4%B1_adresleri&action=edit&redlink=1)</URL> [en] ,, bir bilgisayarın <PossibleEntity>DHCP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/DHCP)</URL> sunucusundan ya da başka bir yapılandırma yönteminden IP adresi alamadığı durumlarda, otomatik olarak sistem tarafından atanır."
+        },
+        {
+            "id": "IPv4#86",
+            "sentence": "Bu tür otomatik IP atama sistemlerine örnek olarak <PossibleEntity>Microsoft</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Microsoft)</URL> 'un geliştirdiği APIPA (Automatic Private IP Addressing) mekanizması verilebilir."
+        },
+        {
+            "id": "IPv4#87",
+            "sentence": "APIPA sayesinde birçok Windows sistemi, bir <PossibleEntity>DHCP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/DHCP)</URL> sunucusu bulunmasa bile kendi kendine geçici bir IP adresi atayarak yerel ağda sınırlı iletişim kurabilir."
+        },
+        {
+            "id": "IPv4#88",
+            "sentence": "Başlangıçta bu adresleme sistemine dair bir standart bulunmamaktaydı."
+        },
+        {
+            "id": "IPv4#89",
+            "sentence": "Ancak <PossibleEntity>Microsoft</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Microsoft)</URL> ’un bu teknolojiyi yaygın olarak kullanmasıyla, APIPA de facto bir endüstri standardı hâline geldi."
+        },
+        {
+            "id": "IPv4#90",
+            "sentence": "Daha sonra, bu ihtiyaca karşılık olarak <PossibleEntity>İnternet Mühendisliği Görev Gücü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_M%C3%BChendisli%C4%9Fi_G%C3%B6rev_G%C3%BCc%C3%BC)</URL> tarafından <PossibleEntity>RFC 3927</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc919)</URL> yayınlandı ve IPv4 yerel bağlantı adreslerinin dinamik yapılandırılmasına yönelik standartlaştırılmış bir yöntem tanımlanmış oldu."
+        },
+        {
+            "id": "IPv4#91",
+            "sentence": "<PossibleEntity>Localhost</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Localhost)</URL> , bir bilgisayarın kendi kendisiyle ağ üzerinden iletişim kurmasını sağlayan özel bir adresleme sistemidir. 127.0.0.0 – 127.255.255.255 aralığı ( <PossibleEntity>CIDR</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C4%B1n%C4%B1fs%C4%B1z_alanlar_aras%C4%B1_y%C3%B6nlendirme)</URL> notasyonunda 127.0.0.0/8 ) bu amaçla ayrılmıştır."
+        },
+        {
+            "id": "IPv4#92",
+            "sentence": "Bu adres bloğundaki IP adresleri, yalnızca yerel makine üzerinde geçerlidir ve dış ağa yönlendirilmez."
+        },
+        {
+            "id": "IPv4#93",
+            "sentence": "En yaygın kullanılan adres 127.0.0.1 olup genellikle \"localhost\" olarak adlandırılır."
+        },
+        {
+            "id": "IPv4#94",
+            "sentence": "Bu adreslere gönderilen IP paketleri, fiziksel bir ağ arayüzüne ulaşmadan işletim sistemi tarafından <PossibleEntity>geri döngü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Loopback)</URL> mekanizması aracılığıyla doğrudan aynı makineye iletilir."
+        },
+        {
+            "id": "IPv4#95",
+            "sentence": "Yani, bu adreslere gönderilen veriler, bilgisayarın kendi sanal ağ arayüzü üzerinden kendisine ulaştırılır."
+        },
+        {
+            "id": "IPv4#96",
+            "sentence": "Loopback adresleri, genellikle yazılım testi, hizmet doğrulaması ve yerel sunucu uygulamalarının çalışıp çalışmadığını kontrol etmek için kullanılır."
+        },
+        {
+            "id": "IPv4#97",
+            "sentence": "Bu adresler hiçbir zaman yerel bilgisayar dışındaki bir cihaza yönlendirilmemeli ve yönlendirici cihazlar tarafından ağlar arası geçiş için kullanılmamalıdır."
+        },
+        {
+            "id": "IPv4#98",
+            "sentence": "0 veya 255 ile biten IP adreslerinin hiçbir zaman hostlara atanamayacağı bilgisi, yaygın fakat duruma bağlı bir yanlış anlamadır."
+        },
+        {
+            "id": "IPv4#99",
+            "sentence": "Bu durum, genellikle /24 subnet maskesi kullanılan ağlarda veya eski sınıflı adresleme sistemindeki (Classful addressing) C sınıfı ağlar için geçerlidir."
+        },
+        {
+            "id": "IPv4#100",
+            "sentence": "Modern ağlarda kullanılan <PossibleEntity>CIDR</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C4%B1n%C4%B1fs%C4%B1z_alanlar_aras%C4%B1_y%C3%B6nlendirme)</URL> (Classless Inter-Domain Routing) yapısıyla birlikte, ağlar farklı uzunlukta alt ağ maskeleriyle tanımlanabilmektedir."
+        },
+        {
+            "id": "IPv4#101",
+            "sentence": "Bu nedenle, bir IP adresinin son oktetinde 0 veya 255 bulunması, tek başına onun atanamaz olduğu anlamına gelmez."
+        },
+        {
+            "id": "IPv4#102",
+            "sentence": "Bu adreslerin kullanılabilirliği, ait oldukları alt ağın boyutuna ve subnet maskesine bağlı olarak değişir."
+        },
+        {
+            "id": "IPv4#103",
+            "sentence": "<PossibleEntity>CIDR</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/S%C4%B1n%C4%B1fs%C4%B1z_alanlar_aras%C4%B1_y%C3%B6nlendirme)</URL> 'dan önceki sınıflı adresleme sisteminde (günümüzde artık kullanılmamaktadır), ağlar yalnızca üç sabit alt ağ maskesiyle tanımlanıyordu: Sınıf A: 255.0.0.0 Sınıf B: 255.255.0.0 Sınıf C: 255.255.255.0"
+        },
+        {
+            "id": "IPv4#104",
+            "sentence": "Örneğin, 192.168.5.0/24 (ya da 255.255.255.0) ağına sahip bir yapılandırmada: 192.168.5.0 adresi, alt ağın kendisini (network ID) temsil eder. 192.168.5.255 adresi ise, ağdaki tüm hostlara gönderilen yayın (broadcast) adresidir."
+        },
+        {
+            "id": "IPv4#105",
+            "sentence": "Bu nedenle bu iki adres, aynı ağ içinde bireysel bir cihaza atanamaz ."
+        },
+        {
+            "id": "IPv4#106",
+            "sentence": "Ancak farklı alt ağ maskeleri kullanıldığında (örneğin /25, /26 gibi), 0 veya 255 ile biten adreslerin durumu değişebilir."
+        },
+        {
+            "id": "IPv4#107",
+            "sentence": "Bu adreslerin atanabilir olup olmadığını belirlemek için ağın alt sınırı (network ID) ve üst sınırı (broadcast adresi) dikkatle hesaplanmalıdır."
+        },
+        {
+            "id": "IPv4#108",
+            "sentence": "IP paketleri başlık kısmı ve veri kısmı olmak üzere iki kısımdan oluşur."
+        },
+        {
+            "id": "IPv4#109",
+            "sentence": "IP paketlerinde, bazı <PossibleEntity>veri bağlantısı katmanı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Veri_ba%C4%9Flant%C4%B1s%C4%B1_katman%C4%B1)</URL> protokollerinde olduğu gibi veri sağlama sayısı veya başka herhangi bir altlık içermez."
+        },
+        {
+            "id": "IPv4#110",
+            "sentence": "Genellikle <PossibleEntity>veri bağlantısı katmanı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Veri_ba%C4%9Flant%C4%B1s%C4%B1_katman%C4%B1)</URL> tarafından IP paketlerinin sarmalandığı paketlerin <PossibleEntity>döngüsel artıklık denetimi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/D%C3%B6ng%C3%BCsel_art%C4%B1kl%C4%B1k_denetimi)</URL> altlıkları tarafından birçok hata tespit edilir."
+        },
+        {
+            "id": "IPv4#111",
+            "sentence": "Ayrıca uçtan uca TCP katmanı sağlama toplamı birçok diğer hatayı tespit etmektedir."
+        },
+        {
+            "id": "IPv4#112",
+            "sentence": "IPv4 paket başlığı 14 alandan oluşur."
+        },
+        {
+            "id": "IPv4#113",
+            "sentence": "Başlıktaki alanlar yüksek basamaklı bayt başta olacak şekilde sıralanır ve yüksek basamaklı bitler önce yazılır."
+        },
+        {
+            "id": "IPv4#114",
+            "sentence": "En yüksek basamaklı bit 0 numaralı olandır."
+        },
+        {
+            "id": "IPv4#115",
+            "sentence": "Dolayısıyla \"Sürüm alanı ilk baytın dört en yüksek basamaklı bitinde bulunur.\" demek doğru bir ifadedir."
+        },
+        {
+            "id": "IPv4#116",
+            "sentence": "IP paket başlıklarındaki ilk alan dört bit uzunluğundaki sürüm alanıdır."
+        },
+        {
+            "id": "IPv4#117",
+            "sentence": "IPv4 için bu alana konacak değer 4'tür. (IPv4 adındaki v4 versiyon 4'ü temsil eder)"
+        },
+        {
+            "id": "IPv4#118",
+            "sentence": "4 bit uzunluğundaki bu ikinci alan başlıkta bulunan 32 bitlik ( word ) sayısıdır."
+        },
+        {
+            "id": "IPv4#119",
+            "sentence": "Yani bu alandaki değer başlığın kaç adet 32 bitten oluşabileceğini göstermektedir."
+        },
+        {
+            "id": "IPv4#120",
+            "sentence": "Başlıkta uzunluğu değişebilen tek alan seçenekler alanı olduğundan başlığın uzunluğunu bu alana belirler."
+        },
+        {
+            "id": "IPv4#121",
+            "sentence": "Uzunluğun 32 bitin katı olmaması durumunda en yakın katına yuvarlanacak şekilde doldurma bitleri eklenir."
+        },
+        {
+            "id": "IPv4#122",
+            "sentence": "Bu alanın alabileceği en düşük değer 5'tir ( <PossibleEntity>RFC 791</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc791)</URL> )."
+        },
+        {
+            "id": "IPv4#123",
+            "sentence": "Bu da 5×32 = 160 bit = 20 bayta karşılık gelir."
+        },
+        {
+            "id": "IPv4#124",
+            "sentence": "Bu alan 4 bitlik uzunlukta olduğundan gelebilecek en büyük değer 15'tir (yani 15×32 bit = 480 bits = 60 bayt)."
+        },
+        {
+            "id": "IPv4#125",
+            "sentence": "Aslında ilk olarak Hizmet Türü (ToS veya Type of Service ) alanı olarak tanımlanmıştır."
+        },
+        {
+            "id": "IPv4#126",
+            "sentence": "Ancak <PossibleEntity>RFC 2474</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc2474)</URL> 'ten itibaren <PossibleEntity>Sınıflandırılmış Hizmetler</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=S%C4%B1n%C4%B1fland%C4%B1r%C4%B1lm%C4%B1%C5%9F_Hizmetler&action=edit&redlink=1)</URL> (DiffServ veya Differentiated Services ) alanı olarak tanımlanmıştır."
+        },
+        {
+            "id": "IPv4#127",
+            "sentence": "Gitgide gerçek zamanlı veri akışı gerektiren ve dolayısıyla DSCP alanını kullanan yeni teknolojiler kullanıma girmektedir."
+        },
+        {
+            "id": "IPv4#128",
+            "sentence": "Etkileşimli ses verisi takasını sağlayan <PossibleEntity>Voice over IP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/VoIP)</URL> (VoIP) buna bir örnek olarak gösterilebilir."
+        },
+        {
+            "id": "IPv4#129",
+            "sentence": "<PossibleEntity>RFC 3168</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc3168)</URL> ile tanımlanan bu alan, paketleri düşürmeden uçtan uca ağ tıkanıklığı bildiriminin yapılmasını sağlar."
+        },
+        {
+            "id": "IPv4#130",
+            "sentence": "İsteğe bağlı olarak kullanılan ECN yalnızca iki üç noktanın da bu özelliği desteklemesi ve kullanmak istemesi durumunda uygulanabilir."
+        },
+        {
+            "id": "IPv4#131",
+            "sentence": "Yalnızca üzerinde olunan ağ tarafından desteklenmesi durumunda etkilidir."
+        },
+        {
+            "id": "IPv4#132",
+            "sentence": "Paketteki başlık ve verinin birlikte toplam uzunluğunu belirten bu 16 bitlik alanın alabileceği en küçük değer 20 (20 bayt başlık + 0 bayt veri), en büyük değer ise 65.535 bayttır (16 bitlik bir sayının alabileceği en büyük değer)."
+        },
+        {
+            "id": "IPv4#133",
+            "sentence": "IP paketlerinin mümkün olan en büyük uzunluğu 65.535 olsa da bu paketleri çerçeve adı verilen iletim birimlerine sarmalayıp taşıyan alt katman protokollerinin taşıyabileceği maksimum çerçeve uzunluğu değişkenlik göstermektedir."
+        },
+        {
+            "id": "IPv4#134",
+            "sentence": "Standartlara göre tüm hostlar 576 bayta kadar olan tüm veri bloklarını kabul edebilmelidir."
+        },
+        {
+            "id": "IPv4#135",
+            "sentence": "Günümüzde birçok host çok daha büyük paketleri taşıyabilmektedir."
+        },
+        {
+            "id": "IPv4#136",
+            "sentence": "Ancak bazen bazı alt ağlar maksimum paket büyüklüğü üzerine kısıtlama koymaktadır."
+        },
+        {
+            "id": "IPv4#137",
+            "sentence": "Bu durumda bu sınırı aşan veri bloklarının parçalara ayrılarak taşınması gerekmektedir."
+        },
+        {
+            "id": "IPv4#138",
+            "sentence": "Bu işleme parçalandırma ( fragmentation ) denmektedir."
+        },
+        {
+            "id": "IPv4#139",
+            "sentence": "Desteklenen maksimum paket büyüklüğünün 576 bayttan az olamayacağı standartla sabitlendiği için 576 bayta kadar olan tüm paketlerin parçalandırılmaya gerek kalmadan taşınabileceği kesindir."
+        },
+        {
+            "id": "IPv4#140",
+            "sentence": "IPv4 protokolünde parçalandırma işlemi hostlarda veya yönlendiricilerde gerçekleştirilebilir."
+        },
+        {
+            "id": "IPv4#141",
+            "sentence": "Tanımlama alanı olarak adlandırılan bu alan parçalandırılmış paketlerin hangi IP paketine ait olduğunu anlamak için her pakete eklenen ve aynı paketin parçaları olan paketlerde aynı olan sayının bulunduğu alandır."
+        },
+        {
+            "id": "IPv4#142",
+            "sentence": "Bazı deneysel çalışmalar tanımlama alanının başka amaçlar için de kullanılmasını önermiştir."
+        },
+        {
+            "id": "IPv4#143",
+            "sentence": "Örneğin bu alanın kaynak adresi alanında sahte bilgi içeren veri bloklarının takip edilmesini kolaylaştırma amacıyla kullanılabileceği önerisi yapılmış,  ancak <PossibleEntity>RFC 6864</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc6864)</URL> tarafından bu tür kullanımlar yasaklanmıştır."
+        },
+        {
+            "id": "IPv4#144",
+            "sentence": "Üç bitlik bu alan paket parçalarının kontrol edilmesi ve tanımlanabilmesi amacıyla kullanılmaktadır."
+        },
+        {
+            "id": "IPv4#145",
+            "sentence": "Yüksek basamaktan düşüğe doğru sıralı olmak üzere bayrak bitleri su şekildedir:"
+        },
+        {
+            "id": "IPv4#146",
+            "sentence": "Eğer DF bayrağı ayarlanmışsa ama paketin aktarımı esnasında yönlendirilebilmesi için parçalandırılması gerekiyorsa, paket düşürülür ve hata iletisi gönderilir."
+        },
+        {
+            "id": "IPv4#147",
+            "sentence": "Bu ayar parçalandırma işlemleriyle ilgilenecek miktarda kaynağı bulunmayan bir hosta paket gönderirken kullanılabilir."
+        },
+        {
+            "id": "IPv4#148",
+            "sentence": "Bir diğer kullanım alanı da paketin aktarım yolunun desteklediği maksimum paket boyutunu ölçmektir."
+        },
+        {
+            "id": "IPv4#149",
+            "sentence": "Bu ölçme IP yazılımı tarafından kendiliğinden veya <PossibleEntity>ping</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ping)</URL> veya <PossibleEntity>traceroute</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Traceroute)</URL> gibi bazı ağ tanılama araçlarıyla kullanıcı tarafından gerçekleştirilebilir."
+        },
+        {
+            "id": "IPv4#150",
+            "sentence": "MF biti, kendisinden sonra gelecek başka parçaların olduğu paketlerde 1 olarak, son paketlerde ise 0 olarak işaretlidir."
+        },
+        {
+            "id": "IPv4#151",
+            "sentence": "Parçalandırılmamış paketler de kendilerinin ilk ve son parçası olarak düşünülebileceğinden bu paketlerde MF biti 0'dır. Parçalandırılmış paketlerin de son parçaları hariç tüm parçalarında bu bit 1 olarak ayarlıdır."
+        },
+        {
+            "id": "IPv4#152",
+            "sentence": "MF biti 0 olan bir paketin tek başına bir paket mi yoksa bir paketin parçası mı olduğu Parçanın Başlangıç Konumu alanından anlaşılır."
+        },
+        {
+            "id": "IPv4#153",
+            "sentence": "Zira o alan tek parçadan oluşan paketlerde 0 olacaktır."
+        },
+        {
+            "id": "IPv4#154",
+            "sentence": "Orijinal paketin başlangıcına göre parçanın bağıl konumunu belirten bu alandaki 13 bit uzunluğunda olan sayının birimi sekiz bayttır (64 bit)."
+        },
+        {
+            "id": "IPv4#155",
+            "sentence": "Yani parçanın, orijinal paketin kaçıncı 64 bitlik kısmından itibaren olan kısmını içerdiğini belirtir."
+        },
+        {
+            "id": "IPv4#156",
+            "sentence": "Bu alanla en fazla (2 13 – 1) × 8 = 65.528 bayt uzunluğunda konum belirtilebilir ancak bu başlık da dahil edildiğinde maksimum IP paket boyutunu (65.535) aşmaktadır (65.528 + 20 = 65.548 bayt)."
+        },
+        {
+            "id": "IPv4#157",
+            "sentence": "Sekiz bitten oluşan yaşam süresi paketlerin internet üzerinde döngülere takılarak sonsuza kadar kalmasını engeller."
+        },
+        {
+            "id": "IPv4#158",
+            "sentence": "Teorik olarak bu alan paketin kalan ömrünü saniye türünden belirtir ve yol üzerinde paketin üzerinden geçtiği her düğüm yaşam süresi alanından paketin işlenmesi sırasında geçen süreyi düşer. 1 saniyeden kısa geçen süreler 1 saniyeye yuvarlanır."
+        },
+        {
+            "id": "IPv4#159",
+            "sentence": "Günümüzde paketler yönlendiriciler üzerinden 1 saniyeden çok daha küçük sürelerde aktarıldığından uygulamada bu alan atlama sayısının ölçüsü olarak kullanılır."
+        },
+        {
+            "id": "IPv4#160",
+            "sentence": "Yönlendiriciler paketi teslim aldığında TTL alanını bir azaltır."
+        },
+        {
+            "id": "IPv4#161",
+            "sentence": "Sayı sıfır olduğunda paket düşer ve göndericiye ICMP Zaman Aşımı (ICMP Time Exceeded) iletisi gönderilir."
+        },
+        {
+            "id": "IPv4#162",
+            "sentence": "<PossibleEntity>Traceroute</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Traceroute)</URL> yazılımı da paketin kaynaktan hedefe giderken üzerinden geçtiği yönlendiricilerin listesini oluştururken yönlendiricilerden gelen ICMP Zaman Aşımı iletilerini kullanır."
+        },
+        {
+            "id": "IPv4#163",
+            "sentence": "Bu alan IP paketlerinin veri kısmında hangi protokolün kullanıldığını tanımlar. <PossibleEntity>İnternet Tahsisli Sayılar ve İsimler Kurumuna</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_Tahsisli_Say%C4%B1lar_ve_%C4%B0simler_Kurumu)</URL> bağlı çalışan İnternet Tahsisli Sayılar Otoritesi, <PossibleEntity>RFC 790</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc790)</URL> ile belirenmiş IP protokol numaralarının bir listesini tutmakktadır."
+        },
+        {
+            "id": "IPv4#164",
+            "sentence": "16 bit uzunluğundaki sağlama toplamı alanı başlıkta hata denetimi yapmak amacıyla kullanılır."
+        },
+        {
+            "id": "IPv4#165",
+            "sentence": "Yönlendiriciye bir paket vardığında, yönlendirici paket başlığının sağlama toplamını hesaplar ve başlıkta yazan sağlamayla karşılaştırır."
+        },
+        {
+            "id": "IPv4#166",
+            "sentence": "Eğer değerler bağdaşmıyorsa yönlendirici paketi yok sayar."
+        },
+        {
+            "id": "IPv4#167",
+            "sentence": "Veri kısmındaki hatalarla veriyi sarmalayan protokol ilgilenmelidir."
+        },
+        {
+            "id": "IPv4#168",
+            "sentence": "Hem <PossibleEntity>UDP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/UDP)</URL> 'nin hem <PossibleEntity>TCP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/TCP)</URL> 'nin sağlama toplamı vardır."
+        },
+        {
+            "id": "IPv4#169",
+            "sentence": "Yönlendiriciye bir paket vardığında yönlendirici paketin TTL alanını bir azaltır."
+        },
+        {
+            "id": "IPv4#170",
+            "sentence": "Sonra da yeni sağlama toplamını hesaplar. <PossibleEntity>RFC 1071</PossibleEntity> <URL>:(https://datatracker.ietf.org/doc/html/rfc1071)</URL> sağlama toplamının hesaplanmasını şöyle tarif etmektedir:"
+        },
+        {
+            "id": "IPv4#171",
+            "sentence": "Örneğin on altılık gösterimi şu şekilde olan başlık verisini ele alalım: 4500003044224000800600008c7c19acae241e2b."
+        },
+        {
+            "id": "IPv4#172",
+            "sentence": "Bu veri toplamda 20 bayt uzunluğundaki bir IP paketi başlığıdır."
+        },
+        {
+            "id": "IPv4#173",
+            "sentence": "Standart ikinin tümleyeni artimetiğini uygulayan bir makinede:"
+        },
+        {
+            "id": "IPv4#174",
+            "sentence": "Başlığın sağlama toplamını doğrulamak için aynı algoritma kullanılabilir – doğru bir sağlama toplamı bulunduran bir başlığın sağlama toplamı hesaplandığında tamamen 0'dan oluşan bir sözcük elde edilir:"
+        },
+        {
+            "id": "IPv4#175",
+            "sentence": "Bu alan paketi gönderenin <PossibleEntity>IPv4 adresidir</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=IPv4_adresi&action=edit&redlink=1)</URL> ."
+        },
+        {
+            "id": "IPv4#176",
+            "sentence": "Ulaştırma esnasında bu adresin <PossibleEntity>ağ adresi çözümleme</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/NAT)</URL> aygıtı tarafından değiştirilebileceğine dikkat edin."
+        },
+        {
+            "id": "IPv4#177",
+            "sentence": "Bu alan paketin alıcısının <PossibleEntity>IPv4 adresidir</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=IPv4_adresi&action=edit&redlink=1)</URL> ."
+        },
+        {
+            "id": "IPv4#178",
+            "sentence": "Kaynak adresi gibi bu adres de bir <PossibleEntity>ağ adresi çözümleme</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/NAT)</URL> aygıtı tarafından ulaştırma esnasında değiştirilebilir."
+        },
+        {
+            "id": "IPv4#179",
+            "sentence": "Seçenekler alanı çok sık kullanılmaz."
+        },
+        {
+            "id": "IPv4#180",
+            "sentence": "IHL başlğında bulunan 32 bitlik sözcüklerin uzunluğunun tüm seçenekleri kapsayacak kadar büyük olması gerektiğine dikkat ediniz, toplam uzunluğun 32 bitin katı olmaması durumunda başlık gereken miktarda dolgu verisiyle doldurulmalıdır."
+        },
+        {
+            "id": "IPv4#181",
+            "sentence": "Seçenekler listesi EOL (Seçenekler Listesi Bitimi, 0x00) seçeneği ile bitirilebilir ancak bu yalnızca seçeneklerin sonu başka türlü başlığın sonuyla denk gelmiyorsa gereklidir."
+        },
+        {
+            "id": "IPv4#182",
+            "sentence": "Başlığa konulabilecek seçeneklerin listesi şöyledir:"
+        },
+        {
+            "id": "IPv4#183",
+            "sentence": "<PossibleEntity>Loose Source and Record Route</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Loose_Source_and_Record_Route&action=edit&redlink=1)</URL> (LSRR) ve <PossibleEntity>Strict Source and Record Route</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Strict_Source_and_Record_Route&action=edit&redlink=1)</URL> (SSRR) seçeneklerinin kullanılması güvelik kaygıları nedeniyle önerilmemektedir."
+        },
+        {
+            "id": "IPv4#184",
+            "sentence": "Bu seçenekleri barındıran paketleri birçok yönlendirici engellemektedir."
+        }
+    ]
+}

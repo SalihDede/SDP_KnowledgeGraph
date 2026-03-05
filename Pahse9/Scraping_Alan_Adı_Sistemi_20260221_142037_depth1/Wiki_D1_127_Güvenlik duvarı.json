@@ -1,0 +1,126 @@
+{
+    "Title": "Güvenlik duvarı",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Güvenlik duvarı#1",
+            "sentence": "Güvenlik duvarı veya ateş duvarı , ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : Firewall ), güvenlik duvarı yazılımı, bir kural kümesi temelinde ağa gelen giden paket trafiğini kontrol eden donanım tabanlı ağ güvenliği sistemidir."
+        },
+        {
+            "id": "Güvenlik duvarı#2",
+            "sentence": "Birçok farklı filtreleme özelliği ile <PossibleEntity>bilgisayar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar)</URL> ve ağın gelen ve giden paketler olmak üzere <PossibleEntity>İnternet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> trafiğini kontrol altında tutar. <PossibleEntity>IP filtreleme</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPFilter)</URL> , <PossibleEntity>port filtreleme</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Port_filtreleme&action=edit&redlink=1)</URL> , <PossibleEntity>Web</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Web)</URL> filtreleme, içerik filtreleme bunlardan birkaçıdır. [kaynak belirtilmeli]"
+        },
+        {
+            "id": "Güvenlik duvarı#3",
+            "sentence": "Birçok kişisel bilgisayar işletim sistemleri, internetten gelen tehditlerine karşı korumak için yazılım tabanlı güvenlik duvarları içerir."
+        },
+        {
+            "id": "Güvenlik duvarı#4",
+            "sentence": "Ağlar arasında veri aktaran birçok yönlendirici güvenlik duvarı bileşenleri içerir ve, birçok güvenlik duvarı temel yönlendirme işlevlerini gerçekleştirebilir."
+        },
+        {
+            "id": "Güvenlik duvarı#5",
+            "sentence": "İnternet küresel kullanım ve bağlantı açısından oldukça yeni bir teknoloji iken, bugün güvenlik duvarı teknolojisinin ilk örneği olarak kabul edilen güvenlik duvarı yazılımı 1988'de <PossibleEntity>Digital Equipment Corporation</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Digital_Equipment_Corporation)</URL> tarafından piyasaya sunulmuştur."
+        },
+        {
+            "id": "Güvenlik duvarı#6",
+            "sentence": "Paket filtrelemeli güvenlik duvarı olan bu ilk güvenlik duvarı teknolojisi, bugün birinci nesil adıyla da anılır."
+        },
+        {
+            "id": "Güvenlik duvarı#7",
+            "sentence": "Günümüzde daha yaygın olarak yeni nesil olarak adlandırılan güvenlik duvarları ise üçüncü nesile dahildir."
+        },
+        {
+            "id": "Güvenlik duvarı#8",
+            "sentence": "Paket filtreleri, internet üzerindeki bilgisayarlar arasında transfer edilen paket başlıklarını inceleyerek hareket eder. Bir paket güvenlik duvarından geçtiği sırada eğer başlık bilgisi, güvenlik duvarı üzerinde daha önceden tanımlanmış olan, \"güvenlik duvarı paket filtresi\" ile eşleşirse, ya paket atılır ya da reddedilerek kaynağa hata mesajları gönderilir."
+        },
+        {
+            "id": "Güvenlik duvarı#9",
+            "sentence": "Bu tür paket filtreleme, paketin mevcut ağ akışının bir parçası olup olmadığına bakmaz."
+        },
+        {
+            "id": "Güvenlik duvarı#10",
+            "sentence": "Paket filtrelemeli güvenlik duvarı <PossibleEntity>OSI Modeli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/OSI_modeli)</URL> 'nin ilk 3 katmanında çalışır."
+        },
+        {
+            "id": "Güvenlik duvarı#11",
+            "sentence": "Paket başlığındaki bilgilerin hepsini baz alarak filtreleme işlemi gerçekleştirilebilir."
+        },
+        {
+            "id": "Güvenlik duvarı#12",
+            "sentence": "Güvenlik duvarları, ağ güvenliğini sağlamak için belirli güvenlik politikaları uygular."
+        },
+        {
+            "id": "Güvenlik duvarı#13",
+            "sentence": "Bu politikaların oluşturulmasında, <PossibleEntity>Crown Jewel Analizi</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Crown_Jewel_Analizi&action=edit&redlink=1)</URL> gibi metodolojiler kullanılarak kritik varlıklar belirlenebilir."
+        },
+        {
+            "id": "Güvenlik duvarı#14",
+            "sentence": "Bu sayede, en önemli sistemlerin daha sıkı güvenlik önlemleri ile korunması sağlanır."
+        },
+        {
+            "id": "Güvenlik duvarı#15",
+            "sentence": "<PossibleEntity>Veriyi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Veri)</URL> kaynağından hedefine kadar takip eder. Uygulama tabakası güvenlik duvarı ise yalnızca gelen ve giden verinin başlık kısımlarını kontrol eder ve uygulama katmanındaki protokolleri kısıtlayarak güvenliği sağlar."
+        },
+        {
+            "id": "Güvenlik duvarı#16",
+            "sentence": "Örneğin <PossibleEntity>HTTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/HTTP)</URL> protokolü üzerinden bir web sitesinin erişiminin engellenmesi buna örnek olarak verilebilir."
+        },
+        {
+            "id": "Güvenlik duvarı#17",
+            "sentence": "Daha gelişmiş olanı durumlu denetim özellikte olanlar olup daha çok büyük <PossibleEntity>ağların</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar_a%C4%9F%C4%B1)</URL> <PossibleEntity>internet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> ve iç ağdaki trafiklerini kontrol eder."
+        },
+        {
+            "id": "Güvenlik duvarı#18",
+            "sentence": "<PossibleEntity>OSI Modelinde</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/OSI_Modeli)</URL> uygulama katmanı düzeyinde çalışır."
+        },
+        {
+            "id": "Güvenlik duvarı#19",
+            "sentence": "En sık kullanılan güvenlik duvarı tekniğidir."
+        },
+        {
+            "id": "Güvenlik duvarı#20",
+            "sentence": "Uygulama katmanındaki güvenlik duvarı, gelen paketin veri kısmına kadar olan tüm paket başlıklarını açıp kontrol edebilir ve filtreleyebilir."
+        },
+        {
+            "id": "Güvenlik duvarı#21",
+            "sentence": "Uygulama katmanında filtreleme yapmanın en önemli avantajı bazı uygulamalar ve protokollerin anlaşılır olmasıdır ( <PossibleEntity>FTP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Dosya_aktar%C4%B1m_ileti%C5%9Fim_kural%C4%B1)</URL> , <PossibleEntity>DNS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/DNS)</URL> , HTTP gibi)."
+        },
+        {
+            "id": "Güvenlik duvarı#22",
+            "sentence": "Günümüzdeki güvenlik duvarları da sadece port kapamak amaçlı kullanılmıyor."
+        },
+        {
+            "id": "Güvenlik duvarı#23",
+            "sentence": "Yeni nesil güvenlik duvarları da U.T.M. (Unified Threat Management) (güvenlik duvarı, <PossibleEntity>antivirüs</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar_vir%C3%BCs%C3%BC)</URL> , anti <PossibleEntity>spam</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Y%C4%B1%C4%9F%C4%B1n_mesaj)</URL> , IDS/IPS, <PossibleEntity>VPN</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sanal_%C3%B6zel_a%C4%9F)</URL> , <PossibleEntity>yönlendirici</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Y%C3%B6nlendirici)</URL> ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : router ) gibi özellikleri olan) tümleşik cihazlardır."
+        },
+        {
+            "id": "Güvenlik duvarı#24",
+            "sentence": "Bu güvenlik önlemleri, <PossibleEntity>Crown Jewel Analizi (CJA)</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Crown_Jewel_Analizi_(CJA)&action=edit&redlink=1)</URL> gibi metodolojilerle desteklenerek, en önemli varlıkları koruma stratejileri oluşturmak için kullanılabilir."
+        },
+        {
+            "id": "Güvenlik duvarı#25",
+            "sentence": "Her ne kadar bir dönem bilinen güvenlik duvarı markaları U.T.M. cihazlarının hantal ve başarız olduğunu iddia etse de günümüzde tüm ateş duvarı üreticileri U.T.M. cihazlarını üretmektedir."
+        },
+        {
+            "id": "Güvenlik duvarı#26",
+            "sentence": "Bilinen U.T.M. cihaz markaları Cisco ASA, <PossibleEntity>Fortinet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fortinet)</URL> , Labris, Juniper, NetSafe-Unity, Netscreen ve Symantec serisidir."
+        },
+        {
+            "id": "Güvenlik duvarı#27",
+            "sentence": "Bu cihazlar üzerinde <PossibleEntity>port</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ba%C4%9Flant%C4%B1_noktas%C4%B1_(bilgisayar_a%C4%9F%C4%B1))</URL> protokol bazısında kısıtlama yapabilir."
+        },
+        {
+            "id": "Güvenlik duvarı#28",
+            "sentence": "Web filtrelemesi (terör, şiddet, silah gibi kategorilerine göre yasaklama) yapabilir."
+        },
+        {
+            "id": "Güvenlik duvarı#29",
+            "sentence": "Dosya indirme gibi işlemleri durdurabilir."
+        },
+        {
+            "id": "Güvenlik duvarı#30",
+            "sentence": "İyi kurulmuş bir güvenlik duvarı, bilgisayarı bir <PossibleEntity>daktiloya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Daktilo)</URL> çevirebilir."
+        }
+    ]
+}

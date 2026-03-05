@@ -1,0 +1,106 @@
+{
+    "Title": "Yönlendirici",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Yönlendirici#1",
+            "sentence": "Yönlendirici ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : router ), aynı ağ <PossibleEntity>iletişim kurallarını</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0leti%C5%9Fim_protokol%C3%BC)</URL> kullanan iki <PossibleEntity>bilgisayar ağı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar_a%C4%9F%C4%B1)</URL> arasında veri çerçevelerinin iletimini sağlayan <PossibleEntity>ağ donanımıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C4%9F_donan%C4%B1m%C4%B1)</URL> ."
+        },
+        {
+            "id": "Yönlendirici#2",
+            "sentence": "Yönlendirme için <PossibleEntity>OSI yedi katman modelinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/OSI_Modeli)</URL> üçüncüsü olan <PossibleEntity>ağ katmanı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C4%9F_tabakas%C4%B1_(protokol))</URL> kullanılır."
+        },
+        {
+            "id": "Yönlendirici#3",
+            "sentence": "Genellikle bu iş için özel üretilmiş donanımlar varsa da birden çok <PossibleEntity>arayüzü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kullan%C4%B1c%C4%B1_aray%C3%BCz%C3%BC)</URL> olan bilgisayarlar da yazılım desteğiyle yöneltici olarak çalışabilirler."
+        },
+        {
+            "id": "Yönlendirici#4",
+            "sentence": "Bir yöneltici iki veya daha fazla ağ arasındaki kesişme noktasıdır ve parçası olduğu her ağ için bir <PossibleEntity>arayüz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Aray%C3%BCz)</URL> taşır."
+        },
+        {
+            "id": "Yönlendirici#5",
+            "sentence": "Her iki ağın da parçası olduğu için veri paketlerinin ağlar arasında yollarını bulmaları görevini üstlenir."
+        },
+        {
+            "id": "Yönlendirici#6",
+            "sentence": "Yöneltme işlemi bir veri paketinin bir istasyondan diğerine yolunun belirlenmesidir."
+        },
+        {
+            "id": "Yönlendirici#7",
+            "sentence": "Yolun seçimi için yöneltici <PossibleEntity>yöneltme iletişim kurallarını</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Y%C3%B6neltme_ileti%C5%9Fim_kural%C4%B1)</URL> ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : routing protocol ) kullanarak diğer yönelticilerle bağlantı kurar ve gelen bilgileri yöneltme tablosuna ekler."
+        },
+        {
+            "id": "Yönlendirici#8",
+            "sentence": "Gerektiğinde elle de oluşturulabilen yöneltme tablosu bilinen hedeflere giden yolları içerir."
+        },
+        {
+            "id": "Yönlendirici#9",
+            "sentence": "Eğer gelen bir veri paketinin hedefi yöneltme tablosu ile belirlenemiyorsa ve bu durum için standart bir <PossibleEntity>ağ geçidi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C4%9F_ge%C3%A7idi)</URL> tanımlanmamışsa, yöneltme işlemi başarısızlıkla sonuçlanmış olur. Aksi takdirde paket hedefe ya da hedefin bağlı olduğu varsayılan yönelticiye gönderilir."
+        },
+        {
+            "id": "Yönlendirici#10",
+            "sentence": "Her ne kadar <PossibleEntity>IP iletişim kuralı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IP)</URL> günümüzde en çok bilinen <PossibleEntity>yöneltilebilir iletişim kuralıysa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Y%C3%B6neltilebilir_ileti%C5%9Fim_kural%C4%B1)</URL> da <PossibleEntity>AppleTalk</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/AppleTalk)</URL> , <PossibleEntity>IPX</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IPX)</URL> SNA, XNS ve DECnet gibi başka <PossibleEntity>iletişim kurallarının</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=%C4%B0leti%C5%9Fim_kural%C4%B1&action=edit&redlink=1)</URL> da yöneltilebilir özelliği olduğunu unutmamak gerekir. <PossibleEntity>Yöneltilebilir iletişim kuralı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Y%C3%B6neltilebilir_ileti%C5%9Fim_kural%C4%B1)</URL> ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : routable protocol ) ve <PossibleEntity>yöneltme iletişim kuralı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Y%C3%B6neltme_ileti%C5%9Fim_kural%C4%B1)</URL> ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : routing protocol ) birbirleriyle karıştırılmaması gereken farklı kavramlardır."
+        },
+        {
+            "id": "Yönlendirici#11",
+            "sentence": "Yönelticiler ortamdan bağımsız ama ağ <PossibleEntity>iletişim kurallarına</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=%C4%B0leti%C5%9Fim_kural%C4%B1&action=edit&redlink=1)</URL> bağımlı çalışırlar. <PossibleEntity>Köprü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/K%C3%B6pr%C3%BC)</URL> ya da <PossibleEntity>dağıtıcıda</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Da%C4%9F%C4%B1t%C4%B1c%C4%B1)</URL> durum tam tersidir."
+        },
+        {
+            "id": "Yönlendirici#12",
+            "sentence": "Mesela üzerinde bir modem, bir <PossibleEntity>WLAN</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/WLAN)</URL> arayüzü ve bir ethernet kartı olan bir yöneltici bu farklı ortamlarda çalışan ağların bir parçası olabilir."
+        },
+        {
+            "id": "Yönlendirici#13",
+            "sentence": "Ama işlevini gerçekleştirebilmesi için ortamların aynı ağ <PossibleEntity>iletişim kurallarını</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=%C4%B0leti%C5%9Fim_kural%C4%B1&action=edit&redlink=1)</URL> (Ör.: <PossibleEntity>IP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/IP)</URL> ) kullanıyor olmaları gerekir."
+        },
+        {
+            "id": "Yönlendirici#14",
+            "sentence": "Bu durum yönelticinin birden fazla <PossibleEntity>iletişim kuralını</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=%C4%B0leti%C5%9Fim_kural%C4%B1&action=edit&redlink=1)</URL> tanımasına engel değildir."
+        },
+        {
+            "id": "Yönlendirici#15",
+            "sentence": "Her ne kadar günlük yaşamda ve bazı <PossibleEntity>işletim sistemlerinde</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0%C5%9Fletim_sistemi)</URL> <PossibleEntity>ağ geçidi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C4%9F_ge%C3%A7idi)</URL> ve yöneltici aynı anlamda kullanılıyorsa da, <PossibleEntity>ağ geçidi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C4%9F_ge%C3%A7idi)</URL> <PossibleEntity>OSI yedi katman modelinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/OSI_Modeli)</URL> dördüncü ve yukarısındaki katmanlarında uygulama bulur. <PossibleEntity>Ağ geçidi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C4%9F_ge%C3%A7idi)</URL> farklı ağ <PossibleEntity>iletişim kuralı</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=%C4%B0leti%C5%9Fim_kural%C4%B1&action=edit&redlink=1)</URL> ( <PossibleEntity>TCP/IP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_ileti%C5%9Fim_kurallar%C4%B1_dizisi)</URL> ve SNA gibi) kullanan iki ağı birbirine bağlamakta kullanılabilir. <PossibleEntity>İnternet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> üzerinden normal telefon numaralarının aranabildiği <PossibleEntity>VoIP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/VoIP)</URL> uygulamalarında da <PossibleEntity>telekomunikasyon</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Telekomunikasyon&action=edit&redlink=1)</URL> ağını internete bağlayan <PossibleEntity>ağ geçitleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C4%9F_ge%C3%A7idi)</URL> kullanılmaktadır."
+        },
+        {
+            "id": "Yönlendirici#16",
+            "sentence": "Yönlendiriciler işletimler içinde, işletimle internet arasında ve internet servis sağlayıcıları arasında bağlantı sağlar."
+        },
+        {
+            "id": "Yönlendirici#17",
+            "sentence": "Cisco CRS_1 veya JuniperT1600 gibi büyük yöneticiler internet servis sağlayıcılarında veya geniş işletim ağlarında kullanılır."
+        },
+        {
+            "id": "Yönlendirici#18",
+            "sentence": "Küçük yöneticiler ev ofislerde bağlantı sağlar."
+        },
+        {
+            "id": "Yönlendirici#19",
+            "sentence": "Günümüzdeki yönlendiriciler ile belli başlı benzer özelliklere sahip ilk aygıtlara örnek olarak paket servisler verilebilir."
+        },
+        {
+            "id": "Yönlendirici#20",
+            "sentence": "Arayüz mesaj işlemci aletleri ARPANET tarafından üretilir."
+        },
+        {
+            "id": "Yönlendirici#21",
+            "sentence": "Yönlendirici fikri ilk olarak (o zamanlar geçit olarak adlandırılıyordu)'INWG' Internatıonal Network Working Group olarak adlandırılan uluslararası bilgisayar ağı araştırmacıları sayesinde ortaya çıkarıldı."
+        },
+        {
+            "id": "Yönlendirici#22",
+            "sentence": "Harici ağlar, genel güvenlik stratejisinin önemli bir parçası olarak düşünülmelidir."
+        },
+        {
+            "id": "Yönlendirici#23",
+            "sentence": "Yönlendirici'den farklı olarak <PossibleEntity>güvenlik duvarı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCvenlik_duvar%C4%B1)</URL> veya <PossibleEntity>VPN</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/VPN)</URL> işleme cihazı bu ya da diğer güvenlik fonksiyonlarını içerebilir."
+        },
+        {
+            "id": "Yönlendirici#24",
+            "sentence": "Birçok şirket güvenlik odaklı yönlendirici'ler üretmiştir."
+        },
+        {
+            "id": "Yönlendirici#25",
+            "sentence": "Buna Cisco system'in PIX'i ve ASA5500 serisi, Juniper'in Netscreen'i, Watchguard'ın Firebox'ı, Barracuda'nın posta odaklı cihazları ve daha birçokları dahildir."
+        }
+    ]
+}

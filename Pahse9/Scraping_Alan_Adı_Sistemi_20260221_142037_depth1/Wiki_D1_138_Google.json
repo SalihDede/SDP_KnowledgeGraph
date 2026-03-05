@@ -1,0 +1,1110 @@
+{
+    "Title": "Google",
+    "Card": {
+        "Slogan": "<PossibleEntity>\"Don't be evil\"</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Don%27t_be_evil)</URL> (Kötü olma) ",
+        "Eski ad(lar)": "Google Inc. (1998–2017)",
+        "Tip": "<PossibleEntity>Alt şirket</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alt_%C5%9Firket)</URL>",
+        "Menkul değer sembolü": "<PossibleEntity>NASDAQ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nasdaq)</URL> : GOOGL, GOOG",
+        "Endüstri": "<PossibleEntity>İnternet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> <PossibleEntity>Bulut bilişim</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bulut_bili%C5%9Fim)</URL> <PossibleEntity>Bilgisayar yazılımı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yaz%C4%B1l%C4%B1m)</URL> <PossibleEntity>Bilgisayar donanımı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar_donan%C4%B1m%C4%B1)</URL> <PossibleEntity>Yapay zekâ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2)</URL> <PossibleEntity>Reklam</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Reklam)</URL>",
+        "Kuruluş": "4 Eylül 1998 (27 yıl önce ) ( 1998-09-04 ) [a] <PossibleEntity>Menlo Park</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Menlo_Park,_Kaliforniya)</URL> , <PossibleEntity>Kaliforniya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kaliforniya)</URL> , Amerika Birleşik Devletleri",
+        "Kurucu": "<PossibleEntity>Larry Page</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Larry_Page)</URL> <PossibleEntity>Sergey Brin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sergey_Brin)</URL>",
+        "Genel merkezi": "<PossibleEntity>Googleplex</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Googleplex)</URL> , <PossibleEntity>Mountain View, California</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mountain_View,_Kaliforniya)</URL> , Amerika Birleşik Devletleri",
+        "Hizmet alanları": "Dünya çapında",
+        "Önemli kişiler": "<PossibleEntity>Sundar Pichai</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sundar_Pichai)</URL> ( <PossibleEntity>CEO</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0cra_kurulu_ba%C5%9Fkan%C4%B1)</URL> ) <PossibleEntity>Ruth Porat</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Ruth_Porat&action=edit&redlink=1)</URL> ( <PossibleEntity>CFO</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mali_i%C5%9Fler_m%C3%BCd%C3%BCr%C3%BC)</URL> ) <PossibleEntity>Thomas Kurian</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Thomas_Kurian&action=edit&redlink=1)</URL> ( <PossibleEntity>Google Cloud</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Cloud)</URL> 'ın <PossibleEntity>CEO</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0cra_kurulu_ba%C5%9Fkan%C4%B1)</URL> 'su)",
+        "Ürün": "<PossibleEntity>Arama</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Arama)</URL> <PossibleEntity>Workspace</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Workspace&action=edit&redlink=1)</URL> <PossibleEntity>Android</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Android)</URL> <PossibleEntity>Waze</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Waze)</URL> <PossibleEntity>Pixel</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Pixel)</URL> <PossibleEntity>Nest</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Nest)</URL> <PossibleEntity>Tam liste</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_%C3%BCr%C3%BCnleri_listesi)</URL>",
+        "Alt kuruluş(lar)": "<PossibleEntity>Adscape</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Adscape&action=edit&redlink=1)</URL> <PossibleEntity>Android</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Android)</URL> <PossibleEntity>DeepMind</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_DeepMind)</URL> <PossibleEntity>Endoxon</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Endoxon&action=edit&redlink=1)</URL> <PossibleEntity>FeedBurner</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/FeedBurner)</URL> <PossibleEntity>Fitbit</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fitbit)</URL> <PossibleEntity>ImageAmerica</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=ImageAmerica&action=edit&redlink=1)</URL> <PossibleEntity>Kaltix</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Kaltix&action=edit&redlink=1)</URL> <PossibleEntity>Nest Labs</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Nest)</URL> <PossibleEntity>YouTube</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/YouTube)</URL> <PossibleEntity>ZipDash</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=ZipDash&action=edit&redlink=1)</URL>",
+        "Sahibi": "<PossibleEntity>Alphabet Inc.</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alphabet_(%C5%9Firket))</URL>",
+        "Çalışan sayısı": "139.995 (2021)",
+        "Web sitesi": "<PossibleEntity>about.google</PossibleEntity> <URL>:(https://about.google/)</URL> Dipnotlar / referanslar   "
+    },
+    "Main": [
+        {
+            "id": "Google#1",
+            "sentence": "Google LLC , <PossibleEntity>internet araması</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Arama_motoru)</URL> , <PossibleEntity>çevrim içi bilgi dağıtımı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bulut_bili%C5%9Fim)</URL> , reklam teknolojileri ve arama motorları için yatırımlar yapan çok uluslu Amerikan şirketidir."
+        },
+        {
+            "id": "Google#2",
+            "sentence": "Şirket <PossibleEntity>internet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> tabanlı hizmet ve ürünler geliştirmektedir."
+        },
+        {
+            "id": "Google#3",
+            "sentence": "Kârının büyük bir kısmını <PossibleEntity>Google Ads</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Ads)</URL> (eski adı ile <PossibleEntity>AdWords</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Ads)</URL> ) hizmeti üzerinden elde etmektedir."
+        },
+        {
+            "id": "Google#4",
+            "sentence": "Şirket, <PossibleEntity>Larry Page</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Larry_Page)</URL> ve <PossibleEntity>Sergey Brin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sergey_Brin)</URL> tarafından, <PossibleEntity>Stanford Üniversitesinde</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Stanford_%C3%9Cniversitesi)</URL> doktora öğrencisi oldukları dönemde kurulmuştur."
+        },
+        {
+            "id": "Google#5",
+            "sentence": "İkili, \"Google Guys\" olarak anılmaktadır."
+        },
+        {
+            "id": "Google#6",
+            "sentence": "Google, ilk olarak 4 Eylül 1998 tarihinde özel bir şirket olarak kuruldu ve 19 Ağustos 2004 tarihinde <PossibleEntity>halka arz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Halka_arz)</URL> edildi."
+        },
+        {
+            "id": "Google#7",
+            "sentence": "Halka arzın gerçekleştiği dönemde, <PossibleEntity>Larry Page</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Larry_Page)</URL> , <PossibleEntity>Sergey Brin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sergey_Brin)</URL> ve <PossibleEntity>Eric Schmidt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Eric_Schmidt)</URL> , takip eden yirmi yıl boyunca, yani 2024 yılına kadar Google'da birlikte çalışmak üzere anlaştılar."
+        },
+        {
+            "id": "Google#8",
+            "sentence": "Kuruluşundan bu yana <PossibleEntity>misyonu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Misyon)</URL> \"dünyadaki bilgiyi organize etmek ve bunu evrensel olarak erişilebilir ve kullanılabilir hâle getirmek\"tir.  Gayriresmî sloganı ise, Google mühendisi Amit Patel tarafından bulunan ve <PossibleEntity>Paul Buchheit</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Paul_Buchheit)</URL> tarafından desteklenen  \" <PossibleEntity>Don't be evil</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Don%27t_be_evil)</URL> \"dır (Kötü olma)."
+        },
+        {
+            "id": "Google#9",
+            "sentence": "Şirket merkezi 2006 yılında, hâlâ aktif olan <PossibleEntity>Mountain View</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mountain_View,_Kaliforniya)</URL> , <PossibleEntity>Kaliforniya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kaliforniya)</URL> 'ya taşınmıştır."
+        },
+        {
+            "id": "Google#10",
+            "sentence": "Şirketin merkezine, Googleplex adı verilmektedir."
+        },
+        {
+            "id": "Google#11",
+            "sentence": "Google'ın dünya çapında veri merkezlerinde bir milyondan fazla sunucuda çalıştığı,  bir milyardan fazla arama isteğini işlediği  ve kullanıcıları tarafından oluşturulan verinin günde yirmi dört <PossibleEntity>petabayt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Petabayt)</URL> olduğu tahmin edilmektedir."
+        },
+        {
+            "id": "Google#12",
+            "sentence": "Kuruluşundan bugüne dek gerçekleşen büyüme hızı, şirketin temel web arama motorunun ötesinde ürünler, satın almalar ve ortaklıklar zincirinin meydana gelmesini sağladı."
+        },
+        {
+            "id": "Google#13",
+            "sentence": "Şirket, <PossibleEntity>Orkut</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orkut)</URL> , <PossibleEntity>Google Buzz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Buzz)</URL> ve <PossibleEntity>Google+</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google%2B)</URL> gibi <PossibleEntity>sosyal ağ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sosyal_a%C4%9F_hizmeti)</URL> araçları ile elektronik posta hizmeti <PossibleEntity>Gmail</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Gmail)</URL> servisi gibi çevrim içi verimlilik yazılımları sunmakta, ek olarak, web tarayıcısı <PossibleEntity>Google Chrome</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Chrome)</URL> , navigasyon uygulaması <PossibleEntity>Google Haritalar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Haritalar)</URL> , mesajlaşma uygulaması <PossibleEntity>Google Hangouts</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Hangouts)</URL> gibi hizmetler sunmaktadır."
+        },
+        {
+            "id": "Google#14",
+            "sentence": "Bunlar dışında, <PossibleEntity>Android</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Android)</URL> mobil <PossibleEntity>işletim sistemi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0%C5%9Fletim_sistemi)</URL> gelişimine öncülük yapmıştır. <PossibleEntity>Cr-48</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Chrome_OS)</URL> ana işletim sistemi olarak da bilinen yeni <PossibleEntity>Google Chrome OS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Chrome_OS)</URL> , 15 Haziran 2011 tarihinden beri, <PossibleEntity>Samsung Series 5</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Chromebook#Samsung_Series_5)</URL>  ve <PossibleEntity>Acer AC700</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Acer_AC700&action=edit&redlink=1)</URL>  gibi ticari <PossibleEntity>Chromebook</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Chromebook)</URL> 'larda  kullanılmaktadır."
+        },
+        {
+            "id": "Google#15",
+            "sentence": "<PossibleEntity>Alexa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alexa)</URL> , internette en çok ziyaret edilen web sitesi olarak ABD odaklı \"google.com\" u listelemektedir, <PossibleEntity>YouTube</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/YouTube)</URL> , <PossibleEntity>Blogger</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Blogger)</URL> , <PossibleEntity>Orkut</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orkut)</URL> gibi Google'a ait diğer siteler ve çok sayıda uluslararası Google sitesi (google.co.in, google.co.uk vb.) ise en çok ziyaret edilen siteler arasında ilk yüz içinde yer almaktadır."
+        },
+        {
+            "id": "Google#16",
+            "sentence": "Ek olarak şirket, BrandZ marka değeri veri tabanı listesinde ikinci sırada yer almaktadır."
+        },
+        {
+            "id": "Google#17",
+            "sentence": "Buna karşın Google, gizlilik, telif hakkı ve sansür gibi konularda <PossibleEntity>eleştiriler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_ele%C5%9Ftirisi)</URL> almaktadır."
+        },
+        {
+            "id": "Google#18",
+            "sentence": "Google'ın kuruluş süreci 1996 Ocak ayında <PossibleEntity>Kaliforniya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kaliforniya)</URL> 'daki <PossibleEntity>Stanford Üniversitesinde</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Stanford_%C3%9Cniversitesi)</URL> doktora öğrencileri olan <PossibleEntity>Larry Page</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Larry_Page)</URL> ve <PossibleEntity>Sergey Brin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sergey_Brin)</URL> 'in araştırma projesiyle başladı."
+        },
+        {
+            "id": "Google#19",
+            "sentence": "Geleneksel arama motorlarıyla yapılan aramalarda, sonuçlar; aranan terimlerin sayfada kaç kez görüldüğü mantığıyla sıralanıyordu ancak Google siteler arası ilişkilerin analizi konusunda çok daha elverişli iki sistem kuramı ortaya koydu."
+        },
+        {
+            "id": "Google#20",
+            "sentence": "Bu yeni teknolojiye <PossibleEntity>PageRank</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/PageRank)</URL> adı veriliyordu, bu sisteme göre sayfa dizinlerinin orijinal site ile olan bağlantı dönüşümleri belirlenerek; siteler, gösterilen ilgiye göre sıralanıyordu."
+        },
+        {
+            "id": "Google#21",
+            "sentence": "Küçük bir arama motoru olan ve <PossibleEntity>Robin Li</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Robin_Li)</URL> tarafından IDD Bilişim Hizmetleri adına geliştirilen \" <PossibleEntity>RankDex</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=RankDex&action=edit&redlink=1)</URL> \", zaten 1996'dan beri site puanlaması ve sayfa sıralaması için benzer bir strateji kullanmaktaydı."
+        },
+        {
+            "id": "Google#22",
+            "sentence": "RankDex, patentliydi  ve Li'nin Çin'de kurulmuş olduğu <PossibleEntity>Baidu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Baidu)</URL> adını taşıyan arama motoru bu sistemle çalışıyordu."
+        },
+        {
+            "id": "Google#23",
+            "sentence": "Page ve Brin yeni oluşturdukları arama motoruna ilk olarak \"BackRub\" ismini koymuştu, çünkü siteler için geri bağlantıların kontrol edilmesinin önemini tahmin edebiliyorlardı."
+        },
+        {
+            "id": "Google#24",
+            "sentence": "Ancak daha sonra, \" <PossibleEntity>googol</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Googol)</URL> \" sözcüğü üzerinde orijinal bir imla değişikliği yapılarak, bu arama motoru Google olarak adlandırıldı,   Google arama motoruyla insanlara büyük bir bilgi kaynağının sunulduğunu belirtmek için bu isim konulmuştu, çünkü googol on üzeri yüz rakamını ifade ediyordu."
+        },
+        {
+            "id": "Google#25",
+            "sentence": "Başlangıçta Google; Stanford Üniversitesinin alt-alan adı olarak google.stanford.edu alan adını kullandı."
+        },
+        {
+            "id": "Google#26",
+            "sentence": "Bugün kullandığı alan adını 15 Eylül 1997'de etkinleştirdi  ve 4 Eylül 1998'de Google şirketi resmen kuruldu."
+        },
+        {
+            "id": "Google#27",
+            "sentence": "Şirket merkezi arkadaşları <PossibleEntity>Susan Wojcicki</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Susan_Wojcicki)</URL> 'nin  <PossibleEntity>Menlo Park</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Menlo_Park,_Kaliforniya)</URL> , Kaliforniya'da bulunan garajı olarak belirlendi."
+        },
+        {
+            "id": "Google#28",
+            "sentence": "Stanford Üniversitesinde doktora yapan bir öğrenci olan Craig Silverstein, ilk çalışan olarak işe alındı."
+        },
+        {
+            "id": "Google#29",
+            "sentence": "Bir yıl önceki rakam olan 931 milyon tekil ziyaretçi sayısındaki yüzde 8,4'lük bir artışla, 2001 Mayıs ayında; Google'ın tekil ziyaretçi sayısı ilk kez 1 milyarı buldu."
+        },
+        {
+            "id": "Google#30",
+            "sentence": "Google'a 100.000 <PossibleEntity>$</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)</URL> 'lık ilk finansman desteğini daha önce Google'ın da dâhil olduğu bir şirket olan <PossibleEntity>Sun Microsystems</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sun_Microsystems)</URL> 'ın kurulum ortaklarından <PossibleEntity>Andy Bechtolsheim</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Andy_Bechtolsheim&action=edit&redlink=1)</URL> vermiştir.  1999'un başlarında, hâlâ doktora öğrencileri olan Brin ve Page, akademik araştırmalar için bir arama motoru geliştirmenin ilgi çekici bir düşünce olduğuna karar vererek, <PossibleEntity>Excite</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Excite&action=edit&redlink=1)</URL> 'yi satın almak için CEO George Bell'e 1 milyon $ önerdiler."
+        },
+        {
+            "id": "Google#31",
+            "sentence": "Ancak Bell bu teklifi kabul etmese de, Excite yatırımcılarından <PossibleEntity>Vinod Khosla</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vinod_Khosla)</URL> bu kararı eleştirerek, Brin ve Page ile 750.000 $ civarında bir tutarda müzakerelere başladı."
+        },
+        {
+            "id": "Google#32",
+            "sentence": "Google; 7 Haziran 1999'da <PossibleEntity>Kleiner Perkins Caufield & Byers</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kleiner_Perkins_Caufield_%26_Byers)</URL> ve <PossibleEntity>Sequoia Capital</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sequoia_Capital)</URL> gibi büyük yatırım şirketlerinin açtığı krediler de dâhil olmak üzere,  25 milyon $'lık bir fon kullanacağını açıkladı."
+        },
+        {
+            "id": "Google#33",
+            "sentence": "Google'ın ilk <PossibleEntity>halka arzı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Halka_arz)</URL> ana finansal sisteme geçişinden yaklaşık beş yıl sonra, 19 Ağustos 2004'te gerçekleşti."
+        },
+        {
+            "id": "Google#34",
+            "sentence": "Şirket bu arz sonucunda yatırımcılarla, hisse başına 85 $'dan 19.605.052 hissesini paylaştı."
+        },
+        {
+            "id": "Google#35",
+            "sentence": "Hisseler <PossibleEntity>Morgan Stanley</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Morgan_Stanley)</URL> ve <PossibleEntity>Credit Suisse</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Credit_Suisse)</URL> tarafından oluşturulan benzersiz çevrim içi açık arttırma sistemi sayesinde, hissedarlara ulaştırıldı."
+        },
+        {
+            "id": "Google#36",
+            "sentence": "Piyasa değeri 23 milyar $'ı aşkın bir şirket olan Google bu halka arz sonrasında, 1,67 milyon $'lık hisse senedi satışı yaptı."
+        },
+        {
+            "id": "Google#37",
+            "sentence": "Paylaşılan 271 milyonluk hissenin büyük bölümünün Google'ın denetim alanında kalması sonrasında, birçok Google çalışanı hisseler sayesinde milyoner oldu. <PossibleEntity>Yahoo!</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yahoo!)</URL> 'nun sahip olduğu 8,4 milyonluk Google hissesi, Google'ın rakibi <PossibleEntity>Yahoo!</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yahoo!)</URL> 'nun bu halka arzdan kârlı çıkmasını sağladı."
+        },
+        {
+            "id": "Google#38",
+            "sentence": "Bazı insanlar Google'ın halka arzının şirket kültüründe kaçınılmaz değişiklikler oluşturacağını tahmin ediyordu."
+        },
+        {
+            "id": "Google#39",
+            "sentence": "Dayanak olarak, hissedarların şirket üzerindeki baskısı sonucunda, şirket çalışanlarının olumsuz etkileneceği; bunun yanında şirket yönetiminde olan kişilerin hisse senetleri sayesinde milyoner olabileceği gerçeği gösteriliyordu."
+        },
+        {
+            "id": "Google#40",
+            "sentence": "Şirket kurucu ortakları Sergey Brin ve Larry Page yatırımcıların taşıdığı bu endişelere yanıt vererek; halka arzdan sonra şirket kültürünün değişmeyeceğini savundu ve bu yönde bir rapor hazırlattı."
+        },
+        {
+            "id": "Google#41",
+            "sentence": "Ancak 2005'te; The New York Times gazetesindeki makaleler de dâhil olmak üzere birçok kaynakta Google'ın yeni yapısı sorgulandı ve kurum felsefesindeki masumiyetin ve kurumsallaşma karşıtı tavrın kaybedildiği savunuldu."
+        },
+        {
+            "id": "Google#42",
+            "sentence": "Bunun üzerine Google, benzersiz kurum kültürünü devam ettirebilmek için bir kurumsal kültür şefi ve bir insan kaynakları yöneticisini göreve getirdi."
+        },
+        {
+            "id": "Google#43",
+            "sentence": "Şeffaf bir örgütlenme (organizasyon) için iş birliği ortamının kaçınılmaz olduğundan hareketle, kurumsal kültür şefinin görevlendirilmesinin altında yatan amaç, kurumun kuruluşundan itibaren kazanılan temel değerlerinin ve kurumsal kültürün gerektirdiği çalışma ahlakının korunmasını içeriyordu."
+        },
+        {
+            "id": "Google#44",
+            "sentence": "Google bu dönemde, eski çalışanlarının <PossibleEntity>cinsiyetçilik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Cinsiyet%C3%A7ilik)</URL> ve <PossibleEntity>yaş ayrımcılığı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ya%C5%9F_ayr%C4%B1mc%C4%B1l%C4%B1%C4%9F%C4%B1)</URL> yaptığı ithamlarıyla karşı karşıya kaldı."
+        },
+        {
+            "id": "Google#45",
+            "sentence": "Öncelikle güçlü bir satış potansiyeli ve çevrim içi pazarlamayla birlikte tanıtım konularındaki kazanç sayesinde,  Google; halka arz sonrasında hisse senedi performansında başarılı bir ivme yakalayarak; 31 Ocak 2007'de ilk kez borsa işlemlerinde (hisse değeri) 700 $ düzeyine ulaştı."
+        },
+        {
+            "id": "Google#46",
+            "sentence": "Google'ın hisse senetlerinin değer kazanmasındaki temel unsur, büyük yatırım şirketlerinin ve finansman şirketlerinin aksine; genel itibarıyla bireysel yatırımcılar oldu.  Şirket bugün itibarıyla GOOG <PossibleEntity>menkul değer sembolü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Menkul_de%C4%9Fer_sembol%C3%BC)</URL> altında <PossibleEntity>NASDAQ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nasdaq)</URL> borsasında, GGQ1 imiyle de <PossibleEntity>Frankfurt Menkul Kıymetler Borsası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Frankfurt_Menkul_K%C4%B1ymetler_Borsas%C4%B1)</URL> 'nda işlem görmektedir."
+        },
+        {
+            "id": "Google#47",
+            "sentence": "Şirket merkez ofisini Mart 1999'da önde gelen <PossibleEntity>Silikon Vadisi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Silikon_Vadisi)</URL> teknoloji şirketlerinin de yer aldığı <PossibleEntity>Palo Alto, Kaliforniya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Palo_Alto)</URL> 'ya taşımıştır."
+        },
+        {
+            "id": "Google#48",
+            "sentence": "Ertesi yıl, Page ve Brin'in reklam destekli arama motoru oluşturma düşüncesine karşı çıkmasına karşın,  anahtar sözcüklere dayalı reklam satışına başlamıştır."
+        },
+        {
+            "id": "Google#49",
+            "sentence": "Sayfa tasarımını yalın tutmak ve hızlı erişimi sağlamak amacıyla reklamların düz metin biçiminde olmasına özen gösterilmiştir."
+        },
+        {
+            "id": "Google#50",
+            "sentence": "Anahtar sözcükler (tıklama başına 5 <PossibleEntity>cent</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Cent)</URL> 'ten başlayan) tutar teklifleri ve tıklama sayısı dikkate alınarak hesaplanıyordu."
+        },
+        {
+            "id": "Google#51",
+            "sentence": "Bu satış modeli ilk kez, <PossibleEntity>Idealab</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Idealab)</URL> 'den ayrıldıktan sonra <PossibleEntity>Bill Gross</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bill_Gross)</URL> tarafından kurulan Goto.com şirketinde uygulanmıştı."
+        },
+        {
+            "id": "Google#52",
+            "sentence": "Bu şirket, adını Overture Services olarak değiştirdikten sonra Google'a kendi tıklama başına ödeme patentlerini ihlal ettiği gerekçesiyle bir dizi dava açmıştır."
+        },
+        {
+            "id": "Google#53",
+            "sentence": "Daha sonra Yahoo! tarafından satın alınan ve <PossibleEntity>Yahoo! Search Marketing</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Yahoo!_Search_Marketing&action=edit&redlink=1)</URL> adını alan Overture Services'ın açtığı bu davalar Google'ın şirket hisselerinin bir bölümünü Yahoo!'ya devretmesiyle çözüme kavuşturulmuştur."
+        },
+        {
+            "id": "Google#54",
+            "sentence": "Google bu sırada kendi geliştirdiği <PossibleEntity>PageRank</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/PageRank)</URL> sisteminin patentini almıştır."
+        },
+        {
+            "id": "Google#55",
+            "sentence": "Resmî olarak <PossibleEntity>Stanford Üniversitesine</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Stanford_%C3%9Cniversitesi)</URL> kayıtlı görünen patentte Lawrence Page'in adı mucit olarak geçmektedir."
+        },
+        {
+            "id": "Google#56",
+            "sentence": "2003 yılında şirket 1600 Amphitheatre Parkway, <PossibleEntity>Mountain View, Kaliforniya</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mountain_View,_Kaliforniya)</URL> 'daki bugünkü ofisini <PossibleEntity>Silicon Graphics</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Silicon_Graphics)</URL> 'ten kiralamıştır."
+        },
+        {
+            "id": "Google#57",
+            "sentence": "Bu ofis, 1'in sonuna googol tane sıfır eklenmesiyle oluşan <PossibleEntity>googolplex</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Googolplex)</URL> sözcüğünden esinlenerek oluşturulmuş olan <PossibleEntity>Googleplex</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Googleplex)</URL> adıyla anılmaktadır."
+        },
+        {
+            "id": "Google#58",
+            "sentence": "Google üç yıl sonra SGI'a ait bu yeri 319 milyon dolar karşılığında satın almıştır."
+        },
+        {
+            "id": "Google#59",
+            "sentence": "Bu sırada, \"Google\" terimi günlük yaşamda kendine yer bulmuş, \" <PossibleEntity>google</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_(fiil))</URL> \" eylemi <PossibleEntity>Merriam Webster Collegiate Dictionary</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Merriam-Webster)</URL> ve <PossibleEntity>Oxford English Dictionary</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Oxford_English_Dictionary)</URL> 'ye girmiştir."
+        },
+        {
+            "id": "Google#60",
+            "sentence": "Sözcüğün anlamı \"Google arama motorunu kullanarak İnternet üzerinde bilgi aramaktır.\""
+        },
+        {
+            "id": "Google#61",
+            "sentence": "Google, 2001 yılından bu yana ağırlıklı olarak küçük girişim sermayeli şirketlere odaklanarak, birçok şirket satın aldı. 2004'te aldığı bu tip bir firma <PossibleEntity>Keyhole, Inc</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Keyhole,_Inc&action=edit&redlink=1)</URL> 'dır.  Bu firma Earth Viewer adında bir ürün geliştirmişti ve bu ürünle kullanıcıya dünyanın <PossibleEntity>3 boyutlu</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=3D_bilgisayar_g%C3%B6r%C3%BCnt%C3%BCs%C3%BC&action=edit&redlink=1)</URL> görüntüsü sunuluyordu."
+        },
+        {
+            "id": "Google#62",
+            "sentence": "Google hizmeti 2005 yılında <PossibleEntity>Google Earth</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Earth)</URL> olarak adlandırdı. 2 yıl sonra çevrim içi video sitesi YouTube'u 1,65 milyar $ (hisse senedi) karşılığı satın aldı.  13 Nisan 2007'de ise <PossibleEntity>DoubleClick</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/DoubleClick)</URL> 'i 3,1 milyar $'a satın alarak web yayımcıları ve reklam ajansları ile DoubleClick arasındaki ilişkiye sahip oldu.  Aynı yıl <PossibleEntity>GrandCentral</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Voice)</URL> 'i 50 milyon $'a satın aldı  ve bu site daha sonra <PossibleEntity>Google Voice</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Voice)</URL> adını aldı. 5 Ağustos 2009'da ilk halka açık şirketini, video yazılımı üreten On2 Technologies'i 106,5 milyon $'a satın aldı.  Google ayrıca bir sosyal ağ arama motoru olan <PossibleEntity>Aardvark</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Orycteropus_afer)</URL> 'ı da 50 milyon $'a alıp kendi dâhilî bloglarında \"Nereye kadar götürebileceğimizi görebilmek için iş birliğine sabırsızlanıyoruz\" (we're looking forward to collaborating to see where we can take it. (İngilizce) ) yazmıştı."
+        },
+        {
+            "id": "Google#63",
+            "sentence": "Nisan 2010'da ise donanım firması, Agnilux'u satın aldığını duyurdu."
+        },
+        {
+            "id": "Google#64",
+            "sentence": "Satın aldığı firmalara ek olarak, araştırmadan reklama kadar her konuda diğer organizasyonlarla iş birliğine de girdi. 2005'te <PossibleEntity>NASA</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/NASA)</URL> <PossibleEntity>Ames Research Center</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ames_Ara%C5%9Ft%C4%B1rma_Merkezi)</URL> ile 93.000 m² ofis inşası için ortaklık yaptı."
+        },
+        {
+            "id": "Google#65",
+            "sentence": "Ofisler, yüksek boyutlu bilgi yönetimi, <PossibleEntity>nanoteknoloji</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nanoteknoloji)</URL> , <PossibleEntity>dağıtık hesaplama</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Da%C4%9F%C4%B1t%C4%B1k_hesaplama)</URL> ve uzay sanayi girişimcileri için kullanılacaktı."
+        },
+        {
+            "id": "Google#66",
+            "sentence": "Ekim 2005'te <PossibleEntity>Sun Microsystems</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sun_Microsystems)</URL> ile birbirlerinin teknolojilerini paylaşmak ve dağıtımda yardımcı olmak amacıyla iş birliğine gittiler."
+        },
+        {
+            "id": "Google#67",
+            "sentence": "Şirket, <PossibleEntity>Time Warner</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/WarnerMedia)</URL> 'ın <PossibleEntity>AOL</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/AOL)</URL>  'u ile birbirlerinin video arama hizmetlerini geliştirmek için iş birliği yaptı."
+        },
+        {
+            "id": "Google#68",
+            "sentence": "Yine 2005'te içlerinde <PossibleEntity>Microsoft</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Microsoft)</URL> , <PossibleEntity>Nokia</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nokia)</URL> ve <PossibleEntity>Ericsson</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ericsson)</URL> 'un da bulunduğu pek çok firma ile mobil araçlarda kullanılmak üzere yeni <PossibleEntity>.mobi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mobi)</URL> <PossibleEntity>üst seviye alan adı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9Cst_seviye_alan_ad%C4%B1)</URL> finansmanı için işbirliğine gitti."
+        },
+        {
+            "id": "Google#69",
+            "sentence": "Google böylece \"Adsense for Mobile\"ı kullanıma alacak ve gelişmekte olan mobil reklam pazarında avantaj elde edecekti."
+        },
+        {
+            "id": "Google#70",
+            "sentence": "Reklamda daha geniş kitlelere erişebilmek için, <PossibleEntity>News Corporation</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/News_Corporation)</URL> 'a ait <PossibleEntity>Fox Interactive Media</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=News_Corp._Digital_Media&action=edit&redlink=1)</URL> ile MySpace sosyal ağında arama ve reklam sağlama üzerine 900 milyon $'lık anlaşma yaptılar."
+        },
+        {
+            "id": "Google#71",
+            "sentence": "Google, 2006 Ekim'inde duyurduğu YouTube alımının işlemlerini 13 Kasım 2006'da tamamladı."
+        },
+        {
+            "id": "Google#72",
+            "sentence": "YouTube'un işletim masrafları hakkında detay yayımlamadı ve 2007'de Youtube'un maddi gelirini bilançosuna eklemedi.  2008 Haziran'ında Forbes' ta yayımlanan bir makalede, Quentin Hardy ve Evan Hessel YouTube’un 2008 yılında getireceği kârı, reklam satışlarında bir gelişme olmayacağı tahmini ile birlikte 200 milyon $ olarak öngördü.  2007'de Google <PossibleEntity>NORAD Tracks Santa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/NORAD_Tracks_Santa)</URL> 'yla yılbaşında Noel babanın gelişini takip eden hizmete sponsorluğa başladı."
+        },
+        {
+            "id": "Google#73",
+            "sentence": "Google Earth'de 3 boyutlu track Santa ilk kez uygulanmaya başlandı  ve eski sponsor <PossibleEntity>AOL</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/AOL)</URL> kalktı."
+        },
+        {
+            "id": "Google#74",
+            "sentence": "Google'ın YouTube'u NORAD Tracks Santa'ya kendi kanalını verdi."
+        },
+        {
+            "id": "Google#75",
+            "sentence": "2008'de Google, <PossibleEntity>GeoEye</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/GeoEye)</URL> ile Google Earth'e yüksek çözünürlüklü (0,41 m monochrome, 1,65 m renkli) görüntü aktaracak uydu yollamak üzere iş birliğine girdi."
+        },
+        {
+            "id": "Google#76",
+            "sentence": "Uydu <PossibleEntity>Vandenberg Hava Kuvvetleri Üssü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vandenberg_Hava_Kuvvetleri_%C3%9Css%C3%BC)</URL> 'nden 6 Eylül 2008'de fırlatıldı."
+        },
+        {
+            "id": "Google#77",
+            "sentence": "Google son iş birliğini de aynı yıl duyurdu ve <PossibleEntity>Life</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Life_(dergi))</URL> dergisinin fotoğraf arşivine ev sahipliği yapmaya başladı."
+        },
+        {
+            "id": "Google#78",
+            "sentence": "Bu arşivdeki bazı fotoğraflar dergide daha evvel yayımlanmış değildi."
+        },
+        {
+            "id": "Google#79",
+            "sentence": "Fotoğraflar filigranlandı ve kamu malı statüsüne bakılmadan telif hakları bildirimi üzerlerine işlendi."
+        },
+        {
+            "id": "Google#80",
+            "sentence": "2010 yılında, <PossibleEntity>Google Enerji</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Sustainability)</URL> yenilenebilir enerji alanındaki ilk yatırımını, Kuzey Dakota'da 38 milyon $'a aldığı iki adet <PossibleEntity>rüzgâr çiftliği</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/R%C3%BCzg%C3%A2r_%C3%A7iftli%C4%9Fi)</URL> ile yaptı."
+        },
+        {
+            "id": "Google#81",
+            "sentence": "Şirket iki çiftlikten toplam 169,5 megawatt güç yani 55.000 eve yetecek enerjiyi üreteceğini açıkladı."
+        },
+        {
+            "id": "Google#82",
+            "sentence": "NextEra Enerji Kaynakları tarafından geliştirilen çiftlikler bölgede <PossibleEntity>fosil yakıt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fosil_yak%C4%B1t)</URL> kullanımını azaltacak ve kâr sağlayacaktı."
+        },
+        {
+            "id": "Google#83",
+            "sentence": "NextEra Enerji Kaynakları projedeki %20 hisseyi Google Enerjiye satarak, projenin geliştirilmesi için fon sağlamış oldu.  Yine 2010 yılında Google, web tabanlı telekonferans ve diğer ilişkili hizmetleri sağlayan Norveç menşeli firma olan Global IP Solutions'ı satın aldı. Bu edinim ile Google, ürünlerine telefon tipi hizmetleri de ekleyebildi."
+        },
+        {
+            "id": "Google#84",
+            "sentence": "Ardından, 27 Mayıs 2010'da mobil reklam ağı <PossibleEntity>AdMob</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/AdMob)</URL> 'un satın alımını tamamladığını açıkladı. <PossibleEntity>Federal Ticaret Komisyonu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Federal_Ticaret_Komisyonu)</URL> bu satın almaya ilişkin açtığı soruşturmayı kapamasının üzerinden birkaç gün geçtikten sonra  Google bu firmayı belirsiz bir fiyata satın almıştır."
+        },
+        {
+            "id": "Google#85",
+            "sentence": "Temmuz 2010'da Google Iowa rüzgâr çiftliği ile 114 megawatt enerji alımı için 20 yıl süreli anlaşma imzaladı."
+        },
+        {
+            "id": "Google#86",
+            "sentence": "4 Nisan 2011'de, The Globe and Mail 6.000 adet <PossibleEntity>Nortel Networks</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nortel)</URL> patenti için Google'ın 900 milyon $ teklif ettiğini duyurdu."
+        },
+        {
+            "id": "Google#87",
+            "sentence": "15 Ağustos 2011'de ise Google <PossibleEntity>Motorola Mobility</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Motorola_Mobility)</URL> 'yi ABD ve Avrupa'da mevcut yasa uygulayıcı ve kurulların karşı görüş bildirmelerine rağmen 12,5 milyar $'a satın alacağını açıkladı."
+        },
+        {
+            "id": "Google#88",
+            "sentence": "Google blog'daki bir yazıda İcra başkanı ve kurucu ortak Larry Page bu satın alımın Google'ın patent portföyünü güçlendirmek amaçlı stratejik bir satın alım olduğunu dile getirdi."
+        },
+        {
+            "id": "Google#89",
+            "sentence": "Şirketin Android işletim sistemi, özellikle Apple ve Microsoft Android'e uygun telefon üreticileri HTC, Samsung ve Motorola ile davalık olmuşken  bu satın alma ile elde ettiği, Motorola'ya ait mobil aletlere ve kablosuz teknolojilere ilişkin yüklüce patent portföyü Google'a, diğer firmalarla (özellikle Apple ve Microsoft  ) devam eden patent anlaşmazlıklarında yardımcı olacaktı,  Android işletim sistemini de serbestçe sunmaya devam edecekti."
+        },
+        {
+            "id": "Google#90",
+            "sentence": "2014'te Google, yeni kurulan video ve özel efekt şirketi Zync Inc.’yi satın aldığını açıkladı."
+        },
+        {
+            "id": "Google#91",
+            "sentence": "Zync, “Star Trek Into Darkness” ve “Looper” adlı filmlerde de kullanılan video ve özel efekt özellikleri hizmetini sunan bir şirket."
+        },
+        {
+            "id": "Google#92",
+            "sentence": "Google, Zync'i kendi bulut platformuna alacağını bildirdi. [kaynak belirtilmeli]"
+        },
+        {
+            "id": "Google#93",
+            "sentence": "Ağustos 2015'te Larry Page'in yaptığı açıklamaya göre artık Google ve satın aldığı kuruluşlar <PossibleEntity>Alphabet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alphabet_(%C5%9Firket))</URL> adlı holdinge bağlanmış ve holdingin CEO'su Larry Page, yönetim kurulu başkanı ise Sergey Brin olmuştur."
+        },
+        {
+            "id": "Google#94",
+            "sentence": "Ayrıca Larry Page'den boşalan Google'ın CEO makamına Sundar Pichai getirilmiştir."
+        },
+        {
+            "id": "Google#95",
+            "sentence": "Google, gelirlerinin yüzde doksan dokuzuna yakınını kurumsal reklam programlarından elde etmektedir."
+        },
+        {
+            "id": "Google#96",
+            "sentence": "Şirket, 2006 mali yılı için toplam reklam gelirini 10,492 milyar dolar olarak açıklarken, lisanslama ve diğer girdilerden sağladığı gelirin yalnızca 112 milyon dolar olduğunu belirtmiştir."
+        },
+        {
+            "id": "Google#97",
+            "sentence": "Bu doğrultuda, çevrim içi reklam pazarında büyük komisyon ücretleri elde edebilmek için çeşitli yenilikleri yaşama geçirmiştir."
+        },
+        {
+            "id": "Google#98",
+            "sentence": "Teknolojik olarak <PossibleEntity>DoubleClick</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/DoubleClick)</URL> 'ten yararlanan şirket, kullanıcıların ilgi alanlarına göre hedef reklamları belirleyerek; kullanıcıların amacına uygun içerikleri, onlarla buluşturmuştur."
+        },
+        {
+            "id": "Google#99",
+            "sentence": "Google'ın diğer ürünlerinden, <PossibleEntity>Google Analytics</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Analytics)</URL> site içi bağlantılardaki tıklanma sayısının incelenmesi gibi yöntemlerle; internet sitesi sahiplerinin sitelerine giriş yapan insanların nereden ve nasıl giriş yaptığını takip edebilmesini sağlamaktadır."
+        },
+        {
+            "id": "Google#100",
+            "sentence": "İki yönlü bir program olan Google reklamlarda üç yönlü web siteleri yer alabilmektedir."
+        },
+        {
+            "id": "Google#101",
+            "sentence": "Bir diğer ürün olan Google <PossibleEntity>AdWords</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Ads)</URL> ile; Google içerik ağlarında, tıklama başına ödeme veya görüntüleme başına ödeme gibi seçeneklerle; reklamcıların kendi reklamlarını yayımlayabilmesine imkân tanınmaktadır."
+        },
+        {
+            "id": "Google#102",
+            "sentence": "Kardeş hizmet Google <PossibleEntity>AdSense</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_AdSense)</URL> ise, site sahiplerinin kendi sitelerinde bu reklamları yayımlayabilmesini ve yayımlanan reklamlardan tıklama başına para kazanmalarını sağlamaktadır."
+        },
+        {
+            "id": "Google#103",
+            "sentence": "Programın eksikliklerinden ve eleştirilen yönlerinden biri, Google'ın <PossibleEntity>tıklama sahtekârlığı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C4%B1klama_sahtekarl%C4%B1%C4%9F%C4%B1)</URL> konusunda yetersiz kalışıdır, insanlar veya otomatik kodlar aracılığıyla ürünle ilgilenmeden yapılan \"tıklamalar\", reklam veren kişilerin hizmet karşılığı olmadan Google'a para ödemesine neden olmaktadır."
+        },
+        {
+            "id": "Google#104",
+            "sentence": "Reklam endüstrisinin 2006 raporlarına göre; çevrim içi reklamlara yapılan tıklamaların %14 ila %20'lik kısmının sahte ya da geçersiz tıklama olduğu açıklanmıştır."
+        },
+        {
+            "id": "Google#105",
+            "sentence": "Ayrıca, diğer bir tartışma kullanıcıların belirli bir web sitesi içerisinde aradıklarını bulmalarını sağlayan, ikincil bir arama kutusu sistemi olan \"arama içinde arama\" uygulaması üzerinde yaşanmıştır."
+        },
+        {
+            "id": "Google#106",
+            "sentence": "Yakın bağlantıları olan bir özel şirket için arama içinde arama özelliği kullanılırken, bu şirket kullanıcıları çekebilecek özgün bir arama sistemi beklentisinde olmasına rağmen; yapılan aramanın sonuçlarında çoğunlukla rekabet içinde olunan şirketler de yer almaktadır."
+        },
+        {
+            "id": "Google#107",
+            "sentence": "Google reklam sisteminin karşılaştığı diğer bir eleştiri de; reklamın <PossibleEntity>Sanal Binyıl Telif Hakkı Sözleşmesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Sanal_Biny%C4%B1l_Telif_Hakk%C4%B1_S%C3%B6zle%C5%9Fmesi&action=edit&redlink=1)</URL> 'ne uygunluğu konusunda bir şüphe dahi olsa reklamcının sansürlenmesidir."
+        },
+        {
+            "id": "Google#108",
+            "sentence": "Örneğin 2003 Şubat'ında, Google; kâr amacı gütmeyen ve büyük bir kruz gemisinin atık su arıtma uygulamalarını protesto eden bir örgütlenme olan <PossibleEntity>Oceana</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Oceana_(k%C3%A2r_amac%C4%B1_g%C3%BCtmeyen_grup)&action=edit&redlink=1)</URL> 'nın reklamlarının gösterimini durdurmuştur."
+        },
+        {
+            "id": "Google#109",
+            "sentence": "Google buna gerekçe olarak kendi yayın politikası olan: \"Google bir görüşün, kişinin ya da organizasyonun karşı savunuculuğunu yapan hiçbir reklamı yayımlamayı kabul etmez.\" prensibini göstermiştir."
+        },
+        {
+            "id": "Google#110",
+            "sentence": "Ancak daha sonra bu politika değiştirilmiştir.  2008 Haziran ayında Google ve Yahoo! bir reklam anlaşması yapmış, bu anlaşma uyarınca Yahoo! kendi ağ sayfalarında Google reklamlarının gösterilmesine izin vermiştir."
+        },
+        {
+            "id": "Google#111",
+            "sentence": "Ancak iki şirket arasındaki bu anlaşma <PossibleEntity>Birleşik Devletler Adalet Bakanlığı</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Birle%C5%9Fik_Devletler_Adalet_Bakanl%C4%B1%C4%9F%C4%B1&action=edit&redlink=1)</URL> tarafından güven vermeyen bir eylem olarak görülmüş ve bu nedenle hiçbir zaman hayata geçirilememiştir."
+        },
+        {
+            "id": "Google#112",
+            "sentence": "Sonuç olarak Google, Kasım 2008'de anlaşmayı feshettiğini açıklamıştır."
+        },
+        {
+            "id": "Google#113",
+            "sentence": "Google kendi ürün tanıtımlarında kullanılmak üzere Demo Slam adlı bir site açarak; geliştirdiği <PossibleEntity>ürünlerin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_%C3%BCr%C3%BCnleri_listesi)</URL> <PossibleEntity>teknoloji sunumunu</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Teknoloji_sunumu&action=edit&redlink=1)</URL> yapmayı amaçlamıştır."
+        },
+        {
+            "id": "Google#114",
+            "sentence": "Sitede her hafta iki takım; Google teknolojisinin yeni bağlamlarını ortaya koyabilmek için yarışmaktadır."
+        },
+        {
+            "id": "Google#115",
+            "sentence": "Arama Motorları Dergisi'nde Demo Slam'den şöyle bahsedilmiştir: \"Yaratıcı ve teknoloji meraklısı insanların, orada kendi videolarını oluşturup, dünya insanlarının en yeni ve muhteşem teknolojileri anlamlandırabilmesine yardımcı olabilecekleri bir yer.\""
+        },
+        {
+            "id": "Google#116",
+            "sentence": "<PossibleEntity>Google Arama</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Arama)</URL> , bir arama motoru uygulaması olup, şirketin en popüler uygulamasıdır."
+        },
+        {
+            "id": "Google#117",
+            "sentence": "Kasım 2009'da <PossibleEntity>comScore</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=ComScore&action=edit&redlink=1)</URL> 'un yayımladığı bir pazar araştırmasına göre, Google ABD'deki arama motoru sektörünün en çok kullanılan uygulaması olup, <PossibleEntity>pazar payının</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Pazar_pay%C4%B1)</URL> %65,6'sını elinde tutmaktadır."
+        },
+        {
+            "id": "Google#118",
+            "sentence": "Google milyarlarca  ağ sayfası (web) dizinine sahiptir, böylece kullanıcılar anahtar kelimeler ve uygulamaların kullanımı yoluyla arzu ettikleri bilgilere ulaşmak için arama yapabilmektedir."
+        },
+        {
+            "id": "Google#119",
+            "sentence": "Google popülerliğine karşın, birçok kurumun eleştirisine de maruz kalmıştır. 2003'te The New York Times Google'ın dizinleme hizmeti hakkında şikayette bulunmuş, Google'ın <PossibleEntity>önbellek</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%96nbellek)</URL> uygulamalarının korunan içeriklerin telif haklarını ihlal ettiğini iddia etmiştir."
+        },
+        {
+            "id": "Google#120",
+            "sentence": "Ancak, bu durum üzerine Birleşik Devletler Nevada Bölge Mahkemesi'nde görülen Field v. Google ve Parker v. Google davaları Google'ın lehine sonuçlanmıştır."
+        },
+        {
+            "id": "Google#121",
+            "sentence": "Ayrıca <PossibleEntity>2600: The Hacker Quarterly</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/2600:_The_Hacker_Quarterly)</URL> , yeni <PossibleEntity>hızlı arama özelliklerinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Arama)</URL> aranmasına izin vermeyeceği sözcüklerin devasa bir listesini yayımlamıştır."
+        },
+        {
+            "id": "Google#122",
+            "sentence": "Google İzleme Örgütü, Google'ın sayfa derecelendirme algoritmasını eleştirerek; Google'ın yerleşik siteleri yeni sitelere karşı kayırdığını iddia etmiş,  şirketin <PossibleEntity>CIA</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/CIA)</URL> ve <PossibleEntity>NSA</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ulusal_G%C3%BCvenlik_Ajans%C4%B1)</URL> ile ilişkili olduğunu savunmuştur."
+        },
+        {
+            "id": "Google#123",
+            "sentence": "Tüm bu eleştirilere rağmen; ana arama motorunun yanında; Google'ın görsel arama motoru, Google Haberler, Google Haritalar da dâhil olmak üzere birçok hizmeti geniş bir yaygınlık kazanmıştır. 2006'nın ilk yarısında, şirket; Google Video uygulamasıyla kullanıcıların internet üzerinden yükleme, arama ve video izleme gibi işlemleri gerçekleştirebilmesini sağlayan sistemi başlatmıştır."
+        },
+        {
+            "id": "Google#124",
+            "sentence": "Ancak 2009'da, bu sistemi video aramaları konusunda geliştirmek amacıyla, sisteme video yüklenebilme özelliğini kaldırmıştır."
+        },
+        {
+            "id": "Google#125",
+            "sentence": "Masaüstüne hitap eden ve bilgisayar içi yerel konumlarda arama yapabilmeyi sağlayan <PossibleEntity>Google Masaüstü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Desktop)</URL> ve son olarak <PossibleEntity>Birleşik Devletler Patent ve Ticari Marka Bürosu</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Birle%C5%9Fik_Devletler_Patent_ve_Ticari_Marka_B%C3%BCrosu&action=edit&redlink=1)</URL> 'yla yapılan iş birliği neticesinde oluşturulmuş ve kullanıcılara; Birleşik Devletler'deki marka ve patent bilgilerine ücretsiz erişim imkânı sağlayan <PossibleEntity>Google Patents</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Patents)</URL> 'i geliştirmiştir."
+        },
+        {
+            "id": "Google#126",
+            "sentence": "Google sunucularında barındırılan tartışmalı arama hizmetlerinden biri de <PossibleEntity>Google Kitaplar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Kitaplar)</URL> 'dır. Şirket kitapları tarayarak, bu yazılı ürünlere sınırlı ve tam önizleme olmak üzere iki biçiminde erişim sağlamıştır."
+        },
+        {
+            "id": "Google#127",
+            "sentence": "Bu yeni hizmet nedeniyle, 8.000 civarında <PossibleEntity>Amerikalı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerikal%C4%B1lar)</URL> yazarı temsil eden bir grup olan <PossibleEntity>Yazarlar Birliği</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Yazarlar_Birli%C4%9Fi_(ABD)&action=edit&redlink=1)</URL> 2005'te Google aleyhine New York Şehri Federal Mahkemesi'nde bir dizi dava açmıştır."
+        },
+        {
+            "id": "Google#128",
+            "sentence": "Google bu iddiaları; bu hizmet çerçevesinde mevcut ve tarihsel tüm telif hakkı uygulamalarına riayet edildiği yönündeki savunmasıyla yanıtlamıştır."
+        },
+        {
+            "id": "Google#129",
+            "sentence": "Google; Birleşik Krallık, ABD, Kanada ve Avustralya kaynaklarından elde ettiği eserleri sınırlı tarama çerçevesinde hizmete sunma vaadiyle 2009'da bu sorunun çözümüne ulaşmıştır."
+        },
+        {
+            "id": "Google#130",
+            "sentence": "Bununla birlikte, 2009 sonlarına doğru Fransız yayınevi <PossibleEntity>Éditions du Seuil</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=%C3%89ditions_du_Seuil&action=edit&redlink=1)</URL> tarafından basılan La Martinière'nin eserleri Paris Aslî Hukuk Mahkemesinde açılan dava sonucunda; Google veri tabanından çıkarılmıştır."
+        },
+        {
+            "id": "Google#131",
+            "sentence": "Google, <PossibleEntity>Amazon.com</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amazon_(%C5%9Firket))</URL> 'a rakip olarak, yeni kitapların sanal sürümlerini satışa sunmayı planlamaktadır.  21 Temmuz 2010'da çıkan <PossibleEntity>Bing</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Microsoft_Bing)</URL> 'e karşılık olarak; Google görsel aramalardaki <PossibleEntity>küçük görsellerin</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=K%C3%BC%C3%A7%C3%BCk_g%C3%B6rsel&action=edit&redlink=1)</URL> gruplandırma sistemini daha gelişkin ayrıntılarla güncellemiştir."
+        },
+        {
+            "id": "Google#132",
+            "sentence": "Ağ sayfası aramalarında, 23 Temmuz 2010 itibarıyla hâlâ sayfa formatı başına grup görüntü sistemi kullanılsa da, belirli İngilizce sözlük terimleri için bağlantılı sonuçlar web aramalarının üzerinde görülmektedir."
+        },
+        {
+            "id": "Google#133",
+            "sentence": "Google'ın algoritması Mart 2011'de yenilenmiş; bu yeni sistemde yüksek kaliteli içeriklere ağırlık verilmiş,  ve imkân dâhilinde n-gram değeriyle, değersizleşmiş içeriğin silinmesi hedeflenmiştir."
+        },
+        {
+            "id": "Google#134",
+            "sentence": "Google kuruluşundan itibaren, standart ağ arama sistemlerinin yanında bir dizi verimlilik araçları da yayınlamıştır."
+        },
+        {
+            "id": "Google#135",
+            "sentence": "Google'nin sağladığı ücretsiz bir çevrimiçi posta uygulaması olan Gmail<!-İngiltere ve Almanya'da bilinen adıyla Google Mail,-->'in yalnız davet ile üye kabul eden <PossibleEntity>beta sürümü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Beta_s%C3%BCr%C3%BCm)</URL> 1 Nisan 2004'te başlatılmış,  uygulama 7 Şubat 2007'de genel kullanıma açılmıştır."
+        },
+        {
+            "id": "Google#136",
+            "sentence": "Servis, 7 Temmuz 2009'da beta sürümünden yükseltilmiş  ve aylık 146 milyon kullanıcıya ulaşmıştır."
+        },
+        {
+            "id": "Google#137",
+            "sentence": "Gmail, bir <PossibleEntity>gigabaytlık</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Gigabayt)</URL> saklama alanına ve internet forumlarına benzer bir biçimde aynı konuşmaya ait postaları tek bir mesaj sekmesinde koruma özelliğine sahip olan ilk e-posta hizmeti olmuştur."
+        },
+        {
+            "id": "Google#138",
+            "sentence": "Bu servis güncel olarak 7400 MB ücretsiz saklama alanı sunmaktadır; buna ek olarak 20 GB ila 16 TB arasında bir saklama alanına Gigabayt başına 0,25 dolar ödenerek sahip olunabilmektedir."
+        },
+        {
+            "id": "Google#139",
+            "sentence": "Gmail uygulaması program geliştiricileri tarafından; tarayıcıyı yinelemeksizin etkileşimli olarak sayfanın yenilenmesine izin veren <PossibleEntity>AJAX</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ajax)</URL> uygulamasının öncüsü olarak kabul edilmektedir."
+        },
+        {
+            "id": "Google#140",
+            "sentence": "Uygulamaya yapılan en büyük eleştiri, bu uygulamanın diğer çevrimiçi uygulamalarla bağlantısından dolayı mevcut verilerin deşifre edilebilme potansiyelidir. <PossibleEntity>Steve Ballmer</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Steve_Ballmer)</URL> (Microsoft'un CEO'su),  <PossibleEntity>Liz Figueroa</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Liz_Figueroa&action=edit&redlink=1)</URL> ,  Mark Rasch,  ve Google İzleme Örgütü editörü  mevcut e-posta iletisi içeriklerinin adil kullanım gereklerinin ötesinde işlev gördüğüne inandıklarını söylemişlerdir ancak Google gönderilen e-postanın gönderen ve alan haricinde hiç kimse tarafından okunmadığını, reklamların yalnızca ilgiyi artırmak için kullanıldığını iddia etmiştir."
+        },
+        {
+            "id": "Google#141",
+            "sentence": "Diğer bir verimlilik paketi olan <PossibleEntity>Google Docs</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Dok%C3%BCmanlar)</URL> , belgelerin çevrimiçi alanda oluşturulması, düzenlenmesi ve paylaşılmasını içermektedir ve <PossibleEntity>Microsoft Word</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Microsoft_Word)</URL> 'a benzemektedir."
+        },
+        {
+            "id": "Google#142",
+            "sentence": "Servisin özgün adı Writely'dir, 9 Mart 2006'da piyasaya sürüldüğünde yalnız davet yoluyla hesap edinilmesine izin verilmiştir.  6 Haziran'dan sonra Google deneysel bir tablo düzenleme programı oluşturmuştur,  bu programın 10 Ekim'de Google Docs ile entegre olarak kullanılması planlanmıştır."
+        },
+        {
+            "id": "Google#143",
+            "sentence": "Google'nin sunum hazırlamak için geliştirdiği program 17 Eylül 2007'de, Gmail tam sürüme yükselmeden ve diğer üç hizmet başlamadan önce hayata geçirilmiştir."
+        },
+        {
+            "id": "Google#144",
+            "sentence": "Google Takvim ve diğer Google Takım uygulamaları 7 Temmuz 2009'da kullanıma açılmıştır."
+        },
+        {
+            "id": "Google#145",
+            "sentence": "Google şirket pazarına 2002 Şubat'ında <PossibleEntity>Google Arama Araçları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Arama_Ara%C3%A7lar%C4%B1)</URL> (Google Search Appliance (İngilizce) ) ile girdi, böylece daha büyük organizasyon yapılarına arama teknolojilerini sunmayı hedefliyordu."
+        },
+        {
+            "id": "Google#146",
+            "sentence": "Daha küçük organizasyon yapıları için üretilen <PossibleEntity>Mini</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Arama_Ara%C3%A7lar%C4%B1)</URL> 'yi bundan üç yıl sonra kullanıma sundu."
+        },
+        {
+            "id": "Google#147",
+            "sentence": "Ardından 2006'da Özelleştirilmiş Arama iş sürümünü (Custom Search Business Edition (İngilizce) ) hizmete aldı. Bu versiyonda kullanıcılar reklamdan arındırılmış Google.com index'inden faydalanabiliyorlardı."
+        },
+        {
+            "id": "Google#148",
+            "sentence": "Bu hizmet daha sonra 2008 yılında Google Site Araması olarak isimlendirilmiştir."
+        },
+        {
+            "id": "Google#149",
+            "sentence": "Şirket pazarına yönelik bir diğer Google ürünü de Google Apps Premier Edition'dır. Bu hizmet ve hizmete eşlik eden iki sürüm (eğitim ve standart sürümler), firmalara, okullara ve diğer organizasyonlara Google'ın Gmail ve Google Documents gibi çevrimiçi uygulamalarını, kendi domain'lerinde kullanma imkânı sağlamaktadır."
+        },
+        {
+            "id": "Google#150",
+            "sentence": "Premier sürüm Standart sürüme göre ek özellikler sağlar."
+        },
+        {
+            "id": "Google#151",
+            "sentence": "Daha fazla disk alanı, API erişimi ve premium destek bu özellikler arasında bulunmakta ve kullanıcı başına yıllık 50 $'a mal olmaktadır."
+        },
+        {
+            "id": "Google#152",
+            "sentence": "Google App'lerin geniş bir kullanıcı hizmetine sunumu <PossibleEntity>Thunder Bay</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Thunder_Bay)</URL> , Ontario, Kanada'da <PossibleEntity>Lakehead Üniversitesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Lakehead_%C3%9Cniversitesi)</URL> için 38.000 kullanıcı ile 2007 yılında gerçekleştirilmiştir."
+        },
+        {
+            "id": "Google#153",
+            "sentence": "Google App'lerin kullanıma açılması ile Google, güvenlik hizmetleri sunan <PossibleEntity>Postini</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Postini)</URL> 'yi satınalmış  ve Google Postini hizmetleri  adıyla Google App'lerin içine entegre etmiştir."
+        },
+        {
+            "id": "Google#154",
+            "sentence": "<PossibleEntity>Google Çeviri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_%C3%87eviri)</URL> , otuz beş farklı dil arasında çeviri yapabilen <PossibleEntity>bilgisayar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgisayar)</URL> sistemli bir <PossibleEntity>çeviri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87eviri)</URL> servisidir."
+        },
+        {
+            "id": "Google#155",
+            "sentence": "İnternet tarayıcıları için hazırlanan bazı eklentiler, Google Çeviri'ye kolay erişim imkânı sağlamaktadır."
+        },
+        {
+            "id": "Google#156",
+            "sentence": "Yazılımın kullandığı sistem <PossibleEntity>dilbilimsel dizin</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Dil_bilimsel_dizin&action=edit&redlink=1)</URL> teknolojisidir, özellikle <PossibleEntity>Avrupa Parlamentosu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Avrupa_Parlamentosu)</URL> ve <PossibleEntity>BM</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Birle%C5%9Fmi%C5%9F_Milletler)</URL> tutanakları olmak üzere, profesyonel çeviri metinlerindeki çeviri sistemleri; program algoritması tarafından \"öğrenilmektedir\"."
+        },
+        {
+            "id": "Google#157",
+            "sentence": "Ayrıca, \"daha iyi bir çeviri öner\" özelliğiyle, güncel çevirilerdeki yanlış veya kalitesiz tercümelerin geliştirme ekibine ulaştırılması sağlanmaktadır."
+        },
+        {
+            "id": "Google#158",
+            "sentence": "Google, 2002'de <PossibleEntity>Google Haberler</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Haberler)</URL> hizmetini başlatmıştır."
+        },
+        {
+            "id": "Google#159",
+            "sentence": "Şirket insansız bir sistemle, yalnızca bilgisayar algoritmasıyla haber derleme işlemi yapan bir sistem geliştirdiğini açıklamıştır ve bu hizmet için editör, yayın yönetmeni veya yayımcı başyazar istihdam etmemektedir."
+        },
+        {
+            "id": "Google#160",
+            "sentence": "Site, Yahoo!"
+        },
+        {
+            "id": "Google#161",
+            "sentence": "Haber Servisi'nde yer alan düşük lisanslı haberleri barındırmış ve haberlerle başlıklarının site içinde verilmesi yerine, haberin içeriği ve fotoğrafları konu sınıflandırılması yapılmış bağlantılar halinde sunmuştur."
+        },
+        {
+            "id": "Google#162",
+            "sentence": "Fotoğrafların kullanım hakkı sorunlarını en aza indirmek için görsellerin düşük çözünürlüklü sürümleri kullanılıp, konuyla ilgili diğer kaynaklardaki haberler de başlıklar halinde sıralanmıştır."
+        },
+        {
+            "id": "Google#163",
+            "sentence": "Bununla birlikte, <PossibleEntity>Fransız Basın Ajansı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Agence_France-Presse)</URL> telif hakkı ihlalini gerekçe göstererek <PossibleEntity>Kolombiya Bölgesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Washington,_DC)</URL> 'de bulunan federal bir mahkemede Google aleyhinde dava açmıştır."
+        },
+        {
+            "id": "Google#164",
+            "sentence": "Davanın nedeni; Google'ın AFP makalelerinin bir kısmını, açıklanmayan bir anlaşma ile tam metin şeklinde ve siteye yerleşik olarak Google Haberler'de kullanmasıdır."
+        },
+        {
+            "id": "Google#165",
+            "sentence": "2006'da Google, <PossibleEntity>San Francisco</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/San_Francisco)</URL> kentinde <PossibleEntity>EarthLink</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/EarthLink)</URL> üzerinden ücretsiz geniş bant ve kablosuz internet erişimi hizmeti sağlamak için bir teklif yapmıştır."
+        },
+        {
+            "id": "Google#166",
+            "sentence": "Ancak <PossibleEntity>Comcast</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Comcast)</URL> ve <PossibleEntity>Verizon</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Verizon&action=edit&redlink=1)</URL> gibi büyük telekomünikasyon şirketleri bu hizmetin \"haksız rekabet\" doğuracağı ve kent içi hizmet taaddütlerine aykırı olduğu gerekçesiyle bu teklife karşı çıkmıştır. 2006'da yapılan ağ tarafsızlığı kongresinden önce, Google İnternet Sorumlusu Evanjelist <PossibleEntity>Vinton Cerf</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Vinton_Cerf&action=edit&redlink=1)</URL> geniş ağ internet sağlayıcılarını; ‘’gerçek üstü taktiklerle ve eksik bilgilendirmeyle tüketicilerin yaklaşık yarısının tercihi olmakla’’ suçlamıştır."
+        },
+        {
+            "id": "Google#167",
+            "sentence": "Google günümüzde, merkezinin bulunduğu <PossibleEntity>Mountain View</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mountain_View,_Kaliforniya)</URL> 'de ücretsiz wi-fi hizmetini kullanıcılara sunmaktadır."
+        },
+        {
+            "id": "Google#168",
+            "sentence": "Bir yıl sonra, Google'ın muhtemelen <PossibleEntity>Apple</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Apple)</URL> 'nin <PossibleEntity>iPhone</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0Phone)</URL> ürününe rakip olarak, kendi cep telefonunu piyasaya sürmek için hazırladığı plan ortaya çıkmıştır."
+        },
+        {
+            "id": "Google#169",
+            "sentence": "Ancak <PossibleEntity>Android</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Android)</URL> adı verilen bu proje, mobil (taşınabilir) bir aygıt değil, mobil cihazlar için geliştirilmiş <PossibleEntity>açık kaynaklı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C3%A7%C4%B1k_kaynak)</URL> bir lisans olan <PossibleEntity>Apache 2.0 lisansının</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Apache_Lisans%C4%B1)</URL> üzerine kurulmuş bir <PossibleEntity>işletim sistemi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0%C5%9Fletim_sistemi)</URL> olarak kullanıma sunulmuştur."
+        },
+        {
+            "id": "Google#170",
+            "sentence": "Google, Android tabanlı cep telefonlarında bulunan entegre uygulamaları çalıştırmak için bu yazılımı geliştirmiş, 2008 Eylül’ünde, <PossibleEntity>T-Mobile</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T-Mobile)</URL> 'nin ürettiği <PossibleEntity>G1</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/HTC_Dream)</URL> modeli ilk Android tabanlı telefon olmuştur."
+        },
+        {
+            "id": "Google#171",
+            "sentence": "Bir yıldan uzun bir süre sonra; 5 Ocak 2010'da Google tarafından şirkete ait Android tabanlı ilk cep telefonu olan <PossibleEntity>Nexus One</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nexus_One)</URL> piyasaya sürülmüştür."
+        },
+        {
+            "id": "Google#172",
+            "sentence": "Şirketin üzerinde çalıştığı diğer projeler; ağ sayfası (web) tarayıcısı, işbirlikçi iletişim hizmeti ve mobil ödeme sistemidir."
+        },
+        {
+            "id": "Google#173",
+            "sentence": "İlk olarak, 1 Eylül 2008'de <PossibleEntity>açık kaynak</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C3%A7%C4%B1k_kaynak)</URL> kodlu bir web tarayıcı olan <PossibleEntity>Google Chrome</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Chrome)</URL> 'nin geliştirildiği duyurulmuştur,  tarayıcı 2 Eylül 2008 tarihinde kullanıma sunulmuştur."
+        },
+        {
+            "id": "Google#174",
+            "sentence": "Bir sonraki yıl, 7 Temmuz 2009'da; Google, açık kaynak kodlu işletim sistemi <PossibleEntity>Linux</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Linux)</URL> tabanında kullanıcıların kendi Google hesaplarını yönetmelerini sağlayan ve yalnız bir web tarayıcı içeren <PossibleEntity>Google Chrome OS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Chrome_OS)</URL> 'u duyurmuştur."
+        },
+        {
+            "id": "Google#175",
+            "sentence": "İkinci olarak, 27 Mayıs 2009'da duyurulan <PossibleEntity>Google Wave</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Google_Wave&action=edit&redlink=1)</URL> , kullanıcıların web üzerinden işbirliği ve iletişimini kolaylaştıran bir sistem olarak tarif edilmiştir."
+        },
+        {
+            "id": "Google#176",
+            "sentence": "Bu hizmet Google'ın \"yapılandırılmış e-posta\" sisteminin yanında; gömülü ses, görüntü ve diğer görsel içeriği gerçek zamanlı düzenleyebilme ve yeni uzantılarla birlikte iletişim deneyimini geliştirebilme yeteneklerini vadetmektedir."
+        },
+        {
+            "id": "Google#177",
+            "sentence": "Hizmet ilk olarak geliştirici önizlemesine açılmış ve ilgili kullanıcılar deneme sürecine davet edilmiştir, 19 Mayıs 2010'da ise Google'ın I/O ilkesi çerçevesinde sistemin genel kullanımına başlanmıştır. 2011'de ise şirket; <PossibleEntity>Google Wallet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Wallet)</URL> ile cep telefonu üzerinden ödeme yapabilmeyi sağlayan bir sistem geliştirdiğini açıklamıştır."
+        },
+        {
+            "id": "Google#178",
+            "sentence": "Haziran 2011'den sonra, bir <PossibleEntity>sosyal ağ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sosyal_a%C4%9Flar)</URL> hizmeti olan ve <PossibleEntity>Google+</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google%2B)</URL> (kişisel ve marka hesapları için kullanımdan kaldırıldı)  olarak adlandırılan çevrimiçi yazılım geliştirilmiştir.  14 Temmuz 2011'de Google tarafından sınırlı deneme aşamasında başlatılan bu uygulamanın yalnızca iki haftada 10 milyon kullanıcıya ulaştığı açıklanmıştır."
+        },
+        {
+            "id": "Google#179",
+            "sentence": "İlerleyen dört haftada bu uygulamanın, 25 milyon kullanıcı sayısını aştığı belirtilmiştir."
+        },
+        {
+            "id": "Google#180",
+            "sentence": "Google resmî olmayan bir kurum kültürüne sahiptir."
+        },
+        {
+            "id": "Google#181",
+            "sentence": "Şirket, 2007 ve 2008 yıllarında <PossibleEntity>Fortune</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fortune_(dergi))</URL> dergisinin yayımladığı çalışan açısından en ideal şirketler sıralamasında ilk sırada yer almış,   ayrıca 2009 ve 2010 yıllarında aynı sıralamada dördüncü olmuştur."
+        },
+        {
+            "id": "Google#182",
+            "sentence": "Buna ek olarak, 2010 yılında Universum İletişim tarafından okul mezunlarına yönelik işgücü çekiciliği açısından en cazip şirket dalında aday gösterilmiştir."
+        },
+        {
+            "id": "Google#183",
+            "sentence": "Google, kurumsal felsefesini: “kötülük yapmadan da para kazanılabilir”, “takım elbise giymeden de ciddi olunabilir” ve “iş kamçılayıcı; rekabet eğlenceli olmalıdır” gibi özgür prensipler üzerine kurmuştur."
+        },
+        {
+            "id": "Google#184",
+            "sentence": "Halka arz sonrasında Google'ın hisse senedi performansı, çalışanlarına çok erkenden ve rekabetçi bir şekilde tazmin edilmelerini sağladı."
+        },
+        {
+            "id": "Google#185",
+            "sentence": "Google'ın halka arzından sonra, kurucuları Sergey Brin, Larry Page ve CEO'su Eric Schmidt, maaşlarının 1 $'a düşürülmesini kabul ettiler ve şirketin maaşlarını arttırma tekliflerini sürekli reddettiler, zira sahip oldukları Google hisse senetlerinden gelirleri gelmeye devam edip ana gelir kaynaklarını oluşturuyordu. 2004 yılından önce, Schmidt, yılda 250.000 $; Page ve Brin'in her biri yıllık 150.000 $ gelir sahibi oldular."
+        },
+        {
+            "id": "Google#186",
+            "sentence": "2007'de ve 2008'in başlarında, üst düzey yöneticilerin birçoğu Google'ı bıraktı."
+        },
+        {
+            "id": "Google#187",
+            "sentence": "Ekim 2007'de, YouTube'un CFO'su Gideon Yu beraberinde yüksek kademeden mühendis olan Benjamin Ling ile Facebook'a katıldı."
+        },
+        {
+            "id": "Google#188",
+            "sentence": "Mart 2008'de Sheryl Sandberg, küresel çevrimiçi satış ve operasyon başkan yardımcısı, Facebook'ta COO (chief operating officer, operasyonlardan sorumlu en tepe yönetici) olarak işe başladı,  bunun yanı sıra, Ash ElDifrawi, Google'ın marka reklam yöneticisi, 2009'da <PossibleEntity>Hayneedle</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hayneedle)</URL> adını alacak Netshops çevrimiçi perakende şirketinde pazarlamadan sorumlu müdür olmak üzere işinden ayrıldı.  4 Nisan 2011'de Larry Page CEO ve Eric Schmidt Google İcra Kurulu Başkanı oldu."
+        },
+        {
+            "id": "Google#189",
+            "sentence": "Bir motivasyon tekniği olarak, Google genellikle icat boş zamanı (Innovation Time Off) adı verilen politikaya sahiptir."
+        },
+        {
+            "id": "Google#190",
+            "sentence": "Buna göre Google mühendisleri çalışma saatlerinin %20'sini ilgilerini çeken projeler üzerinde geçirmek için teşvik edilirler."
+        },
+        {
+            "id": "Google#191",
+            "sentence": "Google hizmetleri arasından Gmail, Google Haberler, Orkut ve AdSense gibi hizmetler bu bağımsız çabalardan ortaya çıkmıştır."
+        },
+        {
+            "id": "Google#192",
+            "sentence": "Stanford Üniversitesindeki bir mülakatında, Marissa Mayer, Google'ın Arama Ürünleri ve Kullanıcı Deneyimi Başkan Yardımcısı, o zaman lanse edilen yeni ürünlerin yarısının bu icat boş zamanlarında yaratıldığını söylemiştir."
+        },
+        {
+            "id": "Google#193",
+            "sentence": "Mart 2011'de, danışmanlık firması Universum, 10.000'den fazla genç profesyonelin katılımı ile gerçekleştirdiği araştırmanın sonucunda; Google'ın, katılımcıların yaklaşık yüzde 25'i tarafından ideal işveren listesinde ilk sırada sıralandığını yayımladı."
+        },
+        {
+            "id": "Google#194",
+            "sentence": "<PossibleEntity>Mountain View</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Mountain_View,_Kaliforniya)</URL> 'de bulunan Google'ın merkez binası <PossibleEntity>Googleplex</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Googleplex)</URL> olarak anılmaktadır."
+        },
+        {
+            "id": "Google#195",
+            "sentence": "İsmi, Google ve kompleks ile <PossibleEntity>googolplex</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Googolplex)</URL> kelimesinden türetilmiştir. [kaynak belirtilmeli] Binanın lobisi piyano şeklinde dekore edilmiştir, içeride <PossibleEntity>lav lambaları</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Lav_lamba&action=edit&redlink=1)</URL> , eski <PossibleEntity>server clusterlar</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Server_cluster)</URL> ve duvarlarda arama sorgu projeksiyonları bulunmaktadır."
+        },
+        {
+            "id": "Google#196",
+            "sentence": "Koridorlarda egzersiz topları ve bisikletler mevcuttur."
+        },
+        {
+            "id": "Google#197",
+            "sentence": "Her çalışanın ortak eğlence ve dinlenme merkezlerine giriş hakkı vardır."
+        },
+        {
+            "id": "Google#198",
+            "sentence": "Eğlence alanları yerleşkenin her yerinde bulunmaktadır."
+        },
+        {
+            "id": "Google#199",
+            "sentence": "Antrenman salonlarında ağırlıklar, ergometreler, soyunma odaları, duş ve kurulanma imkânları, masaj salonları, çeşitli video oyunları, <PossibleEntity>langırt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Lang%C4%B1rt)</URL> , piyano, bilardo masaları ve masa tenisi mevcuttur."
+        },
+        {
+            "id": "Google#200",
+            "sentence": "Bunlara ek olarak da beslenme ihtiyaçlarını karşılamak için çeşitli yiyecek ve içeceklerin bulunduğu odalar mevcuttur."
+        },
+        {
+            "id": "Google#201",
+            "sentence": "Çalışanlar odalarda bulunan gıdaları ücretsiz, <PossibleEntity>satış makinelerinde</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sat%C4%B1%C5%9F_makinesi)</URL> bulunanları ise ücreti karşılığında alabilmektedir."
+        },
+        {
+            "id": "Google#202",
+            "sentence": "Google, 2006 yılında 28,900 m²'lik çalışma alanına sahip New York City, Manhattan 111 Eighth Caddesi'ndeki binasına taşındı."
+        },
+        {
+            "id": "Google#203",
+            "sentence": "Bina Google tarafından özel olarak inşa edildi ve büyük ortaklıkları başaran en büyük satış grubu olarak lanse edildi.  100'den fazla projeden (Google maps, Google Spreadsheets ve diğerleri...) sorumlu olan mühendis personel grubu New York City'de bulunan ekibe dahil edildi."
+        },
+        {
+            "id": "Google#204",
+            "sentence": "Bina yılda 10 milyon $’a kiralanmıştır ve Mountain View'deki merkez binasına benzer dizayn ve fonksiyonlara sahiptir."
+        },
+        {
+            "id": "Google#205",
+            "sentence": "Kasım 2006'da <PossibleEntity>Pittsburgh</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Pittsburgh)</URL> 'daki <PossibleEntity>Carnegie Mellon</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Carnegie_Mellon&action=edit&redlink=1)</URL> yerleşkesinde bir ofis açtı. Bu ofiste akıllı telefon uygulama ve programlarının satışıyla ilgili reklam yapılması üzerine odaklanıldı.   2006'nın sonlarına doğru, Google AdWords bölümü için <PossibleEntity>Ann Arbor</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ann_Arbor)</URL> , <PossibleEntity>Michigan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Michigan)</URL> 'da yeni bir merkez bina kurdu."
+        },
+        {
+            "id": "Google#206",
+            "sentence": "Ayrıca, dünyanın birçok yerinde yerel ofisleri bulunmaktadır."
+        },
+        {
+            "id": "Google#207",
+            "sentence": "Google, çevreye duyarlı olma noktasında adımlar atmaktadır."
+        },
+        {
+            "id": "Google#208",
+            "sentence": "Ekim 2006'da şirket binlerce <PossibleEntity>güneş paneli</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCne%C5%9F_paneli)</URL> kurma planını açıklamış, sistemin; 1.6 <PossibleEntity>megawatt</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Megawatt)</URL> elektrik gücü üreteceğini tahmin ederek ihtiyacı olan elektrik enerjisinin %30'nu bu yolla karşılamayı planlamıştır."
+        },
+        {
+            "id": "Google#209",
+            "sentence": "Bu sistemin, dünyadaki en büyük güneş enerjisi kaynaklı güç üretimi sistemi olarak planlanmıştır."
+        },
+        {
+            "id": "Google#210",
+            "sentence": "Buna ek olarak 2009 yılında Google, Googleplex etrafındaki otlak alanlarının kısa kalmasını sağlamak maksadıyla bu alanda keçi sürüleri konuşlandıracağını ve ayak izlerinin karbon salınım oranını azaltması yoluyla çalıların mevsimlere bağlı olarak yanmasının önüne geçilmesini de amaçladığını açıkladı."
+        },
+        {
+            "id": "Google#211",
+            "sentence": "Çimlerin kısa tutulması ile ilgili fikir, <PossibleEntity>yarı iletken</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yar%C4%B1_iletken)</URL> alanında çalışan mühendis R. J."
+        },
+        {
+            "id": "Google#212",
+            "sentence": "Widlar'a aittir."
+        },
+        {
+            "id": "Google#213",
+            "sentence": "Buna rağmen <PossibleEntity>Harper Magazine</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Harper_Magazine&action=edit&redlink=1)</URL> tarafından Google, kendi iç yapısında kullandığı bir slogan olan \"Kötü olmayın\" prensibine ve kamu enerjisi tasarrufu kampanyalarına uymayıp, kendi sunucuları için gereken büyük miktarda enerjiyi sağlama çabasına girdiği gerekçesiyle \"enerji israfı\" suçlamalarıyla karşı karşıya kalmıştır."
+        },
+        {
+            "id": "Google#214",
+            "sentence": "Google geleneksel olarak <PossibleEntity>1 Nisan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/1_Nisan_%C5%9Eaka_G%C3%BCn%C3%BC)</URL> şakaları yapar. 2000 yılında <PossibleEntity>MentalPlex</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_kand%C4%B1rmacalar%C4%B1#2000)</URL> şakasında zihin gücü ile internette arama yapılabileceği öne sürmüştü.  2007'de Google <PossibleEntity>TiSP</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_%C5%9Fakalar%C4%B1#Google_TiSP)</URL> adında bedava bir internet hizmeti sunmaya başladığını duyurmuştu."
+        },
+        {
+            "id": "Google#215",
+            "sentence": "TiSP veya T oilet I nternet S ervice P rovider, (Tuvalet Internet Servis Sağlayıcı (Türkçe) ) ile hizmet alana <PossibleEntity>fiberoptik</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fiberoptik)</URL> kablo ile tuvalet sifonundan drenaj kanalı sayesinde erişim sağlamayı vadetti."
+        },
+        {
+            "id": "Google#216",
+            "sentence": "Yine 2007'de Google, Gmail ana sayfasından <PossibleEntity>Gmail Paper</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_%C5%9Fakalar%C4%B1#Gmail_Paper)</URL> duyurusu yaptı."
+        },
+        {
+            "id": "Google#217",
+            "sentence": "Buna göre kullanıcı epostaları basılacak ve kendilerine yollanacaktı."
+        },
+        {
+            "id": "Google#218",
+            "sentence": "2008'de Google Gmail Custom Time'ın duyurusu yaptı, buna göre kullanıcılar e-postanın yollandığı zamanı değiştirebileceklerdi."
+        },
+        {
+            "id": "Google#219",
+            "sentence": "2013'te \"Arama motoru teknolojisinde koku devrimi\" adıyla duyurduğu \"Google Burun\" isimli uygulamayla internet kullanıcılarına 1 Nisan şakası yaptı. \"Google Burun\", bir günlük beta sürümüyle \"1 Nisan şakasıyla\" internet kullanıcılarına merhaba dedi. \"Google Aroma veritabanı - 15 milyondan fazla koku verisi\" gibi çarpıcı ifadelerle tanıtımı yapılan uygulama tamamen 1 Nisan şakasından ibaret.\"Kokla\", \"Koklamayı başlat\" butonlarına bastıktan sonra \"Koku gönderiliyor\" uyarısıyla \"Burnunuzu ekrana mümkün olduğunca yaklaştırın ve Enter'a basın\" gibi bir ifade ekrana çıkıyor."
+        },
+        {
+            "id": "Google#220",
+            "sentence": "Hemen Yanında \"Yardıma mı ihtiyacınız var?\" butonuna bastıktan sonra, uygulamanın 1 Nisan şakası olduğu anlaşılıyordu."
+        },
+        {
+            "id": "Google#221",
+            "sentence": "<PossibleEntity>Topeka, Kansas</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Topeka,_Kansas)</URL> şehrinin valisi, Google'ın <PossibleEntity>Google Fiber Projesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Fiber)</URL> hakkındaki kararını etkileyebilmek için şehrin ismini bir süreliğine Google olarak değiştirmişti."
+        },
+        {
+            "id": "Google#222",
+            "sentence": "Google, buna karşılık olarak, 2010 yılındaki şakasında, adını geçici olarak Topeka şeklinde değiştirdi. 2011'de Gmail Motion duyurusunu yaptı."
+        },
+        {
+            "id": "Google#223",
+            "sentence": "Bu hizmetle Google, kamera ile kullanıcıların Gmail hesabını ve bilgisayarı vücut hareketleri yoluyla denetlemesine olanak sağlayacaktı."
+        },
+        {
+            "id": "Google#224",
+            "sentence": "Tüm bu 1 Nisan şakaları ile birlikte, Google hizmetlerinde çeşitli <PossibleEntity>paskalya yumurtaları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Paskalya_yumurtas%C4%B1)</URL> bulunmaktadır."
+        },
+        {
+            "id": "Google#225",
+            "sentence": "Örneğin, Google arama motoru dil seçenekleri arasında <PossibleEntity>Swedish Chef</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_%C5%9Fakalar%C4%B1#Google'da_farklı_diller)</URL> 'in \"Bork bork bork,\" <PossibleEntity>Pig Latin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_%C5%9Fakalar%C4%B1#Google'da_farklı_diller)</URL> , \"Hacker\" veya <PossibleEntity>leetspeak</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_%C5%9Fakalar%C4%B1#Google'da_farklı_diller)</URL> , <PossibleEntity>Elmer Fudd</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_%C5%9Fakalar%C4%B1#Google'da_farklı_diller)</URL> ve <PossibleEntity>Klingon</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Klingon_dili)</URL> bulunmaktaydı."
+        },
+        {
+            "id": "Google#226",
+            "sentence": "Ek olarak arama motoru <PossibleEntity>Douglas Adams</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Douglas_Adams)</URL> 'ın Otostopçunun Galaksi Rehberi isimli kitabında da geçen <PossibleEntity>Hayat, Evren ve her şey hakkındaki nihai yanıtı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_%C5%9Fakalar%C4%B1#Hayatın,_evrenin,_her_şeyin_anlamı_=_42)</URL> da sağlar."
+        },
+        {
+            "id": "Google#227",
+            "sentence": "Ayrıca, arama sayfasında dil oyunları da yapmaktadır; örneğin recursion (yineleme) sözcüğü arandığında, imla kontrolü yineleme yaparak yine recursion sözcüğünü aramayı tavsiye eder.  Benzer şekilde \"Anagram\" (bir kelimedeki harflerin yerini değiştirerek yeni bir kelime üretmek) sözcüğü arandığında, imla kontrolü tavsiyesi \"Did you mean: nag a ram?\" şeklinde olur.  Google Maps'te de geniş su kütleleri ile ayrılmış iki nokta arasında, örneğin Tokyo ve Los Angeles arasında, yol tarifi sorulduğunda, \"Pasifik Okyanusu'nu kayak yaparak geçin.\" şeklinde bir tarif görülebilir. <PossibleEntity>2010 FIFA Dünya Kupası</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/2010_FIFA_D%C3%BCnya_Kupas%C4%B1)</URL> süresince, \"Dünya Kupası\", \"FIFA\" vb. aramalarda alttaki sayfa listesi \"Goooo...gle\" şeklinde değil \"Goooo...al!\" şeklinde belirmiştir."
+        },
+        {
+            "id": "Google#228",
+            "sentence": "2004 yılında Google, 1 milyar <PossibleEntity>$</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)</URL> 'lık bir başlangıç sermayesi ile kâr amacı gütmeyen bir hayır organizasyonu olan <PossibleEntity>Google.org</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Google.org&action=edit&redlink=1)</URL> 'u kurdu."
+        },
+        {
+            "id": "Google#229",
+            "sentence": "Organizasyonun misyonu, <PossibleEntity>iklim değişikliği</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0klim_de%C4%9Fi%C5%9Fikli%C4%9Fi)</URL> , küresel halk sağlığı ve küresel yoksulluk ile ilgili farkındalık yaratmaktır."
+        },
+        {
+            "id": "Google#230",
+            "sentence": "İlk projelerinden biri, <PossibleEntity>hibrid</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hibrit_(otomobil))</URL> <PossibleEntity>elektrikli otomobillere</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Elektrikli_otomobil)</URL> her galonla 100 mil gidebilmelerini sağlayacak bir eklenti yapmaktı."
+        },
+        {
+            "id": "Google#231",
+            "sentence": "Google, 2004 yılında bu programa yönetici müdür olarak <PossibleEntity>Dr. Larry Brilliant</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Larry_Brilliant&action=edit&redlink=1)</URL> 'ı aldı.  Programın şu andaki yöneticisi ise Megan Smith'dir."
+        },
+        {
+            "id": "Google#232",
+            "sentence": "2008 yılında Google, \"10 100 Projesi\" ile projeye başvuran ve şirket tarafından seçilen 16 fikri kullanıcılarının oylamasına açmıştır."
+        },
+        {
+            "id": "Google#233",
+            "sentence": "İki yıllık sessizlik sonrasında,  10 100 Projesi'nin kazananlarına toplam 10 milyon $ vermeye karar vermiştir."
+        },
+        {
+            "id": "Google#234",
+            "sentence": "Takip eden, 2011 yılında ise, <PossibleEntity>Uluslararası Matematik Olimpiyatları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Uluslararas%C4%B1_Matematik_Olimpiyat%C4%B1)</URL> 'nı desteklemek amacıyla, gelecek beş yıl için (2011-2015) Uluslararası Matematik Olimpiyatları'na 1 milyon € bağışlamıştır."
+        },
+        {
+            "id": "Google#235",
+            "sentence": "Google <PossibleEntity>ağ tarafsızlığının</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/A%C4%9F_tarafs%C4%B1zl%C4%B1%C4%9F%C4%B1)</URL> ünlü bir destekleyicisidir."
+        },
+        {
+            "id": "Google#236",
+            "sentence": "Google'ın İnternet Tarafsızlık Rehberine göre;"
+        },
+        {
+            "id": "Google#237",
+            "sentence": "Ağ tarafsızlığı; İnternet kullanıcılarının, gördükleri içerikleri ve İnternet'te kullanılan uygulamaları kontrol edebilmeleri prensibidir."
+        },
+        {
+            "id": "Google#238",
+            "sentence": "İnternet ilk günlerinden beri bu tarafsızlık ilkesine göre faaliyet göstermektedir."
+        },
+        {
+            "id": "Google#239",
+            "sentence": "Temelde bu tarafsızlık ilkesi İnternet'e eşit erişim hakkındadır."
+        },
+        {
+            "id": "Google#240",
+            "sentence": "Bizim görüşümüze göre geniş bant taşıyıcıları, rekabet uygulamaları ve içeriklerine karşı ayrımcılığa neden olmaması için pazar gücünden izin almadır."
+        },
+        {
+            "id": "Google#241",
+            "sentence": "Yalnızca telefon şirketleri, müşterilerini kimi, niçin arayacaksa izin almadan yapmalıdır."
+        },
+        {
+            "id": "Google#242",
+            "sentence": "Geniş bant taşıyıcılar, pazar güçlerinin kontrolünde bu faaliyetlerini icra etmelidirler."
+        },
+        {
+            "id": "Google#243",
+            "sentence": "7 Şubat 2006 yılında <PossibleEntity>İnternet Protokolü'nün</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_ileti%C5%9Fim_kurallar%C4%B1_dizisi)</URL> yaratıcısı, Google'ın başkan yardımcısı ve \"Baş İnternet Misyoneri\" olan <PossibleEntity>Vint Cerf</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vint_Cerf)</URL> , kongre önünde, \"Geniş bant taşıyıcılarının insanların ne gördüklerini ve çevrimiçi olarak ne yapmak istediklerini kontrol etmelerine izin vermenin, İnternet'in başarı sağlaması prensiplerini temelden çökerteceğini\" ifade etmiştir."
+        },
+        {
+            "id": "Google#244",
+            "sentence": "Google'nin yönetim şefi Eric Schmidt, 2007'de Financial Times'a verdiği bir demeçte: \"Google'ın hedefi \"Yarınım nasıl olacak?\" ve \"Ne iş yapacağım?\" gibi geleceğe dönük sorular sorulmasına olanak tanımak ve bu soruları yanıtlayabilmektir.\" demiştir."
+        },
+        {
+            "id": "Google#245",
+            "sentence": "Schmidt 2010'da Wall Street Journal'a verdiği başka bir röportajda ise bunu teyit etmiş ve şöyle demiştir: \"Aslında birçok kişi Google'ın onların sorularını yanıtlamak istemediğini düşünüyor, onlar (kullanıcılar) bundan sonra Google'ın neler yapacağını anlamak istiyor.\""
+        },
+        {
+            "id": "Google#246",
+            "sentence": "2009 Aralık ayında, Google CEO'su, Eric Schmidt, gizlilik konusundaki endişelerini açıklamıştır: \"Eğer herkesin bilmesini istemediğin bir şey varsa, belki de ilk raddede bunu yapmayacaksın."
+        },
+        {
+            "id": "Google#247",
+            "sentence": "Eğer gerçekten bir gizliliğe ihtiyacınız varsa, gerçek şu ki Google dahil arama motorları bu bilgileri bir süreliğine koruyor; örneğin, \"Amerikan Yurtseverlik Yasası uyarınca bizim elimizdeki mevcut bilgileri yetkili makamlara sunmamız imkan dahilindedir.\"  Google <PossibleEntity>Uluslararası Gizlilik Örgütü</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Privacy_International)</URL> 'nün \"Gizlilik Muhalifi\" olarak nitelendirdiği şirketler arasındadır, bu listede Google gizlilik güvenilirliği en düşük kurumlar arasında yer alıp, mevcut konumuyla bu derecedeki tek şirkettir."
+        },
+        {
+            "id": "Google#248",
+            "sentence": "2010 Tekonomi konferansında Eric Schmidt internetin geleceğinin \"gerçek şeffaflık ve bilinirlik\" üzerine kurulacağını tahmin etmiş: \"Dünyadaki eş zamanlı olmayan tehditlere karşı, belirli bir tanımlama yapamamak son derece tehlikeli."
+        },
+        {
+            "id": "Google#249",
+            "sentence": "Bundan dolayı bazı insanlar için doğrulama hizmetini kullanmaya mecburuz."
+        },
+        {
+            "id": "Google#250",
+            "sentence": "Bu hükûmetlerin isteklerindendir.\" şeklinde konuşmuş ve devam etmiştir: \"Yeterli sayıda iletinize, bulunduğunuz yere ve kullandığınız yapay zekâya bakılınca; bizler sizin nerede olabileceğinizi tahmin edebiliriz."
+        },
+        {
+            "id": "Google#251",
+            "sentence": "Bize 14 fotoğrafınızı gösterin; bizler sizin kim olduğunuzu tanımlayabiliriz."
+        },
+        {
+            "id": "Google#252",
+            "sentence": "Şimdi düşüneceksiniz ki, internet ortamında 14 fotoğrafım nerede var?"
+        },
+        {
+            "id": "Google#253",
+            "sentence": "Facebook'taki fotoğraflar size ait!\""
+        },
+        {
+            "id": "Google#254",
+            "sentence": "Kâr amacı gütmeyen bir kurum olan Kamusal Bilgi Araştırmaları; Google İzleme Örgütünü başlatmış, \"Google'ın tekelini, algoritmasını ve gizlilik sorunlarını görün\" içerikli bir web reklamı hazırlamıştır."
+        },
+        {
+            "id": "Google#255",
+            "sentence": "Bu site Google'ın <PossibleEntity>internet çerezlerini</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87erez_(internet))</URL> saklaması konusundaki soruları gündeme taşımıştır. 2007 yılında; bu çerezlerin ömrünün 32 yıl olduğu ve bu verilerle kullanıcı kimliklerine istinaden, benzersiz <PossibleEntity>kullanım günlüklerinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Kullan%C4%B1m_g%C3%BCnl%C3%BC%C4%9F%C3%BC&action=edit&redlink=1)</URL> oluşturulmasının mümkün olduğu açıklanmıştır."
+        },
+        {
+            "id": "Google#256",
+            "sentence": "Google kurduğu sosyal ağ hizmeti olan <PossibleEntity>Google Buzz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Buzz)</URL> ürünü nedeniyle de eleştirilerle karşı karşıya kalmıştır, Gmail kullanıcıları bu hizmetten yararlanmayı kapatmadığı takdirde otomatik olarak iletişim listesinde yer almıştır."
+        },
+        {
+            "id": "Google#257",
+            "sentence": "Ayrıca Google belirli ülke ve bölgelerde bazı siteleri kendi inisiyatifiyle engellediği için eleştirilmiştir."
+        },
+        {
+            "id": "Google#258",
+            "sentence": "Mart 2010'a kadar Google, halk dilinde \"Çin'in Büyük Güvenlik Duvarı\" olarak bilinen <PossibleEntity>Çin'in İnternet sansürleme politikalarına</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%87in%27in_internet_sans%C3%BCrleme_politikalar%C4%B1)</URL> bağlı kalmıştır.  2010'da Çin Komünist Partisi Bürosu'ndan sızdırılan diplomatik ilişki raporlarında, Google'ın dünya çapındaki sunucularından bir kısmının koordineli sabotaj düzenleyen bir grup tarafından ele geçirildiği ve bunun \"hükûmet operatörleri, özel güvenlik çalışanları ve Çin hükûmetine bağlı internet casusları\" tarafından yapıldığı belirtilmiştir."
+        },
+        {
+            "id": "Google#259",
+            "sentence": "Google'ın yerel ve ulusal gizlilik politikası son derece etkili olmasına rağmen, şirket kendi çevrimiçi politikasını kamuoyu ile paylaşmamıştır."
+        },
+        {
+            "id": "Google#260",
+            "sentence": "Ağustos 2010'da, <PossibleEntity>New York Halk Sözcüsü Bill de Blasio</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bill_de_Blasio)</URL> tüm ulusal şirketleri politik harcamalarını açıklamaya çağırmıştır."
+        },
+        {
+            "id": "Google#261",
+            "sentence": "Google 2006-2010 arasında, otuzdan daha fazla ülkede özel Wi-Fi ağı kurmuş, Google Streetview ile kullanıma sunulan 600 gigabaytlık veri sayesinde de ücretsiz kamera-yol izleme sistemi geliştirilmiştir."
+        },
+        {
+            "id": "Google#262",
+            "sentence": "Ancak Google, ne bu konudaki gizlilik politikası ne de Wi-Fi istasyonlarını barındıran kişiler hakkında bir açıklama yapmıştır."
+        },
+        {
+            "id": "Google#263",
+            "sentence": "Bir Google temsilcisi, şirketin Almanya'da açılan soruşturmaya dek veri toplama faaliyetlerinden haberdâr olmadığını iddia etmiş ve Google'ın arama motorları veya diğer servislerinde topladığı bu verilerin kullanılmadığını söylemiştir. <PossibleEntity>Consumer Watchdog</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Consumer_Watchdog&action=edit&redlink=1)</URL> temsilcisi ise verdiği cevapta, \"Bir kez daha Google'ın gizlilik politikasındaki eksiklikler görüldü."
+        },
+        {
+            "id": "Google#264",
+            "sentence": "Şirketin bilgisayar mühendisleri cinnet halinde çalışıyor; her ne kadar örtülmeye çalışılsa da, onların internet çerezlerini biriktirdiği ortaya çıktı.\" şeklinde konuşmuştur."
+        },
+        {
+            "id": "Google#265",
+            "sentence": "Bunun yasal cezalara neden olabileceğini, Google'ın izin verilen kadar internet çerezini yok etmediğini savunmuştur."
+        },
+        {
+            "id": "Google#266",
+            "sentence": "Google programlama ve diğer bilgisayar bilimleri konularında birçok yarışma düzenmiş ve var olan yarışmalara sponsor olmuştur. 2003'ten beri düzenlediği <PossibleEntity>Code Jam</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Code_Jam&action=edit&redlink=1)</URL> ile Google'da çalışması muhtemel yüksek kalite mühendis adaylarını keşfetmeyi amaçlamıştır."
+        },
+        {
+            "id": "Google#267",
+            "sentence": "Yarışmada amaç, kısıtlı bir sürede, verilen <PossibleEntity>algoritma</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Algoritma)</URL> problemlerini çözebilecek bilgisayar programları yazmaktır. <PossibleEntity>Yapay zekâ</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yapay_zek%C3%A2)</URL> konusunda 2009-2011 yılları arasında 4 defa düzenlenen <PossibleEntity>AI Challenge</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/AI_Challenge)</URL> yarışmasına 2010 yılından itibaren sponsor olmuştur."
+        },
+        {
+            "id": "Google#268",
+            "sentence": "Bu yarışmada katılımcılar verilen oyun kuralları içinde birbirine üstünlük kurmaya çalışan yapay zeka programları yazmaya çalışır. <PossibleEntity>Optimizasyon</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Optimizasyon)</URL> problemleri üzerine yoğunlaşılan Google <PossibleEntity>HashCode</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=HashCode&action=edit&redlink=1)</URL> yarışması 2014 yılında Fransa çapında düzenlenmiştir.  2015 yılından itibaren yarışma uluslararası çapta düzenlenmeye başlanmıştır."
+        },
+        {
+            "id": "Google#269",
+            "sentence": "Google, doğrudan bilgisayar bilimleriyle ilgili olmayan bazı yarışmaları da destekler. <PossibleEntity>Google Bilim Fuarı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Google_Science_Fair)</URL> , 2005 yılından beri senede bir kez düzenlenen bir bilim ve mühendislik yarışmasıdır."
+        },
+        {
+            "id": "Google#270",
+            "sentence": "Yarışmaya 13-18 yaşındaki bireylerden oluşan ekipler katılabilir."
+        },
+        {
+            "id": "Google#271",
+            "sentence": "Güç elektriği alanındaki <PossibleEntity>Little Box Challenge</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Little_Box_Challenge&action=edit&redlink=1)</URL> yarışmasının amacı en küçük <PossibleEntity>güç çeviriciyi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nvert%C3%B6r)</URL> yapmaktır."
+        },
+        {
+            "id": "Google#272",
+            "sentence": "Yapılan güç çevirici kW ölçütünde olmalıdır.  2008 yılından beri düzenlenen <PossibleEntity>Online Marketing Challenge</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Online_Marketing_Challenge&action=edit&redlink=1)</URL> 'ın amacı ise Google'ın pazarlama araçlarını kullanarak bir işletme ya da organizasyonun tanıtımını yapmaktır."
+        }
+    ]
+}

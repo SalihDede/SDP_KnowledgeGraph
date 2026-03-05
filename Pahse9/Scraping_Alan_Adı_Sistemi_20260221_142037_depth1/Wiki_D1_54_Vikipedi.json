@@ -1,0 +1,393 @@
+{
+    "Title": "Vikipedi",
+    "Card": {
+        "Site türü": "<PossibleEntity>İnternet ansiklopedisi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_ansiklopedisi)</URL>",
+        "Diller": "342 dil",
+        "Sahip(ler)i": "<PossibleEntity>Wikimedia Foundation</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Wikimedia_Vakf%C4%B1)</URL>",
+        "Oluşturan": "<PossibleEntity>Jimmy Wales</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Jimmy_Wales)</URL> <PossibleEntity>Larry Sanger</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Larry_Sanger)</URL> ",
+        "Slogan": "Özgür Ansiklopedi",
+        "URL": "<PossibleEntity>wikipedia.org</PossibleEntity> <URL>:(https://wikipedia.org)</URL>",
+        "Ticari?": "Hayır",
+        "Kayıt": "Gerekli değil [not 1]",
+        "Başlatılma": "15 Ocak 2001 (25 yıl önce ) ( 2001-01-15 )",
+        "Durumu": "Aktif"
+    },
+    "Main": [
+        {
+            "id": "Vikipedi#1",
+            "sentence": "Vikipedi ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : Wikipedia ), kullanıcıları tarafından ortaklaşa olarak birçok dilde hazırlanan; özgür, bağımsız, ücretsiz, reklamsız ve kâr amacı gütmeyen bir <PossibleEntity>internet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> <PossibleEntity>ansiklopedisidir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ansiklopedi)</URL> . <PossibleEntity>MediaWiki</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/MediaWiki)</URL> yazılımı kullanılarak hazırlanmaktadır."
+        },
+        {
+            "id": "Vikipedi#2",
+            "sentence": "Sürekli eklemeler ve değişiklikler yapıldığı için hiçbir zaman tamamlanmayacağı varsayılmaktadır."
+        },
+        {
+            "id": "Vikipedi#3",
+            "sentence": "Kurucularından <PossibleEntity>Jimmy Wales</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Jimmy_Wales)</URL> , Vikipedi'yi, \"Dünya üzerindeki her insana kendi dilinde, en üst kalitede, bedava bir ansiklopedi oluşturma ve dağıtma uğraşısı\" olarak tanımlamaktadır."
+        },
+        {
+            "id": "Vikipedi#4",
+            "sentence": "Vikipedi sözcüğü, viki ve pedi sözcüklerinin birleşiminden oluşur. \" Viki \", <PossibleEntity>Hawaii dilindeki</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hawaii_dili)</URL> \"wiki wiki\" ( hızlı veya bilgi amaçlı ) sözcüğünden türetilmiştir.  \" Pedi \" ise, <PossibleEntity>Antik Yunan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Antik_Yunanistan)</URL> Medeniyeti'nde \"kapsamlı kültürel eğitim sistemi\" anlamına gelen paideia sözcüğünden gelir."
+        },
+        {
+            "id": "Vikipedi#5",
+            "sentence": "Vikipedi'nin güvenilebilirliği ve doğruluğu üzerine tartışmalar mevcuttur ve site yoğun olarak <PossibleEntity>vandalizme</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vikipedi:Vandalizm)</URL> maruz kalmaktadır."
+        },
+        {
+            "id": "Vikipedi#6",
+            "sentence": "Maddelerin eşit olmayan kalitesi, değişikliklerin takipsizliği, sistem hataları ve bilgilerin doğruluğu üzerine tartışmalar hâlen devam etmektedir. [kaynak belirtilmeli] Verilen bilgiler bazen onaylanmamış ve sorgulanabilir olabilir, kaynakları eksik olabilir."
+        },
+        {
+            "id": "Vikipedi#7",
+            "sentence": "Ancak 2005'te yapılan bir araştırmada, <PossibleEntity>İngilizce Vikipedi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce_Vikipedi)</URL> 'deki \"doğal bilgiler üzerine\" girdilerin doğruluğu, <PossibleEntity>Britannica Ansiklopedisi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica)</URL> ile aynı seviyede bulunmuştur."
+        },
+        {
+            "id": "Vikipedi#8",
+            "sentence": "Encyclopædia Britannica Inc. şirketi ise ansiklopedilerindeki maddelerin ödül kazanmış ünlü akademisyenler tarafından hazırlandığını belirterek bu araştırmayı hatalı bulmuştur. [kaynak belirtilmeli]"
+        },
+        {
+            "id": "Vikipedi#9",
+            "sentence": "Vikipedi'nin ana sunucuları <PossibleEntity>ABD</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> 'nin Florida Eyaleti'ndeki <PossibleEntity>Tampa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Tampa)</URL> kentinde, diğer başlıca sunucuları ise <PossibleEntity>Hollanda</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Hollanda)</URL> 'nın <PossibleEntity>Amsterdam</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amsterdam)</URL> , <PossibleEntity>Fransa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fransa)</URL> 'nın <PossibleEntity>Paris</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Paris)</URL> ve <PossibleEntity>Güney Kore</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/G%C3%BCney_Kore)</URL> 'nin <PossibleEntity>Seul</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Seul)</URL> kentinde bulunmaktadır."
+        },
+        {
+            "id": "Vikipedi#10",
+            "sentence": "Vikipedi, gönüllülerin ortaklaşa çabası doğrultusunda ve neredeyse herkesin web sitesine ulaşıp değiştirmesiyle yazılmaktadır."
+        },
+        {
+            "id": "Vikipedi#11",
+            "sentence": "Vikipedi'ye bilgi girişi yapabilmek için üye olma zorunluluğu yoktur."
+        },
+        {
+            "id": "Vikipedi#12",
+            "sentence": "Bu durum bilgilerin herkes tarafından anında eklenebilmesine olanak verir."
+        },
+        {
+            "id": "Vikipedi#13",
+            "sentence": "Bununla beraber üye olmanın, yapılan değişikliklerin kaydını tutabilmek, seçkin madde vb. oylamalarına katılmak, vandalizmle mücadeleyi kolaylaştırmak gibi avantajları vardır."
+        },
+        {
+            "id": "Vikipedi#14",
+            "sentence": "Diğer İnternet ansiklopedi projelerinin çoğu üyelik gerektirir ve yalnızca uzmanların yazılarına izin vermektedir: <PossibleEntity>Stanford Felsefe Ansiklopedisi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Stanford_Felsefe_Ansiklopedisi)</URL> , <PossibleEntity>Nupedia</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Nupedia)</URL> , <PossibleEntity>h2g2</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/H2g2)</URL> ve <PossibleEntity>Everything2</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Everything2)</URL> gibi. Bazı ansiklopediler de Vikipedi gibi Viki yazılımı kullanmaktadır."
+        },
+        {
+            "id": "Vikipedi#15",
+            "sentence": "Diğer ansiklopedilerden farklı olarak, Vikipedi <PossibleEntity>GNU Özgür Belgeleme Lisansı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/GNU_%C3%96zg%C3%BCr_Belgeleme_Lisans%C4%B1)</URL> (GÖBL) kullanmaktadır."
+        },
+        {
+            "id": "Vikipedi#16",
+            "sentence": "Vikipedi'ye yazılan bilgilerin uygunluğu konusunda bazı kurallar mevcuttur."
+        },
+        {
+            "id": "Vikipedi#17",
+            "sentence": "Bilgiler tartışılır, değerlendirilir ve içeriğe eklenmesi, değiştirilmesi veya <PossibleEntity>Vikisözlük</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vikis%C3%B6zl%C3%BCk)</URL> gibi kardeş bir projeye transfer olması üzerine kararlar alınır."
+        },
+        {
+            "id": "Vikipedi#18",
+            "sentence": "Vikipedi'nin ana kurallarından biri maddelerin tarafsız bir şekilde, kaynaklarıyla birlikte, olumlu ya da olumsuz tüm yönleriyle sunulması gerektiğidir."
+        },
+        {
+            "id": "Vikipedi#19",
+            "sentence": "Vikipedi, maddeleri tamamen objektif ve doğru bir şekilde sunmaya ve her türlü bakış açısını yansıtmaya çalışır."
+        },
+        {
+            "id": "Vikipedi#20",
+            "sentence": "Maddeler kullanıcıların kolaylıkla anlayabileceği bir sunuş kısmının (giriş) ardından ayrıntıya girilerek, günümüz itibarıyla doğrulanabilecek kaynaklarla sunulmalıdır."
+        },
+        {
+            "id": "Vikipedi#21",
+            "sentence": "2020'de yayımlanan verilere göre İngilizce Vikipedi sürümünde 31 binden fazla aktif editör varken diğer dillerde binden fazla aktif editörü olan Vikipedi projelerinin sayısı 11'dir. <PossibleEntity>Wikimedia Vakfı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Wikimedia_Vakf%C4%B1)</URL> 'nın 2019'da yayımladığı verilere göre editörlerin %91'i erkek, %9'u kadındır."
+        },
+        {
+            "id": "Vikipedi#22",
+            "sentence": "Oldukça kapsamlı ve ortaklaşa üretilen bir proje olan Vikipedi'de ve kardeş projelerinde, bütün katkıların yasalara uygun olarak yapılması önemlidir."
+        },
+        {
+            "id": "Vikipedi#23",
+            "sentence": "Normalde bir eserin yazarı o yazının telif hakkını elinde bulundurur ve bu hak, diğer insanların bu yazıyı değiştirmesini ve kopyalamasını engeller."
+        },
+        {
+            "id": "Vikipedi#24",
+            "sentence": "Bu sebeple Vikipedi'deki maddeler <PossibleEntity>GÖBL</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/GNU_%C3%96zg%C3%BCr_Belgeleme_Lisans%C4%B1)</URL> ile yazılmakta ve her yazar telif haklarından vazgeçmektedir."
+        },
+        {
+            "id": "Vikipedi#25",
+            "sentence": "GÖBL, birçok telifi özgür bırakılmış lisans gibi, yazılanın dağıtılmasına, benzeri dokümanların çıkmasına ve kâr amaçlı kullanıma izin verir."
+        },
+        {
+            "id": "Vikipedi#26",
+            "sentence": "Bu lisans ayrıca yeniden katılım gösterenlerin aynı lisans ile değişiklikler yapmasına izin verir."
+        },
+        {
+            "id": "Vikipedi#27",
+            "sentence": "Özgür görünmesine rağmen bilgiyi yazan kişi telif hakkına sahiptir, ancak diğer insanların bu bilgilerden yararlanmasına ve geliştirmesine izin vermektedir."
+        },
+        {
+            "id": "Vikipedi#28",
+            "sentence": "Katılımcılar birden fazla lisansı içeriklerinde kullanabilirler ya da kamu malı olarak ilan edebilirler."
+        },
+        {
+            "id": "Vikipedi#29",
+            "sentence": "Vikipedi'deki resimlerin, seslerin ve video dosyalarının büyük çoğunluğu GÖBL lisansı ile lisanslanmaktadır."
+        },
+        {
+            "id": "Vikipedi#30",
+            "sentence": "Şirket logoları, şarkı örnekleri, haber fotoğrafları ise <PossibleEntity>Amerika Birleşik Devletleri</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Amerika_Birle%C5%9Fik_Devletleri)</URL> kanunlarına göre <PossibleEntity>adil kullanım</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Adil_kullan%C4%B1m)</URL> altında kullanılmaktadır."
+        },
+        {
+            "id": "Vikipedi#31",
+            "sentence": "Bunun yanı sıra <PossibleEntity>Creative Commons</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Creative_Commons)</URL> gibi GÖBL benzeri lisanslama yöntemleri de mevcuttur."
+        },
+        {
+            "id": "Vikipedi#32",
+            "sentence": "Vikipedi'nin en önemli politikalarından biri tarafsızlık politikasıdır.  <PossibleEntity>Tarafsız bakış açısı yönergesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vikipedi:Tarafs%C4%B1z_bak%C4%B1%C5%9F_a%C3%A7%C4%B1s%C4%B1)</URL> , Vikipedi'nin temel taşlarından birisidir."
+        },
+        {
+            "id": "Vikipedi#33",
+            "sentence": "Özellikle tartışmalı tüm konular, tartışmanın taraflarına eşit mesafede kalınarak yazılmalıdır."
+        },
+        {
+            "id": "Vikipedi#34",
+            "sentence": "Unutulmamalıdır ki Vikipedi bir milletin, grubun, takımın, sınıfın, dinin ansiklopedisi değildir."
+        },
+        {
+            "id": "Vikipedi#35",
+            "sentence": "Her dilin Vikipedi'sine, o dili bilen herkesin katkıda bulunabilmesi mümkündür."
+        },
+        {
+            "id": "Vikipedi#36",
+            "sentence": "Vikipedi maddeleri hazırlanırken <PossibleEntity>kanılara</PossibleEntity> <URL>:(https://tr.wiktionary.org/wiki/kan%C4%B1)</URL> değil, <PossibleEntity>olgulara</PossibleEntity> <URL>:(https://tr.wiktionary.org/wiki/olgu)</URL> yer verilir."
+        },
+        {
+            "id": "Vikipedi#37",
+            "sentence": "Basit bir örnek vermek gerekirse, \"Beatles dünyanın en iyi müzik grubudur\" ifadesi bir kanıdır ve Vikipedi'de yer alamaz."
+        },
+        {
+            "id": "Vikipedi#38",
+            "sentence": "Ancak, \"Thriller, dünyanın gelmiş geçmiş en çok satan albümüdür\" ifadesi bir olgudur ve güvenilir üçüncü parti kaynaklarını göstermek kaydı ile Vikipedi'de yer alabilir."
+        },
+        {
+            "id": "Vikipedi#39",
+            "sentence": "Özellikle dinî ve siyasi içerikli maddeler, Vikipedi'de en çok saldırıya uğrayan, değişiklik savaşlarına sahne olan maddelerdir."
+        },
+        {
+            "id": "Vikipedi#40",
+            "sentence": "Vikipedi'de, \"şehit\", \"terörist\", \"kahraman\" gibi göreceli tanımlamalardan kaçınılır."
+        },
+        {
+            "id": "Vikipedi#41",
+            "sentence": "Doğrudan ya da dolaylı hakaretlere hoşgörü gösterilmez."
+        },
+        {
+            "id": "Vikipedi#42",
+            "sentence": "Dinî kişilerden bahsederken \"Hazreti\", \"Aziz\", \"Yüce\" gibi sıfatlar kullanılmaz."
+        },
+        {
+            "id": "Vikipedi#43",
+            "sentence": "Tüm Vikipedilerin şu an 342 dil sürümü, 339 etkin dil sürümü (100'den fazla maddesi bulunan) mevcuttur."
+        },
+        {
+            "id": "Vikipedi#44",
+            "sentence": "Vikipedilerin toplamda 66.616.110 maddesi vardır."
+        },
+        {
+            "id": "Vikipedi#45",
+            "sentence": "Vikipedi her dilde birbirinden bağımsızdır."
+        },
+        {
+            "id": "Vikipedi#46",
+            "sentence": "İçeriklerin diğer dillerdeki gibi olma zorunluğu yoktur ya da maddelerin birbirlerinin tercümesi olması gerekmez."
+        },
+        {
+            "id": "Vikipedi#47",
+            "sentence": "Maddelerin otomatik tercümelerine izin verilmez; ancak yine de diğer dillerdeki Vikipedistler kendileri bu maddeleri tercüme ederler."
+        },
+        {
+            "id": "Vikipedi#48",
+            "sentence": "Birçok dilde tarafsız bakış açısı savunulmaktadır; ancak bulundukları ülkenin kanun ve kurallarına göre değişiklikler yapabilirler."
+        },
+        {
+            "id": "Vikipedi#49",
+            "sentence": "Maddeler ve resimler Vikipediler arasında paylaşılmaktadır."
+        },
+        {
+            "id": "Vikipedi#50",
+            "sentence": "Herhangi bir Vikipedist, başka bir dilden çeviri isteğinde bulunabilir."
+        },
+        {
+            "id": "Vikipedi#51",
+            "sentence": "Bunun yanı sıra <PossibleEntity>Wikimedia Commons</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Wikimedia_Commons)</URL> deposunda da tüm Vikipedilerin kullandığı medya dosyaları mevcuttur."
+        },
+        {
+            "id": "Vikipedi#52",
+            "sentence": "Birçok dildeki Vikipedi'de çevrilmiş dosyalar küçük bir bölümü temsil eder."
+        },
+        {
+            "id": "Vikipedi#53",
+            "sentence": "<PossibleEntity>Alexa</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alexa)</URL> 'ya göre, Vikipedi ziyaretçilerinin %61,58'i İngilizce Vikipedi sitesini ziyaret etmektedir."
+        },
+        {
+            "id": "Vikipedi#54",
+            "sentence": "Aşağıdaki liste 28 Mayıs 2025 itibarıyla 1.000.000 üzerinde maddesi olan Vikipedileri göstermektedir."
+        },
+        {
+            "id": "Vikipedi#55",
+            "sentence": "Hemen hemen tüm konuklar Vikipedi'nin içeriğini değiştirebilir; yeni kullanıcılar da yeni madde başlatabilirler."
+        },
+        {
+            "id": "Vikipedi#56",
+            "sentence": "Sayfada yapılan değişiklik derhâl yansır."
+        },
+        {
+            "id": "Vikipedi#57",
+            "sentence": "Vikipedi kullanıcıların ortaklaşa çalışmasının zamanla maddeleri geliştireceği inancıyla kurulmuştur, tıpkı herhangi bir açık kaynaklı programın gelişmesi gibi. Vikipedi editörleri bu durumu, \"sosyal <PossibleEntity>Darwin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Charles_Darwin)</URL> evrimi gelişmesi\" ile açıklar."
+        },
+        {
+            "id": "Vikipedi#58",
+            "sentence": "Bu ortaklaşa ve anında değişiklikler, editörlerin mevcut maddeleri hızlıca geliştirmesini ve yenilerinin gerçekleşir gerçekleşmez ortaya çıkmasını sağlar."
+        },
+        {
+            "id": "Vikipedi#59",
+            "sentence": "Bazıları ise Vikipedi'nin bu açık bakış açısını anlamsızca kullanırlar, buna da \"vandalizm\" denir."
+        },
+        {
+            "id": "Vikipedi#60",
+            "sentence": "Bunun yanı sıra, ortaklaşa çalışma bazen \"değiştirme savaşları\"na -birçok kişi birbirlerinin yazdıklarını onaylamadıkları için değiştirmekte ve çıkarmaktadır- ve editörlerin maddenin içeriği üzerinde uzlaşamamasına sebebiyet verir."
+        },
+        {
+            "id": "Vikipedi#61",
+            "sentence": "Maddeler istisnalar dışında her zaman değiştirilmeye açıktır."
+        },
+        {
+            "id": "Vikipedi#62",
+            "sentence": "Eğer, vandalizm ya da \"revert war\" (geri dönüştürme savaşı) yaşanırsa madde koruma altına alınır."
+        },
+        {
+            "id": "Vikipedi#63",
+            "sentence": "Vikipedi hiçbir maddesinin tamamlanmış ya da bitmiş olduğunu iddia etmez."
+        },
+        {
+            "id": "Vikipedi#64",
+            "sentence": "Maddelerin yazarlarının yazdıkları konu hakkında uzmanlık ya da yeterlilik sahibi olması gerekmez ve kullanıcılar yazdıklarının \"acımasızca değiştirilmesi ve keyfî olarak dağıtılması\" hakkında uyarılmaktadır."
+        },
+        {
+            "id": "Vikipedi#65",
+            "sentence": "Maddeler bir kullanıcı ya da editör grubu tarafından kontrol edilmez ya da telif altına alınmaz; içerik hakkındaki kararlar Vikipedi'nin editör kurallarına göre fikir alma ortak kararıyla ya da bazen oyla karar verilir."
+        },
+        {
+            "id": "Vikipedi#66",
+            "sentence": "Jimmy Wales tüm Vikipedi kurallarında ve kullanıcı haklarında son kararı verme hakkına sahiptir."
+        },
+        {
+            "id": "Vikipedi#67",
+            "sentence": "Kullanıcılar izleme listelerine ilgilerini çeken maddeleri eklerler, bu sayede bu maddelerin gelişimini izleyebilirler."
+        },
+        {
+            "id": "Vikipedi#68",
+            "sentence": "Vikipedi'deki birçok geçmiş değişiklik de sayfa geçmişinde kullanıcılar tarafından kronolojik olarak görülebilir."
+        },
+        {
+            "id": "Vikipedi#69",
+            "sentence": "Sadece, eğer söylenmeyecek sunumlar, telif hakkı ihlalleri ve yasal olarak Vikipedi'ye sorun çıkaracak hususlar varsa, bunlar sayfa geçmişinden silinebilir."
+        },
+        {
+            "id": "Vikipedi#70",
+            "sentence": "Bu değişiklikler sadece Vikipedi hizmetlileri tarafından yapılabilir."
+        },
+        {
+            "id": "Vikipedi#71",
+            "sentence": "Bazı maddeler için, seslendirilmiş sürümleri <PossibleEntity>ogg</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Ogg)</URL> biçiminde sunulmaktadır. <PossibleEntity>mp3</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/MP3)</URL> yerine ogg biçiminde sunulmasındaki ana sebep, mp3'ün bazı patentlerle koruma altına alınmış olmasıdır."
+        },
+        {
+            "id": "Vikipedi#72",
+            "sentence": "Vikipedi çevrimiçi olarak ve katı olmayan bir lisans ile sunulmaktadır."
+        },
+        {
+            "id": "Vikipedi#73",
+            "sentence": "İçeriğinin İnternet dışında kullanılmak üzere bilgisayara indirilmesi de oldukça kolaydır ve kullanılan ana dağıtım metodudur."
+        },
+        {
+            "id": "Vikipedi#74",
+            "sentence": "Bununla beraber, bazı projeler Vikipedi'nin içeriğini değişik olarak sunmaktadır."
+        },
+        {
+            "id": "Vikipedi#75",
+            "sentence": "Örnek olarak, <PossibleEntity>SOS Children</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=SOS_Children&action=edit&redlink=1)</URL> Vikipedi'nin içeriğini <PossibleEntity>CD</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/CD)</URL> 'de sunmaktadır."
+        },
+        {
+            "id": "Vikipedi#76",
+            "sentence": "Buna ek olarak, <PossibleEntity>Wikipedia 1.0</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Wikipedia_1.0&action=edit&redlink=1)</URL> isimli onaylanmış ve basıma hazır maddelerin editörler tarafından hazırlanmış bir CD sürümü de hazırlanmaktadır."
+        },
+        {
+            "id": "Vikipedi#77",
+            "sentence": "Yayımlanmış Vikipedi maddeleri ayrıca <PossibleEntity>PediaPress</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/PediaPress)</URL> ve <PossibleEntity>Print on Demand</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Print_on_Demand&action=edit&redlink=1)</URL> servisleri tarafından da sunulmaktadır."
+        },
+        {
+            "id": "Vikipedi#78",
+            "sentence": "Vikipedi'nin içeriği yüzlerce site tarafından veritabanından alınarak kullanılmaktadır."
+        },
+        {
+            "id": "Vikipedi#79",
+            "sentence": "Vikipedi'nin maddeleri ayrıca akademik çalışmalarda, kitaplarda ve konferanslarda ve son olarak da filmlerde de kullanılmaktadır. 2006 yılında, Amerika Birleşik Devletleri'nde bir davada Vikipedi referans olarak gösterilmiştir. <PossibleEntity>Kanada</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Kanada)</URL> Parlamentosu, Vikipedi'nin aynı cinste insanların evliliği hakkındaki maddesini, Yasal Evlenme Kanunu'nda okunulacak belge olarak sunmuştur."
+        },
+        {
+            "id": "Vikipedi#80",
+            "sentence": "Dönemin <PossibleEntity>Türkiye başbakanı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_ba%C5%9Fbakan%C4%B1)</URL> <PossibleEntity>Recep Tayyip Erdoğan</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Recep_Tayyip_Erdo%C4%9Fan)</URL> , <PossibleEntity>türban</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrban)</URL> ile ilgili bir demecinde <PossibleEntity>Türkçe Vikipedi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e_Vikipedi)</URL> 'yi kaynak göstermiştir."
+        },
+        {
+            "id": "Vikipedi#81",
+            "sentence": "Bunun yanı sıra, Vikipedi'nin popüler kültürde kullanılmasını konu alan eserler de çoğalmıştır."
+        },
+        {
+            "id": "Vikipedi#82",
+            "sentence": "Özellikle İngilizce konuşan ülkelerde Vikipedi'nin açık kodlu (değiştirilebilir) olması ve yoğun vandalizme uğramasını konu alan parodiler ve skeçler sıklıkla yapılmaktadır. <PossibleEntity>\"Weird Al\" Yankovic</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%22Weird_Al%22_Yankovic)</URL> \"White and Nerdy\" klibinde <PossibleEntity>Atlantic Records</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Atlantic_Records)</URL> sayfasını parodi amacıyla \"You suck!\" (Berbat!) şeklinde değiştirmiştir."
+        },
+        {
+            "id": "Vikipedi#83",
+            "sentence": "Bu durum Yankovic hayranlarının sayfaya yoğun olarak vandalizmde bulunmasına sebep olmuştur. <PossibleEntity>Penny Arcade</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Penny_Arcade&action=edit&redlink=1)</URL> 'in bir <PossibleEntity>karikatüründe</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Karikat%C3%BCr)</URL> <PossibleEntity>İskeletor</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0skeletor)</URL> , <PossibleEntity>He-Man</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/He-Man)</URL> maddesini değiştirmektedir."
+        },
+        {
+            "id": "Vikipedi#84",
+            "sentence": "2013 yılında <PossibleEntity>Murat Bardakçı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Murat_Bardak%C3%A7%C4%B1)</URL> , <PossibleEntity>Habertürk TV</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Habert%C3%BCrk_TV)</URL> 'de hazırlayıp sunduğu Tarihin Arka Odası programında Vikipedi'deki bilgileri birkaç kez eleştirmiştir."
+        },
+        {
+            "id": "Vikipedi#85",
+            "sentence": "Vikipedi'deki kendi biyografi maddesinden örnek vererek yanlış bilgiler içerdiğini belirtmiş, Vikipedi'yi <PossibleEntity>intihal</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ntihal)</URL> açısından öğrencilerin akademik performansı için olumsuz bir kaynak olarak gördüğünü dile getirmiş ve Vikipedi'nin bu yüzden Türkiye'de <PossibleEntity>yasaklanmasını</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Sans%C3%BCr)</URL> savunmuştur."
+        },
+        {
+            "id": "Vikipedi#86",
+            "sentence": "Vikipedi'ye Türkiye'den <PossibleEntity>erişim engelinin</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vikipedi%27ye_T%C3%BCrkiye%27den_eri%C5%9Fimin_engellenmesi)</URL> , 15 Ocak 2020'de <PossibleEntity>Türkiye Cumhuriyeti Anayasa Mahkemesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti_Anayasa_Mahkemesi)</URL> kararının ardından <PossibleEntity>Bilgi Teknolojileri ve İletişim Kurumu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgi_Teknolojileri_ve_%C4%B0leti%C5%9Fim_Kurumu)</URL> tarafından kaldırılmasının ardından, 23 Ocak 2020'de <PossibleEntity>Habertürk gazetesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Habert%C3%BCrk_(gazete))</URL> yazarlarından <PossibleEntity>Fatih Altaylı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Fatih_Altayl%C4%B1)</URL> “Davutoğlu’nun Anımsattıkları” başlıklı bir yazı kaleme almıştır."
+        },
+        {
+            "id": "Vikipedi#87",
+            "sentence": "Altaylı, Murat Bardakçı'nın Vikipedi'ye dönük eleştirilerine katıldığını ifade etmiş ve “Vikipedi gerçekten bir facia."
+        },
+        {
+            "id": "Vikipedi#88",
+            "sentence": "Tam Türk işi. Yalan dolan eksik gedik."
+        },
+        {
+            "id": "Vikipedi#89",
+            "sentence": "Wikipedia ne kadar zengin ise bu o kadar fakir."
+        },
+        {
+            "id": "Vikipedi#90",
+            "sentence": "Yanlışlar her ikisinde de var ama <PossibleEntity>Türkçe Vikipedi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e_Vikipedi)</URL> özensizlik, ilgisizlik üzerine inşa edilmiş."
+        },
+        {
+            "id": "Vikipedi#91",
+            "sentence": "Ama burada doğru olan kapatılmasını ya da yasaklı kalmasını istemek değil, düzeltilmesini talep etmek."
+        },
+        {
+            "id": "Vikipedi#92",
+            "sentence": "Güvenilir bir kaynak hâline gelmesi için çaba göstermek ve bunu talep etmek.” ifadelerine yer vermiştir."
+        },
+        {
+            "id": "Vikipedi#93",
+            "sentence": "Vikipedi için yapılan eleştirilerden biri de maddeleri denetleyen editörlerin kaynakları \"kabul görmeye değer\" ya da \"layık olmayan\" olarak sınıflandırması nedeniyle marjinal görüşlerin dışlanmasına yol açtığı, denetleyen editörlerin de literatüre yeterince hakim olmaması üzerinedir."
+        },
+        {
+            "id": "Vikipedi#94",
+            "sentence": "29 Nisan 2017'de Vikipedi'ye Türkiye'den erişim <PossibleEntity>Bilgi Teknolojileri ve İletişim Kurumu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Bilgi_Teknolojileri_ve_%C4%B0leti%C5%9Fim_Kurumu)</URL> tarafından idari tedbir uygulanmak suretiyle <PossibleEntity>engellenmiştir</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Vikipedi%27ye_T%C3%BCrkiye%27den_eri%C5%9Fimin_engellenmesi)</URL> .  2 yıl 8 ay 17 gün aradan sonra (992 gün), 15 Ocak 2020 tarihinde Türkiye saati ile 22.30'da <PossibleEntity>Anayasa Mahkemesi</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/T%C3%BCrkiye_Cumhuriyeti_Anayasa_Mahkemesi)</URL> kararıyla yeniden erişime açılmıştır."
+        }
+    ]
+}

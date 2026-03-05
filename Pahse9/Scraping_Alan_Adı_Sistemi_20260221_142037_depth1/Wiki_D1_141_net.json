@@ -1,0 +1,42 @@
+{
+    "Title": ".net",
+    "Card": {},
+    "Main": [
+        {
+            "id": ".net#1",
+            "sentence": ".net alan adı, <PossibleEntity>DNS</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/DNS)</URL> 'te bir <PossibleEntity>genel üst seviye alan adıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Genel_%C3%BCst_seviye_alan_ad%C4%B1)</URL> (gTLD)."
+        },
+        {
+            "id": ".net#2",
+            "sentence": "İngilizce \"network\" (ağ) kelimesinden türemiştir ve temelde <PossibleEntity>İnternet</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> hizmet sağlayıcıları ve diğer altyapı şirketleri gibi ağ teknolojileriyle ilgili kurumların kullanması için tasarlanmıştır."
+        },
+        {
+            "id": ".net#3",
+            "sentence": "Ancak bu konudaki kısıtlamalar uygulanmamış ve bu alan adı <PossibleEntity>.com</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.com)</URL> gibi genel amaçlı faaliyet göstermeye başlamıştır."
+        },
+        {
+            "id": ".net#4",
+            "sentence": "Ağ operatörleri arasında hâlâ popülerdir."
+        },
+        {
+            "id": ".net#5",
+            "sentence": ".net, Ocak 1985'te oluşturulduğu için <PossibleEntity>RFC</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Yorumlar_%C4%B0%C3%A7in_Talep)</URL> <PossibleEntity>920</PossibleEntity> <URL>:(https://tools.ietf.org/html/rfc920)</URL>  'de bahsedilmemesine rağmen başlıca üst seviye alan adlarından biridir (Diğer beşi: <PossibleEntity>.com</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.com)</URL> , <PossibleEntity>.edu</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.edu)</URL> , <PossibleEntity>.gov</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gov)</URL> , <PossibleEntity>.mil</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.mil)</URL> ve <PossibleEntity>.org</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.org)</URL> ). 2024 itibarıyla yaklaşık 13 milyon <PossibleEntity>alan adı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alan_ad%C4%B1)</URL> ile <PossibleEntity>.com</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.com)</URL> , <PossibleEntity>.cn</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.cn)</URL> ve <PossibleEntity>.de</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.de)</URL> 'den sonra en popüler <PossibleEntity>üst seviye alan adıdır</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C3%9Cst_seviye_alan_ad%C4%B1)</URL> ."
+        },
+        {
+            "id": ".net#6",
+            "sentence": "<PossibleEntity>Network Solutions</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=Network_Solutions&action=edit&redlink=1)</URL> 'ı bünyesine katmasının ardından .net'in idaresini üstlenen <PossibleEntity>Verisign</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Verisign)</URL> , 30 Haziran 2005'te geçerliliğini yitiren yönetim sözleşmesine sahipti."
+        },
+        {
+            "id": ".net#7",
+            "sentence": "Alan adı idaresinden sorumlu kurum olan <PossibleEntity>ICANN</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_Tahsisli_Say%C4%B1lar_ve_%C4%B0simler_Kurumu)</URL> , sözleşme bitimi sonrasında alan adı işinin idaresini üstlenecek yeni şirketi aramaya başladı. <PossibleEntity>Verisign</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Verisign)</URL> sözleşmeyi yeniden kazandı ve .net alan adının yönetimini altı yıllığına daha almış oldu. 30 Haziran 2011 tarihinde Verisign ile olan sözleşme altı yıllığına yenilendi."
+        },
+        {
+            "id": ".net#8",
+            "sentence": "Bu durumun yasal dayanağınun sebebi, Verisign'ın <PossibleEntity>ICANN</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_Tahsisli_Say%C4%B1lar_ve_%C4%B0simler_Kurumu)</URL> gerekliliklerini karşıladığı sürece yenileme yapılacağına dair <PossibleEntity>ICANN</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet_Tahsisli_Say%C4%B1lar_ve_%C4%B0simler_Kurumu)</URL> kurulu tarafından onaylanmış olan karardır."
+        },
+        {
+            "id": ".net#9",
+            "sentence": "Kayıtlar akredite kayıt şirketleri tarafından yapılmaktadır ve <PossibleEntity>uluslararası alan adları</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Uluslararas%C4%B1_alan_ad%C4%B1)</URL> da kabul edilmektedir."
+        }
+    ]
+}

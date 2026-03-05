@@ -1,0 +1,10 @@
+{
+    "Title": "Genel üst seviye alan adı",
+    "Card": {},
+    "Main": [
+        {
+            "id": "Genel üst seviye alan adı#1",
+            "sentence": "Genel Üst Seviye Alan Kodları ( <PossibleEntity>İngilizce</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0ngilizce)</URL> : generic Top Level Domain), <PossibleEntity>internette</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/%C4%B0nternet)</URL> kullanılan bir <PossibleEntity>alan adı</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/Alan_ad%C4%B1)</URL> sınıfıdır. <PossibleEntity>.com</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.com)</URL> , <PossibleEntity>.net</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.net)</URL> , <PossibleEntity>.org</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.org)</URL> , <PossibleEntity>.gov</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.gov)</URL> , <PossibleEntity>.info</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.info)</URL> , <PossibleEntity>.aero</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.aero)</URL> , <PossibleEntity>.biz</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.biz)</URL> , <PossibleEntity>.wiki</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.wiki)</URL> , <PossibleEntity>.tech</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.tech)</URL> , <PossibleEntity>.shop</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.shop)</URL> , <PossibleEntity>.art</PossibleEntity> <URL>:(https://tr.wikipedia.org/wiki/.art)</URL> , <PossibleEntity>.москва</PossibleEntity> <URL>:(https://tr.wikipedia.org/w/index.php?title=.%D0%BC%D0%BE%D1%81%D0%BA%D0%B2%D0%B0&action=edit&redlink=1)</URL>   gibi şekilleri mevcuttur."
+        }
+    ]
+}
