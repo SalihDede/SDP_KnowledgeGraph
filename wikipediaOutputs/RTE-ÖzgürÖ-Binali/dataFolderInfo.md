@@ -1,0 +1,1 @@
+Data.zip dosyası RTE, Özgür Özel ve Binali Yıldırımın wikipedia scrapping saonucunda LLM ile oluşturulmuş knowledge Graph Triplelerini içermektedir. Bu dosyayı Deniz ve Fatih'in prompt optimizasyon yöntemleriyle kıyaslamak için çıkardım.
