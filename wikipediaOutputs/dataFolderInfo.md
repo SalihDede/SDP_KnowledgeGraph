@@ -1,0 +1,1 @@
+Data.zip dosyası RTE, Özgür Özel ve Binali Yıldırımın wikipedia scrapping saonucunda LLM ile oluşturulmuş knowledge Graph Triplelerini içermektedir.

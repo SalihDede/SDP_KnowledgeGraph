@@ -1,0 +1,1 @@
+Dosyanın amacı wikipedia scrapping'e alternatif olarak farklı kaynaklardan verileri scrap etmektir.
