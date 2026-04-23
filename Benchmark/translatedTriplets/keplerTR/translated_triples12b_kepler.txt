@@ -1,0 +1,3000 @@
+EN: Jean Graczyk - country of citizenship - iso 3166-1:fr
+TR: Jean Graczyk - vatandaşlık ülkesi - iso 3166-1:fr
+
+EN: paul kaznelson - instance of - Huamn
+TR: Paul Kaznelson - türü - İnsan
+
+EN: Lithopsaestis mixophanes - taxon rank - cohesion species
+TR: Lithopsaetis miksofanes - taksonomik seviye - birleşim türü
+
+EN: colegio la salle la colina - country - br venezuela
+TR: Colegio La Salle La Colina - ülke - brezilya Venezuela
+
+EN: barry j. marshall - award received - nobel prize for physiology or medicine
+TR: Barry J. Marshall – ödül aldı – Nobel Fizyoloji veya Tıp Ödülü
+
+EN: sar firuzabad rural district - country - Persian State of Iran
+TR: Sar Fıruzabاد kırsal bölgesi – ülke – İran Devleti
+
+EN: Jean-Claude Paye (sociologist) - different from - Jean-Claude Paye (OECD)
+TR: Jean-Claude Paye (sosyolog) – farklıdır – Jean-Claude Paye (ÜED)
+
+EN: seiryō-ji - country - p:jp
+TR: Seiryo-Ji – ülke – p:jp
+
+EN: Lana Wolf - place of birth - Wezep
+TR: Lana Wolf - doğduğu yer - Wezep
+
+EN: milan arsov - given name - Miloška
+TR: Milan Arşov - verilen ad - Miloška
+
+EN: caroline selina blumfield - occupation - Politician
+TR: Caroline Selina Blumfeld - meslek - Politikacı
+
+EN: John McLaughlin (footballer born 1948) - place of birth - Stirling, Scotland
+TR: John McLaughlin (futbolcu, 1948'de doğumlu) - doğduğu yer - Stirling, İskoçya
+
+EN: antonio benavides bazan y molina - country of citizenship - espanya
+TR: Antonio Benavídes Bazán ve Molina - vatandaşlık ülkesi - İspanya
+
+EN: Roman Moustopoulos - instance of - Huamn
+TR: Roman MousTopulos - örnek teşkil ediyor - Human
+
+EN: kapuas regency - country - indonesia
+TR: Kapuas Regensi - ülke - Endonezya
+
+EN: michael ostrowski - languages spoken, written or signed - iso 639:deu
+TR: Michael Ostrowskı - konuşulan, yazılan veya işaret diliyle kullanılan diller - iso 639:deu
+
+EN: MySims 2 - instance of - Leisure software
+TR: MySims 2 - bir türü - Boş zaman yazılımı
+
+EN: ancos punta - continent - aouth america
+TR: Ancos Punta - kıta - Güney Amerika
+
+EN: juris rubenis - country of citizenship - letland
+TR: Juris Rubenis - vatandaşlık ülkesi - Letonya
+
+EN: articles for creation/ the invisible dog art center - located in the administrative territorial entity - p:ny
+TR: "Yaratım için makaleler" / "The Invisible Dog Art Center" - bulunduğu idari bölge - p:ny
+
+EN: William A. Park - occupation - Politician
+TR: William A. Park - meslek - Politikacı
+
+EN: charlotte aubin - occupation - Television actor
+TR: Charlotte Aubin - meslek - Televizyon oyuncusu
+
+EN: Hayato (satellite) - start point - Yoshinobu Launch Complex
+TR: Hayato (uydu) - başlangıç noktası - Yoshinobu Fırlatma Kompleksi
+
+EN: Legends of Oz: Dorothy's Return - cast member - Megan Hilty
+TR: Efsaneler: Dorothy’nun Dönüşü - Oyuncu kadrosu - Megan Hilty
+
+EN: panamanian patrol boat 5 de noviembre (p-209) - instance of - ship/doc
+TR: Panamaklı devriye botu "5 de novembre" (p-209) – bir türü – gemi/belge
+
+EN: j. h. donner - sibling - andreas matthias donner
+TR: J. H. Donner – kardeşi – Andreas Matthias Donner
+
+EN: Carmen Ferrer - sport - futebol
+TR: Carmen Ferrer – spor dalı – futbol
+
+EN: Oscar Nilsson (drummer) - occupation - music career
+TR: Oscar Nilsson (vurmacı) – meslek – müzik kariyeri
+
+EN: alistair carmichael - given name - Alexander (first name)
+TR: Alistar Carmichael – isim benzerliği – Alexander (ilk ad).
+
+EN: face off (season 4) - followed by - Face Off (season 5)
+TR: "Face Off" (sezon 4) – ardından gelen – "Face Off" (sezon 5).
+
+EN: Arthur Ronald Nall-Cain, 2nd Baron Brocket - languages spoken, written or signed - Number of words in English
+TR: Arthur Ronald Nall-Cain, II. Kont Brocket – konuştukları, yazdıkları veya kullandıkları diller – İngilizce'deki kelime sayısı.
+
+EN: Frederick Nicholson Betts - instance of - Huamn
+TR: Frederick Nicholson Betts – örneği – İnsan.
+
+EN: Antonio Petito - given name - António
+TR: Antonio Petito – isim – António
+
+EN: Bjoern Granath - occupation - Television actor
+TR: Bjoorn Granath – meslek – Televizyon oyuncusu
+
+EN: faut-il les marier? - genre - service comedy
+TR: fauteuil les marier ?– türü – komedi programı
+
+EN: rancho high - instance of - senior high school
+TR: Rancho High – örnek olarak – lise
+
+EN: wilkes angel - country of citizenship - united stated
+TR: Wilkes Angel - vatandaşlık ülkesi - Amerika Birleşik Devletleri
+
+EN: arivaldo alves dos santos - country of citizenship - Brzil
+TR: Arivaldo Alves Dos Santos - vatandaşlık ülkesi - Brezilya
+
+EN: brian hughes (footballer born 1962) - member of sports team - torquay united fc
+TR: Brian Hughes (futbolcu doğumlu 1962) - spor takım üyesi - Torquay United FC
+
+EN: Bolbomyiidae - parent taxon - rhagionidae
+TR: Bolbomyiidae - üst takson - Rhagionidae
+
+EN: Exposure (U.S. TV series) - cast member - Kevin Smith (writer-director)
+TR: Exposure (Amerikan televizyon dizisi) - oyuncu kadrosunda yer alan kişi - Kevin Smith (yazar ve yönetmen).
+
+EN: Mieres del Camino - instance of - Parish (Spain)
+TR: Mieres del Camino - bir türü - Kasaba (İspanya).
+
+EN: Covetous Creature - follows - angels fuck
+TR: Covetous Creature - devamı olan şey - "angels fuck".
+
+EN: Dipahi - instance of - Village Development committee
+TR: Dipahi - bir türü - Köylere Hizmet Komitesi.
+
+EN: lochaber, quebec - shares border with - thurso, québec
+TR: Lochaber, Quebec – sınırdadır ile – Thurso, Quebec
+
+EN: Ivan Isakov - place of burial - novodevichy cemetery
+TR: İvan İsakov – defin yeri – Novodeviçi Mezarlığı
+
+EN: nazmul hussain - instance of - Huamn
+TR: Nazım Hüseyin – örneğidir – Human
+
+EN: Fast Forward (Spyro Gyra album) - followed by - Three Wishes (Spyro Gyra album)
+TR: "Fast Forward" (Spyro Gyra albümü) – ardından gelir – "Three Wishes" (Spyro Gyra albümü)
+
+EN: kovilur, ariyalur - instance of - village
+TR: Kovilur, Ariyur – bir yerleşim yeri türü – köy
+
+EN: Hellraiser VIII - instance of - movie
+TR: Hellraiser VIII – bir şeyin örneği – film
+
+EN: sidney selston - occupation - Association football player
+TR: Sidney Selton – meslek – Futbolcu
+
+EN: mynavi vegalta sendai ladies - league - Japan Women's Football League
+TR: MyNavi Vegalta Sendai Ladies – lig – Japonya Kadınlar Voleybol Ligi
+
+EN: Goa, Burkina Faso - country - Burkina Fatso
+TR: Goa, Burkina Faso - ülke - Burkina Fasso
+
+EN: andrew roraback - educated at - The University of Virginia School of Law
+TR: Andrew Roraback - eğitim gördü - Virjinya Üniversitesi Hukuk Fakültesi
+
+EN: The Drive (album) - followed by - Let's Do It Now
+TR: "The Drive" albümü - ardından geldi - "Let’s Do It Now"
+
+EN: Anthony Korf - educated at - Manhattan school of music
+TR: Anthony Korf - eğitim aldı - Manhattan Müzik Okulu
+
+EN: uss lci(l)-1092 - manufacturer - Defoe Boat and Motor Works, Inc.
+TR: USS LCI(L)-1092 – üretici – Defoe Boat and Motor Works Şirketi.
+
+EN: bas-rhin (departement) - contains administrative territorial entity - tieffenbach
+TR: Bas-Rhin (bölge) – içerir idari bölge birimi – Tieffenbach.
+
+EN: Corticibacterium - Gram staining - Gram negative bacterium
+TR: Corticibacterium – gram boyama – Gram negatif bakteri.
+
+EN: geri doveji - located in the administrative territorial entity - sheykh musa rural district
+TR: Geri Doveji – yer almaktadır idari bölge biriminde – Sheykh Musa kırsal ilçesi.
+
+EN: neil tovey - given name - neil
+TR: Neil Tovey - verilen ad - Neil
+
+EN: spangler stadium - instance of - Estadio
+TR: Spangler Stadyumu - örneği - Estadio
+
+EN: Wolfgarten - located in the administrative territorial entity - schleiden
+TR: Wolfgarten - bulunduğu idari bölge - Schleiden
+
+EN: Elijah Martin - member of sports team - united states u-16 men's national soccer team
+TR: Elijah Martin - spor takımının üyesi - Amerika Birleşik Devletleri U-16 erkekler milli futbol takımı
+
+EN: trista rehn - spouse - ryan sutter
+TR: Trisa Rehn - eşi - Ryan Sutter
+
+EN: Leslie My Name Is Evil - cast member - ryan john currier
+TR: "Leslie My Name is Evil" - oyuncu kadrosunda bulunan - Ryan John Currier
+
+EN: big smoky valley - located in the administrative territorial entity - Tourism in Nevada
+TR: Big Smoky Valley - içinde bulunduğu idari bölge - Turizm Kuzey Karolina
+
+EN: lab ox - instance of - Huamn
+TR: Lab Ox - bir örneği - Human
+
+EN: Vanessa Jane Zima - sibling - Madeline Zima/Comments
+TR: Vanessa Jane Zima – kardeşidir – Madeline Zima/Yorumlar
+
+EN: Arup Kumar Dutta - educated at - vande mataram college
+TR: Arup Kumar Dutta – mezun oldu – Vande Mataram College
+
+EN: Lepturges elegantulus - instance of - Taxxon
+TR: Lepturges elegantulus – bir örneğidir – Taxxona
+
+EN: inka raqay, apurímac - instance of - Archaeological district
+TR: İnca rakamı, Apuri̇mac – bir parçasıdır – Arkeolojik bölge
+
+EN: Saint-Louis, Moselle - shares border with - garrebourg
+TR: Saint-Louis, Mosel – sınırdadır– Garrebourg
+
+EN: belvís de la jara, spain - located in the administrative territorial entity - La Jara, comarca
+TR: Belvíz de la Jaras, İspanya – aşağıdaki idari bölgede bulunur – La Jara, komarka
+
+EN: Peter Gordeno (musician) - given name - peder
+TR: Peter Gordeno (muzisyen) – verilen ad – Peder
+
+EN: William Sherlock - languages spoken, written or signed - Number of words in English
+TR: William Sherlock – kullanılan diller (sözel veya işaret dili ile) – İngilizce'deki kelime sayısı
+
+EN: emesaya - instance of - Taxxon
+TR: emesaya – türü – Taxxon
+
+EN: ord township, antelope county, nebraska - country - united stated
+TR: Antelope County'daki Ord kasabası, Nebraska eyaleti – ülke – Amerika Birleşik Devletleri
+
+EN: Captain America (1991) - cast member - Charles William Mumy, Jr.
+TR: Kaptan Amerika (1991) filmi – oyuncu kadrosunda yer alan kişi – Charles William Mumy, Jr.
+
+EN: mold breaker - record label - roadrunner records uk
+TR: Mold Breaker – müzik şirketi – RoadRunner Records UK
+
+EN: Autosphyla - instance of - Taxxon
+TR: Autosphyla - türü - Taxxona
+
+EN: leo cullen (rugby union) - sport - Fifteen-a-side
+TR: Leo Cullen (ragbi birliği) - spor dalı - On beş kişilik takım
+
+EN: Auguste Denise - country of citizenship - Cote d'lvoire
+TR: Auguste Denise - vatandaşlık ülkesi - Fildişi Sahili
+
+EN: Austin Planetarium - located in the administrative territorial entity - religion in texas
+TR: Austin Gezegen Bilim Merkezi - bulunduğu idari bölge - Texas eyaletindeki din
+
+EN: command to charge - follows - signs for the fallen
+TR: komut – içerir – "kaybedenler için" uyarılarını
+
+EN: Paper Chasers - cast member - Prince Paul (producer)
+TR: Paper Chaser's filmi– oyuncu kadrosunda yer alan kişi – Prince Paul (yapımcı)
+
+EN: Lubricated Goat - country of origin - Commonwealth Australia
+TR: Lubrikasyonlu Keçi – orijin ülkesi – Avustralya Birliği
+
+EN: man chung han - given name - anniken
+TR: Man Chung Han – verilen ad – Annikken
+
+EN: sing along gang - family name - miller family name
+TR: Sing Along Gang - soyadı - Miller sülalesi
+
+EN: Herman Frazier/Comments - sport - Athletics (European)
+TR: Herman Frazier/Yorumlar - spor dalı - Atletizm (Avrupa)
+
+EN: john alfred prestwich - country of citizenship - royaume-uni
+TR: John Alfred Prestwich - vatandaşlık ülkesi - Royaume-Uni
+
+EN: dante pazzanese - country of citizenship - Brzil
+TR: Dante Pazzanese - vatandaşlık ülkesi - Brezilya
+
+EN: inside story (australian tv program) - instance of - TV series
+TR: inside story (avustralya televizyon programı) - bir örneğidir - Televizyon dizisi.
+
+EN: tokyo organising committee of the olympic and paralympic games - instance of - matrix organisation
+TR: Tokyo Olimpiyat ve Paralimpik Oyunlar düzenleme komitesi - bir örneğidir - Matris organizasyonu.
+
+EN: think of you (usher) - followed by - The Many Ways (Usher)
+TR: Think Of You (Usher) - ardından gelen şarkısı - The Many Ways (Usher).
+
+EN: henry makinwa - member of sports team - cfr bucuresti
+TR: Henry Makinwa - spor takımının üyesidir - CFR Bükreşti.
+
+EN: jang song-hyok - instance of - Huamn
+TR: Jang Song-Hyok - üye olarak - HuaMn
+
+EN: house of 1,000 dolls - producer - harry allan towers
+TR: Bin bebekli ev - yapımcı - Harry Allan Towers
+
+EN: Elihu Bailey - instance of - Huamn
+TR: Elihu Bailey - üye olarak - HuaMn
+
+EN: hlaing myo aung - position played on team / speciality - Right-half
+TR: Hlaing Myo Aung - takım içindeki rolü / uzmanlığı - Sağ kanat
+
+EN: across my heart - genre - C&W music
+TR: across_my_heart - türü - C&W müziği
+
+EN: matthew rua - given name - Matt (name)
+TR: matthew_rua - verilen ad - Matt (isim)
+
+EN: Software art - subclass of - Computer Art
+TR: software_art - alt sınıfı - Bilgisayar Sanatı
+
+EN: saint-jean-sur-vilaine - named after - villaine estuary
+TR: saint-jean-sur-vilaine - vilaine_nehri'nden sonra isimlendirilmiştir - Vilaine Deltası
+
+EN: Rajghadh - country - iso 3166-1:np
+TR: Rajghat - ülke - iso 3166-1:np
+
+EN: Fatmir Hysenbelliu - instance of - Huamn
+TR: Fatmir Hysenbelliu - türü - Human
+
+EN: galena biopharma - industry - Drug industry
+TR: Galena Biopharma - sektör - İlaç endstrisi
+
+EN: Osvaldo Euclides de Souza Aranha - occupation - attorney
+TR: Osvaldo Euclides de Souza Aranha - meslek - avukat
+
+EN: Senso (film) - director of photography - aldo graziati
+TR: Senso filmi - görüntü yönetmeni - Aldo Graziatti
+
+EN: archduke karl pius of austria, prince of tuscany - sibling - Archduke Franz Josef of Austria, Prince of Tuscany
+TR: Arşidük Karl Pius von Avusturya, Toskana Prensi - kardeşi -  Arşidük Franz Joseph von Avusturya, Toskana Prensı
+
+EN: dorn taylor - member of sports team - pittsburgh pirates
+TR: Dorn Taylor - spor takımının üyesi - Pittsburgh Pirates
+
+EN: Nostradamus: The Last Prophecy - developer - kheops studio
+TR: Nostradamus: Son Kehanet - geliştirici - Kheops Studio
+
+EN: Gary Frank (actor) - country of citizenship - united stated
+TR: Gary Frank (oyuncu) - vatandaşlık ülkesi - Amerika Birleşik Devletleri
+
+EN: Brock Turner - convicted of - sexual assult
+TR: Brock Turner - suçlu bulunduğu şey - cinsel saldırı
+
+EN: Gloria Paul - occupation - vocalist
+TR: Gloria Paul - meslek - vokalist
+
+EN: hiroshi miyazawa (footballer) - position played on team / speciality - Defender (association football)
+TR: Hiroşi Miyazava (futbolcu) - takımda oynadığı pozisyon / uzmanlığı - Defans (futbol)
+
+EN: Bajghera - instance of - village
+TR: Bajğhera - yerleşim yeri türü - köy
+
+EN: Alan da Silva Souza - position played on team / speciality - Right-half
+TR: Alan da Silva Souza - takımda rol veya uzmanlık alanı - Sağ kanat oyuncusu
+
+EN: Fryedk - part of - Bromodragonfly
+TR: Fryedk - parçası olan - Bromomakinekuşu
+
+EN: our exploits at west poley - language of work or name - Number of words in English
+TR: "westpoley'deki başarılarımız" - eserin dili veya adı - İngilizce kelime sayısı
+
+EN: Ernst Torp - instance of - Huamn
+TR: Ernst Torp - bir örneğidir - Huamn
+
+EN: dario passoni - position played on team / speciality - Right-half
+TR: Dario Passoni - takımda oynadığı pozisyon / uzmanlık alanı - Sağ kanat oyuncusu
+
+EN: cor gillis - instance of - Huamn
+TR: Cor Gillis - bir örneğidir - Huamn
+
+EN: kilconway - instance of - geographic features
+TR: Kilconway - bir türüdür - coğrafi özellikler
+
+EN: trechus processifer - instance of - Taxxon
+TR: Trechus processifer - türü - Taxxona
+
+EN: Martin Manaskov - country of citizenship - fyro macedonia
+TR: Martin Manaskov - vatandaşlık ülkesi - FYR Makedonya
+
+EN: Jimmy Quiroz - place of birth - maipu (municipality)
+TR: Jimmy Quiroz - doğduğu yer - Maipo (belediyesi)
+
+EN: robert marc jones - family name - Jones family name
+TR: Robert Marc Jones - soyadı - Jones sülalesi
+
+EN: Ileana Ianoșiu-Hangan - country of citizenship - RO (country)
+TR: Ileana Ianoșiu-Hangan - vatandaşlık ülkesi - RO (ülke).
+
+EN: Boldva - country - Magyar Köztársaság
+TR: Boldva - ülke - Macaristan Cumhuriyeti.
+
+EN: Ene Franca Idoko - sport - Athletics (European)
+TR: Ene Franca Idoko - spor dalı - Atletizm (Avrupa).
+
+EN: adam jabiri - instance of - Huamn
+TR: Adam Jabiri - örneği - İnsan.
+
+EN: Helen Boyle (swimmer) - sport - swimming (sport)
+TR: Helen Boyle (yüzücü) - spor dalı - yüzme (spor).
+
+EN: The Guelph Mercury - country - p:ca
+TR: Guelph Mercury - ülke - p:ca.
+
+EN: glencarse - country - royaume-uni
+TR: Glencarse - ülke - Royaume-Uni.
+
+EN: eleanor summerfield - place of birth - united kingdom/london
+TR: Eleanor Summerfield - doğduğu yer - Birleşik Krallık / Londra.
+
+EN: Norman Cole (politician) - country of citizenship - royaume-uni
+TR: Norman Cole (siyasetçi) - vatandaşlık ülkesi - Royaume-Uni
+
+EN: Ballets by Enrico Cecchetti - given name - enrico (given name)
+TR: Enrico Cecchetti'nin balesleri - verilen ad - Enrico (verilen isim)
+
+EN: The Belfast Agreement - signatory - Ulster Unionist
+TR: Kuzey İrlanda Anlaşması - imza atan kişi - Ulster Unionist Partisi
+
+EN: Kunak - instance of - community
+TR: Kunak - bir örneği - topluluk
+
+EN: hexagon (software) - use - 3D computer graphics editor
+TR: hexagon (yazılım) – kullanır – üç boyutlu bilgisayar grafikler düzenleme programı
+
+EN: (i only know him) in the dark - occupation - Television actor
+TR: (sadece onu tanıyorum) karanlıkta – meslek – Televizyon oyuncusu
+
+EN: Trybuna Slaska - instance of - part publication
+TR: Trybuna Śląska – örneği olup – bir yayın bölümü
+
+EN: Maryknoll School - country - united stated
+TR: Maryknoll Okulu – ülke – Amerika Birleşik Devletleri
+
+EN: Widecombe Fair (film) - cast member - moore marriott
+TR: Widecombe Fair (film) – oyuncu kadrosunda yer alan kişi – Moore Marriott
+
+EN: Edward Fitzgerald (ice hockey player) - position played on team / speciality - defense (ice hockey)
+TR: Edward Fitzgerald (buz hokeyi sporcusu) – takımda oynadığı pozisyon / uzmanlık alanı – savunma (buzhokeyinde)
+
+EN: ktck-fm - country - united stated
+TR: ktck-fm – ülke – Amerika Birleşik Devletleri
+
+EN: george mandel-mantello - instance of - Huamn
+TR: George Mandel-Mantello – türü – İnsan
+
+EN: eric blau (canoer) - given name - Eric (male name)
+TR: Eric Blau – isim tamlaması – Eric (erkek ismi).
+
+EN: Chevrolet Fleetmaster - brand - Chevrolet Parts
+TR: Chevrolet Fleetmaster – marka – Chevrolet Parçaları.
+
+EN: Palazzo degli Elefanti - country - P:I
+TR: Palazzo degli Elefanti – ülke – P:I.
+
+EN: paul erickson - occupation - screen-writer
+TR: Paul Erickson – meslek – senarist.
+
+EN: Sourn Serey Ratha - educated at - University of Boston
+TR: Sourn Serey Ratha – eğitim gördüğü yer – Bostan Üniversitesi.
+
+EN: the abominable snow rabbit - director - Chuck Jones Film Productions
+TR: korkunç kar tavşanı – yönetmen – Çak Jones Prodüksiyonları.
+
+EN: A PFG 1946 - instance of - football season
+TR: Bir PFG 1946 – bir örneği – futbol sezonu.
+
+EN: giuseppe appiani - instance of - Huamn
+TR: Giuseppe Appiani – bir örnek – İnsan.
+
+EN: mohammed adamu bello - occupation - Politician
+TR: Mohammed Adamu Bello – meslek – Politikacı
+
+EN: Taomiao, Shandong - country - prc (china)
+TR: Taomiao, Şandong – ülke – PRC (Çin)
+
+EN: dot da genius - country of citizenship - united stated
+TR: Dot Da Genius – vatandaşlık ülkesi – Amerika Birleşik Devletleri
+
+EN: Castles of Steel: Britain Germany, and the Winning of the Great War at Sea - publisher - the ballantine publishing group
+TR: Çelik Kaleler: İngiltere, Almanya ve Büyük Deniz Savaşı'nın Kazanılması – yayınevi – The Ballantine Publishing Group
+
+EN: horror hospital - genre - african american horror film
+TR: korku hastanesi - türü - afrikalı amerikalı korku filmi
+
+EN: beaux - described by source - Women Painters of the World
+TR: Beaux - hakkında bilgi veren kaynak - Women Painters of the World
+
+EN: Saints & Sinners (Johnny Winter album) - genre - rock blues
+TR: Saints & Sinners (Johnny Winter albümü) - türü - rock blues
+
+EN: cumru township, berks county, pennsylvania - located in the administrative territorial entity - berks county, pennsylvania
+TR: Cumru kasabası, Berks County, Pennsylvania - içinde bulunduğu idari bölge - Berks County, Pennsylvania
+
+EN: University of Helsinki metro station - maintained by - Helsingin Kaupungin Liikennelaitos
+TR: Helsingin yliopiston metroasema - tarafından bakımı yapılır - Helsingin kaupunkiliikenneyhtiö
+
+EN: University of the Cordilleras - instance of - Vniversity
+TR: Cordillera Üniversitesi - bir örneğidir - Üniversite
+
+EN: tabor, nova gorica - instance of - community
+TR: Tabor, Nova Gorica - bir parçasıdır - topluluk
+
+EN: Ross Turnbull - country of citizenship - royaume-uni
+TR: Ross Turnbull - vatandaşlık ülkesi - Birleşik Krallık
+
+EN: lubniewice commune - shares border with - Sulecin Commune
+TR: Lubniewice belediyesi – sınır komşusudur – Süleçin Belediyesi.
+
+EN: Chrusty, Konin County - located in the administrative territorial entity - Golina Commune
+TR: Çhruysty, Koni̇n ilçesi – aşağıdaki idari bölge içinde yer alır – Goli̇na Belediyesii.
+
+EN: ye mingchen - instance of - Huamn
+TR: Ye Mingcheng – bir örneğidir – Huawei.
+
+EN: wikipedia art controversy - instance of - Huamn
+TR: Vikipedi tartışması – bir örneğidir – Huawei.
+
+EN: marita ulvskog - country of citizenship - p:sweden
+TR: Marita Ulvs­kog – vatandaşlık ülkesi – p:sveç
+
+EN: Lesches, Seine-et-Marne - shares border with - Triboulois
+TR: Lesches, Sein ve Marne – sınırı olan yerleşim yeri– Triblouloise
+
+EN: jayantha kelegama - place of birth - Srilanka
+TR: Jayantha Kelegama – doğduğu yer – Sri Lanka
+
+EN: mountaindale, rhode island - instance of - Village (South Dakota)
+TR: Mountain Dale, Rhode Island – örneği – Köy (Güneydoğu Dakota)
+
+EN: saint francis xavier college, clapham - instance of - Senior high pupil
+TR: Saint Francis Xavier College, Clapham - bir türüdür - Lise öğrencisi.
+
+EN: dennis warrior - member of sports team - Leeds rhinos records
+TR: Dennis Warrior - spor takımının üyesidir - Leeds Rhinos kayıtları.
+
+EN: Hurricanes (Pull Tiger Tail song) - instance of - single (music)
+TR: "Hurricanes" (Pull Tiger Tail şarkısı) - bir örneğidir - tekil parça (müzik).
+
+EN: Water Polo at the 1900 Summer Olympics - country - iso 3166-1:fr
+TR: 1900 Yaz Olimpiyatlarındaki Su Topu - ülkedir - iso 3166-1:fr.
+
+EN: over-fish - instance of - Depleting Resource
+TR: aşırı avlanma – bir türü – Tükenen Kaynak
+
+EN: Mikhual Ivanovitch Avilov - award received - valiant labour in the great patriotic war of 1941-1945 medal
+TR: Mikhal İvanoviç Avilov – ödül aldı – 1941–1945 Büyük Vatanseverlik Savaşı'ndaki kahramanlık madalyası
+
+EN: Sehetepibra - occupation - high priest of amun
+TR: Sehetepibra – meslek – Amon baş rahibi
+
+EN: dos quijotes sobre ruedas - cast member - Roberto Escalada
+TR: "dos quijotes sobre ruedas" – oyuncu kadrosunda yer alan – Roberto Escalada
+
+EN: step by step (eddie rabbitt song) - part of - Step by Step (Eddie Rabbitt album)
+TR: "Step by Step" (Eddie Rabbit şarkısı) - parçasıdır - "Step by Step" (Eddie Rabbit albümü).
+
+EN: giovanni maria tucci - instance of - Huamn
+TR: Giovanni Maria Tucci - bir örneğidir - İnsan.
+
+EN: Periphyllidae - instance of - Taxxon
+TR: Periphyllidae - bir türüdür - Taksonomik grup.
+
+EN: Leptothrix cholodnii - instance of - Taxxon
+TR: Leptothrix Cholodniı – bir türüdür–Taksonomik grup.
+
+EN: USS Gloucester (PG-130) - operator - Japan Maritime Self-Defence Forces
+TR: USS Gloucester (PG-130) - operatör - Japonya Deniz Öz Savunma Kuvvetleri
+
+EN: Tepepa viva la revolución - director - Giulio Petroni
+TR: Tepepa viva la revolucion - yönetmen - Giulio Petroni
+
+EN: 97.3 fm (arn) - country - Commonwealth Australia
+TR: 97.3 fm (ARN) - ülke - Avustralya Topluluğu
+
+EN: tadao tosa - given name - tadao
+TR: Tadoa Tosa - isim - Tadao
+
+EN: susan fainstein - educated at - massachusetts instititute of technology
+TR: Susan Fainstein – eğitim gördü – Massachusetts Teknoloji Enstitüsü.
+
+EN: brahm kund - country - ਭਾਰਤ ਗਣਤੰਤਰ
+TR: Brahm Kund – ülke – ਭਾਰਤ ਗਣਤੰਤਰ.
+
+EN: Kamalabhog - has part - chenna
+TR: Kamalabhog – parçası var – Chennal.
+
+EN: wakeman sound - country - p:ca
+TR: Wakeman Sound – ülke – p:ca.
+
+EN: Gary Ross (baseball) - instance of - Huamn
+TR: Gary Ross (beyzbol) - bir örneği - İnsan
+
+EN: gaetano fasanotti - place of death - Milan
+TR: Gaetano Fasanotti - ölüm yeri - Milano
+
+EN: tonb-e chigi - instance of - village
+TR: Tonb-e Chighi - bir örnek - köy
+
+EN: live from baghdad (film) - cast member - kurt fuller
+TR: "Live From Baghdad" (film) - oyuncu kadrosunda olan - Kurt Fuller
+
+EN: kxse - located in the administrative territorial entity - califnornia
+TR: kxse - yerel idari bölgede bulunuyor - kaliforniya
+
+EN: Tony Johnson (baseball) - given name - tony (given name)
+TR: Tony Johnson (beyzbol) - verilen ad - tony (verilen isim)
+
+EN: volleyball at the 1987 pan american games - sport - 🏐
+TR: 1987 Pan Amerikan Oyunları'ndaki voleybol - spor dalı - 🏐
+
+EN: walk with me now - country of citizenship - united stated
+TR: walkwithmenow - vatandaşlık ülkesi - birleşik devletler
+
+EN: rhodes stadium - occupant - elon university
+TR: Rhodes Stadı – kullanıcısı – Elon Üniversitesi
+
+EN: San José Church - country - united stated
+TR: San Jose Kilisesi – ülke – Amerika Birleşik Devletleri
+
+EN: List of Ambassadors of Russia to Ivory Coast - is a list of - Perſons
+TR: Rusya'nın Fildişi Sahili Büyükelçilerinin Listesi – bir liste içerir– Kişiler
+
+EN: schizophrenia-1 - drug used for treatment - Truxal
+TR: şizofreni-1 – tedavi için kullanılan ilaç – Truksal
+
+EN: valcabrère - shares border with - Labroquère
+TR: Valcabrère - sınıra sahiptir – Labroquère
+
+EN: hms cynthia (1796) - instance of - ship/doc
+TR: HMS Cynthia (1796) - bir örneğidir – gemi/belge
+
+EN: George E. Adams - occupation - attorney
+TR: George E. Adams - mesleği – avukat
+
+EN: karen mcconnaughay - occupation - Politician
+TR: Karen McConnnaughey - görevi – siyasetçi
+
+EN: iñaki antigüedad auzmendi - languages spoken, written or signed - Modern Spanish
+TR: iñaki antigüedad auzmendi – konu hakkında konuştuğu diller – İspanyolca (Modern)
+
+EN: Shannon limit - instance of - Theorems
+TR: Shannon limiti – örneği türü – Teoremler
+
+EN: Giacinto Placido Zurla - given name - giacinto
+TR: Giacinto Placido Zurla – verilen ad – giacinto
+
+EN: cyclopsitta diophthalma coxeni - instance of - Taxxon
+TR: cyclopsitta diophthalma coxeni – örnek olduğu şey – Taksonlar
+
+EN: ryusaku yanagimoto - place of birth - Hirado, Nagasaki
+TR: Ryūsaku Yanagitomo - doğduğu yer - Hirato, Nagazaki
+
+EN: where i belong (switchfoot song) - performer - Switchfoot
+TR: Where I Belong (Switchfoot şarkısı) - sanatçı - Switchfoot
+
+EN: Medaglia ai benemeriti della cultura e dell'arte - subclass of - Italian Order of Merit
+TR: Medaglia ai Benemeriti della Cultura e dell’Arte - alt türü - İtalyan Liyakat Nişanı
+
+EN: mike herrell - record label - Release Entertainment
+TR: Mike Herrel – plak şirketi - Release Entertainment
+
+EN: neyasar rural district - located in the administrative territorial entity - neyasar district
+TR: neyasar kırsal bölgesi - yerel idari birim içinde bulunuyor - neyasar ilçesi
+
+EN: réginald forbes - country of citizenship - iso 3166-1:fr
+TR: réginald forbes - vatandaşlık ülkesi - iso 3166-1:fr
+
+EN: Intensive Comedy Unit - instance of - cour (tv production)
+TR: Yoğun Komedi Birimi - örneği - cour (TV yapımı)
+
+EN: danish general election, 2015 - successful candidate - Hogni Hoydal
+TR: Danmarks genel seçimleri, 2015 - başarılı aday - Hogni Hoydal
+
+EN: Karimabad-e Ayaghchi - located in the administrative territorial entity - Kordestān Province
+TR: Karimabad-ı Ayaghçı – yerel yönetim bölgesi içinde bulunuyor – Kürdistan Eyaleti
+
+EN: Antoine Rocheleau - occupation - Politician
+TR: Antoine Rocheleau – meslek – Politikacı
+
+EN: macdonald, west virginia - located in the administrative territorial entity - Oak Hill, WV mSA
+TR: MacDonald, Batı Virginia – yerel yönetim bölgesi içinde bulunuyor – Oak Hill, WV MSA
+
+EN: Standing on the Edge of Goodbye - record label - Patriot Records
+TR: Standing on the Edge of Goodbye – plak şirketi – Patriot Records
+
+EN: michael ii the stammerer - place of birth - Amorios
+TR: Michael II Kararsız – doğum yeri – Amorios
+
+EN: timequest (film) - instance of - movie
+TR: TimeQuest (film) – türü – film
+
+EN: Uncharted 3:Drakes Deception - platform - Playstation III
+TR: Uncharted 3: Drake'in Aldatması – çalıştırma sistemi – PlayStation III
+
+EN: (55747) 1990 sq14 - discoverer or inventor - Henri Debehogne
+TR: (55747) 1990 SQ14 – keşfeden veya mucidi – Henri Debehogne
+
+EN: wang wei (baseball) - participant of - 16th Asian Games
+TR: wang wei (beyzbol) - katılım gösterdiği etkinlik - 16\. Asya Oyunları
+
+EN: john barton (rugby league) - country of citizenship - royaume-uni
+TR: john barton (ragbi ligi) - vatandaşlık ülkesi - royaume-uni
+
+EN: love not human - author - gordon rupert dickson
+TR: love not human - yazarı - gordon rupert dickson
+
+EN: syrichthus melaleuca - parent taxon - spialia
+TR: syrichthus melaleuca - üst taksonu - spialia
+
+EN: Nancy Fraser - employer - New School for Social Research
+TR: Nancy Fraser - iş yeri - New School for Social Research
+
+EN: Scott Cairns - award received - Guggenheim Grant
+TR: Scott Cairns - aldığı ödül - Guggenheim Ödülü
+
+EN: Marco Moscati - member of sports team - a.c. perugia calcio in european football
+TR: Marco Moscati - spor takımının üyesi - a.c. perugia futbol takımı Avrupa futbolda
+
+EN: frederik hartvig johan heidmann - languages spoken, written or signed - bokmaal and nynorsk
+TR: Frederik Hartwig Johan Heidmann - konuşulan, yazılan veya işaret diliyle kullanılan diller - Bokmål ve Nornesk
+
+EN: Hajmáskér - shares border with - oskue
+TR: Hajmáskér – sınır komşusudur – Oskue.
+
+EN: ipr005607 - instance of - enzyme domains
+TR: ipr005607 – bir örneğidir – enzim bölgeleri.
+
+EN: juggernaut album - instance of - Band (music)
+TR: Juggernaut albümü – bir türüdür – Grup (Müzik).
+
+EN: Louis-Jean Resal - given name - Jean (first name)
+TR: Louis-Jean Resal – adımdır – Jean (isim).
+
+EN: Toda Kazuyuki - member of sports team - singapore armed forces sa
+TR: Toda Kazuyuki - üye olduğu spor takımı - Singapore silahlı kuvvetleri.
+
+EN: Keller Bridge, Ontario - instance of - community
+TR: Keller Köprüsü, Ontario - bir yerleşim yeri örneği.
+
+EN: codevilla - located in time zone - rome time
+TR: Codevilya - aynı saat diliminde bulunuyor - Roma zamanı.
+
+EN: Lesjaverk Station - operator - Norwegian State Railways
+TR: Lesjaverk İstasyonu - işletmecisi - Norveç Devlet Demiryolları.
+
+EN: thirteen chairs (1938 film) - cast member - Karl Skraup
+TR: thirteen chairs (1938 filmi) - oyuncu kadrosunda yer alan kişi - Karl Skraup
+
+EN: pigeon point, minnesota - country - p:ca
+TR: pigeon point, minnesota - ülke - p:ca
+
+EN: nigel olsson - record label - Page One Records
+TR: nigel olsson - müzik şirketi - Page One Records
+
+EN: pol-e now - located in the administrative territorial entity - howmeh-ye gharbi rural district (khorramshahr county)
+TR: pol-e now - bulunduğu idari bölge - howmeh-ye gharbi kırsal ilçesi (khorramşahır kasabası)
+
+EN: Shaul Yisraeli - student - Yaakov Ariel
+TR: Shaul Yisraeli – öğrenci – Yakov Aril
+
+EN: Anna Novakov - place of birth - Belgrado
+TR: Anna Novakov – doğduğu yer – Belgrad
+
+EN: charles brading - languages spoken, written or signed - Number of words in English
+TR: Charles Brading – kullanılan diller – İngilizce'deki kelime sayısı
+
+EN: Ninì Tirabusciò - La donna che inventò la mossa - genre - service comedy
+TR: Ninì Tirabuçio – "La donna che inventò la mossa" – türü – komedi dizisi
+
+EN: Sydney White - cast member - Jeremy Howard (actor)
+TR: Sidney Vayt - oyuncu olarak yer alan - Jeremy Howard
+
+EN: zsuzsa koncz - instance of - Huamn
+TR: Zsuzsanna Koncz - bir örneği - Human
+
+EN: leo thomas mcgarry - medical condition - heavy drinker
+TR: Leo Thomas McGarry - tıbbi durum - aşırı içki tüketen kişi
+
+EN: flanders f.4 - instance of - air industry
+TR: Flanders F.4 - bir türü - havacılık sektörü
+
+EN: Carl Ernst August Weihe - academic degree - md degree
+TR: Carl Ernst August Weihe - akademik unvanı - md derecesi
+
+EN: 24/7 (ep) - follows - thunderball (u.d.o. album)
+TR: 24/7 (ep) - takip ediyor - Thunderball (Udo albümü)
+
+EN: victor frederick weisskopf - member of - academy of sciences of the german democratic republic
+TR: Victor Frederick Weisskopf - üyesi olduğu kurum - Alman Demokratik Cumhuriyeti Bilimler Akademisi
+
+EN: 1934 cleveland indians season - sport - Baseball/doc
+TR: 1934 Cleveland Indians sezonu - spor dalı - Beyzbol/belge
+
+EN: reflector (transformers) - present in work - Refute (Transformers)
+TR: reflector (transformers) - içinde bulunduğu eser - Refute (Transformers)
+
+EN: Carswell Prison - located in the administrative territorial entity - religion in texas
+TR: Carswell Cezaevi - yer aldığı idari bölge - Texas'taki din
+
+EN: Articles for creation/Kamau Preston - occupation - music career
+TR: Articles for creation/Kamau Preston - meslek - müzik kariyeri
+
+EN: eulogio sandoval - instance of - Huamn
+TR: Euligio Sandoval - örneği - İnsan
+
+EN: Judith Ann Lawrence - spouse - year 2017!
+TR: Judith Ann Lawrence - eşi - yıl 2017!
+
+EN: cplex - developer - ibm business continuity and resiliency services
+TR: cplex - geliştirici - IBM iş sürekliliği ve dayanıklılık hizmetleri
+
+EN: Javier Lopez Vallejo - member of sports team - atletico osasuna
+TR: Javier Lopez Vallejo - spor takımının üyesi - Atlético OsasunA
+
+EN: francis kearney - instance of - Huamn
+TR: Francis Kearney - örneği - Human
+
+EN: Ten Thousand Angels (song) - record label - bna entertainment
+TR: Ten Thousand Angels (şarkı) – plak şirketi – bna entertainment
+
+EN: Giulliano Goncalves Guedes - member of sports team - união recreativa dos trabalhadores
+TR: Giulliano Goncalves Guedes – spor takımının üyesi – União Recreativa dos Trabalhadores
+
+EN: jacob von der lippe - instance of - Huamn
+TR: Jacob Von Der Lippe – örneği – Human
+
+EN: 杜玥 - participant of - 2016 badminton asia junior championships - mixed doubles
+TR: Du Yue – etkinliğe katılan – 2016 Badminton Asya Gençler Şampiyonası – karışık çiftler
+
+EN: Margaret Barnett Cruickshank - manner of death - Death by natural cause
+TR: Margaret Barnett Cruickshank - ölüm nedeni - Doğal nedenlerle ölümü
+
+EN: Stacy Burk - genre - C&W music
+TR: Stacy Burk - türü - C&W müziği
+
+EN: dutch general election, 1891 - instance of - Show-election
+TR: 1891 Hollanda genel seçimleri - olayın bir örneği - Seçim etkinliği
+
+EN: krysiaki, masovian voivodeship - located in the administrative territorial entity - myszyniec commune
+TR: Krysyaki, Mazovia Voyvodası - idari bölge içindeki yerleşim yeri - Myszynec belediyesi
+
+EN: Pandora Reef - located in the administrative territorial entity - queensland (australia)
+TR: Pandora Resifi – yerel yönetim sınırları içinde bulunur – Queensland (Avustralya).
+
+EN: Ghana army - color - Scarlet (color)
+TR: Gana ordusu – renk – Narmsı kırmızı (renk).
+
+EN: Order-3 pentagonal tiling - subclass of - Doe (geometry)
+TR: Üçüncü dereceden beşgen döşemesi – alt türü – Doe (geometri).
+
+EN: shahryar dastan - member of sports team - Yarmuk (Kuwaiti football club)
+TR: Şahriyar Dastanı – spor takımının üyesi – Yarmuk (Kuveytli futbol kulübü).
+
+EN: sncb class 27 - track gauge - International standard gauge
+TR: SNCB sınıfı 27 – ray ölçüsü – Uluslararası standart ray ölçüsü
+
+EN: Azerbaijan Volleyball League - country - azerbajani
+TR: Azerbaycan Voleybol Ligi – ülke –Azerbaijani
+
+EN: Georges-Laurent Saupique - educated at - Lycee Stanislas
+TR: Georges- Laurent Saupique – eğitim gördüğü yer– Lycée Stanislas
+
+EN: otto wittpenn - instance of - Huamn
+TR: Otto Wittpenn – örneği – Human
+
+EN: vitus tinnitus - followed by - White Trash Heroes
+TR: vitus tinnitus - takip edildiği şey - White Trash Heroes
+
+EN: konrad hofmann - instance of - Huamn
+TR: konrad hoffman - bir örneğidir - Human
+
+EN: mignon point - located in the administrative territorial entity - BC
+TR: mignon point - aşağıdaki idari bölgede bulunur - BC
+
+EN: kniazie - located in the administrative territorial entity - Gmina Lubycza Królewska
+TR: kniaze - aşağıdaki idari bölgede bulunur - Gmina Lubycza Królewska
+
+EN: aphelia septentrionalis - parent taxon - Anaphelia
+TR: Aphelia septentrionalis – üst takson – Anaphelia
+
+EN: Marymont - country - PolanD
+TR: Marymont – ülke – PolanD
+
+EN: Integrin alpha-V - chromosome - Chromosome 2 (human).
+TR: İntegrin alfa-V – kromozom – insan Kromozuomu 2.
+
+EN: Chloe is Kate - present in work - fenmore family
+TR: Chloe, Kate'i temsil eder – eser içinde bulunur – Fenmore ailesi.
+
+EN: Hella von Sinnen - place of birth - Derschlag station
+TR: Hella von Sinnen - doğduğu yer - Derschlag istasyonu
+
+EN: List of Shinhwa's awards - performer - shinwha
+TR: ShinHwa ödüllerinin listesi - sanatçı - shinhua
+
+EN: mall of the emirates (dubai metro station) - located on terrain feature - Al-Dubayy
+TR: Dubai Çarşısı (Dubai metrosu durağı) - bulunduğu coğrafi özellik - Al-Dubay
+
+EN: Mummy Cave - instance of - Archaeological district
+TR: Mumya Mağarası - örneği - Arkeolojik bölge
+
+EN: 2016 Tour of Utah - participating team - 2016 trek–segafredo season
+TR: 2016 Turu Utah – katılan takım – 2016 Trek–Segafredo sezonu
+
+EN: Lavoute-sur-Loire - located in time zone - rome time
+TR: Lavoute-sur-Loire – içinde bulunduğu zaman dilimi – Roma saati
+
+EN: Robert Sparrow (by 1459-1528) - instance of - Huamn
+TR: Robert Sparrow (1459 ile 1528 yılları arasında yaşamış) – bir örneği – İnsan
+
+EN: Robert Alexander (Newfoundland politician) - country of citizenship - p:ca
+TR: Robert Alexander (Kanada politikacısı) – vatandaşlık ülkesi – p:ca
+
+EN: henning moritzen - place of burial - Frederiksberg Aeldre Kirkegard
+TR: Henning Moritzen - definlendiği yer - Frederiksberg Mezarlığı
+
+EN: william price elmer - given name - Gulielmus
+TR: William Price Elmer - verilen ad - Gulielmus
+
+EN: pandin, banmauk - country - pyidaunzu thanmăda myăma nainngandaw
+TR: Pandin, Banmauk - ülke - Pyidaung Zu Thanmadha Myanmar'ın bir parçası
+
+EN: mdvuso - spouse - Sisile Khumalo
+TR: Mdvuso - eşi - Sisile Khumalo
+
+EN: memory of a cut off head - performer - The Ohsees
+TR: kesik bir başın hatırası - sanatçı - The Ohsees
+
+EN: shop girl diaries - occupation - Writter
+TR: mağaza kızı günlükleri - meslek - Yazarlık
+
+EN: Riadh Guerfali - instance of - Huamn
+TR: Riadh Guerfalı - örneği - İnsan
+
+EN: Kirchdorf an der Amper - instance of - communes of germany
+TR: Kirchdorf an der Amper - örnek teşkil eden yerleşim yeri - Almanya'daki belediyeler
+
+EN: robinson thornton - employer - trinity college (oxford)
+TR: robinson thornton - çalıştığı yer - Trinity College (Oxford).
+
+EN: erre - shares border with - hornaing
+TR: Erre - sınırdan komşu olduğu şehir - Hornaing.
+
+EN: sleep/holiday - record label - the sanctuary group
+TR: uyku / tatil - müzik etiketi - The Sanctuary Group.
+
+EN: august vander meulen - sport - baksetball
+TR: August Vander Meulen - spor dalı - basketbol.
+
+EN: eberhard roesch - place of birth - Karl-Marx-Stadt
+TR: Eberhard Roesch - doğduğu yer - Karl-Marx-Stadt
+
+EN: alexander gordon (unitarian minister) - country of citizenship - The United Kingdom of Great Britain and Ireland
+TR: Alexander Gordon (Unitaryen papazı) - vatandaşlık ülkesi - Büyük Britanya ve İrlanda Birleşik Krallığı
+
+EN: ahlander - instance of - last names
+TR: Ahlander - bir türü - soyadları
+
+EN: dragon ball z: battle of gods - voice actor - Satou Masaharu
+TR: Dragon Ball Z: Battle of Gods – seslendiren oyuncu - Satō Masaharū
+
+EN: All My Friends Are Funeral Singers - performer - Califone (band)
+TR: All My Friends Are Funeral Singers - sanatçı - Califone (grubu).
+
+EN: Jungo Kono - occupation - Association football player
+TR: Jungo Kono - meslek - Futbol oyuncusu.
+
+EN: 2017 Macau Open - country - ou3 mun4
+TR: 2017 Macau Açık Turnuvası - ülke - ou3 mun4.
+
+EN: Badminton at the 2017 Summer Universiade - sport - Badmiton
+TR: 2017 Yaz Üniversite Oyunları'ndaki badminton - spor dalı - Badminton.
+
+EN: Greece in the Eurovision Song Contest 2011 - participant of - esc2011
+TR: Yunanistan - Avrupa şarkı yarışması 2011'de katılımcısı - esc2011
+
+EN: Corduliidae - instance of - Taxxon
+TR: Corduliidae - bir örneği - Taksonomik grup
+
+EN: wellington da silva vicente - member of sports team - coritiba foot ball club
+TR: wellington da silva vicente - spor takımının üyesi - Coritiba Futbol Kulübü
+
+EN: Chrysoprasis melanostetha - instance of - Taxxon
+TR: Chrysoprasis melanostetha - bir örneği - Taksonomik grup
+
+EN: YatKha - genre - influences of other musical styles on heavy metal
+TR: YatKha - türü - ağır metale etki eden diğer müzik tarzları.
+
+EN: Allison Lee Scurich - member of sports team - sc sand
+TR: Allison Lee Scurich - spor takımının üyesi - SC Sand.
+
+EN: the eternal three - cast member - Hobart Van Zandt Bosworth
+TR: The Eternal Three - oyuncu kadrosunda olan kişi - Hobart Van Zandt Bosworth.
+
+EN: Mickey Walker (boxer) - family name - Walker (family name)
+TR: Mickey Walker (boksör) - soyadı - Walker (soyadı).
+
+EN: Tuzsuz, Amasya - instance of - community
+TR: Tuzsuz, Amasya - bir yerleşim yeri örneğidir - topluluk
+
+EN: Michael j. franklin - employer - Provost of the University of Chicago
+TR: Michael J. Franklin - çalıştığı kurum - Şikago Üniversitesi Rektörü
+
+EN: Gerard Beale - given name - Gerard (given name)
+TR: Gerard Beale - verilen ad - Gerard (verilen ad)
+
+EN: mercury tracer - powered by - Petroleum engine
+TR: Mercury Tracer - güç kaynağı olarak kullanır - Benzinli motor
+
+EN: Andriamanjato, Richard - country of citizenship - repoblikan'i madagasikara
+TR: Andriamanjoto, Richard - vatandaşlık ülkesi - Madagaskar Cumhuriyeti
+
+EN: Costa Verde (Portugal) - instance of - community
+TR: Costa Verde (Portekiz) - bir türü - topluluk
+
+EN: zittau, germany - located in the administrative territorial entity - Loebau-Zittau
+TR: Zittenburg, Almanya - bulunduğu idari bölge - Löbau-Zitenburg
+
+EN: dion payton - instrument - Guiatr
+TR: Dion Payton - çalgı aleti - Gitar
+
+EN: cuffe, john - given name - John (personal name)
+TR: cuffe, john - isim - John (kişisel ad).
+
+EN: Cauly Oliveira Souza - occupation - Association football player
+TR: Cauly Oliveira Souza - meslek - Futbolcu.
+
+EN: Fuel for the Fire (band) - instance of - Band (music)
+TR: Fuel for the Fire (grubu) - örnek olarak - Grup (müzik).
+
+EN: Schuyler Hamilton - place of death - Manhattan (New York)
+TR: Schuyler Hamilton - ölüm yeri - Manhattan (New York).
+
+EN: Emil Grigorievich Gilels - award received - lenin award
+TR: Emil Grigor'evich Gili̇els – ödül aldı – Lenin Ödülü.
+
+EN: Sir John Leake - given name - John (personal name)
+TR: Sir John Leake – verilen ad – John (kişi adı).
+
+EN: Yan Shanin - position played on team / speciality - Right-half
+TR: Yan Şanin – takımda oynadığı pozisyon / uzmanlık alanı – Sağ kanat oyuncusu.
+
+EN: reunion (black sabbath album) - followed by - Past Lives (Black Sabbath album)
+TR: Reunion (Black Sabbath albümü) – ardından geldi – Past Lives (Black Sabbath albümü).
+
+EN: martin john - place of birth - Camden
+TR: Martin John - doğduğu yer - Camden
+
+EN: john t. doolittle - instance of - Huamn
+TR: John T. Doolitttle - örneği - Human
+
+EN: Paper Doll (Spenser Novel) - follows - Double Deuce
+TR: "Paper Doll" (Spencer Romanı) - devam ettiren eser - "Double Deuce"
+
+EN: William Overall Yager - educated at - Virginia Military Institute
+TR: William Overal Yager - eğitimini aldığı kurum - Virginia Askeri Enstitüsü
+
+EN: Yzerman - award received - Stanley Cup
+TR: Yzerman - ödül kazandı - Stanley Kupası
+
+EN: Syngamia subnebulosalis - instance of - Taxxon
+TR: Syngamia subnebulosalis - bir örneği olup - Taxxona
+
+EN: fia prize giving ceremony - instance of - awards/sandbox
+TR: FIA törenleri - bir örnek olup - awards/sandbox
+
+EN: chanakya chandragupta - screenwriter - pingali nagendra rao
+TR: Chankaya Chandragupta - senaryoyu yazan - Pingali Nagendra Rao
+
+EN: Melikşah - noble title - his sultanic highness
+TR: Melikşah – unvanı – onun yüksek saltanatı
+
+EN: dharmendar kanwar - country of citizenship - ਭਾਰਤ ਗਣਤੰਤਰ
+TR: Dharmender Kanwar – vatandaşlık ülkesi – ਭਾਰਤ ਗਣਤੰਤਰ
+
+EN: Hitz, William - given name - Gulielmus
+TR: Hitz, William – verilen ad – Gulielmus
+
+EN: bob schafer - country of citizenship - united stated
+TR: Bob Schafer – vatandaşlık ülkesi – Amerika Birleşik Devletleri
+
+EN: Bonou - country - benin republic
+TR: Bonou - ülke - Benin Cumhuriyeti
+
+EN: Orphinus fulvipes - instance of - Taxxon
+TR: Orphinus fulvipes - tür örneği - Taxxona
+
+EN: Oksana Lyniv - place of birth - brody
+TR: Oksana Lyniv - doğduğu yer - Brody
+
+EN: chitosebara - located in time zone - Korea Standard Time
+TR: Chitosebara - içinde bulunduğu zaman dilimi - Kore Standart Saati
+
+EN: Kaiwan Wattanakrai - instance of - Huamn
+TR: Kaiwan Wattanakrai - bir örneğidir - Huaumn
+
+EN: kayne simeon mclaggon - given name - simeon the pious
+TR: Kayne Simeon Mclaggon - verilen ad - Simeon Hazreti
+
+EN: 2006 fifa world cup final - followed by - 2010 world cup final
+TR: 2006 FIFA Dünya Kupası Finali - ardından gelen olay - 2010 Dünya Kupası Finalleri
+
+EN: 53 Days - country of origin - united stated
+TR: "53 Gün" - yapım ülkesi - Amerika Birleşik Devletleri
+
+EN: Hypnosis Show - record label - Avex Taiwan
+TR: Hipnoz Gösterisi – plak şirketi – Avex Tayvan
+
+EN: New Urban Cowboy - country of origin - united stated
+TR: Yeni Şehirli Kovboy – orijin ülkesi – Amerika Birleşik Devletleri
+
+EN: War of the Satellites - distributor - Monogram Pictures
+TR: Uyduların Savaşı – dağıtımcı – Monigram Yapımcılık
+
+EN: lynelle jonsson - occupation - vocalist
+TR: Lynelle Jonsson – meslek – vokalist
+
+EN: w s whitney - place of death - schenectady, new york
+TR: w s whitney - ölüm yeri - schenectady, New York
+
+EN: Soul Lost Companion (Diesel / Mark Lizotte album) - record label - Mammoth Records
+TR: Soul Lost Companion (Diesel / Mark Lizotte albümü) - plak şirketi - Mammoth Records
+
+EN: ian hamilton benn - languages spoken, written or signed - Number of words in English
+TR: ian hamilton beni - konuşulan, yazılan veya işaret diliyle kullanılan diller - İngilizce'deki kelime sayısı
+
+EN: Ohman - instance of - last names
+TR: Ohman - örneği - soyadlar
+
+EN: U-North - nominated for - best writing, story and screenplay
+TR: U-North - aday gösterildi - en iyi senaryo, hikaye ve metin yazarlığı ödülü için.
+
+EN: Board of Trustees of the University of Alabama - instance of - state university system
+TR: Alabama Üniversitesi Mütevelli Heyeti - bir örneği olup - eyalet üniversitesi sistemi.
+
+EN: graham colton - record label - yaaaaas
+TR: Graham Colton - müzik şirketi - yaaaaas.
+
+EN: William Pole (antiquary) - instance of - Huamn
+TR: William Pole (tarih araştırmacısı) - bir örnek teşkil etmektedir - insan.
+
+EN: caribbean applecactus - parent taxon - Harrisia (plant)
+TR: karayen elma kaktüsü - üst tür - Harrisia (bitki)
+
+EN: George Eddy Downey - given name - George (given name)
+TR: George Eddy Downey - verilen ad - George (verilen ad)
+
+EN: aaron walker (football player) - place of birth - Titusville (FL)
+TR: aaron walker (futbolcu) - doğduğu yer - Titusville (Florida eyaleti)
+
+EN: Rosebud Township, Barnes County, North Dakota - located in the administrative territorial entity - barnes county
+TR: Rosebud Kasabası, Barnes Bölgesi, Kuzey Dakota - bulunduğu idari bölge - Barnes Bölgesi
+
+EN: Giluyeh - country - Persian State of Iran
+TR: Giluye – ülke – İran'ın bir parçası
+
+EN: the other love - cast member - edward ashley
+TR: The Other Love – oyuncu kadrosunda olan kişi – Edward Ashley
+
+EN: julius stinde - academic degree - doctorate
+TR: Julius Stinde – akademik derece – doktora derecesi
+
+EN: Stigmella kaimanua - taxon rank - cohesion species
+TR: Stigmella kaimanua – taksonomik seviye – türler
+
+EN: Santa Clause Lane - performer - hillury duff
+TR: Santa Claus Sokağı - sahne aldığı yer - Hilary Duff
+
+EN: Nanking film - genre - Documentary series
+TR: Nanjing filmi - türü - Belgesel dizisi
+
+EN: list of sovereign states in 2012 - instance of - lists
+TR: 2012'deki egemen devletler listesi - örneği - liste
+
+EN: Taillades - country - iso 3166-1:fr
+TR: Taillades - ülke - iso 3166-1:fr
+
+EN: denes dibusz - position played on team / speciality - Association football goalkeeper
+TR: Dénesz Dubucz – pozisyonu/uzmanlığı – Kaleci olarak oynadığı futbol takımı.
+
+EN: li yan (born 1984) - sport - futebol
+TR: Li Yan (doğumlu 1984) – spor dalı – Futebol.
+
+EN: ministry of finance (burma) - country - pyidaunzu thanmăda myăma nainngandaw
+TR: Burma Maliye Bakanlığı – ülke – Pyıdaung Zu Thanmadā Myanmà Nainnganda W.
+
+EN: rudi seliger - country of citizenship - Germanz
+TR: Rudi Seliger – vatandaşlık ülkesi – Almanya.
+
+EN: 2015-16 cev challenge cup - instance of - football season
+TR: 2015-16 Cev Challenge Kupası – bir türü olan – futbol sezonu.
+
+EN: Big foot mama - instance of - Ensemble music
+TR: Bigfoot Mama – bir örneği olup – topluluk müziği.
+
+EN: gim ikhun - place of death - sangwon middle school (seoul)
+TR: Gim İkhun – öldüğü yer – Sangwon Ortaokulu (Seul).
+
+EN: stephen booth (writer) - nominated for - Theakston's Old Peculier Crime Novel of the Year
+TR: Stephen Booth (yazar) – aday gösterildi – Theakston’ın Eski Peculiar Suç Romanı Ödülü.
+
+EN: kord kandi, miandoab - instance of - village
+TR: Kord Kandi, Miandoab – bir yerleşim yeri türü olan köyün örneği.
+
+EN: 1983 prix de l'arc de triomphe - instance of - the prix de l'arc de triomphe
+TR: 1983 Prix de l’Arc de Triomphe – "Prix de l’Arc de Triomphe" adlı etkinliğin bir örneğidir.
+
+EN: Jiangsu Tongzhou High School - instance of - senior high school
+TR: Jiangsu Tongzhou Lisesi – üst düzey liselerden biri olup...
+
+EN: gari, fars - located in the administrative territorial entity - khuzi rural district
+TR: Geri, Fars – Khuzî kırsal bölgesinde bulunmaktadır.
+
+EN: Christian Höbart - languages spoken, written or signed - iso 639:deu
+TR: Christian Höbart – konuştukları, yazılan veya işaret diliyle kullanılan diller – iso 639:deu
+
+EN: margaret jowett - given name - Margaret movie
+TR: Margaret Jowett – isim – "Margaret" filmi
+
+EN: Regina Schörg - country of citizenship - Etymology of Austria
+TR: Regina Schörg – vatandaşlık ülkesi – Avusturya kelimesinin kökenleri
+
+EN: george siedel - given name - George (given name)
+TR: George Siedel – isim – "George" ismi
+
+EN: piero giarda - country of citizenship - P:I
+TR: Piero Giarda - vatandaşlık ülkesi - P:I
+
+EN: Fabio Cannavaro - sport - futebol
+TR: Fabio Cannavaro - spor dalı - futbol
+
+EN: raymond hull (politician) - ethnic group - Education of African Americans
+TR: Raymond Hull (siyasetçi) - etnik grup - Afroamerikanların eğitimi
+
+EN: no flesh creek - located in the administrative territorial entity - The Mount Rushmore State
+TR: No Flesh Creek - bulunduğu idari bölge - "The Mount Rushmore Eyaleti"
+
+EN: Jim Leavelle - country of citizenship - united stated
+TR: Jim Leavelle - vatandaşlık ülkesi - Amerika Birleşik Devletleri
+
+EN: lhasa de sela - place of birth - Big Indian, New York
+TR: Lhasa De Sela - doğduğu yer - Büyük Hint, New York
+
+EN: Ian Mayes - instance of - Huamn
+TR: Ian Mayes - örneği - İnsan
+
+EN: Hugh David Graham Carritt - place of death - united kingdom/london
+TR: Hugh David Graham Carritt - öldüğü yeri - İngiltere / Londra
+
+EN: the field of vision - author - wright marion morris
+TR: görme alanı – yazar – Marion Morris Wright
+
+EN: ciao1 (gene) - found in taxon - Modern humans
+TR: ciao1 (gen) – bulunmuş olan taksonomik grupta – İmodern insanlar
+
+EN: william alexander blaikie, pc - educated at - Toronto University
+TR: William Alexander Blaikie, PC – eğitim almış olduğu kurum – Toronto Üniversitesi
+
+EN: istituto regionale per il finanziamento alle medie e piccole industrie in sicilia - legal form - Stock Corporation
+TR: Sicilya'daki orta ve küçük işletmelere finansman sağlayan bölgesel enstitü – hukuki yapı türü – Anon Şirket
+
+EN: bird wayne - place of death - detroit automaker
+TR: Bird Wayne - ölüm yeri - Detroit otomobil üreticisi
+
+EN: alf e. saxlund - instance of - Huamn
+TR: Alf E. Saxlund - örneği - Haumn
+
+EN: the doom brigade - country of origin - united stated
+TR: The Doom Brigade - köken ülkesi - Amerika Birleşik Devletleri
+
+EN: 66th NHK Kohaku Uta Gassen - participant - あさが来た
+TR: 66'ncı NHK Kōhaku Uta Gasssen - katılımcısı - あ사가きた
+
+EN: zur holle mit den paukern - cast member - Ruth Stephan
+TR: zur Holle Mit Den Paukern - oyuncu kadrosunda yer alan - Ruth Stephan
+
+EN: monthion - shares border with - grignon, savoie
+TR: Monthion - sınır komşusu olan - Grignon, Savoie
+
+EN: 1994 florida marlins season - sport - Baseball/doc
+TR: 1994 Florida Marlins sezonu - spor dalı - Beyzbol/belge
+
+EN: ultimate wheels - followed by - white (kat-tun song)
+TR: Ultimate Wheels - ardından gelen - White (Kat-Tun şarkısı)
+
+EN: The Shadow of the Eagle - cast member - walter miller (actor)
+TR: The Shadow of the Eagle – oyuncu kadrosunda yer alan – Walter Miller
+
+EN: shide railway station - named after - shide, isle of wight
+TR: Shide tren istasyonu – şu şekilde adlandırıldı – Shide, Isle of Wight
+
+EN: Félix Alexandre Fuchs - place of death - ixelles-elsene
+TR: Félix Alexandre Fuchs – vefat yeri – Ixelles-Elsane
+
+EN: Stare Siołkowice - located in time zone - UTC2
+TR: Stare Siołkowice – aşağıdaki zaman diliminde bulunuyor – UTC2
+
+EN: William H.F. Lee - sibling - robert e. lee, jr.
+TR: William H.F. Lee – kardeş – Robert E. Lee Jr.
+
+EN: ricky burke - place of birth - p:england
+TR: Ricky Burke – doğduğu yer – p:ingiltere
+
+EN: Ault–Weygandt Farm - instance of - Farming
+TR: Ault–Weygandt Çiftliği – örneği türü – Tarım
+
+EN: Jean-Joel Barbier - place of birth - history of belfort
+TR: Jean-Joel Barbier – doğduğu yer – Belford tarihçesi
+
+EN: nicholas francis st aubyn - country of citizenship - royaume-uni
+TR: Nicholas Francis St Aubyn - vatandaşlık ülkesi - Royaume-Uni
+
+EN: Deuterocopus - parent taxon - pterophoroidea
+TR: Deuterocopus - üst takson - Pterophoroideae
+
+EN: Separados - genre - Soap writer
+TR: Separados - türü - Sabun yazarı
+
+EN: Roar Grønvold - languages spoken, written or signed - Number of words in English
+TR: Roar Grønvold - konuşulan, yazıya dökülüp veya işaret diliyle kullanılan dil sayısı - İngilizce'deki kelime sayısı
+
+EN: lilli (1919 film) - instance of - movie
+TR: lilli (1919 yapımı film) - bir türü - sinema filmi
+
+EN: Greifswald, Germany - country - DR Germany
+TR: Greifswald, Almanya - içinde bulunduğu ülke - DR Almanya
+
+EN: p. j. mccall - given name - patrick (first name)
+TR: p.j. mccall - verilen ad - Patrick (isim)
+
+EN: Hong Song-nam - place of death - phenian
+TR: Hong Song-nam - öldüğü yer - Phenyan
+
+EN: joão filgueiras lima (lelé) - place of birth - Rio de janeiro
+TR: João Filgueira Lima (Lelé) – doğduğu yer – Río de Janeiro.
+
+EN: 1993 abn amro world tennis tournament - instance of - 1973 rotterdam indoors
+TR: 1993 ABN AMRO Dünya Tenis Turnuvası – bir örneği olup – 1973 Rotterdam Indoor's.
+
+EN: capcom vancouver - instance of - Video game development party
+TR: Capcom Vancouver – bir örnek teşkil eden – video oyun geliştirme şirketi.
+
+EN: Plummer, MN - located in the administrative territorial entity - History of Red Lake County, Minnesota
+TR: Plummer, Minnesota – bulunduğu idari bölge – Kuzeybatı Amerika Birleşik Devletleri Tarihi.
+
+EN: canton township (fulton county) - shares border with - farmington township, fulton county, illinois
+TR: Canton kasabası (Fulton County) - komşu olup - Farmington kasabası, Fulton County, Illinois eyaleti.
+
+EN: Bob Cohn - country of citizenship - united stated
+TR: Bob Cohn - vatandaşlık ülkesi - Amerika Birleşik Devletleri.
+
+EN: dillon baxter - position played on team / speciality - Wide Receiver (American football)
+TR: Dillon Baxter - takımda oynadığı pozisyon / uzmanlığı - Geniş Alıcı (Amerikan futbolu).
+
+EN: Silly Symphonies - has part - the old mill
+TR: Silly Symphonies - içinde bulunduran bölüm - The Old Mill.
+
+EN: hook me up (song) - part of - hook me up
+TR: "hook me up" şarkısı - parçasıdır - "hook me up".
+
+EN: Haghe - languages spoken, written or signed - french vocabulary
+TR: Haghe - kullanılan diller - fransızca kelime dağarcığı.
+
+EN: John Mason (British politician) - country of citizenship - royaume-uni
+TR: John Mason (İngiliz politikacı) - vatandaşlık ülkesi - Royaume-Uni.
+
+EN: Musée de Saint-Denis - located in the administrative territorial entity - saint-denis (seine-saint-denis)
+TR: Musée de Saint-Denis - bulunduğu idari bölge –  Saint-Denis (Seine-Saint-Denis).
+
+EN: daniel ibanes caetano - occupation - Association football player
+TR: Daniel Ibáñez Caetano - meslek - Futbolcu.
+
+EN: Ren TV - country - Оросын Холбооны Улс
+TR: Ren Televizyonu - ülke -  Российская Федерация.
+
+EN: Archery at the 1900 Summer Olympics – Au Cordon Doré 33 metres - part of - games of the ii olympiad
+TR: Okçulukta 1900 Yaz Olimpiyatları – Au Cordon Doré 33 metre - parçasıdır - II. olimpiyatlarda yapılan oyunlar.
+
+EN: Newnan High School - instance of - senior high school
+TR: Newnan Lisesi - türü - üst düzey lise.
+
+EN: william stirling (physiologist) - place of birth - grangemouth stadium
+TR: William Stirling (fizyolog) - doğduğu yer - Grangemouth Stadium
+
+EN: george clement tryon - father - george tryon
+TR: George Clement Tryon - babası - George Tryon
+
+EN: kroczów większy - located in the administrative territorial entity - Kazanów Commune
+TR: Kroczów Większy - bulunduğu idari bölge - Kazanów Belediyesi
+
+EN: world series of poker: tournament of champions - game mode - Singleplayer video games
+TR: World Series of Poker: Tournament of Champions - oyun modu - Tek Oyuncu Video Oyunları
+
+EN: horatio nelson lay (admiral) - conflict - atlantic battle
+TR: Horatio Nelson - savaş – Atlantik Muharebesi
+
+EN: e. p. chelishev - member of - USSR Academy of Sciences
+TR: E. P. Chelișev - üye olduğu kurum – SSCB Bilimler Akademisi
+
+EN: Werpajoski, Jonathan - sport - futebol
+TR: Jonathan Werpajojski - spor dalı – futbol
+
+EN: the silent league - country of origin - united stated
+TR: The Silent League - menşe ülkesi – Amerika Birleşik Devletleri
+
+EN: Schulze-Kossens, Richard - conflict - second world war
+TR: Richard Schulze-Kossens – çatışma– ikinci dünya savaşı
+
+EN: cairngorm mountains - located in the administrative territorial entity - moray
+TR: Cairngorm dağları – yer aldığı idari bölge – Moray
+
+EN: Daniel Son; Necklace Don - performer - 2chainz
+TR: Daniel Son; Necklace Don – performans sergileyen kişi – 2Chainz
+
+EN: Tarfaya - located in the administrative territorial entity - Tarfaya Province
+TR: Tarfaya – yer aldığı idari bölge – Tarfaya Vilayetleri
+
+EN: Graeme Wheeler - educated at - The University of Auckland
+TR: Graeme Wheeler - eğitim gördüğü kurum - Avustralya'nın Aukland Üniversitesi
+
+EN: kai antero lehtinen - place of birth - Kerava
+TR: Kai Antero Lehtinen - doğduğu yer - Kerava
+
+EN: anton dräger - instance of - Huamn
+TR: Anton Dräğer - örneği - Human
+
+EN: Kevin Salvadori - sport - baksetball
+TR: Kevin Salvadori - spor dalı - basketbol
+
+EN: Motores de Pacifico - architect - antonio palacios y ramilo
+TR: Motos del Pacífico - mimarisi var - Antonio Palazuelos ve Ramilo
+
+EN: THOP1 (gene) - instance of - Cistronic
+TR: THOP1 (gen) - bir örneğidir - Cistronik
+
+EN: anna akhmatova - influenced by - Mihail Lermontov
+TR: Anna Ahmatova - etkilendiği şairler arasında - Mikhail Lermonthov
+
+EN: hans ostrom - educated at - University of California (Davis)
+TR: Hans Ostrom - eğitimini aldı - Kaliforniya Üniversitesi (Davis).
+
+EN: Llandysilio - instance of - community in Wales
+TR: Llandysilio – bir yerleşim yeri türü – Galler'deki topluluk
+
+EN: peter buell porter - country of citizenship - united stated
+TR: Peter Buell Porter – vatandaşlık ülkesi – Amerika Birleşik Devletleri
+
+EN: ray borner - sport - baksetball
+TR: Ray Borner – spor dalı – basketbol
+
+EN: American Trucking Associations Inc. v. City of Los Angeles, California - instance of - court case
+TR: American Trucking Associations Inc. ile Kaliforniya eyaletindeki Los Angeles şehri arasındaki dava – mahkeme davasının örneği
+
+EN: Mary Jane Seaman - country of citizenship - royaume-uni
+TR: Mary Jane Seeman - vatandaşlık ülkesi - Royaume-Uni
+
+EN: Sandon Frederick Stolle - languages spoken, written or signed - Number of words in English
+TR: Sandon Frederick Stolle - konuşulan, yazılan veya işaret diliyle kullanılan diller - İngilizce'deki kelime sayısı
+
+EN: enzio palace - country - P:I
+TR: enzio sarayı - ülke - P:I
+
+EN: raise the people - instance of - audio album
+TR: "raise the people" - örneği - ses albümü
+
+EN: christian bassila - member of sports team - Olympique Lyonnais
+TR: Christian Bassila – spor takımının üyesi – Olympique Lyonnaise.
+
+EN: Wikipedia:WikiProject Board and table games - instance of - Requested projects
+TR: Vikipedi: WikiProje Masa Oyunları – bir örneği – Talep edilen projeler.
+
+EN: Newton,New Jersey - shares border with - Green, New Jersey
+TR: Newton, New Jersey – sınırı olan yerleşim yeri – Green, New Jersey.
+
+EN: John M. Dawson - place of birth - Champaign, IL
+TR: John M. Dawson – doğduğu şehir – Champaign, Illinois.
+
+EN: Butetown Branch Line - country - royaume-uni
+TR: Butetown Şarkı Hattı – ülke – Royaume-Uni
+
+EN: Geeshie wiley - occupation - music career
+TR: Geeshie Wiley – meslek – müzik kariyeri
+
+EN: Sivannarayana Naripeddi - occupation - Television actor
+TR: Sivannarayana Naripeddi – meslek – televizyon oyuncusu
+
+EN: Raphael Schaefer - given name - Raphael (given name)
+TR: Raphael Schäfer – isim – Raphael (isim)
+
+EN: Tai Kau Yi Chau - located in the administrative territorial entity - Hong Kong Special Administrative Region
+TR: Tai Kau Yi Adası - yerel yönetim bölgesi içinde bulunuyor - Hong Kong Özel Yönetim Bölgesi
+
+EN: dawe kachen - instance of - districts of ethiopia
+TR: Dawe Kacheri - türü - Etiyopya'nın ilçeleri
+
+EN: chris long (football player) - instance of - Huamn
+TR: Chris Long (futbol oyuncusu) – örneği – Hunan
+
+EN: St. Augustine Church (Cincinnati) - instance of - Church building
+TR: Aziz Augustinus Kilisesi (Cincinati) – örneği – kilise yapısı
+
+EN: david moriarty - position held - Rt Rev'd
+TR: David Moriarty - görev unvanı - Rt Rev'd
+
+EN: Matamey - instance of - Communes of niger
+TR: Matamey - bir örneği - Nijer belediyeleri
+
+EN: Oberea elongaticollis - parent taxon - Oberea
+TR: Oberea elongaticollis - üst taksonu - Oberea
+
+EN: gary thompson (soccer) - member of sports team - vancouver whitecaps (nasl)
+TR: Gary Thompson (futbol) - spor takımının üyesi - Vancouver Whitecaps (NASL)
+
+EN: Advena, Serhiy - sport - swimming (sport)
+TR: Advena, Serhiy - spor dalı - yüzme.
+
+EN: 31 (film) - cast member - ginger lynn
+TR: 31 (film) - oyuncu kadrosunda yer alan kişi - Ginger Lynn.
+
+EN: Edmond, baron de Rothschild - given name - Edmond (first name)
+TR: Edmond, Baron de Rothschild - isim - Edmond (öndeki ad).
+
+EN: robbie van leeuwen - instrument - Guiatr
+TR: Robbie Van Leeuwen - enstrüman - Gitar.
+
+EN: bob sirois - instance of - Huamn
+TR: Bob Sirois – üye olduğu – Human
+
+EN: Thomas Rongen - place of birth - mokum
+TR: Thomas Rongen – doğduğu yer – Mokum
+
+EN: matthias trenson - given name - matthias (first name)
+TR: Matthias Trenson – verilen ad – Matthias (isim)
+
+EN: list of songs in glee (season 4) - followed by - List of songs in Glee (season 5)
+TR: "Glee" dizisinin dördüncü sezonundaki şarkıların listesi – takip edilen – "Glee" dizisinin beşinci sezonundaki şarkıların listesi
+
+EN: Valros - shares border with - saint-thibery
+TR: Valros - komşu sınır ülkesi - Saint-Thibéry
+
+EN: Harakami - occupation - music career
+TR: Murakami - meslek - müzik kariyeri
+
+EN: August Ferdinand Möbius/Comments - country of citizenship - Germanz
+TR: August Ferdinand Möbius / Yorumlar - vatandaşlık ülkesi - Almanya
+
+EN: ear 59 class - subclass of - beyer garratt
+TR: ear 59 sınıfı - alt sınıflardan biri - Beyer Garratt
+
+EN: john clerk - educated at - gbs-department of management
+TR: John Clerk - eğitim gördüğü kurum - GBS Yönetim Bölümü
+
+EN: Kaikawala - located in time zone - utc+5.30
+TR: Kaikawala - içinde bulunduğu zaman dilimi - UTC+5.30
+
+EN: k203fi - located in the administrative territorial entity - Demographics of Oregon
+TR: K203FI - içerisinde yer alan idari bölge - Çekirdek Eyaleti'nin Nüfusu
+
+EN: Kong Kong River - instance of - riverine
+TR: Hong Kong Nehri - bir örneği olup - nehirsel
+
+EN: Marina Schuster - native language - iso 639:deu
+TR: Marina Schuster - ana dil – iso 639:deu
+
+EN: brian harper (boxer) - instance of - Huamn
+TR: Brian Harper (boksör) - türü - Huamn
+
+EN: GreatWhite68/sandbox - occupation - Association football player
+TR: GreatWhite68/sandbox - meslek - Futbolcu
+
+EN: R Capricorni - constellation - Capricornus constellation
+TR: R Capricorni - takımyıldız - Kova Takım Yıldızı
+
+EN: filmography of bob steele - instance of - Filmographies
+TR: Bob Steele'in filmografisi - bir örneği - Filmografiler
+
+EN: turbottoplectron - instance of - Taxxon
+TR: Turbottoplectron - bir türü - Taksonomik grup
+
+EN: George D. Grundy, Jr. - instance of - Huamn
+TR: George D. Grundy Jr. - bir örnek - İnsanlar
+
+EN: Robbie Winters - member of sports team - peterhead f c
+TR: Robbie Winters - spor takımının üyesi - Peterhead F.C.
+
+EN: who are the debolts? - genre - Documentary series
+TR: debults - türü - Belgesel dizisi
+
+EN: xenia fedorova - country of citizenship - Оросын Холбооны Улс
+TR: ksenia fedorova - vatandaşlık ülkesi -  Оросын Холбооны Улс
+
+EN: koottukudumbam - original language of film or TV show - Malāyalam
+TR: koottukudumbam - filmin veya televizyon programının orijinal dili - Malayalam
+
+EN: Thomas H. Makiyama - instance of - Huamn
+TR: thomas h. makiyama - örneği - Human
+
+EN: John Fulgham - country of citizenship - united stated
+TR: John Fulgham - vatandaşlık ülkesi - Amerika Birleşik Devletleri
+
+EN: marcus webb - member of sports team - Club Obras Sanitarias de la Nación
+TR: Marcus Webb - spor takımının üyesi - Club Obras Sanitarias de la Nación
+
+EN: sterrhostoma - instance of - Taxxon
+TR: Sterrhostoma - türü - Taxxon
+
+EN: teresa amabile - occupation - psychological associate
+TR: Teresa Amabile - meslek - psikoloji uzmanı
+
+EN: Blue Moon (song) - instance of - Track (song)
+TR: Blue Moon (şarkı) – bir örneği – Şarki parçası
+
+EN: gorni dragoycha - country - република българия
+TR: Gornî Dragoiçka – ülke – Bulgaristan Cumhuriyeti
+
+EN: yoshinobu takeda (aikido) - instance of - Huamn
+TR: Yoshinobu Takeda (Aikido) – bir örnek – Huanmn
+
+EN: Maurice "Maury" Richard Povich - place of birth - new york city
+TR: Maurice “Maury” Richard Povich – doğduğu yer – New York City
+
+EN: blaise yepmou mendouo - instance of - Huamn
+TR: Blaise Yepmou Mendouo – üye olarak – Human
+
+EN: andre levingston - given name - andre (given name)
+TR: Andre Levingston – isim – Andre (isim)
+
+EN: Anupam Shobhakar - place of birth - Bumbai
+TR: Anupam Şobhakar – doğduğu yer – Mumbai
+
+EN: Hassan Fadlallah - instance of - Huamn
+TR: Hasan Fadelullah – üye olarak – Human
+
+EN: spiel um den mann - cast member - albert heine
+TR: "spiel um den mann" – oyuncu kadrosunda olan kişi – Albert Heine
+
+EN: inverkeithing - country - royaume-uni
+TR: Inverkeithing – ülke – royaume-uni
+
+EN: Marco Aurelio Fernandes da Silva - member of sports team - Associacao Atletica Portuguesa (Santos)
+TR: Marco Aurelio Fernandes da Silva – spor takımının üyesi – Associação Atlética portuguesa (Santos)
+
+EN: Féthi Harek - occupation - Association football manager
+TR: Fethi Hareki – meslek – futbol teknik direktörü
+
+EN: liar (the jesus lizard album) - performer - gladiator (the jesus lizard song)
+TR: liar (The Jesus Lizard albümü) – sanatçı – gladiator (The Jesus Lizard şarkısı).
+
+EN: Dan Rogas - place of birth - history of port arthur, texas
+TR: Dan Rogas – doğduğu yer – Texas'ın Port Arthur tarihçesi.
+
+EN: Nicola Granieri - given name - nicola (name)
+TR: Nicola Granieri – verilen ad – Nicola (isim).
+
+EN: the restless spirit - director - allan dwan
+TR: The Restless Spirit – yönetmen – Allan Dwan.
+
+EN: United Bulgarian Bank - instance of - firm (economics)
+TR: Birleşik BulgaristanBankası - bir türü - şirket (ekonomi).
+
+EN: Sam Schmidt Paralysis Foundation - located in the administrative territorial entity - Princeton nj
+TR: Sam Schmidt Felç Vakfı - şu idari bölgede bulunuyor - Princeton New Jersey.
+
+EN: markus müller - member of sports team - Kickers Offenbach
+TR: Markus Müller - spor takımının üyesi - Kickers Offenbach.
+
+EN: tuffnell, saskatchewan - located in the administrative territorial entity - saskachewan
+TR: Tuffnell, Saskatchewan - şu idari bölgedeki yerleşim yeri - Saskatchewan.
+
+EN: Tucker oak - IUCN conservation status - least concern (lc)
+TR: Tucker meşe ağacı - korunma durumu (IUCN) - en az endişeye neden olan (lc).
+
+EN: john thomas (christadelphian) - place of burial - green-wood
+TR: John Thomas (Christadelphia mensubu) - defin yeri - Green-Wood Mezarlığı.
+
+EN: lalubhai patel - country of citizenship - ਭਾਰਤ ਗਣਤੰਤਰ
+TR: Lalubhai Patel - vatandaşlık ülkesi -  ਭਾਰਤ ਗਣਤੰਤਰ.
+
+EN: John Steer (art historian) - instance of - Huamn
+TR: John Steer (sanat tarihçisi) - örneği - Human.
+
+EN: Vilablareix - shares border with - gérone
+TR: Vilablareix - sınırdadır – gérone
+
+EN: Jesse McI. Carter - educated at - West Point USMA
+TR: Jesse McI. Carter - eğitim gördü – West Point USMA
+
+EN: obermehnen - located in time zone - UTC2
+TR: Obermehnen - zaman diliminde yer alır – UTC2
+
+EN: Desnos - occupation - poetess
+TR: Desnos - mesleği – şair
+
+EN: doug lindskog - given name - doug (first name)
+TR: Doug Lindskog – isim verme adıyla – Doug (öndeki adı).
+
+EN: ballz - platform - 3do interactive multiplayer
+TR: Ballz – çalıştığı platform – 3DO interaktif çok oyunculu.
+
+EN: Gert Postel - family name - postel
+TR: Gert Postel – soyadı – Postel.
+
+EN: Vasily Rodionovich Petrov - award received - narodnyǐ artist rsfsr
+TR: Vasiliy Rodiyonoviç Petrov – kazandığı ödül – Narodniy Artist RSFSR.
+
+EN: Colostethus infraguttatus - taxon rank - cohesion species
+TR: Colostethus infraguttatus – takson sınıfı – birleşim türü.
+
+EN: Vallibona - shares border with - rossell, castellón
+TR: Vallibona – sınırı olan yerler – Rossello, Castellon.
+
+EN: Legends of norrath - publisher - Sonyonline
+TR: Norratha Efsaneleri – yayıncı – SonylOnline.
+
+EN: dichomeris oxygrapha - instance of - Taxxon
+TR: Dichomeris oxygrapha – örneği – Takson.
+
+EN: Blackbeard (2006 film) - original language of film or TV show - Number of words in English
+TR: Blackbeard (2006 filmi) - yapım dili veya televizyon programının dilleri - İngilizce'deki kelime sayısı
+
+EN: S.L. Benfica - Futebol, S.A.D. - anthem - SerBenfiquista
+TR: S.L. Benfica - Fútbol, S.A.D. - marş - SerBenfiquista
+
+EN: młyny windmill beacon - country - PolanD
+TR: Młyny yel değirmeni deniz feneri - ülke - Polonya
+
+EN: andrey afanasiev - instance of - Huamn
+TR: Andrey Afanasyev - örneği - İnsan
+
+EN: Peniarth 28 - collection - hengwrt–peniarth manuscripts
+TR: Peniarth 28 – koleksiyonu içerir – Hengwrt–Peniarth elyazmaları
+
+EN: accession (property law) - described by source - 1991 Britannica
+TR: mülkiyet hukukuyla ilgili "accession" kavramı – kaynağı tarafından tanımlanır – 1991 Encyclopædia Britannica
+
+EN: georg friedrich karl wittig - nominated for - Nobel Prize in Chemistry
+TR: Georg Friedrich Karl Wittig – Nobel Kimya Ödülü'ne aday gösterildi
+
+EN: laura otis - employer - green park society
+TR: Laura Otis – Green Park Society’de çalıştı
+
+EN: Richards Miller - instance of - Huamn
+TR: Richards Miller - bir örneğidir - Huamn
+
+EN: paul j. flory - country of citizenship - united stated
+TR: Paul J. Flory - vatandaşlık ülkesi - Amerika Birleşik Devletleri
+
+EN: peter levy (presenter) - given name - peder
+TR: Peter Levy (sunucu) - verilen ad - Peder
+
+EN: Mpumi Nyandeni - instance of - Huamn
+TR: Mpumi Nyandeni - bir örneğidir - Huamn
+
+EN: Jacob François Marola - country of citizenship - iso 3166-1:fr
+TR: Jacob François Marola - vatandaşlık ülkesi - iso 3166-1:fr
+
+EN: randy holcomb - member of sports team - Gatos de Monagas
+TR: Randy Holcomb - spor takımının üyesi - Gatos de Monagas
+
+EN: Ordnance Factory Medak - headquarters location - Bumbai
+TR: Ordance Fabrikası Medak - genel merkez konumu - Mumbai
+
+EN: Chennai Central–Bangalore City line - terminus - Madras Central
+TR: Çennai Merkez – Bangalore Şehir hattı - başlangıç noktası - Madres Merkezi
+
+EN: andreas samuelsen vibstad - instance of - Huamn
+TR: Andreas Samuelsen Vibstad - bir örneğidir - Human
+
+EN: where the day takes you - instance of - movie
+TR: "Where The Day Takes You" filmi - bir türüdür - sinema yapımı
+
+EN: lone ranger rides again - original language of film or TV show - Number of words in English
+TR: "The Lone Ranger Rides Again" – televizyon programı veya filmin orijinal dilini ifade eder– İngilizce kelime sayısı
+
+EN: sousey castle - located on terrain feature - portsea island
+TR: Susey Şatosu - belirli bir coğrafi özellik üzerinde bulunur - Portsea Adası
+
+EN: Moorea sandpiper - parent taxon - Prosobonia
+TR: Moorea sumrucu – üst takson – Prosobonia
+
+EN: Nelson Váldez - member of sports team - Al-Jazira Abu Dhabi SC
+TR: Nelson Váldez – spor takımının üyesi – Al-Jazira Abu Dhabi SC
+
+EN: Jose Gerson da Cunha - occupation - amateur historian
+TR: José Gerson da Cunha – meslek – amatör tarihçi
+
+EN: zdeněk folprecht (footballer) - member of sports team - Viktorka Žižkov
+TR: Zdeněk Folprecht (futbol oyuncusu) – spor takımının üyesi – Viktorka Žižkov
+
+EN: buffalo (tx) - country - united stated
+TR: buffalo (TX) - ülke - Amerika Birleşik Devletleri
+
+EN: aleksandr ivanovich gurov - work location - Moskva
+TR: Aleksandr İvanoviç Gurov - çalıştığı yer - Moskova
+
+EN: W. H. Twining - instance of - Huamn
+TR: W.H. Twining - örneği - Insan
+
+EN: Yafa Yarkoni - occupation - vocalist
+TR: Yaffa Yarkoni - meslek - şarkıcı
+
+EN: Ipoh-Sentral Kuala Lumpur Route - located in the administrative territorial entity - padang besar, malaysia
+TR: Ipoh–Kuala Lumpur Sentral Rotası – bulunduğu idari bölge – Padang Besar, Malezya.
+
+EN: matthew finnen doyle - country of citizenship - united stated
+TR: Matthew Finne Doyle – vatandaşlık ülkesi – Amerika Birleşik Devletleri.
+
+EN: Uneeda, West Virginia - country - united stated
+TR: Uneeda, Batı Virjinya – ülke – Amerika Birleşik Devletleri.
+
+EN: Grange Hill (television) - instance of - TV series
+TR: Grange Hill (televizyon dizisi) – türü – televizyon dizileri.
+
+EN: thalia assuras - occupation - Political journalists
+TR: Thalia Assuras - meslek - Siyasi gazeteciler
+
+EN: Abbas Yales-e Do - located in the administrative territorial entity - Tarrah Rural District
+TR: Abbas Yales-e Do - bulunduğu idari bölge - Tarrah Kırsal Bölgesi
+
+EN: Carlsen (name) - writing system - Latin alphabet letters
+TR: Carlsen (isim) - yazı sistemi - Latince alfabenin harfleri
+
+EN: Dora Draganova - given name - Dora (first name)
+TR: Dora Draganova - verilen ad - Dora (özel isim)
+
+EN: Alexis Joyce - sport - Athletics (European)
+TR: Alexis Joyce – spor dalı – Atletizm (Avrupa).
+
+EN: bruce johnston discography - member of political party - republican party us
+TR: Bruce Johnston diskografisi – siyasi partinin üyesi – Republican Party US.
+
+EN: Nguyen Van Quyet - position played on team / speciality - Right-half
+TR: Nguyen Van Quyet – takımda oynadığı pozisyon / uzmanlık alanı– Sağ kanat oyuncusu.
+
+EN: tca arshag dickranian armenian school - country - united stated
+TR: TCA Arşak Dikranyan Ermeni Okulu – ülke – Amerika Birleşik Devletleri.
+
+EN: Xiangcheng District, Xiangyang - instance of - district (prc and roc)
+TR: Xiangcheng Bölgesi, Xiangyang - bir örneğidir - ilçe (Çin ve Tayvan).
+
+EN: personal effect - subclass of - property rights
+TR: Kişisel eşya - alt sınıftır - mülkiyet hakları.
+
+EN: Todd Gava - member of sports team - Brisbane Strikers FC
+TR: Todd Gava - spor takımının üyesidir - Brisbane Strikers FC.
+
+EN: un secret (film) - director - claude miller
+TR: "Un Secret" (film) - yönetmeni - Claude Miller.
+
+EN: Seakle Greijdanus - employer - kampen theological college of the reformed churches (liberated)
+TR: Seakle Greijdanus - işverenidir - Kampen teolojik kolejinin reform kiliseleri (özgürleştirilmiş).
+
+EN: Luca Pacioni - member of sports team - selle italia - serramenti diquigiovanni
+TR: Luca Pacioni - spor takımının üyesidir - Selle Italia – Serramenti Diquigiovanni.
+
+EN: list of azal pfc managers - instance of - lists
+TR: Azal PFC antrenörlerinin listesi - örneğidir - liste veri yapısı.
+
+EN: selectv (australian television) - instance of - firm (economics)
+TR: SelectV (Avustralya televizyonu) - bir türdür - şirket (ekonomi).
+
+EN: woodside (f&ns station) - adjacent station - pennsylvania station (new york city) (njt station)
+TR: Woodside (metro istasyonu) - komşu durak - Pennsylvania İstasyon'u (New York Şehri) (NJT durağı).
+
+EN: Josh Werner - occupation - music production (music industry)
+TR: Josh Werner - meslek - müzik prodüksiyonu (Müzik endüstrisi).
+
+EN: david hilbert - field of work - geometric features
+TR: David Hilbert - çalışma alanı - geometrik özellikler.
+
+EN: Boncompagni family - instance of - last names
+TR: Boncompagni ailesi - örneği - soyadlar.
+
+EN: neuilly yo mama! - cast member - marie-christine adam
+TR: neuilly yo mama! – oyuncu kadrosunda yer alan kişi – Marie-Christine Adam
+
+EN: swadesh deepak - medical condition - Manic depressive psychosis
+TR: Swadesh Deepak – tıbbi durum – Manik depresif psikoz
+
+EN: The Mind Is A Terrible Thing To Taste - language of work or name - Number of words in English
+TR: The Mind Is A Terrible Thing To Taste – eserin dili veya adı – İngilizce'deki kelime sayısı
+
+EN: American Methods - color - black-and-white cinema
+TR: American Methods – renk – siyah beyaz sinema
+
+EN: metachanda mormodes - parent taxon - Metachandini
+TR: metachanda mormodes – üst taksonomu – Metachandini
+
+EN: Hans Eiberg - country of citizenship - Dennmark
+TR: Hans Eiberg – vatandaşlık ülkesi – Danimarka
+
+EN: Assaf Azo - occupation - Association football player
+TR: Assaf Azo – meslek – Futbolcu
+
+EN: Luis Mejía - sport - futebol
+TR: Luis Mejia – spor dalı – futbol
+
+EN: sangorski & sutcliffe - country - The United Kingdom of Great Britain and Ireland
+TR: Sangorski & Sutcliffe - ülke - Birleşik Krallık'ın Büyük Britanya ve İrlanda kısmı
+
+EN: dygert - instance of - last names
+TR: Dygert - türü - soyadlar
+
+EN: Capenhurst - instance of - Communities in England
+TR: Capenhurst - türü - İngiltere’deki yerleşimler
+
+EN: everald la ronde - instance of - Huamn
+TR: Everald La Ronde - türü - insanlar
+
+EN: the black swan (the triffids album) - performer - the triffids
+TR: The Black Swan albümü - sanatçı - The Triffids
+
+EN: tsung-hua yang - family name - Njoo
+TR: Tsung-Hua Yang - soyadı - Njoo
+
+EN: Bobeck - shares border with - Albersdorf (Thuringen)
+TR: Bobeck - sınır komşusu - Albersdorf (Türingen)
+
+EN: L'amore e la violenza - instance of - Band (music)
+TR: L’Amore E La Violenza - tür örneği - Grup (Müzik)
+
+EN: Ethel Gabriel - occupation - timothy thompson (composer)
+TR: Ethel Gabriel - meslek - Timothy Thompson (besteci).
+
+EN: Karen Lumley - given name - Karen (given name)
+TR: Karen Lumley - isim - Karen (isim).
+
+EN: joanna-krupa - hair color - peroxide blonde
+TR: joanna-krupa - saç rengi - platin sarısı.
+
+EN: Luke Guttridge - sport - futebol
+TR: Luke Guttridge - spor dalı - futbol.
+
+EN: epizetka river - country - united stated
+TR: Epizetka Nehri - ülke - Amerika Birleşik Devletleri
+
+EN: Regina Rage - sport - US football
+TR: Regina Rage - spor dalı - Amerikan futbolu
+
+EN: Jack Snipe - taxon rank - cohesion species
+TR: Jack Snaige - taksonomik sınıflandırma - türler birliği
+
+EN: chorros de milla zoo - country - br venezuela
+TR: Chorros de Milla hayvanat bahçesi - ülke - Venezuela
+
+EN: thomas kirk (botanist) - place of birth - Cofantre
+TR: Thomas Kirk (bitkibilimci) - doğduğu yer - Cofantre
+
+EN: artigas, josé gervasio - place of birth - history of montevideo
+TR: Artigas, José Gervasio - doğum yeri - Montevideo tarihi
+
+EN: first congress of the philippines - instance of - Philippines legislature
+TR: Filipinler Kongresi'nin ilki - bir örneği olup - Filipin Yasama Organı
+
+EN: Yuri Urychev - instance of - Huamn
+TR: Yury Uryçev - bir örneğidir - İnsan
+
+EN: helmut hudel - place of death - Frankfort-on-Main
+TR: Helmut Hudel - öldüğü yer - Frankfurt am Main
+
+EN: šljivova - country - srvija
+TR: Šljivo va - ülke - Sırbiya
+
+EN: Upper Garonne - contains administrative territorial entity - castillon-de-larboust
+TR: Yüksek Garona - içerdiği idari bölge - Castillon-le-Larbst
+
+EN: panayiotis michael zavos - instance of - Huamn
+TR: Panayotios Mihail Zavos - örneği - Human
+
+EN: george getgood - member of sports team - bathgate f.c.
+TR: George Getgood - bir spor takımının üyesi - Bathgate F.C..
+
+EN: michael hill jeweller - instance of - firm (economics)
+TR: Michael Hill Jewellers - türü - şirket (ekonomi).
+
+EN: محافظة شمال سيناء - country - Names of Egypt
+TR: Şimal Sînâ vilayeti - ülke - Mısır'ın yer adları listesi.
+
+EN: bennett king - country of citizenship - Commonwealth Australia
+TR: Bennett King - vatandaşlık ülkesi - Avustralya Topluluğu.
+
+EN: marco carraretto - sport - baksetball
+TR: Marco Carraretto – spor – basketbol
+
+EN: tramezaïgues - located in the administrative territorial entity - hautes-pyrenees
+TR: Tramezaigües – yer aldığı idari bölge – Hautes-Pyrénées
+
+EN: like it never was before - director - susanne bier
+TR: Like It Never Was Before – yönetmen – Susanne Bier
+
+EN: Orbital plane (astronomy)/Comments - has contributing factor - South latitude
+TR: Yörünge düzlemi (astronomia) / Açıklamalar – katkıda bulunan faktöre sahip – Güney enlemı
+
+EN: pedro guiberguis - member of sports team - Club Bolivar
+TR: Pedro Guiberguis – spor takımının üyesi – Kulüp Bolívar
+
+EN: Gymnoscelis prouti - taxon rank - cohesion species
+TR: Gymnosceles prouti – taksonomik seviye – türler birliği
+
+EN: carnota - shares border with - Mazaricos, A Coruna
+TR: Carnota – sınırı olan yerleşim yeri – Mazariços, La Coruña
+
+EN: Donde el circulo termina - color - black-and-white cinema
+TR: "Donde el círculo termina" – renk – siyah beyaz sinema
+
+EN: nagaoka shusei - occupation - Black and white artist
+TR: Nagaoka Shusei - meslek - Siyah beyaz sanatçı
+
+EN: ranoji shinde - child - Jayappa Scindia
+TR: Ranojı Şınde - çocuk - Jayıppa Sindiya
+
+EN: István Koczka - participant of - 1976 summer olympic games
+TR: İstvan Kocska - katılım gösterdiği etkinlik - 1976 yaz olimpiyat oyunları
+
+EN: King Albert Medal - instance of - Civil awards and decorations
+TR: Kral II. Albert Madalyası - örneği olduğu şey - Devlet nişanları ve ödülleri
+
+EN: euro gold and silver commemorative coins (germany) - subclass of - Euro gold and silver commemorative coins
+TR: Avrupa altın ve gümüş anıtsal paralar (almanya) – bir türü olan – Avrupa altın ve gümüş anıtsal paraları
+
+EN: Cuperly - shares border with - La Cheppe
+TR: Cuperly – sınırdadır ile – La Cheppe
+
+EN: Joseph S. Cabot - educated at - Harvard geography
+TR: Joseph S. Cabot – eğitim almıştır– Harvard coğrafya bölümünde
+
+EN: uss harold holt - named after - The Right Honourable Harold Holt
+TR: USS Harold Holt – adını alır – Sayın Milletvekili Harold Holt
+
+EN: charlie young (actress) - place of birth - Island of Taiwan
+TR: Charlie Young (oyuncu) - doğduğu yer - Tayvan adası
+
+EN: Camphor trees - taxon rank - cohesion species
+TR: Defneg ağaçları - taksonomik sınıflandırma - bir tür bitki
+
+EN: french-language operas - subclass of - P:OPERA
+TR: Fransızca operalar - alt kümesi - P:OPERA
+
+EN: Les Visiteurs II: Les Couloirs du temps - director of photography - christophe beaucarne
+TR: Les Visiteurs II: Les Couloirs du Temps - görüntü yönetmeni - Christophe Beaucarne
+
+EN: Gary Martindale - member of sports team - burscough f. c.
+TR: Gary Martindale - bir spor takımının üyesi - Burscough F.C..
+
+EN: One Day in Your Life (Anastacia song) - record label - X-Cell Records
+TR: "One Day in Your Life" (Anastasia şarkısı) - müzik şirketi - X-Cell Records.
+
+EN: Liber Linteus - material used - Cloth linen
+TR: Liber Linteus - kullanılan malzeme - Keten kumaşı.
+
+EN: Pyrazoline - instance of - Chemical compound
+TR: Pirazolin - kimyasal bileşiğin örneği.
+
+EN: suzanne côté - given name - Suzanne (given name)
+TR: Suzanna Côté - isim - Suzanna (isim).
+
+EN: Oliver Perry Temple - given name - Oliver (given name)
+TR: Oliver Perry Temple - isim - Oliver (isim).
+
+EN: Monetville Public School - instance of - town (new mexico)
+TR: Monetville Halk Okulu - bir türü - kasaba (New Mexico eyaleti).
+
+EN: alice elliott dark - given name - alíz
+TR: Alice Elliott Dark - isim - Aliz (isim).
+
+EN: michael morpurgo - educated at - reggie the lion
+TR: Michael Morpurgo – eğitim gördüğü yer – Reggie the Lion
+
+EN: Natural Wonder - followed by - Shelter in the Rain
+TR: Doğal Harika – ardından gelen eser – Shelter in the Rain
+
+EN: ghost story (straub novel) - language of work or name - usan english
+TR: Ghost Story (Straub romanı) – eserin dili veya adı – Usan İngilizcesi
+
+EN: jorge cafrune - place of death - General Pacheco
+TR: Jorge Cafrune – ölüm yeri – General Pacheco
+
+EN: Wirtemberska, Maria - sibling - Konstanty Adam Czartoryski
+TR: Maria Wirtenberg – kardeş – Konstanti Adam Çartoyski
+
+EN: Battaristis sphenodelta - parent taxon - duvita
+TR: Battaristis sphenodelta – üst takson – duwita
+
+EN: sium sisarum - parent taxon - sium
+TR: sium sisarum – üst takson – sium
+
+EN: pedro filipe ventura ribeiro - occupation - Association football player
+TR: Pedro Filipe Ventura Ribeiro – meslek – Futbolcu
+
+EN: ekstraklasa 1953 - participant - polonia bytom
+TR: ekstraklasa 1953 – katılımcı – Polonia Bytom
+
+EN: jeanne-mance street - instance of - route
+TR: Jeanne Mance Caddesi – bir türü – yol
+
+EN: piqueti - sport - futebol
+TR: Piqueti – spor dalı – futbol
+
+EN: na dominican rep - instance of - defense fleet
+TR: Dominik Cumhuriyeti – bir örneği – savunma filosu
+
+EN: freddy and the bean home news - genre - Books for children
+TR: freddy ve fasulye evi haberleri – türü – Çocuklar için kitaplar
+
+EN: Mount Carbine, Queensland - country - Commonwealth Australia
+TR: Mount Carbine,Queensland– ülke – Avustralya Birliği
+
+EN: Fernanda Souza - instance of - Huamn
+TR: Fernanda Souza – örneği – İnsan
+
+EN: D.P. Walker - occupation - amateur historian
+TR: D.P. Walker – meslek – amatör tarihçi
+
+EN: united states senate election in new mexico, 1970 - successful candidate - Joseph Montoya
+TR: New Mexico'da yapılan 1970 Birleşik Devletler Senatosu seçimi – başarılı aday – Joseph Montoya
+
+EN: joseph arthur hamilton beresford - instance of - Huamn
+TR: Joseph Arthur Hamilton Beresford – türü – İnsan
+
+EN: 169th Infantry Brigade - military branch - USA Army
+TR: 169. Alay Tümeni – askeri kol – ABD Ordusu
+
+EN: cleve chaffin - instance of - Huamn
+TR: Cleve Chaffin – türü – İnsan
+
+EN: 1989 Dow Classic - Singles - winner - Martina Navrátilová
+TR: 1989 Dow Klasikleri – tekler – kazanan – Martina Navratilova
+
+EN: jack challinor - member of sports team - stoke city f.c
+TR: Jack Challinor – spor takımının üyesi – Stoke City F.C.
+
+EN: fizuli mammedov - position played on team / speciality - Defender (association football)
+TR: Fizuli Mammedov – takımdaki pozisyon / uzmanlık alanı – Defans oyuncusu (futbol)
+
+EN: frederick muller - place of burial - arlington national cemetery
+TR: Frederick Muller – defin yeri – Arlington Ulusal Mezarlığı
+
+EN: Anibal Gonzalez y Alvarez Osorio - notable work - Plaza de Espana (Seville)
+TR: Aníbal González y Álvarez Osorio - önemli eser – İspanyol Meydanı (Sivilya).
+
+EN: j'ai tant aimé… - country of origin - marocko
+TR: j’ai tant aimé... - orijin ülkesi – Fas.
+
+EN: Seren Press - country - royaume-uni
+TR: Seren Press - ülke – Birleşik Krallık.
+
+EN: Big Black Reef - country - Commonwealth Australia
+TR: Büyük Siyah Resif - ülke – Avustralya Federasyonu.
+
+EN: ghassan aboud - educated at - Faculty of Informatics of Damascus University
+TR: Ghassan Aboud - eğitim gördüğü yer - Şam Üniversitesi Bilgi Fakültesi
+
+EN: Danilo Portugal Bueno Ferreira - occupation - Association football player
+TR: Danilo Portugal Bueno Ferreira - meslek - Futbolcu
+
+EN: stratonice of syria - child - phila (daughter of seleucus)
+TR: Stratonikos Suriye'den – çocuğu - Phila (Selevkos’un kızı)
+
+EN: campo calabro - located in time zone - rome time
+TR: Campo Calabro - içinde bulunduğu saat dilimi - Roma saati
+
+EN: E.J.J. Schenk - instance of - Huamn
+TR: E.J.J. Schenk - bir örneğidir - Human
+
+EN: hemicrepidius - taxon rank - generic epithet
+TR: Hemicrepdius - taksonomik seviye - tür adı
+
+EN: adolf erman - given name - Johann (name)
+TR: Adolf Erman - verilen isim - Johann (isim)
+
+EN: articles for creation/branko vujovic - sport - futebol
+TR: "oluşturulmak için makaleler" / Branko Vujović - spor dalı - futbol
+
+EN: Thirteen (2003 film) - nominated for - Screen Actors Guild Award for Best Supporting Actress - Motion Picture
+TR: Thirteen (2003 filmi) – aday gösterildi – En İyi Yardımcı Kadın Oyuncu için Sinema Aktörler Sendikası Ödülü – Film.
+
+EN: carol fishman cohen - educated at - peter w. stanley
+TR: Carol Fishman Cohen – eğitimini aldı – Peter W. Stanley'de.
+
+EN: My Friend Harry - cast member - Karl Falkenberg
+TR: "My Friend Harry" – oyuncuları arasında yer alan – Karl Falkenberg.
+
+EN: Noel Price - member of sports team - Pittsburg Penguins
+TR: Noel Price – spor takımının bir üyesiydi – Pittsburgh Penguins.
+
+EN: Fin Kennedy - instance of - Huamn
+TR: Fin Kennedy - bir örneği - Huamn
+
+EN: niccolo di simone - given name - Niccolò (given name)
+TR: niccolo di simone - isim - Niccolò (isim)
+
+EN: Salem-Shotwell Covered Bridge - instance of - langqiao
+TR: Salem-Shotwell Kapalı Köprü - bir örnek - langqiao
+
+EN: Franciszek Morawski - member of - poznań society of friends of learning
+TR: Franciszek Morawski - üyesi - Poznan Öğrenme Arkadaşları Derneği
+
+EN: callimetopus cordifer - taxon rank - cohesion species
+TR: Callimetopus cordifer - takson derecesine göre - birleşim türü
+
+EN: bourg-de-bigorre - shares border with - Benqué
+TR: Bourg-de-Bigorrе - sınır komşusu olan yer - Benque
+
+EN: September Morn - creator - paul émile chabas
+TR: Eylül Sabahı - yaratıcısı - Paul Emile Chabas
+
+EN: todd ames hunter - place of birth - History of Bartlesville, Oklahoma
+TR: Todd Ames Hunter - doğduğu yer - History of Bartlesville, Oklahoma
+
+EN: Charles L. McCawley - conflict - WwI
+TR: Charles L. McCawley – çatışma– Birinci Dünya Savaşı
+
+EN: Jermaine Gumbs - member of sports team - Brook House F.C.
+TR: Jermaine Gumbs – spor takımının üyesi – Brook House F.C.
+
+EN: the d.o.c. discography - instance of - discografia
+TR: The d.o.c. diskografisi – örneği – discografia
+
+EN: Bolivia at the 1992 Winter Olympics - is a list of - afflete
+TR: Bolivya'nın 1992 Kış Olimpiyatlarındaki yer alımı – bir liste olup – afflete
+
+EN: johnny mckinnon - sport - Women's ice hockey
+TR: Johnny McKinnon - spor dalı - Kadın buz hokeyi
+
+EN: ryan bird - member of sports team - Cambridge United Football Club
+TR: Ryan Bird - takım üyesi - Cambridge United Futbol Kulübü
+
+EN: ratarda melanoxantha - instance of - Taxxon
+TR: Ratarda Melanoxantha - örneği - Takson
+
+EN: trinity episcopal church (mobile, alabama) - architect - frank wills (architect)
+TR: Trinity Episcopal Kilisesi (Mobile, Alabama) - mimar - Frank Wills (mimari).
+
+EN: season 3 of the wire - has part - Slapstick (The Wire)
+TR: "Wire" dizisinin üçüncü sezonu - parça içerir - Slapstick ("The Wire")
+
+EN: Hal Holmes - work location - wash. d.c.
+TR: Hal Holmes - çalıştığı yer - Wash. D.C.
+
+EN: powiat czestochowski - country - PolanD
+TR: Czestochowsk poviatı - ülke - Poland
+
+EN: Scottish Football League 1909–10 - sport - futebol
+TR: İskoç Futbol Ligi 1909–10 - spor dalı - futbol
+
+EN: Tango Feroz - original language of film or TV show - Modern Spanish
+TR: Tango Feroz - filmin veya televizyon programının özgün dili - İspanyolca modern dil.
+
+EN: takuma nishimura (footballer) - member of sports team - Brummel Sendai
+TR: Takuma Nishimura (futbolcu) - spor takımın üyesi - Brummel Sendai.
+
+EN: George C. Woodruff, Sr. - instance of - Huamn
+TR: George C. Woodruff, Sr. - bir örneği - Human.
+
+EN: talalayivskyi raion - instance of - district of ukraine
+TR: Talayivs'kyj rayonu - Ukrayna’nın ilçelerinden biri.
+
+EN: sundrium - country - P:I
+TR: sundrium - ülke - P:I
+
+EN: Malabo airport - instance of - commercial airport
+TR: Malabo havaalanı - türü - ticari havalimanı
+
+EN: Robin Furneaux - occupation - Writter
+TR: Robin Furneaux - meslek - Yazar
+
+EN: Carbon based lifeforms - instrument - Sustain time
+TR: Karbon bazlı canlılar - araç - Sustain time
+
+EN: Aroazes - located in time zone - UTC-03:00
+TR: Aroazes – içinde bulunuyor – UTC-03:00 zaman dilimi.
+
+EN: Sandra Huggett - given name - sandra orlow
+TR: Sandra Huggett – verilen ad – sandra orlow.
+
+EN: Vent (song) - country of origin - united stated
+TR: "Vent" şarkısı – köken ülkesi – Amerika Birleşik Devletleri.
+
+EN: suzanne m. levine - educated at - Columbia University in the City of New York
+TR: Suzanne M. Levine – eğitim gördüğü yer – Columbia Üniversitesi (New York).
+
+EN: zsolt balázs - given name - Zsolt (first name)
+TR: zsolt balázs - isim – Zsolt (öndeki ad).
+
+EN: Deforestation and the economy - subclass of - Process(engg)
+TR: Ormansızlaşma ve ekonomi - alt türü - Process(engg).
+
+EN: Andy Nelson's Southern Pit Barbecue - located in the administrative territorial entity - md, usa
+TR: Andy Nelson’ın Güney Bataklık Izgarası - bulunduğu idari bölge - md, usa.
+
+EN: richard wallace (cricketer) - country of citizenship - Commonwealth Australia
+TR: Richard Wallace (kriketçi) - vatandaşlığı ülkesi - Avustralya Birliği.
+
+EN: jan stanislawski - languages spoken, written or signed - Siwierski
+TR: Jan Stanislawski - konuştukları, yazılan veya işaret diliyle kullanılan diller - Siwierski
+
+EN: You Know They Got a Hell of a Band - published in - Nightmares and dreamscapes
+TR: "You Know They Got a Hell of a Band" - yayımlandığı yer - Nightmares and Dreamscapes
+
+EN: Turbomeca Astazou X - manufacturer - Microturbo
+TR: Turbomeca Astazou X - üretici firma - Microturbo
+
+EN: Niels Hansen Ditlev Larsen - place of birth - UN/LOCODE:DKHOR
+TR: Niels Hansen Ditlev Larsen - doğduğu yer - UN/LOCODE: DKHOR
+
+EN: Gorkšs - instance of - Huamn
+TR: Gorkšs - bir türüdür - Human
+
+EN: Ram Carmi - given name - Ram (given name)
+TR: Ram Carmi - isimdir - Ram (isim)
+
+EN: Sing Your Song - genre - Biographical-drama
+TR: Sing Your Song - turudur - Biyografik dram
+
+EN: Seh Konarvan - instance of - village
+TR: Seh Konarvan - bir örneğidir - köy
+
+EN: salignus tahoensis - parent taxon - salignus
+TR: Salignus tahoensis – üst türü – Salignus
+
+EN: fang yuting - participant of - 2012 summer olympics in london
+TR: Fang Yuting – katıldığı etkinlik – 2012 Londra Yaz Olimpiyatları
+
+EN: church street (brighton beach line) - operator - New York City Transit System
+TR: Church Street (Brighton Beach hattı) – işletmecisi – New York Şehir Ulaşım Sistemi
+
+EN: statute law revision act 1891 - instance of - uk parliament acts
+TR: Statute Law Revision Act 1891 – örneği – Birleşik Krallık parlamento yasaları
+
+EN: robert dorfman - given name - Robert (first name)
+TR: robert dorhman - verilen ad - Robert (isim).
+
+EN: the day the fish came out - cast member - dimitris nikolaidis
+TR: "the day the fish came out" filmi - oyuncu kadrosunda bulunan kişi - Dimitris Nikolaidis.
+
+EN: All Around the World (Lisa Stansfield song) - record label - Northwestside
+TR: "All Around the World (Lisa Stansfield şarkısı)" – müzik şirketi – Northwestside.
+
+EN: ivaylo rusev - member of sports team - FC Benkovski Bjala
+TR: İvaylo Rusev - spor takımının üyesi - FC Benkovski Bjala.
+
+EN: Execution of Antonio James - country of citizenship - united stated
+TR: Antonio James - vatandaşlık ülkesi - Amerika Birleşik Devletleri
+
+EN: nook logan - country of citizenship - united stated
+TR: Nook Logan - vatandaşlık ülkesi - Amerika Birleşik Devletleri
+
+EN: L'homme du train - country of origin - royaume-uni
+TR: L’Homme du Train - orijin ülke - İngiltere
+
+EN: jean luc bennahmias - country of citizenship - iso 3166-1:fr
+TR: Jean Luc Bennahmias - vatandaşlık ülkesi -  iso 3166-1:fr
+
+EN: IMO 8901561 - home port - havenmuiden
+TR: IMO 8901561 - liman kenti - havenmuiden
+
+EN: kantou, cyprus - shares border with - Sotira, Limassol
+TR: Kantou, Kıbrıs - sınırı olan yerleşim yeri - Sotira, Lemesa
+
+EN: goulburn post office - located in the administrative territorial entity - constitution of new south wales
+TR: Goulburn postaneleri - aşağıdaki idari bölgede bulunuyor - Yeni Güney Galler Eyaleti
+
+EN: niederdollendorf station - instance of - Train station
+TR: Niederdollendorf tren istasyonu - bir tür - Tren İstasyonları
+
+EN: William W. Bedsworth - occupation - attorney
+TR: William W. Bedsworth - meslek - avukat
+
+EN: Donald MacMillan (rugby) - instance of - Huamn
+TR: Donald MacMillan (ragbi) - türü - İnsan
+
+EN: Cornesia arabuco - taxon rank - cohesion species
+TR: Cornesia Arabucu - taksonomik seviye - birleşim türü
+
+EN: Pal Benko - participant of - 17th chess olympiad
+TR: Pal Benko - katılım gösterdiği - 17\. satranç olimpiyadı
+
+EN: Kudos (album) - genre - jazz music
+TR: Kudos (albüm) - türü - caz müziği
+
+EN: pa 507 - located in the administrative territorial entity - pennsylvania
+TR: pa 507 - bulunduğu idari bölge - Pennsylvania
+
+EN: Olivier Boumelaha - given name - olivier (given name)
+TR: Olivier Boumelaha - verilen ad - olivier (verilen isim)
+
+EN: kiki strike - narrative location - new york city
+TR: Kiki Strike - olay yeri - New York Şehri
+
+EN: 17546 Osadakentaro - minor planet group - outer main-belt asteroid
+TR: 17546 Osadakentaro – küçük gezegen grubu – dış ana kuşak asteroiti
+
+EN: cerea - located in time zone - UTC2
+TR: cerea – içinde bulunduğu saat dilimi – UTC2
+
+EN: ohio state route 282 - located in the administrative territorial entity - Geography of Ohio
+TR: ohio eyalet yolu 282 – yer aldığı idari bölge – Ohium'un Coğrafyası
+
+EN: bjarni valdimar tryggvason - astronaut mission - sts 85
+TR: Bjarni Valdimar Tryggvasón – astronot görevi – STS 85
+
+EN: Ali Jasimi - sport - futebol
+TR: Ali Jasimi – spor – futbol
+
+EN: nikolai lunin - award received - lenin award
+TR: Nikolai Lunnin – ödül aldı – Lenin Ödülü
+
+EN: escames - located in the administrative territorial entity - Oise (département)
+TR: Escames – aşağıdaki idari bölgede bulunuyor – Oise (départemen)
+
+EN: Zarya (polar ship) - instance of - ship/doc
+TR: Zarya (kutup gemisi) – örneği – gemi/belge
+
+EN: wilkolaz trzeci - located in time zone - UTC2
+TR: wilkolaz üçüncü - içinde bulunduğu zaman dilimi - UTC2
+
+EN: Skelmersdale Branch - country - royaume-uni
+TR: Skelmersdale Şubesi - ülke - royaume-uni
+
+EN: i try - performer - macy gray
+TR: ben deniyorum - sanatçı - Macy Gray
+
+EN: Eucamptognathus mananjaryanus - taxon rank - cohesion species
+TR: Eucamptognathus mananjaryanus - taksonomik seviye - birleşim türü
+
+EN: National Register of Historic Places listings in Randall County, Texas - country - united stated
+TR: Teksas eyaletinin Randall ilçesinde bulunan tarihi yerler listesi – ülke – Amerika Birleşik Devletleri
+
+EN: arteriae surales - instance of - arteries
+TR: Sural damarlar – örneği olan – atardamarları
+
+EN: Sipson, London, England - located in the administrative territorial entity - london borough of hillingdon
+TR: Sipson, Londra, İngiltere – idari bölge içinde bulunuyor – Hillingdon semti
+
+EN: SeaChange - cast member - kerry armstrong
+TR: SeaChange – oyuncu kadrosunda – Kerry Armstrong
+
+EN: Marie-josee saint-pierre - field of work - hollywood producer
+TR: Marie-Josee Saint-Pierre - meslek alanı - Hollywood yapımcısı
+
+EN: Edmund Francis Dunne - instance of - Huamn
+TR: Edmund Francis Dunne - örneği - İnsan
+
+EN: Judy Amar - given name - judy (first name)
+TR: Judy Amar - verilen ad - Judy (isim)
+
+EN: Valor Del Corazon - performer - howling willie cunt
+TR: Valor del Corazón - performans gösteren - Howling Willie Cunt
+
+EN: If Tomorrow Comes (miniseries) - cast member - David Lemuel Keith
+TR: If Tomorrow Comes (mini dizi) - oyuncu kadrosunda yer alan kişi - David Lemuel Keith
+
+EN: hollywood (1923 film) - production company - Lasky Studio
+TR: Hollywood (1923 filmi) - yapım şirketi - Lasky Film Şirketi
+
+EN: Brother, Cry for Me - cast member - Larry Pennell
+TR: Brother, Cry for Me - oyuncu kadrosunda yer alan kişi - Larry Pennell
+
+EN: EDP Renewables - parent organization - EDP-Energias de Portugal
+TR: EDP Yenilenebilir Enerji - ana kuruluş - EDP-Enerjias de Portekiz
+
+EN: Adriaan van der Meyden - country of citizenship - Netherlands (European territory)
+TR: Adriaan van der Meyden – vatandaşlık ülkesi – Hollanda (Avrupa bölgesi).
+
+EN: john christopher flowers - educated at - Harvard geography
+TR: John Christopher Flowers – eğitim gördüğü yer – Harvard Coğrafya.
+
+EN: Manzil Manzil - cast member - Mera Bharat Mahan
+TR: Manzil Manzil – oyuncu kadrosunda olan kişi – Mera Bharat Mahan.
+
+EN: Marsco - country - royaume-uni
+TR: Marsco – ülke – Birleşik Krallık.
+
+EN: fairview, dutchess county, new york - located in the administrative territorial entity - Sheriff of Dutchess County, New York
+TR: Fairview, Duchess Bölgesi, New York – yer aldığı idari bölge – Dutchess Eyaleti Şerifi, New York.
+
+EN: eagle lake (tulare county) - located in protected area - Sequoia Park
+TR: Eagle Lake (Tulare İlçesi) – bulunduğu koruma alanı – Sequoia Parkı.
+
+EN: aparajita ghosh das - place of birth - Bumbai
+TR: Aparajita Ghosh Das – doğduğu şehir – Mumbai.
+
+EN: castelveccana - shares border with - Cittiglio
+TR: Castelseccana – sınırı olan yerleşim yeri – Cittiglio.
+
+EN: gerry davey - given name - John (personal name)
+TR: Gerry Davey – isim belirtisi – John (kişisel ad).
+
+EN: lynn lowry - occupation - hollywood producer
+TR: Lynn Lowry – meslek – Hollywood yapımcısı.
+
+EN: abry jones - position played on team / speciality - Nose guard (American football)
+TR: Abry Jones – takımda oynadığı pozisyon / uzmanlık alanı– Burun koruyucusu (Amerikan futbolu).
+
+EN: stitarac - located in the administrative territorial entity - knjaževac
+TR: Stitaraç – bulunduğu idari bölge – Kladovo.
+
+EN: rybaki, masovian voivodeship - country - PolanD
+TR: Rybakı, Mazovia Voyvodalığı - ülke - Polonya
+
+EN: charlottenborg slot - location - k-town, copenhagen
+TR: Charlottenburg Şatosu - konum - Kopenhag'daki K-şehir
+
+EN: Morbio Superiore (Ticino) - country - Confédération suisse
+TR: Morbio Superiore (Tiçinolu) - ülke - İsviçre Konfederasyonu
+
+EN: Diadegma akoense - instance of - Taxxon
+TR: Diadegma Akoense - türü - Taksonomik grup
+
+EN: chư pưh district - located in the administrative territorial entity - gia lai province
+TR: Chữ Puh ilçesi – yerel idari bölgede bulunur – Gia Lai ili.
+
+EN: natalie nicholson - participant of - 2010 Vancouver Games
+TR: Natalie Nicholson – etkinliğe katıldı – 2010 Vancouver Oyunları.
+
+EN: chubut - head of government - mario das neves
+TR: Chubut – hükümet başı – Mario Das Neves.
+
+EN: Bob Brown (rugby league) - member of sports team - Salford City Reds
+TR: Bob Brown (ragbi ligi) – spor takımının üyesidir – Salford Şehir Kırmızı Takımı.
+
+EN: bob wallace (footballer born 1948) - occupation - Association football player
+TR: Bob Wallace (futbolcu, 1948 doğumlu) – meslek – Futbol oyuncusu
+
+EN: demolishor - present in work - Refute (Transformers)
+TR: Demolishör – yer aldığı eser – Refuse (Transformer'lar)
+
+EN: doctors hospital of laredo - country - united stated
+TR: Doctors Hospital of Laredo – ülke – Amerika Birleşik Devletleri
+
+EN: eliminator boat duel - genre - Racing Game
+TR: Eliminator Boat Duel – tür – Yarış Oyunu
+
+EN: Warnbro - country - Commonwealth Australia
+TR: Warnbro - ülke - Avustralya Federasyonu
+
+EN: acapandié - member of sports team - js saint-pierroise
+TR: acapandië - spor takımının üyesi - js saint-pierroise
+
+EN: kxo (am) - country - united stated
+TR: kxo (am) - ülke - Amerika Birleşik Devletleri
+
+EN: frantisek kundert - given name - František
+TR: Frantısek Kundert - isim - František
+
+EN: russell cuddihey - instance of - Huamn
+TR: russel cuddihey - bir örneğidir - Human
+
+EN: doreen amata - participant of - 2015 african games
+TR: doreen amata - 2015 Afrika Oyunları'nda yer alan kişi
+
+EN: 7046 reshetnev - site of astronomical discovery - CrAO
+TR: 7046 reshetnev - astronomik keşfin gerçekleştiği yer - CrAO
+
+EN: WorldVistA - instance of - 501-C3
+TR: WorldVista - bir örneğidir - 501-C3
+
+EN: St. Nicholas Park - located in the administrative territorial entity - Manhattan (New York)
+TR: St. Nicholas Parkı – yer aldığı idari bölge – Manhattan (New York).
+
+EN: commune of vyanda - country - Burundians
+TR: Vyanda komünü – ülke – Burundi'li kişiler.
+
+EN: p. suis - Gram staining - Gram negative bacterium
+TR: p.suis – gram boyama – Gram negatif bakteri.
+
+EN: carolina mantleslug - taxon rank - cohesion species
+TR: Carolina manto salyangozu – taksonomik seviye – birleşim türü.
+
+EN: i like the way (the kissing game) - performer - HiFive
+TR: (The Kissing Game) – yapımcısı – HiFive
+
+EN: Waveburner - developer - @Apple
+TR: Waveburner – geliştirici – @Apple
+
+EN: clarence t. "curly" edwinson - given name - Clarence (first name)
+TR: Clarence T. “Curly” Edwinson – verilen ad – Clarence (isim)
+
+EN: alfred mineo - manner of death - Human killing human
+TR: Alfred Mineo – ölüm nedeni – İnsan tarafından öldürülme
+
+EN: in the pound, near breaktime - instance of - Short fiction
+TR: in the pound, near breaktime – örnek olarak – Kısa öykü türünde eserler.
+
+EN: Bob T. Regola - member of political party - republican party us
+TR: Bob T. Regula – siyasi partiye üye – Cumhuriyetçi Parti ABD.
+
+EN: thomas e. drew - award received - Bronze Stars
+TR: Thomas E. Drew – aldığı ödül – Bronz Yıldızlar.
+
+EN: ferreira, william - member of sports team - cs emelec
+TR: Ferreira, William – spor takımının bir parçası – CS Emekleç.
+
+EN: hythe united f.c. - country - royaume-uni
+TR: Hythe United F.C. – ülke – Royaume-Uni
+
+EN: Sheila Meiring - educated at - Police invasion of UCT campus
+TR: Sheila Meering – eğitim gördü – Polis'ın Üniversite kampüsüne müdahalesi
+
+EN: charlie van renen - instance of - Huamn
+TR: Charlie Van Renen – örneği– Human
+
+EN: Hooker Township, NE - country - united stated
+TR: Hooker County, Nebraska eyaleti – ülke – Amerika Birleşik Devletleri
+
+EN: Glass Rose - platform - ps2 slim
+TR: Glass Rose – platformda – PS2 Slim
+
+EN: Santiago de la Ribera - located in the administrative territorial entity - Campo de Cartagena
+TR: Santiago de la Ribera – içinde bulunduğu idari bölge– Campo de Cartagena
+
+EN: racji dvor mansion - instance of - Manor house
+TR: Racji Dwor malikanesi – örneği – Malikane
+
+EN: Owilana - country - Srilanka
+TR: Owilana – ülke – Sri Lanka
+
+EN: Ricardo Felipe dos Santos Esteves - instance of - Huamn
+TR: Ricardo Felipe dos Santos Esteves - bir örneğidir - İnsan.
+
+EN: Episcopal Bishop of Central Florida - instance of - Archdiocesan
+TR: Episkopal Orta Floridya Piskoposu - bir türüdür - Başpiskoposluk.
+
+EN: charles de choiseul-praslin - occupation - Politician
+TR: Charles De Choiseul-Praslin - mesleği - Politikacı.
+
+EN: Maëlle Guilbaud - place of birth - Saint-Barthelemy (French West Indies)
+TR: Maelle Guilbaud - doğduğu yer - Saint-Barthélemy (Fransız Batı Hindistanları).
+
+EN: Kampfar - location of formation - Fredrikstad
+TR: Kampfar - oluş yeri - Fredrikstad
+
+EN: jaws unleashed - distribution format - CD-ROM
+TR: Jaws Unleashed - dağıtım biçimi - CD-ROM
+
+EN: beaumarchais, l'insolent - genre - Comedy drama
+TR: Beaumarchais, L’Insolente - türü - Komedi dramı
+
+EN: Red Caps (TV series) - country - P:I
+TR: Kırmızı Şapkalar (dizi) - ülke - P:I
+
+EN: Tranby House - located in the administrative territorial entity - au-wa
+TR: Tranby House - içinde bulunduğu idari bölge - au-wa
+
+EN: kwadwo asamoah - member of sports team - AC Bellinzona
+TR: Kwaddo Asamoha - spor takımının üyesi - AC Bellinzona
+
+EN: Tarek Amer - member of sports team - haras el-hodood club
+TR: Tarek Emer - spor takımının üyesi - Haras El-Hodoud Kulübü
+
+EN: Jami Miscik - educated at - Pepperdine
+TR: Jami Miscik - eğitimini aldı - Pepperdine
+
+EN: alexander scammel wadsworth - instance of - Huamn
+TR: Alexander Scammell Wadworth - türü - İnsan
+
+EN: Ronald Muldrow - genre - jazz music
+TR: Ronald Muldrow - tür - caz müziği
+
+EN: jan frederiksen - member of sports team - Feyenoord Rotterdam
+TR: Jan Frederikshen - spor takımının üyesi - Feyenoord Rotterdam
+
+EN: Yeung Chi Lun - position played on team / speciality - Right-half
+TR: Yeung Chi Lun - ekipteki rolü / uzmanlığı - Sağ kanat oyuncusu
+
+EN: john g. milton - work location - wash. d.c.
+TR: John G. Milton - çalışma yeri - Wash. D.C.
+
+EN: otoli - located in the administrative territorial entity - karnatakam
+TR: Otoli - şu idari bölgede bulunuyor - Karnataka
+
+EN: francis obikwelu - instance of - Huamn
+TR: Francis Obikwelu - bir örneği - Human
+
+EN: rutkowszczyzna - located in time zone - UTC2
+TR: Rutkowszczyzna - belirli zaman diliminde konumlanıyor - UTC2
+
+EN: koritsi prama - performer - Despina Vandi
+TR: Koritsa Prama – sahne aldığı sanatçı – Despina Vandi
+
+EN: aleksandr brudno/comments - educated at - Federal State Educational Institution of Higher Professional Education M.V.Lomonosov Moscow State University
+TR: Aleksandr Brudno / yorumlar – eğitim gördüğü kurum – Moskova Devlet Üniversitesi (M.V. Lomonosova adındaki Yüksek Mesleki Eğitim Kurumu)
+
+EN: Tom Barker (designer) - given name - Tom (given name)
+TR: Tom Barker (tasarımcı) – verilen isim – Tom (verilen isim)
+
+EN: marjorie (jori) elizabeth thurston smith - instance of - Huamn
+TR: Marjorie (Jori) Elizabeth Thurston Smith – bir örneği – İnsan
+
+EN: hazel75/paula milne - given name - Paula (given name)
+TR: hazel75/paula milne - isim - Paula (isim).
+
+EN: Nora Herlihy - educated at - University College, Dublin
+TR: Nora Herlihy - eğitim gördüğü yer - İrlanda Trinity Üniversitesi.
+
+EN: Jacques Chailley - native language - french vocabulary
+TR: Jacques Chailley - ana dil - fransızca kelime dağarcığı.
+
+EN: three's company's friends, the ropers - instance of - TV series
+TR: "Three’s Company" karakterleri, The Ropers - türü - televizyon dizisi.
+
+EN: e tulving - member of - American Academy of Arts and Sciences
+TR: E Tulvıng - üye olduğu kurum - Amerikan Sanatlar ve Bilimler Akademisi
+
+EN: Akihiro Nakamura - member of sports team - Woodlands Wellington FC
+TR: Akihito Nakamurа - spor takımının oyuncusu - Woodlands Wellington FK
+
+EN: 5th arrondissement of Marseille - shares border with - 4th arrondissement of marseille
+TR: Marsilya'nın 5. bölgesi - sınırı olan yerleşim yeri - Marsilya'nın 4. bölgesi
+
+EN: high service water tower and reservoir - country - united stated
+TR: Yüksek hizmetli su kulesi ve depolama alanı - ülke - Amerika Birleşik Devletleri
+
+EN: mchomolo - located in the administrative territorial entity - Songea
+TR: mchomolo - içinde bulunduğu idari bölge - Songea
+
+EN: Batman arkham city (comic book) - instance of - miniseries (comics)
+TR: Batman Arkham Şehri (çizgi roman) - bir örneği - mini dizi (çizelme).
+
+EN: gerbathodes - instance of - Taxxon
+TR: gerbathodes - bir örneği - Taxxon
+
+EN: Mont Lozère - located in the administrative territorial entity - lozère, france
+TR: Mont Lozère - içinde bulunduğu yerel yönetim alanı - Lozère, Fransa.
+
+EN: Enseköy, Zonguldak - instance of - koy
+TR: Enseköy, Zonguldak - bir yerleşim yeri türü - köy
+
+EN: thomas rothman - religion - judaism
+TR: Thomas Rothman - din - museviizm
+
+EN: Borek, Namysłów County - located in time zone - UTC2
+TR: Borek, Namyslov Bölgesi - zaman diliminde bulunuyor - UTC2
+
+EN: Across the Tracks - country of origin - united stated
+TR: Across the Tracks - yapım ülkesi - Amerika Birleşik Devletleri
+
+EN: kestenbaum, lawrence - occupation - attorney
+TR: Kastenbaum Lawrence - meslek - avukat
+
+EN: Not in Our Genes: Biology, Ideology and Human Nature - language of work or name - Number of words in English
+TR: "Genetik Kodumuzda Değil": Biyoloji, İdeoloji ve İnsan Doğası - eserin dili veya adı - İngilizce'deki kelime sayısı
+
+EN: Transwede - instance of - airline
+TR: Transwede - örneği - havayolu şirketi
+
+EN: cilija - industry - specialty shop
+TR: Cilija - sektör - özel mağaza
+
+EN: ranchhodbhai dave - place of birth - Mahudha
+TR: Ranchhodhbhai Dave – doğduğu yer – Mahudha
+
+EN: sr-284 (ca) - terminus location - chilcoot-vinton, ca
+TR: SR-284 (CA) – terminüs konumu – Chilcott-Vinton, CA
+
+EN: Albert L. Rendlen - educated at - lsa student judiciary
+TR: Albert L. Rendlen – eğitim gördüğü kurum – LSA öğrenci yargı organı
+
+EN: fachhochschule düsseldorf - headquarters location - un/locode:dedus
+TR: Fachhochschule Düsseldorf – genel merkez adresi – UN/LOCODE:DEDUS
+
+EN: víctor bereciartúa - instance of - Huamn
+TR: Víctor Bereciartúa - üye_olduğu - Human
+
+EN: Catta Donkersloot - country of citizenship - Reino Hulandes
+TR: Catta Donkersloot - vatandaşlık ülkesi - Hollanda Krallığı
+
+EN: John Lee (academic) - country of citizenship - Commonwealth Australia
+TR: John Lee (akademisyen) - vatandaşlık ülkesi - Avustralya Birliği
+
+EN: piney creek south site - country - united stated
+TR: Piney Creek Güney alanı - ülke - Amerika Birleşik Devletleri
+
+EN: Attawapiskat River - located in the administrative territorial entity - Ontario Canada
+TR: Attawapiskat Nehri - içinde bulunduğu idari bölgesi - Ontario Kanada
+
+EN: callionymus guentheri - instance of - Taxxon
+TR: Callianthus guentherii - bir örneği olup - Takson
+
+EN: constantin dobrogeanu-gherea - place of death - bucharest, bucharest
+TR: Constantin Dobrogeaņu-Gherea - ölüm yeri - Bükreş, Bükreş
+
+EN: adrian di marco - given name - adrian (first name)
+TR: Adrian Di Marco - verilen isim - Adrian (isim)
+
+EN: soongsil university - country - S. Koreans
+TR: Soongsıl Üniversitesi - ülke - Güney Koreliler
+
+EN: Black Friday (2007 film) - genre - Crime Film
+TR: Kara Cuma (2007 filmi) - tür - Suç Filmi
+
+EN: Sasha Knezev - country of citizenship - united stated
+TR: Sasha Knezev - vatandaşlık ülkesi - Amerika Birleşik Devletleri
+
+EN: Bobby Amaru - discography - Ladies and Gentlemen Hit Pack
+TR: Bobby Amaru - diskografisi - "Ladies and Gentlemen" Toplama Paketi
+
+EN: Developers Diversified - headquarters location - un/locode:usbeq
+TR: Developers Diversited – merkez lokasyonu – un/locode:usbeq
+
+EN: le bernadin - instance of - Carinderia
+TR: le bernardin – türü– Carinderia
+
+EN: františek mysliveček - member of sports team - slavia prague
+TR: Frantíšek Myslivèçek – spor takımının üyesi – Slavia Prag
+
+EN: patuakhali sadar upazila - located in the administrative territorial entity - Patuakhali Thana
+TR: Patuakhali Sadar Upzilla – şu idari bölgenin içinde bulunuyor – Patuakhali Thana
+
+EN: Minna Nieminen - place of birth - Lappeenranta, Finland
+TR: Minna Nieminen - doğum yeri - Lappeenranta, Finlandiya
+
+EN: Ron Sandler - given name - Ron (first name)
+TR: Ron Sandler - verilen ad - Ron (isim)
+
+EN: małgorzata śmieszek - given name - Małgorzata (given name)
+TR: małgorzata ś Mieszek - verilen ad - Małgorzeta (verilen isim)
+
+EN: Lime Valley Covered Bridge - instance of - langqiao
+TR: Lime Valley Kapalı Köprü - örneği - langqiao
+
+EN: Overseas Region of Guadeloupe - capital - basse-terre, guadeloupe
+TR: Guadalupe'ya bağlı bölge - başkent - Basse-Terre, Guadeloupe
+
+EN: Chris Gorsek - occupation - Politician
+TR: Chris Gorsek - meslek - Politikacı
+
+EN: dwayne white - place of birth - Phila.
+TR: Dwayne White - doğum yeri - Phila.
+
+EN: courthouse plaza historic district - instance of - National Register of Historic Places District
+TR: Courthouse Plaza tarihi bölgesu - örneği - Ulusal Tarihi Yerler Bölgesi
+
+EN: olszaki - located in time zone - rome time
+TR: olszaki - içinde bulunduğu zaman dilimi - roma saati
+
+EN: nephrops challengeri - parent taxon - metanephrops
+TR: nephrops challengeri - üst taksonu - metanephrops
+
+EN: one jug of wine, two vessels - performer - the hate yourself change
+TR: bir şişe şarap, iki kap - icra eden - "the hate myself change"
+
+EN: German presidential election, 2004 - participant - Dr. Harald Ringstorff
+TR: Almanya federal seçimleri, 2004 - katılımcı - Dr. Harald Ringstorff
+
+EN: dance of the vampires (musical) - author - ives, david
+TR: dance of the vampires (musical) – yazar – ives, david
+
+EN: scott dunlap (golfer) - place of birth - pittsburgh, pa.
+TR: scott dunlap (golf oyuncusu) – doğduğu yer – pittsburgh, pa.
+
+EN: Nedjeljni Jutarnji - language of work or name - iso 639:hr
+TR: nedjeljni jutarnji – eser veya isim dili – iso 639:hr
+
+EN: the sphinx (1933 film) - film editor - doane harrison
+TR: the sphinx (1933 filmi) – kurgu yönetmeni – doane harrison
+
+EN: Guntersburg - heritage designation - German site of cultural heritage
+TR: Guntersburg - miras göstergesi - Alman kültürel mirası alanı
+
+EN: Pria River (Crasna) - instance of - riverine
+TR: Pria Nehri (Crasna) - tür örneği - nehir tipi
+
+EN: joao baptista da silva leitao de almeida, visconde garrett - place of birth - Geography of Porto
+TR: Joao Baptista Da Silva Leitao De Almeida, Visconte Garrett - doğduğu yer - Portekiz'in Coğrafyası
+
+EN: Abdul Salam al-Majali - family name - المجالي
+TR: Abdul Salam Al-Majli - soyadı - المجالي
+
+EN: Calling Bulldog Drummond - cast member - david tomlinson
+TR: Calling Bulldog Drummond - oyuncu kadrosunda olan kişi - David Tomlinson
+
+EN: De Drie Beste Dingen in het Leven - country of origin - Netherlands (European territory)
+TR: De Drie Beste Dingen in het Leven – yapım ülkesi - Hollanda (Avrupa bölgesi)
+
+EN: vadim kirillov - occupation - Association football player
+TR: Vadim Kirilov - meslek - Futbolcu
+
+EN: Academy Award for Best Costume - country - united stated
+TR: En İyi Kostüm Tasarımı Akademi Ödülü - ülke - Amerika Birleşik Devletleri
+
+EN: dexter shouse - place of birth - terre haute, indiana/comments
+TR: Dexter Shouse - doğduğu yer - Terre Haute, Indiana / yorumlar
+
+EN: This is the Ice Age - record label - virgin records
+TR: Buz Çağı - plak şirketi - Virgin Records
+
+EN: goleniów commune - shares border with - Gmina Osina
+TR: Goleniów belediyesi - sınır komşusu - Gmina Osina
+
+EN: Nancy Schaefer - manner of death - Committed Suicide
+TR: Nancy Schaefer - ölüm nedeni - İntihar etti.
+
+EN: Sitkinak Island (Alaska) - instance of - Islands
+TR: Sitkinak Adası (Alaska) – örnek olarak – Adalar.
+
+EN: nové heřminovy - shares border with - Milotice nad Opavou
+TR: nove herminove – sınırdan komşu olduğu yer– Milotice nad Opavou.
+
+EN: f e smith - place of birth - county borough of birkenhead
+TR: F E Smith – doğduğu yer – Birkenhead'ın ilçe belediyesi.
+
+EN: 2009 caf champions league first round - sport - futebol
+TR: 2009 CAF Şampiyonlar Ligi ilk turu – spor dalı – futbol.
+
+EN: baron lilley - place of birth - hayes, kent
+TR: Baron Lilley – doğduğu yer – Hayes, Kent
+
+EN: Dawood Ali Najafi - educated at - balochistan university
+TR: Dawood Ali Najafi – mezun olduğu kurum – Balochistan Üniversitesi
+
+EN: queen's nut - taxon rank - cohesion species
+TR: Queen’s Nut – taksonomik seviye – Cohesion türü
+
+EN: abdul harris nasution - award received - Star of the Republic of Indonesia
+TR: Abdul Harris Nasution – aldığı ödül – Endonezya Cumhuriyeti Yıldızı
+
+EN: max anarchy - instance of - Leisure software
+TR: Max Anarchy – bir türü – Boş Zaman Yazılımı
+
+EN: Paul Robinson (AFL player) - member of sports team - jonathan willard
+TR: Paul Robinson (Avustralya Futbol Ligi oyuncusu) – spor takımının üyesi – Jonathan Willard
+
+EN: steven adams (footballer) - member of sports team - Aduana Stars F.C.
+TR: Steven Adams (futbolcu) – spor takımının üyesi – Aduana Stars FC
+
+EN: 24 cm theodor kanone - eisenbahnlafette - conflict - second world war
+TR: 24 santimetre Theodor Kanyonu – demiryolu platformu – ilgili olduğu olay – İkinci Dünya Savaşı
+
+EN: western province of zambia - country - Culture of Zambia
+TR: Zambiya'nın batı kesimindeki il - ülke - Zambya Kültürü
+
+EN: amadis de gaule (j.c. bach) - different from - amadis (lully)
+TR: Amadis de Gaule (J.C. Bach) - farklıdır - Amadis (Lully)
+
+EN: Mjuzik - followed by - closure: live
+TR: Mjuzik - takip edildiği şey - Closure: Live
+
+EN: shep messing - educated at - Harvard geography
+TR: Shep Messing - eğitim gördüğü yer - Harvard coğrafyası
+
+EN: Friedrich Koch (general) - given name - friedrich (first name)
+TR: Friedrich Koch (generel) - verilen ad - Friederich (isim).
+
+EN: mikhail baranov - conflict - second world war
+TR: Mikhail Baranov - çatışma - İkinci Dünya Savaşı.
+
+EN: charles dutton, 7th baron sherborne - given name - Charles (given name)
+TR: Charles Dutton, 7. Sherburne Kontu – verilen isim - Charles (ad).
+
+EN: kalidas (1931 film) - genre - movie musical
+TR: Kalidasa (1931 filmi) - türü - müzikal film.
+
+EN: Hugh Moffat (footballer) - place of birth - congleton, cheshire
+TR: Hugh Moffat (futbolcu) - doğduğu yer - Congleton, Cheshire
+
+EN: Ryan Foltz - country of citizenship - united stated
+TR: Ryan Foltz - vatandaşlık ülkesi - Amerika Birleşik Devletleri
+
+EN: object 120 - developer - UZTM
+TR: nesne 120 - geliştirici - UZTM
+
+EN: Junior Pericles Pinto Catarina - instance of - Huamn
+TR: Junior Pericles Pinto Catarina - örneği - Human
+
+EN: Eoin McKiernan - instance of - Huamn
+TR: Eoin McKiernan - bir örneğidir - İnsan
+
+EN: 2002 len european championships - sport - swimming (sport)
+TR: 2002 Avrupa şampiyonaları - spor dalı - yüzme
+
+EN: Ingeborg of Denmark (1175–1238) - instance of - Huamn
+TR: Danimarka Prensesi Ingeborg (1175–1238) - bir örneğidir - İnsan
+
+EN: drs. suyadi - instance of - Huamn
+TR: drs. Suyadı - bir örneğidir - İnsan
+
+EN: sally m. benson - educated at - Columbia University in the City of New York
+TR: Sally M. Benson - mezun olduğu kurum - Columbia Üniversitesi Şehri, New York
+
+EN: princess marie of hesse and by rhine (1874–1878) - given name - maria (first name)
+TR: Hesse ve Rhein Prensesi Marie (1874–1878) - verilen ad - Maria (isim)
+
+EN: Cattle queen of montana - cast member - rodd redwing
+TR: Montana'nın çiftlik kraliçesi - oyuncu kadrosunda olan kişi - Rodd Redwing
+
+EN: sven fredrik stray - member of sports team - Odds BK
+TR: Sven Fredrik Stray - spor takımının üyesi - Odds BK
+
+EN: sing (joe raposo song) - genre - PopStar
+TR: Joe Raposo şarkısı "sing" – türü – PopStar
+
+EN: Rhynocoris iracundus - taxon rank - cohesion species
+TR: *Rhynocoris iracundus* – taksonomik seviye – birleşim türü
+
+EN: paul staveley o'duffy - genre - synthpop
+TR: Paul Staveley O’Duffy – türü – senthopop
+
+EN: windemere, tx - country - united stated
+TR: Windermere, TX – ülke – Amerika Birleşik Devletleri
+
