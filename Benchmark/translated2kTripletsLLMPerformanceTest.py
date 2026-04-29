@@ -304,8 +304,9 @@ def run_evaluation(
     model: str = "google/gemini-flash-1.5",
     sample_size: int = None,
     output_file: str = None,
-    delay: float = 0.1,
+    delay: float = 0.3,
     workers: int = 5,
+    source: str = None,
 ):
     api_key = os.getenv("OPENROUTHER_API_KEY")
     if not api_key:
@@ -316,8 +317,17 @@ def run_evaluation(
 
     kepler = parse_triples(KEPLER_FILE)
     codex  = parse_triples(CODEX_FILE)
-    all_triples = kepler + codex
-    print(f"Kepler: {len(kepler)} | Codex: {len(codex)} | Toplam: {len(all_triples)}")
+
+    source_filter = (source or "").lower() or None
+    if source_filter == "codex":
+        all_triples = codex
+        print(f"Codex: {len(codex)} triple (Kepler atlandı)")
+    elif source_filter == "kepler":
+        all_triples = kepler
+        print(f"Kepler: {len(kepler)} triple (Codex atlandı)")
+    else:
+        all_triples = kepler + codex
+        print(f"Kepler: {len(kepler)} | Codex: {len(codex)} | Toplam: {len(all_triples)}")
 
     if sample_size:
         random.seed(42)
@@ -431,6 +441,7 @@ if __name__ == "__main__":
     parser.add_argument("--output", default=None)
     parser.add_argument("--delay",   type=float, default=0.1)
     parser.add_argument("--workers", type=int,   default=5)
+    parser.add_argument("--source",  choices=["codex", "kepler"], default=None)
     args = parser.parse_args()
 
     run_evaluation(
@@ -439,4 +450,5 @@ if __name__ == "__main__":
         output_file=args.output,
         delay=args.delay,
         workers=args.workers,
+        source=args.source,
     )
