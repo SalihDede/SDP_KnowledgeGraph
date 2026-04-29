@@ -35,6 +35,15 @@ def load_results() -> pd.DataFrame:
 
     rows = []
     for path in files:
+        # Dosya judge edilmiş mi tespit et
+        fname = os.path.basename(path)
+        is_judged = "_judged_" in fname
+        # Judge model adını dosya isminden çıkar (sadece görsel etiket için)
+        judge_tag = ""
+        if is_judged:
+            judge_part = fname.split("_judged_", 1)[1].replace(".jsonl", "")
+            judge_tag = f" [judge: {judge_part}]"
+
         with open(path, "r", encoding="utf-8") as f:
             for line in f:
                 line = line.strip()
@@ -43,10 +52,13 @@ def load_results() -> pd.DataFrame:
                 rec = json.loads(line)
                 if rec.get("type") == "metadata":
                     continue
+                # Judge edilmiş dosyada model ismine etiket ekle
+                if is_judged:
+                    rec["model"] = rec["model"] + judge_tag
                 rows.append(rec)
 
     df = pd.DataFrame(rows)
-    df = df[df["score"] >= 0]  # belirsiz cevapları dışla
+    df = df[df["score"] >= 0]
     df["task_label"] = df["task"].map(TASK_LABELS)
     return df
 
