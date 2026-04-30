@@ -1,0 +1,2303 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/S%C4%B1rada%C4%9F)",
+    "metin": "And Dağları , dünyanın en uzun sıradağlar zinciridir.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Sıradağlar",
+      "ilişki": "sahiptir",
+      "uç": "dünyanın en uzun sıradağlar zinciri",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Kordilleri&action=edit&redlink=1)",
+    "metin": "Andlar ve Asya'da Kordilleri , sismik ve volkanik etkinlikler gösteren bölgelerdir.",
+    "triple": {
+      "baş": "Andlar",
+      "baş_tipi": "Bölge",
+      "ilişki": "gösterir",
+      "uç": "sismik etkinlik",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Kordilleri&action=edit&redlink=1)",
+    "metin": "Andlar ve Asya'da Kordilleri , sismik ve volkanik etkinlikler gösteren bölgelerdir.",
+    "triple": {
+      "baş": "Andlar",
+      "baş_tipi": "Bölge",
+      "ilişki": "gösterir",
+      "uç": "volkanik etkinlik",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Kordilleri&action=edit&redlink=1)",
+    "metin": "Andlar ve Asya'da Kordilleri , sismik ve volkanik etkinlikler gösteren bölgelerdir.",
+    "triple": {
+      "baş": "Asya'da Kordilleri",
+      "baş_tipi": "Bölge",
+      "ilişki": "gösterir",
+      "uç": "sismik etkinlik",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Kordilleri&action=edit&redlink=1)",
+    "metin": "Andlar ve Asya'da Kordilleri , sismik ve volkanik etkinlikler gösteren bölgelerdir.",
+    "triple": {
+      "baş": "Asya'da Kordilleri",
+      "baş_tipi": "Bölge",
+      "ilişki": "gösterir",
+      "uç": "volkanik etkinlik",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Aconcagua)",
+    "metin": "Andların en yüksek dağı 6.962 m ile Arjantin ve Şili sınırındaki Aconcagua 'dır.",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "yüksekliği",
+      "uç": "6.962 m",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Aconcagua)",
+    "metin": "Andların en yüksek dağı 6.962 m ile Arjantin ve Şili sınırındaki Aconcagua 'dır.",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunduğu sınır",
+      "uç": "Arjantin ve Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Aconcagua)",
+    "metin": "Yan yana birçok silsileden oluşmakla birlikte Cordillera Oriental (Doğu Sıradağları) ve Cordillera Occidental (Batı Sıradağları) olmak üzere iki büyük silsileden oluşmaktadır.",
+    "triple": {
+      "baş": "Andlar",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "oluşur",
+      "uç": "Cordillera Oriental",
+      "uç_tipi": "Dağ Sırası"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Aconcagua)",
+    "metin": "Yan yana birçok silsileden oluşmakla birlikte Cordillera Oriental (Doğu Sıradağları) ve Cordillera Occidental (Batı Sıradağları) olmak üzere iki büyük silsileden oluşmaktadır.",
+    "triple": {
+      "baş": "Andlar",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "oluşur",
+      "uç": "Cordillera Occidental",
+      "uç_tipi": "Dağ Sırası"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ojos_del_Salado)",
+    "metin": "Yeryüzünün en yüksek volkanları bu bölgede bulunur.",
+    "triple": {
+      "baş": "Volkan",
+      "baş_tipi": "Özellik",
+      "ilişki": "bulunur",
+      "uç": "Bölge",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ojos_del_Salado)",
+    "metin": "6.795 m yükseklikteki Monte Pissis (Arjantin) ve 6.891 m yükseklikte Ojos del Salado (Şili) bunlardan bazılarıdır.",
+    "triple": {
+      "baş": "Monte Pissis",
+      "baş_tipi": "Volkan",
+      "ilişki": "yüksekliği",
+      "uç": "6.795 m",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ojos_del_Salado)",
+    "metin": "6.795 m yükseklikteki Monte Pissis (Arjantin) ve 6.891 m yükseklikte Ojos del Salado (Şili) bunlardan bazılarıdır.",
+    "triple": {
+      "baş": "Monte Pissis",
+      "baş_tipi": "Volkan",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ojos_del_Salado)",
+    "metin": "6.795 m yükseklikteki Monte Pissis (Arjantin) ve 6.891 m yükseklikte Ojos del Salado (Şili) bunlardan bazılarıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Volkan",
+      "ilişki": "yüksekliği",
+      "uç": "6.891 m",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ojos_del_Salado)",
+    "metin": "6.795 m yükseklikteki Monte Pissis (Arjantin) ve 6.891 m yükseklikte Ojos del Salado (Şili) bunlardan bazılarıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Volkan",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Monte_Pissis)",
+    "metin": "Yeryüzünün en yüksek volkanları bu bölgede bulunur.",
+    "triple": {
+      "baş": "Volkan",
+      "baş_tipi": "Özellik",
+      "ilişki": "bulunur",
+      "uç": "Bölge",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Monte_Pissis)",
+    "metin": "6.795 m yükseklikteki Monte Pissis (Arjantin) ve 6.891 m yükseklikte Ojos del Salado (Şili) bunlardan bazılarıdır.",
+    "triple": {
+      "baş": "Monte Pissis",
+      "baş_tipi": "Volkan",
+      "ilişki": "yüksekliği",
+      "uç": "6.795 m",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Monte_Pissis)",
+    "metin": "6.795 m yükseklikteki Monte Pissis (Arjantin) ve 6.891 m yükseklikte Ojos del Salado (Şili) bunlardan bazılarıdır.",
+    "triple": {
+      "baş": "Monte Pissis",
+      "baş_tipi": "Volkan",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Monte_Pissis)",
+    "metin": "6.795 m yükseklikteki Monte Pissis (Arjantin) ve 6.891 m yükseklikte Ojos del Salado (Şili) bunlardan bazılarıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Volkan",
+      "ilişki": "yüksekliği",
+      "uç": "6.891 m",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Monte_Pissis)",
+    "metin": "6.795 m yükseklikteki Monte Pissis (Arjantin) ve 6.891 m yükseklikte Ojos del Salado (Şili) bunlardan bazılarıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Volkan",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "uzanır",
+      "uç": "Güney Amerika'nın Batı Kıyısı",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "başlar",
+      "uç": "Venezuela",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "sona erer",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "sona erer",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "sona erer",
+      "uç": "Patagonya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagonya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "uzanır",
+      "uç": "Güney Amerika Batı Kıyısı",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "başlar",
+      "uç": "Venezuela",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "sona erer",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "sona erer",
+      "uç": "Şili Patagonya Toprakları",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "uzanır",
+      "uç": "Güney Amerika'nın Batı Kıyısı",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "başlar",
+      "uç": "Venezuela",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "sona erer",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "sona erer",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "sona erer",
+      "uç": "Patagonya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bolivya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "uzanır",
+      "uç": "Güney Amerika'nın batı kıyısı",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "başlar",
+      "uç": "Venezuela",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "sona erer",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "sona erer",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ekvador)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "uzanır",
+      "uç": "Güney Amerika Batı Kıyısı",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "başlar",
+      "uç": "Venezuela",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "sona erer",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "sona erer",
+      "uç": "Şili Patagonya Toprakları",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "uzanır",
+      "uç": "Güney Amerika'nın batı kıyısı",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "başlar",
+      "uç": "Venezuela",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "sona erer",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "sona erer",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Venezuela)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "uzanır",
+      "uç": "Güney Amerika'nın Batı Kıyısı",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "başlar",
+      "uç": "Venezuela",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "sona erer",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "sona erer",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kolombiya)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "uzanır",
+      "uç": "Güney Amerika'nın Batı Kıyısı",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "başlar",
+      "uç": "Venezuela",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "geçer",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "sona erer",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "sona erer",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Patagonya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Patagonya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Peru)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Kuru-kış subtropikal yayla iklimi ( Cwb ), çoğunlukla Orta Amerika , Güney Amerika , Afrika ve Asya'nın tropik bölgelerindeki yaylalarda veya subtropik bölgelerde bulunan bir iklim türüdür.",
+    "triple": {
+      "baş": "Kuru-kış subtropikal yayla iklimi",
+      "baş_tipi": "İklim Türü",
+      "ilişki": "bulunur",
+      "uç": "Orta Amerika",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Kuru-kış subtropikal yayla iklimi ( Cwb ), çoğunlukla Orta Amerika , Güney Amerika , Afrika ve Asya'nın tropik bölgelerindeki yaylalarda veya subtropik bölgelerde bulunan bir iklim türüdür.",
+    "triple": {
+      "baş": "Kuru-kış subtropikal yayla iklimi",
+      "baş_tipi": "İklim Türü",
+      "ilişki": "bulunur",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Kuru-kış subtropikal yayla iklimi ( Cwb ), çoğunlukla Orta Amerika , Güney Amerika , Afrika ve Asya'nın tropik bölgelerindeki yaylalarda veya subtropik bölgelerde bulunan bir iklim türüdür.",
+    "triple": {
+      "baş": "Kuru-kış subtropikal yayla iklimi",
+      "baş_tipi": "İklim Türü",
+      "ilişki": "bulunur",
+      "uç": "Afrika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Kuru-kış subtropikal yayla iklimi ( Cwb ), çoğunlukla Orta Amerika , Güney Amerika , Afrika ve Asya'nın tropik bölgelerindeki yaylalarda veya subtropik bölgelerde bulunan bir iklim türüdür.",
+    "triple": {
+      "baş": "Kuru-kış subtropikal yayla iklimi",
+      "baş_tipi": "İklim Türü",
+      "ilişki": "bulunur",
+      "uç": "Asya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Asya",
+      "baş_tipi": "Kıta",
+      "ilişki": "kaplıdır",
+      "uç": "dağlar",
+      "uç_tipi": "Coğrafi Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Kuzey Amerika",
+      "baş_tipi": "Kıta",
+      "ilişki": "kaplıdır",
+      "uç": "dağlar",
+      "uç_tipi": "Coğrafi Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Avrupa",
+      "baş_tipi": "Kıta",
+      "ilişki": "kaplıdır",
+      "uç": "dağlar",
+      "uç_tipi": "Coğrafi Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Güney Amerika",
+      "baş_tipi": "Kıta",
+      "ilişki": "kaplıdır",
+      "uç": "dağlar",
+      "uç_tipi": "Coğrafi Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Avustralya",
+      "baş_tipi": "Kıta",
+      "ilişki": "kaplıdır",
+      "uç": "dağlar",
+      "uç_tipi": "Coğrafi Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Afrika",
+      "baş_tipi": "Kıta",
+      "ilişki": "kaplıdır",
+      "uç": "dağlar",
+      "uç_tipi": "Coğrafi Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Avustralya ve Güney Amerika 'nın Antarktika 'dan ayrılmasıyla, dev kıta Gondvana 'nın son kalıntısı da tarihe karışır.",
+    "triple": {
+      "baş": "Avustralya",
+      "baş_tipi": "Kıta",
+      "ilişki": "ayrılır",
+      "uç": "Antarktika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Avustralya ve Güney Amerika 'nın Antarktika 'dan ayrılmasıyla, dev kıta Gondvana 'nın son kalıntısı da tarihe karışır.",
+    "triple": {
+      "baş": "Güney Amerika",
+      "baş_tipi": "Kıta",
+      "ilişki": "ayrılır",
+      "uç": "Antarktika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Avustralya ve Güney Amerika 'nın Antarktika 'dan ayrılmasıyla, dev kıta Gondvana 'nın son kalıntısı da tarihe karışır.",
+    "triple": {
+      "baş": "Gondvana",
+      "baş_tipi": "Kıta",
+      "ilişki": "son kalıntısıdır",
+      "uç": "Avustralya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Avustralya ve Güney Amerika 'nın Antarktika 'dan ayrılmasıyla, dev kıta Gondvana 'nın son kalıntısı da tarihe karışır.",
+    "triple": {
+      "baş": "Gondvana",
+      "baş_tipi": "Kıta",
+      "ilişki": "son kalıntısıdır",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Oluşum",
+      "ilişki": "uzanır",
+      "uç": "Güney Amerika Batı Kıyısı",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Oluşum",
+      "ilişki": "başlar",
+      "uç": "Venezuela",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Oluşum",
+      "ilişki": "devam eder",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Oluşum",
+      "ilişki": "devam eder",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Oluşum",
+      "ilişki": "devam eder",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Oluşum",
+      "ilişki": "devam eder",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Oluşum",
+      "ilişki": "sona erer",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Oluşum",
+      "ilişki": "sona erer",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Oluşum",
+      "ilişki": "kapsar",
+      "uç": "Patagonya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  }
+]

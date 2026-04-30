@@ -1,0 +1,4630 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Hollywood ( [hˈɔlˌiwʊːd] ), Kaliforniya'nın Los Angeles merkezi bölgesinde, çoğunlukla Los Angeles şehri içinde yer alan bir mahalledir .",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "yer alır",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Hollywood ( [hˈɔlˌiwʊːd] ), Kaliforniya'nın Los Angeles merkezi bölgesinde, çoğunlukla Los Angeles şehri içinde yer alan bir mahalledir .",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "yer alır",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Hollywood ( [hˈɔlˌiwʊːd] ), Kaliforniya'nın Los Angeles merkezi bölgesinde, çoğunlukla Los Angeles şehri içinde yer alan bir mahalledir .",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "türü",
+      "uç": "Mahalle",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles_County)",
+    "metin": "Hollywood ( [hˈɔlˌiwʊːd] ), Kaliforniya'nın Los Angeles merkezi bölgesinde, çoğunlukla Los Angeles şehri içinde yer alan bir mahalledir .",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "yer alır",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles_County)",
+    "metin": "Hollywood ( [hˈɔlˌiwʊːd] ), Kaliforniya'nın Los Angeles merkezi bölgesinde, çoğunlukla Los Angeles şehri içinde yer alan bir mahalledir .",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "yer alır",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles_County)",
+    "metin": "Hollywood ( [hˈɔlˌiwʊːd] ), Kaliforniya'nın Los Angeles merkezi bölgesinde, çoğunlukla Los Angeles şehri içinde yer alan bir mahalledir .",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "türü",
+      "uç": "Mahalle",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Universal_Pictures)",
+    "metin": "Kuzey Işıkları Universal Pictures 'ın Alaska kızak köpeğini anlatan Balto filminde de yer aldı.",
+    "triple": {
+      "baş": "Kuzey Işıkları",
+      "baş_tipi": "Özellik",
+      "ilişki": "yer aldı",
+      "uç": "Balto",
+      "uç_tipi": "Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Universal_Pictures)",
+    "metin": "Kuzey Işıkları Universal Pictures 'ın Alaska kızak köpeğini anlatan Balto filminde de yer aldı.",
+    "triple": {
+      "baş": "Universal Pictures",
+      "baş_tipi": "Şirket",
+      "ilişki": "yapımcısı",
+      "uç": "Balto",
+      "uç_tipi": "Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Universal_Pictures)",
+    "metin": "Adı, ABD film endüstrisi ve onunla ilişkili insanlar için kısa bir referans haline geldi.",
+    "triple": {
+      "baş": "ABD film endüstrisi",
+      "baş_tipi": "Endüstri",
+      "ilişki": "referans haline geldi",
+      "uç": "Adı",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Universal_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Şirket",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Universal_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Walt Disney Studios",
+      "baş_tipi": "Şirket",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Universal_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Paramount Pictures",
+      "baş_tipi": "Şirket",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Universal_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Warner Bros.",
+      "baş_tipi": "Şirket",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Universal_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Universal Pictures",
+      "baş_tipi": "Şirket",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mec%C3%A2z-%C4%B1_m%C3%BCrsel)",
+    "metin": "Adı, ABD film endüstrisi ve onunla ilişkili insanlar için kısa bir referans haline geldi.",
+    "triple": {
+      "baş": "ABD film endüstrisi",
+      "baş_tipi": "Endüstri",
+      "ilişki": "ilişkili insanlar",
+      "uç": "Adı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mec%C3%A2z-%C4%B1_m%C3%BCrsel)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mec%C3%A2z-%C4%B1_m%C3%BCrsel)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Walt Disney Studios",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mec%C3%A2z-%C4%B1_m%C3%BCrsel)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Paramount Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mec%C3%A2z-%C4%B1_m%C3%BCrsel)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Warner Bros.",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mec%C3%A2z-%C4%B1_m%C3%BCrsel)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Universal Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mec%C3%A2z-%C4%B1_m%C3%BCrsel)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mec%C3%A2z-%C4%B1_m%C3%BCrsel)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Walt Disney Studios",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mec%C3%A2z-%C4%B1_m%C3%BCrsel)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Paramount Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mec%C3%A2z-%C4%B1_m%C3%BCrsel)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Warner Bros.",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mec%C3%A2z-%C4%B1_m%C3%BCrsel)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Universal Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Paramount_Pictures)",
+    "metin": "Adı, ABD film endüstrisi ve onunla ilişkili insanlar için kısa bir referans haline geldi.",
+    "triple": {
+      "baş": "ABD film endüstrisi",
+      "baş_tipi": "Endüstri",
+      "ilişki": "ilişkili insanlar",
+      "uç": "Adı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Paramount_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Paramount_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Walt Disney Studios",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Paramount_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Paramount Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Paramount_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Warner Bros.",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Paramount_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Universal Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Paramount_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Paramount_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Walt Disney Studios",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Paramount_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Paramount Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Paramount_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Warner Bros.",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Paramount_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Universal Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Thomas_Edison)",
+    "metin": "1876'da Alexander Graham Bell ilk ABD telefon patentini aldı.",
+    "triple": {
+      "baş": "Alexander Graham Bell",
+      "baş_tipi": "Kişi",
+      "ilişki": "patentini aldı",
+      "uç": "ilk ABD telefon patenti",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Thomas_Edison)",
+    "metin": "Thomas Edison 'un araştırma laboratuvarı , türünün ilk örneği olan fonografı , ilk uzun ömürlü ampulü ve ilk uygulanabilir film kamerasını geliştirdi.",
+    "triple": {
+      "baş": "Thomas Edison'un araştırma laboratuvarı",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "geliştirdi",
+      "uç": "fonograf",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Thomas_Edison)",
+    "metin": "Thomas Edison 'un araştırma laboratuvarı , türünün ilk örneği olan fonografı , ilk uzun ömürlü ampulü ve ilk uygulanabilir film kamerasını geliştirdi.",
+    "triple": {
+      "baş": "Thomas Edison'un araştırma laboratuvarı",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "geliştirdi",
+      "uç": "ilk uzun ömürlü ampul",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Thomas_Edison)",
+    "metin": "Thomas Edison 'un araştırma laboratuvarı , türünün ilk örneği olan fonografı , ilk uzun ömürlü ampulü ve ilk uygulanabilir film kamerasını geliştirdi.",
+    "triple": {
+      "baş": "Thomas Edison'un araştırma laboratuvarı",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "geliştirdi",
+      "uç": "ilk uygulanabilir film kamerası",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Thomas_Edison)",
+    "metin": "Bu dönemden önce büyük ölçüde tarıma dayalı olan eyalet ekonomisi 19. yüzyıl ortalarından itibaren endüstri temelinde yeniden yapılanmaya gitti.",
+    "triple": {
+      "baş": "Eyalet ekonomisi",
+      "baş_tipi": "Ekonomi",
+      "ilişki": "yeniden yapılanmaya gitti",
+      "uç": "endüstri temelinde",
+      "uç_tipi": "Endeks"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Thomas_Edison)",
+    "metin": "Tekstil ve ipek endüstrilerini Thomas Edison 'un icatlarını üreten imalat sanayi takip etti.",
+    "triple": {
+      "baş": "İmalat sanayi",
+      "baş_tipi": "Endüstri",
+      "ilişki": "takip etti",
+      "uç": "Tekstil ve ipek endüstrileri",
+      "uç_tipi": "Endüstri"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Thomas_Edison)",
+    "metin": "Tekstil ve ipek endüstrilerini Thomas Edison 'un icatlarını üreten imalat sanayi takip etti.",
+    "triple": {
+      "baş": "Thomas Edison'un icatları",
+      "baş_tipi": "Özellik",
+      "ilişki": "üreten",
+      "uç": "imalat sanayi",
+      "uç_tipi": "Endüstri"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Thomas_Edison)",
+    "metin": "Bu dönemde ulaşım ağı lokomotif ve buharlı gemilerin de kullanılmaya başlanması ile önemli ölçüde geliştirildi.",
+    "triple": {
+      "baş": "Ulaşım ağı",
+      "baş_tipi": "Altyapı",
+      "ilişki": "geliştirildi",
+      "uç": "lokomotif ve buharlı gemilerin kullanımı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Thomas_Edison)",
+    "metin": "Ayrıca bir diğer nedeni de ünlü buluşçu Thomas Edison 'a sinema konusundaki patentlerinden dolayı ödeme yapmaktan kaçınmaktı.",
+    "triple": {
+      "baş": "Ödeme yapmaktan kaçınma",
+      "baş_tipi": "Eylem",
+      "ilişki": "nedeni",
+      "uç": "Thomas Edison",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Thomas_Edison)",
+    "metin": "Ayrıca bir diğer nedeni de ünlü buluşçu Thomas Edison 'a sinema konusundaki patentlerinden dolayı ödeme yapmaktan kaçınmaktı.",
+    "triple": {
+      "baş": "Thomas Edison",
+      "baş_tipi": "Kişi",
+      "ilişki": "sahip olduğu",
+      "uç": "sinema konusundaki patentler",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sony_Pictures)",
+    "metin": "Adı, ABD film endüstrisi ve onunla ilişkili insanlar için kısa bir referans haline geldi.",
+    "triple": {
+      "baş": "ABD film endüstrisi",
+      "baş_tipi": "Endüstri",
+      "ilişki": "ilişkili insanlar",
+      "uç": "Adı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sony_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sony_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Walt Disney Studios",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sony_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Paramount Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sony_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Warner Bros.",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sony_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Universal Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sony_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sony_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Walt Disney Studios",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sony_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Paramount Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sony_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Warner Bros.",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sony_Pictures)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Universal Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Walt_Disney_Studios_(b%C3%B6l%C3%BCm))",
+    "metin": "Adı, ABD film endüstrisi ve onunla ilişkili insanlar için kısa bir referans haline geldi.",
+    "triple": {
+      "baş": "ABD film endüstrisi",
+      "baş_tipi": "Endüstri",
+      "ilişki": "ilişkili insanlar",
+      "uç": "Adı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Walt_Disney_Studios_(b%C3%B6l%C3%BCm))",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Walt_Disney_Studios_(b%C3%B6l%C3%BCm))",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Walt Disney Studios",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Walt_Disney_Studios_(b%C3%B6l%C3%BCm))",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Paramount Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Walt_Disney_Studios_(b%C3%B6l%C3%BCm))",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Warner Bros.",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Walt_Disney_Studios_(b%C3%B6l%C3%BCm))",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Universal Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Walt_Disney_Studios_(b%C3%B6l%C3%BCm))",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Walt_Disney_Studios_(b%C3%B6l%C3%BCm))",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Walt Disney Studios",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Walt_Disney_Studios_(b%C3%B6l%C3%BCm))",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Paramount Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Walt_Disney_Studios_(b%C3%B6l%C3%BCm))",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Warner Bros.",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Walt_Disney_Studios_(b%C3%B6l%C3%BCm))",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Universal Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_sinemas%C4%B1)",
+    "metin": "Adı, ABD film endüstrisi ve onunla ilişkili insanlar için kısa bir referans haline geldi.",
+    "triple": {
+      "baş": "ABD film endüstrisi",
+      "baş_tipi": "Endüstri",
+      "ilişki": "ilişkili insanlar",
+      "uç": "Adı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_sinemas%C4%B1)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_sinemas%C4%B1)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Walt Disney Studios",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_sinemas%C4%B1)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Paramount Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_sinemas%C4%B1)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Warner Bros.",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_sinemas%C4%B1)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Universal Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_sinemas%C4%B1)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_sinemas%C4%B1)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Walt Disney Studios",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_sinemas%C4%B1)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Paramount Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_sinemas%C4%B1)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Warner Bros.",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_sinemas%C4%B1)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Universal Pictures",
+      "baş_tipi": "Film Stüdyosu",
+      "ilişki": "bulunmaktadır",
+      "uç": "Hollywood'un yakınında",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "Düzgün fiziği Warner Bros. şirketi yapımcılarından Hal Wallis 'in dikkatini çekti.",
+    "triple": {
+      "baş": "Hal Wallis",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı şirket",
+      "uç": "Warner Bros.",
+      "uç_tipi": "Şirket"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "1946'da Robert Siodmak 'ın yönettiği Katiller (The Killers) adlı filmiyle sinema oyunculuğuna başladı.",
+    "triple": {
+      "baş": "Robert Siodmak",
+      "baş_tipi": "Kişi",
+      "ilişki": "yönettiği film",
+      "uç": "Katiller (The Killers)",
+      "uç_tipi": "Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "EMI , A&M , Virgin , Warner Bros.",
+    "triple": {
+      "baş": "EMI",
+      "baş_tipi": "Şirket",
+      "ilişki": "benzer şirket",
+      "uç": "A&M",
+      "uç_tipi": "Şirket"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "EMI , A&M , Virgin , Warner Bros.",
+    "triple": {
+      "baş": "EMI",
+      "baş_tipi": "Şirket",
+      "ilişki": "benzer şirket",
+      "uç": "Virgin",
+      "uç_tipi": "Şirket"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "EMI , A&M , Virgin , Warner Bros.",
+    "triple": {
+      "baş": "EMI",
+      "baş_tipi": "Şirket",
+      "ilişki": "benzer şirket",
+      "uç": "Warner Bros.",
+      "uç_tipi": "Şirket"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Şirket",
+      "ilişki": "benzer şirket",
+      "uç": "Walt Disney Studios",
+      "uç_tipi": "Şirket"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Şirket",
+      "ilişki": "benzer şirket",
+      "uç": "Paramount Pictures",
+      "uç_tipi": "Şirket"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Şirket",
+      "ilişki": "benzer şirket",
+      "uç": "Warner Bros.",
+      "uç_tipi": "Şirket"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Şirket",
+      "ilişki": "benzer şirket",
+      "uç": "Universal Pictures",
+      "uç_tipi": "Şirket"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Sony Pictures",
+      "baş_tipi": "Şirket",
+      "ilişki": "bulunduğu yer",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Walt Disney Studios",
+      "baş_tipi": "Şirket",
+      "ilişki": "bulunduğu yer",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Paramount Pictures",
+      "baş_tipi": "Şirket",
+      "ilişki": "bulunduğu yer",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Warner Bros.",
+      "baş_tipi": "Şirket",
+      "ilişki": "bulunduğu yer",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Warner_Bros.)",
+    "metin": "Sony Pictures , Walt Disney Studios , Paramount Pictures , Warner Bros. ve Universal Pictures gibi birçok önemli film stüdyosu Hollywood'un yakınında veya Hollywood'da bulunmaktadır.",
+    "triple": {
+      "baş": "Universal Pictures",
+      "baş_tipi": "Şirket",
+      "ilişki": "bulunduğu yer",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Burt Lancaster (d. 2 Kasım 1913, New York – ö. 20 Ekim 1994, Los Angeles ), Oscar ödüllü Amerikalı sinema oyuncusu ve yapımcı .",
+    "triple": {
+      "baş": "Burt Lancaster",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğum yeri",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Burt Lancaster (d. 2 Kasım 1913, New York – ö. 20 Ekim 1994, Los Angeles ), Oscar ödüllü Amerikalı sinema oyuncusu ve yapımcı .",
+    "triple": {
+      "baş": "Burt Lancaster",
+      "baş_tipi": "Kişi",
+      "ilişki": "ölüm yeri",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Burt Lancaster (d. 2 Kasım 1913, New York – ö. 20 Ekim 1994, Los Angeles ), Oscar ödüllü Amerikalı sinema oyuncusu ve yapımcı .",
+    "triple": {
+      "baş": "Burt Lancaster",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "sinema oyuncusu",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Burt Lancaster (d. 2 Kasım 1913, New York – ö. 20 Ekim 1994, Los Angeles ), Oscar ödüllü Amerikalı sinema oyuncusu ve yapımcı .",
+    "triple": {
+      "baş": "Burt Lancaster",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "yapımcı",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Burt Lancaster (d. 2 Kasım 1913, New York – ö. 20 Ekim 1994, Los Angeles ), Oscar ödüllü Amerikalı sinema oyuncusu ve yapımcı .",
+    "triple": {
+      "baş": "Burt Lancaster",
+      "baş_tipi": "Kişi",
+      "ilişki": "ödül",
+      "uç": "Oscar",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "20 Ekim 1994 (80 yaşında) Los Angeles , Kaliforniya",
+    "triple": {
+      "baş": "Burt Lancaster",
+      "baş_tipi": "Kişi",
+      "ilişki": "ölüm tarihi",
+      "uç": "20 Ekim 1994",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "20 Ekim 1994 (80 yaşında) Los Angeles , Kaliforniya",
+    "triple": {
+      "baş": "Burt Lancaster",
+      "baş_tipi": "Kişi",
+      "ilişki": "ölüm yeri",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "20 Ekim 1994 (80 yaşında) Los Angeles , Kaliforniya",
+    "triple": {
+      "baş": "Burt Lancaster",
+      "baş_tipi": "Kişi",
+      "ilişki": "ölüm yaşı",
+      "uç": "80",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Los Angeles , Kaliforniya , ABD",
+    "triple": {
+      "baş": "Los Angeles",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunduğu eyalet",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Los Angeles , Kaliforniya , ABD",
+    "triple": {
+      "baş": "Los Angeles",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunduğu ülke",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Dokuz şehrin nüfusu bir milyonu ve dört şehrin ( New York , Los Angeles , Chicago ve Houston ) nüfusu da iki milyonu geçiyordu.",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "nüfus",
+      "uç": "iki milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Dokuz şehrin nüfusu bir milyonu ve dört şehrin ( New York , Los Angeles , Chicago ve Houston ) nüfusu da iki milyonu geçiyordu.",
+    "triple": {
+      "baş": "Los Angeles",
+      "baş_tipi": "Şehir",
+      "ilişki": "nüfus",
+      "uç": "iki milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Dokuz şehrin nüfusu bir milyonu ve dört şehrin ( New York , Los Angeles , Chicago ve Houston ) nüfusu da iki milyonu geçiyordu.",
+    "triple": {
+      "baş": "Chicago",
+      "baş_tipi": "Şehir",
+      "ilişki": "nüfus",
+      "uç": "iki milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Dokuz şehrin nüfusu bir milyonu ve dört şehrin ( New York , Los Angeles , Chicago ve Houston ) nüfusu da iki milyonu geçiyordu.",
+    "triple": {
+      "baş": "Houston",
+      "baş_tipi": "Şehir",
+      "ilişki": "nüfus",
+      "uç": "iki milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Los Angeles , Kaliforniya 'da bulunan Hollywood , sinema filmi üretiminde liderlerden biridir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunduğu şehir",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Los Angeles , Kaliforniya 'da bulunan Hollywood , sinema filmi üretiminde liderlerden biridir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "faaliyet alanı",
+      "uç": "sinema filmi üretimi",
+      "uç_tipi": "Faaliyet Alanı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Amerika'da sekiz megakent mevcuttur: New York (23.9 milyon), Meksiko (21.2 milyon), São Paulo (21.2 milyon), Los Angeles (18.8 milyon), Buenos Aires (15.6 milyon), Rio de Janeiro (13.0 milyon), Bogotá (10.4 milyon) ve Lima (10.1 milyon).",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "megakent nüfusu",
+      "uç": "23.9 milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Amerika'da sekiz megakent mevcuttur: New York (23.9 milyon), Meksiko (21.2 milyon), São Paulo (21.2 milyon), Los Angeles (18.8 milyon), Buenos Aires (15.6 milyon), Rio de Janeiro (13.0 milyon), Bogotá (10.4 milyon) ve Lima (10.1 milyon).",
+    "triple": {
+      "baş": "Meksiko",
+      "baş_tipi": "Şehir",
+      "ilişki": "megakent nüfusu",
+      "uç": "21.2 milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Amerika'da sekiz megakent mevcuttur: New York (23.9 milyon), Meksiko (21.2 milyon), São Paulo (21.2 milyon), Los Angeles (18.8 milyon), Buenos Aires (15.6 milyon), Rio de Janeiro (13.0 milyon), Bogotá (10.4 milyon) ve Lima (10.1 milyon).",
+    "triple": {
+      "baş": "São Paulo",
+      "baş_tipi": "Şehir",
+      "ilişki": "megakent nüfusu",
+      "uç": "21.2 milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Amerika'da sekiz megakent mevcuttur: New York (23.9 milyon), Meksiko (21.2 milyon), São Paulo (21.2 milyon), Los Angeles (18.8 milyon), Buenos Aires (15.6 milyon), Rio de Janeiro (13.0 milyon), Bogotá (10.4 milyon) ve Lima (10.1 milyon).",
+    "triple": {
+      "baş": "Los Angeles",
+      "baş_tipi": "Şehir",
+      "ilişki": "megakent nüfusu",
+      "uç": "18.8 milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Amerika'da sekiz megakent mevcuttur: New York (23.9 milyon), Meksiko (21.2 milyon), São Paulo (21.2 milyon), Los Angeles (18.8 milyon), Buenos Aires (15.6 milyon), Rio de Janeiro (13.0 milyon), Bogotá (10.4 milyon) ve Lima (10.1 milyon).",
+    "triple": {
+      "baş": "Buenos Aires",
+      "baş_tipi": "Şehir",
+      "ilişki": "megakent nüfusu",
+      "uç": "15.6 milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Amerika'da sekiz megakent mevcuttur: New York (23.9 milyon), Meksiko (21.2 milyon), São Paulo (21.2 milyon), Los Angeles (18.8 milyon), Buenos Aires (15.6 milyon), Rio de Janeiro (13.0 milyon), Bogotá (10.4 milyon) ve Lima (10.1 milyon).",
+    "triple": {
+      "baş": "Rio de Janeiro",
+      "baş_tipi": "Şehir",
+      "ilişki": "megakent nüfusu",
+      "uç": "13.0 milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Amerika'da sekiz megakent mevcuttur: New York (23.9 milyon), Meksiko (21.2 milyon), São Paulo (21.2 milyon), Los Angeles (18.8 milyon), Buenos Aires (15.6 milyon), Rio de Janeiro (13.0 milyon), Bogotá (10.4 milyon) ve Lima (10.1 milyon).",
+    "triple": {
+      "baş": "Bogotá",
+      "baş_tipi": "Şehir",
+      "ilişki": "megakent nüfusu",
+      "uç": "10.4 milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Amerika'da sekiz megakent mevcuttur: New York (23.9 milyon), Meksiko (21.2 milyon), São Paulo (21.2 milyon), Los Angeles (18.8 milyon), Buenos Aires (15.6 milyon), Rio de Janeiro (13.0 milyon), Bogotá (10.4 milyon) ve Lima (10.1 milyon).",
+    "triple": {
+      "baş": "Lima",
+      "baş_tipi": "Şehir",
+      "ilişki": "megakent nüfusu",
+      "uç": "10.1 milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Bugün Dalí'nin eserlerinin büyük çoğunluğu, Figueres'deki Dalí Tiyatro ve Müzesi'nde bulunur. Florida 'nın St. Petersburg kentindeki Salvador Dalí Müzesi, Madrid 'deki Reina Sofia Müzesi ve Los Angeles 'taki Salvador Dalí Galerisi de sanatçının yüzlerce eserini barındırır.",
+    "triple": {
+      "baş": "Salvador Dalí Galerisi",
+      "baş_tipi": "Müze",
+      "ilişki": "bulunduğu şehir",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "İspanyolca, ABD'nin büyük şehirleri olan Los Angeles , Miami , San Antonio , New York , Tampa , Las Vegas , San Francisco ve Chicago 'da yoğun etkiye sahiptir ve son on yılda Atlanta , Baltimore , Boston , Charlotte , Cleveland , Dallas , Detroit , Houston , Phoenix , Philadelphia , Richmond , Washington, DC ve Missouri gibi yerlerde de giderek genişleyerek ABD Nüfus İdaresi'ne göre 33.701.181 kişinin konuştuğu bir dil olmuştur.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "yoğun etkiye sahip olduğu şehir",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "İspanyolca, ABD'nin büyük şehirleri olan Los Angeles , Miami , San Antonio , New York , Tampa , Las Vegas , San Francisco ve Chicago 'da yoğun etkiye sahiptir ve son on yılda Atlanta , Baltimore , Boston , Charlotte , Cleveland , Dallas , Detroit , Houston , Phoenix , Philadelphia , Richmond , Washington, DC ve Missouri gibi yerlerde de giderek genişleyerek ABD Nüfus İdaresi'ne göre 33.701.181 kişinin konuştuğu bir dil olmuştur.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "yoğun etkiye sahip olduğu şehir",
+      "uç": "Miami",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "İspanyolca, ABD'nin büyük şehirleri olan Los Angeles , Miami , San Antonio , New York , Tampa , Las Vegas , San Francisco ve Chicago 'da yoğun etkiye sahiptir ve son on yılda Atlanta , Baltimore , Boston , Charlotte , Cleveland , Dallas , Detroit , Houston , Phoenix , Philadelphia , Richmond , Washington, DC ve Missouri gibi yerlerde de giderek genişleyerek ABD Nüfus İdaresi'ne göre 33.701.181 kişinin konuştuğu bir dil olmuştur.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "yoğun etkiye sahip olduğu şehir",
+      "uç": "San Antonio",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "İspanyolca, ABD'nin büyük şehirleri olan Los Angeles , Miami , San Antonio , New York , Tampa , Las Vegas , San Francisco ve Chicago 'da yoğun etkiye sahiptir ve son on yılda Atlanta , Baltimore , Boston , Charlotte , Cleveland , Dallas , Detroit , Houston , Phoenix , Philadelphia , Richmond , Washington, DC ve Missouri gibi yerlerde de giderek genişleyerek ABD Nüfus İdaresi'ne göre 33.701.181 kişinin konuştuğu bir dil olmuştur.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "yoğun etkiye sahip olduğu şehir",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "İspanyolca, ABD'nin büyük şehirleri olan Los Angeles , Miami , San Antonio , New York , Tampa , Las Vegas , San Francisco ve Chicago 'da yoğun etkiye sahiptir ve son on yılda Atlanta , Baltimore , Boston , Charlotte , Cleveland , Dallas , Detroit , Houston , Phoenix , Philadelphia , Richmond , Washington, DC ve Missouri gibi yerlerde de giderek genişleyerek ABD Nüfus İdaresi'ne göre 33.701.181 kişinin konuştuğu bir dil olmuştur.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "yoğun etkiye sahip olduğu şehir",
+      "uç": "Tampa",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "İspanyolca, ABD'nin büyük şehirleri olan Los Angeles , Miami , San Antonio , New York , Tampa , Las Vegas , San Francisco ve Chicago 'da yoğun etkiye sahiptir ve son on yılda Atlanta , Baltimore , Boston , Charlotte , Cleveland , Dallas , Detroit , Houston , Phoenix , Philadelphia , Richmond , Washington, DC ve Missouri gibi yerlerde de giderek genişleyerek ABD Nüfus İdaresi'ne göre 33.701.181 kişinin konuştuğu bir dil olmuştur.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "yoğun etkiye sahip olduğu şehir",
+      "uç": "Las Vegas",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "İspanyolca, ABD'nin büyük şehirleri olan Los Angeles , Miami , San Antonio , New York , Tampa , Las Vegas , San Francisco ve Chicago 'da yoğun etkiye sahiptir ve son on yılda Atlanta , Baltimore , Boston , Charlotte , Cleveland , Dallas , Detroit , Houston , Phoenix , Philadelphia , Richmond , Washington, DC ve Missouri gibi yerlerde de giderek genişleyerek ABD Nüfus İdaresi'ne göre 33.701.181 kişinin konuştuğu bir dil olmuştur.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "yoğun etkiye sahip olduğu şehir",
+      "uç": "San Francisco",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "İspanyolca, ABD'nin büyük şehirleri olan Los Angeles , Miami , San Antonio , New York , Tampa , Las Vegas , San Francisco ve Chicago 'da yoğun etkiye sahiptir ve son on yılda Atlanta , Baltimore , Boston , Charlotte , Cleveland , Dallas , Detroit , Houston , Phoenix , Philadelphia , Richmond , Washington, DC ve Missouri gibi yerlerde de giderek genişleyerek ABD Nüfus İdaresi'ne göre 33.701.181 kişinin konuştuğu bir dil olmuştur.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "yoğun etkiye sahip olduğu şehir",
+      "uç": "Chicago",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "İspanyolca, ABD'nin büyük şehirleri olan Los Angeles , Miami , San Antonio , New York , Tampa , Las Vegas , San Francisco ve Chicago 'da yoğun etkiye sahiptir ve son on yılda Atlanta , Baltimore , Boston , Charlotte , Cleveland , Dallas , Detroit , Houston , Phoenix , Philadelphia , Richmond , Washington, DC ve Missouri gibi yerlerde de giderek genişleyerek ABD Nüfus İdaresi'ne göre 33.701.181 kişinin konuştuğu bir dil olmuştur.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "konuşan sayısı",
+      "uç": "33.701.181",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "1985'te Los Angeles 'ta albümü Wherehouse Records adında bir dükkândan alan bir genç kızın annesi Kaliforniya başsavcısına ve Los Angeles savcılığına şikayet mektubu yazmıştı.",
+    "triple": {
+      "baş": "Genç kızın annesi",
+      "baş_tipi": "Kişi",
+      "ilişki": "şikayet yeri",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "1985'te Los Angeles 'ta albümü Wherehouse Records adında bir dükkândan alan bir genç kızın annesi Kaliforniya başsavcısına ve Los Angeles savcılığına şikayet mektubu yazmıştı.",
+    "triple": {
+      "baş": "Genç kızın annesi",
+      "baş_tipi": "Kişi",
+      "ilişki": "şikayet edilen yer",
+      "uç": "Kaliforniya başsavcısı",
+      "uç_tipi": "Kurum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "1985'te Los Angeles 'ta albümü Wherehouse Records adında bir dükkândan alan bir genç kızın annesi Kaliforniya başsavcısına ve Los Angeles savcılığına şikayet mektubu yazmıştı.",
+    "triple": {
+      "baş": "Genç kızın annesi",
+      "baş_tipi": "Kişi",
+      "ilişki": "şikayet edilen yer",
+      "uç": "Los Angeles savcılığı",
+      "uç_tipi": "Kurum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "X , 1977 yılında Los Angeles , Kaliforniya 'da kurulan punk rock grubu.",
+    "triple": {
+      "baş": "X",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "kuruluş yeri",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "X , 1977 yılında Los Angeles , Kaliforniya 'da kurulan punk rock grubu.",
+    "triple": {
+      "baş": "X",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "kuruluş yılı",
+      "uç": "1977",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "X , 1977 yılında Los Angeles , Kaliforniya 'da kurulan punk rock grubu.",
+    "triple": {
+      "baş": "X",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "müzik türü",
+      "uç": "punk rock",
+      "uç_tipi": "Müzik Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "1929'da Los Angeles 'ta verilmeye başlanan ödüller, yılda bir kez ve çoğunlukla şubat ayında düzenlenen törenle dağıtılır.",
+    "triple": {
+      "baş": "Ödüller",
+      "baş_tipi": "Ödül",
+      "ilişki": "verilmeye başlandığı yer",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "1929'da Los Angeles 'ta verilmeye başlanan ödüller, yılda bir kez ve çoğunlukla şubat ayında düzenlenen törenle dağıtılır.",
+    "triple": {
+      "baş": "Ödüller",
+      "baş_tipi": "Ödül",
+      "ilişki": "verilmeye başlandığı yıl",
+      "uç": "1929",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Bir filmin Oscar'a aday gösterilebilmesi için 40 dakikadan uzun olması, ABD - Los Angeles ili sınırları içinde en az bir sinemada paralı gösteriminin gerçekleşmiş olması ve gösterimin en az bir hafta sürmüş olması şartı aranıyor.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "Oscar adaylık şartı",
+      "uç": "40 dakikadan uzun olma",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Bir filmin Oscar'a aday gösterilebilmesi için 40 dakikadan uzun olması, ABD - Los Angeles ili sınırları içinde en az bir sinemada paralı gösteriminin gerçekleşmiş olması ve gösterimin en az bir hafta sürmüş olması şartı aranıyor.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "Oscar adaylık şartı",
+      "uç": "ABD - Los Angeles ili sınırları içinde en az bir sinemada paralı gösterim",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Bir filmin Oscar'a aday gösterilebilmesi için 40 dakikadan uzun olması, ABD - Los Angeles ili sınırları içinde en az bir sinemada paralı gösteriminin gerçekleşmiş olması ve gösterimin en az bir hafta sürmüş olması şartı aranıyor.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "Oscar adaylık şartı",
+      "uç": "gösterimin en az bir hafta sürmesi",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Los_Angeles)",
+    "metin": "Mahalle Los Angeles 'ın Hollywood mahallesinin haritası Koordinatlar: 34°06′06″K 118°19′36″B﻿ / ﻿34.10167°K 118.32667°B﻿ / 34.10167; -118.32667",
+    "triple": {
+      "baş": "Hollywood mahallesi",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunduğu şehir",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "The New York Times ya da kısaca The Times veya NY Times , New York 'ta yayımlanan Amerikan günlük gazetesi .",
+    "triple": {
+      "baş": "The New York Times",
+      "baş_tipi": "Gazete",
+      "ilişki": "yayınlandığı yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Burt Lancaster (d. 2 Kasım 1913, New York – ö. 20 Ekim 1994, Los Angeles ), Oscar ödüllü Amerikalı sinema oyuncusu ve yapımcı .",
+    "triple": {
+      "baş": "Burt Lancaster",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğum yeri",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Burt Lancaster (d. 2 Kasım 1913, New York – ö. 20 Ekim 1994, Los Angeles ), Oscar ödüllü Amerikalı sinema oyuncusu ve yapımcı .",
+    "triple": {
+      "baş": "Burt Lancaster",
+      "baş_tipi": "Kişi",
+      "ilişki": "ölüm yeri",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "2 Kasım 1913'te New York şehrinde İrlandalı bir ailede 'Burton Stephen Lancaster' adıyla dünyaya geldi.",
+    "triple": {
+      "baş": "Burton Stephen Lancaster",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğum yeri",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Askerlik hizmetinden sonra 32 yaşında New York 'a döndü.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "dönüş yeri",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Burton Stephen Lancaster 2 Kasım 1913 New York , Amerika Birleşik Devletleri",
+    "triple": {
+      "baş": "Burton Stephen Lancaster",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğum yeri",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Burton Stephen Lancaster 2 Kasım 1913 New York , Amerika Birleşik Devletleri",
+    "triple": {
+      "baş": "Burton Stephen Lancaster",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğum yeri",
+      "uç": "Amerika Birleşik Devletleri",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Bugünkü New York ve çevresi, İngilizlerden önce Hollandalılar tarafından Yeni Amsterdam ( Felemenkçe ): Nieuw Amsterdam) adıyla kuruldu, daha sonralarda Britanya İmparatorluğu ile karşı karşıya kalan Hollanda İmparatorluğu, Yeni Amsterdam'ı Surinam karşılığında Britanya İmparatorluğu'na devretti ve ismi İngilizler tarafından New York olarak değiştirildi.",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "kuruluş adı",
+      "uç": "Yeni Amsterdam",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Bugünkü New York ve çevresi, İngilizlerden önce Hollandalılar tarafından Yeni Amsterdam ( Felemenkçe ): Nieuw Amsterdam) adıyla kuruldu, daha sonralarda Britanya İmparatorluğu ile karşı karşıya kalan Hollanda İmparatorluğu, Yeni Amsterdam'ı Surinam karşılığında Britanya İmparatorluğu'na devretti ve ismi İngilizler tarafından New York olarak değiştirildi.",
+    "triple": {
+      "baş": "Yeni Amsterdam",
+      "baş_tipi": "Şehir",
+      "ilişki": "devredildiği imparatorluk",
+      "uç": "Britanya İmparatorluğu",
+      "uç_tipi": "İmparatorluk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Bugünkü New York ve çevresi, İngilizlerden önce Hollandalılar tarafından Yeni Amsterdam ( Felemenkçe ): Nieuw Amsterdam) adıyla kuruldu, daha sonralarda Britanya İmparatorluğu ile karşı karşıya kalan Hollanda İmparatorluğu, Yeni Amsterdam'ı Surinam karşılığında Britanya İmparatorluğu'na devretti ve ismi İngilizler tarafından New York olarak değiştirildi.",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "değiştirilmiş adı",
+      "uç": "Yeni Amsterdam",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Antik Roma ve Antik Yunan mimarisinde ve İtalyan Rönesansı döneminde yaygın olarak kullanılmıştır. New York 'ta yer alan Carnegie Hall 'da uygulanmış olup Almanya , İspanya , İtalya , Hindistan gibi birçok farklı medeniyetlerde rastlanabilmektedir.",
+    "triple": {
+      "baş": "Carnegie Hall",
+      "baş_tipi": "Yapı",
+      "ilişki": "konum",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Milano kadar önemli olmasa da Roma, 2009 Global Language Monitor 'e göre Milano , New York ve Paris 'ten sonra dünyadaki dördüncü en önemli moda merkezidir.",
+    "triple": {
+      "baş": "Roma",
+      "baş_tipi": "Şehir",
+      "ilişki": "moda merkezi sıralaması",
+      "uç": "dördüncü",
+      "uç_tipi": "Sıra"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "11. New York , ABD 12. Kahire , Mısır 13. Dakka , Bangladeş 14. Pekin , Çin 15. Kalküta , Hindistan 16. Bangkok , Tayland 17. Shenzhen , Çin 18. Moskova , Rusya 19. Buenos Aires , Arjantin 20. Lagos , Nijerya",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunduğu ülke",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "1944 (81-82 yaşında) New York , ABD",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunduğu ülke",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "11. New York , ABD 12. Kahire , Mısır 13. Dakka , Bangladeş 14. Pekin , Çin 15. Kalküta , Hindistan 16. Bangkok , Tayland 17. Shenzhen , Çin 18. Moskova , Rusya 19. Buenos Aires , Arjantin 20. Lagos , Nijerya",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunduğu ülke",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Budapeşte 'de Terör Müzesi'nin önünde, Las Vegas 'ta Main Street Station otelinin erkekler tuvaletinde, Brüksel 'de Avrupa Parlamentosu binasının önünde, Montréal 'de Dünya Ticaret Merkezi'nde, New York 'ta 53. caddede, Vatikan bahçesinde, Strazburg 'da Avrupa İnsan Hakları Mahkemesi binasının önünde duvarın parçalarına rastlanabilir.",
+    "triple": {
+      "baş": "Duvar parçaları",
+      "baş_tipi": "Nesne",
+      "ilişki": "bulunduğu yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "II. Dünya Savaşı 'nda propaganda aracı olarak kullanılan grafiti, günümüzdeki anlamıyla 1960'lı yıllarda Amerika'da, özellikle New York 'ta politik eylemciler ve sokak çeteleri, seslerini duyurmak ve kendi çetelerinin sınırlarını belirlemek için benimsenen bir yöntem olarak ortaya çıktı.",
+    "triple": {
+      "baş": "Grafiti",
+      "baş_tipi": "Sanat Akımı",
+      "ilişki": "ortaya çıktığı yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Kuzey-doğu bölgesinin ekonomik merkezlerinden biri olan şehir aynı zamanda Avrupa Konseyi ve Avrupa Parlamentosu 'nu barındırır. Cenevre ve New York 'la birlikte ülke başkentliği yapmadan uluslararası bir organizasyon merkezi barındıran az sayıda kentten biridir.",
+    "triple": {
+      "baş": "Şehir",
+      "baş_tipi": "Şehir",
+      "ilişki": "uluslararası organizasyon merkezi",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Dünyada Cenevre ve New York 'un yanı sıra, başkent olmadan uluslararası kurumlara ev sahipliği yapan üç kentten biridir.",
+    "triple": {
+      "baş": "Kent",
+      "baş_tipi": "Şehir",
+      "ilişki": "uluslararası kurumlara ev sahipliği yapan",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Ülkenin başkenti aynı zamanda federal bölgesi olan Washington, DC olup en kalabalık şehri ise New York 'tur.",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "en kalabalık şehir",
+      "uç": "Ülke",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Amerika Birleşik Devletleri'nin temelini oluşturacak olan On Üç Koloni ( New Hampshire , Massachusetts , Rhode Island , Connecticut , New York , New Jersey , Pensilvanya , Delaware , Maryland , Virjinya , Kuzey Karolina , Güney Karolina ve Georgia ) İngilizler tarafından denizaşırı sömürgeler olarak yönetildi.",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Koloni",
+      "ilişki": "temelini oluşturduğu",
+      "uç": "Amerika Birleşik Devletleri",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Dokuz şehrin nüfusu bir milyonu ve dört şehrin ( New York , Los Angeles , Chicago ve Houston ) nüfusu da iki milyonu geçiyordu.",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "nüfus büyüklüğü",
+      "uç": "iki milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "New York 40°43′K 74°00′B﻿ / ﻿40.717°K 74.000°B﻿ / 40.717; -74.000",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "coğrafi koordinatlar",
+      "uç": "40°43′K 74°00′B",
+      "uç_tipi": "Koordinat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Topluluk, \"Dünya'da Barış Egemen Olsun\" ( \"May Peace Prevail on Earth\" ) diyerek barışın dua aracılığıyla evrenselleşmesini hedeflemektedir. 1986 Uluslararası Barış Yılı itibarıyla faaliyetlerini uluslararası alanda yoğunlaştıran topluluk, 1988 yılında merkez binasını New York 'a taşıdı.",
+    "triple": {
+      "baş": "Topluluk",
+      "baş_tipi": "Organizasyon",
+      "ilişki": "merkez binası taşıma yeri",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "1990 yılında Birleşmiş Milletler 'e bağlı bir hükûmet dışı kuruluş (NGO) olarak kabul edilen topluluğun merkezi 2001'den bu yana New York 'ta bulunan Dünya Barış Sığınağı (World Peace Sanctuary) bünyesindedir.",
+    "triple": {
+      "baş": "Topluluk",
+      "baş_tipi": "Organizasyon",
+      "ilişki": "merkez",
+      "uç": "Dünya Barış Sığınağı",
+      "uç_tipi": "Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Bu kurumlar içerisinde New York 'taki Dış İlişkiler Konseyi ve Londra 'daki Chatham House bünyesindeki Kraliyet Uluslararası İlişkiler Enstitüsü mevcuttur.",
+    "triple": {
+      "baş": "Dış İlişkiler Konseyi",
+      "baş_tipi": "Kurum",
+      "ilişki": "konum",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "İngiliz Hükûmeti General Howe'un ağabeyi Amiral Lord Richard Howe 'u, kardeşinin güçlerine katılmak üzere büyük bir filoyla New York 'a gönderdi.",
+    "triple": {
+      "baş": "Amiral Lord Richard Howe",
+      "baş_tipi": "Kişi",
+      "ilişki": "gönderildiği yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Bundan bir müddet önce de Howe gemilerle New York 'tan Chesapeake 'e gitmiş ve karaya çıkar çıkmaz 11 Eylül'de Brandywine Creek'te Washington'ın kuvvetlerini yenmiş, 25 Eylül'de de Amerikan başkenti Philadelphia 'yı işgal etmişti.",
+    "triple": {
+      "baş": "Howe",
+      "baş_tipi": "Kişi",
+      "ilişki": "ayrıldığı yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Von Steuben'in katkıları, Washington'ın 28 Haziran 1778'de Monmouth'da ( New Jersey ) kazandığı başarıyla belli oldu. Bu çarpışmadan sonra kuzeydeki İngiliz kuvvetleri New York kenti ve çevresinde çakılıp kaldılar.",
+    "triple": {
+      "baş": "İngiliz kuvvetleri",
+      "baş_tipi": "Askeri Birlik",
+      "ilişki": "konum",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Antlaşmanın imzalanmasından 3 ay sonra, son İngiliz askerlerinin 25 Kasım 1783'te New York 'tan ayrılmasından sonra George Washington şehre girdi.",
+    "triple": {
+      "baş": "İngiliz askerleri",
+      "baş_tipi": "Askeri Birlik",
+      "ilişki": "ayrıldığı yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "11. New York , ABD 12. Kahire , Mısır 13. Dakka , Bangladeş 14. Pekin , Çin 15. Kalküta , Hindistan 16. Bangkok , Tayland 17. Shenzhen , Çin 18. Moskova , Rusya 19. Buenos Aires , Arjantin 20. Lagos , Nijerya",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunduğu ülke",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "İngiltere'de ve New York 'un kuzeyindeki Hollanda yerleşimlerinde olduğu gibi, tüm tarım arazilerine sahip olan ve bunları kiralayan zengin üst tabaka yoktu.",
+    "triple": {
+      "baş": "Zengin üst tabaka",
+      "baş_tipi": "Sosyal Sınıf",
+      "ilişki": "bulunmadığı yer",
+      "uç": "New York'un kuzeyi",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Birleşmiş Milletler'in genel merkezi New York şehrinde yer almakta olup, Cenevre , Nairobi , Viyana ve Lahey 'de de çeşitli ofisleri bulunmaktadır.",
+    "triple": {
+      "baş": "Birleşmiş Milletler",
+      "baş_tipi": "Organizasyon",
+      "ilişki": "genel merkez",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Genel Kurul, Birleşmiş Milletler genel merkezinin New York 'ta kurulmasına karar verdi.",
+    "triple": {
+      "baş": "Birleşmiş Milletler genel merkezi",
+      "baş_tipi": "Yapı",
+      "ilişki": "kurulma kararı yeri",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "New York , ABD",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunduğu ülke",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "10 Nisan 1927 New York",
+    "triple": {
+      "baş": "Olay",
+      "baş_tipi": "Olay",
+      "ilişki": "gerçekleştiği yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "15 Ocak 2010 (82 yaşında) New York",
+    "triple": {
+      "baş": "Olay",
+      "baş_tipi": "Olay",
+      "ilişki": "gerçekleştiği yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Phoebus Aaron Theodore Levene (25 Şubat 1869, Žagarė - 6 Eylül 1940, New York ), Litvanya asıllı Amerikalı biyokimyacıdır .",
+    "triple": {
+      "baş": "Phoebus Aaron Theodore Levene",
+      "baş_tipi": "Kişi",
+      "ilişki": "ölüm yeri",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "New York 'ta bir süre doktor olarak çalıştıktan sonra biyokimyasal araştırmalara katılmak için Columbia Üniversitesi 'ne yazıldı.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "1896 yılında New York State Hospital'in patoloji enstitüsine geçip Albrecht Kossel ve Emil Fischer gibi kimyagerler ile beraber çalıştı.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı yer",
+      "uç": "New York State Hospital",
+      "uç_tipi": "Kurum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "6 Eylül 1940 (71 yaşında) New York , ABD",
+    "triple": {
+      "baş": "Olay",
+      "baş_tipi": "Olay",
+      "ilişki": "gerçekleştiği yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "6 Eylül 1940 (71 yaşında) New York , ABD",
+    "triple": {
+      "baş": "Olay",
+      "baş_tipi": "Olay",
+      "ilişki": "gerçekleştiği ülke",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Amerika'da sekiz megakent mevcuttur: New York (23.9 milyon), Meksiko (21.2 milyon), São Paulo (21.2 milyon), Los Angeles (18.8 milyon), Buenos Aires (15.6 milyon), Rio de Janeiro (13.0 milyon), Bogotá (10.4 milyon) ve Lima (10.1 milyon).",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunduğu kıta",
+      "uç": "Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Şablon:Hayatı Amerika Birleşik Devletleri'nde 1881 yılında New York , Brooklyn 'de doğdu.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğum yeri",
+      "uç": "Brooklyn",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Şablon:Hayatı Amerika Birleşik Devletleri'nde 1881 yılında New York , Brooklyn 'de doğdu.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğum yeri",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Russell Alan Hulse (d. 28 Kasım 1950, New York ), Amerikalı fizikçidir . \" Kütleçekim çalışmaları için olanaklar yaratan bir buluş olan yeni bir tür pulsarı keşfi için\" tez danışmanı Joseph Hooton Taylor Jr. ile birlikte 1993 yılında Nobel Fizik Ödülü 'nü kazanmıştır.",
+    "triple": {
+      "baş": "Russell Alan Hulse",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğum yeri",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "28 Kasım 1950 ( 75 yaşında) New York , Amerika Birleşik Devletleri",
+    "triple": {
+      "baş": "Olay",
+      "baş_tipi": "Olay",
+      "ilişki": "gerçekleştiği yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "28 Kasım 1950 ( 75 yaşında) New York , Amerika Birleşik Devletleri",
+    "triple": {
+      "baş": "Olay",
+      "baş_tipi": "Olay",
+      "ilişki": "gerçekleştiği ülke",
+      "uç": "Amerika Birleşik Devletleri",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Ülkenin doğu kıyısının orta kesimlerindeki eyalet New York , Pensilvanya ve Delaware ile komşudur.",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Eyalet",
+      "ilişki": "komşu eyalet",
+      "uç": "Pensilvanya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Ülkenin doğu kıyısının orta kesimlerindeki eyalet New York , Pensilvanya ve Delaware ile komşudur.",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Eyalet",
+      "ilişki": "komşu eyalet",
+      "uç": "Delaware",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "New Jersey'in Boston , New York , Philadelphia , Baltimore ve Washington gibi büyük metropollere yakın oluşu 1950'lerden bugüne kadar hızlı bir büyümeyi de ateşleyen olgu oldu.",
+    "triple": {
+      "baş": "New Jersey",
+      "baş_tipi": "Eyalet",
+      "ilişki": "yakın olduğu metropol",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "New Jersey'in kuzey ve kuzeydoğusunda New York ; doğusunda Atlas Okyanusu ; güneyinde ve güneybatısında Delaware ; ve batısında Pensilvanya bulunuyor.",
+    "triple": {
+      "baş": "New Jersey",
+      "baş_tipi": "Eyalet",
+      "ilişki": "bulunduğu yön",
+      "uç": "New York",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Bu durumun açıklaması New Jersey'in New York ve Philadelphia 'nın banliyölerini kapsamasında yatar.",
+    "triple": {
+      "baş": "New Jersey",
+      "baş_tipi": "Eyalet",
+      "ilişki": "kapsadığı banliyöler",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Paralı bir yol olan New Jersey Otoyolu Delaware ile New York 'u ve genel olarak da doğu kıyısını bağlar.",
+    "triple": {
+      "baş": "New Jersey Otoyolu",
+      "baş_tipi": "Yol",
+      "ilişki": "bağladığı yer",
+      "uç": "New York",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Hedef, eşzamanlı olarak iki takım tarafından bulunmuştu: biri Antonino Zichichi önderliğinde CERN 'deki Proton Synchrotron 'u kullanmıştı, diğerleri ise Leon Max Lederman başkanlığında New York 'taki Brookhaven Ulusal Laboratuvarı'nın Alternating Gradient Synchrotron ( AGS ) hızlandırıcısını kullanarak başarmışlardı.",
+    "triple": {
+      "baş": "Leon Max Lederman",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı laboratuvar",
+      "uç": "Brookhaven Ulusal Laboratuvarı",
+      "uç_tipi": "Laboratuvar"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Brookhaven Ulusal Laboratuvarı'nın Alternating Gradient Synchrotron ( AGS ) hızlandırıcısını kullanarak başarmışlardı.",
+    "triple": {
+      "baş": "Brookhaven Ulusal Laboratuvarı",
+      "baş_tipi": "Laboratuvar",
+      "ilişki": "konum",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "1929'dan beri beraber yaşayan Dalí ve Gala, 1934'te bir devlet nikâhıyla evlendiler. (1958'de bir Katolik düğünüyle nikâh tazeleyeceklerdi.) Aynı yıl New York 'ta bir sergi açan Dalí, ABD 'de büyük sansasyon yarattı ve büyük üne kavuştu.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "sergi açtığı yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Dalí'nin 1965'te New York 'taki Rikers Island Hapishanesi'ne bağışladığı çarmıha gerilmiş İsa resmi, 1981'e kadar hapishanenin yemekhanesinde asılı durduktan sonra buradan alınarak hapishanenin lobisine asılmış, 2003'te ise kimliği belirsiz kişilerce lobiden çalınmıştır.",
+    "triple": {
+      "baş": "Çarmıha gerilmiş İsa resmi",
+      "baş_tipi": "Sanat Eseri",
+      "ilişki": "bağışlandığı yer",
+      "uç": "Rikers Island Hapishanesi",
+      "uç_tipi": "Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Rikers Island Hapishanesi",
+    "triple": {
+      "baş": "",
+      "baş_tipi": "Yapı",
+      "ilişki": "konum",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Savaştan kaçıp New York 'a sığınan diğer sanatçı arkadaşları Marcel Duchamp ve Marc Chagall ile birlikte soyut dışavurumculuk akımını geliştirdi.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "sığındığı yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Amerika Birleşik Devletleri 'nde resimleri ilk olarak New York 'ta 1936 yılında sergilendi.",
+    "triple": {
+      "baş": "Resimler",
+      "baş_tipi": "Sanat Eseri",
+      "ilişki": "sergilendiği yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Aynı yıl New York , The Museum of Modern Arts 'da ilk büyük retrospektif sergisini açtı.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "sergi açtığı yer",
+      "uç": "The Museum of Modern Arts",
+      "uç_tipi": "Müze"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "The Museum of Modern Arts",
+    "triple": {
+      "baş": "",
+      "baş_tipi": "Müze",
+      "ilişki": "konum",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Masson, Nazi rejiminden kaçmak için Varian Fry 'in yardımıyla, Marsilya 'dan bir gemiyle Fransa'nın Martinik adasına, oradan da Amerika Birleşik Devletleri 'ne gitmiştir. New York 'a varışından sonra Masson'un bagajlarını denetleyen gümrük görevlileri onun erotik çizimlerinden birkaçını buldular ve sanatçının gözleri önünde pornografik olarak nitelendirdikleri bu çizimleri yırttılar.",
+    "triple": {
+      "baş": "Masson",
+      "baş_tipi": "Kişi",
+      "ilişki": "vardığı yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "\" New York 'ta Bir Şair\" adlı eserinde Manhattan 'ı, cesede doymayan bir mezbahaya benzeten Lorca, \"hayvanların can çekişenler için öldürülüşünü\" kaleme alarak kafasındaki batı anlayışına yönelik eleştirel yaklaşımlarını göz önüne serer.",
+    "triple": {
+      "baş": "Lorca",
+      "baş_tipi": "Kişi",
+      "ilişki": "eserinde bahsettiği yer",
+      "uç": "Manhattan",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Aziz Patrik Katedrali, New York#2: ABD 'nin New York şehrinde yer alan bu dini yapı aynı zamanda New York eyaletinin Katolik Başpiskoposluk idare binasıdır.",
+    "triple": {
+      "baş": "Aziz Patrik Katedrali",
+      "baş_tipi": "Yapı",
+      "ilişki": "konum",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Aziz Patrik Katedrali, New York#2: ABD 'nin New York şehrinde yer alan bu dini yapı aynı zamanda New York eyaletinin Katolik Başpiskoposluk idare binasıdır.",
+    "triple": {
+      "baş": "Aziz Patrik Katedrali",
+      "baş_tipi": "Yapı",
+      "ilişki": "bulunduğu ülke",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Aziz Patrik Katedrali, New York#3: Aziz Patrik Katedrali New York şehrinin Manhattan adasında Beşinci Cadde üzerinde 50 ile 51. Caddeler arasında yer almaktadır.",
+    "triple": {
+      "baş": "Aziz Patrik Katedrali",
+      "baş_tipi": "Yapı",
+      "ilişki": "konum",
+      "uç": "Manhattan",
+      "uç_tipi": "Ada"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Aziz Patrik Katedrali, New YorkCard#2: New York , ABD",
+    "triple": {
+      "baş": "Aziz Patrik Katedrali",
+      "baş_tipi": "Yapı",
+      "ilişki": "konum",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Aziz Patrik Katedrali, New YorkCard#2: New York , ABD",
+    "triple": {
+      "baş": "Aziz Patrik Katedrali",
+      "baş_tipi": "Yapı",
+      "ilişki": "bulunduğu ülke",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Saflar Yabancı Ülkede kitabının getirdiği ekonomik rahatlık sayesinde bir arkadaşının kız kardeşi olan ve ilk görüşte aşık olduğu Olivia Langdon ile 1870 yılı Şubat ayında New York 'ta evlendi.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "evlendiği yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "İspanyolca, ABD'nin büyük şehirleri olan Los Angeles , Miami , San Antonio , New York , Tampa , Las Vegas , San Francisco ve Chicago 'da yoğun etkiye sahiptir ve son on yılda Atlanta , Baltimore , Boston , Charlotte , Cleveland , Dallas , Detroit , Houston , Phoenix , Philadelphia , Richmond , Washington, DC ve Missouri gibi yerlerde de giderek genişleyerek ABD Nüfus İdaresi'ne göre 33.701.181 kişinin konuştuğu bir dil olmuştur.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "yoğun etkiye sahip olduğu şehir",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Daha sonraları da benzer binaların yapımları devam etti. Seagram Building ( New York ) bu serinin en önemli binası olarak kabul edilebilinir.",
+    "triple": {
+      "baş": "Seagram Building",
+      "baş_tipi": "Yapı",
+      "ilişki": "konum",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Ramones , 1974 yılında New York 'ta kurulmuş, 2263 konser vermiş, 14 stüdyo albümü olan Amerikalı bir punk rock grubudur.",
+    "triple": {
+      "baş": "Ramones",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "kurulduğu yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Forest Hills, Queens , New York , ABD",
+    "triple": {
+      "baş": "Forest Hills",
+      "baş_tipi": "Bölge",
+      "ilişki": "konum",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "Forest Hills, Queens , New York , ABD",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunduğu ülke",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/New_York)",
+    "metin": "ABD'de yapılan ilk filmler New York kenti civarında çekilmişti.",
+    "triple": {
+      "baş": "İlk filmler",
+      "baş_tipi": "Film",
+      "ilişki": "çekildiği yer",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Meksika 'da bu otoriterlik kısa süreliğine Birinci Meksika İmparatorluğu şeklinde ortaya çıktı.",
+    "triple": {
+      "baş": "Meksika",
+      "baş_tipi": "Ülke",
+      "ilişki": "sahipti",
+      "uç": "Birinci Meksika İmparatorluğu",
+      "uç_tipi": "Devlet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Peninsular Savaşı nedeniyle, Portekiz kraliyet mahkemesi 1808'de Brezilya'ya taşındı.",
+    "triple": {
+      "baş": "Portekiz kraliyet mahkemesi",
+      "baş_tipi": "Kurum",
+      "ilişki": "taşındı",
+      "uç": "Brezilya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Brezilya , 7 Eylül 1822'de bir monarşi olarak bağımsızlığını kazandı ve Brezilya İmparatorluğu 1889'a kadar sürdü.",
+    "triple": {
+      "baş": "Brezilya",
+      "baş_tipi": "Ülke",
+      "ilişki": "kazandı bağımsızlığını",
+      "uç": "monarşi",
+      "uç_tipi": "Yönetim Biçimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Brezilya , 7 Eylül 1822'de bir monarşi olarak bağımsızlığını kazandı ve Brezilya İmparatorluğu 1889'a kadar sürdü.",
+    "triple": {
+      "baş": "Brezilya İmparatorluğu",
+      "baş_tipi": "Devlet",
+      "ilişki": "sürdü",
+      "uç": "1889",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Bu ülkeleri Venezuela , Kolombiya , Ekvador ve Bolivya izleyecektir.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "izledi",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Bu ülkeleri Venezuela , Kolombiya , Ekvador ve Bolivya izleyecektir.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "izledi",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Bu ülkeleri Venezuela , Kolombiya , Ekvador ve Bolivya izleyecektir.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "izledi",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Bu ülkeleri Venezuela , Kolombiya , Ekvador ve Bolivya izleyecektir.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "izledi",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Meksika ise 1821 yılında bağımsızlığın ilan edecektir.",
+    "triple": {
+      "baş": "Meksika",
+      "baş_tipi": "Ülke",
+      "ilişki": "ilan etti bağımsızlığını",
+      "uç": "1821",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Santo Domingo da bağımsızlığını ilan edecek ve Bolivar'ın Büyük Kolombiya Cumhuriyetine katılmak istese de kölelerin kurduğu cumhuriyet olan Haiti tarafından ele geçirilecektir.",
+    "triple": {
+      "baş": "Santo Domingo",
+      "baş_tipi": "Yer",
+      "ilişki": "ele geçirildi",
+      "uç": "Haiti",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dünyanın çeşitli ülkelerinde Atatürk anısına anıtlar dikilmiştir.",
+    "triple": {
+      "baş": "Atatürk",
+      "baş_tipi": "Kişi",
+      "ilişki": "anısına dikildi anıt",
+      "uç": "Dünya",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Avustralya 'nın başkenti Canberra 'da, Guatemala 'nın aynı adı taşıyan başkentinde , Meksika 'nın başkenti Meksiko 'da, Venezuela 'nın başkenti Caracas 'ta, Küba 'nın başkenti Havana 'da, Şili 'nin başkenti Santiago 'da, Romanya 'nın başkenti Bükreş 'te, Kazakistan 'ın başkenti Astana 'da, Azerbaycan 'ın başkenti Bakü 'de, Kuzey Makedonya 'nın batısındaki Merkez Jupa köyünde, Japonya 'nın Kuşimoto kasabasında ve İsrail 'de Osmanlılardan kalma bir tren istasyonunun bulunduğu Beerşeba 'da bu anıtlardan bazıları görülebilmektedir.",
+    "triple": {
+      "baş": "Atatürk",
+      "baş_tipi": "Kişi",
+      "ilişki": "anıta sahip",
+      "uç": "Canberra",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Avustralya 'nın başkenti Canberra 'da, Guatemala 'nın aynı adı taşıyan başkentinde , Meksika 'nın başkenti Meksiko 'da, Venezuela 'nın başkenti Caracas 'ta, Küba 'nın başkenti Havana 'da, Şili 'nin başkenti Santiago 'da, Romanya 'nın başkenti Bükreş 'te, Kazakistan 'ın başkenti Astana 'da, Azerbaycan 'ın başkenti Bakü 'de, Kuzey Makedonya 'nın batısındaki Merkez Jupa köyünde, Japonya 'nın Kuşimoto kasabasında ve İsrail 'de Osmanlılardan kalma bir tren istasyonunun bulunduğu Beerşeba 'da bu anıtlardan bazıları görülebilmektedir.",
+    "triple": {
+      "baş": "Atatürk",
+      "baş_tipi": "Kişi",
+      "ilişki": "anıta sahip",
+      "uç": "Meksiko",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Avustralya 'nın başkenti Canberra 'da, Guatemala 'nın aynı adı taşıyan başkentinde , Meksika 'nın başkenti Meksiko 'da, Venezuela 'nın başkenti Caracas 'ta, Küba 'nın başkenti Havana 'da, Şili 'nin başkenti Santiago 'da, Romanya 'nın başkenti Bükreş 'te, Kazakistan 'ın başkenti Astana 'da, Azerbaycan 'ın başkenti Bakü 'de, Kuzey Makedonya 'nın batısındaki Merkez Jupa köyünde, Japonya 'nın Kuşimoto kasabasında ve İsrail 'de Osmanlılardan kalma bir tren istasyonunun bulunduğu Beerşeba 'da bu anıtlardan bazıları görülebilmektedir.",
+    "triple": {
+      "baş": "Atatürk",
+      "baş_tipi": "Kişi",
+      "ilişki": "anıta sahip",
+      "uç": "Caracas",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Avustralya 'nın başkenti Canberra 'da, Guatemala 'nın aynı adı taşıyan başkentinde , Meksika 'nın başkenti Meksiko 'da, Venezuela 'nın başkenti Caracas 'ta, Küba 'nın başkenti Havana 'da, Şili 'nin başkenti Santiago 'da, Romanya 'nın başkenti Bükreş 'te, Kazakistan 'ın başkenti Astana 'da, Azerbaycan 'ın başkenti Bakü 'de, Kuzey Makedonya 'nın batısındaki Merkez Jupa köyünde, Japonya 'nın Kuşimoto kasabasında ve İsrail 'de Osmanlılardan kalma bir tren istasyonunun bulunduğu Beerşeba 'da bu anıtlardan bazıları görülebilmektedir.",
+    "triple": {
+      "baş": "Atatürk",
+      "baş_tipi": "Kişi",
+      "ilişki": "anıta sahip",
+      "uç": "Havana",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Avustralya 'nın başkenti Canberra 'da, Guatemala 'nın aynı adı taşıyan başkentinde , Meksika 'nın başkenti Meksiko 'da, Venezuela 'nın başkenti Caracas 'ta, Küba 'nın başkenti Havana 'da, Şili 'nin başkenti Santiago 'da, Romanya 'nın başkenti Bükreş 'te, Kazakistan 'ın başkenti Astana 'da, Azerbaycan 'ın başkenti Bakü 'de, Kuzey Makedonya 'nın batısındaki Merkez Jupa köyünde, Japonya 'nın Kuşimoto kasabasında ve İsrail 'de Osmanlılardan kalma bir tren istasyonunun bulunduğu Beerşeba 'da bu anıtlardan bazıları görülebilmektedir.",
+    "triple": {
+      "baş": "Atatürk",
+      "baş_tipi": "Kişi",
+      "ilişki": "anıta sahip",
+      "uç": "Santiago",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Avustralya 'nın başkenti Canberra 'da, Guatemala 'nın aynı adı taşıyan başkentinde , Meksika 'nın başkenti Meksiko 'da, Venezuela 'nın başkenti Caracas 'ta, Küba 'nın başkenti Havana 'da, Şili 'nin başkenti Santiago 'da, Romanya 'nın başkenti Bükreş 'te, Kazakistan 'ın başkenti Astana 'da, Azerbaycan 'ın başkenti Bakü 'de, Kuzey Makedonya 'nın batısındaki Merkez Jupa köyünde, Japonya 'nın Kuşimoto kasabasında ve İsrail 'de Osmanlılardan kalma bir tren istasyonunun bulunduğu Beerşeba 'da bu anıtlardan bazıları görülebilmektedir.",
+    "triple": {
+      "baş": "Atatürk",
+      "baş_tipi": "Kişi",
+      "ilişki": "anıta sahip",
+      "uç": "Bükreş",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Avustralya 'nın başkenti Canberra 'da, Guatemala 'nın aynı adı taşıyan başkentinde , Meksika 'nın başkenti Meksiko 'da, Venezuela 'nın başkenti Caracas 'ta, Küba 'nın başkenti Havana 'da, Şili 'nin başkenti Santiago 'da, Romanya 'nın başkenti Bükreş 'te, Kazakistan 'ın başkenti Astana 'da, Azerbaycan 'ın başkenti Bakü 'de, Kuzey Makedonya 'nın batısındaki Merkez Jupa köyünde, Japonya 'nın Kuşimoto kasabasında ve İsrail 'de Osmanlılardan kalma bir tren istasyonunun bulunduğu Beerşeba 'da bu anıtlardan bazıları görülebilmektedir.",
+    "triple": {
+      "baş": "Atatürk",
+      "baş_tipi": "Kişi",
+      "ilişki": "anıta sahip",
+      "uç": "Astana",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Avustralya 'nın başkenti Canberra 'da, Guatemala 'nın aynı adı taşıyan başkentinde , Meksika 'nın başkenti Meksiko 'da, Venezuela 'nın başkenti Caracas 'ta, Küba 'nın başkenti Havana 'da, Şili 'nin başkenti Santiago 'da, Romanya 'nın başkenti Bükreş 'te, Kazakistan 'ın başkenti Astana 'da, Azerbaycan 'ın başkenti Bakü 'de, Kuzey Makedonya 'nın batısındaki Merkez Jupa köyünde, Japonya 'nın Kuşimoto kasabasında ve İsrail 'de Osmanlılardan kalma bir tren istasyonunun bulunduğu Beerşeba 'da bu anıtlardan bazıları görülebilmektedir.",
+    "triple": {
+      "baş": "Atatürk",
+      "baş_tipi": "Kişi",
+      "ilişki": "anıta sahip",
+      "uç": "Bakü",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Avustralya 'nın başkenti Canberra 'da, Guatemala 'nın aynı adı taşıyan başkentinde , Meksika 'nın başkenti Meksiko 'da, Venezuela 'nın başkenti Caracas 'ta, Küba 'nın başkenti Havana 'da, Şili 'nin başkenti Santiago 'da, Romanya 'nın başkenti Bükreş 'te, Kazakistan 'ın başkenti Astana 'da, Azerbaycan 'ın başkenti Bakü 'de, Kuzey Makedonya 'nın batısındaki Merkez Jupa köyünde, Japonya 'nın Kuşimoto kasabasında ve İsrail 'de Osmanlılardan kalma bir tren istasyonunun bulunduğu Beerşeba 'da bu anıtlardan bazıları görülebilmektedir.",
+    "triple": {
+      "baş": "Atatürk",
+      "baş_tipi": "Kişi",
+      "ilişki": "anıta sahip",
+      "uç": "Merkez Jupa",
+      "uç_tipi": "Köy"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Avustralya 'nın başkenti Canberra 'da, Guatemala 'nın aynı adı taşıyan başkentinde , Meksika 'nın başkenti Meksiko 'da, Venezuela 'nın başkenti Caracas 'ta, Küba 'nın başkenti Havana 'da, Şili 'nin başkenti Santiago 'da, Romanya 'nın başkenti Bükreş 'te, Kazakistan 'ın başkenti Astana 'da, Azerbaycan 'ın başkenti Bakü 'de, Kuzey Makedonya 'nın batısındaki Merkez Jupa köyünde, Japonya 'nın Kuşimoto kasabasında ve İsrail 'de Osmanlılardan kalma bir tren istasyonunun bulunduğu Beerşeba 'da bu anıtlardan bazıları görülebilmektedir.",
+    "triple": {
+      "baş": "Atatürk",
+      "baş_tipi": "Kişi",
+      "ilişki": "anıta sahip",
+      "uç": "Kuşimoto",
+      "uç_tipi": "Kasaba"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Avustralya 'nın başkenti Canberra 'da, Guatemala 'nın aynı adı taşıyan başkentinde , Meksika 'nın başkenti Meksiko 'da, Venezuela 'nın başkenti Caracas 'ta, Küba 'nın başkenti Havana 'da, Şili 'nin başkenti Santiago 'da, Romanya 'nın başkenti Bükreş 'te, Kazakistan 'ın başkenti Astana 'da, Azerbaycan 'ın başkenti Bakü 'de, Kuzey Makedonya 'nın batısındaki Merkez Jupa köyünde, Japonya 'nın Kuşimoto kasabasında ve İsrail 'de Osmanlılardan kalma bir tren istasyonunun bulunduğu Beerşeba 'da bu anıtlardan bazıları görülebilmektedir.",
+    "triple": {
+      "baş": "Atatürk",
+      "baş_tipi": "Kişi",
+      "ilişki": "anıta sahip",
+      "uç": "Beerşeba",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Tarihi boyunca New York göçmenlerin ülkeye girişindeki en önemli şehirlerden birini oluşturmuştur.",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "önemli şehir",
+      "uç": "göçmen girişi",
+      "uç_tipi": "Olay"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "1900'de şehirdeki en büyük göçmen grubu Almanlar , İrlandalılar , Yahudiler ve İtalyanlar teşkil etmekteydi.",
+    "triple": {
+      "baş": "Almanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "en büyük göçmen grubu",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "1900'de şehirdeki en büyük göçmen grubu Almanlar , İrlandalılar , Yahudiler ve İtalyanlar teşkil etmekteydi.",
+    "triple": {
+      "baş": "İrlandalılar",
+      "baş_tipi": "Grup",
+      "ilişki": "en büyük göçmen grubu",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "1900'de şehirdeki en büyük göçmen grubu Almanlar , İrlandalılar , Yahudiler ve İtalyanlar teşkil etmekteydi.",
+    "triple": {
+      "baş": "Yahudiler",
+      "baş_tipi": "Grup",
+      "ilişki": "en büyük göçmen grubu",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "1900'de şehirdeki en büyük göçmen grubu Almanlar , İrlandalılar , Yahudiler ve İtalyanlar teşkil etmekteydi.",
+    "triple": {
+      "baş": "İtalyanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "en büyük göçmen grubu",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "2013 verilerine göre şehirde yaşayan kişilerin %37'si yabancı bir ülkede doğmuştur ve her 10 New Yorkludan 6'sı ya göçmen ya da göçmen çocuğudur.",
+    "triple": {
+      "baş": "New York",
+      "baş_tipi": "Şehir",
+      "ilişki": "göçmen oranı",
+      "uç": "37%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "2011 verilerine göre modern göçmenler arasında herhangi bir ülke öne çıkmamakla birlikte Dominik Cumhuriyeti , Çin , Meksika , Guyana , Jamaika , Ekvador , Haiti , Hindistan , Rusya ve Trinidad ve Tobago en önemli göç veren ülkelerdir.",
+    "triple": {
+      "baş": "Dominik Cumhuriyeti",
+      "baş_tipi": "Ülke",
+      "ilişki": "önemli göç veren ülke",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "2011 verilerine göre modern göçmenler arasında herhangi bir ülke öne çıkmamakla birlikte Dominik Cumhuriyeti , Çin , Meksika , Guyana , Jamaika , Ekvador , Haiti , Hindistan , Rusya ve Trinidad ve Tobago en önemli göç veren ülkelerdir.",
+    "triple": {
+      "baş": "Çin",
+      "baş_tipi": "Ülke",
+      "ilişki": "önemli göç veren ülke",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "2011 verilerine göre modern göçmenler arasında herhangi bir ülke öne çıkmamakla birlikte Dominik Cumhuriyeti , Çin , Meksika , Guyana , Jamaika , Ekvador , Haiti , Hindistan , Rusya ve Trinidad ve Tobago en önemli göç veren ülkelerdir.",
+    "triple": {
+      "baş": "Meksika",
+      "baş_tipi": "Ülke",
+      "ilişki": "önemli göç veren ülke",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "2011 verilerine göre modern göçmenler arasında herhangi bir ülke öne çıkmamakla birlikte Dominik Cumhuriyeti , Çin , Meksika , Guyana , Jamaika , Ekvador , Haiti , Hindistan , Rusya ve Trinidad ve Tobago en önemli göç veren ülkelerdir.",
+    "triple": {
+      "baş": "Guyana",
+      "baş_tipi": "Ülke",
+      "ilişki": "önemli göç veren ülke",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "2011 verilerine göre modern göçmenler arasında herhangi bir ülke öne çıkmamakla birlikte Dominik Cumhuriyeti , Çin , Meksika , Guyana , Jamaika , Ekvador , Haiti , Hindistan , Rusya ve Trinidad ve Tobago en önemli göç veren ülkelerdir.",
+    "triple": {
+      "baş": "Jamaika",
+      "baş_tipi": "Ülke",
+      "ilişki": "önemli göç veren ülke",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "2011 verilerine göre modern göçmenler arasında herhangi bir ülke öne çıkmamakla birlikte Dominik Cumhuriyeti , Çin , Meksika , Guyana , Jamaika , Ekvador , Haiti , Hindistan , Rusya ve Trinidad ve Tobago en önemli göç veren ülkelerdir.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "önemli göç veren ülke",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "2011 verilerine göre modern göçmenler arasında herhangi bir ülke öne çıkmamakla birlikte Dominik Cumhuriyeti , Çin , Meksika , Guyana , Jamaika , Ekvador , Haiti , Hindistan , Rusya ve Trinidad ve Tobago en önemli göç veren ülkelerdir.",
+    "triple": {
+      "baş": "Haiti",
+      "baş_tipi": "Ülke",
+      "ilişki": "önemli göç veren ülke",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "2011 verilerine göre modern göçmenler arasında herhangi bir ülke öne çıkmamakla birlikte Dominik Cumhuriyeti , Çin , Meksika , Guyana , Jamaika , Ekvador , Haiti , Hindistan , Rusya ve Trinidad ve Tobago en önemli göç veren ülkelerdir.",
+    "triple": {
+      "baş": "Hindistan",
+      "baş_tipi": "Ülke",
+      "ilişki": "önemli göç veren ülke",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "2011 verilerine göre modern göçmenler arasında herhangi bir ülke öne çıkmamakla birlikte Dominik Cumhuriyeti , Çin , Meksika , Guyana , Jamaika , Ekvador , Haiti , Hindistan , Rusya ve Trinidad ve Tobago en önemli göç veren ülkelerdir.",
+    "triple": {
+      "baş": "Rusya",
+      "baş_tipi": "Ülke",
+      "ilişki": "önemli göç veren ülke",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "2011 verilerine göre modern göçmenler arasında herhangi bir ülke öne çıkmamakla birlikte Dominik Cumhuriyeti , Çin , Meksika , Guyana , Jamaika , Ekvador , Haiti , Hindistan , Rusya ve Trinidad ve Tobago en önemli göç veren ülkelerdir.",
+    "triple": {
+      "baş": "Trinidad ve Tobago",
+      "baş_tipi": "Ülke",
+      "ilişki": "önemli göç veren ülke",
+      "uç": "New York",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Amerika Birleşik Devletleri ( ABD ), [b] daha yaygın kullanılan adıyla Amerika veya Birleşik Devletler , Kuzey Amerika kıtasında Kanada ve Meksika arasında bulunan bir ülkedir.",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "bulunur",
+      "uç": "Kuzey Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Amerika Birleşik Devletleri ( ABD ), [b] daha yaygın kullanılan adıyla Amerika veya Birleşik Devletler , Kuzey Amerika kıtasında Kanada ve Meksika arasında bulunan bir ülkedir.",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "komşu",
+      "uç": "Kanada",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Amerika Birleşik Devletleri ( ABD ), [b] daha yaygın kullanılan adıyla Amerika veya Birleşik Devletler , Kuzey Amerika kıtasında Kanada ve Meksika arasında bulunan bir ülkedir.",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "komşu",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "50 eyaletin birleşiminden meydana gelen federal anayasal bir cumhuriyet ile yönetilir.",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "yönetilir",
+      "uç": "federal anayasal cumhuriyet",
+      "uç_tipi": "Yönetim Biçimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "ABD'nin en büyük ticaret ortakları Çin , Avrupa Birliği , Kanada , Meksika , Hindistan , Japonya , Güney Kore , Birleşik Krallık ve Tayvan'dır .",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "ticaret ortağı",
+      "uç": "Çin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "ABD'nin en büyük ticaret ortakları Çin , Avrupa Birliği , Kanada , Meksika , Hindistan , Japonya , Güney Kore , Birleşik Krallık ve Tayvan'dır .",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "ticaret ortağı",
+      "uç": "Avrupa Birliği",
+      "uç_tipi": "Birlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "ABD'nin en büyük ticaret ortakları Çin , Avrupa Birliği , Kanada , Meksika , Hindistan , Japonya , Güney Kore , Birleşik Krallık ve Tayvan'dır .",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "ticaret ortağı",
+      "uç": "Kanada",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "ABD'nin en büyük ticaret ortakları Çin , Avrupa Birliği , Kanada , Meksika , Hindistan , Japonya , Güney Kore , Birleşik Krallık ve Tayvan'dır .",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "ticaret ortağı",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "ABD'nin en büyük ticaret ortakları Çin , Avrupa Birliği , Kanada , Meksika , Hindistan , Japonya , Güney Kore , Birleşik Krallık ve Tayvan'dır .",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "ticaret ortağı",
+      "uç": "Hindistan",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "ABD'nin en büyük ticaret ortakları Çin , Avrupa Birliği , Kanada , Meksika , Hindistan , Japonya , Güney Kore , Birleşik Krallık ve Tayvan'dır .",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "ticaret ortağı",
+      "uç": "Japonya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "ABD'nin en büyük ticaret ortakları Çin , Avrupa Birliği , Kanada , Meksika , Hindistan , Japonya , Güney Kore , Birleşik Krallık ve Tayvan'dır .",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "ticaret ortağı",
+      "uç": "Güney Kore",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "ABD'nin en büyük ticaret ortakları Çin , Avrupa Birliği , Kanada , Meksika , Hindistan , Japonya , Güney Kore , Birleşik Krallık ve Tayvan'dır .",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "ticaret ortağı",
+      "uç": "Birleşik Krallık",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "ABD'nin en büyük ticaret ortakları Çin , Avrupa Birliği , Kanada , Meksika , Hindistan , Japonya , Güney Kore , Birleşik Krallık ve Tayvan'dır .",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "ticaret ortağı",
+      "uç": "Tayvan",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Ancak yıllık Nüfus artışı %0,9 ile birçok gelişmiş ülkeye kıyasla yüksektir.",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "nüfus artışı",
+      "uç": "0.9%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "2012 mali yılı içinde, çoğu aile birleşimi yoluyla gelen bir milyondan fazla göçmene yasal ikamet hakkı verilmiştir.",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "verdi ikamet hakkı",
+      "uç": "1 milyondan fazla göçmen",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Meksika , 1965 Göç Yasasından beri yeni ikamet edenlerin önde gelen kaynağıdır.",
+    "triple": {
+      "baş": "Meksika",
+      "baş_tipi": "Ülke",
+      "ilişki": "önde gelen kaynak",
+      "uç": "yeni ikamet edenler",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Çin , Hindistan ve Filipinler her sene gönderen ülkeler arasında ilk dörttedir.",
+    "triple": {
+      "baş": "Çin",
+      "baş_tipi": "Ülke",
+      "ilişki": "gönderen ülkeler arasında",
+      "uç": "ilk dört",
+      "uç_tipi": "Sıralama"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Çin , Hindistan ve Filipinler her sene gönderen ülkeler arasında ilk dörttedir.",
+    "triple": {
+      "baş": "Hindistan",
+      "baş_tipi": "Ülke",
+      "ilişki": "gönderen ülkeler arasında",
+      "uç": "ilk dört",
+      "uç_tipi": "Sıralama"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Çin , Hindistan ve Filipinler her sene gönderen ülkeler arasında ilk dörttedir.",
+    "triple": {
+      "baş": "Filipinler",
+      "baş_tipi": "Ülke",
+      "ilişki": "gönderen ülkeler arasında",
+      "uç": "ilk dört",
+      "uç_tipi": "Sıralama"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "İspanyolca 'nın kullanımı ise Meksika ve Küba 'dan gelen göçmenler nedeniyle son yıllarda belli kollarda arttı.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "kullanımı arttı",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "İspanyolca 'nın kullanımı ise Meksika ve Küba 'dan gelen göçmenler nedeniyle son yıllarda belli kollarda arttı.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "kullanımı arttı",
+      "uç": "Küba",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Louisiana eyaletinde ise Fransızca yaygındır; çünkü Fransız sömürgeleri burada kurulmuştur.",
+    "triple": {
+      "baş": "Fransızca",
+      "baş_tipi": "Dil",
+      "ilişki": "yaygın",
+      "uç": "Louisiana",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Yeşim, Doğu Asya , Güney Asya ve Güneydoğu Asya sanatında süs amaçlı kullanımıyla iyi bilinir.",
+    "triple": {
+      "baş": "Yeşim",
+      "baş_tipi": "Madde",
+      "ilişki": "kullanılır",
+      "uç": "Doğu Asya sanatı",
+      "uç_tipi": "Sanat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Yeşim, Doğu Asya , Güney Asya ve Güneydoğu Asya sanatında süs amaçlı kullanımıyla iyi bilinir.",
+    "triple": {
+      "baş": "Yeşim",
+      "baş_tipi": "Madde",
+      "ilişki": "kullanılır",
+      "uç": "Güney Asya sanatı",
+      "uç_tipi": "Sanat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Yeşim, Doğu Asya , Güney Asya ve Güneydoğu Asya sanatında süs amaçlı kullanımıyla iyi bilinir.",
+    "triple": {
+      "baş": "Yeşim",
+      "baş_tipi": "Madde",
+      "ilişki": "kullanılır",
+      "uç": "Güneydoğu Asya sanatı",
+      "uç_tipi": "Sanat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Meksika ve Guatemala gibi Latin Amerika 'da yaygın olarak kullanılır.",
+    "triple": {
+      "baş": "Yeşim",
+      "baş_tipi": "Madde",
+      "ilişki": "yaygın kullanılır",
+      "uç": "Latin Amerika",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Mezoamerika 'da yeşimin sembolik ve ideolojik ritüellerde kullanımı, Olmekler , Mayalar ve Meksika Vadisi'nin diğer antik medeniyetleri gibi Kolomb öncesi Mezoamerika kültürleri arasındaki nadirliği ve değerinden etkilenmiştir.",
+    "triple": {
+      "baş": "Yeşim",
+      "baş_tipi": "Madde",
+      "ilişki": "kullanılır",
+      "uç": "Mezoamerika",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Mezoamerika 'da yeşimin sembolik ve ideolojik ritüellerde kullanımı, Olmekler , Mayalar ve Meksika Vadisi'nin diğer antik medeniyetleri gibi Kolomb öncesi Mezoamerika kültürleri arasındaki nadirliği ve değerinden etkilenmiştir.",
+    "triple": {
+      "baş": "Yeşim",
+      "baş_tipi": "Madde",
+      "ilişki": "kullanılır",
+      "uç": "Olmekler",
+      "uç_tipi": "Kültür"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Mezoamerika 'da yeşimin sembolik ve ideolojik ritüellerde kullanımı, Olmekler , Mayalar ve Meksika Vadisi'nin diğer antik medeniyetleri gibi Kolomb öncesi Mezoamerika kültürleri arasındaki nadirliği ve değerinden etkilenmiştir.",
+    "triple": {
+      "baş": "Yeşim",
+      "baş_tipi": "Madde",
+      "ilişki": "kullanılır",
+      "uç": "Mayalar",
+      "uç_tipi": "Kültür"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Mezoamerika 'da yeşimin sembolik ve ideolojik ritüellerde kullanımı, Olmekler , Mayalar ve Meksika Vadisi'nin diğer antik medeniyetleri gibi Kolomb öncesi Mezoamerika kültürleri arasındaki nadirliği ve değerinden etkilenmiştir.",
+    "triple": {
+      "baş": "Yeşim",
+      "baş_tipi": "Madde",
+      "ilişki": "kullanılır",
+      "uç": "Meksika Vadisi antik medeniyetleri",
+      "uç_tipi": "Kültür"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Meksika ve Peru İspanyolların 16. yüzyıldaki ilk sömürgeleri olmuştur.",
+    "triple": {
+      "baş": "Meksika",
+      "baş_tipi": "Ülke",
+      "ilişki": "ilk sömürge",
+      "uç": "İspanyollar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Meksika ve Peru İspanyolların 16. yüzyıldaki ilk sömürgeleri olmuştur.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "ilk sömürge",
+      "uç": "İspanyollar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "18. ve 19. yüzyılda yaklaşık 3,5 milyon İspanyol, Amerika kıtasına, Arjantin, Uruguay, Meksika, Brezilya, Şili, Venezuela ve Küba'ya göç etmiştir.",
+    "triple": {
+      "baş": "İspanyol",
+      "baş_tipi": "Grup",
+      "ilişki": "göç etti",
+      "uç": "Amerika kıtası",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "18. ve 19. yüzyılda yaklaşık 3,5 milyon İspanyol, Amerika kıtasına, Arjantin, Uruguay, Meksika, Brezilya, Şili, Venezuela ve Küba'ya göç etmiştir.",
+    "triple": {
+      "baş": "İspanyol",
+      "baş_tipi": "Grup",
+      "ilişki": "göç etti",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "18. ve 19. yüzyılda yaklaşık 3,5 milyon İspanyol, Amerika kıtasına, Arjantin, Uruguay, Meksika, Brezilya, Şili, Venezuela ve Küba'ya göç etmiştir.",
+    "triple": {
+      "baş": "İspanyol",
+      "baş_tipi": "Grup",
+      "ilişki": "göç etti",
+      "uç": "Uruguay",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "18. ve 19. yüzyılda yaklaşık 3,5 milyon İspanyol, Amerika kıtasına, Arjantin, Uruguay, Meksika, Brezilya, Şili, Venezuela ve Küba'ya göç etmiştir.",
+    "triple": {
+      "baş": "İspanyol",
+      "baş_tipi": "Grup",
+      "ilişki": "göç etti",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "18. ve 19. yüzyılda yaklaşık 3,5 milyon İspanyol, Amerika kıtasına, Arjantin, Uruguay, Meksika, Brezilya, Şili, Venezuela ve Küba'ya göç etmiştir.",
+    "triple": {
+      "baş": "İspanyol",
+      "baş_tipi": "Grup",
+      "ilişki": "göç etti",
+      "uç": "Brezilya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "18. ve 19. yüzyılda yaklaşık 3,5 milyon İspanyol, Amerika kıtasına, Arjantin, Uruguay, Meksika, Brezilya, Şili, Venezuela ve Küba'ya göç etmiştir.",
+    "triple": {
+      "baş": "İspanyol",
+      "baş_tipi": "Grup",
+      "ilişki": "göç etti",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "18. ve 19. yüzyılda yaklaşık 3,5 milyon İspanyol, Amerika kıtasına, Arjantin, Uruguay, Meksika, Brezilya, Şili, Venezuela ve Küba'ya göç etmiştir.",
+    "triple": {
+      "baş": "İspanyol",
+      "baş_tipi": "Grup",
+      "ilişki": "göç etti",
+      "uç": "Venezuela",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "18. ve 19. yüzyılda yaklaşık 3,5 milyon İspanyol, Amerika kıtasına, Arjantin, Uruguay, Meksika, Brezilya, Şili, Venezuela ve Küba'ya göç etmiştir.",
+    "triple": {
+      "baş": "İspanyol",
+      "baş_tipi": "Grup",
+      "ilişki": "göç etti",
+      "uç": "Küba",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Ardından, sırasıyla Çin (59), Almanya (54), Fransa (53), İspanya (50), Hindistan (43) ve Meksika (35) gelmektedir.",
+    "triple": {
+      "baş": "Çin",
+      "baş_tipi": "Ülke",
+      "ilişki": "sıralamada",
+      "uç": "59",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Ardından, sırasıyla Çin (59), Almanya (54), Fransa (53), İspanya (50), Hindistan (43) ve Meksika (35) gelmektedir.",
+    "triple": {
+      "baş": "Almanya",
+      "baş_tipi": "Ülke",
+      "ilişki": "sıralamada",
+      "uç": "54",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Ardından, sırasıyla Çin (59), Almanya (54), Fransa (53), İspanya (50), Hindistan (43) ve Meksika (35) gelmektedir.",
+    "triple": {
+      "baş": "Fransa",
+      "baş_tipi": "Ülke",
+      "ilişki": "sıralamada",
+      "uç": "53",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Ardından, sırasıyla Çin (59), Almanya (54), Fransa (53), İspanya (50), Hindistan (43) ve Meksika (35) gelmektedir.",
+    "triple": {
+      "baş": "İspanya",
+      "baş_tipi": "Ülke",
+      "ilişki": "sıralamada",
+      "uç": "50",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Ardından, sırasıyla Çin (59), Almanya (54), Fransa (53), İspanya (50), Hindistan (43) ve Meksika (35) gelmektedir.",
+    "triple": {
+      "baş": "Hindistan",
+      "baş_tipi": "Ülke",
+      "ilişki": "sıralamada",
+      "uç": "43",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Ardından, sırasıyla Çin (59), Almanya (54), Fransa (53), İspanya (50), Hindistan (43) ve Meksika (35) gelmektedir.",
+    "triple": {
+      "baş": "Meksika",
+      "baş_tipi": "Ülke",
+      "ilişki": "sıralamada",
+      "uç": "35",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Makuya Japonca kutsal tapınak anlamına gelir.",
+    "triple": {
+      "baş": "Makuya",
+      "baş_tipi": "Grup",
+      "ilişki": "anlamına gelir",
+      "uç": "kutsal tapınak",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dan ve Zevulun kabilelerinden geldiklerine inanan Makuyaların başta Japonya'da olmak üzere İsrail, ABD, İngiltere , Fransa , Meksika , İspanya , Brezilya , Çin , Tayvan ve Güney Kore 'de 65.000 ila 72.000 inananı vardır.",
+    "triple": {
+      "baş": "Makuyalar",
+      "baş_tipi": "Grup",
+      "ilişki": "inanana sahip",
+      "uç": "Japonya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dan ve Zevulun kabilelerinden geldiklerine inanan Makuyaların başta Japonya'da olmak üzere İsrail, ABD, İngiltere , Fransa , Meksika , İspanya , Brezilya , Çin , Tayvan ve Güney Kore 'de 65.000 ila 72.000 inananı vardır.",
+    "triple": {
+      "baş": "Makuyalar",
+      "baş_tipi": "Grup",
+      "ilişki": "inanana sahip",
+      "uç": "İsrail",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dan ve Zevulun kabilelerinden geldiklerine inanan Makuyaların başta Japonya'da olmak üzere İsrail, ABD, İngiltere , Fransa , Meksika , İspanya , Brezilya , Çin , Tayvan ve Güney Kore 'de 65.000 ila 72.000 inananı vardır.",
+    "triple": {
+      "baş": "Makuyalar",
+      "baş_tipi": "Grup",
+      "ilişki": "inanana sahip",
+      "uç": "Amerika Birleşik Devletleri",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dan ve Zevulun kabilelerinden geldiklerine inanan Makuyaların başta Japonya'da olmak üzere İsrail, ABD, İngiltere , Fransa , Meksika , İspanya , Brezilya , Çin , Tayvan ve Güney Kore 'de 65.000 ila 72.000 inananı vardır.",
+    "triple": {
+      "baş": "Makuyalar",
+      "baş_tipi": "Grup",
+      "ilişki": "inanana sahip",
+      "uç": "İngiltere",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dan ve Zevulun kabilelerinden geldiklerine inanan Makuyaların başta Japonya'da olmak üzere İsrail, ABD, İngiltere , Fransa , Meksika , İspanya , Brezilya , Çin , Tayvan ve Güney Kore 'de 65.000 ila 72.000 inananı vardır.",
+    "triple": {
+      "baş": "Makuyalar",
+      "baş_tipi": "Grup",
+      "ilişki": "inanana sahip",
+      "uç": "Fransa",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dan ve Zevulun kabilelerinden geldiklerine inanan Makuyaların başta Japonya'da olmak üzere İsrail, ABD, İngiltere , Fransa , Meksika , İspanya , Brezilya , Çin , Tayvan ve Güney Kore 'de 65.000 ila 72.000 inananı vardır.",
+    "triple": {
+      "baş": "Makuyalar",
+      "baş_tipi": "Grup",
+      "ilişki": "inanana sahip",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dan ve Zevulun kabilelerinden geldiklerine inanan Makuyaların başta Japonya'da olmak üzere İsrail, ABD, İngiltere , Fransa , Meksika , İspanya , Brezilya , Çin , Tayvan ve Güney Kore 'de 65.000 ila 72.000 inananı vardır.",
+    "triple": {
+      "baş": "Makuyalar",
+      "baş_tipi": "Grup",
+      "ilişki": "inanana sahip",
+      "uç": "İspanya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dan ve Zevulun kabilelerinden geldiklerine inanan Makuyaların başta Japonya'da olmak üzere İsrail, ABD, İngiltere , Fransa , Meksika , İspanya , Brezilya , Çin , Tayvan ve Güney Kore 'de 65.000 ila 72.000 inananı vardır.",
+    "triple": {
+      "baş": "Makuyalar",
+      "baş_tipi": "Grup",
+      "ilişki": "inanana sahip",
+      "uç": "Brezilya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dan ve Zevulun kabilelerinden geldiklerine inanan Makuyaların başta Japonya'da olmak üzere İsrail, ABD, İngiltere , Fransa , Meksika , İspanya , Brezilya , Çin , Tayvan ve Güney Kore 'de 65.000 ila 72.000 inananı vardır.",
+    "triple": {
+      "baş": "Makuyalar",
+      "baş_tipi": "Grup",
+      "ilişki": "inanana sahip",
+      "uç": "Çin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dan ve Zevulun kabilelerinden geldiklerine inanan Makuyaların başta Japonya'da olmak üzere İsrail, ABD, İngiltere , Fransa , Meksika , İspanya , Brezilya , Çin , Tayvan ve Güney Kore 'de 65.000 ila 72.000 inananı vardır.",
+    "triple": {
+      "baş": "Makuyalar",
+      "baş_tipi": "Grup",
+      "ilişki": "inanana sahip",
+      "uç": "Tayvan",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dan ve Zevulun kabilelerinden geldiklerine inanan Makuyaların başta Japonya'da olmak üzere İsrail, ABD, İngiltere , Fransa , Meksika , İspanya , Brezilya , Çin , Tayvan ve Güney Kore 'de 65.000 ila 72.000 inananı vardır.",
+    "triple": {
+      "baş": "Makuyalar",
+      "baş_tipi": "Grup",
+      "ilişki": "inanana sahip",
+      "uç": "Güney Kore",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Tarihöncesi ve antik çağ dönemi kültürlerde Güneş'in bir tanrı olduğuna ya da diğer doğaüstü olaylara neden olduğuna inanılırdı.",
+    "triple": {
+      "baş": "Güneş",
+      "baş_tipi": "Doğa Olayı",
+      "ilişki": "tanrı olduğuna inanılırdı",
+      "uç": "Tarihöncesi kültürler",
+      "uç_tipi": "Kültür"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Tarihöncesi ve antik çağ dönemi kültürlerde Güneş'in bir tanrı olduğuna ya da diğer doğaüstü olaylara neden olduğuna inanılırdı.",
+    "triple": {
+      "baş": "Güneş",
+      "baş_tipi": "Doğa Olayı",
+      "ilişki": "neden olduğuna inanılırdı",
+      "uç": "doğaüstü olaylar",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Güney Amerika 'daki İnka ve günümüz Meksika 'sındaki Aztek uygarlıklarının merkezinde Güneş'e tapınma bulunmaktadır.",
+    "triple": {
+      "baş": "Güneş",
+      "baş_tipi": "Doğa Olayı",
+      "ilişki": "tapınma merkezi",
+      "uç": "İnka uygarlığı",
+      "uç_tipi": "Uygarlık"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Güney Amerika 'daki İnka ve günümüz Meksika 'sındaki Aztek uygarlıklarının merkezinde Güneş'e tapınma bulunmaktadır.",
+    "triple": {
+      "baş": "Güneş",
+      "baş_tipi": "Doğa Olayı",
+      "ilişki": "tapınma merkezi",
+      "uç": "Aztek uygarlığı",
+      "uç_tipi": "Uygarlık"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Bunların üçte ikisi Amerika Birleşik Devletleri , Brezilya ve Meksika vatandaşıdır.",
+    "triple": {
+      "baş": "Amerika Birleşik Devletleri",
+      "baş_tipi": "Ülke",
+      "ilişki": "vatandaşı",
+      "uç": "üçte iki",
+      "uç_tipi": "Kesir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Bunların üçte ikisi Amerika Birleşik Devletleri , Brezilya ve Meksika vatandaşıdır.",
+    "triple": {
+      "baş": "Brezilya",
+      "baş_tipi": "Ülke",
+      "ilişki": "vatandaşı",
+      "uç": "üçte iki",
+      "uç_tipi": "Kesir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Bunların üçte ikisi Amerika Birleşik Devletleri , Brezilya ve Meksika vatandaşıdır.",
+    "triple": {
+      "baş": "Meksika",
+      "baş_tipi": "Ülke",
+      "ilişki": "vatandaşı",
+      "uç": "üçte iki",
+      "uç_tipi": "Kesir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dünyada en büyük stronsiyum rezervleri İspanya , Meksika , Çin , Arjantin ve İran 'da bulunmaktadır.",
+    "triple": {
+      "baş": "Stronsiyum",
+      "baş_tipi": "Madde",
+      "ilişki": "rezervi en büyük",
+      "uç": "İspanya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dünyada en büyük stronsiyum rezervleri İspanya , Meksika , Çin , Arjantin ve İran 'da bulunmaktadır.",
+    "triple": {
+      "baş": "Stronsiyum",
+      "baş_tipi": "Madde",
+      "ilişki": "rezervi en büyük",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dünyada en büyük stronsiyum rezervleri İspanya , Meksika , Çin , Arjantin ve İran 'da bulunmaktadır.",
+    "triple": {
+      "baş": "Stronsiyum",
+      "baş_tipi": "Madde",
+      "ilişki": "rezervi en büyük",
+      "uç": "Çin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dünyada en büyük stronsiyum rezervleri İspanya , Meksika , Çin , Arjantin ve İran 'da bulunmaktadır.",
+    "triple": {
+      "baş": "Stronsiyum",
+      "baş_tipi": "Madde",
+      "ilişki": "rezervi en büyük",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Dünyada en büyük stronsiyum rezervleri İspanya , Meksika , Çin , Arjantin ve İran 'da bulunmaktadır.",
+    "triple": {
+      "baş": "Stronsiyum",
+      "baş_tipi": "Madde",
+      "ilişki": "rezervi en büyük",
+      "uç": "İran",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "1938 yılında Fransız hükûmetinden aldığı kültürel komisyon ile Meksika 'ya gitti.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "gitti",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "İspanya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Küba",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Kosta Rika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Guatemala",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Ekvator Ginesi",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Honduras",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Nikaragua",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Panama",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Paraguay",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Porto Riko",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Dominik Cumhuriyeti",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "El Salvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Uruguay",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Resmî dil olarak İspanyolcayı kullanan ülkeler: İspanya , Küba , Arjantin , Bolivya , Kolombiya , Kosta Rika , Şili , Ekvador , Guatemala , Ekvator Ginesi , Honduras , Meksika , Nikaragua , Panama , Paraguay , Peru , Porto Riko , Dominik Cumhuriyeti , El Salvador , Uruguay ve Venezuela 'dır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Venezuela",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Grafitin madenlerden çıkarılıp satışa sunulduğu başlıca yerler Çin , Meksika , Kanada , Brezilya ve Madagaskar 'dır.",
+    "triple": {
+      "baş": "Grafit",
+      "baş_tipi": "Madde",
+      "ilişki": "çıkarıldığı yer",
+      "uç": "Çin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Grafitin madenlerden çıkarılıp satışa sunulduğu başlıca yerler Çin , Meksika , Kanada , Brezilya ve Madagaskar 'dır.",
+    "triple": {
+      "baş": "Grafit",
+      "baş_tipi": "Madde",
+      "ilişki": "çıkarıldığı yer",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Grafitin madenlerden çıkarılıp satışa sunulduğu başlıca yerler Çin , Meksika , Kanada , Brezilya ve Madagaskar 'dır.",
+    "triple": {
+      "baş": "Grafit",
+      "baş_tipi": "Madde",
+      "ilişki": "çıkarıldığı yer",
+      "uç": "Kanada",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Grafitin madenlerden çıkarılıp satışa sunulduğu başlıca yerler Çin , Meksika , Kanada , Brezilya ve Madagaskar 'dır.",
+    "triple": {
+      "baş": "Grafit",
+      "baş_tipi": "Madde",
+      "ilişki": "çıkarıldığı yer",
+      "uç": "Brezilya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Grafitin madenlerden çıkarılıp satışa sunulduğu başlıca yerler Çin , Meksika , Kanada , Brezilya ve Madagaskar 'dır.",
+    "triple": {
+      "baş": "Grafit",
+      "baş_tipi": "Madde",
+      "ilişki": "çıkarıldığı yer",
+      "uç": "Madagaskar",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Meksika ve Vietnam tüm amorf (taş içerisinde mikro kristalcikler halinde) grafiti, Sri Lanka ise tüm öbekli ve talaşlı toz halini sunmaktadır.",
+    "triple": {
+      "baş": "Meksika",
+      "baş_tipi": "Ülke",
+      "ilişki": "sunar",
+      "uç": "amorf grafiti",
+      "uç_tipi": "Madde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Meksika ve Vietnam tüm amorf (taş içerisinde mikro kristalcikler halinde) grafiti, Sri Lanka ise tüm öbekli ve talaşlı toz halini sunmaktadır.",
+    "triple": {
+      "baş": "Vietnam",
+      "baş_tipi": "Ülke",
+      "ilişki": "sunar",
+      "uç": "amorf grafiti",
+      "uç_tipi": "Madde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Meksika ve Vietnam tüm amorf (taş içerisinde mikro kristalcikler halinde) grafiti, Sri Lanka ise tüm öbekli ve talaşlı toz halini sunmaktadır.",
+    "triple": {
+      "baş": "Sri Lanka",
+      "baş_tipi": "Ülke",
+      "ilişki": "sunar",
+      "uç": "öbekli ve talaşlı toz grafiti",
+      "uç_tipi": "Madde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Kaliforniya'da Edison'un avukatlarının etkisi azdı ve gerekirse Hollywood'un Meksika sınırına yakınlığından dolayı polisten kaçarak Meksika'da saklanmak mümkündü.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Şehir",
+      "ilişki": "yakın",
+      "uç": "Meksika sınırı",
+      "uç_tipi": "Sınır"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Meksika)",
+    "metin": "Kaliforniya'da Edison'un avukatlarının etkisi azdı ve gerekirse Hollywood'un Meksika sınırına yakınlığından dolayı polisten kaçarak Meksika'da saklanmak mümkündü.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "saklandı",
+      "uç": "Meksika",
+      "uç_tipi": "Ülke"
+    }
+  }
+]

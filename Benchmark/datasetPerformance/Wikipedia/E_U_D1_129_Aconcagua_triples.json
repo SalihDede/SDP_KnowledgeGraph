@@ -1,0 +1,3122 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mendoza_eyaleti)",
+    "metin": "Arjantin Andları 'nda, Mendoza eyaletinde , Şili sınırının yakınlarında bulunur.",
+    "triple": {
+      "baş": "Arjantin Andları",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Mendoza",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mendoza_eyaleti)",
+    "metin": "Arjantin Andları 'nda, Mendoza eyaletinde , Şili sınırının yakınlarında bulunur.",
+    "triple": {
+      "baş": "Arjantin Andları",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mendoza_eyaleti)",
+    "metin": "Arjantin Andları 'nda, Mendoza eyaletinde , Şili sınırının yakınlarında bulunur.",
+    "triple": {
+      "baş": "Mendoza",
+      "baş_tipi": "Bölge",
+      "ilişki": "sınır komşusu",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mill%C3%AE_park)",
+    "metin": "Dağın eteklerinde, sezon boyunca millî park rehberlerinin bulunduğu, çok iyi donatılmış iki kamp üssü vardır.",
+    "triple": {
+      "baş": "kamp üssü",
+      "baş_tipi": "Tesis",
+      "ilişki": "bulunur",
+      "uç": "dağın etekleri",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mill%C3%AE_park)",
+    "metin": "Dağın eteklerinde, sezon boyunca millî park rehberlerinin bulunduğu, çok iyi donatılmış iki kamp üssü vardır.",
+    "triple": {
+      "baş": "kamp üssü",
+      "baş_tipi": "Tesis",
+      "ilişki": "sahiptir",
+      "uç": "millî park rehberi",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mill%C3%AE_park)",
+    "metin": "Dağın eteklerinde, sezon boyunca millî park rehberlerinin bulunduğu, çok iyi donatılmış iki kamp üssü vardır.",
+    "triple": {
+      "baş": "kamp üssü",
+      "baş_tipi": "Tesis",
+      "ilişki": "mevcut",
+      "uç": "sezon boyunca",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Andlar)",
+    "metin": "Arjantin Andları 'nda, Mendoza eyaletinde , Şili sınırının yakınlarında bulunur.",
+    "triple": {
+      "baş": "Arjantin Andları",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Mendoza",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Andlar)",
+    "metin": "Arjantin Andları 'nda, Mendoza eyaletinde , Şili sınırının yakınlarında bulunur.",
+    "triple": {
+      "baş": "Arjantin Andları",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Andlar)",
+    "metin": "Arjantin Andları 'nda, Mendoza eyaletinde , Şili sınırının yakınlarında bulunur.",
+    "triple": {
+      "baş": "Mendoza",
+      "baş_tipi": "Bölge",
+      "ilişki": "sınır komşusu",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kuzey)",
+    "metin": "Dağın kuzey kanadı, dağcılar tarafından tırmanması kolay olarak kabul edilir.",
+    "triple": {
+      "baş": "Dağın kuzey kanadı",
+      "baş_tipi": "Bölge",
+      "ilişki": "özelliği",
+      "uç": "tırmanması kolay",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kuzey)",
+    "metin": "Dağın kuzey kanadı, dağcılar tarafından tırmanması kolay olarak kabul edilir.",
+    "triple": {
+      "baş": "Dağın kuzey kanadı",
+      "baş_tipi": "Bölge",
+      "ilişki": "tarafından kabul edilir",
+      "uç": "dağcılar",
+      "uç_tipi": "Kişi Grubu"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Quechua)",
+    "metin": "Tahminler Arauca Aconca-Hue ya da Ackon Cahuak ( Quechua dili) kelimelerinden türediği yönünde olup, \" Taş Bekçi \" anlamındadır.",
+    "triple": {
+      "baş": "Tahminler",
+      "baş_tipi": "Kavram",
+      "ilişki": "anlamı",
+      "uç": "Taş Bekçi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Quechua)",
+    "metin": "Tahminler Arauca Aconca-Hue ya da Ackon Cahuak ( Quechua dili) kelimelerinden türediği yönünde olup, \" Taş Bekçi \" anlamındadır.",
+    "triple": {
+      "baş": "Tahminler",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Arauca Aconca-Hue",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Quechua)",
+    "metin": "Tahminler Arauca Aconca-Hue ya da Ackon Cahuak ( Quechua dili) kelimelerinden türediği yönünde olup, \" Taş Bekçi \" anlamındadır.",
+    "triple": {
+      "baş": "Tahminler",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Ackon Cahuak",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Quechua)",
+    "metin": "Tahminler Arauca Aconca-Hue ya da Ackon Cahuak ( Quechua dili) kelimelerinden türediği yönünde olup, \" Taş Bekçi \" anlamındadır.",
+    "triple": {
+      "baş": "Arauca Aconca-Hue",
+      "baş_tipi": "Dil",
+      "ilişki": "ait olduğu dil",
+      "uç": "Quechua dili",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Quechua)",
+    "metin": "Tahminler Arauca Aconca-Hue ya da Ackon Cahuak ( Quechua dili) kelimelerinden türediği yönünde olup, \" Taş Bekçi \" anlamındadır.",
+    "triple": {
+      "baş": "Ackon Cahuak",
+      "baş_tipi": "Dil",
+      "ilişki": "ait olduğu dil",
+      "uç": "Quechua dili",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Atmosfer)",
+    "metin": "Zirvedeki atmosfer basıncı, deniz seviyesini %40 ı kadardır.",
+    "triple": {
+      "baş": "Zirvedeki atmosfer basıncı",
+      "baş_tipi": "Özellik",
+      "ilişki": "oranı",
+      "uç": "Deniz seviyesi atmosfer basıncı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Atmosfer)",
+    "metin": "Zirvedeki atmosfer basıncı, deniz seviyesini %40 ı kadardır.",
+    "triple": {
+      "baş": "Zirvedeki atmosfer basıncı",
+      "baş_tipi": "Özellik",
+      "ilişki": "yüzdesi",
+      "uç": "40",
+      "uç_tipi": "Sayısal Değer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Buzul)",
+    "metin": "On kilometreye kadar uzanan 5 buzulu vardır.",
+    "triple": {
+      "baş": "Buzul",
+      "baş_tipi": "Özellik",
+      "ilişki": "uzunluk",
+      "uç": "10 kilometre",
+      "uç_tipi": "Miktar"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Buzul)",
+    "metin": "On kilometreye kadar uzanan 5 buzulu vardır.",
+    "triple": {
+      "baş": "Buzul",
+      "baş_tipi": "Özellik",
+      "ilişki": "sayı",
+      "uç": "5",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Buzul)",
+    "metin": "İkinci sıklıkta kullanılan ve daha zorlu olan rota \" yanlış polonya rotası \" kamp üssü \" Plaza Argentina \" dan çıkarak \" Glaciar de los Polacos \" (Polonyalı buzulu )'un kuzey başlangıcına kadar gider.",
+    "triple": {
+      "baş": "Yanlış Polonya Rotası",
+      "baş_tipi": "Rota",
+      "ilişki": "başlangıç noktası",
+      "uç": "Plaza Argentina",
+      "uç_tipi": "Kamp Üssü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Buzul)",
+    "metin": "İkinci sıklıkta kullanılan ve daha zorlu olan rota \" yanlış polonya rotası \" kamp üssü \" Plaza Argentina \" dan çıkarak \" Glaciar de los Polacos \" (Polonyalı buzulu )'un kuzey başlangıcına kadar gider.",
+    "triple": {
+      "baş": "Yanlış Polonya Rotası",
+      "baş_tipi": "Rota",
+      "ilişki": "bitiş noktası",
+      "uç": "Glaciar de los Polacos'un kuzey başlangıcı",
+      "uç_tipi": "Rota"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Buzul)",
+    "metin": "İkinci sıklıkta kullanılan ve daha zorlu olan rota \" yanlış polonya rotası \" kamp üssü \" Plaza Argentina \" dan çıkarak \" Glaciar de los Polacos \" (Polonyalı buzulu )'un kuzey başlangıcına kadar gider.",
+    "triple": {
+      "baş": "Yanlış Polonya Rotası",
+      "baş_tipi": "Rota",
+      "ilişki": "kullanım sıklığı",
+      "uç": "İkinci",
+      "uç_tipi": "Sıra"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Buzul)",
+    "metin": "İkinci sıklıkta kullanılan ve daha zorlu olan rota \" yanlış polonya rotası \" kamp üssü \" Plaza Argentina \" dan çıkarak \" Glaciar de los Polacos \" (Polonyalı buzulu )'un kuzey başlangıcına kadar gider.",
+    "triple": {
+      "baş": "Yanlış Polonya Rotası",
+      "baş_tipi": "Rota",
+      "ilişki": "zorluk",
+      "uç": "Daha zorlu",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Buzul)",
+    "metin": "İkinci sıklıkta kullanılan ve daha zorlu olan rota \" yanlış polonya rotası \" kamp üssü \" Plaza Argentina \" dan çıkarak \" Glaciar de los Polacos \" (Polonyalı buzulu )'un kuzey başlangıcına kadar gider.",
+    "triple": {
+      "baş": "Glaciar de los Polacos",
+      "baş_tipi": "Buzul",
+      "ilişki": "adı",
+      "uç": "Polonyalı buzulu",
+      "uç_tipi": "Açıklama"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Rubia)",
+    "metin": "Zirve yapan ilk Arjantinli ise 8 Mart 1934 tarihinde asker Nicolás Plantamura 'dır.",
+    "triple": {
+      "baş": "Nicolás Plantamura",
+      "baş_tipi": "Kişi",
+      "ilişki": "ilk zirve yapan",
+      "uç": "Arjantinli",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Rubia)",
+    "metin": "Zirve yapan ilk Arjantinli ise 8 Mart 1934 tarihinde asker Nicolás Plantamura 'dır.",
+    "triple": {
+      "baş": "Nicolás Plantamura",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "asker",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Rubia)",
+    "metin": "Zirve yapan ilk Arjantinli ise 8 Mart 1934 tarihinde asker Nicolás Plantamura 'dır.",
+    "triple": {
+      "baş": "Nicolás Plantamura",
+      "baş_tipi": "Kişi",
+      "ilişki": "tarih",
+      "uç": "8 Mart 1934",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Rubia)",
+    "metin": "İlk kadın ise 7 Mart 1940'ta Fransız Adriana Banca 'dır.",
+    "triple": {
+      "baş": "Adriana Banca",
+      "baş_tipi": "Kişi",
+      "ilişki": "ilk zirve yapan",
+      "uç": "kadın",
+      "uç_tipi": "Cinsiyet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Rubia)",
+    "metin": "İlk kadın ise 7 Mart 1940'ta Fransız Adriana Banca 'dır.",
+    "triple": {
+      "baş": "Adriana Banca",
+      "baş_tipi": "Kişi",
+      "ilişki": "uyruk",
+      "uç": "Fransız",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Rubia)",
+    "metin": "İlk kadın ise 7 Mart 1940'ta Fransız Adriana Banca 'dır.",
+    "triple": {
+      "baş": "Adriana Banca",
+      "baş_tipi": "Kişi",
+      "ilişki": "tarih",
+      "uç": "7 Mart 1940",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Rubia)",
+    "metin": "2004 yılında ise ilk defa Aconcagua'nın zirvesine Rubia adında bir köpek çıkmıştır.",
+    "triple": {
+      "baş": "Rubia",
+      "baş_tipi": "Hayvan",
+      "ilişki": "tür",
+      "uç": "köpek",
+      "uç_tipi": "Hayvan Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Rubia)",
+    "metin": "2004 yılında ise ilk defa Aconcagua'nın zirvesine Rubia adında bir köpek çıkmıştır.",
+    "triple": {
+      "baş": "Rubia",
+      "baş_tipi": "Hayvan",
+      "ilişki": "tarih",
+      "uç": "2004",
+      "uç_tipi": "Yıl"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Rubia)",
+    "metin": "2004 yılında ise ilk defa Aconcagua'nın zirvesine Rubia adında bir köpek çıkmıştır.",
+    "triple": {
+      "baş": "Rubia",
+      "baş_tipi": "Hayvan",
+      "ilişki": "zirve yaptı",
+      "uç": "Aconcagua",
+      "uç_tipi": "Dağ"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Matthias_Zurbriggen)",
+    "metin": "Buraya ilk bahsi edilen bilimsel gezi, 1897 yılında, ingiliz Edward Fitzgerald tarafından yapılmıştır.",
+    "triple": {
+      "baş": "Edward Fitzgerald",
+      "baş_tipi": "Kişi",
+      "ilişki": "yaptı",
+      "uç": "Bilimsel Gezi",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Matthias_Zurbriggen)",
+    "metin": "Buraya ilk bahsi edilen bilimsel gezi, 1897 yılında, ingiliz Edward Fitzgerald tarafından yapılmıştır.",
+    "triple": {
+      "baş": "Edward Fitzgerald",
+      "baş_tipi": "Kişi",
+      "ilişki": "uyruk",
+      "uç": "İngiliz",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Matthias_Zurbriggen)",
+    "metin": "Buraya ilk bahsi edilen bilimsel gezi, 1897 yılında, ingiliz Edward Fitzgerald tarafından yapılmıştır.",
+    "triple": {
+      "baş": "Bilimsel Gezi",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "gerçekleşti",
+      "uç": "1897",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Matthias_Zurbriggen)",
+    "metin": "İsviçreli Matthias Zurbriggen , 14 Ocak 1897 tarihinde zirveye tırmanan ilk kişi olmuştur.",
+    "triple": {
+      "baş": "Matthias Zurbriggen",
+      "baş_tipi": "Kişi",
+      "ilişki": "uyruk",
+      "uç": "İsviçreli",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Matthias_Zurbriggen)",
+    "metin": "İsviçreli Matthias Zurbriggen , 14 Ocak 1897 tarihinde zirveye tırmanan ilk kişi olmuştur.",
+    "triple": {
+      "baş": "Matthias Zurbriggen",
+      "baş_tipi": "Kişi",
+      "ilişki": "tırmandı",
+      "uç": "Zirve",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Matthias_Zurbriggen)",
+    "metin": "İsviçreli Matthias Zurbriggen , 14 Ocak 1897 tarihinde zirveye tırmanan ilk kişi olmuştur.",
+    "triple": {
+      "baş": "Matthias Zurbriggen",
+      "baş_tipi": "Kişi",
+      "ilişki": "oldu",
+      "uç": "İlk Tırmanan Kişi",
+      "uç_tipi": "Rol"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Matthias_Zurbriggen)",
+    "metin": "İsviçreli Matthias Zurbriggen , 14 Ocak 1897 tarihinde zirveye tırmanan ilk kişi olmuştur.",
+    "triple": {
+      "baş": "Matthias Zurbriggen",
+      "baş_tipi": "Kişi",
+      "ilişki": "tarih",
+      "uç": "14 Ocak 1897",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Matthias_Zurbriggen)",
+    "metin": "1897, Matthias Zurbriggen",
+    "triple": {
+      "baş": "Matthias Zurbriggen",
+      "baş_tipi": "Kişi",
+      "ilişki": "tarih",
+      "uç": "1897",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0svi%C3%A7reliler)",
+    "metin": "Buraya ilk bahsi edilen bilimsel gezi, 1897 yılında, ingiliz Edward Fitzgerald tarafından yapılmıştır.",
+    "triple": {
+      "baş": "Edward Fitzgerald",
+      "baş_tipi": "Kişi",
+      "ilişki": "yaptı",
+      "uç": "Bilimsel gezi",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0svi%C3%A7reliler)",
+    "metin": "Buraya ilk bahsi edilen bilimsel gezi, 1897 yılında, ingiliz Edward Fitzgerald tarafından yapılmıştır.",
+    "triple": {
+      "baş": "Edward Fitzgerald",
+      "baş_tipi": "Kişi",
+      "ilişki": "uyruğu",
+      "uç": "İngiliz",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0svi%C3%A7reliler)",
+    "metin": "Buraya ilk bahsi edilen bilimsel gezi, 1897 yılında, ingiliz Edward Fitzgerald tarafından yapılmıştır.",
+    "triple": {
+      "baş": "Bilimsel gezi",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "gerçekleşti",
+      "uç": "1897",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0svi%C3%A7reliler)",
+    "metin": "İsviçreli Matthias Zurbriggen , 14 Ocak 1897 tarihinde zirveye tırmanan ilk kişi olmuştur.",
+    "triple": {
+      "baş": "Matthias Zurbriggen",
+      "baş_tipi": "Kişi",
+      "ilişki": "uyruğu",
+      "uç": "İsviçreli",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0svi%C3%A7reliler)",
+    "metin": "İsviçreli Matthias Zurbriggen , 14 Ocak 1897 tarihinde zirveye tırmanan ilk kişi olmuştur.",
+    "triple": {
+      "baş": "Matthias Zurbriggen",
+      "baş_tipi": "Kişi",
+      "ilişki": "tırmandı",
+      "uç": "Zirve",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0svi%C3%A7reliler)",
+    "metin": "İsviçreli Matthias Zurbriggen , 14 Ocak 1897 tarihinde zirveye tırmanan ilk kişi olmuştur.",
+    "triple": {
+      "baş": "Matthias Zurbriggen",
+      "baş_tipi": "Kişi",
+      "ilişki": "oldu",
+      "uç": "İlk kişi",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0svi%C3%A7reliler)",
+    "metin": "İsviçreli Matthias Zurbriggen , 14 Ocak 1897 tarihinde zirveye tırmanan ilk kişi olmuştur.",
+    "triple": {
+      "baş": "Matthias Zurbriggen",
+      "baş_tipi": "Kişi",
+      "ilişki": "tarihinde",
+      "uç": "14 Ocak 1897",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kamp)",
+    "metin": "Dağın eteklerinde, sezon boyunca millî park rehberlerinin bulunduğu, çok iyi donatılmış iki kamp üssü vardır.",
+    "triple": {
+      "baş": "kamp üssü",
+      "baş_tipi": "Tesis",
+      "ilişki": "bulunur",
+      "uç": "dağın etekleri",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kamp)",
+    "metin": "Dağın eteklerinde, sezon boyunca millî park rehberlerinin bulunduğu, çok iyi donatılmış iki kamp üssü vardır.",
+    "triple": {
+      "baş": "kamp üssü",
+      "baş_tipi": "Tesis",
+      "ilişki": "sahiptir",
+      "uç": "millî park rehberi",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kamp)",
+    "metin": "Dağın eteklerinde, sezon boyunca millî park rehberlerinin bulunduğu, çok iyi donatılmış iki kamp üssü vardır.",
+    "triple": {
+      "baş": "kamp üssü",
+      "baş_tipi": "Tesis",
+      "ilişki": "mevcut",
+      "uç": "sezon boyunca",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Zirve)",
+    "metin": "Buraya ilk bahsi edilen bilimsel gezi, 1897 yılında, ingiliz Edward Fitzgerald tarafından yapılmıştır.",
+    "triple": {
+      "baş": "Edward Fitzgerald",
+      "baş_tipi": "Kişi",
+      "ilişki": "yaptı",
+      "uç": "Bilimsel gezi",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Zirve)",
+    "metin": "Buraya ilk bahsi edilen bilimsel gezi, 1897 yılında, ingiliz Edward Fitzgerald tarafından yapılmıştır.",
+    "triple": {
+      "baş": "Edward Fitzgerald",
+      "baş_tipi": "Kişi",
+      "ilişki": "uyruğu",
+      "uç": "İngiliz",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Zirve)",
+    "metin": "Buraya ilk bahsi edilen bilimsel gezi, 1897 yılında, ingiliz Edward Fitzgerald tarafından yapılmıştır.",
+    "triple": {
+      "baş": "Bilimsel gezi",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "gerçekleşti",
+      "uç": "1897",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Zirve)",
+    "metin": "İsviçreli Matthias Zurbriggen , 14 Ocak 1897 tarihinde zirveye tırmanan ilk kişi olmuştur.",
+    "triple": {
+      "baş": "Matthias Zurbriggen",
+      "baş_tipi": "Kişi",
+      "ilişki": "uyruğu",
+      "uç": "İsviçreli",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Zirve)",
+    "metin": "İsviçreli Matthias Zurbriggen , 14 Ocak 1897 tarihinde zirveye tırmanan ilk kişi olmuştur.",
+    "triple": {
+      "baş": "Matthias Zurbriggen",
+      "baş_tipi": "Kişi",
+      "ilişki": "tırmandı",
+      "uç": "Zirve",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Zirve)",
+    "metin": "İsviçreli Matthias Zurbriggen , 14 Ocak 1897 tarihinde zirveye tırmanan ilk kişi olmuştur.",
+    "triple": {
+      "baş": "Matthias Zurbriggen",
+      "baş_tipi": "Kişi",
+      "ilişki": "oldu",
+      "uç": "İlk kişi",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Zirve)",
+    "metin": "İsviçreli Matthias Zurbriggen , 14 Ocak 1897 tarihinde zirveye tırmanan ilk kişi olmuştur.",
+    "triple": {
+      "baş": "Matthias Zurbriggen",
+      "baş_tipi": "Kişi",
+      "ilişki": "tarih",
+      "uç": "14 Ocak 1897",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Oksijen)",
+    "metin": "Bu yüksekliklerde oksijen tüpü kullanmak olağan değildir.",
+    "triple": {
+      "baş": "oksijen tüpü kullanmak",
+      "baş_tipi": "Eylem",
+      "ilişki": "durum",
+      "uç": "olağan değildir",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Oksijen)",
+    "metin": "Bu yüksekliklerde oksijen tüpü kullanmak olağan değildir.",
+    "triple": {
+      "baş": "oksijen tüpü kullanmak",
+      "baş_tipi": "Eylem",
+      "ilişki": "yer",
+      "uç": "Bu yüksekliklerde",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "19. yüzyılın ilk yıllarında İtalya , Napolyon Bonapart tarafından işgal edilerek Fransız etkisi altına girdi.",
+    "triple": {
+      "baş": "İtalya",
+      "baş_tipi": "Ülke",
+      "ilişki": "işgal edildi",
+      "uç": "Napolyon Bonapart",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "19. yüzyılın ilk yıllarında İtalya , Napolyon Bonapart tarafından işgal edilerek Fransız etkisi altına girdi.",
+    "triple": {
+      "baş": "İtalya",
+      "baş_tipi": "Ülke",
+      "ilişki": "etkisi altına girdi",
+      "uç": "Fransız",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Viyana Kongresi İtalya'nın, Fransız işgalinden önce yöneten hanedanlara geri verilmesini ön görüyordu.",
+    "triple": {
+      "baş": "Viyana Kongresi",
+      "baş_tipi": "Olay",
+      "ilişki": "ön görüyordu",
+      "uç": "İtalya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Zirve yapan ilk Arjantinli ise 8 Mart 1934 tarihinde asker Nicolás Plantamura 'dır.",
+    "triple": {
+      "baş": "Nicolás Plantamura",
+      "baş_tipi": "Kişi",
+      "ilişki": "zirve yaptı",
+      "uç": "Arjantinli",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Zirve yapan ilk Arjantinli ise 8 Mart 1934 tarihinde asker Nicolás Plantamura 'dır.",
+    "triple": {
+      "baş": "Nicolás Plantamura",
+      "baş_tipi": "Kişi",
+      "ilişki": "tarihinde zirve yaptı",
+      "uç": "8 Mart 1934",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "İlk kadın ise 7 Mart 1940'ta Fransız Adriana Banca 'dır.",
+    "triple": {
+      "baş": "Adriana Banca",
+      "baş_tipi": "Kişi",
+      "ilişki": "kadın",
+      "uç": "Fransız",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "İlk kadın ise 7 Mart 1940'ta Fransız Adriana Banca 'dır.",
+    "triple": {
+      "baş": "Adriana Banca",
+      "baş_tipi": "Kişi",
+      "ilişki": "tarihinde zirve yaptı",
+      "uç": "7 Mart 1940",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "2004 yılında ise ilk defa Aconcagua'nın zirvesine Rubia adında bir köpek çıkmıştır.",
+    "triple": {
+      "baş": "Rubia",
+      "baş_tipi": "Köpek",
+      "ilişki": "zirvesine çıktı",
+      "uç": "Aconcagua",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "2004 yılında ise ilk defa Aconcagua'nın zirvesine Rubia adında bir köpek çıkmıştır.",
+    "triple": {
+      "baş": "Rubia",
+      "baş_tipi": "Köpek",
+      "ilişki": "tarihinde zirveye çıktı",
+      "uç": "2004",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tools.wmflabs.org/geohack/geohack.php?pagename=tr:Aconcagua&params=32_39_11_S_70_00_42_W_)",
+    "metin": ".mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap} 32°39′11″G 70°00′42″B﻿ / ﻿32.65306°G 70.01167°B﻿ / -32.65306; -70.01167",
+    "triple": {
+      "baş": "32°39′11″G 70°00′42″B",
+      "baş_tipi": "Koordinat",
+      "ilişki": "yaklaşık olarak",
+      "uç": "32.65306°G 70.01167°B",
+      "uç_tipi": "Koordinat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Da%C4%9F)",
+    "metin": "Bogd Han Dağı ( Moğolca : Богд хан уул Bogd han ul ), Moğolistan 'ın başkenti Ulan Batur 'un güneyinde yer alan bir dağdır .",
+    "triple": {
+      "baş": "Bogd Han Dağı",
+      "baş_tipi": "Dağ",
+      "ilişki": "yer alır",
+      "uç": "Ulan Batur",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Da%C4%9F)",
+    "metin": "Bogd Han Dağı ( Moğolca : Богд хан уул Bogd han ul ), Moğolistan 'ın başkenti Ulan Batur 'un güneyinde yer alan bir dağdır .",
+    "triple": {
+      "baş": "Bogd Han Dağı",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunur",
+      "uç": "Moğolistan",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Da%C4%9F)",
+    "metin": "Fuji Dağı (富士山, Fuji-san) , Honshu adasında bulunan, 3.776 m (12.385 ft ) yüksekliğiyle Japonya ’daki en yüksek dağdır .",
+    "triple": {
+      "baş": "Fuji Dağı",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunur",
+      "uç": "Honshu",
+      "uç_tipi": "Ada"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Da%C4%9F)",
+    "metin": "Fuji Dağı (富士山, Fuji-san) , Honshu adasında bulunan, 3.776 m (12.385 ft ) yüksekliğiyle Japonya ’daki en yüksek dağdır .",
+    "triple": {
+      "baş": "Fuji Dağı",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunur",
+      "uç": "Japonya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Da%C4%9F)",
+    "metin": "Fuji Dağı (富士山, Fuji-san) , Honshu adasında bulunan, 3.776 m (12.385 ft ) yüksekliğiyle Japonya ’daki en yüksek dağdır .",
+    "triple": {
+      "baş": "Fuji Dağı",
+      "baş_tipi": "Dağ",
+      "ilişki": "yüksekliği",
+      "uç": "3.776 m",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Da%C4%9F)",
+    "metin": "Tate Dağı ( Japonca : 立山 , romanize: Tate-yama ), Japonya 'nın Toyama prefektörlüğünde bulunan bir dağdır .",
+    "triple": {
+      "baş": "Tate Dağı",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunur",
+      "uç": "Toyama prefektörlüğü",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Da%C4%9F)",
+    "metin": "Tate Dağı ( Japonca : 立山 , romanize: Tate-yama ), Japonya 'nın Toyama prefektörlüğünde bulunan bir dağdır .",
+    "triple": {
+      "baş": "Tate Dağı",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunur",
+      "uç": "Japonya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Da%C4%9F)",
+    "metin": "Aconcagua , 6.962,97 m yükseklik ile Güney Amerika 'nın en yüksek dağı. Aynı zamanda Asya kıtası dışında bulunan en yüksek dağdır .",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "yüksekliği",
+      "uç": "6.962,97 m",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Da%C4%9F)",
+    "metin": "Aconcagua , 6.962,97 m yükseklik ile Güney Amerika 'nın en yüksek dağı. Aynı zamanda Asya kıtası dışında bulunan en yüksek dağdır .",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunur",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Da%C4%9F)",
+    "metin": "Aconcagua , 6.962,97 m yükseklik ile Güney Amerika 'nın en yüksek dağı. Aynı zamanda Asya kıtası dışında bulunan en yüksek dağdır .",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunur",
+      "uç": "Asya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Wikimedia_Commons)",
+    "metin": "Wikimedia Commons 'ta Çing Hanedanı ile ilgili çoklu ortam belgeleri bulunur.",
+    "triple": {
+      "baş": "Wikimedia Commons",
+      "baş_tipi": "Platform",
+      "ilişki": "içerir",
+      "uç": "Çing Hanedanı",
+      "uç_tipi": "Hanedanlık"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Wikimedia_Commons)",
+    "metin": "Wikimedia Commons 'ta Infiniti ile ilgili çoklu ortam belgeleri bulunur.",
+    "triple": {
+      "baş": "Wikimedia Commons",
+      "baş_tipi": "Platform",
+      "ilişki": "içerir",
+      "uç": "Infiniti",
+      "uç_tipi": "Marka"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Wikimedia_Commons)",
+    "metin": "Wikimedia Commons 'ta dağ ile ilgili çoklu ortam belgeleri bulunur",
+    "triple": {
+      "baş": "Wikimedia Commons",
+      "baş_tipi": "Platform",
+      "ilişki": "içerir",
+      "uç": "dağ",
+      "uç_tipi": "Coğrafi Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Wikimedia_Commons)",
+    "metin": "Wikimedia Commons 'ta Peru ile ilgili çoklu ortam belgeleri bulunur.",
+    "triple": {
+      "baş": "Wikimedia Commons",
+      "baş_tipi": "Platform",
+      "ilişki": "içerir",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Wikimedia_Commons)",
+    "metin": "Wikimedia Commons 'ta Aconcagua ile ilgili çoklu ortam belgeleri bulunur.",
+    "triple": {
+      "baş": "Wikimedia Commons",
+      "baş_tipi": "Platform",
+      "ilişki": "içerir",
+      "uç": "Aconcagua",
+      "uç_tipi": "Dağ"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "kıyısı vardır",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "kıyısı vardır",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "kıyısı vardır",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "kıyısı vardır",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "kıyısı vardır",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "kıyısı vardır",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "kıyısı vardır",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "genişler",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "genişler",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "genişler",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "genişler",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "genişler",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "genişler",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "yüksekliği",
+      "uç": "6893 metre",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "tipi",
+      "uç": "Dünyanın en yüksek volkanı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "tipi",
+      "uç": "Güney Amerika'nın en yüksek ikinci dağı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "sınırında",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "sınırında",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunur",
+      "uç": "Atacama Çölü",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Arjantin Andları 'nda, Mendoza eyaletinde , Şili sınırının yakınlarında bulunur.",
+    "triple": {
+      "baş": "Arjantin Andları",
+      "baş_tipi": "Bölge",
+      "ilişki": "içerir",
+      "uç": "Mendoza",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Arjantin Andları 'nda, Mendoza eyaletinde , Şili sınırının yakınlarında bulunur.",
+    "triple": {
+      "baş": "Mendoza",
+      "baş_tipi": "Eyalet",
+      "ilişki": "yakınında",
+      "uç": "Şili sınırı",
+      "uç_tipi": "Sınır"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Kuru-kış subtropikal yayla iklimi ( Cwb ), çoğunlukla Orta Amerika , Güney Amerika , Afrika ve Asya'nın tropik bölgelerindeki yaylalarda veya subtropik bölgelerde bulunan bir iklim türüdür.",
+    "triple": {
+      "baş": "Kuru-kış subtropikal yayla iklimi",
+      "baş_tipi": "İklim Türü",
+      "ilişki": "bulunur",
+      "uç": "Orta Amerika",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Kuru-kış subtropikal yayla iklimi ( Cwb ), çoğunlukla Orta Amerika , Güney Amerika , Afrika ve Asya'nın tropik bölgelerindeki yaylalarda veya subtropik bölgelerde bulunan bir iklim türüdür.",
+    "triple": {
+      "baş": "Kuru-kış subtropikal yayla iklimi",
+      "baş_tipi": "İklim Türü",
+      "ilişki": "bulunur",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Kuru-kış subtropikal yayla iklimi ( Cwb ), çoğunlukla Orta Amerika , Güney Amerika , Afrika ve Asya'nın tropik bölgelerindeki yaylalarda veya subtropik bölgelerde bulunan bir iklim türüdür.",
+    "triple": {
+      "baş": "Kuru-kış subtropikal yayla iklimi",
+      "baş_tipi": "İklim Türü",
+      "ilişki": "bulunur",
+      "uç": "Afrika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Kuru-kış subtropikal yayla iklimi ( Cwb ), çoğunlukla Orta Amerika , Güney Amerika , Afrika ve Asya'nın tropik bölgelerindeki yaylalarda veya subtropik bölgelerde bulunan bir iklim türüdür.",
+    "triple": {
+      "baş": "Kuru-kış subtropikal yayla iklimi",
+      "baş_tipi": "İklim Türü",
+      "ilişki": "bulunur",
+      "uç": "Asya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Asya",
+      "baş_tipi": "Kıta",
+      "ilişki": "dağlarla kaplı",
+      "uç": "54%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Kuzey Amerika",
+      "baş_tipi": "Bölge",
+      "ilişki": "dağlarla kaplı",
+      "uç": "36%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Avrupa",
+      "baş_tipi": "Kıta",
+      "ilişki": "dağlarla kaplı",
+      "uç": "25%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Güney Amerika",
+      "baş_tipi": "Kıta",
+      "ilişki": "dağlarla kaplı",
+      "uç": "22%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Avustralya",
+      "baş_tipi": "Kıta",
+      "ilişki": "dağlarla kaplı",
+      "uç": "17%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Afrika",
+      "baş_tipi": "Kıta",
+      "ilişki": "dağlarla kaplı",
+      "uç": "3%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Avustralya ve Güney Amerika 'nın Antarktika 'dan ayrılmasıyla, dev kıta Gondvana 'nın son kalıntısı da tarihe karışır.",
+    "triple": {
+      "baş": "Avustralya",
+      "baş_tipi": "Kıta",
+      "ilişki": "ayrıldı",
+      "uç": "Antarktika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Avustralya ve Güney Amerika 'nın Antarktika 'dan ayrılmasıyla, dev kıta Gondvana 'nın son kalıntısı da tarihe karışır.",
+    "triple": {
+      "baş": "Güney Amerika",
+      "baş_tipi": "Kıta",
+      "ilişki": "ayrıldı",
+      "uç": "Antarktika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Güney Amerika",
+      "baş_tipi": "Kıta",
+      "ilişki": "kıyı şeridi",
+      "uç": "Batı Kıyısı",
+      "uç_tipi": "Coğrafi Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "başlar",
+      "uç": "Güney Amerika Batı Kıyısı",
+      "uç_tipi": "Coğrafi Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "sona erer",
+      "uç": "Güney Amerika Batı Kıyısı",
+      "uç_tipi": "Coğrafi Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "sona erer",
+      "uç": "Güney Amerika Batı Kıyısı",
+      "uç_tipi": "Coğrafi Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Peru , ( İspanyolca : Perúⓘ , Keçuvaca : Piruw , Aymara : Piruw ) ya da resmî adıyla Peru Cumhuriyeti ( İspanyolca República del Perúⓘ , Quechua : Piruw Mama Llaqta , Aymara : Piruw Suyu ) Güney Amerika 'nın batısında bir ülkedir .",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "bulunur",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Peru , ( İspanyolca : Perúⓘ , Keçuvaca : Piruw , Aymara : Piruw ) ya da resmî adıyla Peru Cumhuriyeti ( İspanyolca República del Perúⓘ , Quechua : Piruw Mama Llaqta , Aymara : Piruw Suyu ) Güney Amerika 'nın batısında bir ülkedir .",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "konum",
+      "uç": "Batı",
+      "uç_tipi": "Yön"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır. Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "yüksekliği",
+      "uç": "6893 metre",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır. Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "türü",
+      "uç": "Dünyanın en yüksek volkanı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır. Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "konumu",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır. Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "sıralaması",
+      "uç": "En yüksek ikinci dağ",
+      "uç_tipi": "Sıralama"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır. Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "sınırında",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır. Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "sınırında",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır. Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunur",
+      "uç": "Atacama Çölü",
+      "uç_tipi": "Çöl"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Aconcagua , 6.962,97 m yükseklik ile Güney Amerika 'nın en yüksek dağı. Aynı zamanda Asya kıtası dışında bulunan en yüksek dağdır .",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "yüksekliği",
+      "uç": "6.962,97 m",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Aconcagua , 6.962,97 m yükseklik ile Güney Amerika 'nın en yüksek dağı. Aynı zamanda Asya kıtası dışında bulunan en yüksek dağdır .",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "konumu",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Aconcagua , 6.962,97 m yükseklik ile Güney Amerika 'nın en yüksek dağı. Aynı zamanda Asya kıtası dışında bulunan en yüksek dağdır .",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "sıralaması",
+      "uç": "En yüksek dağ",
+      "uç_tipi": "Sıralama"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Aconcagua , 6.962,97 m yükseklik ile Güney Amerika 'nın en yüksek dağı. Aynı zamanda Asya kıtası dışında bulunan en yüksek dağdır .",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunur",
+      "uç": "Asya kıtası dışında",
+      "uç_tipi": "Konum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Güneyini Kıbrıs ve Akdeniz , batısını Ege Denizi , kuzeyini ise Karadeniz çevreler. Marmara Denizi ise İstanbul Boğazı ve Çanakkale Boğazı ile birlikte Anadolu 'yu Trakya 'dan, yani Asya 'yı Avrupa 'dan ayırır.",
+    "triple": {
+      "baş": "Marmara Denizi",
+      "baş_tipi": "Deniz",
+      "ilişki": "ayıran",
+      "uç": "İstanbul Boğazı",
+      "uç_tipi": "Boğaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Güneyini Kıbrıs ve Akdeniz , batısını Ege Denizi , kuzeyini ise Karadeniz çevreler. Marmara Denizi ise İstanbul Boğazı ve Çanakkale Boğazı ile birlikte Anadolu 'yu Trakya 'dan, yani Asya 'yı Avrupa 'dan ayırır.",
+    "triple": {
+      "baş": "Marmara Denizi",
+      "baş_tipi": "Deniz",
+      "ilişki": "ayıran",
+      "uç": "Çanakkale Boğazı",
+      "uç_tipi": "Boğaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Güneyini Kıbrıs ve Akdeniz , batısını Ege Denizi , kuzeyini ise Karadeniz çevreler. Marmara Denizi ise İstanbul Boğazı ve Çanakkale Boğazı ile birlikte Anadolu 'yu Trakya 'dan, yani Asya 'yı Avrupa 'dan ayırır.",
+    "triple": {
+      "baş": "Anadolu",
+      "baş_tipi": "Kıta",
+      "ilişki": "ayrılır",
+      "uç": "Trakya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Güneyini Kıbrıs ve Akdeniz , batısını Ege Denizi , kuzeyini ise Karadeniz çevreler. Marmara Denizi ise İstanbul Boğazı ve Çanakkale Boğazı ile birlikte Anadolu 'yu Trakya 'dan, yani Asya 'yı Avrupa 'dan ayırır.",
+    "triple": {
+      "baş": "Asya",
+      "baş_tipi": "Kıta",
+      "ilişki": "ayrılır",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye, askerî kapasitesi ve diplomatik girişimleri sayesinde bölgesel güç kabul edilirken; Avrupa ve Asya kıtalarının kavşak noktasında yer alması nedeniyle önemli bir jeostratejik güç olarak görülmektedir.",
+    "triple": {
+      "baş": "Türkiye",
+      "baş_tipi": "Ülke",
+      "ilişki": "kabul edilir",
+      "uç": "bölgesel güç",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye, askerî kapasitesi ve diplomatik girişimleri sayesinde bölgesel güç kabul edilirken; Avrupa ve Asya kıtalarının kavşak noktasında yer alması nedeniyle önemli bir jeostratejik güç olarak görülmektedir.",
+    "triple": {
+      "baş": "Türkiye",
+      "baş_tipi": "Ülke",
+      "ilişki": "görülmektedir",
+      "uç": "önemli bir jeostratejik güç",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Günümüzde Türkiye, askerî kapasitesi ve diplomatik girişimleri sayesinde bölgesel güç kabul edilirken; Avrupa ve Asya kıtalarının kavşak noktasında yer alması nedeniyle önemli bir jeostratejik güce sahiptir.",
+    "triple": {
+      "baş": "Türkiye",
+      "baş_tipi": "Ülke",
+      "ilişki": "kabul edilir",
+      "uç": "bölgesel güç",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Günümüzde Türkiye, askerî kapasitesi ve diplomatik girişimleri sayesinde bölgesel güç kabul edilirken; Avrupa ve Asya kıtalarının kavşak noktasında yer alması nedeniyle önemli bir jeostratejik güce sahiptir.",
+    "triple": {
+      "baş": "Türkiye",
+      "baş_tipi": "Ülke",
+      "ilişki": "sahiptir",
+      "uç": "önemli bir jeostratejik güç",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Topraklarının %97'si Asya üzerinde bulunur ve bu kısım Anadolu diye adlandırılır.",
+    "triple": {
+      "baş": "Topraklarının %97'si",
+      "baş_tipi": "Özellik",
+      "ilişki": "bulunur",
+      "uç": "Asya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Topraklarının %97'si Asya üzerinde bulunur ve bu kısım Anadolu diye adlandırılır.",
+    "triple": {
+      "baş": "bu kısım",
+      "baş_tipi": "Bölge",
+      "ilişki": "adlandırılır",
+      "uç": "Anadolu",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye'nin Avrupa 'daki kısmı olan Doğu Trakya 'da Yunanistan ve Bulgaristan ile sınırı bulunmaktadır. Asya 'daki kısmı olan Anadolu 'da ise dar kıyı ovalarıyla çevrilmiş yüksek bir merkezî platodur.",
+    "triple": {
+      "baş": "Doğu Trakya",
+      "baş_tipi": "Bölge",
+      "ilişki": "sınırı bulunmaktadır",
+      "uç": "Yunanistan",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye'nin Avrupa 'daki kısmı olan Doğu Trakya 'da Yunanistan ve Bulgaristan ile sınırı bulunmaktadır. Asya 'daki kısmı olan Anadolu 'da ise dar kıyı ovalarıyla çevrilmiş yüksek bir merkezî platodur.",
+    "triple": {
+      "baş": "Doğu Trakya",
+      "baş_tipi": "Bölge",
+      "ilişki": "sınırı bulunmaktadır",
+      "uç": "Bulgaristan",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye'nin Avrupa 'daki kısmı olan Doğu Trakya 'da Yunanistan ve Bulgaristan ile sınırı bulunmaktadır. Asya 'daki kısmı olan Anadolu 'da ise dar kıyı ovalarıyla çevrilmiş yüksek bir merkezî platodur.",
+    "triple": {
+      "baş": "Anadolu",
+      "baş_tipi": "Kıta",
+      "ilişki": "çevrilmiş",
+      "uç": "dar kıyı ovalarıyla",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türkiye",
+      "baş_tipi": "Ülke",
+      "ilişki": "ekonomisi olmuştur",
+      "uç": "dünyanın en büyük 17. ekonomisi",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türkiye",
+      "baş_tipi": "Ülke",
+      "ilişki": "ekonomisi olmuştur",
+      "uç": "Avrupa'nın en büyük 7. ekonomisi",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "İstanbul Havalimanı",
+      "baş_tipi": "Havalimanı",
+      "ilişki": "planlanıyor",
+      "uç": "dünyanın en büyük havalimanı olması",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türk Hava Yolları",
+      "baş_tipi": "Havayolu Şirketi",
+      "ilişki": "faaliyet göstermektedir",
+      "uç": "ülkede",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türk Hava Yolları",
+      "baş_tipi": "Havayolu Şirketi",
+      "ilişki": "gerçekleştiriyor",
+      "uç": "315 noktaya",
+      "uç_tipi": "Konum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türk Hava Yolları",
+      "baş_tipi": "Havayolu Şirketi",
+      "ilişki": "yapıyor",
+      "uç": "Dünyanın en çok yere sefer yapan havayolu firması",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türk Hava Yolları",
+      "baş_tipi": "Havayolu Şirketi",
+      "ilişki": "kullanıyor",
+      "uç": "İstanbul Havalimanı",
+      "uç_tipi": "Havalimanı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "15 Temmuz Şehitler Köprüsü (1973), Fatih Sultan Mehmet Köprüsü (1988) ve Yavuz Sultan Selim Köprüsü (2016), İstanbul Boğazı 'nın Avrupa ve Asya kıyılarını birbirine bağlayan üç asma köprüdür. Osmangazi Köprüsü (2016) İzmit Körfezi 'nin kuzey ve güney kıyılarını birbirine bağlar.",
+    "triple": {
+      "baş": "15 Temmuz Şehitler Köprüsü",
+      "baş_tipi": "Köprü",
+      "ilişki": "bağlayan",
+      "uç": "İstanbul Boğazı",
+      "uç_tipi": "Boğaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "15 Temmuz Şehitler Köprüsü (1973), Fatih Sultan Mehmet Köprüsü (1988) ve Yavuz Sultan Selim Köprüsü (2016), İstanbul Boğazı 'nın Avrupa ve Asya kıyılarını birbirine bağlayan üç asma köprüdür. Osmangazi Köprüsü (2016) İzmit Körfezi 'nin kuzey ve güney kıyılarını birbirine bağlar.",
+    "triple": {
+      "baş": "Fatih Sultan Mehmet Köprüsü",
+      "baş_tipi": "Köprü",
+      "ilişki": "bağlayan",
+      "uç": "İstanbul Boğazı",
+      "uç_tipi": "Boğaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "15 Temmuz Şehitler Köprüsü (1973), Fatih Sultan Mehmet Köprüsü (1988) ve Yavuz Sultan Selim Köprüsü (2016), İstanbul Boğazı 'nın Avrupa ve Asya kıyılarını birbirine bağlayan üç asma köprüdür. Osmangazi Köprüsü (2016) İzmit Körfezi 'nin kuzey ve güney kıyılarını birbirine bağlar.",
+    "triple": {
+      "baş": "Yavuz Sultan Selim Köprüsü",
+      "baş_tipi": "Köprü",
+      "ilişki": "bağlayan",
+      "uç": "İstanbul Boğazı",
+      "uç_tipi": "Boğaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "15 Temmuz Şehitler Köprüsü (1973), Fatih Sultan Mehmet Köprüsü (1988) ve Yavuz Sultan Selim Köprüsü (2016), İstanbul Boğazı 'nın Avrupa ve Asya kıyılarını birbirine bağlayan üç asma köprüdür. Osmangazi Köprüsü (2016) İzmit Körfezi 'nin kuzey ve güney kıyılarını birbirine bağlar.",
+    "triple": {
+      "baş": "İstanbul Boğazı",
+      "baş_tipi": "Boğaz",
+      "ilişki": "bağlayan",
+      "uç": "Avrupa kıyıları",
+      "uç_tipi": "Kıyı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "15 Temmuz Şehitler Köprüsü (1973), Fatih Sultan Mehmet Köprüsü (1988) ve Yavuz Sultan Selim Köprüsü (2016), İstanbul Boğazı 'nın Avrupa ve Asya kıyılarını birbirine bağlayan üç asma köprüdür. Osmangazi Köprüsü (2016) İzmit Körfezi 'nin kuzey ve güney kıyılarını birbirine bağlar.",
+    "triple": {
+      "baş": "İstanbul Boğazı",
+      "baş_tipi": "Boğaz",
+      "ilişki": "bağlayan",
+      "uç": "Asya kıyıları",
+      "uç_tipi": "Kıyı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "15 Temmuz Şehitler Köprüsü (1973), Fatih Sultan Mehmet Köprüsü (1988) ve Yavuz Sultan Selim Köprüsü (2016), İstanbul Boğazı 'nın Avrupa ve Asya kıyılarını birbirine bağlayan üç asma köprüdür. Osmangazi Köprüsü (2016) İzmit Körfezi 'nin kuzey ve güney kıyılarını birbirine bağlar.",
+    "triple": {
+      "baş": "Osmangazi Köprüsü",
+      "baş_tipi": "Köprü",
+      "ilişki": "bağlar",
+      "uç": "İzmit Körfezi'nin kuzey kıyıları",
+      "uç_tipi": "Kıyı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "15 Temmuz Şehitler Köprüsü (1973), Fatih Sultan Mehmet Köprüsü (1988) ve Yavuz Sultan Selim Köprüsü (2016), İstanbul Boğazı 'nın Avrupa ve Asya kıyılarını birbirine bağlayan üç asma köprüdür. Osmangazi Köprüsü (2016) İzmit Körfezi 'nin kuzey ve güney kıyılarını birbirine bağlar.",
+    "triple": {
+      "baş": "Osmangazi Köprüsü",
+      "baş_tipi": "Köprü",
+      "ilişki": "bağlar",
+      "uç": "İzmit Körfezi'nin güney kıyıları",
+      "uç_tipi": "Kıyı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Avrupa ← → Asya",
+    "triple": {
+      "baş": "Avrupa",
+      "baş_tipi": "Kıta",
+      "ilişki": "← →",
+      "uç": "Asya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Savaşan taraflar, çoğunlukla Avrupa , Kafkasya , Amerika , Orta Doğu ve Afrika ile Asya 'nın bazı bölgelerinden oluşmaktadır.",
+    "triple": {
+      "baş": "Savaşan taraflar",
+      "baş_tipi": "Grup",
+      "ilişki": "oluşmaktadır",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Savaşan taraflar, çoğunlukla Avrupa , Kafkasya , Amerika , Orta Doğu ve Afrika ile Asya 'nın bazı bölgelerinden oluşmaktadır.",
+    "triple": {
+      "baş": "Savaşan taraflar",
+      "baş_tipi": "Grup",
+      "ilişki": "oluşmaktadır",
+      "uç": "Kafkasya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Savaşan taraflar, çoğunlukla Avrupa , Kafkasya , Amerika , Orta Doğu ve Afrika ile Asya 'nın bazı bölgelerinden oluşmaktadır.",
+    "triple": {
+      "baş": "Savaşan taraflar",
+      "baş_tipi": "Grup",
+      "ilişki": "oluşmaktadır",
+      "uç": "Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Savaşan taraflar, çoğunlukla Avrupa , Kafkasya , Amerika , Orta Doğu ve Afrika ile Asya 'nın bazı bölgelerinden oluşmaktadır.",
+    "triple": {
+      "baş": "Savaşan taraflar",
+      "baş_tipi": "Grup",
+      "ilişki": "oluşmaktadır",
+      "uç": "Orta Doğu",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Savaşan taraflar, çoğunlukla Avrupa , Kafkasya , Amerika , Orta Doğu ve Afrika ile Asya 'nın bazı bölgelerinden oluşmaktadır.",
+    "triple": {
+      "baş": "Savaşan taraflar",
+      "baş_tipi": "Grup",
+      "ilişki": "oluşmaktadır",
+      "uç": "Afrika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Savaşan taraflar, çoğunlukla Avrupa , Kafkasya , Amerika , Orta Doğu ve Afrika ile Asya 'nın bazı bölgelerinden oluşmaktadır.",
+    "triple": {
+      "baş": "Savaşan taraflar",
+      "baş_tipi": "Grup",
+      "ilişki": "oluşmaktadır",
+      "uç": "Asya'nın bazı bölgeleri",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Rus İmparatorluğu 'nun başlangıcı 1721 yılındadır. 1866 yılında toprakları Asya , Avrupa ve Kuzey Amerika 'nın belirli bölümlerini kapsamıştır. 19. yüzyılın başında dünyanın en büyük ülkesi olmuş ve toprakları kuzeyde Kuzey Buz Denizi 'nden güneyde Karadeniz 'e, doğuda Pasifik 'ten batıda Baltık Denizi 'ne kadar uzanmıştır.",
+    "triple": {
+      "baş": "Rus İmparatorluğu",
+      "baş_tipi": "Devlet",
+      "ilişki": "kapsamıştır",
+      "uç": "Asya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Rus İmparatorluğu 'nun başlangıcı 1721 yılındadır. 1866 yılında toprakları Asya , Avrupa ve Kuzey Amerika 'nın belirli bölümlerini kapsamıştır. 19. yüzyılın başında dünyanın en büyük ülkesi olmuş ve toprakları kuzeyde Kuzey Buz Denizi 'nden güneyde Karadeniz 'e, doğuda Pasifik 'ten batıda Baltık Denizi 'ne kadar uzanmıştır.",
+    "triple": {
+      "baş": "Rus İmparatorluğu",
+      "baş_tipi": "Devlet",
+      "ilişki": "kapsamıştır",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Rus İmparatorluğu 'nun başlangıcı 1721 yılındadır. 1866 yılında toprakları Asya , Avrupa ve Kuzey Amerika 'nın belirli bölümlerini kapsamıştır. 19. yüzyılın başında dünyanın en büyük ülkesi olmuş ve toprakları kuzeyde Kuzey Buz Denizi 'nden güneyde Karadeniz 'e, doğuda Pasifik 'ten batıda Baltık Denizi 'ne kadar uzanmıştır.",
+    "triple": {
+      "baş": "Rus İmparatorluğu",
+      "baş_tipi": "Devlet",
+      "ilişki": "kapsamıştır",
+      "uç": "Kuzey Amerika'nın belirli bölümleri",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Rus İmparatorluğu 'nun başlangıcı 1721 yılındadır. 1866 yılında toprakları Asya , Avrupa ve Kuzey Amerika 'nın belirli bölümlerini kapsamıştır. 19. yüzyılın başında dünyanın en büyük ülkesi olmuş ve toprakları kuzeyde Kuzey Buz Denizi 'nden güneyde Karadeniz 'e, doğuda Pasifik 'ten batıda Baltık Denizi 'ne kadar uzanmıştır.",
+    "triple": {
+      "baş": "Rus İmparatorluğu",
+      "baş_tipi": "Devlet",
+      "ilişki": "olmuş",
+      "uç": "dünyanın en büyük ülkesi",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Rus İmparatorluğu 'nun başlangıcı 1721 yılındadır. 1866 yılında toprakları Asya , Avrupa ve Kuzey Amerika 'nın belirli bölümlerini kapsamıştır. 19. yüzyılın başında dünyanın en büyük ülkesi olmuş ve toprakları kuzeyde Kuzey Buz Denizi 'nden güneyde Karadeniz 'e, doğuda Pasifik 'ten batıda Baltık Denizi 'ne kadar uzanmıştır.",
+    "triple": {
+      "baş": "Rus İmparatorluğu toprakları",
+      "baş_tipi": "Toprak",
+      "ilişki": "uzanmıştır",
+      "uç": "Kuzey Buz Denizi",
+      "uç_tipi": "Deniz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Rus İmparatorluğu 'nun başlangıcı 1721 yılındadır. 1866 yılında toprakları Asya , Avrupa ve Kuzey Amerika 'nın belirli bölümlerini kapsamıştır. 19. yüzyılın başında dünyanın en büyük ülkesi olmuş ve toprakları kuzeyde Kuzey Buz Denizi 'nden güneyde Karadeniz 'e, doğuda Pasifik 'ten batıda Baltık Denizi 'ne kadar uzanmıştır.",
+    "triple": {
+      "baş": "Rus İmparatorluğu toprakları",
+      "baş_tipi": "Toprak",
+      "ilişki": "uzanmıştır",
+      "uç": "Karadeniz",
+      "uç_tipi": "Deniz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Rus İmparatorluğu 'nun başlangıcı 1721 yılındadır. 1866 yılında toprakları Asya , Avrupa ve Kuzey Amerika 'nın belirli bölümlerini kapsamıştır. 19. yüzyılın başında dünyanın en büyük ülkesi olmuş ve toprakları kuzeyde Kuzey Buz Denizi 'nden güneyde Karadeniz 'e, doğuda Pasifik 'ten batıda Baltık Denizi 'ne kadar uzanmıştır.",
+    "triple": {
+      "baş": "Rus İmparatorluğu toprakları",
+      "baş_tipi": "Toprak",
+      "ilişki": "uzanmıştır",
+      "uç": "Pasifik",
+      "uç_tipi": "Okyanus"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Rus İmparatorluğu 'nun başlangıcı 1721 yılındadır. 1866 yılında toprakları Asya , Avrupa ve Kuzey Amerika 'nın belirli bölümlerini kapsamıştır. 19. yüzyılın başında dünyanın en büyük ülkesi olmuş ve toprakları kuzeyde Kuzey Buz Denizi 'nden güneyde Karadeniz 'e, doğuda Pasifik 'ten batıda Baltık Denizi 'ne kadar uzanmıştır.",
+    "triple": {
+      "baş": "Rus İmparatorluğu toprakları",
+      "baş_tipi": "Toprak",
+      "ilişki": "uzanmıştır",
+      "uç": "Baltık Denizi",
+      "uç_tipi": "Deniz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye'de İstanbul ile birlikte, Asya ve Avrupa kıtalarında toprakları bulunan ve dolayısıyla boğazı olan iki ilden biridir.",
+    "triple": {
+      "baş": "Türkiye",
+      "baş_tipi": "Ülke",
+      "ilişki": "bulunan",
+      "uç": "Asya kıtası",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye'de İstanbul ile birlikte, Asya ve Avrupa kıtalarında toprakları bulunan ve dolayısıyla boğazı olan iki ilden biridir.",
+    "triple": {
+      "baş": "Türkiye",
+      "baş_tipi": "Ülke",
+      "ilişki": "bulunan",
+      "uç": "Avrupa kıtası",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Türkiye'de İstanbul ile birlikte, Asya ve Avrupa kıtalarında toprakları bulunan ve dolayısıyla boğazı olan iki ilden biridir.",
+    "triple": {
+      "baş": "Türkiye",
+      "baş_tipi": "Ülke",
+      "ilişki": "olan",
+      "uç": "iki ilden biri",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "İstanbul, Avrupa'daki en kalabalık şehirlerden biri olmasının yanı sıra, dünya genelinde de nüfus bakımından en kalabalık şehirler arasında yer alır. İstanbul, iki kıtada yer alan bir şehir olup, nüfusunun yaklaşık üçte ikisi Avrupa yakasında, geri kalanı ise Asya yakasında yaşamaktadır.",
+    "triple": {
+      "baş": "İstanbul",
+      "baş_tipi": "Şehir",
+      "ilişki": "yer alır",
+      "uç": "dünya genelinde en kalabalık şehirler arasında",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "İstanbul, Avrupa'daki en kalabalık şehirlerden biri olmasının yanı sıra, dünya genelinde de nüfus bakımından en kalabalık şehirler arasında yer alır. İstanbul, iki kıtada yer alan bir şehir olup, nüfusunun yaklaşık üçte ikisi Avrupa yakasında, geri kalanı ise Asya yakasında yaşamaktadır.",
+    "triple": {
+      "baş": "İstanbul",
+      "baş_tipi": "Şehir",
+      "ilişki": "yer alan",
+      "uç": "iki kıta",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "İstanbul, Avrupa'daki en kalabalık şehirlerden biri olmasının yanı sıra, dünya genelinde de nüfus bakımından en kalabalık şehirler arasında yer alır. İstanbul, iki kıtada yer alan bir şehir olup, nüfusunun yaklaşık üçte ikisi Avrupa yakasında, geri kalanı ise Asya yakasında yaşamaktadır.",
+    "triple": {
+      "baş": "nüfusunun yaklaşık üçte ikisi",
+      "baş_tipi": "Özellik",
+      "ilişki": "yaşamaktadır",
+      "uç": "Avrupa yakası",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "İstanbul, Avrupa'daki en kalabalık şehirlerden biri olmasının yanı sıra, dünya genelinde de nüfus bakımından en kalabalık şehirler arasında yer alır. İstanbul, iki kıtada yer alan bir şehir olup, nüfusunun yaklaşık üçte ikisi Avrupa yakasında, geri kalanı ise Asya yakasında yaşamaktadır.",
+    "triple": {
+      "baş": "geri kalanı",
+      "baş_tipi": "Özellik",
+      "ilişki": "yaşamaktadır",
+      "uç": "Asya yakası",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Karadeniz ile Marmara Denizi 'ni bağlayan ve Asya ile Avrupa 'yı ayıran İstanbul Boğazı 'na ev sahipliği yapması nedeniyle, İstanbul'un jeopolitik önemi oldukça yüksektir.",
+    "triple": {
+      "baş": "İstanbul Boğazı",
+      "baş_tipi": "Boğaz",
+      "ilişki": "bağlayan",
+      "uç": "Karadeniz",
+      "uç_tipi": "Deniz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Karadeniz ile Marmara Denizi 'ni bağlayan ve Asya ile Avrupa 'yı ayıran İstanbul Boğazı 'na ev sahipliği yapması nedeniyle, İstanbul'un jeopolitik önemi oldukça yüksektir.",
+    "triple": {
+      "baş": "İstanbul Boğazı",
+      "baş_tipi": "Boğaz",
+      "ilişki": "bağlayan",
+      "uç": "Marmara Denizi",
+      "uç_tipi": "Deniz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Karadeniz ile Marmara Denizi 'ni bağlayan ve Asya ile Avrupa 'yı ayıran İstanbul Boğazı 'na ev sahipliği yapması nedeniyle, İstanbul'un jeopolitik önemi oldukça yüksektir.",
+    "triple": {
+      "baş": "İstanbul Boğazı",
+      "baş_tipi": "Boğaz",
+      "ilişki": "ayıran",
+      "uç": "Asya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Karadeniz ile Marmara Denizi 'ni bağlayan ve Asya ile Avrupa 'yı ayıran İstanbul Boğazı 'na ev sahipliği yapması nedeniyle, İstanbul'un jeopolitik önemi oldukça yüksektir.",
+    "triple": {
+      "baş": "İstanbul Boğazı",
+      "baş_tipi": "Boğaz",
+      "ilişki": "ayıran",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Karadeniz ile Marmara Denizi 'ni bağlayan ve Asya ile Avrupa 'yı ayıran İstanbul Boğazı 'na ev sahipliği yapması nedeniyle, İstanbul'un jeopolitik önemi oldukça yüksektir.",
+    "triple": {
+      "baş": "İstanbul",
+      "baş_tipi": "Şehir",
+      "ilişki": "önemi yüksektir",
+      "uç": "jeopolitik",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "İstanbul'u oluşturan yarımadalardan Çatalca Avrupa , Kocaeli ise Asya anakaralarındadır.",
+    "triple": {
+      "baş": "Çatalca",
+      "baş_tipi": "Yarımada",
+      "ilişki": "anakarasındadır",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "İstanbul'u oluşturan yarımadalardan Çatalca Avrupa , Kocaeli ise Asya anakaralarındadır.",
+    "triple": {
+      "baş": "Kocaeli",
+      "baş_tipi": "Yarımada",
+      "ilişki": "anakarasındadır",
+      "uç": "Asya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Hint Okyanusu , kuzeyde Asya , batıda Afrika ve Arabistan Yarımadası , doğuda Malay Yarımadası , Sunda Adaları ve Okyanusya tarafından çevrilen, dünyanın üçüncü büyük okyanusudur .",
+    "triple": {
+      "baş": "Hint Okyanusu",
+      "baş_tipi": "Okyanus",
+      "ilişki": "çevrilen",
+      "uç": "Asya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Hint Okyanusu , kuzeyde Asya , batıda Afrika ve Arabistan Yarımadası , doğuda Malay Yarımadası , Sunda Adaları ve Okyanusya tarafından çevrilen, dünyanın üçüncü büyük okyanusudur .",
+    "triple": {
+      "baş": "Hint Okyanusu",
+      "baş_tipi": "Okyanus",
+      "ilişki": "çevrilen",
+      "uç": "Afrika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Hint Okyanusu , kuzeyde Asya , batıda Afrika ve Arabistan Yarımadası , doğuda Malay Yarımadası , Sunda Adaları ve Okyanusya tarafından çevrilen, dünyanın üçüncü büyük okyanusudur .",
+    "triple": {
+      "baş": "Hint Okyanusu",
+      "baş_tipi": "Okyanus",
+      "ilişki": "çevrilen",
+      "uç": "Arabistan Yarımadası",
+      "uç_tipi": "Yarımada"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Hint Okyanusu , kuzeyde Asya , batıda Afrika ve Arabistan Yarımadası , doğuda Malay Yarımadası , Sunda Adaları ve Okyanusya tarafından çevrilen, dünyanın üçüncü büyük okyanusudur .",
+    "triple": {
+      "baş": "Hint Okyanusu",
+      "baş_tipi": "Okyanus",
+      "ilişki": "çevrilen",
+      "uç": "Malay Yarımadası",
+      "uç_tipi": "Yarımada"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Hint Okyanusu , kuzeyde Asya , batıda Afrika ve Arabistan Yarımadası , doğuda Malay Yarımadası , Sunda Adaları ve Okyanusya tarafından çevrilen, dünyanın üçüncü büyük okyanusudur .",
+    "triple": {
+      "baş": "Hint Okyanusu",
+      "baş_tipi": "Okyanus",
+      "ilişki": "çevrilen",
+      "uç": "Sunda Adaları",
+      "uç_tipi": "Ada"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Hint Okyanusu , kuzeyde Asya , batıda Afrika ve Arabistan Yarımadası , doğuda Malay Yarımadası , Sunda Adaları ve Okyanusya tarafından çevrilen, dünyanın üçüncü büyük okyanusudur .",
+    "triple": {
+      "baş": "Hint Okyanusu",
+      "baş_tipi": "Okyanus",
+      "ilişki": "çevrilen",
+      "uç": "Okyanusya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Hint Okyanusu , kuzeyde Asya , batıda Afrika ve Arabistan Yarımadası , doğuda Malay Yarımadası , Sunda Adaları ve Okyanusya tarafından çevrilen, dünyanın üçüncü büyük okyanusudur .",
+    "triple": {
+      "baş": "Hint Okyanusu",
+      "baş_tipi": "Okyanus",
+      "ilişki": "olan",
+      "uç": "dünyanın üçüncü büyük okyanusu",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Afrika , Antarktika , Asya ve Avustralya arası",
+    "triple": {
+      "baş": "Afrika",
+      "baş_tipi": "Kıta",
+      "ilişki": "arası",
+      "uç": "Antarktika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Afrika , Antarktika , Asya ve Avustralya arası",
+    "triple": {
+      "baş": "Afrika",
+      "baş_tipi": "Kıta",
+      "ilişki": "arası",
+      "uç": "Asya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Afrika , Antarktika , Asya ve Avustralya arası",
+    "triple": {
+      "baş": "Afrika",
+      "baş_tipi": "Kıta",
+      "ilişki": "arası",
+      "uç": "Avustralya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Budizm, Siddhartha Gautama'nın ölümünden sonra 500 sene boyunca Hint Yarımadası 'nda, daha sonra Asya ve Dünya'nın geri kalanında yayılmaya başladı.",
+    "triple": {
+      "baş": "Budizm",
+      "baş_tipi": "Din",
+      "ilişki": "yayılmaya başladı",
+      "uç": "Hint Yarımadası",
+      "uç_tipi": "Yarımada"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Budizm, Siddhartha Gautama'nın ölümünden sonra 500 sene boyunca Hint Yarımadası 'nda, daha sonra Asya ve Dünya'nın geri kalanında yayılmaya başladı.",
+    "triple": {
+      "baş": "Budizm",
+      "baş_tipi": "Din",
+      "ilişki": "yayılmaya başladı",
+      "uç": "Asya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Budizm, Siddhartha Gautama'nın ölümünden sonra 500 sene boyunca Hint Yarımadası 'nda, daha sonra Asya ve Dünya'nın geri kalanında yayılmaya başladı.",
+    "triple": {
+      "baş": "Budizm",
+      "baş_tipi": "Din",
+      "ilişki": "yayılmaya başladı",
+      "uç": "Dünya'nın geri kalanı",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Batılı siyasi, adli ve askerî kurumları benimseyen Kabine, Özel Konsey'i organize etti, Meiji Anayasası 'nı tanıttı (29 Kasım 1890) ve İmparatorluk Diyeti 'ni topladı. Meiji Dönemi 'nde (1868-1912), Japon İmparatorluğu , Asya 'daki en gelişmiş ülke ve etki alanını genişletmek için askerî çatışma peşinde koşan sanayileşmiş bir dünya gücü olarak ortaya çıktı. Birinci Çin-Japon Savaşı (1894-1895) ve Rus-Japon Savaşı 'ndaki (1904-1905) zaferlerden sonra Japonya; Tayvan , Kore ve Sahalin 'in güney yarısının kontrolünü ele geçirdi.",
+    "triple": {
+      "baş": "Japon İmparatorluğu",
+      "baş_tipi": "Devlet",
+      "ilişki": "ortaya çıktı",
+      "uç": "Asya'daki en gelişmiş ülke",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Batılı siyasi, adli ve askerî kurumları benimseyen Kabine, Özel Konsey'i organize etti, Meiji Anayasası 'nı tanıttı (29 Kasım 1890) ve İmparatorluk Diyeti 'ni topladı. Meiji Dönemi 'nde (1868-1912), Japon İmparatorluğu , Asya 'daki en gelişmiş ülke ve etki alanını genişletmek için askerî çatışma peşinde koşan sanayileşmiş bir dünya gücü olarak ortaya çıktı. Birinci Çin-Japon Savaşı (1894-1895) ve Rus-Japon Savaşı 'ndaki (1904-1905) zaferlerden sonra Japonya; Tayvan , Kore ve Sahalin 'in güney yarısının kontrolünü ele geçirdi.",
+    "triple": {
+      "baş": "Japon İmparatorluğu",
+      "baş_tipi": "Devlet",
+      "ilişki": "ortaya çıktı",
+      "uç": "sanayileşmiş bir dünya gücü",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Batılı siyasi, adli ve askerî kurumları benimseyen Kabine, Özel Konsey'i organize etti, Meiji Anayasası 'nı tanıttı (29 Kasım 1890) ve İmparatorluk Diyeti 'ni topladı. Meiji Dönemi 'nde (1868-1912), Japon İmparatorluğu , Asya 'daki en gelişmiş ülke ve etki alanını genişletmek için askerî çatışma peşinde koşan sanayileşmiş bir dünya gücü olarak ortaya çıktı. Birinci Çin-Japon Savaşı (1894-1895) ve Rus-Japon Savaşı 'ndaki (1904-1905) zaferlerden sonra Japonya; Tayvan , Kore ve Sahalin 'in güney yarısının kontrolünü ele geçirdi.",
+    "triple": {
+      "baş": "Japonya",
+      "baş_tipi": "Devlet",
+      "ilişki": "ele geçirdi",
+      "uç": "Tayvan",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Batılı siyasi, adli ve askerî kurumları benimseyen Kabine, Özel Konsey'i organize etti, Meiji Anayasası 'nı tanıttı (29 Kasım 1890) ve İmparatorluk Diyeti 'ni topladı. Meiji Dönemi 'nde (1868-1912), Japon İmparatorluğu , Asya 'daki en gelişmiş ülke ve etki alanını genişletmek için askerî çatışma peşinde koşan sanayileşmiş bir dünya gücü olarak ortaya çıktı. Birinci Çin-Japon Savaşı (1894-1895) ve Rus-Japon Savaşı 'ndaki (1904-1905) zaferlerden sonra Japonya; Tayvan , Kore ve Sahalin 'in güney yarısının kontrolünü ele geçirdi.",
+    "triple": {
+      "baş": "Japonya",
+      "baş_tipi": "Devlet",
+      "ilişki": "ele geçirdi",
+      "uç": "Kore",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Batılı siyasi, adli ve askerî kurumları benimseyen Kabine, Özel Konsey'i organize etti, Meiji Anayasası 'nı tanıttı (29 Kasım 1890) ve İmparatorluk Diyeti 'ni topladı. Meiji Dönemi 'nde (1868-1912), Japon İmparatorluğu , Asya 'daki en gelişmiş ülke ve etki alanını genişletmek için askerî çatışma peşinde koşan sanayileşmiş bir dünya gücü olarak ortaya çıktı. Birinci Çin-Japon Savaşı (1894-1895) ve Rus-Japon Savaşı 'ndaki (1904-1905) zaferlerden sonra Japonya; Tayvan , Kore ve Sahalin 'in güney yarısının kontrolünü ele geçirdi.",
+    "triple": {
+      "baş": "Japonya",
+      "baş_tipi": "Devlet",
+      "ilişki": "ele geçirdi",
+      "uç": "Sahalin'in güney yarısı",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Asya'nın %54'ü",
+      "baş_tipi": "Özellik",
+      "ilişki": "kaplıdır",
+      "uç": "dağlarla",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Kuzey Amerika'nın %36'sı",
+      "baş_tipi": "Özellik",
+      "ilişki": "kaplıdır",
+      "uç": "dağlarla",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Avrupa'nın %25'i",
+      "baş_tipi": "Özellik",
+      "ilişki": "kaplıdır",
+      "uç": "dağlarla",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Güney Amerika'nın %22'si",
+      "baş_tipi": "Özellik",
+      "ilişki": "kaplıdır",
+      "uç": "dağlarla",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Avustralya'nın %17'si",
+      "baş_tipi": "Özellik",
+      "ilişki": "kaplıdır",
+      "uç": "dağlarla",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Afrika'nın %3'ü",
+      "baş_tipi": "Özellik",
+      "ilişki": "kaplıdır",
+      "uç": "dağlarla",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Rus kaşifler doğuyu öncelikle Sibirya Nehir Rotaları boyunca keşfettiler ve 17. yüzyılın ortalarına gelindiğinde Doğu Sibirya'da, Çukçi Yarımadası 'nda, Amur Nehri boyunca ve Pasifik kıyılarında Rus yerleşimleri bulunmaktaydı. 1648 yılında Asya ve Kuzey Amerika arasındaki Bering Boğazı ilk kez Fedot Popov ve Semyon Dejnyov tarafından geçildi.",
+    "triple": {
+      "baş": "Asya",
+      "baş_tipi": "Kıta",
+      "ilişki": "arasındaki",
+      "uç": "Bering Boğazı",
+      "uç_tipi": "Boğaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Rus kaşifler doğuyu öncelikle Sibirya Nehir Rotaları boyunca keşfettiler ve 17. yüzyılın ortalarına gelindiğinde Doğu Sibirya'da, Çukçi Yarımadası 'nda, Amur Nehri boyunca ve Pasifik kıyılarında Rus yerleşimleri bulunmaktaydı. 1648 yılında Asya ve Kuzey Amerika arasındaki Bering Boğazı ilk kez Fedot Popov ve Semyon Dejnyov tarafından geçildi.",
+    "triple": {
+      "baş": "Bering Boğazı",
+      "baş_tipi": "Boğaz",
+      "ilişki": "geçildi",
+      "uç": "Fedot Popov",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Rus kaşifler doğuyu öncelikle Sibirya Nehir Rotaları boyunca keşfettiler ve 17. yüzyılın ortalarına gelindiğinde Doğu Sibirya'da, Çukçi Yarımadası 'nda, Amur Nehri boyunca ve Pasifik kıyılarında Rus yerleşimleri bulunmaktaydı. 1648 yılında Asya ve Kuzey Amerika arasındaki Bering Boğazı ilk kez Fedot Popov ve Semyon Dejnyov tarafından geçildi.",
+    "triple": {
+      "baş": "Bering Boğazı",
+      "baş_tipi": "Boğaz",
+      "ilişki": "geçildi",
+      "uç": "Semyon Dejnyov",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Bunlar ağırlıklı olarak Quechua (% 40) ve Aymará (% 5) konuşan halklara aittir. % 37 melez olan halkın, % 15 kadarı Avrupa kökenli , geri kalan % 3 ise kısmen Afrika kısmen ise Asya kökenlidir.",
+    "triple": {
+      "baş": "% 15 kadarı",
+      "baş_tipi": "Özellik",
+      "ilişki": "kökenli",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Bunlar ağırlıklı olarak Quechua (% 40) ve Aymará (% 5) konuşan halklara aittir. % 37 melez olan halkın, % 15 kadarı Avrupa kökenli , geri kalan % 3 ise kısmen Afrika kısmen ise Asya kökenlidir.",
+    "triple": {
+      "baş": "geri kalan % 3",
+      "baş_tipi": "Özellik",
+      "ilişki": "kökenli",
+      "uç": "Afrika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Bunlar ağırlıklı olarak Quechua (% 40) ve Aymará (% 5) konuşan halklara aittir. % 37 melez olan halkın, % 15 kadarı Avrupa kökenli , geri kalan % 3 ise kısmen Afrika kısmen ise Asya kökenlidir.",
+    "triple": {
+      "baş": "geri kalan % 3",
+      "baş_tipi": "Özellik",
+      "ilişki": "kökenli",
+      "uç": "Asya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Aconcagua , 6.962,97 m yükseklik ile Güney Amerika 'nın en yüksek dağı. Aynı zamanda Asya kıtası dışında bulunan en yüksek dağdır .",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "olan",
+      "uç": "Güney Amerika'nın en yüksek dağı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Asya)",
+    "metin": "Aconcagua , 6.962,97 m yükseklik ile Güney Amerika 'nın en yüksek dağı. Aynı zamanda Asya kıtası dışında bulunan en yüksek dağdır .",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "olan",
+      "uç": "Asya kıtası dışında bulunan en yüksek dağ",
+      "uç_tipi": "Özellik"
+    }
+  }
+]

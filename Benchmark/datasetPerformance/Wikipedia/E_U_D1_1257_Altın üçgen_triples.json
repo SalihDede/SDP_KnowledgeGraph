@@ -1,0 +1,444 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Rene_Descartes)",
+    "metin": "Spiral, Rene Descartes tarafından adlandırıldığı şekliyle, eşaçılı spiral olarak da bilinir.",
+    "triple": {
+      "baş": "Spiral",
+      "baş_tipi": "Kavram",
+      "ilişki": "aynı zamanda bilinir",
+      "uç": "Eşaçılı spiral",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Rene_Descartes)",
+    "metin": "Spiral, Rene Descartes tarafından adlandırıldığı şekliyle, eşaçılı spiral olarak da bilinir.",
+    "triple": {
+      "baş": "Spiral",
+      "baş_tipi": "Kavram",
+      "ilişki": "adlandırıldı",
+      "uç": "Rene Descartes",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Logaritmik_spiral)",
+    "metin": "Altın üçgenle logaritmik spiral elde edilebilir.",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "ile elde edilebilir",
+      "uç": "logaritmik spiral",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Logaritmik_spiral)",
+    "metin": "Bu üçgenlerin köşelerinden geçecek şekilde bir logaritmik spiral çizilebilir.",
+    "triple": {
+      "baş": "logaritmik spiral",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "köşelerinden geçer",
+      "uç": "Altın üçgen",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dodekahedron)",
+    "metin": "Altın üçgenlere dodekahedronlarda , ikozahedronlarda ve ayrıca pentegramlarda rastlanabilir.",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "bulunur",
+      "uç": "Dodekahedron",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dodekahedron)",
+    "metin": "Altın üçgenlere dodekahedronlarda , ikozahedronlarda ve ayrıca pentegramlarda rastlanabilir.",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "bulunur",
+      "uç": "İkozahedron",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dodekahedron)",
+    "metin": "Altın üçgenlere dodekahedronlarda , ikozahedronlarda ve ayrıca pentegramlarda rastlanabilir.",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "bulunur",
+      "uç": "Pentegram",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=%C4%B0kozahedron&action=edit&redlink=1)",
+    "metin": "Altın üçgenlere dodekahedronlarda , ikozahedronlarda ve ayrıca pentegramlarda rastlanabilir.",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "bulunur",
+      "uç": "Dodekahedron",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=%C4%B0kozahedron&action=edit&redlink=1)",
+    "metin": "Altın üçgenlere dodekahedronlarda , ikozahedronlarda ve ayrıca pentegramlarda rastlanabilir.",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "bulunur",
+      "uç": "İkozahedron",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=%C4%B0kozahedron&action=edit&redlink=1)",
+    "metin": "Altın üçgenlere dodekahedronlarda , ikozahedronlarda ve ayrıca pentegramlarda rastlanabilir.",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "bulunur",
+      "uç": "Pentegram",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pentegram)",
+    "metin": "Altın üçgenlere dodekahedronlarda , ikozahedronlarda ve ayrıca pentegramlarda rastlanabilir.",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "bulunur",
+      "uç": "Dodekahedron",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pentegram)",
+    "metin": "Altın üçgenlere dodekahedronlarda , ikozahedronlarda ve ayrıca pentegramlarda rastlanabilir.",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "bulunur",
+      "uç": "İkozahedron",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pentegram)",
+    "metin": "Altın üçgenlere dodekahedronlarda , ikozahedronlarda ve ayrıca pentegramlarda rastlanabilir.",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "bulunur",
+      "uç": "Pentegram",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0kizkenar_%C3%BC%C3%A7gen)",
+    "metin": "Altın üçgen , eş kenarlarının diğer kenara oranı φ'ye, altın oran, eşit olan ikizkenar üçgen .",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "özelliği",
+      "uç": "ikizkenar üçgen",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0kizkenar_%C3%BC%C3%A7gen)",
+    "metin": "Altın üçgen , eş kenarlarının diğer kenara oranı φ'ye, altın oran, eşit olan ikizkenar üçgen .",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "oranı",
+      "uç": "φ",
+      "uç_tipi": "Sayısal Değer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0kizkenar_%C3%BC%C3%A7gen)",
+    "metin": "Altın üçgen , eş kenarlarının diğer kenara oranı φ'ye, altın oran, eşit olan ikizkenar üçgen .",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "oranı",
+      "uç": "altın oran",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ongen)",
+    "metin": "İç açılar toplamı 180° olacağından, taban açıları eşit ve 72°'dir.",
+    "triple": {
+      "baş": "taban açıları",
+      "baş_tipi": "Özellik",
+      "ilişki": "toplamı",
+      "uç": "180°",
+      "uç_tipi": "Derece"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ongen)",
+    "metin": "İç açılar toplamı 180° olacağından, taban açıları eşit ve 72°'dir.",
+    "triple": {
+      "baş": "taban açıları",
+      "baş_tipi": "Özellik",
+      "ilişki": "değeri",
+      "uç": "72°",
+      "uç_tipi": "Derece"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ongen)",
+    "metin": "Altın üçgen bir ongende , birbirine takip eden iki köşeyi merkeze birleştirerek de oluşturulabilir.",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "oluşturulabilir",
+      "uç": "bir ongende",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ongen)",
+    "metin": "Altın üçgen bir ongende , birbirine takip eden iki köşeyi merkeze birleştirerek de oluşturulabilir.",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "oluşturulma yöntemi",
+      "uç": "birbirine takip eden iki köşeyi merkeze birleştirerek",
+      "uç_tipi": "Yöntem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mona_Lisa)",
+    "metin": "Fransa'daki birçok müze tamamen veya kısmen heykellere ve resim çalışmalarına ayrılmıştır. 18. yüzyıldan önce veya 18. yüzyıl boyunca yaratılan büyük bir eski başyapıt koleksiyonu, \"La Joconde\" olarak da bilinen \" Mona Lisa \" gibi devlete ait Louvre müzesi ‘nde sergilenir.",
+    "triple": {
+      "baş": "Mona Lisa",
+      "baş_tipi": "Eser",
+      "ilişki": "bulunur",
+      "uç": "Louvre Müzesi",
+      "uç_tipi": "Müze"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mona_Lisa)",
+    "metin": "Fransa'daki birçok müze tamamen veya kısmen heykellere ve resim çalışmalarına ayrılmıştır. 18. yüzyıldan önce veya 18. yüzyıl boyunca yaratılan büyük bir eski başyapıt koleksiyonu, \"La Joconde\" olarak da bilinen \" Mona Lisa \" gibi devlete ait Louvre müzesi ‘nde sergilenir.",
+    "triple": {
+      "baş": "Mona Lisa",
+      "baş_tipi": "Eser",
+      "ilişki": "alternatif adı",
+      "uç": "La Joconde",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mona_Lisa)",
+    "metin": "Mona Lisa Son Akşam Yemeği Vitruvius Adamı",
+    "triple": {
+      "baş": "Mona Lisa",
+      "baş_tipi": "Eser",
+      "ilişki": "benzer",
+      "uç": "Son Akşam Yemeği",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mona_Lisa)",
+    "metin": "Mona Lisa Son Akşam Yemeği Vitruvius Adamı",
+    "triple": {
+      "baş": "Mona Lisa",
+      "baş_tipi": "Eser",
+      "ilişki": "benzer",
+      "uç": "Vitruvius Adamı",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mona_Lisa)",
+    "metin": "Bülent Atalay, Matematik ve Mona Lisa adlı kitabında Mona Lisa 'da altın üçgenlerin görülebileceğini belirtmiştir.",
+    "triple": {
+      "baş": "Bülent Atalay",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazdı",
+      "uç": "Matematik ve Mona Lisa",
+      "uç_tipi": "Kitap"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mona_Lisa)",
+    "metin": "Bülent Atalay, Matematik ve Mona Lisa adlı kitabında Mona Lisa 'da altın üçgenlerin görülebileceğini belirtmiştir.",
+    "triple": {
+      "baş": "Mona Lisa",
+      "baş_tipi": "Eser",
+      "ilişki": "içerir",
+      "uç": "altın üçgenler",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C3%9C%C3%A7gen)",
+    "metin": "Bu dönemde sanatçılar amforalar ve çeşitli çömlekler üzerine üçgen , kare , çember gibi geometrik şekiller yapmışlardır.",
+    "triple": {
+      "baş": "sanatçılar",
+      "baş_tipi": "Kişi",
+      "ilişki": "yapmıştır",
+      "uç": "üçgen",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C3%9C%C3%A7gen)",
+    "metin": "Bu dönemde sanatçılar amforalar ve çeşitli çömlekler üzerine üçgen , kare , çember gibi geometrik şekiller yapmışlardır.",
+    "triple": {
+      "baş": "sanatçılar",
+      "baş_tipi": "Kişi",
+      "ilişki": "yapmıştır",
+      "uç": "kare",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C3%9C%C3%A7gen)",
+    "metin": "Bu dönemde sanatçılar amforalar ve çeşitli çömlekler üzerine üçgen , kare , çember gibi geometrik şekiller yapmışlardır.",
+    "triple": {
+      "baş": "sanatçılar",
+      "baş_tipi": "Kişi",
+      "ilişki": "yapmıştır",
+      "uç": "çember",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C3%9C%C3%A7gen)",
+    "metin": "Bu dönemde sanatçılar amforalar ve çeşitli çömlekler üzerine üçgen , kare , çember gibi geometrik şekiller yapmışlardır.",
+    "triple": {
+      "baş": "amforalar",
+      "baş_tipi": "Nesne",
+      "ilişki": "üzerine yapılmıştır",
+      "uç": "geometrik şekiller",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C3%9C%C3%A7gen)",
+    "metin": "Bu dönemde sanatçılar amforalar ve çeşitli çömlekler üzerine üçgen , kare , çember gibi geometrik şekiller yapmışlardır.",
+    "triple": {
+      "baş": "çeşitli çömlekler",
+      "baş_tipi": "Nesne",
+      "ilişki": "üzerine yapılmıştır",
+      "uç": "geometrik şekiller",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C3%9C%C3%A7gen)",
+    "metin": "Altın üçgen , eş kenarlarının diğer kenara oranı φ'ye, altın oran, eşit olan ikizkenar üçgen .",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "oranı",
+      "uç": "φ",
+      "uç_tipi": "Sayısal Değer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C3%9C%C3%A7gen)",
+    "metin": "Altın üçgen , eş kenarlarının diğer kenara oranı φ'ye, altın oran, eşit olan ikizkenar üçgen .",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "eşittir",
+      "uç": "altın oran",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C3%9C%C3%A7gen)",
+    "metin": "Altın üçgen , eş kenarlarının diğer kenara oranı φ'ye, altın oran, eşit olan ikizkenar üçgen .",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "türüdür",
+      "uç": "ikizkenar üçgen",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  }
+]

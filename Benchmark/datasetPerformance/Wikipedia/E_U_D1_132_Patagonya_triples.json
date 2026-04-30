@@ -1,0 +1,4318 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Santa_Cruz)",
+    "metin": "Hatta bu sayı Arjantin'in Santa Cruz eyaletinde 1 kişinin altına düşer.",
+    "triple": {
+      "baş": "Santa Cruz",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ate%C5%9F_Topraklar%C4%B1)",
+    "metin": "Magellan Boğazının güneyindeki Ateş Toprakları da Patagonya'ya dâhil edilebilir.",
+    "triple": {
+      "baş": "Ateş Toprakları",
+      "baş_tipi": "Bölge",
+      "ilişki": "dahil",
+      "uç": "Patagonya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ate%C5%9F_Topraklar%C4%B1)",
+    "metin": "Güneyinde yarı Antarktika ikliminin hüküm sürdüğü Ateş Toprakları ( Tierra del Fuego ) bulunur.",
+    "triple": {
+      "baş": "Ateş Toprakları",
+      "baş_tipi": "Bölge",
+      "ilişki": "iklim",
+      "uç": "yarı Antarktika iklimi",
+      "uç_tipi": "İklim"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pampas)",
+    "metin": "Düz alanlarında, pampas denen bu yöreye özgü otluk steplerin hakimiyeti vardır.",
+    "triple": {
+      "baş": "pampas",
+      "baş_tipi": "Bölge",
+      "ilişki": "sahiptir",
+      "uç": "otluk stepler",
+      "uç_tipi": "Bitki Örtüsü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pampas)",
+    "metin": "Düz alanlarında, pampas denen bu yöreye özgü otluk steplerin hakimiyeti vardır.",
+    "triple": {
+      "baş": "pampas",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Düz alanlar",
+      "uç_tipi": "Arazi Yapısı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0spanyolca)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0spanyolca)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0spanyolca)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "yer alır",
+      "uç": "güney",
+      "uç_tipi": "Yön"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Valdivia_Ya%C4%9Fmur_Ormanlar%C4%B1&action=edit&redlink=1)",
+    "metin": "Şili kesimi ise Valdivia Yağmur Ormanları 'nın etkisiyle oldukça yağmur çeker.",
+    "triple": {
+      "baş": "Şili kesimi",
+      "baş_tipi": "Bölge",
+      "ilişki": "etkilenir",
+      "uç": "Valdivia Yağmur Ormanları",
+      "uç_tipi": "Doğal Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Valdivia_Ya%C4%9Fmur_Ormanlar%C4%B1&action=edit&redlink=1)",
+    "metin": "Şili kesimi ise Valdivia Yağmur Ormanları 'nın etkisiyle oldukça yağmur çeker.",
+    "triple": {
+      "baş": "Şili kesimi",
+      "baş_tipi": "Bölge",
+      "ilişki": "çeker",
+      "uç": "yağmur",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Rio_Colorado&action=edit&redlink=1)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Rio Colorado",
+      "baş_tipi": "Nehir",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Rio_Colorado&action=edit&redlink=1)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Bio Bio",
+      "baş_tipi": "Nehir",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Rio_Colorado&action=edit&redlink=1)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Macellan Boğazı",
+      "baş_tipi": "Boğaz",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Rio_Colorado&action=edit&redlink=1)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Rio Colorado",
+      "baş_tipi": "Nehir",
+      "ilişki": "sınırlandırır",
+      "uç": "Macellan Boğazı",
+      "uç_tipi": "Boğaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Rio_Colorado&action=edit&redlink=1)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Bio Bio",
+      "baş_tipi": "Nehir",
+      "ilişki": "sınırlandırır",
+      "uç": "Macellan Boğazı",
+      "uç_tipi": "Boğaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Magellan_Bo%C4%9Faz%C4%B1)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Rio Colorado",
+      "baş_tipi": "Nehir",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Magellan_Bo%C4%9Faz%C4%B1)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Bio Bio",
+      "baş_tipi": "Nehir",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Magellan_Bo%C4%9Faz%C4%B1)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Macellan Boğazı",
+      "baş_tipi": "Boğaz",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Magellan_Bo%C4%9Faz%C4%B1)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Rio Colorado",
+      "baş_tipi": "Nehir",
+      "ilişki": "sınırlandırır",
+      "uç": "Macellan Boğazı",
+      "uç_tipi": "Boğaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Magellan_Bo%C4%9Faz%C4%B1)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Bio Bio",
+      "baş_tipi": "Nehir",
+      "ilişki": "sınırlandırır",
+      "uç": "Macellan Boğazı",
+      "uç_tipi": "Boğaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Flamingo)",
+    "metin": "Ayrıca çok sayıda deniz kuşuna ve flamingoya ev sahipliği yapar.",
+    "triple": {
+      "baş": "Bu yer",
+      "baş_tipi": "Yer",
+      "ilişki": "ev sahipliği yapar",
+      "uç": "Deniz Kuşları",
+      "uç_tipi": "Canlı Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Flamingo)",
+    "metin": "Ayrıca çok sayıda deniz kuşuna ve flamingoya ev sahipliği yapar.",
+    "triple": {
+      "baş": "Bu yer",
+      "baş_tipi": "Yer",
+      "ilişki": "ev sahipliği yapar",
+      "uç": "Flamingolar",
+      "uç_tipi": "Canlı Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/B%C3%ADo-B%C3%ADo_Nehri)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Rio Colorado",
+      "baş_tipi": "Nehir",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/B%C3%ADo-B%C3%ADo_Nehri)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Bio Bio",
+      "baş_tipi": "Nehir",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/B%C3%ADo-B%C3%ADo_Nehri)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Macellan Boğazı",
+      "baş_tipi": "Boğaz",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/B%C3%ADo-B%C3%ADo_Nehri)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Rio Colorado",
+      "baş_tipi": "Nehir",
+      "ilişki": "sınırlandırır",
+      "uç": "Macellan Boğazı",
+      "uç_tipi": "Boğaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/B%C3%ADo-B%C3%ADo_Nehri)",
+    "metin": "Arjantin'deki Rio Colorado ile Şili'deki Bio Bio nehirlerinin güneyi ile Macellan Boğazı 'nın kuzeyi arasında kalır.",
+    "triple": {
+      "baş": "Bio Bio",
+      "baş_tipi": "Nehir",
+      "ilişki": "sınırlandırır",
+      "uç": "Macellan Boğazı",
+      "uç_tipi": "Boğaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Nandu)",
+    "metin": "Bölgenin karakteristik hayvanları guanako , bir tür deve kuşu olan nandu ve kondor sayılabilir.",
+    "triple": {
+      "baş": "Bölge",
+      "baş_tipi": "Bölge",
+      "ilişki": "sahiptir",
+      "uç": "Guanako",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Nandu)",
+    "metin": "Bölgenin karakteristik hayvanları guanako , bir tür deve kuşu olan nandu ve kondor sayılabilir.",
+    "triple": {
+      "baş": "Bölge",
+      "baş_tipi": "Bölge",
+      "ilişki": "sahiptir",
+      "uç": "Nandu",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Nandu)",
+    "metin": "Bölgenin karakteristik hayvanları guanako , bir tür deve kuşu olan nandu ve kondor sayılabilir.",
+    "triple": {
+      "baş": "Bölge",
+      "baş_tipi": "Bölge",
+      "ilişki": "sahiptir",
+      "uç": "Kondor",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Nandu)",
+    "metin": "Bölgenin karakteristik hayvanları guanako , bir tür deve kuşu olan nandu ve kondor sayılabilir.",
+    "triple": {
+      "baş": "Nandu",
+      "baş_tipi": "Hayvan",
+      "ilişki": "türüdür",
+      "uç": "Deve kuşu",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagon)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "Ferdinand Macellan",
+      "baş_tipi": "Kişi",
+      "ilişki": "isim verdi",
+      "uç": "Macellan Boğazı",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagon)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "Ferdinand Macellan",
+      "baş_tipi": "Kişi",
+      "ilişki": "benzetme yaptı",
+      "uç": "Patagon",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagon)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "Ferdinand Macellan",
+      "baş_tipi": "Kişi",
+      "ilişki": "adlandırdı",
+      "uç": "bölge",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Patagon)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "guanako postlarına bürünmüş ve yüzleri boyalı yerliler",
+      "baş_tipi": "Kişi",
+      "ilişki": "benzetildi",
+      "uç": "Patagon",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Torres_del_Paine_Mill%C3%AE_Park%C4%B1)",
+    "metin": "Özellikle görülmeye değer yerleri Şili tarafındaki Torres del Paine Millî Parkı ile Arjantin tarafındaki Perito Moreno Buzulu 'dur.",
+    "triple": {
+      "baş": "Torres del Paine Millî Parkı",
+      "baş_tipi": "Millî Park",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Torres_del_Paine_Mill%C3%AE_Park%C4%B1)",
+    "metin": "Özellikle görülmeye değer yerleri Şili tarafındaki Torres del Paine Millî Parkı ile Arjantin tarafındaki Perito Moreno Buzulu 'dur.",
+    "triple": {
+      "baş": "Perito Moreno Buzulu",
+      "baş_tipi": "Buzul",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kondor)",
+    "metin": "Bölgenin karakteristik hayvanları guanako , bir tür deve kuşu olan nandu ve kondor sayılabilir.",
+    "triple": {
+      "baş": "Bölge",
+      "baş_tipi": "Bölge",
+      "ilişki": "sahiptir",
+      "uç": "Guanako",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kondor)",
+    "metin": "Bölgenin karakteristik hayvanları guanako , bir tür deve kuşu olan nandu ve kondor sayılabilir.",
+    "triple": {
+      "baş": "Bölge",
+      "baş_tipi": "Bölge",
+      "ilişki": "sahiptir",
+      "uç": "Nandu",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kondor)",
+    "metin": "Bölgenin karakteristik hayvanları guanako , bir tür deve kuşu olan nandu ve kondor sayılabilir.",
+    "triple": {
+      "baş": "Bölge",
+      "baş_tipi": "Bölge",
+      "ilişki": "sahiptir",
+      "uç": "Kondor",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kondor)",
+    "metin": "Bölgenin karakteristik hayvanları guanako , bir tür deve kuşu olan nandu ve kondor sayılabilir.",
+    "triple": {
+      "baş": "Nandu",
+      "baş_tipi": "Hayvan",
+      "ilişki": "türüdür",
+      "uç": "Deve kuşu",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Perito_Moreno_Buzulu)",
+    "metin": "Özellikle görülmeye değer yerleri Şili tarafındaki Torres del Paine Millî Parkı ile Arjantin tarafındaki Perito Moreno Buzulu 'dur.",
+    "triple": {
+      "baş": "Torres del Paine Millî Parkı",
+      "baş_tipi": "Millî Park",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Perito_Moreno_Buzulu)",
+    "metin": "Özellikle görülmeye değer yerleri Şili tarafındaki Torres del Paine Millî Parkı ile Arjantin tarafındaki Perito Moreno Buzulu 'dur.",
+    "triple": {
+      "baş": "Perito Moreno Buzulu",
+      "baş_tipi": "Buzul",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ferdinand_Magellan)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "Ferdinand Macellan",
+      "baş_tipi": "Kişi",
+      "ilişki": "isim verdi",
+      "uç": "Macellan Boğazı",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ferdinand_Magellan)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "Ferdinand Macellan",
+      "baş_tipi": "Kişi",
+      "ilişki": "benzetme yaptı",
+      "uç": "Patagon",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ferdinand_Magellan)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "Ferdinand Macellan",
+      "baş_tipi": "Kişi",
+      "ilişki": "adlandırdı",
+      "uç": "bölge",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ferdinand_Magellan)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "guanako postlarına bürünmüş ve yüzleri boyalı yerliler",
+      "baş_tipi": "Kişi",
+      "ilişki": "benzer",
+      "uç": "Patagon",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/And_Da%C4%9Flar%C4%B1)",
+    "metin": "Bir dağın yüksekliği onun deniz seviyesinden yüksekliğine göre belirlenir.",
+    "triple": {
+      "baş": "Dağ",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "yüksekliği belirlenir",
+      "uç": "Deniz Seviyesinden Yükseklik",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/And_Da%C4%9Flar%C4%B1)",
+    "metin": "And Dağları ortalama 4 km iken Himalayalar , deniz seviyesinden ortalama 5 km yukarıdadır.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "deniz seviyesinden yüksekliği",
+      "uç": "4 km",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/And_Da%C4%9Flar%C4%B1)",
+    "metin": "And Dağları ortalama 4 km iken Himalayalar , deniz seviyesinden ortalama 5 km yukarıdadır.",
+    "triple": {
+      "baş": "Himalayalar",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "deniz seviyesinden yüksekliği",
+      "uç": "5 km",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/And_Da%C4%9Flar%C4%B1)",
+    "metin": "Arjantin tarafı And Dağları 'nın engel teşkil etmesinden dolayı Şili tarafından daha kurak bir iklime sahiptir.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "neden olur",
+      "uç": "Kurak İklim",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/And_Da%C4%9Flar%C4%B1)",
+    "metin": "Arjantin tarafı And Dağları 'nın engel teşkil etmesinden dolayı Şili tarafından daha kurak bir iklime sahiptir.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "sahiptir",
+      "uç": "Kurak İklim",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/And_Da%C4%9Flar%C4%B1)",
+    "metin": "Arjantin tarafı And Dağları 'nın engel teşkil etmesinden dolayı Şili tarafından daha kurak bir iklime sahiptir.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "etkilenir",
+      "uç": "And Dağları",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Torres_del_Paine)",
+    "metin": "Turizm, özellikle Şili için son yıllarda ana gelir kaynağı olmuştur.",
+    "triple": {
+      "baş": "Turizm",
+      "baş_tipi": "Endüstri",
+      "ilişki": "gelir kaynağıdır",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Torres_del_Paine)",
+    "metin": "Turizm, özellikle Şili için son yıllarda ana gelir kaynağı olmuştur.",
+    "triple": {
+      "baş": "Turizm",
+      "baş_tipi": "Endüstri",
+      "ilişki": "ana gelir kaynağıdır",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Torres_del_Paine)",
+    "metin": "2003 yılında 80.000 turistten fazlasını tek başına Torres del Paine Millî Parkı çekmiştir.",
+    "triple": {
+      "baş": "Torres del Paine Millî Parkı",
+      "baş_tipi": "Millî Park",
+      "ilişki": "çekmiştir",
+      "uç": "80.000 turist",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Torres_del_Paine)",
+    "metin": "2003 yılında 80.000 turistten fazlasını tek başına Torres del Paine Millî Parkı çekmiştir.",
+    "triple": {
+      "baş": "Torres del Paine Millî Parkı",
+      "baş_tipi": "Millî Park",
+      "ilişki": "çekmiştir",
+      "uç": "2003",
+      "uç_tipi": "Yıl"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guanako)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "Ferdinand Macellan",
+      "baş_tipi": "Kişi",
+      "ilişki": "ismini verdi",
+      "uç": "Macellan Boğazı",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guanako)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "Ferdinand Macellan",
+      "baş_tipi": "Kişi",
+      "ilişki": "benzeterek adlandırdı",
+      "uç": "Patagon",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guanako)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "guanako postlarına bürünmüş ve yüzleri boyalı yerliler",
+      "baş_tipi": "Kişi",
+      "ilişki": "benzer",
+      "uç": "Patagon",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guanako)",
+    "metin": "Bölgenin karakteristik hayvanları guanako , bir tür deve kuşu olan nandu ve kondor sayılabilir.",
+    "triple": {
+      "baş": "guanako",
+      "baş_tipi": "Hayvan",
+      "ilişki": "karakteristik hayvanı",
+      "uç": "Bölge",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guanako)",
+    "metin": "Bölgenin karakteristik hayvanları guanako , bir tür deve kuşu olan nandu ve kondor sayılabilir.",
+    "triple": {
+      "baş": "nandu",
+      "baş_tipi": "Hayvan",
+      "ilişki": "karakteristik hayvanı",
+      "uç": "Bölge",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guanako)",
+    "metin": "Bölgenin karakteristik hayvanları guanako , bir tür deve kuşu olan nandu ve kondor sayılabilir.",
+    "triple": {
+      "baş": "kondor",
+      "baş_tipi": "Hayvan",
+      "ilişki": "karakteristik hayvanı",
+      "uç": "Bölge",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guanako)",
+    "metin": "Bölgenin karakteristik hayvanları guanako , bir tür deve kuşu olan nandu ve kondor sayılabilir.",
+    "triple": {
+      "baş": "nandu",
+      "baş_tipi": "Hayvan",
+      "ilişki": "türüdür",
+      "uç": "deve kuşu",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0spanyollar)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "Ferdinand Macellan",
+      "baş_tipi": "Kişi",
+      "ilişki": "isim verdi",
+      "uç": "Macellan Boğazı",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0spanyollar)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "Ferdinand Macellan",
+      "baş_tipi": "Kişi",
+      "ilişki": "benzetme yaptı",
+      "uç": "yerliler",
+      "uç_tipi": "Kişi Grubu"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0spanyollar)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "yerliler",
+      "baş_tipi": "Kişi Grubu",
+      "ilişki": "giydi",
+      "uç": "guanako postları",
+      "uç_tipi": "Giysi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0spanyollar)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "yerliler",
+      "baş_tipi": "Kişi Grubu",
+      "ilişki": "yüzünü boyadı",
+      "uç": "boya",
+      "uç_tipi": "Madde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0spanyollar)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "Ferdinand Macellan",
+      "baş_tipi": "Kişi",
+      "ilişki": "benzetme yaptı",
+      "uç": "Patagon",
+      "uç_tipi": "Karakter"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0spanyollar)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "Ferdinand Macellan",
+      "baş_tipi": "Kişi",
+      "ilişki": "ad verdi",
+      "uç": "bölge",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0spanyollar)",
+    "metin": "Rivayete göre Ferdinand Macellan , ismini verdiği Macellan Boğazı'ndan geçerken bu topraklarda gördüğü guanako postlarına bürünmüş ve yüzleri boyalı yerlileri bir İspanyol öyküsündeki Patagon adlı bir canavara benzeterek bölgeye bu adı vermiştir.",
+    "triple": {
+      "baş": "Patagon",
+      "baş_tipi": "Karakter",
+      "ilişki": "karakteri",
+      "uç": "İspanyol öyküsü",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "uzanır",
+      "uç": "Güney Amerika'nın batı kıyısı",
+      "uç_tipi": "Coğrafi Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "başlar",
+      "uç": "Venezuela",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "devam eder",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "devam eder",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "devam eder",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "devam eder",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "sona erer",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "sona erer",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "yer alır",
+      "uç": "güney",
+      "uç_tipi": "Yön"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "uzanır",
+      "uç": "Güney Amerika Batı Kıyısı",
+      "uç_tipi": "Coğrafi Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "başlar",
+      "uç": "Venezuela",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "geçer",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "sona erer",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "sona erer",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "yer alır",
+      "uç": "güney",
+      "uç_tipi": "Yön"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Trelew)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Punta_Arenas)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Gallegos,_Santa_Cruz&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Comodoro_Rivadavia)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Neuqu%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Cochrane&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=R%C3%ADo_Grande,_Tierra_del_Fuego&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Bariloche)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Coyhaique)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Villa_O%27Higgins&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Natales)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Porvenir&action=edit&redlink=1)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Ays%C3%A9n)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cameron)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Neuquén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Comodoro Rivadavia",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Bariloche",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Trelew",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Gallegos",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Río Grande",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Punta Arenas",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Coyhaique",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cochrane",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Villa O'Higgins",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Aysén",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Natales",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Porvenir",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Cameron",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Puerto_Williams)",
+    "metin": "Arjantin : Neuquén , Comodoro Rivadavia , Bariloche , Trelew , Río Gallegos , Río Grande Şili : Punta Arenas , Coyhaique , Cochrane , Villa O'Higgins , Puerto Aysén , Puerto Natales , Porvenir , Cameron , Puerto Williams",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "içerir",
+      "uç": "Puerto Williams",
+      "uç_tipi": "Bölge"
+    }
+  }
+]

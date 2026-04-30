@@ -1,0 +1,444 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/And_Da%C4%9Flar%C4%B1)",
+    "metin": "Dünya'nın en uzun sıradağı And Dağlarıdır .",
+    "triple": {
+      "baş": "And Dağları",
+      "baş_tipi": "Sıradağ",
+      "ilişki": "özelliği",
+      "uç": "Dünya'nın en uzun sıradağı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yery%C3%BCz%C3%BC_%C5%9Fekilleri)",
+    "metin": "Bir sıradağı diğerinden ırmaklar ve ona benzer yeryüzü şekilleri ayırır.",
+    "triple": {
+      "baş": "Sıra Dağı",
+      "baş_tipi": "Yeryüzü Şekli",
+      "ilişki": "ayrılır_ile",
+      "uç": "Irmak",
+      "uç_tipi": "Yeryüzü Şekli"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yery%C3%BCz%C3%BC_%C5%9Fekilleri)",
+    "metin": "Bir sıradağı diğerinden ırmaklar ve ona benzer yeryüzü şekilleri ayırır.",
+    "triple": {
+      "baş": "Sıra Dağı",
+      "baş_tipi": "Yeryüzü Şekli",
+      "ilişki": "ayrılır_ile",
+      "uç": "Yeryüzü Şekli",
+      "uç_tipi": "Yeryüzü Şekli"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Da%C4%9F)",
+    "metin": "Sıradağ , birçok dağın birleşmesiyle oluşan dağ topluluğudur.",
+    "triple": {
+      "baş": "Sıradağ",
+      "baş_tipi": "Coğrafi Oluşum",
+      "ilişki": "oluşur",
+      "uç": "Dağ Topluluğu",
+      "uç_tipi": "Coğrafi Oluşum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Da%C4%9F)",
+    "metin": "Sıradağ , birçok dağın birleşmesiyle oluşan dağ topluluğudur.",
+    "triple": {
+      "baş": "Sıradağ",
+      "baş_tipi": "Coğrafi Oluşum",
+      "ilişki": "oluşur",
+      "uç": "Birçok Dağ",
+      "uç_tipi": "Coğrafi Oluşum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Irmak)",
+    "metin": "Kışın ırmaklar ve göller donar.",
+    "triple": {
+      "baş": "ırmaklar",
+      "baş_tipi": "Yeryüzü Şekli",
+      "ilişki": "donar",
+      "uç": "kışın",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Irmak)",
+    "metin": "Kışın ırmaklar ve göller donar.",
+    "triple": {
+      "baş": "göller",
+      "baş_tipi": "Yeryüzü Şekli",
+      "ilişki": "donar",
+      "uç": "kışın",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Irmak)",
+    "metin": "Bir sıradağı diğerinden ırmaklar ve ona benzer yeryüzü şekilleri ayırır.",
+    "triple": {
+      "baş": "ırmaklar",
+      "baş_tipi": "Yeryüzü Şekli",
+      "ilişki": "ayırır",
+      "uç": "sıradağ",
+      "uç_tipi": "Yeryüzü Şekli"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Irmak)",
+    "metin": "Bir sıradağı diğerinden ırmaklar ve ona benzer yeryüzü şekilleri ayırır.",
+    "triple": {
+      "baş": "ona benzer yeryüzü şekilleri",
+      "baş_tipi": "Yeryüzü Şekli",
+      "ilişki": "ayırır",
+      "uç": "sıradağ",
+      "uç_tipi": "Yeryüzü Şekli"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yanarda%C4%9F)",
+    "metin": "Aynı sıradağ içinde bulunan bazı dağlar diğerlerinden farklı jeolojik özelliklere sahip olabilir.",
+    "triple": {
+      "baş": "Dağlar",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "sahiptir",
+      "uç": "Jeolojik Özellikler",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yanarda%C4%9F)",
+    "metin": "Aynı sıradağ içinde bulunan bazı dağlar diğerlerinden farklı jeolojik özelliklere sahip olabilir.",
+    "triple": {
+      "baş": "Dağlar",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "bulunur",
+      "uç": "Sıra Dağ",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yanarda%C4%9F)",
+    "metin": "Volkanlar , dağlar veya kıvrım dağlarını yükseltileri farklı kaya çeşitlerinden oluşabilmektedir.",
+    "triple": {
+      "baş": "Volkanlar",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "oluşur",
+      "uç": "Kaya Çeşitleri",
+      "uç_tipi": "Malzeme"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yanarda%C4%9F)",
+    "metin": "Volkanlar , dağlar veya kıvrım dağlarını yükseltileri farklı kaya çeşitlerinden oluşabilmektedir.",
+    "triple": {
+      "baş": "Dağlar",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "oluşur",
+      "uç": "Kaya Çeşitleri",
+      "uç_tipi": "Malzeme"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yanarda%C4%9F)",
+    "metin": "Volkanlar , dağlar veya kıvrım dağlarını yükseltileri farklı kaya çeşitlerinden oluşabilmektedir.",
+    "triple": {
+      "baş": "Kıvrım Dağları",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "oluşur",
+      "uç": "Kaya Çeşitleri",
+      "uç_tipi": "Malzeme"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaya)",
+    "metin": "İçerisinde kaya , kar , buzul tırmanış özelliklerini bulunduran dağcılık teknik ve malzemelerini kullanarak doğrudan zirve yapmaktır.",
+    "triple": {
+      "baş": "Dağcılık",
+      "baş_tipi": "Aktivite",
+      "ilişki": "içerir",
+      "uç": "Kaya Tırmanışı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaya)",
+    "metin": "İçerisinde kaya , kar , buzul tırmanış özelliklerini bulunduran dağcılık teknik ve malzemelerini kullanarak doğrudan zirve yapmaktır.",
+    "triple": {
+      "baş": "Dağcılık",
+      "baş_tipi": "Aktivite",
+      "ilişki": "içerir",
+      "uç": "Kar Tırmanışı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaya)",
+    "metin": "İçerisinde kaya , kar , buzul tırmanış özelliklerini bulunduran dağcılık teknik ve malzemelerini kullanarak doğrudan zirve yapmaktır.",
+    "triple": {
+      "baş": "Dağcılık",
+      "baş_tipi": "Aktivite",
+      "ilişki": "içerir",
+      "uç": "Buzul Tırmanışı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaya)",
+    "metin": "İçerisinde kaya , kar , buzul tırmanış özelliklerini bulunduran dağcılık teknik ve malzemelerini kullanarak doğrudan zirve yapmaktır.",
+    "triple": {
+      "baş": "Dağcılık",
+      "baş_tipi": "Aktivite",
+      "ilişki": "kullanır",
+      "uç": "Dağcılık Teknikleri",
+      "uç_tipi": "Malzeme"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaya)",
+    "metin": "İçerisinde kaya , kar , buzul tırmanış özelliklerini bulunduran dağcılık teknik ve malzemelerini kullanarak doğrudan zirve yapmaktır.",
+    "triple": {
+      "baş": "Dağcılık",
+      "baş_tipi": "Aktivite",
+      "ilişki": "kullanır",
+      "uç": "Dağcılık Malzemeleri",
+      "uç_tipi": "Malzeme"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaya)",
+    "metin": "İçerisinde kaya , kar , buzul tırmanış özelliklerini bulunduran dağcılık teknik ve malzemelerini kullanarak doğrudan zirve yapmaktır.",
+    "triple": {
+      "baş": "Dağcılık",
+      "baş_tipi": "Aktivite",
+      "ilişki": "hedef",
+      "uç": "Zirve Yapmak",
+      "uç_tipi": "Aktivite"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaya)",
+    "metin": "Aynı sıradağ içinde bulunan bazı dağlar diğerlerinden farklı jeolojik özelliklere sahip olabilir.",
+    "triple": {
+      "baş": "Dağlar",
+      "baş_tipi": "Yer Şekli",
+      "ilişki": "bulunur",
+      "uç": "Sıra Dağ",
+      "uç_tipi": "Yer Şekli"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaya)",
+    "metin": "Aynı sıradağ içinde bulunan bazı dağlar diğerlerinden farklı jeolojik özelliklere sahip olabilir.",
+    "triple": {
+      "baş": "Dağlar",
+      "baş_tipi": "Yer Şekli",
+      "ilişki": "sahiptir",
+      "uç": "Farklı Jeolojik Özellikler",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaya)",
+    "metin": "Volkanlar , dağlar veya kıvrım dağlarını yükseltileri farklı kaya çeşitlerinden oluşabilmektedir.",
+    "triple": {
+      "baş": "Volkanlar",
+      "baş_tipi": "Yer Şekli",
+      "ilişki": "oluşur",
+      "uç": "Farklı Kaya Çeşitleri",
+      "uç_tipi": "Malzeme"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaya)",
+    "metin": "Volkanlar , dağlar veya kıvrım dağlarını yükseltileri farklı kaya çeşitlerinden oluşabilmektedir.",
+    "triple": {
+      "baş": "Dağlar",
+      "baş_tipi": "Yer Şekli",
+      "ilişki": "oluşur",
+      "uç": "Farklı Kaya Çeşitleri",
+      "uç_tipi": "Malzeme"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaya)",
+    "metin": "Volkanlar , dağlar veya kıvrım dağlarını yükseltileri farklı kaya çeşitlerinden oluşabilmektedir.",
+    "triple": {
+      "baş": "Kıvrım Dağları",
+      "baş_tipi": "Yer Şekli",
+      "ilişki": "oluşur",
+      "uç": "Farklı Kaya Çeşitleri",
+      "uç_tipi": "Malzeme"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jeoloji)",
+    "metin": "Japonya'daki Dünya Mirasları listesi#2: Doğal özellikler ( fiziksel ve biyolojik oluşumlardan oluşur), jeolojik ve fizyografik oluşumlar (tehdit altındaki hayvan ve bitki türlerinin yaşam alanları dahil) ve bilim, koruma veya doğal güzellik açısından önemli olan doğal alanlar doğal miras olarak tanımlanır.",
+    "triple": {
+      "baş": "Doğal özellikler",
+      "baş_tipi": "Özellik",
+      "ilişki": "oluşur",
+      "uç": "fiziksel ve biyolojik oluşumlar",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jeoloji)",
+    "metin": "Japonya'daki Dünya Mirasları listesi#2: Doğal özellikler ( fiziksel ve biyolojik oluşumlardan oluşur), jeolojik ve fizyografik oluşumlar (tehdit altındaki hayvan ve bitki türlerinin yaşam alanları dahil) ve bilim, koruma veya doğal güzellik açısından önemli olan doğal alanlar doğal miras olarak tanımlanır.",
+    "triple": {
+      "baş": "jeolojik ve fizyografik oluşumlar",
+      "baş_tipi": "Özellik",
+      "ilişki": "içerir",
+      "uç": "tehdit altındaki hayvan ve bitki türlerinin yaşam alanları",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jeoloji)",
+    "metin": "Japonya'daki Dünya Mirasları listesi#2: Doğal özellikler ( fiziksel ve biyolojik oluşumlardan oluşur), jeolojik ve fizyografik oluşumlar (tehdit altındaki hayvan ve bitki türlerinin yaşam alanları dahil) ve bilim, koruma veya doğal güzellik açısından önemli olan doğal alanlar doğal miras olarak tanımlanır.",
+    "triple": {
+      "baş": "doğal alanlar",
+      "baş_tipi": "Özellik",
+      "ilişki": "tanımlanır",
+      "uç": "doğal miras",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jeoloji)",
+    "metin": "Japonya'daki Dünya Mirasları listesi#2: Doğal özellikler ( fiziksel ve biyolojik oluşumlardan oluşur), jeolojik ve fizyografik oluşumlar (tehdit altındaki hayvan ve bitki türlerinin yaşam alanları dahil) ve bilim, koruma veya doğal güzellik açısından önemli olan doğal alanlar doğal miras olarak tanımlanır.",
+    "triple": {
+      "baş": "Japonya",
+      "baş_tipi": "Ülke",
+      "ilişki": "onayladı",
+      "uç": "Dünya Kültürel ve Doğal Mirasının Korunmasına İlişkin Sözleşme",
+      "uç_tipi": "Sözleşme"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jeoloji)",
+    "metin": "Japonya'daki Dünya Mirasları listesi#2: Doğal özellikler ( fiziksel ve biyolojik oluşumlardan oluşur), jeolojik ve fizyografik oluşumlar (tehdit altındaki hayvan ve bitki türlerinin yaşam alanları dahil) ve bilim, koruma veya doğal güzellik açısından önemli olan doğal alanlar doğal miras olarak tanımlanır. Japonya 'nın, Dünya Kültürel ve Doğal Mirasının Korunmasına İlişkin Sözleşme'yi 30 Haziran 1992'de onaylamasıyla ülkedeki alanlar listeye dahil edilmiştir.",
+    "triple": {
+      "baş": "Japonya",
+      "baş_tipi": "Ülke",
+      "ilişki": "dahil edildi",
+      "uç": "listeye",
+      "uç_tipi": "Liste"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jeoloji)",
+    "metin": "Aynı sıradağ içinde bulunan bazı dağlar diğerlerinden farklı jeolojik özelliklere sahip olabilir.",
+    "triple": {
+      "baş": "dağlar",
+      "baş_tipi": "Özellik",
+      "ilişki": "sahip olabilir",
+      "uç": "farklı jeolojik özellikler",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jeoloji)",
+    "metin": "Volkanlar , dağlar veya kıvrım dağlarını yükseltileri farklı kaya çeşitlerinden oluşabilmektedir.",
+    "triple": {
+      "baş": "Volkanlar",
+      "baş_tipi": "Özellik",
+      "ilişki": "oluşabilmektedir",
+      "uç": "farklı kaya çeşitleri",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jeoloji)",
+    "metin": "Volkanlar , dağlar veya kıvrım dağlarını yükseltileri farklı kaya çeşitlerinden oluşabilmektedir.",
+    "triple": {
+      "baş": "dağlar",
+      "baş_tipi": "Özellik",
+      "ilişki": "oluşabilmektedir",
+      "uç": "farklı kaya çeşitleri",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jeoloji)",
+    "metin": "Volkanlar , dağlar veya kıvrım dağlarını yükseltileri farklı kaya çeşitlerinden oluşabilmektedir.",
+    "triple": {
+      "baş": "kıvrım dağları",
+      "baş_tipi": "Özellik",
+      "ilişki": "oluşabilmektedir",
+      "uç": "farklı kaya çeşitleri",
+      "uç_tipi": "Özellik"
+    }
+  }
+]

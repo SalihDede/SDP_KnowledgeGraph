@@ -1,0 +1,3054 @@
+[
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "isim kökeni",
+    "object": "Recep adını doğduğu günün Hicrî takvime göre Recep ayına denk gelmesinden aldı",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Bilgi",
+    "kaynak_cumle": "26 Şubat 1954'te İstanbul'un Beyoğlu ilçesi Kasımpaşa semtinde doğan Recep Tayyip Erdoğan, Tayyip adını dedesinden, Recep adını ise doğduğu günün Hicrî takvime göre Recep ayına denk gelmesinden dolayı aldığı belirtilmiştir.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Refah Partisi",
+    "relation": "ittifak yaptı",
+    "object": "Milliyetçi Çalışma Partisi",
+    "qualifiers": [],
+    "subject_type": "Parti",
+    "object_type": "Parti",
+    "kaynak_cumle": "Seçimlere Milliyetçi Çalışma Partisi ve Islahatçı Demokrasi Partisi ile ittifak yaparak giren Refah Partisi, İstanbul'dan %16,73 oranında oy aldı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "açıkladı",
+    "object": "kadın denizci öğrencileri için pozitif ayrıcalık",
+    "qualifiers": [
+      {
+        "relation": "yıl",
+        "object": "2015"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Politika",
+    "kaynak_cumle": "2015 yılında Yıldırım, kadın denizci öğrencileri için pozitif ayrıcalık uygulayacaklarını ve stajlarda daha fazla imkân bulmaları için özel bir program geliştireceklerini açıkladı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "belirtti",
+    "object": "Ama oradan tank, top bunlar geçmez değil mi?",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "6 Ekim 2011"
+      },
+      {
+        "relation": "yer",
+        "object": "Güney Afrika Cumhuriyeti"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Beyanat",
+    "kaynak_cumle": "Erdoğan, 6 Ekim 2011 tarihinde Güney Afrika Cumhuriyeti 'ne İsrail Başkâtiplerinden Ya'akov Finkelstein, Erdoğan'ın Güney Afrika Cumhuriyeti Başbakanı ile yaptığı basın açıklamasında \"Tünellerden sadece gıda değil, silahlar, füzeler geçiyor. Bu füzelerle şehirlerimiz, çocuklarımız vuruluyor\" diyen Başkatibin sözlerine \"O tünellerden atom bombası geçmez. Nükleer silah geçmez, fosfor bombaları geçmez. İsrail, fosfor bombalarıyla Gazze'yi bombalamıştır. Bu bir kitle imha silahıdır. Ve kitle imha silahı kullanmak suçtur. O tünellerden geçse geçse ancak küçük çaplı silahlar geçebilir. Tüfek geçer. Ama oradan tank, top bunlar geçmez değil mi?",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Türkiye Başbakanı Erdoğan",
+    "relation": "belirtti",
+    "object": "100 milyar dolar",
+    "qualifiers": [
+      {
+        "relation": "hedef",
+        "object": "iki ülke ilişkileri"
+      },
+      {
+        "relation": "tarih",
+        "object": "3 Aralık 2012"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Para Birimi",
+    "kaynak_cumle": "Türkiye Başbakanı Erdoğan 3 Aralık 2012 tarihindeki Rusya Başbakanı Putin'in Türkiye ziyaretinde iki ülke ilişkilerinde hedefin 100 milyar dolar olduğunu belirtmiştir.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Avukat Umut Kılıç",
+    "relation": "aldığı ceza",
+    "object": "bir yıl altı ay hapis cezası",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Ceza",
+    "kaynak_cumle": "Afyonkarahisar Barosu üyesi Avukat Umut Kılıç, 2015 yılında hâkim ve savcılık sınavı mülakatında söylediği \"Faşist Erdoğan\" sözleri nedeniyle Cumhurbaşkanı'na hakaretten bir yıl altı ay hapis cezasına çarptırıldı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "ifadesi inandırıcı bulunmadı",
+    "object": "\"Bunları inanç birliği maksadıyla söyledim\"",
+    "qualifiers": [
+      {
+        "relation": "gerekçe",
+        "object": "3 Haziran'da açıklanan gerekçeli karara göre"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "İfade",
+    "kaynak_cumle": "3 Haziran'da açıklanan gerekçeli karara göre Erdoğan, \"Siirt'te yaptığı konuşmayla dindar ve dindar olmayan diye bölünen kesimler arasındaki gerginliği canlı tutmayı amaçlamaktaydı. \"Bunları inanç birliği maksadıyla söyledim\" şeklindeki ifadesinin inandırıcı bulunmadığı belirtilirken, \"Benim referansım İslam'dır\" diyerek topluluğu inanan ve inanmayan olarak ayırdığı belirtildi.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "görev yaptı",
+    "object": "İstanbul Büyükşehir Belediye Başkanlığı",
+    "qualifiers": [
+      {
+        "relation": "başlangıç yılı",
+        "object": "1994"
+      },
+      {
+        "relation": "bitiş yılı",
+        "object": "1998"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Siyasi Görev",
+    "kaynak_cumle": "1994 ve 1998 yılları arasında Refah Partisi 'nden İstanbul büyükşehir belediye başkanlığı görevini yürüttü.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "mal varlığı",
+    "object": "25.000 £ menkul değer",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "16 Haziran 2011"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Miktar",
+    "kaynak_cumle": "16 Haziran 2011 tarihli mal beyanında Güneysu'da 10 bin TL maliyetli arsa, banka hesaplarında toplam 3.390.384 TL, 25.000 £, 199.867 $ menkul değer ve 500 bin TL alacak yer almıştır.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "ödül aldı",
+    "object": "Uğur Mumcu Yılın Siyasetçisi Ödülü",
+    "qualifiers": [
+      {
+        "relation": "yıl",
+        "object": "2015"
+      },
+      {
+        "relation": "veren kurum",
+        "object": "Çağdaş Gazeteciler Derneği"
+      },
+      {
+        "relation": "veren kurum",
+        "object": "Atatürkçü Düşünce Derneği"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Ödül",
+    "kaynak_cumle": "Çağdaş Gazeteciler Derneği ve Atatürkçü Düşünce Derneği tarafından verilen 2015 Uğur Mumcu Yılın Siyasetçisi Ödülü'nü aldı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "milletvekili seçildi",
+    "object": "İstanbul 1. Bölge",
+    "qualifiers": [
+      {
+        "relation": "yıl",
+        "object": "2002"
+      },
+      {
+        "relation": "parti",
+        "object": "AK Parti"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Seçim Bölgesi",
+    "kaynak_cumle": "Sadece iki partinin seçim barajını aşabildiği 2002 Türkiye genel seçimlerinde AK Parti İstanbul 1. Bölge milletvekili adayı oldu ve partisinin zaferiyle meclise girdi.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Türkiye",
+    "relation": "ilişki durumu",
+    "object": "Irak'ın Kürdistan Bölgesel Yönetimi ile ılımanlaşma",
+    "qualifiers": [],
+    "subject_type": "Ülke",
+    "object_type": "Durum",
+    "kaynak_cumle": "Irak 'ın Kürdistan Bölgesel Yönetimi ile ılımanlaşan ilişkiler sonrası Erbil 'de bir Türk üniversitesi ve Musul 'da bir Türk konsolosluğu açılmıştır.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Vesile",
+    "relation": "eşi",
+    "object": "Ziya İlgen",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "Vesile ismindeki kız kardeşi, Ziya İlgen ile evlidir.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "nitelendirmektedir",
+    "object": "soykırım",
+    "qualifiers": [
+      {
+        "relation": "konu",
+        "object": "İsrail'in yürüttüğü askerî operasyonlar"
+      },
+      {
+        "relation": "bağlam",
+        "object": "İsrail-Filistin çatışması ve Gazze Savaşı"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Niteleme",
+    "kaynak_cumle": "Dış siyasette, İsrail-Filistin çatışması ve Gazze Savaşı ile ilgili açıklamalarında, İsrail'in yürüttüğü askerî operasyonları \"soykırım\" olarak nitelendirmektedir.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Fethullah Gülen",
+    "relation": "suçlanıyor",
+    "object": "terör örgütü lideri olmakla",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Suçlama",
+    "kaynak_cumle": "2016 Türkiye askerî darbe girişimi sonrası Yıldırım, ABD Başkanı Barack Obama 'ya seslenerek ABD'nin Pensilvanya eyaletinde yaşayan Gülen Hareketi lideri olmakla suçlanan Fethullah Gülen 'in terör örgütü lideri sıfatıyla Türkiye'ye iade edilmesi çağrısında bulundu.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "hastaneye kaldırıldı",
+    "object": "Tarih",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "7 Şubat 2011"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Olay",
+    "kaynak_cumle": "7 Şubat 2011'de Erdoğan'ın hastaneye kaldırması sırasında Adalet Bakanlığından MİT Müsteşarı Hakan Fidan 'ı arayarak çağırmışlardır.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "seçim sloganı",
+    "object": "Milletin Adamı Erdoğan",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Slogan",
+    "kaynak_cumle": "Seçim kampanyasında kullanılan slogan '' Milletin Adamı Erdoğan'' şeklinde oldu.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "baba",
+    "object": "Ahmet Erdoğan",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "Recep Tayyip Erdoğan'ın babası Ahmet Erdoğan, Bakatalı Tayyip olarak da bilinen Tayyip Efendi'nin oğluydu.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "tercih ettiği üniversite",
+    "object": "İstanbul Teknik Üniversitesi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Üniversite",
+    "kaynak_cumle": "2013 yılında Binali Yıldırım mezun olduğu ve yüksek lisans eğitimini tamamladığı İstanbul Teknik Üniversitesi (İTÜ) tarafından düzenlenen İzmir balosunda yaptığı konuşmada Boğaziçi Üniversitesi 'ni kazandığını fakat okulun bahçesinde 'genç kızların ve erkeklerin yan yana oturduğunu' gördüğünü ve bu okula kayıt olduğu takdirde 'yoldan çıkacağı' gerekçesiyle İTÜ'yü tercih ettiğini ifade etmiştir.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "belirtmiştir",
+    "object": "kabulü halinde Almanya-Türkiye arasındaki bütün ilişkilerin zedeleneceğini",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Sonuç",
+    "kaynak_cumle": "Ayrıca tasarının 'akıldışı' olduğunu ifade ederek kabulü halinde Almanya-Türkiye arasındaki bütün ilişkilerin zedeleneceğini belirtmiştir.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Rusya",
+    "relation": "çağrı yaptı",
+    "object": "Türkiye'de tatile gitmeme",
+    "qualifiers": [
+      {
+        "relation": "kime",
+        "object": "Rus vatandaşları"
+      }
+    ],
+    "subject_type": "Ülke",
+    "object_type": "Seyahat Tavsiyesi",
+    "kaynak_cumle": "Olayın ardından Rusya, Türkiye'den ithal edilen tarım ürünlerinin neredeyse tümünü yasaklamıştı ve Rus vatandaşlarına Türkiye'de tatile gitmeme çağrısı yapmış ve turizm acentelerinin de Türkiye'ye tur satışlarını engelledi.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Binali Yıldırım'ın bakanlık dönemi",
+    "relation": "açılması",
+    "object": "birçok yeni havalimanı",
+    "qualifiers": [],
+    "subject_type": "Dönem",
+    "object_type": "Yapı",
+    "kaynak_cumle": "Yıldırım'ın bakanlık döneminde birçok yeni havalimanları açılmıştır.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "meslek",
+    "object": "Milletvekili",
+    "qualifiers": [
+      {
+        "relation": "seçim yılı",
+        "object": "2011"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Üniversiteden mezun olduktan sonra, 2011 yılında yapılan seçimlerde milletvekili seçilene kadar serbest eczacılık mesleğini sürdürdü.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Tren kazası",
+    "relation": "gerçekleştiği yer",
+    "object": "Sakarya'nın Pamukova ilçesi",
+    "qualifiers": [],
+    "subject_type": "Olay",
+    "object_type": "Yer",
+    "kaynak_cumle": "22 Temmuz 2004 tarihinde Yakup Kadri Karaosmanoğlu hızlı treni Ankara - İstanbul rotasında hızlı tren seferini yaparken Sakarya 'nın Pamukova ilçesinde aşırı hız yüzünden trenin ikinci yolcu vagonu ile bu vagona bağlı diğer vagonlar raydan çıktı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Erdil Yaşaroğlu",
+    "relation": "sahibi olduğu yayın",
+    "object": "Evrensel gazetesi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Gazete",
+    "kaynak_cumle": "Erdoğan tarafından Cumhuriyet gazetesi çizeri Musa Kart , Evrensel gazetesi, Penguen dergisinin sahibi Erdil Yaşaroğlu ile Pak Yayıncılık'a karikatürlerde şahsının çeşitli figürlerle tasvir edildiği ve bunun kişilik haklarına saldırı içerdiği vurgulanarak manevi tazminat davaları açılmıştır.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mezun olduğu üniversite",
+    "object": "İstanbul Teknik Üniversitesi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Üniversite",
+    "kaynak_cumle": "2013 yılında Binali Yıldırım mezun olduğu ve yüksek lisans eğitimini tamamladığı İstanbul Teknik Üniversitesi (İTÜ) tarafından düzenlenen İzmir balosunda yaptığı konuşmada Boğaziçi Üniversitesi 'ni kazandığını fakat okulun bahçesinde 'genç kızların ve erkeklerin yan yana oturduğunu' gördüğünü ve bu okula kayıt olduğu takdirde 'yoldan çıkacağı' gerekçesiyle İTÜ'yü tercih ettiğini ifade etmiştir.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "babasıdır",
+    "object": "Ahmet",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "İyi düzeyde İngilizce ve Fransızca bilen Yıldırım, 1975 yılından beri, emekli öğretmen Semiha Yıldırım ile evlidir ve üç çocuk babasıdır: Erkam , Ahmet ve Büşra.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Feridun Sinirlioğlu",
+    "relation": "imza attı",
+    "object": "mutabakat",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "28 Haziran 2016"
+      },
+      {
+        "relation": "yer",
+        "object": "Dışişleri Bakanlığı"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Belge",
+    "kaynak_cumle": "28 Haziran 2016 tarihinde mutabakata Dışişleri Bakanlığı müsteşarı Feridun Sinirlioğlu ve aynı saatte İsrail Dışişleri Bakanlığı Genel Direktörü Dore Gold da Dışişleri Bakanlığı'nda basına kapalı olarak imza attı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "2017 referandumu",
+    "relation": "tartışma konusu",
+    "object": "Cumhurbaşkanının meclisi feshetme yetkisi",
+    "qualifiers": [],
+    "subject_type": "Olay",
+    "object_type": "Siyasi Konu",
+    "kaynak_cumle": "2017 referandumu öncesinde, referandumda önerilen sistemde Cumhurbaşkanının meclisi feshetme yetkisinin olup olmayacağı kamuoyunda tartışıldı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "seçim kampanyası materyali",
+    "object": "\"Tek millet, tek bayrak, tek vatan, tek devlet\" yazılı resim",
+    "qualifiers": [
+      {
+        "relation": "seçim",
+        "object": "22 Temmuz 2007 genel seçimleri"
+      },
+      {
+        "relation": "yıl",
+        "object": "2007"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Materyal",
+    "kaynak_cumle": "Ayrıca \"Tek millet, tek bayrak, tek vatan, tek devlet\" yazılı bir Erdoğan resmi de gösterilmiştir.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Kemal Kılıçdaroğlu",
+    "relation": "belirtti",
+    "object": "bu kişinin görünür hâle gelmesi gerektiğini",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Söylem",
+    "kaynak_cumle": "CHP liderliğinin akıbeti tartışılırken, dönemin CHP genel başkanı Kemal Kılıçdaroğlu , partiyi \"bilgili, birikimli iyi bir sosyal demokrata\" devredeceğini, ancak bu kişinin \"görünür hâle gelmesi\" gerektiğini söyledi.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "katkıda bulundu",
+    "object": "Çevre duyarlılığı",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Soyut Kavram",
+    "kaynak_cumle": "Bu projelerle, çevre duyarlılığı ve toplum sağlığına yönelik önemli katkılarda bulundu.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "seslendi",
+    "object": "Barack Obama",
+    "qualifiers": [
+      {
+        "relation": "bağlam",
+        "object": "2016 Türkiye askerî darbe girişimi sonrası"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "2016 Türkiye askerî darbe girişimi sonrası Yıldırım, ABD Başkanı Barack Obama 'ya seslenerek ABD'nin Pensilvanya eyaletinde yaşayan Gülen Hareketi lideri olmakla suçlanan Fethullah Gülen 'in terör örgütü lideri sıfatıyla Türkiye'ye iade edilmesi çağrısında bulundu.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "seçim bölgesi",
+    "object": "İstanbul 6. bölge",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Bölge",
+    "kaynak_cumle": "20 Ekim 1991'deki genel seçimlerine Refah Partisi'nin İstanbul 6. bölge 1. sıradan adayı olarak girdi.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "savunmaktadır",
+    "object": "Türkiye'nin daha somut adımlar atması gerektiği",
+    "qualifiers": [
+      {
+        "relation": "konu",
+        "object": "AK Parti hükûmetinin İsrail ile ticareti"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Savunma",
+    "kaynak_cumle": "AK Parti hükûmetinin İsrail ile ticareti sürdürmesini eleştirmektedir ve Türkiye'nin daha somut adımlar atması gerektiğini savunmaktadır.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "CHP yönettiği coğrafya",
+    "relation": "ekonomi oranı",
+    "object": "%80",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "31 Mart 2024"
+      }
+    ],
+    "subject_type": "Siyasi Parti",
+    "object_type": "Yüzde",
+    "kaynak_cumle": "35 il belediyesi kazanan CHP, 61 milyonun yaşadığı, Türkiye nüfusunun %64'üne ve Türkiye ekonomisinin %80'ine tekabül eden coğrafi büyüklüğü yöneten parti hâline geldi.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "2014 yerel seçimleri",
+    "relation": "oy oranı",
+    "object": "%43,39",
+    "qualifiers": [],
+    "subject_type": "Seçim",
+    "object_type": "Yüzde",
+    "kaynak_cumle": "2014 yerel seçimlerinde , 2009 seçimlerinden %5 fazla oy alarak %43,39 oy aldı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Komisyon ziyareti",
+    "relation": "gündeme geldi",
+    "object": "İmralı Adası",
+    "qualifiers": [],
+    "subject_type": "Olay",
+    "object_type": "Yer",
+    "kaynak_cumle": "2025 yılında TBMM'de kurulan \"Milli Dayanışma, Kardeşlik ve Demokrasi Komisyonu\" kapsamında İmralı Adası 'nda Abdullah Öcalan ile yapılacak ziyaret gündeme geldiğinde Özel, Cumhuriyet Halk Partisi'nin heyete temsilci göndermeyeceğini açıkladı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "mal varlığı",
+    "object": "Güneysu arsası",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "12 Eylül 2007"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Gayrimenkul",
+    "kaynak_cumle": "12 Eylül 2007 tarihinde açıklanan mal beyanında ise, Arnavutköy ve Güneysu 'daki arsalarının haricinde, banka hesaplarında 1 milyon 803 bin 854 TL ile 9 bin 890 euro, alacaklarının ise 312 bin 500 TL olduğu açıklanmıştır.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "görev",
+    "object": "Başbakan",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "Yeni Hükûmetin programını açıklarken Başbakan Binali Yıldırım, Rusya ile ilişkilerin karşılıklı diyalog kanallarını açık tutarak normalleştirme ve asgari müştereklerde buluşarak ortak menfaatler temelinde geliştirme yönündeki iradenin sürdürüleceğini ifade etti.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "mutabakat zaptı ve çalışma protokolü",
+    "relation": "kapsadığı sektör",
+    "object": "ulaşım",
+    "qualifiers": [],
+    "subject_type": "Anlaşma",
+    "object_type": "Sektör",
+    "kaynak_cumle": "Protokol içeriği güvenlik, enerji, petrol, elektrik, su, sağlık, ticaret, çevre, ulaşım, konut, inşaat, tarım, eğitim, yüksek öğrenim ve savunma sektörlerini içermektedir.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "karşı çıktı",
+    "object": "cinsel istismar suçlarını hafifleten maddeler",
+    "qualifiers": [
+      {
+        "relation": "bağlam",
+        "object": "Ceza Muhakemeleri Kanunu önergesi"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Yasal Düzenleme",
+    "kaynak_cumle": "Kasım 2016'da CHP Grup Başkanvekili Özgür Özel, TBMM'de AK Parti 'nin Ceza Muhakemeleri Kanunu önergesini eleştirerek, önergenin içeriğindeki cinsel istismar suçlarını hafifleten maddelere karşı çıktığını ve Mecliste açık oylama talep ettiklerini belirtti.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Askerî darbe girişimi",
+    "relation": "gerçekleşti",
+    "object": "15 Temmuz 2016",
+    "qualifiers": [],
+    "subject_type": "Olay",
+    "object_type": "Tarih",
+    "kaynak_cumle": "15 Temmuz 2016 tarihinde Türk Silahlı Kuvvetleri bünyesinde kendilerini Yurtta Sulh Konseyi olarak tanımlayan bir grup asker tarafından askerî darbe girişimi gerçekleştirildi.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Proje",
+    "relation": "konu",
+    "object": "yaban hayatına zarar verilmesi",
+    "qualifiers": [],
+    "subject_type": "Proje",
+    "object_type": "Eleştiri",
+    "kaynak_cumle": "Proje; inşaat sürecinde yolsuzluk, yaban hayatına zarar verilmesi ve yeni yollar yapılması için çiftlikteki hayvanat bahçesinin tahribi gibi konularda sert eleştirilere ve iddialara maruz kaldı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "körfez geçiş projesi",
+    "relation": "amacı",
+    "object": "İzmir'in iki yakasını bağlamak",
+    "qualifiers": [],
+    "subject_type": "Proje",
+    "object_type": "Amaç",
+    "kaynak_cumle": "Bu projelerin arasında İzmir'in iki yakasını bağlayacak ve 3,5 milyar liralık yatırımla hayata geçirilmesi planlanan \" körfez geçiş projesi \" de yer aldı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "AK Parti",
+    "relation": "konum",
+    "object": "ikinci sıraya düşmesi",
+    "qualifiers": [
+      {
+        "relation": "seçim",
+        "object": "2024 yerel seçimleri"
+      }
+    ],
+    "subject_type": "Parti",
+    "object_type": "Siyasi Konum",
+    "kaynak_cumle": "CHP'nin 2024 yerel seçimlerinde , yıllar sonra ülke genelinde birinci parti olması, hükûmetteki parti olan AK Parti'nin ikinci sıraya düşmesi ve bu durumun 2025 başı itibarıyla değişmediğinin kamuoyu araştırmalarında görülmesi ; erken seçimin toplumda ve siyasette konuşulmaya başlamasını sağladı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Adalet ve Kalkınma Partisi",
+    "relation": "oy oranı",
+    "object": "%34,28",
+    "qualifiers": [
+      {
+        "relation": "seçim yılı",
+        "object": "2002"
+      }
+    ],
+    "subject_type": "Parti",
+    "object_type": "Yüzde",
+    "kaynak_cumle": "3 Kasım 2002'deki genel seçimleri , Erdoğan'ın başkan adayı olduğu Adalet ve Kalkınma Partisi %34,28'luk oy oranı ile 363 milletvekili çıkartarak kazanmış; Erdoğan kurulacak hükûmete başkanlık etmiştir.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Adalet ve Kalkınma Partisi",
+    "relation": "kuruluş tarihi",
+    "object": "14 Ağustos 2001",
+    "qualifiers": [],
+    "subject_type": "Siyasi Parti",
+    "object_type": "Tarih",
+    "kaynak_cumle": "\" Millî Görüş \" olarak adlandırılan kanat, Recai Kutan 'ın genel başkanlığında 20 Temmuz 2001'de Saadet Partisi 'ni kurarken, \"değişimci\" kanat da, Tayyip Erdoğan liderliğinde 14 Ağustos 2001'de, Adalet ve Kalkınma Partisi 'ni (AKP) kurdu ve Tayyip Erdoğan, parti genel başkanlığına seçildi.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "oy oranını artırdı",
+    "object": "%36",
+    "qualifiers": [
+      {
+        "relation": "önceki oy oranı",
+        "object": "%30"
+      },
+      {
+        "relation": "seçim",
+        "object": "2009 Türkiye yerel seçimleri"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Yüzde",
+    "kaynak_cumle": "Yıldırım AK Parti'nin 2009 Türkiye yerel seçimlerindeki %30'luk oyunu %36'ya çıkardı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Kanal İstanbul",
+    "relation": "bağlantı",
+    "object": "Karadeniz ile Ege Denizi'ni birbirine bağlamak",
+    "qualifiers": [],
+    "subject_type": "Proje",
+    "object_type": "Coğrafi Bağlantı",
+    "kaynak_cumle": "AK Parti'nin en önemli projelerinden biri sayılan gemi trafiğini rahatlatmak adına Karadeniz ile Ege Denizi 'ni birbirine bağlayacak Kanal İstanbul adlı su yoludur.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "diploması var",
+    "object": "Marmara Üniversitesi İktisadi ve İdari Bilimler Fakültesi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Fakülte",
+    "kaynak_cumle": "Bu kurum daha sonraları, 1982 Temmuz'unda kurulan Marmara Üniversitesine bağlanarak Marmara Üniversitesi İktisadî ve İdarî Bilimler Fakültesi adını alırken, Erdoğan'ın diploması da bu kurumdandır.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Vladimir Putin",
+    "relation": "talimat verdi",
+    "object": "hükûmetine",
+    "qualifiers": [
+      {
+        "relation": "talimat içeriği",
+        "object": "Türkiye ile karşılıklı ticari anlaşmaları iyileştirmek üzere görüşmelere başlanması"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Kurum",
+    "kaynak_cumle": "Putin bu açıklamanın ardından hükûmetine, Türkiye ile karşılıklı ticari anlaşmaları iyileştirmek üzere görüşmelere başlamaları talimatı verdi ve Rus turistlerin Türkiye'ye gelmesini engelleyen seyahat kısıtlamalarını da kaldırma kararı aldı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "cumhurbaşkanlığı görevine başladı",
+    "object": "Türkiye",
+    "qualifiers": [
+      {
+        "relation": "başlangıç tarihi",
+        "object": "3 Haziran 2023"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Ülke",
+    "kaynak_cumle": "3 Haziran 2023 tarihinde Cumhurbaşkanlığı Külliyesi'nde yapılan göreve başlama töreni sonrasında görevine başladı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Avukat Umut Kılıç",
+    "relation": "söz söylediği zaman",
+    "object": "2015 yılında hâkim ve savcılık sınavı mülakatında",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Zaman",
+    "kaynak_cumle": "Afyonkarahisar Barosu üyesi Avukat Umut Kılıç, 2015 yılında hâkim ve savcılık sınavı mülakatında söylediği \"Faşist Erdoğan\" sözleri nedeniyle Cumhurbaşkanı'na hakaretten bir yıl altı ay hapis cezasına çarptırıldı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Türkiye",
+    "relation": "askeri teçhizat sağlama",
+    "object": "Baykar Bayraktar TB2 insansız hava araçları",
+    "qualifiers": [
+      {
+        "relation": "alıcı",
+        "object": "Ukrayna"
+      }
+    ],
+    "subject_type": "Ülke",
+    "object_type": "Askeri Malzeme",
+    "kaynak_cumle": "Türkiye, İstanbul Boğazı 'nı Rus donanma takviyelerine kapatırken, Birleşmiş Milletler yaptırımlarını uygularken ve Ukrayna'ya Baykar Bayraktar TB2 insansız hava araçları ve BMC Kirpi araçları gibi askeri teçhizat sağlarken, Türk hava sahasını Rus sivillere kapatmak gibi bazı yaptırımlara katılmadı ve Rusya Devlet Başkanı Vladimir Putin ile diyaloğu sürdürdü.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "beyan etti",
+    "object": "İstifa etmeyeceğini",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Beyan",
+    "kaynak_cumle": "Kamuoyu baskısına rağmen kazada sorumluluğu üstlenmedi, üstelik istifa etmeyeceğini ve hâlâ tüm icraatının arkasında olduğunu beyan etti.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Abdullah Gül",
+    "relation": "ziyaret etti",
+    "object": "Irak",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "23 Mart 2009"
+      },
+      {
+        "relation": "önem",
+        "object": "33 yıl sonra Irak'a giden ilk Cumhurbaşkanı oldu"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Ülke",
+    "kaynak_cumle": "Abdullah Gül 23 Mart 2009 tarihinde Irak'a gerçekleştirmiş olduğu gezi ile 33 yıl sonra Irak'a giden ilk Cumhurbaşkanı oldu.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Türkiye",
+    "relation": "Boğazı kapatma",
+    "object": "Rus donanma takviyeleri",
+    "qualifiers": [],
+    "subject_type": "Ülke",
+    "object_type": "Askeri Hareket",
+    "kaynak_cumle": "Türkiye, İstanbul Boğazı 'nı Rus donanma takviyelerine kapatırken, Birleşmiş Milletler yaptırımlarını uygularken ve Ukrayna'ya Baykar Bayraktar TB2 insansız hava araçları ve BMC Kirpi araçları gibi askeri teçhizat sağlarken, Türk hava sahasını Rus sivillere kapatmak gibi bazı yaptırımlara katılmadı ve Rusya Devlet Başkanı Vladimir Putin ile diyaloğu sürdürdü.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "belediye başkanlığı döneminde yatırım",
+    "object": "4 milyar dolar",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Miktar",
+    "kaynak_cumle": "Belediye başkanlığı döneminde 4 milyar dolarlık yatırım gerçekleştirdi.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Sosyal demokrasi",
+    "relation": "dayanır",
+    "object": "Sosyal adalet",
+    "qualifiers": [],
+    "subject_type": "Siyasi İdeoloji",
+    "object_type": "İlke",
+    "kaynak_cumle": "Açıklamalarında sosyal demokrasinin eşitlik , özgürlük , dayanışma ve sosyal adalet ilkelerine dayandığını belirtti; emek haklarının korunması ve sendikal örgütlenmenin güçlendirilmesini gerektiğini savundu.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "savunduğu şey",
+    "object": "Türk halkının darbe girişimine müsaade etmeyeceği",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Görüş",
+    "kaynak_cumle": "Yıldırım ayrıca, Türk halkının darbe girişimine müsaade etmeyeceğini savunmuştur.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "katıldığı seçim türü",
+    "object": "Yerel seçim",
+    "qualifiers": [
+      {
+        "relation": "katılım sayısı",
+        "object": "2"
+      },
+      {
+        "relation": "seçildiği sayısı",
+        "object": "1"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Seçim Türü",
+    "kaynak_cumle": "Recep Tayyip Erdoğan, 1986 yılından beri beşi milletvekili seçimi, ikisi yerel seçim, biri ise cumhurbaşkanlığı seçimi olmak üzere toplamda sekiz farklı seçime katıldı .",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Yıldırım",
+    "relation": "açıklama yaptı",
+    "object": "Rusya ile mesele tatlıya bağlanmıştır",
+    "qualifiers": [
+      {
+        "relation": "konu",
+        "object": "Erdoğan'ın Putin'e gönderdiği mektup"
+      },
+      {
+        "relation": "ek açıklama",
+        "object": "Sadece üzüntülerimizi bildirdik"
+      },
+      {
+        "relation": "ek açıklama",
+        "object": "6 ayda yaşananları yaşanmamış gibi kabul edip yola devam edilecek"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Açıklama",
+    "kaynak_cumle": "Yıldırım, Erdoğan'ın Putin'e gönderdiği mektupla ilgili \"Rusya ile mesele tatlıya bağlanmıştır... Sadece üzüntülerimizi bildirdik.\" açıklamasını yaptı ve 6 ayda yaşananları yaşanmamış gibi kabul edip yola devam edeceklerini belirtti.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "mutabakat zaptı ve çalışma protokolü",
+    "relation": "kapsadığı sektör",
+    "object": "yüksek öğrenim",
+    "qualifiers": [],
+    "subject_type": "Anlaşma",
+    "object_type": "Sektör",
+    "kaynak_cumle": "Protokol içeriği güvenlik, enerji, petrol, elektrik, su, sağlık, ticaret, çevre, ulaşım, konut, inşaat, tarım, eğitim, yüksek öğrenim ve savunma sektörlerini içermektedir.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "İngiliz sterlini",
+    "relation": "kur",
+    "object": "3,97",
+    "qualifiers": [
+      {
+        "relation": "zaman",
+        "object": "20 Temmuz Çarşamba"
+      }
+    ],
+    "subject_type": "Para Birimi",
+    "object_type": "Sayısal Değer",
+    "kaynak_cumle": "Türkiye Cumhuriyet Merkez Bankasının (TCMB) faiz indirimi baskısı, soruşturmalar sırasında açığa alınmalar ve tasfiyelerin artmasıyla birlikte 20 Temmuz Çarşamba günü kur yeniden yükselişe geçerek ABD doları 3,06, euro 3,34, İngiliz sterlini ise 3,97 seviyesine kadar çıktı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "oy oranı",
+    "object": "%51,79",
+    "qualifiers": [
+      {
+        "relation": "seçim türü",
+        "object": "cumhurbaşkanlığı seçimleri"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Yüzde",
+    "kaynak_cumle": "%51,79 oranında oy aldığı cumhurbaşkanlığı seçimlerinde aldığı oyun beklenenden az olduğu eleştirilerine \" Peygamber efendimizi bile desteklemeyenler oldu. Bizi de %52 destekledi.\" diye cevap verdi.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan'ın partisi",
+    "relation": "oy oranı",
+    "object": "%44,33",
+    "qualifiers": [
+      {
+        "relation": "yıl",
+        "object": "2019"
+      }
+    ],
+    "subject_type": "Siyasi Parti",
+    "object_type": "Yüzde",
+    "kaynak_cumle": "2019 yerel seçimlerinde ise 2014 seçimlerindeki oy oranını %0,94 arttırarak %44,33 oy aldı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "destek verdi",
+    "object": "Güvencesiz çalışmanın azaltılması",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Politika",
+    "kaynak_cumle": "İşçi hakları , güvencesiz çalışmanın azaltılması ve grev haklarının güvence altına alınması gibi konulara destek veren açıklamalar yaptı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Dava",
+    "relation": "görüldüğü mahkeme",
+    "object": "Ankara 15. Asliye Hukuk Mahkemesi",
+    "qualifiers": [],
+    "subject_type": "Olay",
+    "object_type": "Mahkeme",
+    "kaynak_cumle": "\"Kişilik hakları ve parti tüzel kişiliğine saldırıda bulunduğu\" iddiasıyla Ataol Behramoğlu aleyhine Recep Tayyip Erdoğan ve Adalet ve Kalkınma Partisi tarafınca açılan 20 bin TL'lik manevi tazminat davası Ankara 15. Asliye Hukuk Mahkemesi'nde görülmüştür.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "davacı",
+    "object": "Ataol Behramoğlu",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "\"Kişilik hakları ve parti tüzel kişiliğine saldırıda bulunduğu\" iddiasıyla Ataol Behramoğlu aleyhine Recep Tayyip Erdoğan ve Adalet ve Kalkınma Partisi tarafınca açılan 20 bin TL'lik manevi tazminat davası Ankara 15. Asliye Hukuk Mahkemesi'nde görülmüştür.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "eleştirmektedir",
+    "object": "AK Parti hükûmetinin İsrail ile ticareti",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Eleştiri",
+    "kaynak_cumle": "AK Parti hükûmetinin İsrail ile ticareti sürdürmesini eleştirmektedir ve Türkiye'nin daha somut adımlar atması gerektiğini savunmaktadır.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Cumhurbaşkanına hakaret",
+    "relation": "ceza",
+    "object": "bir yıldan dört yıla kadar hapis",
+    "qualifiers": [],
+    "subject_type": "Suç",
+    "object_type": "Ceza",
+    "kaynak_cumle": "28 Ağustos 2014'te Cumhurbaşkanı olmasıyla, şahsına yönelik hakaretler TCK 299 kapsamında, alenen işlenmesi hâlinde, altıda biri; basın ve yayın yolu ile işlenmesi hâlinde, üçte biri oranında artırılmak üzere, bir yıldan dört yıla kadar hapis cezası gerektiren bir suç hâline geldi.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "savundu",
+    "object": "Emek haklarının korunması",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Politika",
+    "kaynak_cumle": "Açıklamalarında sosyal demokrasinin eşitlik , özgürlük , dayanışma ve sosyal adalet ilkelerine dayandığını belirtti; emek haklarının korunması ve sendikal örgütlenmenin güçlendirilmesini gerektiğini savundu.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "nitelendirdi",
+    "object": "soykırım",
+    "qualifiers": [
+      {
+        "relation": "konu",
+        "object": "İsrail'in yürüttüğü askeri operasyonlar"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Siyasi Niteleme",
+    "kaynak_cumle": "Özel, İsrail-Filistin çatışması ve Gazze'deki gelişmelerle ilgili açıklamalarında, İsrail 'in yürüttüğü askeri operasyonları sık sık \" soykırım \" olarak nitelendirdi ve Türkiye'nin bu duruma karşı daha somut adımlar atması gerektiğini vurguladı.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "İDO",
+    "relation": "kazandırıldı",
+    "object": "4 feribot",
+    "qualifiers": [],
+    "subject_type": "Kurum",
+    "object_type": "Varlık",
+    "kaynak_cumle": "Başta İstanbul- Yalova ve Bandırma hatlarının açılarak, Adnan Menderes ve Turgut Özal hızlı feribotlarının sefere konulması olmak üzere İstanbul'a kazandırılan toplam 29 iskele/terminal, 22 deniz otobüsü ve 4 feribotla İDO, önemli bir deniz taşımacılığı kurumu oldu.",
+    "optimization_method": "dspy"
+  },
+  {
+    "subject": "Mavi Akım doğal gaz boru hattı projesi",
+    "relation": "açılışını yapan",
+    "object": "Vladimir Putin",
+    "qualifiers": [],
+    "subject_type": "proje",
+    "object_type": "insan",
+    "kaynak_cumle": "Kasım 2005'te Vladimir Putin 'in açılışına katıldığı iki ülke arasında ortaklaşa inşa edilecek olan Mavi Akım doğal gaz boru hattı projesi başlatılmıştır.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "hakkında dava açıldı",
+    "object": "İstanbul Devlet Güvenlik Mahkemesi",
+    "qualifiers": [
+      {
+        "relation": "dava sayısı",
+        "object": "18"
+      },
+      {
+        "relation": "dava konusu",
+        "object": "Başkanlık dönemi"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "mahkeme",
+    "kaynak_cumle": "Başkanlık dönemine ilişkin olarak 18 dosyadan İstanbul Devlet Güvenlik Mahkemesi'nde dava açıldı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "görev",
+    "object": "Ulaştırma, Denizcilik ve Haberleşme Bakanı",
+    "qualifiers": [
+      {
+        "relation": "başlangıç tarihi",
+        "object": "2015"
+      },
+      {
+        "relation": "bitiş tarihi",
+        "object": "2016"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "görev",
+    "kaynak_cumle": "Başbakanlık görevinden önce 2002-2013 ve 2015-2016 yılları arasında Ulaştırma, Denizcilik ve Haberleşme Bakanı olarak görevlendirildi.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Adalet ve Kalkınma Partisi",
+    "relation": "kazandığı milletvekili sayısı",
+    "object": "295",
+    "qualifiers": [
+      {
+        "relation": "seçim",
+        "object": "24 Haziran 2018 genel seçimleri"
+      }
+    ],
+    "subject_type": "siyasi parti",
+    "object_type": "sayı",
+    "kaynak_cumle": "24 Haziran 2018 genel seçimleri sonuçlarına göre Erdoğan'ın genel başkanı olduğu Adalet ve Kalkınma Partisi seçimi ilk sırada tamamlamış ve %42,56'lık oy oranı ile 295 milletvekili çıkartmıştır.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "aday",
+    "object": "cumhurbaşkanı",
+    "qualifiers": [
+      {
+        "relation": "aday gösteren parti",
+        "object": "AK Parti"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "makam",
+    "kaynak_cumle": "1 Temmuz 2014 tarihinde AK Parti Genel Başkan Yardımcısı ve eski TBMM Başkanı Mehmet Ali Şahin , AK Partili bütün milletvekillerinin imzası alınarak cumhurbaşkanı adaylarının Recep Tayyip Erdoğan olduğunu açıkladı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "adaylık",
+    "object": "milletvekili",
+    "qualifiers": [
+      {
+        "relation": "seçim türü",
+        "object": "1991 genel seçimleri"
+      },
+      {
+        "relation": "sonuç",
+        "object": "milletvekili olmasına rağmen iptal edildi"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "siyasi pozisyon",
+    "kaynak_cumle": "Milletvekili adayı olduğu 1991 genel seçimlerinde ise milletvekili olmasına rağmen tercihli oy sistemi sebebiyle Yüksek Seçim Kurulu milletvekilliğini iptal etti.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "tercih sebebi",
+    "object": "İstanbul Teknik Üniversitesi",
+    "qualifiers": [
+      {
+        "relation": "alternatif okul",
+        "object": "Boğaziçi Üniversitesi"
+      },
+      {
+        "relation": "gerekçe",
+        "object": "Boğaziçi Üniversitesi'nde genç kızların ve erkeklerin yan yana oturması ve bu durumun kendisini yoldan çıkaracağı düşüncesi"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "üniversite",
+    "kaynak_cumle": "2013 yılında Binali Yıldırım mezun olduğu ve yüksek lisans eğitimini tamamladığı İstanbul Teknik Üniversitesi (İTÜ) tarafından düzenlenen İzmir balosunda yaptığı konuşmada Boğaziçi Üniversitesi 'ni kazandığını fakat okulun bahçesinde 'genç kızların ve erkeklerin yan yana oturduğunu' gördüğünü ve bu okula kayıt olduğu takdirde 'yoldan çıkacağı' gerekçesiyle İTÜ'yü tercih ettiğini ifade etmiştir.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "dava açtı",
+    "object": "Musa Kart",
+    "qualifiers": [
+      {
+        "relation": "neden",
+        "object": "karikatürlerde şahsının çeşitli figürlerle tasvir edilmesi ve kişilik haklarına saldırı"
+      },
+      {
+        "relation": "davalı gazete",
+        "object": "Cumhuriyet gazetesi"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "insan",
+    "kaynak_cumle": "Erdoğan tarafından Cumhuriyet gazetesi çizeri Musa Kart , Evrensel gazetesi, Penguen dergisinin sahibi Erdil Yaşaroğlu ile Pak Yayıncılık'a karikatürlerde şahsının çeşitli figürlerle tasvir edildiği ve bunun kişilik haklarına saldırı içerdiği vurgulanarak manevi tazminat davaları açılmıştır.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "genel başkanlığına seçildi",
+    "object": "Adalet ve Kalkınma Partisi",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "siyasi parti",
+    "kaynak_cumle": "14 Ağustos 2001'de kurulan Adalet ve Kalkınma Partisi'nin kurucuları arasında yer aldı ve partinin genel başkanlığına seçildi.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Türkiye",
+    "relation": "uzlaşmaya vardı",
+    "object": "İsrail",
+    "qualifiers": [
+      {
+        "relation": "zaman noktası",
+        "object": "Haziran 2016"
+      },
+      {
+        "relation": "amaç",
+        "object": "İsrail-Türkiye ilişkilerinin normalleşmesi"
+      }
+    ],
+    "subject_type": "ülke",
+    "object_type": "ülke",
+    "kaynak_cumle": "Haziran 2016 tarihinde İsrail-Türkiye ilişkilerinin normalleşmesi için müzakerelerde Türkiye ile İsrail uzlaşmaya vardı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "futbolculuk yaptı",
+    "object": "İETT futbol takımı",
+    "qualifiers": [
+      {
+        "relation": "zaman",
+        "object": "Temmuz 1974"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "takım",
+    "kaynak_cumle": "Temmuz 1974'te İETT 'de geçici işçi statüsüyle işe alınırken, kurumun futbol takımında da futbolculuk yapmaya devam etti.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "aldığı unvan",
+    "object": "Fahri doktora",
+    "qualifiers": [
+      {
+        "relation": "verildiği yer",
+        "object": "ulusal üniversite"
+      },
+      {
+        "relation": "verildiği yer",
+        "object": "uluslararası üniversite"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "akademik unvan",
+    "kaynak_cumle": "Binali Yıldırım birçok ulusal ve uluslararası üniversiteden Fahri doktora ünvanı almıştır.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "acemilik yeri",
+    "object": "Tuzla Yedek Subay Piyade Okulu",
+    "qualifiers": [
+      {
+        "relation": "konum",
+        "object": "İstanbul, Tuzla"
+      },
+      {
+        "relation": "süre",
+        "object": "dört ay"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "askeri okul",
+    "kaynak_cumle": "Dört aylık acemiliğini İstanbul'un Tuzla ilçesindeki Tuzla Yedek Subay Piyade Okulu'nda yapmasının ardından, kıta hizmetini Kâğıthane 'deki 3. Kolordu 6. Piyade Tümeni 77. Piyade Alayı Karargâh Servis Bölüğü'nde kantinlerin idaresinden sorumlu subay olarak gerçekleştirdi.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "çağrı yaptı",
+    "object": "dayanışma",
+    "qualifiers": [
+      {
+        "relation": "kime",
+        "object": "halk"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "eylem",
+    "kaynak_cumle": "Kararın ardından İstanbul'a giderek belediye binası önünde toplanan kalabalığa seslenen Özel, İmamoğlu'nun tutuklanmasını \" sivil darbe \" olarak niteledi ve halka dayanışma çağrısı yaptı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "seçildi",
+    "object": "cumhurbaşkanı",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "10 Ağustos 2014"
+      },
+      {
+        "relation": "oy oranı",
+        "object": "%51,79"
+      },
+      {
+        "relation": "adaylık durumu",
+        "object": "partisinden bağımsız"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "makam",
+    "kaynak_cumle": "10 Ağustos 2014'teki cumhurbaşkanlığı seçimine partisinden bağımsız olarak giren Erdoğan, %51,79'luk oy oranıyla seçimi kazanarak cumhurbaşkanı oldu.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "eşi",
+    "object": "Semiha Yıldırım",
+    "qualifiers": [
+      {
+        "relation": "evlilik başlangıç tarihi",
+        "object": "1975"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "insan",
+    "kaynak_cumle": "İyi düzeyde İngilizce ve Fransızca bilen Yıldırım, 1975 yılından beri, emekli öğretmen Semiha Yıldırım ile evlidir ve üç çocuk babasıdır: Erkam , Ahmet ve Büşra.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "görev başlangıcı",
+    "object": "Türkiye'nin 12. Cumhurbaşkanı",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "28 Ağustos 2014"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "makam",
+    "kaynak_cumle": "Erdoğan, 28 Ağustos 2014'te yemin etti ve Türkiye'nin 12. Cumhurbaşkanı olarak göreve başladı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Adalet ve Kalkınma Partisi",
+    "relation": "katıldığı seçim",
+    "object": "2018 genel seçimleri",
+    "qualifiers": [
+      {
+        "relation": "oy oranı",
+        "object": "%42,56"
+      }
+    ],
+    "subject_type": "siyasi parti",
+    "object_type": "seçim",
+    "kaynak_cumle": "Sonraki süreçte yapılan genel seçimlerde partisi 2018 'de %42,56, 2023 'te ise %35,62 oy alarak en yüksek milletvekili sayısına ulaştı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Ekrem İmamoğlu",
+    "relation": "tutuklandı",
+    "object": "23 Mart",
+    "qualifiers": [
+      {
+        "relation": "bağlam",
+        "object": "ön seçimin yapıldığı"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "tarih",
+    "kaynak_cumle": "CHP'nin cumhurbaşkanı adayı Ekrem İmamoğlu , 19 Mart 2025'te gözaltına alındı ve ön seçimin yapıldığı 23 Mart'ta tutuklandı .",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "değerlendirme",
+    "object": "yeni hükûmetin dış politikası",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "politika",
+    "kaynak_cumle": "Başbakanlık görevini almasından kısa bir süre sonra Binali Yıldırım, yeni hükûmetin nasıl bir dış politika izleyeceğini değerlendirdi.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Türkiye",
+    "relation": "kurdu",
+    "object": "Türk üniversitesi",
+    "qualifiers": [
+      {
+        "relation": "yer",
+        "object": "Erbil"
+      },
+      {
+        "relation": "neden",
+        "object": "Irak'ın Kürdistan Bölgesel Yönetimi ile ılımanlaşan ilişkiler"
+      }
+    ],
+    "subject_type": "ülke",
+    "object_type": "kurum",
+    "kaynak_cumle": "Irak 'ın Kürdistan Bölgesel Yönetimi ile ılımanlaşan ilişkiler sonrası Erbil 'de bir Türk üniversitesi ve Musul 'da bir Türk konsolosluğu açılmıştır.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "oğlu",
+    "object": "Necmeddin Bilal",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "insan",
+    "kaynak_cumle": "Emine Erdoğan ile Recep Tayyip Erdoğan'ın Ahmet Burak ve Necmeddin Bilal isminde iki oğlu, Esra ve Sümeyye isminde iki kızı bulunmaktadır.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Ekrem İmamoğlu",
+    "relation": "tutuklandı",
+    "object": "kendisi",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "23 Mart 2025"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "insan",
+    "kaynak_cumle": "116 milletvekilinin imzasıyla ön seçime tek aday olarak giren İBB Başkanı Ekrem İmamoğlu , 19 Mart 2025 tarihinde gözaltına alındı ve ön seçimin yapıldığı 23 Mart günü tutuklandı .",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "topladı",
+    "object": "olağanüstü kurultay",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "6 Nisan 2025"
+      },
+      {
+        "relation": "neden",
+        "object": "AK Parti hükûmetinin CHP'ye kayyım atayacağı iddiaları"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "siyasi eylem",
+    "kaynak_cumle": "AK Parti hükûmetinin CHP'ye kayyım atayacağı yönündeki iddialar üzerine Özel, 6 Nisan 2025'te olağanüstü kurultay topladı ve seçimleri yeniden kazandı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "tanımladı",
+    "object": "kitle imha silahı",
+    "qualifiers": [
+      {
+        "relation": "zaman noktası",
+        "object": "6 Ekim 2011"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "kavram",
+    "kaynak_cumle": "Erdoğan, 6 Ekim 2011 tarihinde Güney Afrika Cumhuriyeti 'ne İsrail Başkâtiplerinden Ya'akov Finkelstein, Erdoğan'ın Güney Afrika Cumhuriyeti Başbakanı ile yaptığı basın açıklamasında \"Tünellerden sadece gıda değil, silahlar, füzeler geçiyor. Bu füzelerle şehirlerimiz, çocuklarımız vuruluyor\" diyen Başkatibin sözlerine \"O tünellerden atom bombası geçmez. Nükleer silah geçmez, fosfor bombaları geçmez. İsrail, fosfor bombalarıyla Gazze'yi bombalamıştır. Bu bir kitle imha silahıdır. Ve kitle imha silahı kullanmak suçtur. O tünellerden geçse geçse ancak küçük çaplı silahlar geçebilir. Tüfek geçer. Ama oradan tank, top bunlar geçmez değil mi?\" sözlerini sarf etmiş ve devamında \"İsrail, bölge için en büyük tehlike çünkü atom bombası var\" demiştir.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "TAV Havalimanları Holding",
+    "relation": "iddiaları reddetme",
+    "object": "Binali Yıldırım'ın İDO özelleştirmesindeki usulsüzlük iddiaları",
+    "qualifiers": [],
+    "subject_type": "şirket",
+    "object_type": "iddia",
+    "kaynak_cumle": "Fakat TAV Havalimanları Holding'i bu iddiaların gerçeği hiçbir şekilde yansıtmadığını belirterek yalanladı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "suikast",
+    "relation": "engellendi",
+    "object": "bombalı araç saldırısı",
+    "qualifiers": [],
+    "subject_type": "olay",
+    "object_type": "olay",
+    "kaynak_cumle": "Sonrasında Amerika'dan gönderilen bir e-posta ile bombalı araç kullanılarak yapılması planlanan bir saldırıdan daha bahsedilmiş ve bu suikast engellenmiştir.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Adalet ve Kalkınma Partisi",
+    "relation": "katıldığı seçim",
+    "object": "2014 yerel seçimleri",
+    "qualifiers": [
+      {
+        "relation": "oy oranı",
+        "object": "%43,40"
+      }
+    ],
+    "subject_type": "siyasi parti",
+    "object_type": "seçim",
+    "kaynak_cumle": "Parti ayrıca, oyların %41,67'sini aldığı 2004 yerel seçimleri , oyların %38,39'unu aldığı 2009 yerel seçimleri , oyların %43,40'ını aldığı 2014 yerel seçimlerinde ve oyların %42,56'sını aldığı 2019 yerel seçimlerinde de en çok oy toplamayı başaran parti konumundaydı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "devam ettirdiği görev",
+    "object": "Erdoğan'ın danışmanlığı",
+    "qualifiers": [
+      {
+        "relation": "zaman noktası",
+        "object": "Haziran 2015 Türkiye genel seçimleri"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "görev",
+    "kaynak_cumle": "2014 Türkiye cumhurbaşkanlığı seçimi 'nde Erdoğan'ın %51,79 oy alarak cumhurbaşkanı seçilmesinin ve Ahmet Davutoğlu 'nun 62. Türkiye Hükûmeti 'ni kurarak başbakanlık görevine başlamasının ardından Yıldırım, Erdoğan'ın danışmanlığı görevini Haziran 2015 Türkiye genel seçimlerine kadar gayriresmî olarak devam ettirdi.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "beyan etti",
+    "object": "istifa etmeyeceğini",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "beyan",
+    "kaynak_cumle": "Kamuoyu baskısına rağmen kazada sorumluluğu üstlenmedi, üstelik istifa etmeyeceğini ve hâlâ tüm icraatının arkasında olduğunu beyan etti.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Akkuyu Nükleer Güç Santrali projesi",
+    "relation": "planlandığı ülke",
+    "object": "Rusya",
+    "qualifiers": [],
+    "subject_type": "proje",
+    "object_type": "ülke",
+    "kaynak_cumle": "Yine iki ülke arasında Akkuyu Nükleer Güç Santrali projesi planlanmaktadır.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Ekmeleddin İhsanoğlu",
+    "relation": "oy oranı",
+    "object": "%38,44",
+    "qualifiers": [
+      {
+        "relation": "sıralama",
+        "object": "ikinci"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "yüzde",
+    "kaynak_cumle": "Seçimde Erdoğan %51,79 oy oranıyla birinci sırada, İhsanoğlu %38,44 oy oranıyla ikinci sırada ve Demirtaş %9,76 oy oranıyla üçüncü sırada yer aldı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "proje başlattı",
+    "object": "Çölyak hastaları için İstanbul'da üretilen ekmeklerin Manisa ve ilçelerindeki hastalara ulaştırılması projesi",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "proje",
+    "kaynak_cumle": "Aynı dönemde başlattığı \"Çölyak hastaları için İstanbul'da üretilen ekmeklerin Manisa ve ilçelerindeki hastalara ulaştırılması\" projesini hayata geçirdi.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Ekrem İmamoğlu",
+    "relation": "seçim sonucu",
+    "object": "başkan seçildi",
+    "qualifiers": [
+      {
+        "relation": "oy oranı",
+        "object": "%48,7"
+      },
+      {
+        "relation": "seçim",
+        "object": "2019 Türkiye yerel seçimleri"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "seçim sonucu",
+    "kaynak_cumle": "Ancak oyların %48,6'sını alarak seçimi ikinci sırada tamamladı ve başkanlığa %48,7 oyla CHP'nin adayı Ekrem İmamoğlu seçildi.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Erdil Yaşaroğlu",
+    "relation": "sahibi olduğu dergi",
+    "object": "Penguen dergisi",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "dergi",
+    "kaynak_cumle": "Erdoğan tarafından Cumhuriyet gazetesi çizeri Musa Kart , Evrensel gazetesi, Penguen dergisinin sahibi Erdil Yaşaroğlu ile Pak Yayıncılık'a karikatürlerde şahsının çeşitli figürlerle tasvir edildiği ve bunun kişilik haklarına saldırı içerdiği vurgulanarak manevi tazminat davaları açılmıştır.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "mal varlığı nedeni",
+    "object": "emekli ikramiyesi",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "gelir kaynağı",
+    "kaynak_cumle": "Erdoğan'ın bu mal varlığının nedeni olarak ise şirket hisselerinin satış geliri, emekli ikramiyesi, emekli maaşı ve milletvekili maaşlarının toplamı gösterilmiştir.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "eşi",
+    "object": "Emine Gülbaran",
+    "qualifiers": [
+      {
+        "relation": "tanışma tarihi",
+        "object": "4 Temmuz 1978"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "insan",
+    "kaynak_cumle": "4 Temmuz 1978 günü verdiği bir konferansta tanıştığı 1955 doğumlu Emine Gülbaran ile evlenmiştir.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "mutabakat zaptı ve çalışma protokolü",
+    "relation": "kapsadığı sektör",
+    "object": "su",
+    "qualifiers": [],
+    "subject_type": "anlaşma",
+    "object_type": "sektör",
+    "kaynak_cumle": "Protokol içeriği güvenlik, enerji, petrol, elektrik, su, sağlık, ticaret, çevre, ulaşım, konut, inşaat, tarım, eğitim, yüksek öğrenim ve savunma sektörlerini içermektedir.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "kurucu üyesi oldu",
+    "object": "Adalet ve Kalkınma Partisi",
+    "qualifiers": [
+      {
+        "relation": "kuruluş tarihi",
+        "object": "14 Ağustos 2001"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "siyasi parti",
+    "kaynak_cumle": "14 Ağustos 2001 tarihinde kurulan sosyal muhafazakâr Adalet ve Kalkınma Partisi 'ne (AK Parti) katılarak kurucu üyeler arasında yer aldı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Fadıl Akgündüz",
+    "relation": "milletvekilliği",
+    "object": "düşürüldü",
+    "qualifiers": [
+      {
+        "relation": "seçildiği yer",
+        "object": "Siirt"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "durum",
+    "kaynak_cumle": "Seçimlerde Siirt milletvekili seçilen Fadıl Akgündüz 'ün milletvekilliğinin düşürülmesinin ardından Siirt'teki seçimlerin tekrar edilmesi kararlaştırıldı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "atanma",
+    "object": "Türk Devletleri Teşkilatı Aksakallılar Heyeti Başkanı",
+    "qualifiers": [
+      {
+        "relation": "zaman noktası",
+        "object": "12 Kasım 2021"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "görev",
+    "kaynak_cumle": "12 Kasım 2021 tarihinde Türk Devletleri Teşkilatı (TDT) Aksakallılar Heyeti Başkanı olarak atandı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Ahmet Erdoğan",
+    "relation": "kimlik bilgisi",
+    "object": "1905",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "tarih",
+    "kaynak_cumle": "Doğum tarihi net olarak bilinmeyen Ahmet Erdoğan'ın mezar taşında 1321 (Rumi takvime göre 1905-1906) yazarken, kimlik bilgilerinde 1905 yazmaktadır.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Umut Kılıç",
+    "relation": "söylediği söz",
+    "object": "\"Faşist Erdoğan\"",
+    "qualifiers": [
+      {
+        "relation": "yer",
+        "object": "hâkim ve savcılık sınavı mülakatı"
+      },
+      {
+        "relation": "zaman noktası",
+        "object": "2015"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "söz",
+    "kaynak_cumle": "Afyonkarahisar Barosu üyesi Avukat Umut Kılıç, 2015 yılında hâkim ve savcılık sınavı mülakatında söylediği \"Faşist Erdoğan\" sözleri nedeniyle Cumhurbaşkanı'na hakaretten bir yıl altı ay hapis cezasına çarptırıldı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "hakaret suçu cezası (basın ve yayın yolu)",
+    "object": "bir yıldan dört yıla kadar hapis cezası",
+    "qualifiers": [
+      {
+        "relation": "artırım oranı",
+        "object": "üçte biri"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "ceza",
+    "kaynak_cumle": "28 Ağustos 2014'te Cumhurbaşkanı olmasıyla, şahsına yönelik hakaretler TCK 299 kapsamında, alenen işlenmesi hâlinde, altıda biri; basın ve yayın yolu ile işlenmesi hâlinde, üçte biri oranında artırılmak üzere, bir yıldan dört yıla kadar hapis cezası gerektiren bir suç hâline geldi.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "görev",
+    "object": "Başbakanlık",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "görev",
+    "kaynak_cumle": "Yıldırım'ın Başbakanlık görevine başlamasının ardından Rusya Parlamentosu'nun üst kanadı Federasyon Konseyi Dış İlişkiler Komitesi Başkan Yardımcısı Vladimir Cabarov , Türkiye'de Hükûmetin değişmesiyle pratikte hiçbir şeyin değişmeyeceğini iddia ederek Türkiye-Rusya ilişkilerinde olumlu bir değişimin yaşanmayacağını ifade etti.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "görevden ayrılma",
+    "object": "hükûmet",
+    "qualifiers": [
+      {
+        "relation": "zaman noktası",
+        "object": "2013"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "hükûmet",
+    "kaynak_cumle": "2013'te hükûmetteki görevinden ayrılan Yıldırım, 30 Mart seçimlerinde AK Parti'den İzmir'de belediye başkan adayı olsa da seçilemedi.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Adalet ve Kalkınma Partisi",
+    "relation": "kazandığı seçim",
+    "object": "2002 genel seçimleri",
+    "qualifiers": [],
+    "subject_type": "siyasi parti",
+    "object_type": "seçim",
+    "kaynak_cumle": "Erdoğan'ın liderliğinde Adalet ve Kalkınma Partisi 2002 genel seçimleri kazandıktan sonra, 2004 yerel seçimlerinde oy sayısını daha fazla artırdı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "milletvekili oldu",
+    "object": "28 Haziran 2011",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "tarih",
+    "kaynak_cumle": "28 Haziran 2011'de milletvekili olan Özel, 24 Haziran 2015'ten 3 Haziran 2023'e kadar Cumhuriyet Halk Partisi'nin TBMM Grup Başkanvekili olarak görev aldı, partisinin meclisteki çalışmalarını yürüttü.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "açıkladı",
+    "object": "CHP'nin İmralı Adası görüşmelerine katılmayacağı",
+    "qualifiers": [
+      {
+        "relation": "görüşme detayı",
+        "object": "TBMM heyeti tarafından Abdullah Öcalan ile yapılacak"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "siyasi açıklama",
+    "kaynak_cumle": "Özel, TBMM heyeti tarafından İmralı Adası 'nda Abdullah Öcalan ile yapılacak görüşmelere CHP'nin katılmayacağını açıklayarak, 24 Kasım 2025'te gerçekleştirilen ziyarette partinin heyete katılmadığını bildirdi.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Muhammed Mursi",
+    "relation": "görev",
+    "object": "Mısır cumhurbaşkanlığı",
+    "qualifiers": [
+      {
+        "relation": "başlangıç tarihi",
+        "object": "2012"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "makam",
+    "kaynak_cumle": "Muhammed Mursi 'nin 2012 yılından beri sürdürdüğü Mısır cumhurbaşkanlığı görevine el konulduğu 2013 Mısır askerî darbesinin ardından iki ülke arasındaki ilişkilerin gerginleşmesi ve iki ülkenin diplomatik ilişkilerinin maslahatgüzar seviyesine gerilemesi ile ilgili olarak Başbakan Yıldırım, Türkiye'nin Akdeniz ve Karadeniz 'de yer alan ülkelerle ilişkilerini geliştirmesini gerektiğini savunarak Mısır-Türkiye ilişkilerini geliştirmekten yana olduklarını belirtmiştir.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "CHP",
+    "relation": "oy oranı",
+    "object": "%37,76",
+    "qualifiers": [
+      {
+        "relation": "zaman noktası",
+        "object": "2024 yerel seçimleri"
+      }
+    ],
+    "subject_type": "siyasi parti",
+    "object_type": "yüzde",
+    "kaynak_cumle": "CHP oyların %37,76'sını alarak birinci parti, Yeniden Refah Partisi oyların %6,19'unu alarak üçüncü parti oldu.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "baba",
+    "object": "Dursun Bey",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "insan",
+    "kaynak_cumle": "Binali Yıldırım Kürt asıllı ve 20 Aralık 1955 tarihinde Dursun Bey ile Bahar Hanım'ın yedi çocuğundan ikincisi olarak o dönemde Sivas 'ın Suşehri ilçesine bağlı bir bucak olan Gölova 'nın Günalan köyünde doğdu.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "mutabakat zaptı ve çalışma protokolü",
+    "relation": "kapsadığı sektör",
+    "object": "inşaat",
+    "qualifiers": [],
+    "subject_type": "anlaşma",
+    "object_type": "sektör",
+    "kaynak_cumle": "Protokol içeriği güvenlik, enerji, petrol, elektrik, su, sağlık, ticaret, çevre, ulaşım, konut, inşaat, tarım, eğitim, yüksek öğrenim ve savunma sektörlerini içermektedir.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Refah Partisi",
+    "relation": "seçim sonucu",
+    "object": "%16,73 oy oranı",
+    "qualifiers": [
+      {
+        "relation": "seçim bölgesi",
+        "object": "İstanbul"
+      }
+    ],
+    "subject_type": "siyasi parti",
+    "object_type": "oy oranı",
+    "kaynak_cumle": "Seçimlere Milliyetçi Çalışma Partisi ve Islahatçı Demokrasi Partisi ile ittifak yaparak giren Refah Partisi, İstanbul'dan %16,73 oranında oy aldı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "bakanlık",
+    "object": "Ulaştırma, Denizcilik ve Haberleşme Bakanı",
+    "qualifiers": [
+      {
+        "relation": "hükûmet",
+        "object": "64. Hükûmet"
+      },
+      {
+        "relation": "zaman noktası",
+        "object": "Kasım 2015"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "siyasi görev",
+    "kaynak_cumle": "Partisinde uygulanan üç dönem kuralından dolayı Haziran 2015 genel seçimlerine katılamadı ancak Kasım 2015'teki genel seçimlerde kuralın esnetilmesiyle tekrar meclise girdi ve 64. Hükûmet 'te tekrar Ulaştırma, Denizcilik ve Haberleşme Bakanı olarak yer aldı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "görev",
+    "object": "Başbakan",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "görev",
+    "kaynak_cumle": "65. Türkiye Hükûmeti'ni 24 Mayıs 2016 tarihinde kurarak Başbakan olduktan kısa bir süre sonra Binali Yıldırım, Türkiye Büyük Millet Meclisinde hükûmet programını okurken yeni hükûmetin öncelikli konusunun yeni anayasa başkanlık sistemi de dahil olmak üzere yeni yönetim sistemini belirleyecek değişikliğin olduğunu ve yeni anayasayı gerçekleştirmek için çalışmalara hemen başlanacağını açıkladı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "seçildiği görev",
+    "object": "TBMM Başkanı",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "siyasi görev",
+    "kaynak_cumle": "2018 Türkiye genel seçimleriyle İzmir Milletvekili olarak TBMM'ye giren Yıldırım, TBMM Başkanı seçildi.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Naci Ağbal",
+    "relation": "tekrar atandığı görev",
+    "object": "Maliye Bakanlığı",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "bakanlık",
+    "kaynak_cumle": "Maliye Bakanlığı 'na ise Şimşek'le uzun süredir beraber çalışan Naci Ağbal tekrar atandı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Yakup Kadri Karaosmanoğlu hızlı treni",
+    "relation": "kaza nedeni",
+    "object": "aşırı hız",
+    "qualifiers": [],
+    "subject_type": "tren",
+    "object_type": "neden",
+    "kaynak_cumle": "22 Temmuz 2004 tarihinde Yakup Kadri Karaosmanoğlu hızlı treni Ankara - İstanbul rotasında hızlı tren seferini yaparken Sakarya 'nın Pamukova ilçesinde aşırı hız yüzünden trenin ikinci yolcu vagonu ile bu vagona bağlı diğer vagonlar raydan çıktı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "göreve başlama töreni",
+    "object": "Cumhurbaşkanlığı Külliyesi",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "3 Haziran 2023"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "yer",
+    "kaynak_cumle": "3 Haziran 2023 tarihinde Cumhurbaşkanlığı Külliyesi'nde yapılan göreve başlama töreni sonrasında görevine başladı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "2013 Mısır askerî darbesi",
+    "relation": "neden oldu",
+    "object": "iki ülkenin diplomatik ilişkilerinin maslahatgüzar seviyesine gerilemesi",
+    "qualifiers": [],
+    "subject_type": "olay",
+    "object_type": "durum",
+    "kaynak_cumle": "Muhammed Mursi 'nin 2012 yılından beri sürdürdüğü Mısır cumhurbaşkanlığı görevine el konulduğu 2013 Mısır askerî darbesinin ardından iki ülke arasındaki ilişkilerin gerginleşmesi ve iki ülkenin diplomatik ilişkilerinin maslahatgüzar seviyesine gerilemesi ile ilgili olarak Başbakan Yıldırım, Türkiye'nin Akdeniz ve Karadeniz 'de yer alan ülkelerle ilişkilerini geliştirmesini gerektiğini savunarak Mısır-Türkiye ilişkilerini geliştirmekten yana olduklarını belirtmiştir.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Cumhurbaşkanlığı Sarayı inşası",
+    "relation": "mahkeme kararı",
+    "object": "durdurulması",
+    "qualifiers": [],
+    "subject_type": "olay",
+    "object_type": "karar",
+    "kaynak_cumle": "Bir sit alanı olarak korunan Atatürk Orman Çiftliği'nde inşaat yasağı bulunduğu için sarayın inşasının durdurulmasına dair çeşitli mahkeme kararları çıksa da inşaat tamamlandı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "mezuniyet yılı",
+    "object": "1965",
+    "qualifiers": [
+      {
+        "relation": "eğitim kurumu",
+        "object": "Piyalepaşa İlkokulu"
+      },
+      {
+        "relation": "eğitim seviyesi",
+        "object": "ilkokul"
+      },
+      {
+        "relation": "yer",
+        "object": "Kasımpaşa"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "yıl",
+    "kaynak_cumle": "İlkokul eğitimini aldığı Kasımpaşa'daki Piyalepaşa İlkokulundan 1965'te, lise eğitimini aldığı ve yatılı olarak okuduğu Fatih 'teki İstanbul İmam Hatip Lisesinden ise 1973'te mezun oldu.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "görev",
+    "object": "Beyoğlu ilçe başkanı",
+    "qualifiers": [
+      {
+        "relation": "zaman noktası",
+        "object": "1984"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "görev",
+    "kaynak_cumle": "19 Haziran 1983'te kurulan Refah Partisi ile siyasete geri döndü ve 1984 yılında Beyoğlu ilçe başkanı oldu.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "başbakanlık görevine geldi",
+    "object": "14 Mart 2003",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "tarih",
+    "kaynak_cumle": "Başbakan Gül'ün istifasını sunmasıyla, 14 Mart 2003'te başbakanlık görevine geldi.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Cumhuriyet Halk Partisi",
+    "relation": "oy oranı",
+    "object": "%23",
+    "qualifiers": [
+      {
+        "relation": "zaman noktası",
+        "object": "2009"
+      }
+    ],
+    "subject_type": "siyasi parti",
+    "object_type": "yüzde",
+    "kaynak_cumle": "İkinci parti olan CHP %23 oy aldı ve üçüncü parti olan MHP %16 oy aldı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "belirtti",
+    "object": "millî birlik ve beraberlik mesajı",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "mesaj",
+    "kaynak_cumle": "Okuduğu dörtlüğün bu şekliyle Gökalp'e ait olduğunu belirten Erdoğan, konuyla ilgili olarak \"konuşmamın bütünü incelendiğinde millî birlik ve beraberlik mesajım verildiği görülür\" demişti.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "katkıda bulundu",
+    "object": "toplum sağlığı",
+    "qualifiers": [],
+    "subject_type": "insan",
+    "object_type": "kavram",
+    "kaynak_cumle": "Bu projelerle, çevre duyarlılığı ve toplum sağlığına yönelik önemli katkılarda bulundu.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "talep etti",
+    "object": "açık oylama",
+    "qualifiers": [
+      {
+        "relation": "mekan",
+        "object": "Meclis"
+      },
+      {
+        "relation": "zaman noktası",
+        "object": "Kasım 2016"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "eylem",
+    "kaynak_cumle": "Kasım 2016'da CHP Grup Başkanvekili Özgür Özel, TBMM'de AK Parti 'nin Ceza Muhakemeleri Kanunu önergesini eleştirerek, önergenin içeriğindeki cinsel istismar suçlarını hafifleten maddelere karşı çıktığını ve Mecliste açık oylama talep ettiklerini belirtti.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Mahkeme",
+    "relation": "karar verdi",
+    "object": "Özgür Özel lehine",
+    "qualifiers": [
+      {
+        "relation": "gerekçe",
+        "object": "Akar'ın eleştirilere katlanma yükümlülüğü olduğu"
+      },
+      {
+        "relation": "gerekçe",
+        "object": "Özel'in suç işlemediği"
+      }
+    ],
+    "subject_type": "kurum",
+    "object_type": "karar",
+    "kaynak_cumle": "Mahkeme, Akar'ın eleştirilere katlanma yükümlülüğü olduğunu ve Özel'in suç işlemediğini belirterek davayı Özel'in lehine sonuçlandırdı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Ahmet Erdoğan",
+    "relation": "ilk evlilik",
+    "object": "Havuli",
+    "qualifiers": [
+      {
+        "relation": "yer",
+        "object": "Güneysu"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "insan",
+    "kaynak_cumle": "Güneysu 'dayken Havuli ile gerçekleşen ilk evliliğinden Mehmet (1926-1988) ve Hasan (1929-2006) isimli iki erkek çocuğu olan Ahmet Erdoğan, bir süre sonra İstanbul'a yerleşirken eşini ve çocuklarını Güneysu'da bıraktı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "serbest bırakılan esirler",
+    "relation": "kalacak",
+    "object": "Türkiye",
+    "qualifiers": [
+      {
+        "relation": "süre",
+        "object": "savaş bitene kadar"
+      }
+    ],
+    "subject_type": "insan grubu",
+    "object_type": "ülke",
+    "kaynak_cumle": "Anlaşmanın bir parçası olarak serbest bırakılan esirler savaş bitene kadar Türkiye'de kalacaklar.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Devlet Bahçeli",
+    "relation": "itham etti",
+    "object": "Recep Tayyip Erdoğan",
+    "qualifiers": [
+      {
+        "relation": "itham edilen ifadeler",
+        "object": "Türkiye'yi bölmeye çalışmak, etnik bölücülük konusunda sicil sahibi olmak, Türkiye'yi ayrıştırma ve bölme projelerini İmralı, Kandil ve Barzani'nin desteğiyle hayata geçirmek için çalışmak, İmralı canisi ile rol paylaşmak, işbirliği içinde olmak, kol kola girmek, aynı çizgide olmak; kimliksiz ve kişiliksiz siyasetin temsilcisi olmak, hayasızlık, ahlaksızlık, namussuzluk, edepsizlik; çürümüş bir zihniyete sahip olarak, etrafa mide bulandıran koku yaymak, ahlak bunalımına girmek, ahlaki ve vicdani bütün ölçülerini kaybetmek, seviye ve seviyesizlik ölçüleriyle tarif edilemeyecek bir çukura düşmek, utanç verici bir kişi olmak, teröristleri kucaklamak, alçaklık, yalancılık, riyakarlık, yalanlarla Türk milletine hakaret etmek"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "insan",
+    "kaynak_cumle": "Dava dilekçesinde Bahçeli'nin; \"Türkiye'yi bölmeye çalışmak, etnik bölücülük konusunda sicil sahibi olmak, Türkiye'yi ayrıştırma ve bölme projelerini İmralı, Kandil ve Barzani'nin desteğiyle hayata geçirmek için çalışmak, İmralı canisi ile rol paylaşmak, işbirliği içinde olmak, kol kola girmek, aynı çizgide olmak; kimliksiz ve kişiliksiz siyasetin temsilcisi olmak, hayasızlık, ahlaksızlık, namussuzluk, edepsizlik; çürümüş bir zihniyete sahip olarak, etrafa mide bulandıran koku yaymak, ahlak bunalımına girmek, ahlaki ve vicdani bütün ölçülerini kaybetmek, seviye ve seviyesizlik ölçüleriyle tarif edilemeyecek bir çukura düşmek, utanç verici bir kişi olmak, teröristleri kucaklamak, alçaklık, yalancılık, riyakarlık, yalanlarla Türk milletine hakaret etmek\" gibi ifadeleri ve sözleriyle Erdoğan ve Adalet ve Kalkınma Partisi'ni itham ettiği kaydedildi.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "imzaladığı mutabakat zaptı sayısı",
+    "object": "36",
+    "qualifiers": [
+      {
+        "relation": "düzenleyen kurum",
+        "object": "Türkiye-Irak Yüksek Düzeyli Stratejik İşbirliği Konseyi"
+      },
+      {
+        "relation": "yer",
+        "object": "Bağdat"
+      },
+      {
+        "relation": "dönem",
+        "object": "başbakanlık dönemi"
+      }
+    ],
+    "subject_type": "insan",
+    "object_type": "sayı",
+    "kaynak_cumle": "Recep Tayyip Erdoğan başbakanlık dönemi boyunca Türkiye-Irak Yüksek Düzeyli Stratejik İşbirliği Konseyi tarafından düzenlenen Bağdat 'ta 36 mutabakat zaptı ve çalışma protokolü imzaladı.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "silah",
+    "relation": "tespit edildi",
+    "object": "kuru sıkıdan bozma silah",
+    "qualifiers": [],
+    "subject_type": "nesne",
+    "object_type": "nesne",
+    "kaynak_cumle": "Silah üzerinde yapılan incelemede kuru sıkıdan bozma bir silah olduğu tespit edilmiştir.",
+    "optimization_method": "textgrad"
+  },
+  {
+    "subject": "Meclis",
+    "subject_type": "Yer",
+    "relation": "bombalandı",
+    "object": null,
+    "object_type": null,
+    "qualifiers": [],
+    "kaynak_cumle": "Meclise ulaştıktan sonra yaşadıkları sığınakta kaldıklarını ve meclisin bombalandıktan sonra elektriklerin kesildiğini aktardı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "2009 yerel seçimleri",
+    "relation": "gerçekleştiği dönem",
+    "object": "Çin 'in Doğu Türkistan 'da olay çıkarması",
+    "qualifiers": [],
+    "subject_type": "Seçim",
+    "object_type": "Olay",
+    "kaynak_cumle": "2007-2010 e-muhtıra , 2007 ve 2010 Referandumu Seçimleri, İsrail 'in Filistin 'e saldırıları ve Çin 'in Doğu Türkistan 'da olay çıkarması gibi olaylar döneminde iken 2009 yılında yerel seçim yapıldı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "söyledi",
+    "object": "Sesin çok yüksek çıkıyor",
+    "qualifiers": [
+      {
+        "relation": "kime",
+        "object": "Şimon Peres"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Alıntı",
+    "kaynak_cumle": "Erdoğan, Peres'e şu sözleri söyledi: \"Sesin çok yüksek çıkıyor. Biliyorum ki sesinin benden çok yüksek çıkması bir suçluluk psikolojisinin gereğidir. Öldürmeye gelince, siz öldürmeyi çok iyi bilirsiniz. Plajlardaki çocukları nasıl öldürdüğünüzü, nasıl vurduğunuzu çok iyi biliyorum.\"",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "aldı",
+    "object": "oy oranı",
+    "qualifiers": [
+      {
+        "relation": "oran",
+        "object": "%48,6"
+      },
+      {
+        "relation": "seçim",
+        "object": "2019 Türkiye yerel seçimleri"
+      }
+    ],
+    "subject_type": "Siyasetçi",
+    "object_type": "Sayısal Değer",
+    "kaynak_cumle": "Ancak oyların %48,6'sını alarak seçimi ikinci sırada tamamladı ve başkanlığa %48,7 oyla CHP'nin adayı Ekrem İmamoğlu seçildi.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "görüştü",
+    "object": "Ahmet Davutoğlu",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "4 Mayıs 2016"
+      },
+      {
+        "relation": "yer",
+        "object": "Cumhurbaşkanlığı Külliyesi"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "4 Mayıs 2016 tarihinde Recep Tayyip Erdoğan ve Ahmet Davutoğlu arasında, Cumhurbaşkanlığı kaynakları tarafından \"haftalık olağan görüşme\" olarak açıklansa da, rutin görüşme gününden bir gün önce Cumhurbaşkanlığı Külliyesi 'nde ikili bir toplantı yapıldı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Selahattin Demirtaş",
+    "relation": "oy oranı",
+    "object": "%9,76",
+    "qualifiers": [
+      {
+        "relation": "sıralama",
+        "object": "üçüncü"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Yüzde",
+    "kaynak_cumle": "Seçimde Erdoğan %51,79 oy oranıyla birinci sırada, İhsanoğlu %38,44 oy oranıyla ikinci sırada ve Demirtaş %9,76 oy oranıyla üçüncü sırada yer aldı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "dava açtı",
+    "object": "Kemal Kılıçdaroğlu",
+    "qualifiers": [
+      {
+        "relation": "neden",
+        "object": "hakaret iddiası"
+      },
+      {
+        "relation": "tazminat miktarı",
+        "object": "10 bin lira"
+      },
+      {
+        "relation": "dava tarihi",
+        "object": "4 Şubat 2014"
+      },
+      {
+        "relation": "dava tarihi",
+        "object": "6 Mayıs 2014"
+      }
+    ],
+    "subject_type": "Siyasetçi",
+    "object_type": "Siyasetçi",
+    "kaynak_cumle": "Binali Yıldırım, partisinin 4 Şubat 2014 ve 6 Mayıs 2014 tarihli Türkiye Büyük Millet Meclisi grup toplantılarında kendisine hakaret ettiğini öne sürdüğü CHP Genel Başkanı Kemal Kılıçdaroğlu aleyhine 10 bin lira manevi tazminat istemiyle dava açtı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Öğretmen Semiha Yıldırım İlkokulu",
+    "relation": "yapım nedeni",
+    "object": "Semiha Yıldırım için",
+    "qualifiers": [
+      {
+        "relation": "yapan",
+        "object": "çocukları"
+      }
+    ],
+    "subject_type": "Okul",
+    "object_type": "Kişi",
+    "kaynak_cumle": "Çekmeköy, İstanbul 'da çocukları tarafından eşi Semiha Yıldırım için yapılan ''Öğretmen Semiha Yıldırım İlkokulu'' adında bir okul vardır ve 24 Kasım 2012 tarihinde açılmıştır.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Yakup Kadri Karaosmanoğlu hızlı treni",
+    "relation": "sefer rotası",
+    "object": "Ankara - İstanbul",
+    "qualifiers": [],
+    "subject_type": "Tren",
+    "object_type": "Rota",
+    "kaynak_cumle": "22 Temmuz 2004 tarihinde Yakup Kadri Karaosmanoğlu hızlı treni Ankara - İstanbul rotasında hızlı tren seferini yaparken Sakarya 'nın Pamukova ilçesinde aşırı hız yüzünden trenin ikinci yolcu vagonu ile bu vagona bağlı diğer vagonlar raydan çıktı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mezun olduğu üniversite",
+    "object": "İstanbul Teknik Üniversitesi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Üniversite",
+    "kaynak_cumle": "2013 yılında Binali Yıldırım mezun olduğu ve yüksek lisans eğitimini tamamladığı İstanbul Teknik Üniversitesi (İTÜ) tarafından düzenlenen İzmir balosunda yaptığı konuşmada Boğaziçi Üniversitesi 'ni kazandığını fakat okulun bahçesinde 'genç kızların ve erkeklerin yan yana oturduğunu' gördüğünü ve bu okula kayıt olduğu takdirde 'yoldan çıkacağı' gerekçesiyle İTÜ'yü tercih ettiğini ifade etmiştir.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "söyledi",
+    "object": "siz öldürmeyi çok iyi bilirsiniz",
+    "qualifiers": [
+      {
+        "relation": "kime",
+        "object": "Şimon Peres"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Alıntı",
+    "kaynak_cumle": "Erdoğan, Peres'e şu sözleri söyledi: \"Sesin çok yüksek çıkıyor. Biliyorum ki sesinin benden çok yüksek çıkması bir suçluluk psikolojisinin gereğidir. Öldürmeye gelince, siz öldürmeyi çok iyi bilirsiniz. Plajlardaki çocukları nasıl öldürdüğünüzü, nasıl vurduğunuzu çok iyi biliyorum.\"",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Özgür Özel",
+    "subject_type": "Kişi",
+    "relation": "üye oldu",
+    "object": "Avrupa Eczacılık Forumu",
+    "object_type": "Kuruluş",
+    "qualifiers": [],
+    "kaynak_cumle": "Uluslararası Eczacılık Federasyonu, Avrupa Birliği Eczacılık Grubu ile Avrupa Eczacılık Forumu'na üyelikleri bulundu.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Özgür Özel",
+    "subject_type": "Kişi",
+    "relation": "üye oldu",
+    "object": "Uluslararası Eczacılık Federasyonu",
+    "object_type": "Kuruluş",
+    "qualifiers": [],
+    "kaynak_cumle": "Uluslararası Eczacılık Federasyonu, Avrupa Birliği Eczacılık Grubu ile Avrupa Eczacılık Forumu'na üyelikleri bulundu.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Saray",
+    "relation": "maliyeti",
+    "object": "€270 milyon",
+    "qualifiers": [],
+    "subject_type": "Yapı",
+    "object_type": "Para Birimi",
+    "kaynak_cumle": "Yaklaşık 1.000 odası olan ve maliyeti $350 milyon €270 milyon tutan saray, maden kazalarının ve işçi haklarının ülke gündemine hâkim olduğu bir süreçte ortaya çıkması ve kullanılmaya başlanması yüzünden büyük eleştirilere yol açtı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Cumhuriyet Halk Partisi",
+    "relation": "parti türü",
+    "object": "Siyasi Parti",
+    "subject_type": "Siyasi Parti",
+    "object_type": "Kavram",
+    "kaynak_cumle": "CHP'nin 2024 yerel seçimlerinde , yıllar sonra ülke genelinde birinci parti olması, hükûmetteki parti olan AK Parti'nin ikinci sıraya düşmesi ve bu durumun 2025 başı itibarıyla değişmediğinin kamuoyu araştırmalarında görülmesi ; erken seçimin toplumda ve siyasette konuşulmaya başlamasını sağladı.",
+    "qualifiers": [],
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "eleştirildi",
+    "object": "antisemitizm",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Siyasi Eleştiri",
+    "kaynak_cumle": "Recep Tayyip Erdoğan'a siyasi hayatının başlarından itibaren çeşitli eleştiriler yapılmıştır. Bunlar arasında yargının siyasallaşması, 2013-2014 yıllarında yapılan yargıya yönelik düzenlemeler, basına uygulanan sansür, anti-Kemalizm , antisemitizm ve diktatörleşme eğilimleri yer alır.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Millî Selamet Partisi",
+    "relation": "kapatılma",
+    "object": null,
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "1981"
+      }
+    ],
+    "subject_type": "Siyasi Parti",
+    "object_type": "Durum",
+    "kaynak_cumle": "Millî Selamet Partisi'nin 1981'de kapatılması sonrasında, 1983'te kurulan Refah Partisi ile siyasi hayatına devam etti.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Saray",
+    "relation": "yol açtı",
+    "object": "büyük eleştiriler",
+    "qualifiers": [
+      {
+        "relation": "neden",
+        "object": "maden kazalarının ve işçi haklarının ülke gündemine hâkim olduğu bir süreçte ortaya çıkması ve kullanılmaya başlanması"
+      }
+    ],
+    "subject_type": "Yapı",
+    "object_type": "Konsept",
+    "kaynak_cumle": "Yaklaşık 1.000 odası olan ve maliyeti $350 milyon €270 milyon tutan saray, maden kazalarının ve işçi haklarının ülke gündemine hâkim olduğu bir süreçte ortaya çıkması ve kullanılmaya başlanması yüzünden büyük eleştirilere yol açtı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "siyasi yasağı vardı",
+    "object": "2002 genel seçimleri",
+    "qualifiers": [],
+    "subject_type": "Siyasi Kişi",
+    "object_type": "Seçim",
+    "kaynak_cumle": "Parti, girdiği ilk seçimler olan 2002 genel seçimlerinde %34,43'lük oy oranı ile Abdullah Gül 'ün başbakanlığında 58. hükûmeti kurarken, siyasi yasağı süren Erdoğan seçimlere girememişti.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Adalet ve Kalkınma Partisi",
+    "relation": "parti türü",
+    "object": "Siyasi Parti",
+    "subject_type": "Siyasi Parti",
+    "object_type": "Kavram",
+    "kaynak_cumle": "CHP'nin 2024 yerel seçimlerinde , yıllar sonra ülke genelinde birinci parti olması, hükûmetteki parti olan AK Parti'nin ikinci sıraya düşmesi ve bu durumun 2025 başı itibarıyla değişmediğinin kamuoyu araştırmalarında görülmesi ; erken seçimin toplumda ve siyasette konuşulmaya başlamasını sağladı.",
+    "qualifiers": [],
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "kızı",
+    "object": "Esra Erdoğan",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "Emine Erdoğan ile Recep Tayyip Erdoğan'ın Ahmet Burak ve Necmeddin Bilal isminde iki oğlu, Esra ve Sümeyye isminde iki kızı bulunmaktadır.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Türkiye",
+    "relation": "diyaloğu sürdürme",
+    "object": "Vladimir Putin",
+    "qualifiers": [],
+    "subject_type": "Ülke",
+    "object_type": "Devlet Başkanı",
+    "kaynak_cumle": "Türkiye, İstanbul Boğazı 'nı Rus donanma takviyelerine kapatırken, Birleşmiş Milletler yaptırımlarını uygularken ve Ukrayna'ya Baykar Bayraktar TB2 insansız hava araçları ve BMC Kirpi araçları gibi askeri teçhizat sağlarken, Türk hava sahasını Rus sivillere kapatmak gibi bazı yaptırımlara katılmadı ve Rusya Devlet Başkanı Vladimir Putin ile diyaloğu sürdürdü.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "mezuniyet",
+    "object": "Aksaray İktisadi ve Ticari İlimler Yüksek Okulu",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "1981"
+      }
+    ],
+    "subject_type": "Siyasi Kişi",
+    "object_type": "Eğitim Kurumu",
+    "kaynak_cumle": "1976 yılında Millî Selamet Partisi Beyoğlu gençlik kolu başkanlığına ve aynı yıl İstanbul il gençlik kolları başkanlığına seçilen Erdoğan, Aksaray İktisadi ve Ticari İlimler Yüksek Okulu 'ndan 1981 yılında mezun oldu.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Yıldırım",
+    "relation": "olacağı iddia edildi",
+    "object": "yeni AK Parti genel başkanı",
+    "qualifiers": [],
+    "subject_type": "Siyasetçi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "Ahmet Davutoğlu'nun istifasının ardından, yeni AK Parti genel başkanının Yıldırım, Recep Tayyip Erdoğan 'ın damadı ve Enerji Bakanı Berat Albayrak ya da Erdoğan'a yakınlığıyla bilinen diğer AK Partili siyasetçilerden biri olacağı iddia edildi.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Ekrem İmamoğlu",
+    "relation": "tutuklandı",
+    "object": "23 Mart 2025",
+    "subject_type": "Politikacı",
+    "object_type": "Tarih",
+    "kaynak_cumle": "116 milletvekilinin imzasıyla ön seçime tek aday olarak giren İBB Başkanı Ekrem İmamoğlu , 19 Mart 2025 tarihinde gözaltına alındı ve ön seçimin yapıldığı 23 Mart günü tutuklandı .",
+    "qualifiers": [
+      {
+        "relation": "bağlam",
+        "object": "Ön Seçim Günü",
+        "object_type": "Olay"
+      }
+    ],
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Özgür Özel",
+    "subject_type": "Siyasetçi",
+    "relation": "destek veren açıklamalar yaptı",
+    "object": "güvencesiz çalışmanın azaltılması",
+    "object_type": "Politika",
+    "qualifiers": [],
+    "kaynak_cumle": "İşçi hakları , güvencesiz çalışmanın azaltılması ve grev haklarının güvence altına alınması gibi konulara destek veren açıklamalar yaptı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "belirtti",
+    "object": "Türkiye'nin fiili durumu hukuki durum haline getirme mecburiyeti",
+    "qualifiers": [],
+    "subject_type": "Siyasi Lider",
+    "object_type": "Durum",
+    "kaynak_cumle": "Yıldırım, Türkiye'nin fiili durumu hukuki durum haline getirmek mecburiyetinde olduğunu ve Başkanlık sistemini içeren anayasa teklifini kısa süre içerisinde TBMM 'ye getireceklerini belirtti.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "mutabakat zaptı",
+    "relation": "kapsadı",
+    "object": "sağlık",
+    "qualifiers": [],
+    "subject_type": "Belge",
+    "object_type": "Sektör",
+    "kaynak_cumle": "Protokol içeriği güvenlik, enerji, petrol, elektrik, su, sağlık, ticaret, çevre, ulaşım, konut, inşaat, tarım, eğitim, yüksek öğrenim ve savunma sektörlerini içermektedir.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "başbakanlık yaptı",
+    "object": "61. Hükûmet",
+    "qualifiers": [],
+    "subject_type": "Siyasi Kişi",
+    "object_type": "Hükûmet",
+    "kaynak_cumle": "Genel başkanlığını yürüttüğü Adalet ve Kalkınma Partisi, 2007 genel seçimlerinde oyların %46,58, 2011 genel seçimlerinde ise oyların %49,83'ünü alarak Erdoğan'ın Başbakanlığı'nda sırasıyla 60. ve 61. hükûmetleri kurdu.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "beyan ettiği durum",
+    "object": "tüm icraatının arkasında olduğunu",
+    "qualifiers": [
+      {
+        "relation": "zaman",
+        "object": "hâlâ"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Beyan",
+    "kaynak_cumle": "Kamuoyu baskısına rağmen kazada sorumluluğu üstlenmedi, üstelik istifa etmeyeceğini ve hâlâ tüm icraatının arkasında olduğunu beyan etti.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "seçim türü",
+    "object": "yerel seçim",
+    "qualifiers": [
+      {
+        "relation": "sayı",
+        "object": "iki"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Seçim Türü",
+    "kaynak_cumle": "Recep Tayyip Erdoğan, 1986 yılından beri beşi milletvekili seçimi, ikisi yerel seçim, biri ise cumhurbaşkanlığı seçimi olmak üzere toplamda sekiz farklı seçime katıldı .",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Mavi Marmara bandıralı gemi olayı",
+    "relation": "neden oldu",
+    "object": "ekonomik gerilim",
+    "qualifiers": [],
+    "subject_type": "Olay",
+    "object_type": "Durum",
+    "kaynak_cumle": "31 Mart 2010 tarihinde Gazze 'ye insani yardım taşıyan Mavi Marmara bandıralı gemi ile beraber toplam altı gemiye Akdeniz 'de İsrail Savunma Kuvvetleri tarafından gemilerde bulunan aktivistlerden bir kısmının öldürülmesi, bir kısmının yaralanması ve gemilerin yolcularıyla birlikte rehin alınması ile sonuçlanan olayın ardından iki ülke arasında gerek siyasi gerek ekonomik olarak ciddi bir gerilim yaşandı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Adalet ve Kalkınma Partisi",
+    "relation": "oy oranı",
+    "object": "%49,83",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "12 Haziran 2011"
+      },
+      {
+        "relation": "seçim",
+        "object": "2011 Türkiye genel seçimleri"
+      }
+    ],
+    "subject_type": "Parti",
+    "object_type": "Yüzde",
+    "kaynak_cumle": "12 Haziran 2011 tarihinde 2011 Türkiye genel seçimlerinde oy yüzdesini %49,83'e çıkarmış ve Türkiye genelinde 21.399.082 oy alarak toplamda 327 milletvekili ile üçüncü kez hükûmet kurma yetkisini kazanmıştır.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "belirtmiştir",
+    "object": "Mısır-Türkiye ilişkilerini geliştirmekten yana olduklarını",
+    "qualifiers": [],
+    "subject_type": "Başbakan",
+    "object_type": "Görüş",
+    "kaynak_cumle": "Muhammed Mursi 'nin 2012 yılından beri sürdürdüğü Mısır cumhurbaşkanlığı görevine el konulduğu 2013 Mısır askerî darbesinin ardından iki ülke arasındaki ilişkilerin gerginleşmesi ve iki ülkenin diplomatik ilişkilerinin maslahatgüzar seviyesine gerilemesi ile ilgili olarak Başbakan Yıldırım, Türkiye'nin Akdeniz ve Karadeniz 'de yer alan ülkelerle ilişkilerini geliştirmesini gerektiğini savunarak Mısır-Türkiye ilişkilerini geliştirmekten yana olduklarını belirtmiştir.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Tayyip Erdoğan",
+    "relation": "liderliğinde",
+    "object": "Değişimci kanat",
+    "qualifiers": [],
+    "subject_type": "Siyasi Kişi",
+    "object_type": "Grup",
+    "kaynak_cumle": "\" Millî Görüş \" olarak adlandırılan kanat, Recai Kutan 'ın genel başkanlığında 20 Temmuz 2001'de Saadet Partisi 'ni kurarken, \"değişimci\" kanat da, Tayyip Erdoğan liderliğinde 14 Ağustos 2001'de, Adalet ve Kalkınma Partisi 'ni (AKP) kurdu ve Tayyip Erdoğan, parti genel başkanlığına seçildi.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "oğlu",
+    "object": "Ahmet Burak Erdoğan",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "Emine Erdoğan ile Recep Tayyip Erdoğan'ın Ahmet Burak ve Necmeddin Bilal isminde iki oğlu, Esra ve Sümeyye isminde iki kızı bulunmaktadır.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "iddia edildi",
+    "object": "dış politikada revizyon gerçekleştireceği",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Eylem",
+    "kaynak_cumle": "Bazı yerel yorumcular Yıldırım'ın dış politikada bir 'revizyon' gerçekleştireceğini iddia ettiler.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Şahıs",
+    "relation": "üzerinde_bulunan",
+    "object": "Silah",
+    "qualifiers": [
+      {
+        "relation": "silah_içeriği",
+        "object": "Mermi dolu"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Nesne",
+    "kaynak_cumle": "Üzerinde yapılan aramada mermi dolu bir poşet ve içi mermi ile dolu silah ele geçirilmiştir.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Fadıl Akgündüz",
+    "relation": "milletvekilliği düştü",
+    "object": "Siirt",
+    "qualifiers": [
+      {
+        "relation": "seçildiği milletvekilliği",
+        "object": "Siirt milletvekili"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Yer",
+    "kaynak_cumle": "Seçimlerde Siirt milletvekili seçilen Fadıl Akgündüz 'ün milletvekilliğinin düşürülmesinin ardından Siirt'teki seçimlerin tekrar edilmesi kararlaştırıldı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "havacılık sektörü",
+    "relation": "gerçekleştirilen",
+    "object": "liberalleşme",
+    "qualifiers": [],
+    "subject_type": "Sektör",
+    "object_type": "Eylem",
+    "kaynak_cumle": "Havacılık sektöründe gerçekleştirilen liberalleşmenin sonucunda pazara birçok özel havayolu şirketi girdi.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "alay konusu oldu",
+    "object": "bulut bilişim hakkındaki bilgisizliği",
+    "qualifiers": [
+      {
+        "relation": "sebep",
+        "object": "Türk Telekom davetinde yaptığı konuşma"
+      },
+      {
+        "relation": "zaman",
+        "object": "2013"
+      }
+    ],
+    "subject_type": "Politikacı",
+    "object_type": "Durum",
+    "kaynak_cumle": "Ulaştırma Bakanlığı döneminde Binali Yıldırım, 2013 yılında katıldığı Türk Telekom davetinde yaptığı konuşmada bulut bilişim hakkındaki bilgisizliği sebebiyle sosyal medyada ve kamuoyunda alay konusu oldu.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "ifadeler",
+    "relation": "zedeledi",
+    "object": "Binali Yıldırım'ın kişilik hakları",
+    "qualifiers": [],
+    "subject_type": "İfade",
+    "object_type": "Kişilik Hakkı",
+    "kaynak_cumle": "Dilekçede, Kılıçdaroğlu'nun, “Binali dersek yanlış olur ’Milyon Ali’dememiz lazım buna”, “Milyon Ali devreye giriyor, herkesten 10 bin, 20 bin değil milyonlar istiyor” ve “Sen neymişsin be Milyon Ali, haberimiz bile yokmuş senden\" gibi ifadeleri ve sözleriyle Yıldırım'ın kişilik haklarının zedelendiği iddia edildi.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "CHP",
+    "subject_type": "Siyasi Parti",
+    "relation": "oy sayısı",
+    "object": "15.791.979",
+    "object_type": "Sayı",
+    "qualifiers": [
+      {
+        "relation": "bağlam",
+        "object": "il genel meclisleri",
+        "object_type": "Seçim Bölgesi"
+      }
+    ],
+    "kaynak_cumle": "CHP, %34,47'lik (15.791.979 oy) oy oranıyla il genel meclislerinde de birinci parti olmuştur.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Ekrem İmamoğlu",
+    "relation": "seçildi",
+    "object": "belediye başkanı",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "23 Haziran 2019"
+      },
+      {
+        "relation": "seçim",
+        "object": "belediye başkanlığı seçimi"
+      }
+    ],
+    "subject_type": "Siyasetçi",
+    "object_type": "Siyasi Makam",
+    "kaynak_cumle": "23 Haziran 2019'da tekrar edilen belediye başkanlığı seçimlerinde Ekrem İmamoğlu yeniden belediye başkanı seçildi.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Cumhuriyet Halk Partisi",
+    "relation": "oy oranı",
+    "object": "%23",
+    "qualifiers": [
+      {
+        "relation": "seçim",
+        "object": "2009 yerel seçimleri"
+      },
+      {
+        "relation": "sıralama",
+        "object": "ikinci parti"
+      }
+    ],
+    "subject_type": "Siyasi Parti",
+    "object_type": "Yüzde",
+    "kaynak_cumle": "İkinci parti olan CHP %23 oy aldı ve üçüncü parti olan MHP %16 oy aldı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "oy oranı farkı (2014 yerel seçimleri vs 2009)",
+    "object": "%5",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Yüzde",
+    "kaynak_cumle": "2014 yerel seçimlerinde , 2009 seçimlerinden %5 fazla oy alarak %43,39 oy aldı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Türkiye Büyük Millet Meclisi",
+    "relation": "yasa teklifi sunuldu",
+    "object": "siyasi yasağın kaldırılması için",
+    "qualifiers": [
+      {
+        "relation": "döneminde",
+        "object": "58. Hükûmet"
+      }
+    ],
+    "subject_type": "Kurum",
+    "object_type": "Amaç",
+    "kaynak_cumle": "Bu hükûmet döneminde Erdoğan'ın siyasi yasağının kaldırılması için Türkiye Büyük Millet Meclisine yasa teklifi sunuldu.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "eğitim kurumu",
+    "object": "İstanbul İmam Hatip Lisesi",
+    "qualifiers": [
+      {
+        "relation": "konum",
+        "object": "Fatih"
+      },
+      {
+        "relation": "eğitim seviyesi",
+        "object": "lise"
+      },
+      {
+        "relation": "öğrenim türü",
+        "object": "yatılı"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Eğitim Kurumu",
+    "kaynak_cumle": "İlkokul eğitimini aldığı Kasımpaşa'daki Piyalepaşa İlkokulundan 1965'te, lise eğitimini aldığı ve yatılı olarak okuduğu Fatih 'teki İstanbul İmam Hatip Lisesinden ise 1973'te mezun oldu.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "sahiptir",
+    "object": "Arsa",
+    "qualifiers": [
+      {
+        "relation": "konum",
+        "object": "Güneysu"
+      },
+      {
+        "relation": "maliyet",
+        "object": "10 bin TL"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Gayrimenkul",
+    "kaynak_cumle": "16 Haziran 2011 tarihli mal beyanında Güneysu'da 10 bin TL maliyetli arsa, banka hesaplarında toplam 3.390.384 TL, 25.000 £, 199.867 $ menkul değer ve 500 bin TL alacak yer almıştır.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Gazze insani yardım konvoyu saldırısı",
+    "relation": "sonuçlandı",
+    "object": "aktivistlerin öldürülmesi",
+    "qualifiers": [],
+    "subject_type": "Olay",
+    "object_type": "Sonuç",
+    "kaynak_cumle": "31 Mart 2010 tarihinde Gazze 'ye insani yardım taşıyan altı gemiye Akdeniz 'de İsrail Savunma Kuvvetleri tarafından gemilerde bulunan aktivistlerden bir kısmının öldürülmesi, bir kısmının yaralanması ve gemilerin yolcularıyla birlikte rehin alınması ile sonuçlanan olayın ardından iki ülke arasında gerek siyasi gerek ekonomik olarak ciddi bir gerilim yaşandı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "yürüttü",
+    "object": "danışmanlık görevini",
+    "qualifiers": [
+      {
+        "relation": "ne zamana kadar",
+        "object": "Kasım 2015 Türkiye genel seçimleri"
+      },
+      {
+        "relation": "nasıl",
+        "object": "resmen"
+      }
+    ],
+    "subject_type": "Politikacı",
+    "object_type": "Görev",
+    "kaynak_cumle": "Seçimden sonra resmi olarak atanan Yıldırım, Kasım 2015 Türkiye genel seçimlerinde milletvekili seçilene kadar bu görevini resmen yürüttü.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "aday oldu",
+    "object": "milletvekili",
+    "qualifiers": [
+      {
+        "relation": "seçim türü",
+        "object": "1991 genel seçimleri"
+      },
+      {
+        "relation": "sonuç",
+        "object": "iptal edildi"
+      },
+      {
+        "relation": "iptal nedeni",
+        "object": "tercihli oy sistemi"
+      }
+    ],
+    "subject_type": "Siyasi Kişi",
+    "object_type": "Makam",
+    "kaynak_cumle": "Milletvekili adayı olduğu 1991 genel seçimlerinde ise milletvekili olmasına rağmen tercihli oy sistemi sebebiyle Yüksek Seçim Kurulu milletvekilliğini iptal etti.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Emin Şen",
+    "subject_type": "Kişi",
+    "relation": "değildir",
+    "object": "Bakanlık Müşaviri",
+    "object_type": "Unvan",
+    "qualifiers": [],
+    "kaynak_cumle": "İçişleri Bakanlığı , Özel'in iddialarına yanıt verdi ve Özel'in açıklamalarında adı geçen \"Emin Şen\" adlı kişinin Bakanlık Müşaviri veya 657'ye tabi bir devlet memuru olmadığını ve bakanlık ile bağlı kuruluşlarının sosyal medya hesaplarının Basın ve Halkla İlişkiler Müşavirlikleri tarafından yönetildiğini savundu.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Özgür Özel",
+    "relation": "çağrıda bulundu",
+    "object": "Ekonomik Boykot",
+    "subject_type": "Politikacı",
+    "object_type": "Eylem",
+    "kaynak_cumle": "Ek olarak, iktidara yakın şirket ve markalara yönelik ekonomik boykot çağrısında bulundu.",
+    "qualifiers": [
+      {
+        "relation": "hedef",
+        "object": "İktidara Yakın Şirket ve Markalar",
+        "object_type": "Grup"
+      }
+    ],
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "ihtisas eğitimi aldı",
+    "object": "Dünya Denizcilik Üniversitesi",
+    "qualifiers": [
+      {
+        "relation": "eğitim konusu",
+        "object": "denizde can ve mal güvenliği yönetimi"
+      },
+      {
+        "relation": "zaman aralığı",
+        "object": "1990-1991"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Üniversite",
+    "kaynak_cumle": "1990 ve 1991 yılları arasında İsveç 'te bulunan Uluslararası Denizcilik Örgütü 'ne (IMO) ait Dünya Denizcilik Üniversitesi 'nde (WMU) \"denizde can ve mal güvenliği yönetimi\" konusunda ihtisas eğitimi alan Yıldırım, bu eğitim sırasında toplam 6 ay İskandinavya ülkeleri ve Avrupa 'da çeşitli ülke limanlarında denizcilik idaresi uzmanları ile birlikte incelemelerde bulundu.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "olağanüstü hâl",
+    "relation": "uzatılmıştır",
+    "object": "3 ay daha",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "29 Ekim 2016"
+      },
+      {
+        "relation": "toplantı",
+        "object": "Olağan Millî Güvenlik Kurulu toplantısı"
+      },
+      {
+        "relation": "toplantı başkanı",
+        "object": "Cumhurbaşkanı Erdoğan"
+      }
+    ],
+    "subject_type": "Durum",
+    "object_type": "Süre",
+    "kaynak_cumle": "29 Ekim 2016 tarihinde Cumhurbaşkanı Erdoğan başkanlığında toplanan Olağan Mill Güvenlik Kurulu toplantısı sonrası olağanüstü hâl 3 ay daha uzatılmıştır.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "istifa etti",
+    "object": "AK Parti Genel Başkanlığı",
+    "qualifiers": [
+      {
+        "relation": "neden",
+        "object": "2017 Türkiye anayasa değişikliği referandumunda başkanlık sisteminin kabulü"
+      },
+      {
+        "relation": "kongre",
+        "object": "3. Adalet ve Kalkınma Partisi Olağanüstü Kongresi"
+      }
+    ],
+    "subject_type": "Siyasetçi",
+    "object_type": "Siyasi Parti Görevi",
+    "kaynak_cumle": "2017 Türkiye anayasa değişikliği referandumunda başkanlık sisteminin kabulünden sonra 3. Adalet ve Kalkınma Partisi Olağanüstü Kongresi 'nde istifa ederek AK Parti Genel Başkanlığından istifa etti ve yerine Erdoğan seçildi.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Mevlüt Çavuşoğlu",
+    "relation": "açıkladı",
+    "object": "AB'nin Türkiye'ye 'demokrasi dersi' vermesini kabul etmeme",
+    "qualifiers": [],
+    "subject_type": "Siyasetçi",
+    "object_type": "Eylem",
+    "kaynak_cumle": "Türkiye Dışişleri Bakanı Mevlüt Çavuşoğlu , bu eleştirilere yanıt olarak çoğu AB ülkesinin PKK'ya destek olduğunu belirterek, AB'nin Türkiye'ye 'demokrasi dersi' vermesini kabul etmediklerini açıklamıştır.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "işledi",
+    "object": "iddianamede bahsedilen suç",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Suç",
+    "kaynak_cumle": "21 Nisan 1998'de sonuçlanan dava, Erdoğan'ın iddianamede bahsedilen suçu işlemesiyle sonuçlandı ve Erdoğan'a bir yıl hapis ile 860 bin TL ağır para cezası verildi.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "oy oranı",
+    "object": "%22,83",
+    "qualifiers": [
+      {
+        "relation": "seçim",
+        "object": "Beyoğlu belediye başkanlığı seçimi"
+      }
+    ],
+    "subject_type": "Siyasetçi",
+    "object_type": "Yüzde",
+    "kaynak_cumle": "%22,83 oranında oy toplayan Erdoğan, %29,29 oranında oy alan Sosyaldemokrat Halkçı Parti adayı Hüseyin Aslan'ın gerisinde kalarak belediye başkanı seçilemedi.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "aldığı tercihli oy sayısı",
+    "object": "yaklaşık 9 bin",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Sayı",
+    "kaynak_cumle": "Sandıklardan Erdoğan'a yaklaşık 9 bin tercihli oy çıkarken, Baş'a yaklaşık 13 bin oy çıkmıştı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "İsrail",
+    "relation": "tehlike oluşturur",
+    "object": "bölge",
+    "qualifiers": [
+      {
+        "relation": "neden",
+        "object": "atom bombası"
+      }
+    ],
+    "subject_type": "Devlet",
+    "object_type": "Coğrafi Alan",
+    "kaynak_cumle": "Erdoğan, 6 Ekim 2011 tarihinde Güney Afrika Cumhuriyeti 'ne İsrail Başkâtiplerinden Ya'akov Finkelstein, Erdoğan'ın Güney Afrika Cumhuriyeti Başbakanı ile yaptığı basın açıklamasında \"Tünellerden sadece gıda değil, silahlar, füzeler geçiyor. Bu füzelerle şehirlerimiz, çocuklarımız vuruluyor\" diyen Başkatibin sözlerine \"O tünellerden atom bombası geçmez. Nükleer silah geçmez, fosfor bombaları geçmez. İsrail, fosfor bombalarıyla Gazze'yi bombalamıştır. Bu bir kitle imha silahıdır. Ve kitle imha silahı kullanmak suçtur. O tünellerden geçse geçse ancak küçük çaplı silahlar geçebilir. Tüfek geçer. Ama oradan tank, top bunlar geçmez değil mi?\" sözlerini sarf etmiş ve devamında \"İsrail, bölge için en büyük tehlike çünkü atom bombası var\" demiştir.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "oy oranı artışı",
+    "object": "%0,94",
+    "qualifiers": [
+      {
+        "relation": "zaman",
+        "object": "2019 yerel seçimleri"
+      },
+      {
+        "relation": "karşılaştırma",
+        "object": "2014 seçimleri"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Yüzde",
+    "kaynak_cumle": "2019 yerel seçimlerinde ise 2014 seçimlerindeki oy oranını %0,94 arttırarak %44,33 oy aldı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "başkanlık yaptı",
+    "object": "Hükûmet",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Yönetim Organı",
+    "kaynak_cumle": "Hükûmete ve partiye Erdoğan başkanlık yapmıştır.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "başkan ol",
+    "object": "MSP İstanbul il gençlik kolları",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "1976"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Organizasyon",
+    "kaynak_cumle": "1975'te Millî Selamet Partisi (MSP) Beyoğlu gençlik kolu başkanlığına, 1976 yılında ise MSP İstanbul il gençlik kolları başkanlığına seçildi.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "katıldığı seçim sayısı",
+    "object": "üç",
+    "qualifiers": [
+      {
+        "relation": "seçim türü",
+        "object": "yerel seçim"
+      }
+    ],
+    "subject_type": "Siyasetçi",
+    "object_type": "Sayı",
+    "kaynak_cumle": "Binali Yıldırım, siyasi kariyeri boyunca beş genel seçim, üç yerel seçime katılmıştır.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Özgür Özel",
+    "subject_type": "Siyasi Lider",
+    "relation": "dile getirdi",
+    "object": "parti liderinin demokratik yollarla seçilmesi gerektiği",
+    "object_type": "Görüş",
+    "qualifiers": [],
+    "kaynak_cumle": "Özel, Kılıçdaroğlu'nun bu tanımlamayı kendisine ve diğer potansiyel rakiplere yönelik olarak yaptığını savundu; partinin iç demokrasisinin önemine vurgu yaparak, parti liderinin demokratik yollarla seçilmesi gerektiğini dile getirdi.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Adalet ve Kalkınma Partisi",
+    "relation": "milletvekili sayısı",
+    "object": "268",
+    "qualifiers": [],
+    "subject_type": "Siyasi Parti",
+    "object_type": "Sayı",
+    "kaynak_cumle": "Erdoğan, genel başkan olduğu dönemlerdeki beşinci genel seçim zaferini yaşarken, partisi ise %35,62 oy oranı yakalamış ve 268 milletvekili çıkartmıştır.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Devlet Bahçeli",
+    "relation": "partisi",
+    "object": "Milliyetçi Hareket Partisi",
+    "qualifiers": [],
+    "subject_type": "Siyasi Lider",
+    "object_type": "Siyasi Parti",
+    "kaynak_cumle": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli , partisinin parlamenter sistemden yana olduğunu fakat Başkanlık sisteminin referanduma götürülmesinde herhangi bir sakınca duymadığını bildirdi.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Çanakkale",
+    "relation": "havalimanı",
+    "object": "tekrar açıldı",
+    "qualifiers": [],
+    "subject_type": "İl",
+    "object_type": "Havalimanı",
+    "kaynak_cumle": "Tokat , Kahramanmaraş , Sivas , Gaziantep ve Çanakkale illerinin havalimanları tekrar açıldı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "üst düzey AK Partili politikacı",
+    "relation": "yer almadı",
+    "object": "Merkez Karar Yönetim Kurulu",
+    "qualifiers": [],
+    "subject_type": "Grup",
+    "object_type": "Kurul",
+    "kaynak_cumle": "Birçok üst düzey AK Partili politikacı Merkez Karar Yönetim Kurulunda yer almadı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Özgür Özel",
+    "subject_type": "Kişi",
+    "relation": "görev aldı",
+    "object": "Manisa Akademik Odalar Birliği Sözcülüğü",
+    "object_type": "Görev",
+    "qualifiers": [],
+    "kaynak_cumle": "Bu dönemde Manisa Akademik Odalar Birliğinde dönem sözcülüğü ve başkanlığı görevlerini üstlendi.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Körfez araba vapuru",
+    "relation": "çalışmaya başladı",
+    "object": "Bostanlı-Üçkuyular hattı",
+    "qualifiers": [
+      {
+        "relation": "tarih",
+        "object": "2013 ve 2014"
+      },
+      {
+        "relation": "yer",
+        "object": "İzmir"
+      }
+    ],
+    "subject_type": "Ulaşım Aracı",
+    "object_type": "Hat",
+    "kaynak_cumle": "2013 ve 2014 yıllarında İzmir'e yeni Körfez araba vapuru, Bostanlı-Üçkuyular hattında çalışmaya başladı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "oy oranını artırdı",
+    "object": "36%",
+    "qualifiers": [
+      {
+        "relation": "seçim",
+        "object": "2013 yerel seçimleri"
+      }
+    ],
+    "subject_type": "Siyasetçi",
+    "object_type": "Yüzde",
+    "kaynak_cumle": "Yıldırım AK Parti'nin 2009 Türkiye yerel seçimlerindeki %30'luk oyunu %36'ya çıkardı.",
+    "optimization_method": "ape"
+  },
+  {
+    "subject": "Türk dış politikası",
+    "relation": "için hedef",
+    "object": "Düşmanları azaltmak",
+    "qualifiers": [],
+    "subject_type": "Politika",
+    "object_type": "Eylem",
+    "kaynak_cumle": "'Düşmanları azaltacağız, dostlarımızın sayısını artıracağız.' sözü yeni dönemde Türk dış politikasında önemli adımlar atılacağı şeklinde yorumlandı.",
+    "optimization_method": "ape"
+  }
+]

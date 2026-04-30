@@ -1,0 +1,1536 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pergel_ve_cetvel_%C3%A7izimi)",
+    "metin": "Altın dikdörtgen sadece pergel ve cetvel yardımıyla çizilebilir",
+    "triple": {
+      "baş": "Altın dikdörtgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "çizilebilir_ile",
+      "uç": "pergel",
+      "uç_tipi": "Araç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pergel_ve_cetvel_%C3%A7izimi)",
+    "metin": "Altın dikdörtgen sadece pergel ve cetvel yardımıyla çizilebilir",
+    "triple": {
+      "baş": "Altın dikdörtgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "çizilebilir_ile",
+      "uç": "cetvel",
+      "uç_tipi": "Araç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Alt%C4%B1n_spiral&action=edit&redlink=1)",
+    "metin": "Bu karelerin köşeleri, özel bir logaritmik spiral olan, altın spiral üzerindeki sonsuz nokta dizisine karşılık gelir.",
+    "triple": {
+      "baş": "kareler",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "köşeleri karşılık gelir",
+      "uç": "sonsuz nokta dizisi",
+      "uç_tipi": "Dizi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Alt%C4%B1n_spiral&action=edit&redlink=1)",
+    "metin": "Bu karelerin köşeleri, özel bir logaritmik spiral olan, altın spiral üzerindeki sonsuz nokta dizisine karşılık gelir.",
+    "triple": {
+      "baş": "sonsuz nokta dizisi",
+      "baş_tipi": "Dizi",
+      "ilişki": "bulunur üzerinde",
+      "uç": "altın spiral",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Alt%C4%B1n_spiral&action=edit&redlink=1)",
+    "metin": "Bu karelerin köşeleri, özel bir logaritmik spiral olan, altın spiral üzerindeki sonsuz nokta dizisine karşılık gelir.",
+    "triple": {
+      "baş": "altın spiral",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "türüdür",
+      "uç": "logaritmik spiral",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Orant%C4%B1)",
+    "metin": "Altın dikdörtgenin ayırt edici özelliklerinden biri, şeklin içinden bir kare çıkarıldığında yine bir altın dikdörtgen elde edilmesidir; yeni dikdörtgen, ilkiyle aynı oranlara sahiptir.",
+    "triple": {
+      "baş": "Altın Dikdörtgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "özelliği",
+      "uç": "Kare Çıkarıldığında Altın Dikdörtgen Elde Edilmesi",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Orant%C4%B1)",
+    "metin": "Altın dikdörtgenin ayırt edici özelliklerinden biri, şeklin içinden bir kare çıkarıldığında yine bir altın dikdörtgen elde edilmesidir; yeni dikdörtgen, ilkiyle aynı oranlara sahiptir.",
+    "triple": {
+      "baş": "Yeni Dikdörtgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "oranları aynıdır",
+      "uç": "Altın Dikdörtgen",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Logaritmik_spiral)",
+    "metin": "Altın üçgenle logaritmik spiral elde edilebilir.",
+    "triple": {
+      "baş": "Altın üçgen",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "ile elde edilir",
+      "uç": "logaritmik spiral",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Logaritmik_spiral)",
+    "metin": "Bu üçgenlerin köşelerinden geçecek şekilde bir logaritmik spiral çizilebilir.",
+    "triple": {
+      "baş": "logaritmik spiral",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "geçer",
+      "uç": "Bu üçgenlerin köşeleri",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Logaritmik_spiral)",
+    "metin": "Bu karelerin köşeleri, özel bir logaritmik spiral olan, altın spiral üzerindeki sonsuz nokta dizisine karşılık gelir.",
+    "triple": {
+      "baş": "Bu karelerin köşeleri",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "karşılık gelir",
+      "uç": "altın spiral üzerindeki sonsuz nokta dizisi",
+      "uç_tipi": "Sayı Dizisi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Logaritmik_spiral)",
+    "metin": "Bu karelerin köşeleri, özel bir logaritmik spiral olan, altın spiral üzerindeki sonsuz nokta dizisine karşılık gelir.",
+    "triple": {
+      "baş": "altın spiral",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "olan",
+      "uç": "özel bir logaritmik spiral",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kare)",
+    "metin": "Bu dönemde sanatçılar amforalar ve çeşitli çömlekler üzerine üçgen , kare , çember gibi geometrik şekiller yapmışlardır.",
+    "triple": {
+      "baş": "Sanatçılar",
+      "baş_tipi": "Kişi",
+      "ilişki": "yapmıştır",
+      "uç": "Geometrik Şekiller",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kare)",
+    "metin": "Bu dönemde sanatçılar amforalar ve çeşitli çömlekler üzerine üçgen , kare , çember gibi geometrik şekiller yapmışlardır.",
+    "triple": {
+      "baş": "Geometrik Şekiller",
+      "baş_tipi": "Özellik",
+      "ilişki": "üzerine yapılmıştır",
+      "uç": "Amforalar",
+      "uç_tipi": "Nesne"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kare)",
+    "metin": "Bu dönemde sanatçılar amforalar ve çeşitli çömlekler üzerine üçgen , kare , çember gibi geometrik şekiller yapmışlardır.",
+    "triple": {
+      "baş": "Geometrik Şekiller",
+      "baş_tipi": "Özellik",
+      "ilişki": "üzerine yapılmıştır",
+      "uç": "Çömlekler",
+      "uç_tipi": "Nesne"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kare)",
+    "metin": "Bu dönemde sanatçılar amforalar ve çeşitli çömlekler üzerine üçgen , kare , çember gibi geometrik şekiller yapmışlardır.",
+    "triple": {
+      "baş": "Geometrik Şekiller",
+      "baş_tipi": "Özellik",
+      "ilişki": "içerir",
+      "uç": "Üçgen",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kare)",
+    "metin": "Bu dönemde sanatçılar amforalar ve çeşitli çömlekler üzerine üçgen , kare , çember gibi geometrik şekiller yapmışlardır.",
+    "triple": {
+      "baş": "Geometrik Şekiller",
+      "baş_tipi": "Özellik",
+      "ilişki": "içerir",
+      "uç": "Kare",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kare)",
+    "metin": "Bu dönemde sanatçılar amforalar ve çeşitli çömlekler üzerine üçgen , kare , çember gibi geometrik şekiller yapmışlardır.",
+    "triple": {
+      "baş": "Geometrik Şekiller",
+      "baş_tipi": "Özellik",
+      "ilişki": "içerir",
+      "uç": "Çember",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kare)",
+    "metin": "Şekilde ilk durumda iki parçadan oluşan üst eğimli yüzey içe doğru bükük durmakta, ikinci durumda ise bu yüzey yine parçalı fakat dışa bükük olduğu için oradan alan kazancı olmuş, bu da içeriye bir boş kare olarak yansımıştır.",
+    "triple": {
+      "baş": "Üst Eğimli Yüzey",
+      "baş_tipi": "Özellik",
+      "ilişki": "oluşur",
+      "uç": "İki Parça",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kare)",
+    "metin": "Şekilde ilk durumda iki parçadan oluşan üst eğimli yüzey içe doğru bükük durmakta, ikinci durumda ise bu yüzey yine parçalı fakat dışa bükük olduğu için oradan alan kazancı olmuş, bu da içeriye bir boş kare olarak yansımıştır.",
+    "triple": {
+      "baş": "Üst Eğimli Yüzey",
+      "baş_tipi": "Özellik",
+      "ilişki": "bükülür",
+      "uç": "İçe Doğru",
+      "uç_tipi": "Yön"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kare)",
+    "metin": "Şekilde ilk durumda iki parçadan oluşan üst eğimli yüzey içe doğru bükük durmakta, ikinci durumda ise bu yüzey yine parçalı fakat dışa bükük olduğu için oradan alan kazancı olmuş, bu da içeriye bir boş kare olarak yansımıştır.",
+    "triple": {
+      "baş": "Üst Eğimli Yüzey",
+      "baş_tipi": "Özellik",
+      "ilişki": "bükülür",
+      "uç": "Dışa Doğru",
+      "uç_tipi": "Yön"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kare)",
+    "metin": "Şekilde ilk durumda iki parçadan oluşan üst eğimli yüzey içe doğru bükük durmakta, ikinci durumda ise bu yüzey yine parçalı fakat dışa bükük olduğu için oradan alan kazancı olmuş, bu da içeriye bir boş kare olarak yansımıştır.",
+    "triple": {
+      "baş": "Alan Kazancı",
+      "baş_tipi": "Özellik",
+      "ilişki": "yansır",
+      "uç": "Boş Kare",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kare)",
+    "metin": "Altın dikdörtgenin ayırt edici özelliklerinden biri, şeklin içinden bir kare çıkarıldığında yine bir altın dikdörtgen elde edilmesidir; yeni dikdörtgen, ilkiyle aynı oranlara sahiptir.",
+    "triple": {
+      "baş": "Altın Dikdörtgen",
+      "baş_tipi": "Özellik",
+      "ilişki": "özelliği",
+      "uç": "Kare Çıkarıldığında Altın Dikdörtgen Elde Edilmesi",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kare)",
+    "metin": "Altın dikdörtgenin ayırt edici özelliklerinden biri, şeklin içinden bir kare çıkarıldığında yine bir altın dikdörtgen elde edilmesidir; yeni dikdörtgen, ilkiyle aynı oranlara sahiptir.",
+    "triple": {
+      "baş": "Yeni Dikdörtgen",
+      "baş_tipi": "Özellik",
+      "ilişki": "sahiptir",
+      "uç": "Aynı Oranlar",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kare)",
+    "metin": "Altın dikdörtgenin ayırt edici özelliklerinden biri, şeklin içinden bir kare çıkarıldığında yine bir altın dikdörtgen elde edilmesidir; yeni dikdörtgen, ilkiyle aynı oranlara sahiptir.",
+    "triple": {
+      "baş": "Yeni Dikdörtgen",
+      "baş_tipi": "Özellik",
+      "ilişki": "oranlara sahiptir",
+      "uç": "İlk Dikdörtgen",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Mario_Livio&action=edit&redlink=1)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Mario Livio",
+      "baş_tipi": "Kişi",
+      "ilişki": "belirtti",
+      "uç": "Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı",
+      "uç_tipi": "Alıntı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Mario_Livio&action=edit&redlink=1)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Mario Livio",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Astrofizikçi",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Mario_Livio&action=edit&redlink=1)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Mario Livio",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "popüler matematikçi",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Mario_Livio&action=edit&redlink=1)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Mario Livio",
+      "baş_tipi": "Kişi",
+      "ilişki": "etkilendi",
+      "uç": "sanatçı",
+      "uç_tipi": "Kişi Grubu"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Mario_Livio&action=edit&redlink=1)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Mario Livio",
+      "baş_tipi": "Kişi",
+      "ilişki": "etkilendi",
+      "uç": "mimar",
+      "uç_tipi": "Kişi Grubu"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Mario_Livio&action=edit&redlink=1)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Mario Livio",
+      "baş_tipi": "Kişi",
+      "ilişki": "etkilendi",
+      "uç": "altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesi",
+      "uç_tipi": "Düşünce"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Mario_Livio&action=edit&redlink=1)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Mario Livio",
+      "baş_tipi": "Kişi",
+      "ilişki": "kaynak",
+      "uç": "Luca Pacioli'nin Divina Proportione kitabı",
+      "uç_tipi": "Kitap"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Mario_Livio&action=edit&redlink=1)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Luca Pacioli'nin Divina Proportione kitabı",
+      "baş_tipi": "Kitap",
+      "ilişki": "yayınlanma yılı",
+      "uç": "1509",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Mario_Livio&action=edit&redlink=1)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Luca Pacioli'nin Divina Proportione kitabı",
+      "baş_tipi": "Kitap",
+      "ilişki": "yazar",
+      "uç": "Luca Pacioli",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Mario_Livio&action=edit&redlink=1)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Altın Oran",
+      "baş_tipi": "Kavram",
+      "ilişki": "dönüştü",
+      "uç": "teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal",
+      "uç_tipi": "Durum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Mario_Livio&action=edit&redlink=1)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Altın Oran",
+      "baş_tipi": "Kavram",
+      "ilişki": "dönüşüm nedeni",
+      "uç": "Luca Pacioli'nin Divina Proportione kitabı",
+      "uç_tipi": "Kitap"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Uygulamalı yenilik ticarete yayıldı. 15. yüzyılın sonunda Luca Pacioli , muhasebe üzerine ilk çalışmayı yayınlayarak muhasebe 'nin kurucusu oldu.",
+    "triple": {
+      "baş": "Luca Pacioli",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu oldu",
+      "uç": "muhasebe",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Uygulamalı yenilik ticarete yayıldı. 15. yüzyılın sonunda Luca Pacioli , muhasebe üzerine ilk çalışmayı yayınlayarak muhasebe 'nin kurucusu oldu.",
+    "triple": {
+      "baş": "Luca Pacioli",
+      "baş_tipi": "Kişi",
+      "ilişki": "yayınladı",
+      "uç": "muhasebe üzerine ilk çalışma",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Ludovico Sforza 1500 yılında Fransa Kralı XII. Louis tarafından devrildiğinde Leonardo, asistanı Salaì ve arkadaşı matematikçi Luca Pacioli ile birlikte Milano'dan Venedik 'e kaçtı.",
+    "triple": {
+      "baş": "Leonardo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kaçtı",
+      "uç": "Venedik",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Ludovico Sforza 1500 yılında Fransa Kralı XII. Louis tarafından devrildiğinde Leonardo, asistanı Salaì ve arkadaşı matematikçi Luca Pacioli ile birlikte Milano'dan Venedik 'e kaçtı.",
+    "triple": {
+      "baş": "Leonardo",
+      "baş_tipi": "Kişi",
+      "ilişki": "arkadaşı",
+      "uç": "Luca Pacioli",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Ludovico Sforza 1500 yılında Fransa Kralı XII. Louis tarafından devrildiğinde Leonardo, asistanı Salaì ve arkadaşı matematikçi Luca Pacioli ile birlikte Milano'dan Venedik 'e kaçtı.",
+    "triple": {
+      "baş": "Salaì",
+      "baş_tipi": "Kişi",
+      "ilişki": "asistanı",
+      "uç": "Leonardo",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Mısırlılar Keops Piramidi 'nin tasarımında hem pi hem de Fi oranını kullanmışlardır. [kaynak belirtilmeli] Yunanlar, Parthenon 'un tüm tasarımını altın orana dayandırmışlardır. [kaynak belirtilmeli] Bu oran, ünlü Yunan heykeltıraş Phidias tarafından da kullanılmıştır. Leonardo Fibonacci adındaki İtalyan matematikçi, adıyla anılan sayı dizisinin olağanüstü özelliklerini keşfetmiştir. Leonardo da Vinci , 1509'da Luca Pacioli 'nin yayımladığı İlahi Oran adlı bir çalışmasına resimler vermiştir.",
+    "triple": {
+      "baş": "Mısırlılar",
+      "baş_tipi": "Grup",
+      "ilişki": "kullandı",
+      "uç": "Keops Piramidi",
+      "uç_tipi": "Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Mısırlılar Keops Piramidi 'nin tasarımında hem pi hem de Fi oranını kullanmışlardır. [kaynak belirtilmeli] Yunanlar, Parthenon 'un tüm tasarımını altın orana dayandırmışlardır. [kaynak belirtilmeli] Bu oran, ünlü Yunan heykeltıraş Phidias tarafından da kullanılmıştır. Leonardo Fibonacci adındaki İtalyan matematikçi, adıyla anılan sayı dizisinin olağanüstü özelliklerini keşfetmiştir. Leonardo da Vinci , 1509'da Luca Pacioli 'nin yayımladığı İlahi Oran adlı bir çalışmasına resimler vermiştir.",
+    "triple": {
+      "baş": "Yunanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "dayandırdı",
+      "uç": "Parthenon",
+      "uç_tipi": "Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Mısırlılar Keops Piramidi 'nin tasarımında hem pi hem de Fi oranını kullanmışlardır. [kaynak belirtilmeli] Yunanlar, Parthenon 'un tüm tasarımını altın orana dayandırmışlardır. [kaynak belirtilmeli] Bu oran, ünlü Yunan heykeltıraş Phidias tarafından da kullanılmıştır. Leonardo Fibonacci adındaki İtalyan matematikçi, adıyla anılan sayı dizisinin olağanüstü özelliklerini keşfetmiştir. Leonardo da Vinci , 1509'da Luca Pacioli 'nin yayımladığı İlahi Oran adlı bir çalışmasına resimler vermiştir.",
+    "triple": {
+      "baş": "Phidias",
+      "baş_tipi": "Kişi",
+      "ilişki": "kullandı",
+      "uç": "altın oran",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Mısırlılar Keops Piramidi 'nin tasarımında hem pi hem de Fi oranını kullanmışlardır. [kaynak belirtilmeli] Yunanlar, Parthenon 'un tüm tasarımını altın orana dayandırmışlardır. [kaynak belirtilmeli] Bu oran, ünlü Yunan heykeltıraş Phidias tarafından da kullanılmıştır. Leonardo Fibonacci adındaki İtalyan matematikçi, adıyla anılan sayı dizisinin olağanüstü özelliklerini keşfetmiştir. Leonardo da Vinci , 1509'da Luca Pacioli 'nin yayımladığı İlahi Oran adlı bir çalışmasına resimler vermiştir.",
+    "triple": {
+      "baş": "Leonardo Fibonacci",
+      "baş_tipi": "Kişi",
+      "ilişki": "keşfetti",
+      "uç": "sayı dizisi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Mısırlılar Keops Piramidi 'nin tasarımında hem pi hem de Fi oranını kullanmışlardır. [kaynak belirtilmeli] Yunanlar, Parthenon 'un tüm tasarımını altın orana dayandırmışlardır. [kaynak belirtilmeli] Bu oran, ünlü Yunan heykeltıraş Phidias tarafından da kullanılmıştır. Leonardo Fibonacci adındaki İtalyan matematikçi, adıyla anılan sayı dizisinin olağanüstü özelliklerini keşfetmiştir. Leonardo da Vinci , 1509'da Luca Pacioli 'nin yayımladığı İlahi Oran adlı bir çalışmasına resimler vermiştir.",
+    "triple": {
+      "baş": "Leonardo da Vinci",
+      "baş_tipi": "Kişi",
+      "ilişki": "verdi",
+      "uç": "resimler",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Mısırlılar Keops Piramidi 'nin tasarımında hem pi hem de Fi oranını kullanmışlardır. [kaynak belirtilmeli] Yunanlar, Parthenon 'un tüm tasarımını altın orana dayandırmışlardır. [kaynak belirtilmeli] Bu oran, ünlü Yunan heykeltıraş Phidias tarafından da kullanılmıştır. Leonardo Fibonacci adındaki İtalyan matematikçi, adıyla anılan sayı dizisinin olağanüstü özelliklerini keşfetmiştir. Leonardo da Vinci , 1509'da Luca Pacioli 'nin yayımladığı İlahi Oran adlı bir çalışmasına resimler vermiştir.",
+    "triple": {
+      "baş": "Leonardo da Vinci",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştı",
+      "uç": "İlahi Oran",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Mısırlılar Keops Piramidi 'nin tasarımında hem pi hem de Fi oranını kullanmışlardır. [kaynak belirtilmeli] Yunanlar, Parthenon 'un tüm tasarımını altın orana dayandırmışlardır. [kaynak belirtilmeli] Bu oran, ünlü Yunan heykeltıraş Phidias tarafından da kullanılmıştır. Leonardo Fibonacci adındaki İtalyan matematikçi, adıyla anılan sayı dizisinin olağanüstü özelliklerini keşfetmiştir. Leonardo da Vinci , 1509'da Luca Pacioli 'nin yayımladığı İlahi Oran adlı bir çalışmasına resimler vermiştir.",
+    "triple": {
+      "baş": "Luca Pacioli",
+      "baş_tipi": "Kişi",
+      "ilişki": "yayımladı",
+      "uç": "İlahi Oran",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Mario Livio",
+      "baş_tipi": "Kişi",
+      "ilişki": "belirtti",
+      "uç": "etkilendi",
+      "uç_tipi": "Durum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Mario Livio",
+      "baş_tipi": "Kişi",
+      "ilişki": "etkilendi",
+      "uç": "sanatçı ve mimarlar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Luca Pacioli",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazdı",
+      "uç": "Divina Proportione",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Luca_Pacioli)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Altın Oran",
+      "baş_tipi": "Kavram",
+      "ilişki": "haline geldi",
+      "uç": "teorik uygulama",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Sanatsal yöntemdeki bu değişikliklerin altında yatan şey diğer sanatçılar tarafından çokça taklit edilen sanatsal zirveleri temsil eden Leonardo, Michelangelo ve Raphael 'in yapıtlarıyla, doğanın güzelliğini tasvir etme ve estetik aksiyomlarını çözme arzusunun yenilenmesidir.",
+    "triple": {
+      "baş": "Leonardo",
+      "baş_tipi": "Kişi",
+      "ilişki": "yapıtları",
+      "uç": "sanatsal zirveler",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Sanatsal yöntemdeki bu değişikliklerin altında yatan şey diğer sanatçılar tarafından çokça taklit edilen sanatsal zirveleri temsil eden Leonardo, Michelangelo ve Raphael 'in yapıtlarıyla, doğanın güzelliğini tasvir etme ve estetik aksiyomlarını çözme arzusunun yenilenmesidir.",
+    "triple": {
+      "baş": "Michelangelo",
+      "baş_tipi": "Kişi",
+      "ilişki": "yapıtları",
+      "uç": "sanatsal zirveler",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Sanatsal yöntemdeki bu değişikliklerin altında yatan şey diğer sanatçılar tarafından çokça taklit edilen sanatsal zirveleri temsil eden Leonardo, Michelangelo ve Raphael 'in yapıtlarıyla, doğanın güzelliğini tasvir etme ve estetik aksiyomlarını çözme arzusunun yenilenmesidir.",
+    "triple": {
+      "baş": "Raphael",
+      "baş_tipi": "Kişi",
+      "ilişki": "yapıtları",
+      "uç": "sanatsal zirveler",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Sanatsal yöntemdeki bu değişikliklerin altında yatan şey diğer sanatçılar tarafından çokça taklit edilen sanatsal zirveleri temsil eden Leonardo, Michelangelo ve Raphael 'in yapıtlarıyla, doğanın güzelliğini tasvir etme ve estetik aksiyomlarını çözme arzusunun yenilenmesidir.",
+    "triple": {
+      "baş": "doğa",
+      "baş_tipi": "Kavram",
+      "ilişki": "güzelliğini tasvir etme arzusu",
+      "uç": "yenilenme",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Sanatsal yöntemdeki bu değişikliklerin altında yatan şey diğer sanatçılar tarafından çokça taklit edilen sanatsal zirveleri temsil eden Leonardo, Michelangelo ve Raphael 'in yapıtlarıyla, doğanın güzelliğini tasvir etme ve estetik aksiyomlarını çözme arzusunun yenilenmesidir.",
+    "triple": {
+      "baş": "doğa",
+      "baş_tipi": "Kavram",
+      "ilişki": "estetik aksiyomlarını çözme arzusu",
+      "uç": "yenilenme",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Bu nedenle Platon'un etik , estetik , metafizik , politika gibi farklı alanları işlediği bu metinlerde pek çok düşünceyi hayatı boyunca tekrar tekrar değerlendirdiği, düşüncelerini değiştirdiği veya yeniden ele aldığı düşünülmüş, diyalogların kronolojisi , nasıl yorumlanması gerektiği, hangi iddiaları Platon'un kendinin savunduğu ya da Platon'un diyaloglarında yazmadığı düşünceleri olup olmadığı tartışma konusu olmuştur ve olmaya devam etmektedir.",
+    "triple": {
+      "baş": "Platon",
+      "baş_tipi": "Kişi",
+      "ilişki": "işlediği alanlar",
+      "uç": "etik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Bu nedenle Platon'un etik , estetik , metafizik , politika gibi farklı alanları işlediği bu metinlerde pek çok düşünceyi hayatı boyunca tekrar tekrar değerlendirdiği, düşüncelerini değiştirdiği veya yeniden ele aldığı düşünülmüş, diyalogların kronolojisi , nasıl yorumlanması gerektiği, hangi iddiaları Platon'un kendinin savunduğu ya da Platon'un diyaloglarında yazmadığı düşünceleri olup olmadığı tartışma konusu olmuştur ve olmaya devam etmektedir.",
+    "triple": {
+      "baş": "Platon",
+      "baş_tipi": "Kişi",
+      "ilişki": "işlediği alanlar",
+      "uç": "estetik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Bu nedenle Platon'un etik , estetik , metafizik , politika gibi farklı alanları işlediği bu metinlerde pek çok düşünceyi hayatı boyunca tekrar tekrar değerlendirdiği, düşüncelerini değiştirdiği veya yeniden ele aldığı düşünülmüş, diyalogların kronolojisi , nasıl yorumlanması gerektiği, hangi iddiaları Platon'un kendinin savunduğu ya da Platon'un diyaloglarında yazmadığı düşünceleri olup olmadığı tartışma konusu olmuştur ve olmaya devam etmektedir.",
+    "triple": {
+      "baş": "Platon",
+      "baş_tipi": "Kişi",
+      "ilişki": "işlediği alanlar",
+      "uç": "metafizik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Bu nedenle Platon'un etik , estetik , metafizik , politika gibi farklı alanları işlediği bu metinlerde pek çok düşünceyi hayatı boyunca tekrar tekrar değerlendirdiği, düşüncelerini değiştirdiği veya yeniden ele aldığı düşünülmüş, diyalogların kronolojisi , nasıl yorumlanması gerektiği, hangi iddiaları Platon'un kendinin savunduğu ya da Platon'un diyaloglarında yazmadığı düşünceleri olup olmadığı tartışma konusu olmuştur ve olmaya devam etmektedir.",
+    "triple": {
+      "baş": "Platon",
+      "baş_tipi": "Kişi",
+      "ilişki": "işlediği alanlar",
+      "uç": "politika",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Bu nedenle Platon'un etik , estetik , metafizik , politika gibi farklı alanları işlediği bu metinlerde pek çok düşünceyi hayatı boyunca tekrar tekrar değerlendirdiği, düşüncelerini değiştirdiği veya yeniden ele aldığı düşünülmüş, diyalogların kronolojisi , nasıl yorumlanması gerektiği, hangi iddiaları Platon'un kendinin savunduğu ya da Platon'un diyaloglarında yazmadığı düşünceleri olup olmadığı tartışma konusu olmuştur ve olmaya devam etmektedir.",
+    "triple": {
+      "baş": "Platon",
+      "baş_tipi": "Kişi",
+      "ilişki": "değerlendirdiği düşünceler",
+      "uç": "hayatı boyunca tekrar tekrar",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Bu nedenle Platon'un etik , estetik , metafizik , politika gibi farklı alanları işlediği bu metinlerde pek çok düşünceyi hayatı boyunca tekrar tekrar değerlendirdiği, düşüncelerini değiştirdiği veya yeniden ele aldığı düşünülmüş, diyalogların kronolojisi , nasıl yorumlanması gerektiği, hangi iddiaları Platon'un kendinin savunduğu ya da Platon'un diyaloglarında yazmadığı düşünceleri olup olmadığı tartışma konusu olmuştur ve olmaya devam etmektedir.",
+    "triple": {
+      "baş": "Platon",
+      "baş_tipi": "Kişi",
+      "ilişki": "değiştirdiği düşünceler",
+      "uç": "hayatı boyunca tekrar tekrar",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Bu nedenle Platon'un etik , estetik , metafizik , politika gibi farklı alanları işlediği bu metinlerde pek çok düşünceyi hayatı boyunca tekrar tekrar değerlendirdiği, düşüncelerini değiştirdiği veya yeniden ele aldığı düşünülmüş, diyalogların kronolojisi , nasıl yorumlanması gerektiği, hangi iddiaları Platon'un kendinin savunduğu ya da Platon'un diyaloglarında yazmadığı düşünceleri olup olmadığı tartışma konusu olmuştur ve olmaya devam etmektedir.",
+    "triple": {
+      "baş": "Platon",
+      "baş_tipi": "Kişi",
+      "ilişki": "yeniden ele aldığı düşünceler",
+      "uç": "hayatı boyunca tekrar tekrar",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Pek çok kişi arkeolojiyi geçmiş toplumların yeniden inşası yerine bu tür estetik , dini, politik veya ekonomik hazinelerin kurtarılmasıyla özdeşleştirmektedir.",
+    "triple": {
+      "baş": "arkeoloji",
+      "baş_tipi": "Kavram",
+      "ilişki": "özdeşleştirilen",
+      "uç": "hazinelerin kurtarılması",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Pek çok kişi arkeolojiyi geçmiş toplumların yeniden inşası yerine bu tür estetik , dini, politik veya ekonomik hazinelerin kurtarılmasıyla özdeşleştirmektedir.",
+    "triple": {
+      "baş": "hazineler",
+      "baş_tipi": "Kavram",
+      "ilişki": "türleri",
+      "uç": "estetik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Pek çok kişi arkeolojiyi geçmiş toplumların yeniden inşası yerine bu tür estetik , dini, politik veya ekonomik hazinelerin kurtarılmasıyla özdeşleştirmektedir.",
+    "triple": {
+      "baş": "hazineler",
+      "baş_tipi": "Kavram",
+      "ilişki": "türleri",
+      "uç": "dini",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Pek çok kişi arkeolojiyi geçmiş toplumların yeniden inşası yerine bu tür estetik , dini, politik veya ekonomik hazinelerin kurtarılmasıyla özdeşleştirmektedir.",
+    "triple": {
+      "baş": "hazineler",
+      "baş_tipi": "Kavram",
+      "ilişki": "türleri",
+      "uç": "politik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Pek çok kişi arkeolojiyi geçmiş toplumların yeniden inşası yerine bu tür estetik , dini, politik veya ekonomik hazinelerin kurtarılmasıyla özdeşleştirmektedir.",
+    "triple": {
+      "baş": "hazineler",
+      "baş_tipi": "Kavram",
+      "ilişki": "türleri",
+      "uç": "ekonomik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "mantık",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "fizik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "biyoloji",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "zooloji",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "astronomi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "metafizik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "etik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "estetik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "ruh",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "psikoloji",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "dilbilim",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "ekonomi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "siyaset",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştığı disiplinler",
+      "uç": "retorik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "mantık",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "fizik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "biyoloji",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "zooloji",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "astronomi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "metafizik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "etik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "estetik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "ruh",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "psikoloji",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "dilbilim",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "ekonomi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "siyaset",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kurucusu olduğu disiplinler",
+      "uç": "retorik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo'nun eserleri",
+      "baş_tipi": "Eser",
+      "ilişki": "temelini oluşturduğu",
+      "uç": "bilimsel faaliyet",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo'nun eserleri",
+      "baş_tipi": "Eser",
+      "ilişki": "temelini oluşturduğu coğrafya",
+      "uç": "Avrupa",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo'nun eserleri",
+      "baş_tipi": "Eser",
+      "ilişki": "temelini oluşturduğu coğrafya",
+      "uç": "İslam coğrafyası",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Platon ile birlikte düşünce tarihinin en önemli filozoflarından olan Aristo, mantık , fizik , biyoloji , zooloji , astronomi , metafizik , etik , estetik , ruh , psikoloji , dilbilim , ekonomi , siyaset ve retorik gibi pek çok disiplinde çoğu o disiplinin kurucusu olan eserler vermiş, eserleri 16. ve 17. yüzyılda modern bilim gelişene kadar Avrupa ve İslam coğrafyasındaki bilimsel faaliyetin temelini oluşturmuştur.",
+    "triple": {
+      "baş": "Aristo'nun eserleri",
+      "baş_tipi": "Eser",
+      "ilişki": "temelini oluşturduğu zaman",
+      "uç": "16. ve 17. yüzyıl",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Yaşam alanlarının kasıtlı olarak değiştirilmesi çoğunlukla koruma sağlamak, daha konforlu bir durum oluşturmak, maddi zenginlik elde etmek, mevcut olan gıda kaynaklarını artırmak, estetik koşullarını geliştirmek, bilgi elde etmek veya kaynak alışverişini geliştirmek gibi sebeplerle gerçekleştirilir.",
+    "triple": {
+      "baş": "yaşam alanlarının değiştirilmesi",
+      "baş_tipi": "Eylem",
+      "ilişki": "sebepleri",
+      "uç": "koruma sağlamak",
+      "uç_tipi": "Amaç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Yaşam alanlarının kasıtlı olarak değiştirilmesi çoğunlukla koruma sağlamak, daha konforlu bir durum oluşturmak, maddi zenginlik elde etmek, mevcut olan gıda kaynaklarını artırmak, estetik koşullarını geliştirmek, bilgi elde etmek veya kaynak alışverişini geliştirmek gibi sebeplerle gerçekleştirilir.",
+    "triple": {
+      "baş": "yaşam alanlarının değiştirilmesi",
+      "baş_tipi": "Eylem",
+      "ilişki": "sebepleri",
+      "uç": "konforlu durum oluşturmak",
+      "uç_tipi": "Amaç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Yaşam alanlarının kasıtlı olarak değiştirilmesi çoğunlukla koruma sağlamak, daha konforlu bir durum oluşturmak, maddi zenginlik elde etmek, mevcut olan gıda kaynaklarını artırmak, estetik koşullarını geliştirmek, bilgi elde etmek veya kaynak alışverişini geliştirmek gibi sebeplerle gerçekleştirilir.",
+    "triple": {
+      "baş": "yaşam alanlarının değiştirilmesi",
+      "baş_tipi": "Eylem",
+      "ilişki": "sebepleri",
+      "uç": "maddi zenginlik elde etmek",
+      "uç_tipi": "Amaç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Yaşam alanlarının kasıtlı olarak değiştirilmesi çoğunlukla koruma sağlamak, daha konforlu bir durum oluşturmak, maddi zenginlik elde etmek, mevcut olan gıda kaynaklarını artırmak, estetik koşullarını geliştirmek, bilgi elde etmek veya kaynak alışverişini geliştirmek gibi sebeplerle gerçekleştirilir.",
+    "triple": {
+      "baş": "yaşam alanlarının değiştirilmesi",
+      "baş_tipi": "Eylem",
+      "ilişki": "sebepleri",
+      "uç": "gıda kaynaklarını artırmak",
+      "uç_tipi": "Amaç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Yaşam alanlarının kasıtlı olarak değiştirilmesi çoğunlukla koruma sağlamak, daha konforlu bir durum oluşturmak, maddi zenginlik elde etmek, mevcut olan gıda kaynaklarını artırmak, estetik koşullarını geliştirmek, bilgi elde etmek veya kaynak alışverişini geliştirmek gibi sebeplerle gerçekleştirilir.",
+    "triple": {
+      "baş": "yaşam alanlarının değiştirilmesi",
+      "baş_tipi": "Eylem",
+      "ilişki": "sebepleri",
+      "uç": "estetik koşullarını geliştirmek",
+      "uç_tipi": "Amaç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Yaşam alanlarının kasıtlı olarak değiştirilmesi çoğunlukla koruma sağlamak, daha konforlu bir durum oluşturmak, maddi zenginlik elde etmek, mevcut olan gıda kaynaklarını artırmak, estetik koşullarını geliştirmek, bilgi elde etmek veya kaynak alışverişini geliştirmek gibi sebeplerle gerçekleştirilir.",
+    "triple": {
+      "baş": "yaşam alanlarının değiştirilmesi",
+      "baş_tipi": "Eylem",
+      "ilişki": "sebepleri",
+      "uç": "bilgi elde etmek",
+      "uç_tipi": "Amaç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Yaşam alanlarının kasıtlı olarak değiştirilmesi çoğunlukla koruma sağlamak, daha konforlu bir durum oluşturmak, maddi zenginlik elde etmek, mevcut olan gıda kaynaklarını artırmak, estetik koşullarını geliştirmek, bilgi elde etmek veya kaynak alışverişini geliştirmek gibi sebeplerle gerçekleştirilir.",
+    "triple": {
+      "baş": "yaşam alanlarının değiştirilmesi",
+      "baş_tipi": "Eylem",
+      "ilişki": "sebepleri",
+      "uç": "kaynak alışverişini geliştirmek",
+      "uç_tipi": "Amaç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Daha sonraki çalışmalar, yineleme, mısra biçimi ve kafiye gibi özelliklere yoğunlaşmış ve şiiri tartışmasız olarak bilgilendirici, düzyazı formlarından ayıran estetik olgusuna vurgu yapmıştır.",
+    "triple": {
+      "baş": "şiir",
+      "baş_tipi": "Kavram",
+      "ilişki": "ayıran özellik",
+      "uç": "estetik olgusu",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Altın orana uygun ölçülerdeki nesnelerin ve canlıların daha estetik olduğu ve güzel göründüğü savunulur.",
+    "triple": {
+      "baş": "nesneler",
+      "baş_tipi": "Kavram",
+      "ilişki": "uygun ölçüler",
+      "uç": "altın oran",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Altın orana uygun ölçülerdeki nesnelerin ve canlıların daha estetik olduğu ve güzel göründüğü savunulur.",
+    "triple": {
+      "baş": "canlılar",
+      "baş_tipi": "Kavram",
+      "ilişki": "uygun ölçüler",
+      "uç": "altın oran",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Altın orana uygun ölçülerdeki nesnelerin ve canlıların daha estetik olduğu ve güzel göründüğü savunulur.",
+    "triple": {
+      "baş": "nesneler",
+      "baş_tipi": "Kavram",
+      "ilişki": "özelliği",
+      "uç": "estetik",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Altın orana uygun ölçülerdeki nesnelerin ve canlıların daha estetik olduğu ve güzel göründüğü savunulur.",
+    "triple": {
+      "baş": "canlılar",
+      "baş_tipi": "Kavram",
+      "ilişki": "özelliği",
+      "uç": "estetik",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Mario Livio",
+      "baş_tipi": "Kişi",
+      "ilişki": "belirtti",
+      "uç": "sanatçılar ve mimarların etkilenmesi",
+      "uç_tipi": "Durum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "sanatçılar ve mimarlar",
+      "baş_tipi": "Grup",
+      "ilişki": "etkilendiği düşünce",
+      "uç": "altın dikdörtgenin estetik olarak göze hoş gelmesi",
+      "uç_tipi": "Düşünce"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Luca Pacioli",
+      "baş_tipi": "Kişi",
+      "ilişki": "kitabı",
+      "uç": "Divina Proportione",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Divina Proportione",
+      "baş_tipi": "Eser",
+      "ilişki": "etkisi",
+      "uç": "sanatçılar ve mimarlar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Altın Oran",
+      "baş_tipi": "Kavram",
+      "ilişki": "hal aldı",
+      "uç": "teorik uygulamaya dönük",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Estetik)",
+    "metin": "Astrofizikçi ve popüler matematikçi Mario Livio , 1509'da Luca Pacioli 'nin Divina Proportione kitabıyla birlikte birçok sanatçı ve mimarın, altın dikdörtgenin estetik olarak göze hoş geldiği düşüncesinden büyük oranda etkilendiğini \"Pacioli'nin kitabıyla, Altın Oran, çok matematiksel olmak yerine teorik uygulamaya dönük, sanatçıların yararlanabileceği bir hal aldı\" şeklinde belirtti.",
+    "triple": {
+      "baş": "Altın Oran",
+      "baş_tipi": "Kavram",
+      "ilişki": "yararlanabileceği",
+      "uç": "sanatçılar",
+      "uç_tipi": "Grup"
+    }
+  }
+]

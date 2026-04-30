@@ -1,0 +1,2303 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Fasulye)",
+    "metin": "Φασόλι (fasoli) = Fasulye",
+    "triple": {
+      "baş": "Φασόλι",
+      "baş_tipi": "Bitki",
+      "ilişki": "eş anlamlı",
+      "uç": "Fasulye",
+      "uç_tipi": "Bitki"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Fanila)",
+    "metin": "Φανέλα (fanela) = Fanila",
+    "triple": {
+      "baş": "Φανέλα",
+      "baş_tipi": "Kavram",
+      "ilişki": "eş anlamlı",
+      "uç": "Fanila",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Foto%C4%9Fraf)",
+    "metin": "Φωτογραφία (fotografia) = Fotoğraf",
+    "triple": {
+      "baş": "Φωτογραφία",
+      "baş_tipi": "Kavram",
+      "ilişki": "eş anlamlı",
+      "uç": "Fotoğraf",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/F%C4%B1st%C4%B1k)",
+    "metin": "Φιστίκι (fistiki) = Fıstık",
+    "triple": {
+      "baş": "Φιστίκι",
+      "baş_tipi": "Gıda",
+      "ilişki": "eş anlamlı",
+      "uç": "Fıstık",
+      "uç_tipi": "Gıda"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/F%C4%B1nd%C4%B1k)",
+    "metin": "Φουντούκι (funduki) = Fındık",
+    "triple": {
+      "baş": "Φουντούκι",
+      "baş_tipi": "Kavram",
+      "ilişki": "eş anlamlı",
+      "uç": "Fındık",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/F)",
+    "metin": "Eski Yunancadaki kopa 'dan geldiği düşünülmektedir.",
+    "triple": {
+      "baş": "kopa",
+      "baş_tipi": "Kelime",
+      "ilişki": "kökeni",
+      "uç": "Eski Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/F)",
+    "metin": "Türkçedeki F sesi gibi sesletilir.",
+    "triple": {
+      "baş": "kopa",
+      "baş_tipi": "Kelime",
+      "ilişki": "benzer sesletim",
+      "uç": "Türkçe F sesi",
+      "uç_tipi": "Ses"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kopa)",
+    "metin": "Eski Yunancadaki kopa 'dan geldiği düşünülmektedir.",
+    "triple": {
+      "baş": "kopa",
+      "baş_tipi": "Kelime",
+      "ilişki": "kökeni",
+      "uç": "Eski Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kopa)",
+    "metin": "Türkçedeki F sesi gibi sesletilir.",
+    "triple": {
+      "baş": "kopa",
+      "baş_tipi": "Kelime",
+      "ilişki": "benzer sesletim",
+      "uç": "Türkçe F sesi",
+      "uç_tipi": "Ses"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunan_alfabesi)",
+    "metin": "Fi ( Φ φ ) ( Yunanca : Φι , Fi ), Yunan alfabesinin yirmibirinci harfidir.",
+    "triple": {
+      "baş": "Fi",
+      "baş_tipi": "Harf",
+      "ilişki": "alfabedeki sırası",
+      "uç": "yirmibirinci",
+      "uç_tipi": "Sıra"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunan_alfabesi)",
+    "metin": "Fi ( Φ φ ) ( Yunanca : Φι , Fi ), Yunan alfabesinin yirmibirinci harfidir.",
+    "triple": {
+      "baş": "Fi",
+      "baş_tipi": "Harf",
+      "ilişki": "alfabe",
+      "uç": "Yunan alfabesi",
+      "uç_tipi": "Alfabe"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunan_alfabesi)",
+    "metin": "Fi ( Φ φ ) ( Yunanca : Φι , Fi ), Yunan alfabesinin yirmibirinci harfidir.",
+    "triple": {
+      "baş": "Fi",
+      "baş_tipi": "Harf",
+      "ilişki": "adı",
+      "uç": "Fi",
+      "uç_tipi": "Harf"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunan_alfabesi)",
+    "metin": "Fi ( Φ φ ) ( Yunanca : Φι , Fi ), Yunan alfabesinin yirmibirinci harfidir.",
+    "triple": {
+      "baş": "Fi",
+      "baş_tipi": "Harf",
+      "ilişki": "sembolü",
+      "uç": "Φ",
+      "uç_tipi": "Sembol"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunan_alfabesi)",
+    "metin": "Fi ( Φ φ ) ( Yunanca : Φι , Fi ), Yunan alfabesinin yirmibirinci harfidir.",
+    "triple": {
+      "baş": "Fi",
+      "baş_tipi": "Harf",
+      "ilişki": "sembolü",
+      "uç": "φ",
+      "uç_tipi": "Sembol"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Tıpkı Türkçedeki dram, grup kelimeleri gibi bunların arasında bir harf vardır fakat yazı dilinde yazılmazlar.",
+    "triple": {
+      "baş": "Türkçe",
+      "baş_tipi": "Dil",
+      "ilişki": "içerir",
+      "uç": "dram",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Tıpkı Türkçedeki dram, grup kelimeleri gibi bunların arasında bir harf vardır fakat yazı dilinde yazılmazlar.",
+    "triple": {
+      "baş": "Türkçe",
+      "baş_tipi": "Dil",
+      "ilişki": "içerir",
+      "uç": "grup",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Tıpkı Türkçedeki dram, grup kelimeleri gibi bunların arasında bir harf vardır fakat yazı dilinde yazılmazlar.",
+    "triple": {
+      "baş": "Harf",
+      "baş_tipi": "Kavram",
+      "ilişki": "yazı dilinde yazılmaz",
+      "uç": "Türkçe",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Örneğin; Farsça ve Türkçedeki \" ç \" sesi Arap alfabesinde olmadığı için İranlılar ve Türkler , kendi alfabelerine, ج (cim/c) harfinin nokta sayısını üçe çıkararak چ (çîm/ç) şeklini verdikleri harfi eklemişlerdir.",
+    "triple": {
+      "baş": "Farsça",
+      "baş_tipi": "Dil",
+      "ilişki": "içerir",
+      "uç": "ç sesi",
+      "uç_tipi": "Ses"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Örneğin; Farsça ve Türkçedeki \" ç \" sesi Arap alfabesinde olmadığı için İranlılar ve Türkler , kendi alfabelerine, ج (cim/c) harfinin nokta sayısını üçe çıkararak چ (çîm/ç) şeklini verdikleri harfi eklemişlerdir.",
+    "triple": {
+      "baş": "Türkçe",
+      "baş_tipi": "Dil",
+      "ilişki": "içerir",
+      "uç": "ç sesi",
+      "uç_tipi": "Ses"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Örneğin; Farsça ve Türkçedeki \" ç \" sesi Arap alfabesinde olmadığı için İranlılar ve Türkler , kendi alfabelerine, ج (cim/c) harfinin nokta sayısını üçe çıkararak چ (çîm/ç) şeklini verdikleri harfi eklemişlerdir.",
+    "triple": {
+      "baş": "ç sesi",
+      "baş_tipi": "Ses",
+      "ilişki": "bulunmaz",
+      "uç": "Arap alfabesi",
+      "uç_tipi": "Alfabe"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Örneğin; Farsça ve Türkçedeki \" ç \" sesi Arap alfabesinde olmadığı için İranlılar ve Türkler , kendi alfabelerine, ج (cim/c) harfinin nokta sayısını üçe çıkararak چ (çîm/ç) şeklini verdikleri harfi eklemişlerdir.",
+    "triple": {
+      "baş": "İranlılar",
+      "baş_tipi": "Kişi Grubu",
+      "ilişki": "eklemişlerdir",
+      "uç": "ç harfi",
+      "uç_tipi": "Harf"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Örneğin; Farsça ve Türkçedeki \" ç \" sesi Arap alfabesinde olmadığı için İranlılar ve Türkler , kendi alfabelerine, ج (cim/c) harfinin nokta sayısını üçe çıkararak چ (çîm/ç) şeklini verdikleri harfi eklemişlerdir.",
+    "triple": {
+      "baş": "Türkler",
+      "baş_tipi": "Kişi Grubu",
+      "ilişki": "eklemişlerdir",
+      "uç": "ç harfi",
+      "uç_tipi": "Harf"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Örneğin; Farsça ve Türkçedeki \" ç \" sesi Arap alfabesinde olmadığı için İranlılar ve Türkler , kendi alfabelerine, ج (cim/c) harfinin nokta sayısını üçe çıkararak چ (çîm/ç) şeklini verdikleri harfi eklemişlerdir.",
+    "triple": {
+      "baş": "ج (cim/c) harfi",
+      "baş_tipi": "Harf",
+      "ilişki": "nokta sayısı",
+      "uç": "üç",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Örneğin; Farsça ve Türkçedeki \" ç \" sesi Arap alfabesinde olmadığı için İranlılar ve Türkler , kendi alfabelerine, ج (cim/c) harfinin nokta sayısını üçe çıkararak چ (çîm/ç) şeklini verdikleri harfi eklemişlerdir.",
+    "triple": {
+      "baş": "ç harfi",
+      "baş_tipi": "Harf",
+      "ilişki": "şeklini verdikleri",
+      "uç": "ج (cim/c) harfi",
+      "uç_tipi": "Harf"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Eski Yunancadaki kopa 'dan geldiği düşünülmektedir. Türkçedeki F sesi gibi sesletilir.",
+    "triple": {
+      "baş": "kopa",
+      "baş_tipi": "Kelime",
+      "ilişki": "geldiği düşünülmektedir",
+      "uç": "Eski Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Eski Yunancadaki kopa 'dan geldiği düşünülmektedir. Türkçedeki F sesi gibi sesletilir.",
+    "triple": {
+      "baş": "F sesi",
+      "baş_tipi": "Ses",
+      "ilişki": "sesletilir",
+      "uç": "Türkçe",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Katyon aşağı doğru hareket eden ( Yunanca : κάτω , romanize: aşağı , kato , \"aşağı\" anlamına gelir) ve anyon ise yukarı doğru hareket eden şeydir ( Yunanca : ἄνω , romanize: yukarı , ano , \"yukarı\" anlamına gelir).",
+    "triple": {
+      "baş": "Katyon",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "kato",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Katyon aşağı doğru hareket eden ( Yunanca : κάτω , romanize: aşağı , kato , \"aşağı\" anlamına gelir) ve anyon ise yukarı doğru hareket eden şeydir ( Yunanca : ἄνω , romanize: yukarı , ano , \"yukarı\" anlamına gelir).",
+    "triple": {
+      "baş": "Anyon",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "ano",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Adı, \" Arktika 'nın karşısındaki\" ( Yunanca : Antarktikos ) anlamına gelir.",
+    "triple": {
+      "baş": "Antarktikos",
+      "baş_tipi": "Yunanca Kelime",
+      "ilişki": "anlamı",
+      "uç": "Arktika'nın karşısındaki",
+      "uç_tipi": "Tanım"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bazı tarihçiler MÖ 1150 yılında yıkılan, Yunanca konuşan Miken uygarlığını da Yunan tarihi içerisinde değerlendirirler.",
+    "triple": {
+      "baş": "Miken uygarlığı",
+      "baş_tipi": "Uygarlık",
+      "ilişki": "konuşulan dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Mısır'da, Suriye'de, İran 'da ve Baktria 'da Yunanca konuşulan krallıklar kuruldu.",
+    "triple": {
+      "baş": "Krallık",
+      "baş_tipi": "Devlet Yapısı",
+      "ilişki": "konuşulan dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Mısır'da, Suriye'de, İran 'da ve Baktria 'da Yunanca konuşulan krallıklar kuruldu.",
+    "triple": {
+      "baş": "Krallık",
+      "baş_tipi": "Devlet Yapısı",
+      "ilişki": "kurulduğu yer",
+      "uç": "Mısır",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Mısır'da, Suriye'de, İran 'da ve Baktria 'da Yunanca konuşulan krallıklar kuruldu.",
+    "triple": {
+      "baş": "Krallık",
+      "baş_tipi": "Devlet Yapısı",
+      "ilişki": "kurulduğu yer",
+      "uç": "Suriye",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Mısır'da, Suriye'de, İran 'da ve Baktria 'da Yunanca konuşulan krallıklar kuruldu.",
+    "triple": {
+      "baş": "Krallık",
+      "baş_tipi": "Devlet Yapısı",
+      "ilişki": "kurulduğu yer",
+      "uç": "İran",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Mısır'da, Suriye'de, İran 'da ve Baktria 'da Yunanca konuşulan krallıklar kuruldu.",
+    "triple": {
+      "baş": "Krallık",
+      "baş_tipi": "Devlet Yapısı",
+      "ilişki": "kurulduğu yer",
+      "uç": "Baktria",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Oksijen ismi Yunanca ὀξύς (oxis - \"asit\", tam anlamıyla \"keskin\", asitlerin acı tadı kastedilir) ve -γενής (-genēs) (\"üretici\", tam anlamıyla \"sebep olan şey\") köklerinden gelmektedir, çünkü isimlendirildiği zamanlarda tüm asitlerin oksijen içerikli olduğu sanılırdı.",
+    "triple": {
+      "baş": "Oksijen",
+      "baş_tipi": "Element",
+      "ilişki": "kökeni",
+      "uç": "ὀξύς",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Oksijen ismi Yunanca ὀξύς (oxis - \"asit\", tam anlamıyla \"keskin\", asitlerin acı tadı kastedilir) ve -γενής (-genēs) (\"üretici\", tam anlamıyla \"sebep olan şey\") köklerinden gelmektedir, çünkü isimlendirildiği zamanlarda tüm asitlerin oksijen içerikli olduğu sanılırdı.",
+    "triple": {
+      "baş": "Oksijen",
+      "baş_tipi": "Element",
+      "ilişki": "kökeni",
+      "uç": "-genēs",
+      "uç_tipi": "Yunanca Ek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Ülkenin şimdiki adı olan Россия (Rossiya), Rus isminin Yunanca hali olan ve aynı zamanda Kiev Rusya'sının Bizans İmparatorluğu tarafından söylenimi olan Ρωσία (Rosia) kelimesinden gelmektedir.",
+    "triple": {
+      "baş": "Россия",
+      "baş_tipi": "Ülke Adı",
+      "ilişki": "kökeni",
+      "uç": "Ρωσία",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Antik Persler MÖ 9. yüzyılda günümüz İran 'ın Fars eyaletine karşılık gelen Persis ( Yunanca : Περσίς, Persís ; Eski Farsça : 𐎱𐎠𐎼𐎿, Parsa ) bölgesinde yaşamaktaydılar.",
+    "triple": {
+      "baş": "Persis",
+      "baş_tipi": "Bölge Adı",
+      "ilişki": "Yunanca adı",
+      "uç": "Περσίς",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Tesalya veya Teselya ( Yunanca : Θεσσαλία - Thessalía ), Yunanistan 'ı oluşturan 13 bölgeden biridir.",
+    "triple": {
+      "baş": "Tesalya",
+      "baş_tipi": "Bölge",
+      "ilişki": "Yunanca adı",
+      "uç": "Θεσσαλία",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Attika ( Yunanca : Αττική Attiki , Osmanlıca : Attike ), Yunanistan 'ın başkenti Atina ve çevresini kapsayan bir tarihi bölgedir.",
+    "triple": {
+      "baş": "Attika",
+      "baş_tipi": "Tarihi Bölge",
+      "ilişki": "Yunanca adı",
+      "uç": "Αττική",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Makedonya ( Makedonca : Македонија Makedoniya , Bulgarca : Македония Makedoniya , Yunanca : Μακεδονία Makedonia ), Balkanlar 'da bir devlet olan Kuzey Makedonya 'yı, Bulgaristan 'ın güneybatısında yer alan Blagoevgrad ilini ve Yunanistan 'ın Güney Makedonya olarak da bilinen kuzeyinde üç idari bölüme ayrılmış ( Batı , Orta ve Doğu Makedonya ve Trakya ) araziyi kapsayan kültürel, coğrafi bölgedir.",
+    "triple": {
+      "baş": "Makedonya",
+      "baş_tipi": "Coğrafi Bölge",
+      "ilişki": "Yunanca adı",
+      "uç": "Μακεδονία",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Korfu veya Körfüz ( Yunanca : Κέρκυρα Kérkyra , Latince : Corcyra , İtalyanca : Corfù , Osmanlıca : Kefere veya Korfoş ), Yunanistan 'ın kuzeybatısında Akdeniz 'in kolu olan İyon Denizi 'nde bir adadır.",
+    "triple": {
+      "baş": "Korfu",
+      "baş_tipi": "Ada",
+      "ilişki": "Yunanca adı",
+      "uç": "Κέρκυρα",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Korent ya da Korint ( Yunanca : Κόρινθος / Kórinthos , Türkçe : Gördüs / Gördös (گوردوس) ), Mora Yarımadası 'nı Yunanistan anakarasına bağlayan Korint Kıstağı 'nın üstünde yer alan bir Yunanistan şehridir.",
+    "triple": {
+      "baş": "Korent",
+      "baş_tipi": "Şehir",
+      "ilişki": "Yunanca adı",
+      "uç": "Κόρινθος",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Atina ( Yunanca : Αθήνα Athína , Grekçe : Ἀθῆναι Athênai ), Yunanistan 'ın başkenti ve yaklaşık 4 milyon kişilik nüfusuyla en büyük, Avrupa Birliği 'nin yedinci büyük şehri.",
+    "triple": {
+      "baş": "Atina",
+      "baş_tipi": "Şehir",
+      "ilişki": "Yunanca adı",
+      "uç": "Αθήνα",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Potidea ( Yunanca : Ποτίδαια - Potidea ) milattan önce 600'lü yıllarda Korintliler tarafından Makedonya 'nın Halkidiki Yarımadası 'nda kurulmuş bir koloni devletidir.",
+    "triple": {
+      "baş": "Potidea",
+      "baş_tipi": "Koloni Devleti",
+      "ilişki": "Yunanca adı",
+      "uç": "Ποτίδαια",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Megara ( Yunanca : Μέγαρα Megara , \"Büyük Evler\"), Yunanistan 'ın Attike bölgesinde bulunan antik bir kenttir.",
+    "triple": {
+      "baş": "Megara",
+      "baş_tipi": "Antik Kent",
+      "ilişki": "Yunanca adı",
+      "uç": "Μέγαρα",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Sicilya Arapçası , Sicilyaca , Yunanca",
+    "triple": {
+      "baş": "Sicilya Arapçası",
+      "baş_tipi": "Dil",
+      "ilişki": "ilişkili dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Sicilya Arapçası , Sicilyaca , Yunanca",
+    "triple": {
+      "baş": "Sicilyaca",
+      "baş_tipi": "Dil",
+      "ilişki": "ilişkili dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "İslam'ın Altın Çağı#39: Bunların birçoğu Batı Avrupa 'da mevcut değildi ve olsa bile Yunanca bilgisi-kültürü tamamen kaybolmuştu.",
+    "triple": {
+      "baş": "Batı Avrupa",
+      "baş_tipi": "Bölge",
+      "ilişki": "kaybolmuş bilgi",
+      "uç": "Yunanca bilgisi-kültürü",
+      "uç_tipi": "Kültür"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Müslüman dünyası 850'li yıllarda, Rum döneminde aktarılan ve geliştirilen Helenistik Yunanların bilimsel geleneklerinden yararlanmaya başlamış ve Hristiyan Avrupalılardan yüzyıllarca ileriye gitmiştir.",
+    "triple": {
+      "baş": "Müslüman dünyası",
+      "baş_tipi": "Medeniyet",
+      "ilişki": "yararlandı",
+      "uç": "Helenistik Yunanların bilimsel gelenekleri",
+      "uç_tipi": "Bilimsel Gelenek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Epidemi ( Yunanca epi \"üzerinde\" ve demos \"insanlar\"), bir bulaşıcı hastalığın , belirli bir popülasyondaki çok sayıda insana, kısa bir süre içinde hızla yayılmasıdır.",
+    "triple": {
+      "baş": "Epidemi",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "epi",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Epidemi ( Yunanca epi \"üzerinde\" ve demos \"insanlar\"), bir bulaşıcı hastalığın , belirli bir popülasyondaki çok sayıda insana, kısa bir süre içinde hızla yayılmasıdır.",
+    "triple": {
+      "baş": "Epidemi",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "demos",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Önceki geniş kapsamlı eğitimini takiben, MS 146-147'de bir therapeutes veya refakatçi ( Yunanca : θεραπευτής ) olarak prestijli yerel bir şifa tapınağı ya da Asklepion 'da eğitimine başladı.",
+    "triple": {
+      "baş": "therapeutes",
+      "baş_tipi": "Unvan",
+      "ilişki": "Yunanca karşılığı",
+      "uç": "θεραπευτής",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Üç Roma imparatoru Marcus Aurelius , Commodus ve Septimius Severus dönemlerinde Yunanca olarak kaleme alınan bu çok yönlü çalışmalarin yalnızca küçük bir kısmı günümüze ulaşabilmiştir.",
+    "triple": {
+      "baş": "Çok yönlü çalışmalar",
+      "baş_tipi": "Eser",
+      "ilişki": "yazıldığı dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu durum, Galen’i Περὶ τῶν ἰδίων βιβλίων \" De Libris Propriis\" (Kendi Kitaplarım) adlı eserini yazmaya sevk etmiştir.",
+    "triple": {
+      "baş": "Galen",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazdı",
+      "uç": "Περὶ τῶν ἰδίων βιβλίων",
+      "uç_tipi": "Eser Adı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Latince , Arapça veya Yunanca sahte eserler Rönesans 'a kadar devam etmiştir.",
+    "triple": {
+      "baş": "Sahte eserler",
+      "baş_tipi": "Eser",
+      "ilişki": "yazıldığı dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Platon veya Eflatun ( Yunanca : Πλάτων Plátōn ; MÖ 428/427 veya 424/423 – 348/347), Antik Yunan filozofu ve bilgesi.",
+    "triple": {
+      "baş": "Platon",
+      "baş_tipi": "Kişi",
+      "ilişki": "Yunanca adı",
+      "uç": "Πλάτων",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bunların yanı sıra bu aileye mahsus Baltık dilleri , Kelt dilleri , İranî diller ( Osetçe ), Yunanca , Arnavutça ve (eğer Güney Kafkasya Avrupa içerisinde sayılacak ise) Ermenice de kıtada konuşulmaktadır.",
+    "triple": {
+      "baş": "Baltık dilleri",
+      "baş_tipi": "Dil Ailesi",
+      "ilişki": "konuşulduğu yer",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bunların yanı sıra bu aileye mahsus Baltık dilleri , Kelt dilleri , İranî diller ( Osetçe ), Yunanca , Arnavutça ve (eğer Güney Kafkasya Avrupa içerisinde sayılacak ise) Ermenice de kıtada konuşulmaktadır.",
+    "triple": {
+      "baş": "Kelt dilleri",
+      "baş_tipi": "Dil Ailesi",
+      "ilişki": "konuşulduğu yer",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bunların yanı sıra bu aileye mahsus Baltık dilleri , Kelt dilleri , İranî diller ( Osetçe ), Yunanca , Arnavutça ve (eğer Güney Kafkasya Avrupa içerisinde sayılacak ise) Ermenice de kıtada konuşulmaktadır.",
+    "triple": {
+      "baş": "İranî diller",
+      "baş_tipi": "Dil Ailesi",
+      "ilişki": "konuşulduğu yer",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bunların yanı sıra bu aileye mahsus Baltık dilleri , Kelt dilleri , İranî diller ( Osetçe ), Yunanca , Arnavutça ve (eğer Güney Kafkasya Avrupa içerisinde sayılacak ise) Ermenice de kıtada konuşulmaktadır.",
+    "triple": {
+      "baş": "Yunanca",
+      "baş_tipi": "Dil",
+      "ilişki": "konuşulduğu yer",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bunların yanı sıra bu aileye mahsus Baltık dilleri , Kelt dilleri , İranî diller ( Osetçe ), Yunanca , Arnavutça ve (eğer Güney Kafkasya Avrupa içerisinde sayılacak ise) Ermenice de kıtada konuşulmaktadır.",
+    "triple": {
+      "baş": "Arnavutça",
+      "baş_tipi": "Dil",
+      "ilişki": "konuşulduğu yer",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bunların yanı sıra bu aileye mahsus Baltık dilleri , Kelt dilleri , İranî diller ( Osetçe ), Yunanca , Arnavutça ve (eğer Güney Kafkasya Avrupa içerisinde sayılacak ise) Ermenice de kıtada konuşulmaktadır.",
+    "triple": {
+      "baş": "Ermenice",
+      "baş_tipi": "Dil",
+      "ilişki": "konuşulduğu yer",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Teknoloji ya da uygulayım bilimi , ( Yunanca : τέχνη , tekno ; \"zanaat, beceri, el sanatları\"; Yunanca : -λογία ; -loji ) İnsanlığın, içinde bulunduğu koşullarla baş etmedeki yetersizliğini gidermek üzere faydalanabileceği malzeme, alet, araç ve yöntemlerin; bulunması, geliştirilmesi ve üretilmesi süreçlerine verilen addır.",
+    "triple": {
+      "baş": "Teknoloji",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "τέχνη",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Teknoloji ya da uygulayım bilimi , ( Yunanca : τέχνη , tekno ; \"zanaat, beceri, el sanatları\"; Yunanca : -λογία ; -loji ) İnsanlığın, içinde bulunduğu koşullarla baş etmedeki yetersizliğini gidermek üzere faydalanabileceği malzeme, alet, araç ve yöntemlerin; bulunması, geliştirilmesi ve üretilmesi süreçlerine verilen addır.",
+    "triple": {
+      "baş": "Teknoloji",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "-λογία",
+      "uç_tipi": "Yunanca Ek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Arkeoloji kelimesi Yunanca ἀρχé ( arkhe : eski, eskiden kalma) ve λόγος ( logos : bilim, bilgi, öğreti) kelimelerinden türemiş olup \"eskilerin bilimi\" veya \"eskinin bilgisi\" anlamına gelir.",
+    "triple": {
+      "baş": "Arkeoloji",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "kökeni",
+      "uç": "ἀρχé",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Arkeoloji kelimesi Yunanca ἀρχé ( arkhe : eski, eskiden kalma) ve λόγος ( logos : bilim, bilgi, öğreti) kelimelerinden türemiş olup \"eskilerin bilimi\" veya \"eskinin bilgisi\" anlamına gelir.",
+    "triple": {
+      "baş": "Arkeoloji",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "kökeni",
+      "uç": "λόγος",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Etik sözcüğü Yunanca \"kişilik, karakter\" anlamına gelen \" ethos \" sözcüğünden türemiştir.",
+    "triple": {
+      "baş": "Etik",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "ethos",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Aynı zamanda Lehçe , Yunanca ve İtalyanca konuşabiliyordu.",
+    "triple": {
+      "baş": "Lehçe",
+      "baş_tipi": "Dil",
+      "ilişki": "konuşulabilen dil",
+      "uç": "Kişi",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Aynı zamanda Lehçe , Yunanca ve İtalyanca konuşabiliyordu.",
+    "triple": {
+      "baş": "Yunanca",
+      "baş_tipi": "Dil",
+      "ilişki": "konuşulabilen dil",
+      "uç": "Kişi",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Aynı zamanda Lehçe , Yunanca ve İtalyanca konuşabiliyordu.",
+    "triple": {
+      "baş": "İtalyanca",
+      "baş_tipi": "Dil",
+      "ilişki": "konuşulabilen dil",
+      "uç": "Kişi",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu yeni dinle birlikte Rusya 'ya Yunanca ya da Slavca dinsel yapıtlar girdi.",
+    "triple": {
+      "baş": "Rusya",
+      "baş_tipi": "Ülke",
+      "ilişki": "giren dinsel yapıt dili",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu yeni dinle birlikte Rusya 'ya Yunanca ya da Slavca dinsel yapıtlar girdi.",
+    "triple": {
+      "baş": "Rusya",
+      "baş_tipi": "Ülke",
+      "ilişki": "giren dinsel yapıt dili",
+      "uç": "Slavca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Manuel (veya Emanuel) Hrisoloras ( Yunanca : Μανουὴλ Χρυσολωρᾶς; y. 1350 –15 Nisan 1415), Bizanslı klasik bilim adamı , hümanist, filozof , profesör ve Rönesans döneminde eski Yunanca metinlerin çevirmeni .",
+    "triple": {
+      "baş": "Manuel Hrisoloras",
+      "baş_tipi": "Kişi",
+      "ilişki": "Yunanca adı",
+      "uç": "Μανουὴλ Χρυσολωρᾶς",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Manuel (veya Emanuel) Hrisoloras ( Yunanca : Μανουὴλ Χρυσολωρᾶς; y. 1350 –15 Nisan 1415), Bizanslı klasik bilim adamı , hümanist, filozof , profesör ve Rönesans döneminde eski Yunanca metinlerin çevirmeni .",
+    "triple": {
+      "baş": "Manuel Hrisoloras",
+      "baş_tipi": "Kişi",
+      "ilişki": "çevirmen",
+      "uç": "eski Yunanca metinler",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Antik Yunanlar tarafından Marakanda (Eski Yunanca : Μαράκανδα) adıyla anılan Semerkant'ı zapteden Büyük İskender, kendisine karşı ayaklanmayı bahane ederek şehri yakıp yıktı.",
+    "triple": {
+      "baş": "Marakanda",
+      "baş_tipi": "Şehir Adı",
+      "ilişki": "Eski Yunanca adı",
+      "uç": "Μαράκανδα",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Kavram Yunanca rhētorikos (ῥητορικός) \" hitabet \" kavramından türemiştir.",
+    "triple": {
+      "baş": "Kavram",
+      "baş_tipi": "Soyut Kavram",
+      "ilişki": "kökeni",
+      "uç": "rhētorikos",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Antik Yunanistan 'da MÖ 5. yüzyılda Sokrates çevresindekiler tarafından kullanılmış olan bu kelime, ilk kez Platon 'un Gorgias adlı eserinde geçmiştir.",
+    "triple": {
+      "baş": "Kavram",
+      "baş_tipi": "Soyut Kavram",
+      "ilişki": "kullanıldığı yer",
+      "uç": "Antik Yunanistan",
+      "uç_tipi": "Tarihi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Matematik ( Yunanca μάθημα máthēma, \"bilgi, çalışma, öğrenme\"); sayılar , felsefe , uzay ve fizik gibi konularla ilgilenir.",
+    "triple": {
+      "baş": "Matematik",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "Yunanca kökeni",
+      "uç": "μάθημα",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Metropol kelimesi, Yunanca μητρόπολις mētropolis meter (anne, ana) ve polis (şehir, kent) kelimelerinin birleşiminden oluşan meterpolis kelimesinin kısaltılması ile oluşmuştur ve anakent anlamına gelir.",
+    "triple": {
+      "baş": "Metropol",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "μητρόπολις",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Metropol kelimesi, Yunanca μητρόπολις mētropolis meter (anne, ana) ve polis (şehir, kent) kelimelerinin birleşiminden oluşan meterpolis kelimesinin kısaltılması ile oluşmuştur ve anakent anlamına gelir.",
+    "triple": {
+      "baş": "Metropol",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "meter",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Metropol kelimesi, Yunanca μητρόπολις mētropolis meter (anne, ana) ve polis (şehir, kent) kelimelerinin birleşiminden oluşan meterpolis kelimesinin kısaltılması ile oluşmuştur ve anakent anlamına gelir.",
+    "triple": {
+      "baş": "Metropol",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "polis",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Birçok sayıda tıp, bilim konularındaki Arapça ve Yunanca eser çevrilmiş ve Avrupa'ya dağıtılmıştır.",
+    "triple": {
+      "baş": "Eser",
+      "baş_tipi": "Eser",
+      "ilişki": "çevrildiği dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Birçok sayıda tıp, bilim konularındaki Arapça ve Yunanca eser çevrilmiş ve Avrupa'ya dağıtılmıştır.",
+    "triple": {
+      "baş": "Eser",
+      "baş_tipi": "Eser",
+      "ilişki": "dağıtıldığı yer",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Türkçeye Fransızcadan geçen kavram Yunanca \"oligo-\" (az, birkaç) ve \"arkhein\" (yönetmek) kelimelerinden oluşturulmuştur.",
+    "triple": {
+      "baş": "Kavram",
+      "baş_tipi": "Soyut Kavram",
+      "ilişki": "kökeni",
+      "uç": "oligo-",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Türkçeye Fransızcadan geçen kavram Yunanca \"oligo-\" (az, birkaç) ve \"arkhein\" (yönetmek) kelimelerinden oluşturulmuştur.",
+    "triple": {
+      "baş": "Kavram",
+      "baş_tipi": "Soyut Kavram",
+      "ilişki": "kökeni",
+      "uç": "arkhein",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Adı daha sonra Yunanca , Arapça ve Farsça eserlerde korunmuştur.",
+    "triple": {
+      "baş": "Ad",
+      "baş_tipi": "Kavram",
+      "ilişki": "korunduğu dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Adı daha sonra Yunanca , Arapça ve Farsça eserlerde korunmuştur.",
+    "triple": {
+      "baş": "Ad",
+      "baş_tipi": "Kavram",
+      "ilişki": "korunduğu dil",
+      "uç": "Arapça",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Adı daha sonra Yunanca , Arapça ve Farsça eserlerde korunmuştur.",
+    "triple": {
+      "baş": "Ad",
+      "baş_tipi": "Kavram",
+      "ilişki": "korunduğu dil",
+      "uç": "Farsça",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Fikir, adını Philip Henry Gosse tarafından yazılan ve Gosse'nin dünyanın işlevsel olması için Tanrı 'nın Dünya 'yı dağlar ve kanyonlar, büyüme halkaları olan ağaçlar, tamamen büyümüş saçları, tırnakları ve göbekleri ile Adem ve Havva ile yaratmış olması gerektiğini savunduğu 1857 tarihli Omphalos kitabının adından almıştır. ( ὀμφαλός omphalos , Yunanca \"göbek\" anlamına gelir)",
+    "triple": {
+      "baş": "Omphalos",
+      "baş_tipi": "Kitap Adı",
+      "ilişki": "kökeni",
+      "uç": "ὀμφαλός",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Eski Yunanlar Güney kıyısındaki medeniyete odaklandılar – denize (H)yr(c/k)anian Denizi adını verdiler( Yunanca : Υρκανία θάλαττα , kaynaklar, son kelimenin bugünün Thelessa 'sına Yunanca : θάλασσα ) evrimleştiğini belirtmektedir.",
+    "triple": {
+      "baş": "Hyrkanian Denizi",
+      "baş_tipi": "Deniz",
+      "ilişki": "Yunanca adı",
+      "uç": "Υρκανία θάλαττα",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Eski Yunanlar Güney kıyısındaki medeniyete odaklandılar – denize (H)yr(c/k)anian Denizi adını verdiler( Yunanca : Υρκανία θάλαττα , kaynaklar, son kelimenin bugünün Thelessa 'sına Yunanca : θάλασσα ) evrimleştiğini belirtmektedir.",
+    "triple": {
+      "baş": "Deniz",
+      "baş_tipi": "Coğrafi Nesne",
+      "ilişki": "Yunanca adı",
+      "uç": "θάλασσα",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Geniş bir perspektiften bakıldığında, üs alma ve logaritma gibi işlemleri de kapsar. Türkçeye Fransızcadan geçen \"aritmetik\" terimi, Latince arithmetica kelimesinden türetilmiş olup, bu kelime Antik Yunanca ἀριθμός (arithmos), yani \" sayı \" ve ἀριθμητική τέχνη (arithmetike tekhne), yani \"sayma sanatı\" anlamına gelmektedir.",
+    "triple": {
+      "baş": "Aritmetik",
+      "baş_tipi": "Matematiksel Kavram",
+      "ilişki": "kökeni",
+      "uç": "arithmos",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Geniş bir perspektiften bakıldığında, üs alma ve logaritma gibi işlemleri de kapsar. Türkçeye Fransızcadan geçen \"aritmetik\" terimi, Latince arithmetica kelimesinden türetilmiş olup, bu kelime Antik Yunanca ἀριθμός (arithmos), yani \" sayı \" ve ἀριθμητική τέχνη (arithmetike tekhne), yani \"sayma sanatı\" anlamına gelmektedir.",
+    "triple": {
+      "baş": "Aritmetik",
+      "baş_tipi": "Matematiksel Kavram",
+      "ilişki": "kökeni",
+      "uç": "arithmetike tekhne",
+      "uç_tipi": "Yunanca Terim"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Meyve bahçesinin bekçisi çocuğu bulur ve ona Gilgamos ( Yunanca : Γίλγαμος ) adını verir.",
+    "triple": {
+      "baş": "Gilgamos",
+      "baş_tipi": "Kişi Adı",
+      "ilişki": "Yunanca adı",
+      "uç": "Γίλγαμος",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Dördüncü Zaman , Dünya'daki toprakların %30'undan fazlasının buzlarla kaplandığı bir dönemidir ve Pliyosen Çağı ile Holosen Çağı arasında yer alır. Yunanca \"eski\" anlamına gelen pleistos ve \"yeni\" anlamındaki kainos kelimelerinin birleşmesinden oluşmuştur.",
+    "triple": {
+      "baş": "Pliyosen Çağı",
+      "baş_tipi": "Zaman Dilimi",
+      "ilişki": "kökeni",
+      "uç": "pleistos",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Dördüncü Zaman , Dünya'daki toprakların %30'undan fazlasının buzlarla kaplandığı bir dönemidir ve Pliyosen Çağı ile Holosen Çağı arasında yer alır. Yunanca \"eski\" anlamına gelen pleistos ve \"yeni\" anlamındaki kainos kelimelerinin birleşmesinden oluşmuştur.",
+    "triple": {
+      "baş": "Pliyosen Çağı",
+      "baş_tipi": "Zaman Dilimi",
+      "ilişki": "kökeni",
+      "uç": "kainos",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Yunanca kökenli mitoloji kelimesi bu dilde μυθολογία olarak yazılmakta olup, μυθος ( mithos ) yani “söylenen ya da duyulan söz” ve λογος [ logos ] yani “konuşma” kelimelerinin birleşiminden oluşmuştur.",
+    "triple": {
+      "baş": "Mitoloji",
+      "baş_tipi": "Kavram",
+      "ilişki": "Yunanca yazılışı",
+      "uç": "μυθολογία",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Yunanca kökenli mitoloji kelimesi bu dilde μυθολογία olarak yazılmakta olup, μυθος ( mithos ) yani “söylenen ya da duyulan söz” ve λογος [ logos ] yani “konuşma” kelimelerinin birleşiminden oluşmuştur.",
+    "triple": {
+      "baş": "Mitoloji",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "μυθος",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Yunanca kökenli mitoloji kelimesi bu dilde μυθολογία olarak yazılmakta olup, μυθος ( mithos ) yani “söylenen ya da duyulan söz” ve λογος [ logos ] yani “konuşma” kelimelerinin birleşiminden oluşmuştur.",
+    "triple": {
+      "baş": "Mitoloji",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "λογος",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Yunanistan Krallığı ( Yunanca : Βασίλειον της Ελλάδος Vasilion tis Ellados ), 1832 yılında dönemin süper güçleri Birleşik Krallık , Avusturya-Macaristan İmparatorluğu , Prusya , Fransa ve Rus İmparatorluğu tarafından ilan edilen devlettir.",
+    "triple": {
+      "baş": "Yunanistan Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "Yunanca adı",
+      "uç": "Βασίλειον της Ελλάδος",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Durum daha da kötüye gitmeden Yunan ekonomisi uluslararası denetim altına alındı ve 1910 yılında Elefthérios Venizélos ( Yunanca : Ελευθέριος Βενιζέλος) kral I. Konstantin'e yardımcı olması amacı ile başbakanlık görevine getirildi.",
+    "triple": {
+      "baş": "Elefthérios Venizélos",
+      "baş_tipi": "Kişi",
+      "ilişki": "Yunanca adı",
+      "uç": "Ελευθέριος Βενιζέλος",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Batı Trakya , Ege Trakyası veya Yunanistan Trakyası ( Yunanca : Θράκη), tarihi Trakya bölgesinin Yunanistan 'da yer alan bölümüdür.",
+    "triple": {
+      "baş": "Batı Trakya",
+      "baş_tipi": "Tarihi Bölge",
+      "ilişki": "Yunanca adı",
+      "uç": "Θράκη",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Küçük Asya Felaketi ( Yunanca : Μικρασιατική καταστροφή, Mikrasiatiki katastrofi ), Yunan tarih yazımında Küçük Asya Ordusu 'nun Eylül 1922'de Mustafa Kemal komutasındaki Türkiye Büyük Millet Meclisi Hükûmeti Ordusu 'na uğradığı yenilgi sonucu Küçük Asya Seferi'nin son bulmasına verilen isimdir.",
+    "triple": {
+      "baş": "Küçük Asya Felaketi",
+      "baş_tipi": "Olay",
+      "ilişki": "Yunanca adı",
+      "uç": "Μικρασιατική καταστροφή",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu adın \" eis tin polin \" ( Yunanca : εις την πόλιν ) tamlamasından geldiği sanılmaktadır.",
+    "triple": {
+      "baş": "Ad",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "eis tin polin",
+      "uç_tipi": "Yunanca Tamlama"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu adın \" eis tin polin \" ( Yunanca : εις την πόλιν ) tamlamasından geldiği sanılmaktadır.",
+    "triple": {
+      "baş": "Ad",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "εἰς τὴν πόλιν",
+      "uç_tipi": "Yunanca Tamlama"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Sonraları şehir Bizantion ( Yunanca : Βυζάντιον ) adını almıştır.",
+    "triple": {
+      "baş": "Şehir",
+      "baş_tipi": "Yerleşim Yeri",
+      "ilişki": "Yunanca adı",
+      "uç": "Βυζάντιον",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Türkiye-Yunanistan nüfus mübadelesi#4: Mübadele kapsamına giren kişiler ile mübadele kapsamına girmeyen kişiler arasındaki ayrımın ana kıstası ırk ya da dil değil din olduğu için Rum denenlerin arasında, Türkçeden başka dil bilmeyen ve konuşmayan Türk Ortodoks Hristiyan Gagavuzlar ile Karamanlı Ortodokslar , Yunanistan'dan gelen Müslümanların arasında da Türklerin yanında Karacaova , Drama , Kavala ve Kesriye 'den gelen Bulgarca ve Makedonca konuşan Pomaklar , Rumence konuşan Ulahlar , Yunanca (Romeika) konuşan Patriyotlar ve kendi dillerinde konuşan Arnavutlar da bulunmuşlardır. [kaynak belirtilmeli]",
+    "triple": {
+      "baş": "Rumlar",
+      "baş_tipi": "Etnik Grup",
+      "ilişki": "konuşulan dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Ancak Smyrna sözcüğü Yunanca değil, Ege Bölgesi 'ndeki birçok yerleşim adı gibi Anadolu kökenlidir.",
+    "triple": {
+      "baş": "Smyrna",
+      "baş_tipi": "Yerleşim Adı",
+      "ilişki": "kökeni",
+      "uç": "Anadolu",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Alexander arka yüzünde Yunanca olarak yazılıdır. ΑΛΕΞΑΝΔΡΟΥ/ALEKSANDROU.",
+    "triple": {
+      "baş": "Alexander",
+      "baş_tipi": "Kişi Adı",
+      "ilişki": "yazıldığı dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Alexander arka yüzünde Yunanca olarak yazılıdır. ΑΛΕΞΑΝΔΡΟΥ/ALEKSANDROU.",
+    "triple": {
+      "baş": "Alexander",
+      "baş_tipi": "Kişi Adı",
+      "ilişki": "Yunanca yazılışı",
+      "uç": "ΑΛΕΞΑΝΔΡΟΥ",
+      "uç_tipi": "Yunanca Yazı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Eski yazarlara göre Dimosthenis , İskender'i \"Margites\" ( Yunanca : Μαργίτης) ve bir çocuk olarak adlandırdı.",
+    "triple": {
+      "baş": "Margites",
+      "baş_tipi": "Eser Adı",
+      "ilişki": "Yunanca adı",
+      "uç": "Μαργίτης",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Gezgin Jacques de Vitry dini temelli teorilere dayandırarak, ismin kökenini Gürcüler arasında ünlü olan Aziz Giorgi 'nin ismi ile açıklıyor, gezgin Jean Chardin ise, \"Gürcistan\" kelimesinin Kolhis 'e geldiklerinde gelişmiş bir tarım toplumuyla karşılaşarak etkilenen Yunanlarca Yunanca γεωργός (Georgios, \"çiftçi\") kelimesinden geldiğini düşünüyordu.",
+    "triple": {
+      "baş": "Gürcistan",
+      "baş_tipi": "Ülke",
+      "ilişki": "kökeni",
+      "uç": "γεωργός",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Monark sözcüğü Yunanca mono' (tek) archos (baş, yönetici) sözcüklerinden türetilmiştir.",
+    "triple": {
+      "baş": "Monark",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "mono'",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Monark sözcüğü Yunanca mono' (tek) archos (baş, yönetici) sözcüklerinden türetilmiştir.",
+    "triple": {
+      "baş": "Monark",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "archos",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Latince (Genel), Yunanca (Bölgesel)",
+    "triple": {
+      "baş": "Yunanca",
+      "baş_tipi": "Dil",
+      "ilişki": "kullanım alanı",
+      "uç": "Bölgesel",
+      "uç_tipi": "Kullanım Alanı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu kelime Latince Latince : meritum ile Yunanca kratein ( Yunanca : κρατεῖν ) sözcüklerinin birleşmesinden oluşmuştur.",
+    "triple": {
+      "baş": "Kelime",
+      "baş_tipi": "Dil Birimi",
+      "ilişki": "kökeni",
+      "uç": "kratein",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu kelime Latince Latince : meritum ile Yunanca kratein ( Yunanca : κρατεῖν ) sözcüklerinin birleşmesinden oluşmuştur.",
+    "triple": {
+      "baş": "Kelime",
+      "baş_tipi": "Dil Birimi",
+      "ilişki": "kökeni",
+      "uç": "κρατεῖν",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Büyük İskender ’in seferinde burayı ele geçirmiş ve Aleksandria margiane (eski Yunanca : Άλεξάνδρεια μαργιάνη) ismini verip, böylece Polis ( pólis , πόλις, çoğul: póleis ) denilen antik yunan şehir devletini kurmuştur.",
+    "triple": {
+      "baş": "Aleksandria margiane",
+      "baş_tipi": "Şehir Adı",
+      "ilişki": "eski Yunanca adı",
+      "uç": "Άλεξάνδρεια μαργιάνη",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Büyük İskender ’in seferinde burayı ele geçirmiş ve Aleksandria margiane (eski Yunanca : Άλεξάνδρεια μαργιάνη) ismini verip, böylece Polis ( pólis , πόλις, çoğul: póleis ) denilen antik yunan şehir devletini kurmuştur.",
+    "triple": {
+      "baş": "Polis",
+      "baş_tipi": "Şehir Devleti",
+      "ilişki": "Yunanca adı",
+      "uç": "πόλις",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Genetik ya da kalıtım bilimi , biyolojinin organizmalardaki kalıtım ve genetik varyasyonu inceleyen bir dalıdır. Türkçeye Almancadan geçen genetik sözcüğü 1831 yılında Yunanca γενετικός - genetikos (\"genitif\") sözcüğünden türetildi.",
+    "triple": {
+      "baş": "Genetik",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "kökeni",
+      "uç": "γενετικός",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bateson 1906'da Londra'da yapılan Üçüncü Uluslararası Bitki Melezleri Konferansı'nda yaptığı açış konuşmasında kalıtım çalışmasını tanımlarken “genetik” terimini kullanarak, bu terimin yaygınlaşmasını sağlamıştır. (bir sıfat olarak genetik , Yunanca genesis - γένεσις (\"kaynak\")'tan türemiştir, o da genno - γεννώ (\"doğurmak\")'tan; biyolojik anlamıyla bu sıfat, isim hâliyle 'genetik'ten daha önce, ilk defa 1860'ta kullanılmıştır) )",
+    "triple": {
+      "baş": "Genetik",
+      "baş_tipi": "Sıfat",
+      "ilişki": "kökeni",
+      "uç": "genesis",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bateson 1906'da Londra'da yapılan Üçüncü Uluslararası Bitki Melezleri Konferansı'nda yaptığı açış konuşmasında kalıtım çalışmasını tanımlarken “genetik” terimini kullanarak, bu terimin yaygınlaşmasını sağlamıştır. (bir sıfat olarak genetik , Yunanca genesis - γένεσις (\"kaynak\")'tan türemiştir, o da genno - γεννώ (\"doğurmak\")'tan; biyolojik anlamıyla bu sıfat, isim hâliyle 'genetik'ten daha önce, ilk defa 1860'ta kullanılmıştır) )",
+    "triple": {
+      "baş": "Genetik",
+      "baş_tipi": "Sıfat",
+      "ilişki": "kökeni",
+      "uç": "genno",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Böylece bölgede yaygın olan Hristiyanlık ve Yunanca , yerini yavaş yavaş İslam ve Türk kültürüne bıraktı.",
+    "triple": {
+      "baş": "Hristiyanlık",
+      "baş_tipi": "Din",
+      "ilişki": "yerini bıraktı",
+      "uç": "İslam",
+      "uç_tipi": "Din"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Böylece bölgede yaygın olan Hristiyanlık ve Yunanca , yerini yavaş yavaş İslam ve Türk kültürüne bıraktı.",
+    "triple": {
+      "baş": "Yunanca",
+      "baş_tipi": "Dil",
+      "ilişki": "yerini bıraktı",
+      "uç": "Türk kültürü",
+      "uç_tipi": "Kültür"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Burada 11 yaşına kadar litterator veya magister adı verilen ve genellikle Yunan kökenli olan bir öğretmenden temel okuma yazma, aritmetik ve bazen de Yunanca öğrenirlerdi.",
+    "triple": {
+      "baş": "Öğretmen",
+      "baş_tipi": "Kişi",
+      "ilişki": "öğretilen dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Roma İmparatorluğu'nun yazışma dili Latince olmakla birlikte Romalıların öğrendikleri edebiyatın büyük bölümü Yunanca kaleme alındığından iyi eğitimlilerin arasındaki konuşma dili Yunanca idi.",
+    "triple": {
+      "baş": "Romalıların öğrendikleri edebiyat",
+      "baş_tipi": "Eser",
+      "ilişki": "yazıldığı dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Roma İmparatorluğu'nun yazışma dili Latince olmakla birlikte Romalıların öğrendikleri edebiyatın büyük bölümü Yunanca kaleme alındığından iyi eğitimlilerin arasındaki konuşma dili Yunanca idi.",
+    "triple": {
+      "baş": "İyi eğitimliler",
+      "baş_tipi": "Kişi Grubu",
+      "ilişki": "konuşma dili",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Doğu imparatorluğunda Latince hiçbir zaman Yunancanın yerini alamadı ve I. Justinianus 'un ölümünden sonra Yunanca Doğu Roma İmparatorluğu 'nun resmî dili oldu.",
+    "triple": {
+      "baş": "Yunanca",
+      "baş_tipi": "Dil",
+      "ilişki": "resmi dil",
+      "uç": "Doğu Roma İmparatorluğu",
+      "uç_tipi": "Devlet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Roma İmparatorluğu'nun genişlemesiyle Latince Avrupa'da yayılmış ve zaman içinde Genel Latince farklı yerlerde evrim geçirerek ve lehçeleşerek farklı Latin dilleri haline gelmiştir.",
+    "triple": {
+      "baş": "Latince",
+      "baş_tipi": "Dil",
+      "ilişki": "yayılma alanı",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "İlahiyat , teoloji ( Yunanca : θεος, theos , \"Tanrı\" + λογος, logos , \"bilim\" ) veya tanrı bilimi , \" tanrı \" kavramı ve din olgusunun sistematik olarak ele alan disiplindir.",
+    "triple": {
+      "baş": "Teoloji",
+      "baş_tipi": "Disiplin",
+      "ilişki": "kökeni",
+      "uç": "θεος",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "İlahiyat , teoloji ( Yunanca : θεος, theos , \"Tanrı\" + λογος, logos , \"bilim\" ) veya tanrı bilimi , \" tanrı \" kavramı ve din olgusunun sistematik olarak ele alan disiplindir.",
+    "triple": {
+      "baş": "Teoloji",
+      "baş_tipi": "Disiplin",
+      "ilişki": "kökeni",
+      "uç": "λογος",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bunun yanında, tarih boyunca göçler vasıtasıyla yerleşmiş topluluklar arasında Yunanca , Ermenice ve İtalyanca da konuşulmuştur.",
+    "triple": {
+      "baş": "Topluluk",
+      "baş_tipi": "İnsan Grubu",
+      "ilişki": "konuşulan dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bunun yanında, tarih boyunca göçler vasıtasıyla yerleşmiş topluluklar arasında Yunanca , Ermenice ve İtalyanca da konuşulmuştur.",
+    "triple": {
+      "baş": "Topluluk",
+      "baş_tipi": "İnsan Grubu",
+      "ilişki": "konuşulan dil",
+      "uç": "Ermenice",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bunun yanında, tarih boyunca göçler vasıtasıyla yerleşmiş topluluklar arasında Yunanca , Ermenice ve İtalyanca da konuşulmuştur.",
+    "triple": {
+      "baş": "Topluluk",
+      "baş_tipi": "İnsan Grubu",
+      "ilişki": "konuşulan dil",
+      "uç": "İtalyanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Anestezi ( Yunanca yoksunluk öneki an- ve aesthētos , \"hissetmek\"), genellikle cerrahi müdahalelerden önce uygulanan, bedenin tümünün ya da belli bir bölümünün ağrıya duyarsız hâle gelmesini sağlayan işleme verilen addır.",
+    "triple": {
+      "baş": "Anestezi",
+      "baş_tipi": "Tıbbi Kavram",
+      "ilişki": "kökeni",
+      "uç": "an-",
+      "uç_tipi": "Yunanca Önek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Anestezi ( Yunanca yoksunluk öneki an- ve aesthētos , \"hissetmek\"), genellikle cerrahi müdahalelerden önce uygulanan, bedenin tümünün ya da belli bir bölümünün ağrıya duyarsız hâle gelmesini sağlayan işleme verilen addır.",
+    "triple": {
+      "baş": "Anestezi",
+      "baş_tipi": "Tıbbi Kavram",
+      "ilişki": "kökeni",
+      "uç": "aesthētos",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "[4. yüzyılda Kireneli Sinesios tarafından tanımlanan Yunanca ἄμβιξ, \"kupa\", \"beher\"] kelimesinden türetilmiştir] ).) gibi parfüm yapımına yönelik 107 yöntem ve tarif anlatılmıştır.",
+    "triple": {
+      "baş": "Parfüm yapımı",
+      "baş_tipi": "Uygulama",
+      "ilişki": "kökeni",
+      "uç": "ἄμβιξ",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bazıları, Yunanca ve Arapça gibi diğer dillerden Persler tarafından yazılmış eserlerin dahil edildiğini düşündüğünden, tüm Fars edebiyatı Farsça yazılmamıştır.",
+    "triple": {
+      "baş": "Fars edebiyatı",
+      "baş_tipi": "Edebiyat",
+      "ilişki": "yazıldığı dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Trakya ( Yunanca : Θρᾴκη, Thraki ; Bulgarca : Тракия, Trakiya ), Güneydoğu Avrupa 'da yer alan güney Bulgaristan , kuzeydoğu Yunanistan ve Türkiye 'nin Avrupa kıtasındaki topraklarını içeren bir bölgedir.",
+    "triple": {
+      "baş": "Trakya",
+      "baş_tipi": "Bölge",
+      "ilişki": "Yunanca adı",
+      "uç": "Θρᾴκη",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bizans İmparatorluğu, tarihinin çoğunda, Batı Avrupa'da bilinen şekliyle armacılığı bilmiyor ve kullanmıyordu. Haç veya labarum gibi motifler içeren çeşitli amblemler ( Yunanca : σημεία , sēmeia ; tekil σημείον, sēmeion ) resmî durumlarda ve askerî amaçlarla, sancak veya zırhlar üzerinde kullanılırdı.",
+    "triple": {
+      "baş": "Amblemler",
+      "baş_tipi": "Sembol",
+      "ilişki": "Yunanca adı",
+      "uç": "σημεία",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu adlandırma Yunan mitolojisinde aşk ve güzellik tanrıçası olan Aphrodite 'den gelir. Yunanca aphrodisiakon (ἀφροδισιακόν), \"Aphrodite'ye ait, Aprhodite'ye ilişkin\" manasındadır.",
+    "triple": {
+      "baş": "Adlandırma",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "aphrodisiakon",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Anadolu ( Grekçe : Ἀνατολή , romanize: Anatolḗ ), Anadolu Yarımadası ( Yunanca : Χερσόνησος τῆς Ἀνατολίας , Chersónisos tis Anatolías ) veya coğrafi olarak Asya Kıtası 'nın tüm özelliklerini içerdiğinden Küçük Asya ( Yunanca : Μικρά Ἀσία , Mikrá Asía ), Asya kıtasının en batısında Karadeniz , Akdeniz ve Ege denizi arasında kalan yaklaşık 537.000 km²'lik bir alanı kaplayan dağlık bir yarımadadır .",
+    "triple": {
+      "baş": "Anadolu",
+      "baş_tipi": "Yarımada",
+      "ilişki": "Yunanca adı",
+      "uç": "Ἀνατολή",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Anadolu ( Grekçe : Ἀνατολή , romanize: Anatolḗ ), Anadolu Yarımadası ( Yunanca : Χερσόνησος τῆς Ἀνατολίας , Chersónisos tis Anatolías ) veya coğrafi olarak Asya Kıtası 'nın tüm özelliklerini içerdiğinden Küçük Asya ( Yunanca : Μικρά Ἀσία , Mikrá Asía ), Asya kıtasının en batısında Karadeniz , Akdeniz ve Ege denizi arasında kalan yaklaşık 537.000 km²'lik bir alanı kaplayan dağlık bir yarımadadır .",
+    "triple": {
+      "baş": "Anadolu Yarımadası",
+      "baş_tipi": "Yarımada",
+      "ilişki": "Yunanca adı",
+      "uç": "Χερσόνησος τῆς Ἀνατολίας",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Anadolu ( Grekçe : Ἀνατολή , romanize: Anatolḗ ), Anadolu Yarımadası ( Yunanca : Χερσόνησος τῆς Ἀνατολίας , Chersónisos tis Anatolías ) veya coğrafi olarak Asya Kıtası 'nın tüm özelliklerini içerdiğinden Küçük Asya ( Yunanca : Μικρά Ἀσία , Mikrá Asía ), Asya kıtasının en batısında Karadeniz , Akdeniz ve Ege denizi arasında kalan yaklaşık 537.000 km²'lik bir alanı kaplayan dağlık bir yarımadadır .",
+    "triple": {
+      "baş": "Küçük Asya",
+      "baş_tipi": "Bölge",
+      "ilişki": "Yunanca adı",
+      "uç": "Μικρά Ἀσία",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Anadolu sözcüğü Yunanca doğu veya gündoğumu anlamına gelen Ἀνατολή sözcüğünden türemiştir.",
+    "triple": {
+      "baş": "Anadolu",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Ἀνατολή",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bizans İmparatorluğu döneminde orta Anadolu'nun bir kısmı imparatorluğun merkezine doğuda olmasından kaynaklı doğu askeri idari birimi ya da Anatolikon Theması (Θέμα τῶν Άνατολικῶν, Thema tōn Anatolikōn) olarak adlandırılmaktaydı.",
+    "triple": {
+      "baş": "Anatolikon Theması",
+      "baş_tipi": "İdari Birim",
+      "ilişki": "Yunanca adı",
+      "uç": "Θέμα τῶν Άνατολικῶν",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Şyung-nu#112: Örneğin Bizans İmparatoru VII. Konstantin , De Administrando Imperio kitabında Tourkia ( Yunanca : Τουρκία ) kelimesini Türkleri tanımlamak yerine Macar halklarını tanımlamak için kullanmıştır.",
+    "triple": {
+      "baş": "Tourkia",
+      "baş_tipi": "Kelime",
+      "ilişki": "Yunanca adı",
+      "uç": "Τουρκία",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Erken İslam tarihi ve Muhammed, tümü MS 633 ve sonrasına tarihlenen ve Yahudi ve Hristiyan topluluklar tarafından Yunanca , Süryanice , Ermenice ve İbranice yazılmış kaynaklara da yansımıştır.",
+    "triple": {
+      "baş": "Kaynak",
+      "baş_tipi": "Belge",
+      "ilişki": "yazıldığı dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Muhammed'in ölümünden iki yıl sonra, MS 634 yılında yazıldığı düşünülen Yakup'un Öğretisi (\"Doctrina Jacobi\") isimli Yunanca eserde Candidatus adındaki birinin ölüm haberinin geldiği ve Arabistan 'da yeni bir peygamberin ortaya çıktığı kaydedilmiştir.",
+    "triple": {
+      "baş": "Yakup'un Öğretisi",
+      "baş_tipi": "Eser",
+      "ilişki": "yazıldığı dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Resmî olarak, Sasani İmparatorluğu \"İranlıların imparatorluğu\" ( Orta Farsça : 𐭠𐭩𐭥𐭠𐭭𐭱𐭲𐭥𐭩 Ērānšahr; Partça: 𐭀𐭓𐭉𐭀𐭍𐭇𐭔𐭕𐭓 Aryānxšahr; Yunanca : Ἀριανῶν ἔθνος Arianōn Ethnos) olarak biliniyordu.",
+    "triple": {
+      "baş": "Sasani İmparatorluğu",
+      "baş_tipi": "İmparatorluk",
+      "ilişki": "Yunanca adı",
+      "uç": "Ἀριανῶν ἔθνος",
+      "uç_tipi": "Yunanca Terim"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Emevi yönetimi altında resmîleşen Arapça , Bizans dönemindeki Yunanca ve Aramice 'nin yerini alarak baskın dil hâline geldi.",
+    "triple": {
+      "baş": "Arapça",
+      "baş_tipi": "Dil",
+      "ilişki": "yerini aldı",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "The Encyclopedia of Arabic Language and Linguistics 'e göre, ülkede Arapçanın yanı sıra, konuşmacı sayısına göre sırayla şu diller de konuşulmaktadır: Kürtçe , Türkçe , Neo-Aramice (dört lehçe), Çerkesçe , Çeçence , Ermenice ve son olarak Yunanca .",
+    "triple": {
+      "baş": "Ülke",
+      "baş_tipi": "Yer",
+      "ilişki": "konuşulan dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Sözcük 'birleşme', 'oluşma', 'bir araya gelme' anlamını taşıyan Latince \"Systēma\" ve Yunanca yerleşme, konumlanma birleşme, bir arada duruş manalarını içeren “Sustēma” (σύστημα) kelimelerinden türemiştir.",
+    "triple": {
+      "baş": "Sözcük",
+      "baş_tipi": "Dil Birimi",
+      "ilişki": "kökeni",
+      "uç": "Sustēma",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Termodinamik kavramı Yunanca Yunanca: thermos (ısı) ve Yunanca: dynamic (enerji) kelimelerinden türetilmiştir.",
+    "triple": {
+      "baş": "Termodinamik",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "kökeni",
+      "uç": "thermos",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Termodinamik kavramı Yunanca Yunanca: thermos (ısı) ve Yunanca: dynamic (enerji) kelimelerinden türetilmiştir.",
+    "triple": {
+      "baş": "Termodinamik",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "kökeni",
+      "uç": "dynamic",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Metal ( Latince : metallum , Yunanca : μέταλλον metallon ), yüksek elektrik ve ısı iletkenliği, kendine özgü parlaklığı olan, şekillendirmeye yatkın, katyon oluşturma eğilimi yüksek, oksijenle birleşerek çoğunlukla bazik oksitler veren elementlerdir .",
+    "triple": {
+      "baş": "Metal",
+      "baş_tipi": "Element Sınıfı",
+      "ilişki": "Yunanca adı",
+      "uç": "μέταλλον",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Poli , Yunanca 'da çok anlamında kullanılmaktadır.",
+    "triple": {
+      "baş": "Poli",
+      "baş_tipi": "Önek",
+      "ilişki": "anlamı",
+      "uç": "çok",
+      "uç_tipi": "Anlam"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Poli , Yunanca 'da çok anlamında kullanılmaktadır.",
+    "triple": {
+      "baş": "Poli",
+      "baş_tipi": "Önek",
+      "ilişki": "kullanıldığı dil",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "16. yüzyılda simyacı Paracelsus Aurum Potabile ( Latince : içilebilir altın) yapmıştır.",
+    "triple": {
+      "baş": "Aurum Potabile",
+      "baş_tipi": "İksir",
+      "ilişki": "Latince adı",
+      "uç": "içilebilir altın",
+      "uç_tipi": "Anlam"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "1842'de John Herschel kolloidal altın kullanılarak resimlerin kağıt üzerine kaydedildiği Chrysotype ( Yunanca altın sözcüğünden türetme) adlı bir fotoğrafçılık işlemi icat etmiştir.",
+    "triple": {
+      "baş": "Chrysotype",
+      "baş_tipi": "Fotoğrafçılık İşlemi",
+      "ilişki": "kökeni",
+      "uç": "altın",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "İbranice'de, Tora'nın beş kitabı, her kitaptaki işaretlerle tanımlanır: kitapların temel temasını yansıtan İngilizce isimleri Yunanca Septuagint'ten türetilmiştir",
+    "triple": {
+      "baş": "İngilizce isimler",
+      "baş_tipi": "İsim",
+      "ilişki": "kökeni",
+      "uç": "Septuagint",
+      "uç_tipi": "Yunanca Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Mitokondri , hücre organellerinden biridir. Yunanca mitos ( iplik ) ve khondrion ( tane ) sözcüklerinden türetilmiştir.",
+    "triple": {
+      "baş": "Mitokondri",
+      "baş_tipi": "Hücre Organeli",
+      "ilişki": "kökeni",
+      "uç": "mitos",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Mitokondri , hücre organellerinden biridir. Yunanca mitos ( iplik ) ve khondrion ( tane ) sözcüklerinden türetilmiştir.",
+    "triple": {
+      "baş": "Mitokondri",
+      "baş_tipi": "Hücre Organeli",
+      "ilişki": "kökeni",
+      "uç": "khondrion",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Fotosentez sözcüğü, Yunanca phōs (ışık) ve sentez (bir araya getirmek) sözcüklerinin bir araya getirilmesi ile oluşturulmuştur.",
+    "triple": {
+      "baş": "Fotosentez",
+      "baş_tipi": "Biyolojik Kavram",
+      "ilişki": "kökeni",
+      "uç": "phōs",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Fotosentez sözcüğü, Yunanca phōs (ışık) ve sentez (bir araya getirmek) sözcüklerinin bir araya getirilmesi ile oluşturulmuştur.",
+    "triple": {
+      "baş": "Fotosentez",
+      "baş_tipi": "Biyolojik Kavram",
+      "ilişki": "kökeni",
+      "uç": "sentez",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Organizme ise Yunanca kökenli olup araç veya düzenek anlamındaki ὄργανον ( organon ) sözcüğünden türetilmiştir.",
+    "triple": {
+      "baş": "Organizme",
+      "baş_tipi": "Biyolojik Kavram",
+      "ilişki": "kökeni",
+      "uç": "ὄργανον",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Adı, bakterinin renginden gelir. ( Yunanca : κυανός [kyanós]; \"mavi\" demektir.) Denizdeki azot çevriminin önemli bir bileşeni ve okyanusun pek çok yerinde özbesilenendir .",
+    "triple": {
+      "baş": "Bakteri Adı",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "κυανός",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Enerji kelimesi, Yunanca energeia(ἐνέργεια) kelimesinden gelir.",
+    "triple": {
+      "baş": "Enerji",
+      "baş_tipi": "Fiziksel Kavram",
+      "ilişki": "kökeni",
+      "uç": "energeia",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Klorofil ( Yunanca [χλωρός] chlorós: yeşil ve φύλλον phýllon: yaprak), çeşitli dalga boylarındaki ışıkları emerek bitkide fotosentez (özümleme) olayının meydana gelmesine sebep olan, yeşil renkli bir biyolojik pigment (renk verici madde).",
+    "triple": {
+      "baş": "Klorofil",
+      "baş_tipi": "Biyolojik Pigment",
+      "ilişki": "kökeni",
+      "uç": "chlorós",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Klorofil ( Yunanca [χλωρός] chlorós: yeşil ve φύλλον phýllon: yaprak), çeşitli dalga boylarındaki ışıkları emerek bitkide fotosentez (özümleme) olayının meydana gelmesine sebep olan, yeşil renkli bir biyolojik pigment (renk verici madde).",
+    "triple": {
+      "baş": "Klorofil",
+      "baş_tipi": "Biyolojik Pigment",
+      "ilişki": "kökeni",
+      "uç": "phýllon",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Türkçeye , Fransızca paradoxe sözcüğünden türeyerek giren paradoks sözcüğünün, etimolojik anlamda kökeni Yunanca paradoksos yani \"karşıt-çelişen (düşünce)\"dir.",
+    "triple": {
+      "baş": "Paradoks",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "paradoksos",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Paradokson , paradoks (karşıt düşünce) içeren iddia anlamındadır. (Yunanca para : Yan(ında), boyunca; üzerinden, dışa; karşı.",
+    "triple": {
+      "baş": "Paradokson",
+      "baş_tipi": "Kavram",
+      "ilişki": "anlamı",
+      "uç": "iddia",
+      "uç_tipi": "Tanım"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Paradokson , paradoks (karşıt düşünce) içeren iddia anlamındadır. (Yunanca para : Yan(ında), boyunca; üzerinden, dışa; karşı.",
+    "triple": {
+      "baş": "Paradoks",
+      "baş_tipi": "Kavram",
+      "ilişki": "anlamı",
+      "uç": "karşıt düşünce",
+      "uç_tipi": "Anlam"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "(Yunanca para : Yan(ında), boyunca; üzerinden, dışa; karşı.",
+    "triple": {
+      "baş": "para",
+      "baş_tipi": "Yunanca Kelime",
+      "ilişki": "anlamı",
+      "uç": "Yan(ında)",
+      "uç_tipi": "Anlam"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Fi ( Φ φ ) ( Yunanca : Φι , Fi ), Yunan alfabesinin yirmibirinci harfidir.",
+    "triple": {
+      "baş": "Fi",
+      "baş_tipi": "Harf",
+      "ilişki": "Yunanca adı",
+      "uç": "Φι",
+      "uç_tipi": "Yunanca Kelime"
+    }
+  }
+]

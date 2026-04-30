@@ -1,0 +1,3850 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/David_Hill_(yap%C4%B1mc%C4%B1))",
+    "metin": "88. Akademi Ödülleri#3: Ödül töreni David Hill ve Reginald Hudlin 'in yapımcılığında ABD'de ABC tarafından yayınlanmıştır.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "yapımcı",
+      "uç": "David Hill",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/David_Hill_(yap%C4%B1mc%C4%B1))",
+    "metin": "88. Akademi Ödülleri#3: Ödül töreni David Hill ve Reginald Hudlin 'in yapımcılığında ABD'de ABC tarafından yayınlanmıştır.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "yapımcı",
+      "uç": "Reginald Hudlin",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/David_Hill_(yap%C4%B1mc%C4%B1))",
+    "metin": "88. Akademi Ödülleri#3: Ödül töreni David Hill ve Reginald Hudlin 'in yapımcılığında ABD'de ABC tarafından yayınlanmıştır.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "yayıncı",
+      "uç": "ABC",
+      "uç_tipi": "Yayıncı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/David_Hill_(yap%C4%B1mc%C4%B1))",
+    "metin": "88. Akademi Ödülleri#3: Ödül töreni David Hill ve Reginald Hudlin 'in yapımcılığında ABD'de ABC tarafından yayınlanmıştır.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "konum",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Reginald_Hudlin)",
+    "metin": "88. Akademi Ödülleri#3: Ödül töreni David Hill ve Reginald Hudlin 'in yapımcılığında ABD'de ABC tarafından yayınlanmıştır.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "yapımcı",
+      "uç": "David Hill",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Reginald_Hudlin)",
+    "metin": "88. Akademi Ödülleri#3: Ödül töreni David Hill ve Reginald Hudlin 'in yapımcılığında ABD'de ABC tarafından yayınlanmıştır.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "yapımcı",
+      "uç": "Reginald Hudlin",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Reginald_Hudlin)",
+    "metin": "88. Akademi Ödülleri#3: Ödül töreni David Hill ve Reginald Hudlin 'in yapımcılığında ABD'de ABC tarafından yayınlanmıştır.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "yayıncı",
+      "uç": "ABC",
+      "uç_tipi": "Yayıncı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Reginald_Hudlin)",
+    "metin": "88. Akademi Ödülleri#3: Ödül töreni David Hill ve Reginald Hudlin 'in yapımcılığında ABD'de ABC tarafından yayınlanmıştır.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "konum",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Chris_Rock)",
+    "metin": "Ayrıca sosyal medya kullanıcıları #OscarsSoWhite (Oscar çok beyaz) etiketiyle bu durumu protesto etti.",
+    "triple": {
+      "baş": "sosyal medya kullanıcıları",
+      "baş_tipi": "Kişi",
+      "ilişki": "kullandı",
+      "uç": "#OscarsSoWhite",
+      "uç_tipi": "Etiket"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Chris_Rock)",
+    "metin": "Ayrıca 88. Akademi Ödülleri 'nde sunuculuk yapan Chris Rock , konuşmasında \"Beyaz insanların ödül töreni olarak da bildiğiniz tören başladı.\" ifadelerini kullanmıştır.",
+    "triple": {
+      "baş": "Chris Rock",
+      "baş_tipi": "Kişi",
+      "ilişki": "sunuculuk yaptı",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Chris_Rock)",
+    "metin": "Ayrıca 88. Akademi Ödülleri 'nde sunuculuk yapan Chris Rock , konuşmasında \"Beyaz insanların ödül töreni olarak da bildiğiniz tören başladı.\" ifadelerini kullanmıştır.",
+    "triple": {
+      "baş": "Chris Rock",
+      "baş_tipi": "Kişi",
+      "ilişki": "söyledi",
+      "uç": "Beyaz insanların ödül töreni olarak da bildiğiniz tören başladı.",
+      "uç_tipi": "Alıntı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Chris_Rock)",
+    "metin": "88. Akademi Ödülleri#4: Oyuncu Chris Rock 2005'teki 77. Akademi Ödülleri 'nden sonra ikinci defa bu ödül törenini sunmuştur.",
+    "triple": {
+      "baş": "Chris Rock",
+      "baş_tipi": "Kişi",
+      "ilişki": "sunuculuk yaptı",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Chris_Rock)",
+    "metin": "88. Akademi Ödülleri#4: Oyuncu Chris Rock 2005'teki 77. Akademi Ödülleri 'nden sonra ikinci defa bu ödül törenini sunmuştur.",
+    "triple": {
+      "baş": "Chris Rock",
+      "baş_tipi": "Kişi",
+      "ilişki": "sunuculuk yaptı",
+      "uç": "77. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/77._Akademi_%C3%96d%C3%BClleri)",
+    "metin": "88. Akademi Ödülleri#4: Oyuncu Chris Rock 2005'teki 77. Akademi Ödülleri 'nden sonra ikinci defa bu ödül törenini sunmuştur.",
+    "triple": {
+      "baş": "Chris Rock",
+      "baş_tipi": "Kişi",
+      "ilişki": "sunmuştur",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/77._Akademi_%C3%96d%C3%BClleri)",
+    "metin": "88. Akademi Ödülleri#4: Oyuncu Chris Rock 2005'teki 77. Akademi Ödülleri 'nden sonra ikinci defa bu ödül törenini sunmuştur.",
+    "triple": {
+      "baş": "Chris Rock",
+      "baş_tipi": "Kişi",
+      "ilişki": "sunmuştur",
+      "uç": "77. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/77._Akademi_%C3%96d%C3%BClleri)",
+    "metin": "88. Akademi Ödülleri#4: Oyuncu Chris Rock 2005'teki 77. Akademi Ödülleri 'nden sonra ikinci defa bu ödül törenini sunmuştur.",
+    "triple": {
+      "baş": "Chris Rock",
+      "baş_tipi": "Kişi",
+      "ilişki": "sunucu olduğu yıl",
+      "uç": "2005",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/77._Akademi_%C3%96d%C3%BClleri)",
+    "metin": "88. Akademi Ödülleri#4: Oyuncu Chris Rock 2005'teki 77. Akademi Ödülleri 'nden sonra ikinci defa bu ödül törenini sunmuştur.",
+    "triple": {
+      "baş": "Chris Rock",
+      "baş_tipi": "Kişi",
+      "ilişki": "sunucu olduğu yıl",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/American_Broadcasting_Company)",
+    "metin": "Programları, 1973 yılında ABC 'ye geçmiş, 1975 yılında da PBS kanalına geçmiştir. 1997 yılında da özerk televizyonuna sahip olmuştur.",
+    "triple": {
+      "baş": "Programları",
+      "baş_tipi": "Program",
+      "ilişki": "geçti",
+      "uç": "ABC",
+      "uç_tipi": "Kanal"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/American_Broadcasting_Company)",
+    "metin": "Programları, 1973 yılında ABC 'ye geçmiş, 1975 yılında da PBS kanalına geçmiştir. 1997 yılında da özerk televizyonuna sahip olmuştur.",
+    "triple": {
+      "baş": "Programları",
+      "baş_tipi": "Program",
+      "ilişki": "geçti",
+      "uç": "PBS",
+      "uç_tipi": "Kanal"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/American_Broadcasting_Company)",
+    "metin": "Programları, 1973 yılında ABC 'ye geçmiş, 1975 yılında da PBS kanalına geçmiştir. 1997 yılında da özerk televizyonuna sahip olmuştur.",
+    "triple": {
+      "baş": "Programları",
+      "baş_tipi": "Program",
+      "ilişki": "sahip oldu",
+      "uç": "özerk televizyon",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/American_Broadcasting_Company)",
+    "metin": "88. Akademi Ödülleri#3: Ödül töreni David Hill ve Reginald Hudlin 'in yapımcılığında ABD'de ABC tarafından yayınlanmıştır.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "yapımcılığını üstlendi",
+      "uç": "David Hill",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/American_Broadcasting_Company)",
+    "metin": "88. Akademi Ödülleri#3: Ödül töreni David Hill ve Reginald Hudlin 'in yapımcılığında ABD'de ABC tarafından yayınlanmıştır.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "yapımcılığını üstlendi",
+      "uç": "Reginald Hudlin",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/American_Broadcasting_Company)",
+    "metin": "88. Akademi Ödülleri#3: Ödül töreni David Hill ve Reginald Hudlin 'in yapımcılığında ABD'de ABC tarafından yayınlanmıştır.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "yayınlandı",
+      "uç": "ABC",
+      "uç_tipi": "Kanal"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/American_Broadcasting_Company)",
+    "metin": "88. Akademi Ödülleri#3: Ödül töreni David Hill ve Reginald Hudlin 'in yapımcılığında ABD'de ABC tarafından yayınlanmıştır.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "konum",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "verildiği yer",
+      "uç": "Dolby Theatre",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "verildiği tarih",
+      "uç": "28 Şubat 2016",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "düzenleyen kurum",
+      "uç": "Sinema Sanatları ve Bilimleri Akademisi",
+      "uç_tipi": "Kurum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "ödül verilen yıl",
+      "uç": "2015",
+      "uç_tipi": "Yıl"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Dolby Theatre",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunduğu yer",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunduğu yer",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dolby_Tiyatrosu)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "verildiği yer",
+      "uç": "Dolby Theatre",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dolby_Tiyatrosu)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "verildiği tarih",
+      "uç": "28 Şubat 2016",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dolby_Tiyatrosu)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "düzenleyen kurum",
+      "uç": "Sinema Sanatları ve Bilimleri Akademisi",
+      "uç_tipi": "Kurum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dolby_Tiyatrosu)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "ödül verilen yıl",
+      "uç": "2015",
+      "uç_tipi": "Yıl"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dolby_Tiyatrosu)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Dolby Theatre",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunduğu yer",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dolby_Tiyatrosu)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunduğu yer",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dirili%C5%9F_(film))",
+    "metin": "88. Akademi Ödülleri#6: Diriliş 12 adaylık ile en fazla adaylık elde eden film olurken Mad Max: Fury Road onu 10 adaylıkla takip etti.",
+    "triple": {
+      "baş": "Diriliş",
+      "baş_tipi": "Film",
+      "ilişki": "adaylık sayısı",
+      "uç": "12",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dirili%C5%9F_(film))",
+    "metin": "88. Akademi Ödülleri#6: Diriliş 12 adaylık ile en fazla adaylık elde eden film olurken Mad Max: Fury Road onu 10 adaylıkla takip etti.",
+    "triple": {
+      "baş": "Mad Max: Fury Road",
+      "baş_tipi": "Film",
+      "ilişki": "adaylık sayısı",
+      "uç": "10",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dirili%C5%9F_(film))",
+    "metin": "Alejandro González Iñárritu art arda ikinci defa en fazla adaylık elde eden bir filme yönetmenlik yapmış oldu.",
+    "triple": {
+      "baş": "Alejandro González Iñárritu",
+      "baş_tipi": "Kişi",
+      "ilişki": "yönetmenlik yaptı",
+      "uç": "Diriliş",
+      "uç_tipi": "Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dirili%C5%9F_(film))",
+    "metin": "Alejandro González Iñárritu art arda ikinci defa en fazla adaylık elde eden bir filme yönetmenlik yapmış oldu.",
+    "triple": {
+      "baş": "Alejandro González Iñárritu",
+      "baş_tipi": "Kişi",
+      "ilişki": "art arda ikinci kez yönetmenlik yaptı",
+      "uç": "en fazla adaylık elde eden film",
+      "uç_tipi": "Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dirili%C5%9F_(film))",
+    "metin": "Ayrıca En İyi Yönetmen ödülünü art arda ikinci defa kazandı ve böylece son üç En İyi Yönetmen Akademi Ödülü bir Meksikalı'ya gitmiş oldu.",
+    "triple": {
+      "baş": "Alejandro González Iñárritu",
+      "baş_tipi": "Kişi",
+      "ilişki": "kazandı",
+      "uç": "En İyi Yönetmen ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dirili%C5%9F_(film))",
+    "metin": "Ayrıca En İyi Yönetmen ödülünü art arda ikinci defa kazandı ve böylece son üç En İyi Yönetmen Akademi Ödülü bir Meksikalı'ya gitmiş oldu.",
+    "triple": {
+      "baş": "Alejandro González Iñárritu",
+      "baş_tipi": "Kişi",
+      "ilişki": "art arda ikinci kez kazandı",
+      "uç": "En İyi Yönetmen ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dirili%C5%9F_(film))",
+    "metin": "Ayrıca En İyi Yönetmen ödülünü art arda ikinci defa kazandı ve böylece son üç En İyi Yönetmen Akademi Ödülü bir Meksikalı'ya gitmiş oldu.",
+    "triple": {
+      "baş": "En İyi Yönetmen Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "kazanan uyruk",
+      "uç": "Meksikalı",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dirili%C5%9F_(film))",
+    "metin": "Ayrıca bu daldaki son altı ödülde Amerikalı olmayan bir yönetmene gitmiş oldu.",
+    "triple": {
+      "baş": "En İyi Yönetmen Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "kazanan uyruk",
+      "uç": "Amerikalı olmayan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_Sanatlar%C4%B1_ve_Bilimleri_Akademisi)",
+    "metin": "Ödüller, Kaliforniya merkezli Sinema Sanatları ve Bilimleri Akademisi ( Academy of Motion Picture Arts and Sciences ) tarafından yılda bir kez verilir.",
+    "triple": {
+      "baş": "Sinema Sanatları ve Bilimleri Akademisi",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "merkez",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_Sanatlar%C4%B1_ve_Bilimleri_Akademisi)",
+    "metin": "Ödüller, Kaliforniya merkezli Sinema Sanatları ve Bilimleri Akademisi ( Academy of Motion Picture Arts and Sciences ) tarafından yılda bir kez verilir.",
+    "triple": {
+      "baş": "Sinema Sanatları ve Bilimleri Akademisi",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "verir",
+      "uç": "Ödüller",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_Sanatlar%C4%B1_ve_Bilimleri_Akademisi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "verildiği yer",
+      "uç": "Dolby Theatre",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_Sanatlar%C4%B1_ve_Bilimleri_Akademisi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "verildiği tarih",
+      "uç": "28 Şubat 2016",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_Sanatlar%C4%B1_ve_Bilimleri_Akademisi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "verildiği saat",
+      "uç": "17:30 / 20:30",
+      "uç_tipi": "Saat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_Sanatlar%C4%B1_ve_Bilimleri_Akademisi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "verildiği yer",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_Sanatlar%C4%B1_ve_Bilimleri_Akademisi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "verildiği yer",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_Sanatlar%C4%B1_ve_Bilimleri_Akademisi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Sinema Sanatları ve Bilimleri Akademisi",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "verir",
+      "uç": "88. Akademi Ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_Sanatlar%C4%B1_ve_Bilimleri_Akademisi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "ödüllendirilen",
+      "uç": "2015'in en iyi filmleri",
+      "uç_tipi": "Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "verildiği yer",
+      "uç": "Dolby Theatre",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "verildiği tarih",
+      "uç": "28 Şubat 2016",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "verildiği saat (Pasifik)",
+      "uç": "17:30",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "verildiği saat (Doğu)",
+      "uç": "20:30",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "düzenleyen organizasyon",
+      "uç": "Sinema Sanatları ve Bilimleri Akademisi",
+      "uç_tipi": "Organizasyon"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "ödül verilen yıl",
+      "uç": "2015",
+      "uç_tipi": "Yıl"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Dolby Theatre",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunduğu yer",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Do%C4%9Fu_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunduğu yer",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mad_Max:_Fury_Road)",
+    "metin": "88. Akademi Ödülleri#6: Diriliş 12 adaylık ile en fazla adaylık elde eden film olurken Mad Max: Fury Road onu 10 adaylıkla takip etti.",
+    "triple": {
+      "baş": "Diriliş",
+      "baş_tipi": "Film",
+      "ilişki": "adaylık sayısı",
+      "uç": "12",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mad_Max:_Fury_Road)",
+    "metin": "88. Akademi Ödülleri#6: Diriliş 12 adaylık ile en fazla adaylık elde eden film olurken Mad Max: Fury Road onu 10 adaylıkla takip etti.",
+    "triple": {
+      "baş": "Mad Max: Fury Road",
+      "baş_tipi": "Film",
+      "ilişki": "adaylık sayısı",
+      "uç": "10",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mad_Max:_Fury_Road)",
+    "metin": "Alejandro González Iñárritu art arda ikinci defa en fazla adaylık elde eden bir filme yönetmenlik yapmış oldu.",
+    "triple": {
+      "baş": "Alejandro González Iñárritu",
+      "baş_tipi": "Kişi",
+      "ilişki": "yönetmenlik yaptı",
+      "uç": "Diriliş",
+      "uç_tipi": "Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mad_Max:_Fury_Road)",
+    "metin": "Alejandro González Iñárritu art arda ikinci defa en fazla adaylık elde eden bir filme yönetmenlik yapmış oldu.",
+    "triple": {
+      "baş": "Alejandro González Iñárritu",
+      "baş_tipi": "Kişi",
+      "ilişki": "art arda ikinci kez yönetmenlik yaptı",
+      "uç": "en fazla adaylık elde eden film",
+      "uç_tipi": "Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mad_Max:_Fury_Road)",
+    "metin": "Ayrıca En İyi Yönetmen ödülünü art arda ikinci defa kazandı ve böylece son üç En İyi Yönetmen Akademi Ödülü bir Meksikalı'ya gitmiş oldu.",
+    "triple": {
+      "baş": "Alejandro González Iñárritu",
+      "baş_tipi": "Kişi",
+      "ilişki": "kazandı",
+      "uç": "En İyi Yönetmen ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mad_Max:_Fury_Road)",
+    "metin": "Ayrıca En İyi Yönetmen ödülünü art arda ikinci defa kazandı ve böylece son üç En İyi Yönetmen Akademi Ödülü bir Meksikalı'ya gitmiş oldu.",
+    "triple": {
+      "baş": "Alejandro González Iñárritu",
+      "baş_tipi": "Kişi",
+      "ilişki": "art arda ikinci kez kazandı",
+      "uç": "En İyi Yönetmen ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mad_Max:_Fury_Road)",
+    "metin": "Ayrıca En İyi Yönetmen ödülünü art arda ikinci defa kazandı ve böylece son üç En İyi Yönetmen Akademi Ödülü bir Meksikalı'ya gitmiş oldu.",
+    "triple": {
+      "baş": "En İyi Yönetmen Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "kazanan",
+      "uç": "Meksikalı",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mad_Max:_Fury_Road)",
+    "metin": "Ayrıca bu daldaki son altı ödülde Amerikalı olmayan bir yönetmene gitmiş oldu.",
+    "triple": {
+      "baş": "En İyi Yönetmen Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "kazanan",
+      "uç": "Amerikalı olmayan yönetmen",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ang_Lee)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "adayları açıklandı",
+      "uç": "Guillermo del Toro",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ang_Lee)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "adayları açıklandı",
+      "uç": "Ang Lee",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ang_Lee)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Guillermo del Toro",
+      "baş_tipi": "Kişi",
+      "ilişki": "aday gösterildi",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ang_Lee)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Ang Lee",
+      "baş_tipi": "Kişi",
+      "ilişki": "aday gösterildi",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ang_Lee)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Cheryl Boone Isaacs",
+      "baş_tipi": "Kişi",
+      "ilişki": "açıkladı",
+      "uç": "88. Akademi Ödülleri adayları",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ang_Lee)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "John Krasinski",
+      "baş_tipi": "Kişi",
+      "ilişki": "açıkladı",
+      "uç": "88. Akademi Ödülleri adayları",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ang_Lee)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri adayları",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklandı",
+      "uç": "14 Ocak 2016",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ang_Lee)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri adayları",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklandı",
+      "uç": "Samuel Goldwyn Theater",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ang_Lee)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Samuel Goldwyn Theater",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunur",
+      "uç": "Beverly Hills",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ang_Lee)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Beverly Hills",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ang_Lee)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Cheryl Boone Isaacs",
+      "baş_tipi": "Kişi",
+      "ilişki": "görevi",
+      "uç": "Akademi başkanı",
+      "uç_tipi": "Unvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Emmanuel_Lubezki)",
+    "metin": "88. Akademi Ödülleri#7: Ennio Morricone kazandığı ödülle en yaşlı Akademi ödülü kazananı olurken, Emmanuel Lubezki En İyi Sinematografi ödülünü art arda 3 kere kazanan ilk kişi oldu.",
+    "triple": {
+      "baş": "Ennio Morricone",
+      "baş_tipi": "Kişi",
+      "ilişki": "kazandı",
+      "uç": "Akademi Ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Emmanuel_Lubezki)",
+    "metin": "88. Akademi Ödülleri#7: Ennio Morricone kazandığı ödülle en yaşlı Akademi ödülü kazananı olurken, Emmanuel Lubezki En İyi Sinematografi ödülünü art arda 3 kere kazanan ilk kişi oldu.",
+    "triple": {
+      "baş": "Ennio Morricone",
+      "baş_tipi": "Kişi",
+      "ilişki": "oldu",
+      "uç": "en yaşlı Akademi ödülü kazananı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Emmanuel_Lubezki)",
+    "metin": "88. Akademi Ödülleri#7: Ennio Morricone kazandığı ödülle en yaşlı Akademi ödülü kazananı olurken, Emmanuel Lubezki En İyi Sinematografi ödülünü art arda 3 kere kazanan ilk kişi oldu.",
+    "triple": {
+      "baş": "Emmanuel Lubezki",
+      "baş_tipi": "Kişi",
+      "ilişki": "kazandı",
+      "uç": "En İyi Sinematografi ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Emmanuel_Lubezki)",
+    "metin": "88. Akademi Ödülleri#7: Ennio Morricone kazandığı ödülle en yaşlı Akademi ödülü kazananı olurken, Emmanuel Lubezki En İyi Sinematografi ödülünü art arda 3 kere kazanan ilk kişi oldu.",
+    "triple": {
+      "baş": "Emmanuel Lubezki",
+      "baş_tipi": "Kişi",
+      "ilişki": "oldu",
+      "uç": "art arda 3 kere En İyi Sinematografi ödülünü kazanan ilk kişi",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Müziğiyle üç Akademi Ödülü ve dört Altın Küre kazanan Giorgio Moroder gibi yapımcılar elektronik dans müziği 'nin gelişmesinde etkili oldular.",
+    "triple": {
+      "baş": "Giorgio Moroder",
+      "baş_tipi": "Kişi",
+      "ilişki": "kazandı",
+      "uç": "Akademi Ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Müziğiyle üç Akademi Ödülü ve dört Altın Küre kazanan Giorgio Moroder gibi yapımcılar elektronik dans müziği 'nin gelişmesinde etkili oldular.",
+    "triple": {
+      "baş": "Giorgio Moroder",
+      "baş_tipi": "Kişi",
+      "ilişki": "kazandı",
+      "uç": "Altın Küre",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Müziğiyle üç Akademi Ödülü ve dört Altın Küre kazanan Giorgio Moroder gibi yapımcılar elektronik dans müziği 'nin gelişmesinde etkili oldular.",
+    "triple": {
+      "baş": "Giorgio Moroder",
+      "baş_tipi": "Kişi",
+      "ilişki": "etkili oldu",
+      "uç": "elektronik dans müziği",
+      "uç_tipi": "Müzik Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Dalí, ressamlığın yanı sıra heykelcilik , fotoğrafçılık ve filmcilikle de ilgilenmiş, Amerikan animasyoncu Walt Disney ile beraber yaptığı Destino adlı kısa çizgi film, 2003'te \"en iyi kısa animasyon filmi\" dalında Akademi Ödülü adayı olmuştur.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "ilgilenmiş",
+      "uç": "ressamlık",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Dalí, ressamlığın yanı sıra heykelcilik , fotoğrafçılık ve filmcilikle de ilgilenmiş, Amerikan animasyoncu Walt Disney ile beraber yaptığı Destino adlı kısa çizgi film, 2003'te \"en iyi kısa animasyon filmi\" dalında Akademi Ödülü adayı olmuştur.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "ilgilenmiş",
+      "uç": "heykelcilik",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Dalí, ressamlığın yanı sıra heykelcilik , fotoğrafçılık ve filmcilikle de ilgilenmiş, Amerikan animasyoncu Walt Disney ile beraber yaptığı Destino adlı kısa çizgi film, 2003'te \"en iyi kısa animasyon filmi\" dalında Akademi Ödülü adayı olmuştur.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "ilgilenmiş",
+      "uç": "fotoğrafçılık",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Dalí, ressamlığın yanı sıra heykelcilik , fotoğrafçılık ve filmcilikle de ilgilenmiş, Amerikan animasyoncu Walt Disney ile beraber yaptığı Destino adlı kısa çizgi film, 2003'te \"en iyi kısa animasyon filmi\" dalında Akademi Ödülü adayı olmuştur.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "ilgilenmiş",
+      "uç": "filmcilik",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Dalí, ressamlığın yanı sıra heykelcilik , fotoğrafçılık ve filmcilikle de ilgilenmiş, Amerikan animasyoncu Walt Disney ile beraber yaptığı Destino adlı kısa çizgi film, 2003'te \"en iyi kısa animasyon filmi\" dalında Akademi Ödülü adayı olmuştur.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "beraber yaptı",
+      "uç": "Destino",
+      "uç_tipi": "Kısa Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Dalí, ressamlığın yanı sıra heykelcilik , fotoğrafçılık ve filmcilikle de ilgilenmiş, Amerikan animasyoncu Walt Disney ile beraber yaptığı Destino adlı kısa çizgi film, 2003'te \"en iyi kısa animasyon filmi\" dalında Akademi Ödülü adayı olmuştur.",
+    "triple": {
+      "baş": "Walt Disney",
+      "baş_tipi": "Kişi",
+      "ilişki": "beraber yaptı",
+      "uç": "Destino",
+      "uç_tipi": "Kısa Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Dalí, ressamlığın yanı sıra heykelcilik , fotoğrafçılık ve filmcilikle de ilgilenmiş, Amerikan animasyoncu Walt Disney ile beraber yaptığı Destino adlı kısa çizgi film, 2003'te \"en iyi kısa animasyon filmi\" dalında Akademi Ödülü adayı olmuştur.",
+    "triple": {
+      "baş": "Destino",
+      "baş_tipi": "Kısa Film",
+      "ilişki": "adayı oldu",
+      "uç": "Akademi Ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "verildi",
+      "uç": "Sinema Sanatları ve Bilimleri Akademisi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "verildiği tarih",
+      "uç": "28 Şubat 2016",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "verildiği yer",
+      "uç": "Hollywood",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "verildiği yer",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/John_Krasinski)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "adaylar açıklandı",
+      "uç": "Guillermo del Toro",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/John_Krasinski)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "adaylar açıklandı",
+      "uç": "Ang Lee",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/John_Krasinski)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Guillermo del Toro",
+      "baş_tipi": "Kişi",
+      "ilişki": "aday gösterildi",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/John_Krasinski)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Ang Lee",
+      "baş_tipi": "Kişi",
+      "ilişki": "aday gösterildi",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/John_Krasinski)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Cheryl Boone Isaacs",
+      "baş_tipi": "Kişi",
+      "ilişki": "açıkladı",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/John_Krasinski)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "John Krasinski",
+      "baş_tipi": "Kişi",
+      "ilişki": "açıkladı",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/John_Krasinski)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklama tarihi",
+      "uç": "14 Ocak 2016",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/John_Krasinski)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklama saati",
+      "uç": "5:30 PZD",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/John_Krasinski)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklama saati",
+      "uç": "13:30 EGEZ",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/John_Krasinski)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklama yeri",
+      "uç": "Samuel Goldwyn Theater",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/John_Krasinski)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Samuel Goldwyn Theater",
+      "baş_tipi": "Mekan",
+      "ilişki": "konum",
+      "uç": "Beverly Hills",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/John_Krasinski)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Beverly Hills",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunduğu eyalet",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/John_Krasinski)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Cheryl Boone Isaacs",
+      "baş_tipi": "Kişi",
+      "ilişki": "unvan",
+      "uç": "Akademi başkanı",
+      "uç_tipi": "Unvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guillermo_del_Toro)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "adayları açıklandı",
+      "uç": "Guillermo del Toro",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guillermo_del_Toro)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "adayları açıklandı",
+      "uç": "Ang Lee",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guillermo_del_Toro)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Guillermo del Toro",
+      "baş_tipi": "Kişi",
+      "ilişki": "açıkladı",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guillermo_del_Toro)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Ang Lee",
+      "baş_tipi": "Kişi",
+      "ilişki": "açıkladı",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guillermo_del_Toro)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Cheryl Boone Isaacs",
+      "baş_tipi": "Kişi",
+      "ilişki": "açıkladı",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guillermo_del_Toro)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "John Krasinski",
+      "baş_tipi": "Kişi",
+      "ilişki": "açıkladı",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guillermo_del_Toro)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklanma tarihi",
+      "uç": "14 Ocak 2016",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guillermo_del_Toro)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklanma saati",
+      "uç": "5:30 PZD",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guillermo_del_Toro)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklanma saati",
+      "uç": "13:30 EGEZ",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guillermo_del_Toro)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklanma yeri",
+      "uç": "Samuel Goldwyn Theater",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guillermo_del_Toro)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Samuel Goldwyn Theater",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunduğu yer",
+      "uç": "Beverly Hills",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guillermo_del_Toro)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Beverly Hills",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunduğu eyalet",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Guillermo_del_Toro)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'da Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Cheryl Boone Isaacs",
+      "baş_tipi": "Kişi",
+      "ilişki": "unvanı",
+      "uç": "Akademi başkanı",
+      "uç_tipi": "Unvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu)",
+    "metin": "88. Akademi Ödülleri#6: Diriliş 12 adaylık ile en fazla adaylık elde eden film olurken Mad Max: Fury Road onu 10 adaylıkla takip etti.",
+    "triple": {
+      "baş": "Diriliş",
+      "baş_tipi": "Film",
+      "ilişki": "adaylık sayısı",
+      "uç": "12",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu)",
+    "metin": "88. Akademi Ödülleri#6: Diriliş 12 adaylık ile en fazla adaylık elde eden film olurken Mad Max: Fury Road onu 10 adaylıkla takip etti.",
+    "triple": {
+      "baş": "Mad Max: Fury Road",
+      "baş_tipi": "Film",
+      "ilişki": "adaylık sayısı",
+      "uç": "10",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu)",
+    "metin": "Alejandro González Iñárritu art arda ikinci defa en fazla adaylık elde eden bir filme yönetmenlik yapmış oldu.",
+    "triple": {
+      "baş": "Alejandro González Iñárritu",
+      "baş_tipi": "Kişi",
+      "ilişki": "yönetmenlik yaptı",
+      "uç": "Diriliş",
+      "uç_tipi": "Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu)",
+    "metin": "Alejandro González Iñárritu art arda ikinci defa en fazla adaylık elde eden bir filme yönetmenlik yapmış oldu.",
+    "triple": {
+      "baş": "Alejandro González Iñárritu",
+      "baş_tipi": "Kişi",
+      "ilişki": "art arda ikinci kez yönetmenlik yaptı",
+      "uç": "en fazla adaylık elde eden film",
+      "uç_tipi": "Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu)",
+    "metin": "Ayrıca En İyi Yönetmen ödülünü art arda ikinci defa kazandı ve böylece son üç En İyi Yönetmen Akademi Ödülü bir Meksikalı'ya gitmiş oldu.",
+    "triple": {
+      "baş": "Alejandro González Iñárritu",
+      "baş_tipi": "Kişi",
+      "ilişki": "kazandı",
+      "uç": "En İyi Yönetmen ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu)",
+    "metin": "Ayrıca En İyi Yönetmen ödülünü art arda ikinci defa kazandı ve böylece son üç En İyi Yönetmen Akademi Ödülü bir Meksikalı'ya gitmiş oldu.",
+    "triple": {
+      "baş": "Alejandro González Iñárritu",
+      "baş_tipi": "Kişi",
+      "ilişki": "art arda ikinci kez kazandı",
+      "uç": "En İyi Yönetmen ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu)",
+    "metin": "Ayrıca En İyi Yönetmen ödülünü art arda ikinci defa kazandı ve böylece son üç En İyi Yönetmen Akademi Ödülü bir Meksikalı'ya gitmiş oldu.",
+    "triple": {
+      "baş": "En İyi Yönetmen Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "kazanan uyruk",
+      "uç": "Meksikalı",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alejandro_Gonz%C3%A1lez_I%C3%B1%C3%A1rritu)",
+    "metin": "Ayrıca bu daldaki son altı ödülde Amerikalı olmayan bir yönetmene gitmiş oldu.",
+    "triple": {
+      "baş": "En İyi Yönetmen Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "kazanan uyruk",
+      "uç": "Amerikalı olmayan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Governors_%C3%96d%C3%BClleri&action=edit&redlink=1)",
+    "metin": "88. Akademi Ödülleri#10: Akademi, 14 Kasım 2015'te düzenlenen Governors Ödülleri 'nde üç kişiye onur ödülü verdi.",
+    "triple": {
+      "baş": "Akademi",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "düzenledi",
+      "uç": "Governors Ödülleri",
+      "uç_tipi": "Ödül Töreni"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Governors_%C3%96d%C3%BClleri&action=edit&redlink=1)",
+    "metin": "88. Akademi Ödülleri#10: Akademi, 14 Kasım 2015'te düzenlenen Governors Ödülleri 'nde üç kişiye onur ödülü verdi.",
+    "triple": {
+      "baş": "Akademi",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "verdi",
+      "uç": "onur ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Governors_%C3%96d%C3%BClleri&action=edit&redlink=1)",
+    "metin": "88. Akademi Ödülleri#10: Akademi, 14 Kasım 2015'te düzenlenen Governors Ödülleri 'nde üç kişiye onur ödülü verdi.",
+    "triple": {
+      "baş": "Governors Ödülleri",
+      "baş_tipi": "Ödül Töreni",
+      "ilişki": "tarihinde",
+      "uç": "14 Kasım 2015",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Governors_%C3%96d%C3%BClleri&action=edit&redlink=1)",
+    "metin": "88. Akademi Ödülleri#10: Akademi, 14 Kasım 2015'te düzenlenen Governors Ödülleri 'nde üç kişiye onur ödülü verdi.",
+    "triple": {
+      "baş": "Governors Ödülleri",
+      "baş_tipi": "Ödül Töreni",
+      "ilişki": "verildi",
+      "uç": "üç kişi",
+      "uç_tipi": "Kişi Sayısı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ennio_Morricone)",
+    "metin": "Aynı dönemde İtalya sineması 'nda çeşitlilik görüldü ve Cinecittà filmleri Ennio Morricone , Armando Trovaioli, Piero Piccioni ve Piero Umiliani gibi bestecilerin karmaşık müziklerini içerdi.",
+    "triple": {
+      "baş": "Cinecittà filmleri",
+      "baş_tipi": "Film",
+      "ilişki": "içerir",
+      "uç": "Ennio Morricone",
+      "uç_tipi": "Besteci"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ennio_Morricone)",
+    "metin": "Aynı dönemde İtalya sineması 'nda çeşitlilik görüldü ve Cinecittà filmleri Ennio Morricone , Armando Trovaioli, Piero Piccioni ve Piero Umiliani gibi bestecilerin karmaşık müziklerini içerdi.",
+    "triple": {
+      "baş": "Cinecittà filmleri",
+      "baş_tipi": "Film",
+      "ilişki": "içerir",
+      "uç": "Armando Trovaioli",
+      "uç_tipi": "Besteci"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ennio_Morricone)",
+    "metin": "Aynı dönemde İtalya sineması 'nda çeşitlilik görüldü ve Cinecittà filmleri Ennio Morricone , Armando Trovaioli, Piero Piccioni ve Piero Umiliani gibi bestecilerin karmaşık müziklerini içerdi.",
+    "triple": {
+      "baş": "Cinecittà filmleri",
+      "baş_tipi": "Film",
+      "ilişki": "içerir",
+      "uç": "Piero Piccioni",
+      "uç_tipi": "Besteci"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ennio_Morricone)",
+    "metin": "Aynı dönemde İtalya sineması 'nda çeşitlilik görüldü ve Cinecittà filmleri Ennio Morricone , Armando Trovaioli, Piero Piccioni ve Piero Umiliani gibi bestecilerin karmaşık müziklerini içerdi.",
+    "triple": {
+      "baş": "Cinecittà filmleri",
+      "baş_tipi": "Film",
+      "ilişki": "içerir",
+      "uç": "Piero Umiliani",
+      "uç_tipi": "Besteci"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ennio_Morricone)",
+    "metin": "88. Akademi Ödülleri#7: Ennio Morricone kazandığı ödülle en yaşlı Akademi ödülü kazananı olurken, Emmanuel Lubezki En İyi Sinematografi ödülünü art arda 3 kere kazanan ilk kişi oldu.",
+    "triple": {
+      "baş": "Ennio Morricone",
+      "baş_tipi": "Kişi",
+      "ilişki": "kazandı",
+      "uç": "Akademi ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ennio_Morricone)",
+    "metin": "88. Akademi Ödülleri#7: Ennio Morricone kazandığı ödülle en yaşlı Akademi ödülü kazananı olurken, Emmanuel Lubezki En İyi Sinematografi ödülünü art arda 3 kere kazanan ilk kişi oldu.",
+    "triple": {
+      "baş": "Ennio Morricone",
+      "baş_tipi": "Kişi",
+      "ilişki": "oldu",
+      "uç": "en yaşlı Akademi ödülü kazananı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ennio_Morricone)",
+    "metin": "88. Akademi Ödülleri#7: Ennio Morricone kazandığı ödülle en yaşlı Akademi ödülü kazananı olurken, Emmanuel Lubezki En İyi Sinematografi ödülünü art arda 3 kere kazanan ilk kişi oldu.",
+    "triple": {
+      "baş": "Emmanuel Lubezki",
+      "baş_tipi": "Kişi",
+      "ilişki": "kazandı",
+      "uç": "En İyi Sinematografi ödülü",
+      "uç_tipi": "Ödül"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Ennio_Morricone)",
+    "metin": "88. Akademi Ödülleri#7: Ennio Morricone kazandığı ödülle en yaşlı Akademi ödülü kazananı olurken, Emmanuel Lubezki En İyi Sinematografi ödülünü art arda 3 kere kazanan ilk kişi oldu.",
+    "triple": {
+      "baş": "Emmanuel Lubezki",
+      "baş_tipi": "Kişi",
+      "ilişki": "oldu",
+      "uç": "art arda 3 kere kazanan ilk kişi",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Bollywood adı Hollywood ve Bombay (Mumbai) adlarından oluşturulmuştur.",
+    "triple": {
+      "baş": "Bollywood",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşturulmuştur",
+      "uç": "Hollywood",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Bollywood adı Hollywood ve Bombay (Mumbai) adlarından oluşturulmuştur.",
+    "triple": {
+      "baş": "Bollywood",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşturulmuştur",
+      "uç": "Bombay (Mumbai)",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Ayrıca 20. yüzyılda İsviçre edebiyatının tartışmasız devi olan Friedrich Dürrenmatt 'ın, Die Physiker ( The Physicists ) ve Das Versprechen ( The Pledge ) adlı eserleri Hollywood filmi olarak sinemaya uyarlandılar.",
+    "triple": {
+      "baş": "Friedrich Dürrenmatt",
+      "baş_tipi": "Kişi",
+      "ilişki": "eserleri sinemaya uyarlandı",
+      "uç": "Hollywood filmi",
+      "uç_tipi": "Film Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Los Angeles , Kaliforniya 'da bulunan Hollywood , sinema filmi üretiminde liderlerden biridir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Yer",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Los Angeles , Kaliforniya 'da bulunan Hollywood , sinema filmi üretiminde liderlerden biridir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Yer",
+      "ilişki": "liderdir",
+      "uç": "sinema filmi üretimi",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Dalí 1937'de Hollywood 'a giderek zamanın meşhur komedyenleri Marx kardeşler ile tanıştı ve onlar için bir film senaryosu yazdı.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "gitti",
+      "uç": "Hollywood",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Dalí 1937'de Hollywood 'a giderek zamanın meşhur komedyenleri Marx kardeşler ile tanıştı ve onlar için bir film senaryosu yazdı.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "tanıştı",
+      "uç": "Marx kardeşler",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Dalí 1937'de Hollywood 'a giderek zamanın meşhur komedyenleri Marx kardeşler ile tanıştı ve onlar için bir film senaryosu yazdı.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazdı",
+      "uç": "film senaryosu",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "1938 yazında ise Londra'da, hayranı olduğu Sigmund Freud ile tanıştı ve ünlü psikoloğun birkaç portresini yaptı.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "tanıştı",
+      "uç": "Sigmund Freud",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "1938 yazında ise Londra'da, hayranı olduğu Sigmund Freud ile tanıştı ve ünlü psikoloğun birkaç portresini yaptı.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "yaptı",
+      "uç": "portre",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "96. Akademi Ödülleri töreni 11 Mart 2024'te TSİ 01.30'da Hollywood 'daki Dolby Tiyatrosu 'nda düzenlenmiştir.",
+    "triple": {
+      "baş": "96. Akademi Ödülleri töreni",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "düzenlendi",
+      "uç": "Dolby Tiyatrosu",
+      "uç_tipi": "Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "96. Akademi Ödülleri töreni 11 Mart 2024'te TSİ 01.30'da Hollywood 'daki Dolby Tiyatrosu 'nda düzenlenmiştir.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Yapı",
+      "ilişki": "bulunur",
+      "uç": "Hollywood",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Oscar'da ırkçılık yapıldığı eleştirilerine destek veren birçok ünlü Hollywood yıldızı 88. Oscar ödül törenini boykot edeceğini açıkladı.",
+    "triple": {
+      "baş": "Hollywood yıldızı",
+      "baş_tipi": "Grup",
+      "ilişki": "boykot etti",
+      "uç": "88. Oscar ödül töreni",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Metro-Goldwyn-Mayer stüdyoları, sağladığı imkânlar ile Hollywood 'daki en önemli film stüdyosu olmuştur.",
+    "triple": {
+      "baş": "Metro-Goldwyn-Mayer stüdyoları",
+      "baş_tipi": "Organizasyon",
+      "ilişki": "olmuştur",
+      "uç": "en önemli film stüdyosu",
+      "uç_tipi": "Tanım"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Metro-Goldwyn-Mayer stüdyoları, sağladığı imkânlar ile Hollywood 'daki en önemli film stüdyosu olmuştur.",
+    "triple": {
+      "baş": "Metro-Goldwyn-Mayer stüdyoları",
+      "baş_tipi": "Organizasyon",
+      "ilişki": "bulunur",
+      "uç": "Hollywood",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Amazon tarafından 8,45 milyar dolar karşılığında satın alınmıştır.",
+    "triple": {
+      "baş": "Metro-Goldwyn-Mayer",
+      "baş_tipi": "Organizasyon",
+      "ilişki": "satın alındı",
+      "uç": "Amazon",
+      "uç_tipi": "Organizasyon"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülü",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "verildi",
+      "uç": "Dolby Theatre",
+      "uç_tipi": "Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Dolby Theatre",
+      "baş_tipi": "Yapı",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Dolby Theatre",
+      "baş_tipi": "Yapı",
+      "ilişki": "bulunur",
+      "uç": "Hollywood",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "adayları açıklandı",
+      "uç": "Guillermo del Toro",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "adayları açıklandı",
+      "uç": "Ang Lee",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Guillermo del Toro",
+      "baş_tipi": "Kişi",
+      "ilişki": "aday gösterildi",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Ang Lee",
+      "baş_tipi": "Kişi",
+      "ilişki": "aday gösterildi",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Cheryl Boone Isaacs",
+      "baş_tipi": "Kişi",
+      "ilişki": "açıkladı",
+      "uç": "88. Akademi Ödülleri adayları",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "John Krasinski",
+      "baş_tipi": "Kişi",
+      "ilişki": "açıkladı",
+      "uç": "88. Akademi Ödülleri adayları",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri adayları",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklandı",
+      "uç": "14 Ocak 2016",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri adayları",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklandı",
+      "uç": "5:30 PZD",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri adayları",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklandı",
+      "uç": "13:30 EGEZ",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri adayları",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklandı",
+      "uç": "Samuel Goldwyn Theater",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Samuel Goldwyn Theater",
+      "baş_tipi": "Mekan",
+      "ilişki": "konum",
+      "uç": "Beverly Hills",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Beverly Hills",
+      "baş_tipi": "Bölge",
+      "ilişki": "konum",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/E%C5%9Fg%C3%BCd%C3%BCml%C3%BC_Evrensel_Zaman)",
+    "metin": "88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Cheryl Boone Isaacs",
+      "baş_tipi": "Kişi",
+      "ilişki": "unvan",
+      "uç": "Akademi başkanı",
+      "uç_tipi": "Unvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "UTC-08.00 ( PZD )",
+    "triple": {
+      "baş": "UTC-08.00",
+      "baş_tipi": "Zaman Dilimi",
+      "ilişki": "kısaltması",
+      "uç": "PZD",
+      "uç_tipi": "Zaman Dilimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "UTC-07.00 ( PZD )",
+    "triple": {
+      "baş": "UTC-07.00",
+      "baş_tipi": "Zaman Dilimi",
+      "ilişki": "kısaltması",
+      "uç": "PZD",
+      "uç_tipi": "Zaman Dilimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#5: 88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "adayları açıklandı",
+      "uç": "Guillermo del Toro",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#5: 88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "adayları açıklandı",
+      "uç": "Ang Lee",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#5: 88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Guillermo del Toro",
+      "baş_tipi": "Kişi",
+      "ilişki": "aday gösterildi",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#5: 88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Ang Lee",
+      "baş_tipi": "Kişi",
+      "ilişki": "aday gösterildi",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#5: 88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Cheryl Boone Isaacs",
+      "baş_tipi": "Kişi",
+      "ilişki": "açıkladı",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#5: 88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "John Krasinski",
+      "baş_tipi": "Kişi",
+      "ilişki": "açıkladı",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#5: 88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklanma tarihi",
+      "uç": "14 Ocak 2016",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#5: 88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklanma saati",
+      "uç": "5.30",
+      "uç_tipi": "Saat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#5: 88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "5.30",
+      "baş_tipi": "Saat",
+      "ilişki": "zaman dilimi",
+      "uç": "PZD",
+      "uç_tipi": "Zaman Dilimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#5: 88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "açıklanma saati (EGEZ)",
+      "uç": "13:30",
+      "uç_tipi": "Saat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#5: 88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "mekan",
+      "uç": "Samuel Goldwyn Theater",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#5: 88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Samuel Goldwyn Theater",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunduğu yer",
+      "uç": "Beverly Hills",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Pasifik_Zaman_Dilimi)",
+    "metin": "88. Akademi Ödülleri#5: 88. Akademi Ödülleri'nin adayları Guillermo del Toro ve Ang Lee , Akademi başkanı Cheryl Boone Isaacs ve oyuncu John Krasinski tarafından 14 Ocak 2016'da PZD 'ne göre saat 5.30'da ( EGEZ 13:30) Beverly Hills, Kaliforniya'daki Samuel Goldwyn Theater'da açıklandı.",
+    "triple": {
+      "baş": "Beverly Hills",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunduğu eyalet",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jada_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Spike Lee",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jada_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Jada Pinkett Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jada_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Will Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jada_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Snoop Dogg",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jada_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "50 Cent",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jada_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Michael Moore",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jada_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "George Clooney",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jada_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Lupita Nyong'o",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jada_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Viola Davis",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jada_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "nedeni",
+      "uç": "Çeşitliliğin olmaması",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Spike_Lee)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Spike Lee",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Spike_Lee)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Jada Pinkett Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Spike_Lee)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Will Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Spike_Lee)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Snoop Dogg",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Spike_Lee)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "50 Cent",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Spike_Lee)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Michael Moore",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Spike_Lee)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "George Clooney",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Spike_Lee)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Lupita Nyong'o",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Spike_Lee)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Viola Davis",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Spike_Lee)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "nedeni",
+      "uç": "Çeşitliliğin olmaması",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Will_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Spike Lee",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Will_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Jada Pinkett Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Will_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Will Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Will_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Snoop Dogg",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Will_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "50 Cent",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Will_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Michael Moore",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Will_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "George Clooney",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Will_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Lupita Nyong'o",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Will_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Viola Davis",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Will_Smith)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "nedeni",
+      "uç": "Çeşitliliğin olmaması",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/50_Cent)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Spike Lee",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/50_Cent)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Jada Pinkett Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/50_Cent)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Will Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/50_Cent)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Snoop Dogg",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/50_Cent)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "50 Cent",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/50_Cent)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Michael Moore",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/50_Cent)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "George Clooney",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/50_Cent)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Lupita Nyong'o",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/50_Cent)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Viola Davis",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/50_Cent)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "nedeniyle",
+      "uç": "Çeşitliliğin olmaması",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Snoop_Dogg)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Spike Lee",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Snoop_Dogg)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Jada Pinkett Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Snoop_Dogg)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Will Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Snoop_Dogg)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Snoop Dogg",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Snoop_Dogg)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "50 Cent",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Snoop_Dogg)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Michael Moore",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Snoop_Dogg)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "George Clooney",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Snoop_Dogg)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Lupita Nyong'o",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Snoop_Dogg)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Viola Davis",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Snoop_Dogg)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "nedeni",
+      "uç": "Çeşitliliğin olmaması",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Michael_Moore)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Spike Lee",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Michael_Moore)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Jada Pinkett Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Michael_Moore)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Will Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Michael_Moore)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Snoop Dogg",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Michael_Moore)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "50 Cent",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Michael_Moore)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Michael Moore",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Michael_Moore)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "George Clooney",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Michael_Moore)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Lupita Nyong'o",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Michael_Moore)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Viola Davis",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Michael_Moore)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "nedeni",
+      "uç": "Çeşitliliğin olmaması",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/George_Clooney)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Spike Lee",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/George_Clooney)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Jada Pinkett Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/George_Clooney)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Will Smith",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/George_Clooney)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Snoop Dogg",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/George_Clooney)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "50 Cent",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/George_Clooney)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "Michael Moore",
+      "baş_tipi": "Kişi",
+      "ilişki": "boykot etti",
+      "uç": "88. Akademi Ödülleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/George_Clooney)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler.",
+    "triple": {
+      "baş": "George Clooney",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/George_Clooney)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Lupita Nyong'o",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/George_Clooney)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "Viola Davis",
+      "baş_tipi": "Kişi",
+      "ilişki": "eleştirdi",
+      "uç": "Akademi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/George_Clooney)",
+    "metin": "88. Akademi Ödülleri#26: Çeşitliliğin olmaması karşısında Spike Lee , Jada Pinkett Smith , Will Smith , Snoop Dogg , 50 Cent ve Michael Moore gibi birçok ünlü töreni boykot niyetlerini ifade ettiler. George Clooney , Lupita Nyong'o, Viola Davis ve diğer birkaç oyuncu çeşitliliğin olmaması üzerine Akademiyi eleştirdi.",
+    "triple": {
+      "baş": "88. Akademi Ödülleri",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "nedeniyle",
+      "uç": "Çeşitliliğin olmaması",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "20 Ekim 1994 (80 yaşında) Los Angeles , Kaliforniya",
+    "triple": {
+      "baş": "Los Angeles",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Doğrudan seçimin meşruiyet gerektirdiği fikri, daha küçük eyaletlerdeki seçmenlere büyük eyaletlerdekilerden daha fazla temsil sağlayan madde ile ortaya çıkan Büyük Uzlaşma'nın ruhuna da aykırıdır; örneğin 2016'da Wyoming vatandaşları Kaliforniya vatandaşlarına göre seçmenlerde 3.6 kat daha fazla temsil edildi.",
+    "triple": {
+      "baş": "Wyoming",
+      "baş_tipi": "Eyalet",
+      "ilişki": "daha fazla temsil",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "1576 yılında Muscovy Company 'nin maddi desteğiyle yelken açan Martin Frobisher , aynı yıl vardığı Baffin Adası 'na ertesi yıl döndü ve adanın güney kesiminde Kraliçe Elizabeth adına hak iddia etti. 1578 yılında bir seyahat daha gerçekleştirerek Grönland 'a ulaşan ve burada da hak iddia eden Frobisher, Baffin Adası'ndaki Frobisher Körfezi civarında başarısız bir yerleşim kurma girişiminde de bulundu. 1577-1580 yılları arasında Dünya'yı dolaşan Francis Drake, 1578'de Horn Burnu açıklarında ve Macellan Boğazı 'ndaki birer adayı \"Elizabeth Adası\" olarak adlandırarak üzerlerinde kraliyet adına hak iddia etti. 1579'da ise Kaliforniya 'nın kuzey sahillerine ulaştı ve bölgeyi \" New Albion \" olarak adlandırarak kraliyet topraklarına kattı.",
+    "triple": {
+      "baş": "Francis Drake",
+      "baş_tipi": "Kişi",
+      "ilişki": "hak iddia etti",
+      "uç": "New Albion",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Francis Drake, 1578'de Horn Burnu açıklarında ve Macellan Boğazı 'ndaki birer adayı \"Elizabeth Adası\" olarak adlandırarak üzerlerinde kraliyet adına hak iddia etti. 1579'da ise Kaliforniya 'nın kuzey sahillerine ulaştı ve bölgeyi \" New Albion \" olarak adlandırarak kraliyet topraklarına kattı.",
+    "triple": {
+      "baş": "Francis Drake",
+      "baş_tipi": "Kişi",
+      "ilişki": "ulaştı",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Robert McCormick Adams, Jr.Card#3: 27 Ocak 2018 (91 yaşında) Chula Vista, Kaliforniya , ABD.",
+    "triple": {
+      "baş": "Chula Vista",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Çeşitli tipteki petrollerin kendine has ağırlıkları 0,80-0,96; alevlenme noktaları 15-120 °C ve ortalama ısıtma kuvvetleri 10,500 kcal/kg'dır. Ortalama elementel bileşimleri ise; karbon %84, hidrojen %12, oksijen %1 olup çok az miktarda da kükürt bulunur. Teksas ve Kaliforniya petrollerinde kükürt diğerlerine oranla fazladır.",
+    "triple": {
+      "baş": "Teksas petrolleri",
+      "baş_tipi": "Petrol",
+      "ilişki": "daha fazla kükürt içerir",
+      "uç": "Kaliforniya petrolleri",
+      "uç_tipi": "Petrol"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Los Angeles , Kaliforniya 'da bulunan Hollywood , sinema filmi üretiminde liderlerden biridir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Los Angeles , Kaliforniya 'da bulunan Hollywood , sinema filmi üretiminde liderlerden biridir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Kıta dört büyük bölgeye ayrılabilir: Meksika Körfezi 'nden Kanada Arktiği 'ne kadar, Great Plains ; Rocky Dağları , Great Bas , Kaliforniya ve Alaska 'yı içeren, jeolojik olarak genç, dağlık batı; kuzeydoğuda yüksek ama nispeten düz Kanada bölgesi; ve Appalachian Dağları 'nı ve Florida Yarımadası'nı içinde bulunduran doğu bölgesi.",
+    "triple": {
+      "baş": "Kaliforniya",
+      "baş_tipi": "Bölge",
+      "ilişki": "içerir",
+      "uç": "Rocky Dağları",
+      "uç_tipi": "Dağ Sırası"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Internet Archive'ın kurucuları Brewster Kahle ve Bruce Gilliat, Ekim 2001'de San Francisco , Kaliforniya 'da Wayback Machine'i, öncelikle web içeriğinin değiştirildiğinde veya bir web sitesi kapatıldığında kaybolması sorununu çözmek için halka açtı. Kahle ve Gilliat makineyi tüm interneti arşivlemek ve \"tüm bilgiye evrensel erişim\" sağlamak umuduyla yarattı. \"Wayback Machine\" ismi, The Adventures of Rocky and Bullwinkle and Friends adlı çizgi filmde Mister Peabody ve Sherman karakterleri tarafından kullanılan kurgusal bir zaman yolculuğu ve çeviri cihazı olan \"Wayback Machine\"e bir göndermedir.",
+    "triple": {
+      "baş": "Wayback Machine",
+      "baş_tipi": "Yazılım",
+      "ilişki": "halka açıldı",
+      "uç": "San Francisco",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Internet Archive'ın kurucuları Brewster Kahle ve Bruce Gilliat, Ekim 2001'de San Francisco , Kaliforniya 'da Wayback Machine'i, öncelikle web içeriğinin değiştirildiğinde veya bir web sitesi kapatıldığında kaybolması sorununu çözmek için halka açtı. Kahle ve Gilliat makineyi tüm interneti arşivlemek ve \"tüm bilgiye evrensel erişim\" sağlamak umuduyla yarattı. \"Wayback Machine\" ismi, The Adventures of Rocky and Bullwinkle and Friends adlı çizgi filmde Mister Peabody ve Sherman karakterleri tarafından kullanılan kurgusal bir zaman yolculuğu ve çeviri cihazı olan \"Wayback Machine\"e bir göndermedir.",
+    "triple": {
+      "baş": "Wayback Machine",
+      "baş_tipi": "Yazılım",
+      "ilişki": "halka açıldı",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Monterey, Kaliforniya 'da yer alan Savunma Dil Enstitüsüne göre İngilizceyi akıcı konuşabilen birinin 720 saatlik bir eğitimle Rusça öğrenilebileceğini hesaplamıştır.",
+    "triple": {
+      "baş": "Savunma Dil Enstitüsü",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "yer alır",
+      "uç": "Monterey",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Monterey, Kaliforniya 'da yer alan Savunma Dil Enstitüsüne göre İngilizceyi akıcı konuşabilen birinin 720 saatlik bir eğitimle Rusça öğrenilebileceğini hesaplamıştır.",
+    "triple": {
+      "baş": "Savunma Dil Enstitüsü",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "yer alır",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "8 Ocak 1997 (85 yaşında) Berkeley , Kaliforniya",
+    "triple": {
+      "baş": "Berkeley",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Oganesyan başkanlığındaki ekip, Kaliforniya 'daki Lawrence Livermore Ulusal Laboratuvarı'ndan Amerikalı bilim adamlarını içeriyordu.",
+    "triple": {
+      "baş": "Lawrence Livermore Ulusal Laboratuvarı",
+      "baş_tipi": "Laboratuvar",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Lawrence Berkeley Ulusal Laboratuvarı ( İngilizce : Lawrence Berkeley National Laboratory (LBNL)), Amerika Birleşik Devletleri Enerji Bakanlığı için Kaliforniya Üniversitesi tarafından işletilen bir bilim ve mühendislik araştırması laboratuvarıdır . 26 Ağustos 1931 tarihinde kurulmuş olup Kaliforniya 'nın Berkeley kentinde yer almaktadır.",
+    "triple": {
+      "baş": "Lawrence Berkeley Ulusal Laboratuvarı",
+      "baş_tipi": "Laboratuvar",
+      "ilişki": "işletilir",
+      "uç": "Kaliforniya Üniversitesi",
+      "uç_tipi": "Üniversite"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Lawrence Berkeley Ulusal Laboratuvarı ( İngilizce : Lawrence Berkeley National Laboratory (LBNL)), Amerika Birleşik Devletleri Enerji Bakanlığı için Kaliforniya Üniversitesi tarafından işletilen bir bilim ve mühendislik araştırması laboratuvarıdır . 26 Ağustos 1931 tarihinde kurulmuş olup Kaliforniya 'nın Berkeley kentinde yer almaktadır.",
+    "triple": {
+      "baş": "Lawrence Berkeley Ulusal Laboratuvarı",
+      "baş_tipi": "Laboratuvar",
+      "ilişki": "yer alır",
+      "uç": "Berkeley",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Lawrence Berkeley Ulusal Laboratuvarı ( İngilizce : Lawrence Berkeley National Laboratory (LBNL)), Amerika Birleşik Devletleri Enerji Bakanlığı için Kaliforniya Üniversitesi tarafından işletilen bir bilim ve mühendislik araştırması laboratuvarıdır . 26 Ağustos 1931 tarihinde kurulmuş olup Kaliforniya 'nın Berkeley kentinde yer almaktadır.",
+    "triple": {
+      "baş": "Lawrence Berkeley Ulusal Laboratuvarı",
+      "baş_tipi": "Laboratuvar",
+      "ilişki": "yer alır",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Berkeley , Kaliforniya , ABD .mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap} 37°52′34″N 122°14′49″W﻿ / ﻿37.876°K 122.247°B﻿ / 37.876; -122.247",
+    "triple": {
+      "baş": "Berkeley",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "guggenheim ile evliliği de yürümedi ve Ekim 1946'da, Beverly Hills , Kaliforniya 'da Man Ray ile Juliet Browner'ın da evlendiği çifte bir düğünle Dorothea Tanning 'le evlendi.",
+    "triple": {
+      "baş": "Beverly Hills",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Electronic Arts Inc. ( EA Games ), merkezi Redwood , Kaliforniya 'da bulunan Amerikalı bir video oyun şirketidir.",
+    "triple": {
+      "baş": "Electronic Arts Inc.",
+      "baş_tipi": "Şirket",
+      "ilişki": "merkezi bulunur",
+      "uç": "Redwood",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Electronic Arts Inc. ( EA Games ), merkezi Redwood , Kaliforniya 'da bulunan Amerikalı bir video oyun şirketidir.",
+    "triple": {
+      "baş": "Electronic Arts Inc.",
+      "baş_tipi": "Şirket",
+      "ilişki": "merkezi bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Kaliforniya , Amerika Birleşik Devletleri",
+    "triple": {
+      "baş": "Kaliforniya",
+      "baş_tipi": "Eyalet",
+      "ilişki": "bulunur",
+      "uç": "Amerika Birleşik Devletleri",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Dead Kennedys , San Francisco Kaliforniya 'da kurulmuş bir hardcore punk grubudur. 80'ler boyunca dünya müzik piyasasında büyük bir hayran kitlesi kazanmıştır.",
+    "triple": {
+      "baş": "Dead Kennedys",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "kuruldu",
+      "uç": "San Francisco",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Dead Kennedys , San Francisco Kaliforniya 'da kurulmuş bir hardcore punk grubudur. 80'ler boyunca dünya müzik piyasasında büyük bir hayran kitlesi kazanmıştır.",
+    "triple": {
+      "baş": "Dead Kennedys",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "kuruldu",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "1985'te Los Angeles 'ta albümü Wherehouse Records adında bir dükkândan alan bir genç kızın annesi Kaliforniya başsavcısına ve Los Angeles savcılığına şikayet mektubu yazmıştı.",
+    "triple": {
+      "baş": "genç kızın annesi",
+      "baş_tipi": "Kişi",
+      "ilişki": "şikayet mektubu yazdı",
+      "uç": "Kaliforniya başsavcısı",
+      "uç_tipi": "Makam"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "San Francisco , Kaliforniya , ABD",
+    "triple": {
+      "baş": "San Francisco",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "İlk adıyla Sweet Children ı Rodeo- Kaliforniya 'da oluşturan Billie ve Mike, John Sweet lise kafeteryasında ilk tanıştıklarında 10 yaşlarındaydılar.",
+    "triple": {
+      "baş": "Sweet Children",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "oluşturuldu",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "East Bay, Kaliforniya , ABD",
+    "triple": {
+      "baş": "East Bay",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "X , 1977 yılında Los Angeles , Kaliforniya 'da kurulan punk rock grubu.",
+    "triple": {
+      "baş": "X",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "kuruldu",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "X , 1977 yılında Los Angeles , Kaliforniya 'da kurulan punk rock grubu.",
+    "triple": {
+      "baş": "X",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "kuruldu",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Los Angeles , Kaliforniya , ABD",
+    "triple": {
+      "baş": "Los Angeles",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Ödüller, Kaliforniya merkezli Sinema Sanatları ve Bilimleri Akademisi ( Academy of Motion Picture Arts and Sciences ) tarafından yılda bir kez verilir.",
+    "triple": {
+      "baş": "Sinema Sanatları ve Bilimleri Akademisi",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "merkezi bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Sinema Sanatları ve Bilimleri Akademisi",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "verir",
+      "uç": "88. Akademi Ödülü",
+      "uç_tipi": "Ödül"
+    }
+  }
+]

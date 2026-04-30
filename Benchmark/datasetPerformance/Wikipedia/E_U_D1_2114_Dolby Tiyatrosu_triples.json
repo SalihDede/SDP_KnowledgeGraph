@@ -1,0 +1,1367 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Walk_of_Fame&action=edit&redlink=1)",
+    "metin": "Hemen dışında bulunan Walk of Fame 'de yıldızı bulunan ünlü boksör Muhammed Ali'nin \"Peygamberimin adını ayaklar altına koydurmam\" sözlerinin üzerine Muhammed Ali'nin yıldızı, Kodak Tiyatrosu'nun üzerine asılmıştır.",
+    "triple": {
+      "baş": "Muhammed Ali",
+      "baş_tipi": "Kişi",
+      "ilişki": "sahiptir",
+      "uç": "Walk of Fame",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Walk_of_Fame&action=edit&redlink=1)",
+    "metin": "Hemen dışında bulunan Walk of Fame 'de yıldızı bulunan ünlü boksör Muhammed Ali'nin \"Peygamberimin adını ayaklar altına koydurmam\" sözlerinin üzerine Muhammed Ali'nin yıldızı, Kodak Tiyatrosu'nun üzerine asılmıştır.",
+    "triple": {
+      "baş": "Muhammed Ali",
+      "baş_tipi": "Kişi",
+      "ilişki": "mesleği",
+      "uç": "Boksör",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Walk_of_Fame&action=edit&redlink=1)",
+    "metin": "Hemen dışında bulunan Walk of Fame 'de yıldızı bulunan ünlü boksör Muhammed Ali'nin \"Peygamberimin adını ayaklar altına koydurmam\" sözlerinin üzerine Muhammed Ali'nin yıldızı, Kodak Tiyatrosu'nun üzerine asılmıştır.",
+    "triple": {
+      "baş": "Muhammed Ali",
+      "baş_tipi": "Kişi",
+      "ilişki": "söyledi",
+      "uç": "Peygamberimin adını ayaklar altına koydurmam",
+      "uç_tipi": "Alıntı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Walk_of_Fame&action=edit&redlink=1)",
+    "metin": "Hemen dışında bulunan Walk of Fame 'de yıldızı bulunan ünlü boksör Muhammed Ali'nin \"Peygamberimin adını ayaklar altına koydurmam\" sözlerinin üzerine Muhammed Ali'nin yıldızı, Kodak Tiyatrosu'nun üzerine asılmıştır.",
+    "triple": {
+      "baş": "Muhammed Ali'nin yıldızı",
+      "baş_tipi": "Nesne",
+      "ilişki": "konuldu",
+      "uç": "Kodak Tiyatrosu",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tools.wmflabs.org/geohack/geohack.php?pagename=tr:Dolby_Tiyatrosu&params=34_06_10_N_118_20_25_W_)",
+    "metin": ".mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap} 34°06′10″K 118°20′25″B﻿ / ﻿34.10278°K 118.34028°B﻿ / 34.10278; -118.34028",
+    "triple": {
+      "baş": "34°06′10″K 118°20′25″B﻿ / ﻿34.10278°K 118.34028°B﻿ / 34.10278; -118.34028",
+      "baş_tipi": "Koordinat",
+      "ilişki": "konum",
+      "uç": "Bilinmeyen Konum",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Dolby Tiyatrosu (eski adı: Kodak Tiyatrosu ), Hollywood , Kaliforniya 'da bulunan, Akademi Ödülleri törenlerinin yapıldığı salondur.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunur",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Dolby Tiyatrosu (eski adı: Kodak Tiyatrosu ), Hollywood , Kaliforniya 'da bulunan, Akademi Ödülleri törenlerinin yapıldığı salondur.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Dolby Tiyatrosu (eski adı: Kodak Tiyatrosu ), Hollywood , Kaliforniya 'da bulunan, Akademi Ödülleri törenlerinin yapıldığı salondur.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "eski adı",
+      "uç": "Kodak Tiyatrosu",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Dolby Tiyatrosu (eski adı: Kodak Tiyatrosu ), Hollywood , Kaliforniya 'da bulunan, Akademi Ödülleri törenlerinin yapıldığı salondur.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "kullanılır",
+      "uç": "Akademi Ödülleri törenleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "Kodak tarafından inşa ettirilmiştir.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "inşa eden",
+      "uç": "Kodak",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Akademi_%C3%96d%C3%BClleri)",
+    "metin": "3400 kişi kapasitelidir.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "kapasite",
+      "uç": "3400 kişi",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kodak)",
+    "metin": "Ancak, onların en son teknoloji ürünü cihazları zorlanınca, NASA, PE'nin Kodak firmasıyla geleneksel ayna parlatma tekniklerini kullanarak bir tane yedek ayna yapması konusunda işbirliği yapmasını istedi.",
+    "triple": {
+      "baş": "NASA",
+      "baş_tipi": "Kurum",
+      "ilişki": "işbirliği yaptı",
+      "uç": "Kodak",
+      "uç_tipi": "Kurum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kodak)",
+    "metin": "Ancak, onların en son teknoloji ürünü cihazları zorlanınca, NASA, PE'nin Kodak firmasıyla geleneksel ayna parlatma tekniklerini kullanarak bir tane yedek ayna yapması konusunda işbirliği yapmasını istedi.",
+    "triple": {
+      "baş": "Kodak",
+      "baş_tipi": "Kurum",
+      "ilişki": "kullandı",
+      "uç": "geleneksel ayna parlatma teknikleri",
+      "uç_tipi": "Teknik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kodak)",
+    "metin": "Kodak ve Itek ekibi aynı zamanda orijinal aynanın parlatılmasına da katıldılar.",
+    "triple": {
+      "baş": "Kodak",
+      "baş_tipi": "Kurum",
+      "ilişki": "katıldı",
+      "uç": "orijinal aynanın parlatılması",
+      "uç_tipi": "Süreç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kodak)",
+    "metin": "Dolby Tiyatrosu (eski adı: Kodak Tiyatrosu ), Hollywood , Kaliforniya 'da bulunan, Akademi Ödülleri törenlerinin yapıldığı salondur.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "eski adı",
+      "uç": "Kodak Tiyatrosu",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kodak)",
+    "metin": "Dolby Tiyatrosu (eski adı: Kodak Tiyatrosu ), Hollywood , Kaliforniya 'da bulunan, Akademi Ödülleri törenlerinin yapıldığı salondur.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunur",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kodak)",
+    "metin": "Dolby Tiyatrosu (eski adı: Kodak Tiyatrosu ), Hollywood , Kaliforniya 'da bulunan, Akademi Ödülleri törenlerinin yapıldığı salondur.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "yapıldığı yer",
+      "uç": "Akademi Ödülleri törenleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kodak)",
+    "metin": "Kodak tarafından inşa ettirilmiştir.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "inşa eden",
+      "uç": "Kodak",
+      "uç_tipi": "Kurum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kodak)",
+    "metin": "3400 kişi kapasitelidir.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "kapasite",
+      "uç": "3400 kişi",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Boks)",
+    "metin": "Hemen dışında bulunan Walk of Fame 'de yıldızı bulunan ünlü boksör Muhammed Ali'nin \"Peygamberimin adını ayaklar altına koydurmam\" sözlerinin üzerine Muhammed Ali'nin yıldızı, Kodak Tiyatrosu'nun üzerine asılmıştır.",
+    "triple": {
+      "baş": "Muhammed Ali",
+      "baş_tipi": "Kişi",
+      "ilişki": "sahiptir",
+      "uç": "Walk of Fame",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Boks)",
+    "metin": "Hemen dışında bulunan Walk of Fame 'de yıldızı bulunan ünlü boksör Muhammed Ali'nin \"Peygamberimin adını ayaklar altına koydurmam\" sözlerinin üzerine Muhammed Ali'nin yıldızı, Kodak Tiyatrosu'nun üzerine asılmıştır.",
+    "triple": {
+      "baş": "Muhammed Ali",
+      "baş_tipi": "Kişi",
+      "ilişki": "mesleği",
+      "uç": "Boksör",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Boks)",
+    "metin": "Hemen dışında bulunan Walk of Fame 'de yıldızı bulunan ünlü boksör Muhammed Ali'nin \"Peygamberimin adını ayaklar altına koydurmam\" sözlerinin üzerine Muhammed Ali'nin yıldızı, Kodak Tiyatrosu'nun üzerine asılmıştır.",
+    "triple": {
+      "baş": "Muhammed Ali",
+      "baş_tipi": "Kişi",
+      "ilişki": "söyledi",
+      "uç": "Peygamberimin adını ayaklar altına koydurmam",
+      "uç_tipi": "Alıntı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Boks)",
+    "metin": "Hemen dışında bulunan Walk of Fame 'de yıldızı bulunan ünlü boksör Muhammed Ali'nin \"Peygamberimin adını ayaklar altına koydurmam\" sözlerinin üzerine Muhammed Ali'nin yıldızı, Kodak Tiyatrosu'nun üzerine asılmıştır.",
+    "triple": {
+      "baş": "Muhammed Ali'nin yıldızı",
+      "baş_tipi": "Nesne",
+      "ilişki": "konuldu",
+      "uç": "Kodak Tiyatrosu",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Bollywood adı Hollywood ve Bombay (Mumbai) adlarından oluşturulmuştur.",
+    "triple": {
+      "baş": "Bollywood",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşmuştur",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Bollywood adı Hollywood ve Bombay (Mumbai) adlarından oluşturulmuştur.",
+    "triple": {
+      "baş": "Bollywood",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşmuştur",
+      "uç": "Bombay (Mumbai)",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Ayrıca 20. yüzyılda İsviçre edebiyatının tartışmasız devi olan Friedrich Dürrenmatt 'ın, Die Physiker ( The Physicists ) ve Das Versprechen ( The Pledge ) adlı eserleri Hollywood filmi olarak sinemaya uyarlandılar.",
+    "triple": {
+      "baş": "Friedrich Dürrenmatt",
+      "baş_tipi": "Kişi",
+      "ilişki": "eserleri uyarlandı",
+      "uç": "Hollywood filmi",
+      "uç_tipi": "Film Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Los Angeles , Kaliforniya 'da bulunan Hollywood , sinema filmi üretiminde liderlerden biridir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Los Angeles , Kaliforniya 'da bulunan Hollywood , sinema filmi üretiminde liderlerden biridir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "liderdir",
+      "uç": "sinema filmi üretimi",
+      "uç_tipi": "Aktivite"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Dalí 1937'de Hollywood 'a giderek zamanın meşhur komedyenleri Marx kardeşler ile tanıştı ve onlar için bir film senaryosu yazdı.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "gitti",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Dalí 1937'de Hollywood 'a giderek zamanın meşhur komedyenleri Marx kardeşler ile tanıştı ve onlar için bir film senaryosu yazdı.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "tanıştı",
+      "uç": "Marx kardeşler",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Dalí 1937'de Hollywood 'a giderek zamanın meşhur komedyenleri Marx kardeşler ile tanıştı ve onlar için bir film senaryosu yazdı.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazdı",
+      "uç": "film senaryosu",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "1938 yazında ise Londra'da, hayranı olduğu Sigmund Freud ile tanıştı ve ünlü psikoloğun birkaç portresini yaptı.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "tanıştı",
+      "uç": "Sigmund Freud",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "1938 yazında ise Londra'da, hayranı olduğu Sigmund Freud ile tanıştı ve ünlü psikoloğun birkaç portresini yaptı.",
+    "triple": {
+      "baş": "Dalí",
+      "baş_tipi": "Kişi",
+      "ilişki": "yaptı",
+      "uç": "portre",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "96. Akademi Ödülleri töreni 11 Mart 2024'te TSİ 01.30'da Hollywood 'daki Dolby Tiyatrosu 'nda düzenlenmiştir.",
+    "triple": {
+      "baş": "96. Akademi Ödülleri töreni",
+      "baş_tipi": "Etkinlik",
+      "ilişki": "düzenlendi",
+      "uç": "Dolby Tiyatrosu",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "96. Akademi Ödülleri töreni 11 Mart 2024'te TSİ 01.30'da Hollywood 'daki Dolby Tiyatrosu 'nda düzenlenmiştir.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunur",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Oscar'da ırkçılık yapıldığı eleştirilerine destek veren birçok ünlü Hollywood yıldızı 88. Oscar ödül törenini boykot edeceğini açıkladı.",
+    "triple": {
+      "baş": "Hollywood yıldızı",
+      "baş_tipi": "Grup",
+      "ilişki": "destekledi",
+      "uç": "ırkçılık eleştirisi",
+      "uç_tipi": "Eleştiri"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Oscar'da ırkçılık yapıldığı eleştirilerine destek veren birçok ünlü Hollywood yıldızı 88. Oscar ödül törenini boykot edeceğini açıkladı.",
+    "triple": {
+      "baş": "Hollywood yıldızı",
+      "baş_tipi": "Grup",
+      "ilişki": "boykot etti",
+      "uç": "88. Oscar ödül töreni",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Metro-Goldwyn-Mayer#2: Sessiz film döneminin sonundan II. Dünya Savaşı 'na kadarki süreçte Metro-Goldwyn-Mayer stüdyoları, sağladığı imkânlar ile Hollywood 'daki en önemli film stüdyosu olmuştur.",
+    "triple": {
+      "baş": "Metro-Goldwyn-Mayer stüdyoları",
+      "baş_tipi": "Organizasyon",
+      "ilişki": "olmuştur",
+      "uç": "en önemli film stüdyosu",
+      "uç_tipi": "Organizasyon Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Metro-Goldwyn-Mayer#2: Sessiz film döneminin sonundan II. Dünya Savaşı 'na kadarki süreçte Metro-Goldwyn-Mayer stüdyoları, sağladığı imkânlar ile Hollywood 'daki en önemli film stüdyosu olmuştur.",
+    "triple": {
+      "baş": "Metro-Goldwyn-Mayer stüdyoları",
+      "baş_tipi": "Organizasyon",
+      "ilişki": "bulunur",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Amazon tarafından 8,45 milyar dolar karşılığında satın alınmıştır.",
+    "triple": {
+      "baş": "Amazon",
+      "baş_tipi": "Organizasyon",
+      "ilişki": "satın aldı",
+      "uç": "Metro-Goldwyn-Mayer",
+      "uç_tipi": "Organizasyon"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "88. Akademi Ödülü",
+      "baş_tipi": "Ödül",
+      "ilişki": "verildi",
+      "uç": "Dolby Theatre",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Dolby Theatre",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunur",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Dolby Theatre",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Dolby Tiyatrosu (eski adı: Kodak Tiyatrosu ), Hollywood , Kaliforniya 'da bulunan, Akademi Ödülleri törenlerinin yapıldığı salondur.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunur",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Dolby Tiyatrosu (eski adı: Kodak Tiyatrosu ), Hollywood , Kaliforniya 'da bulunan, Akademi Ödülleri törenlerinin yapıldığı salondur.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Dolby Tiyatrosu (eski adı: Kodak Tiyatrosu ), Hollywood , Kaliforniya 'da bulunan, Akademi Ödülleri törenlerinin yapıldığı salondur.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Mekan",
+      "ilişki": "yapıldığı salon",
+      "uç": "Akademi Ödülleri törenleri",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hollywood)",
+    "metin": "Kodak tarafından inşa ettirilmiştir.",
+    "triple": {
+      "baş": "Kodak",
+      "baş_tipi": "Organizasyon",
+      "ilişki": "inşa ettirdi",
+      "uç": "Dolby Tiyatrosu",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Polonya Hükûmeti, 2004 yılında kamu harcamalarını 2007 yılına kadar yaklaşık olarak 17 milyar Amerikan doları azaltmaya yönelik bir ekonomik paket yürürlüğe koymuştur.",
+    "triple": {
+      "baş": "Polonya Hükûmeti",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "yürürlüğe koydu",
+      "uç": "ekonomik paket",
+      "uç_tipi": "Politika"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Polonya Hükûmeti, 2004 yılında kamu harcamalarını 2007 yılına kadar yaklaşık olarak 17 milyar Amerikan doları azaltmaya yönelik bir ekonomik paket yürürlüğe koymuştur.",
+    "triple": {
+      "baş": "ekonomik paket",
+      "baş_tipi": "Politika",
+      "ilişki": "hedef",
+      "uç": "kamu harcamaları",
+      "uç_tipi": "Ekonomi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Polonya Hükûmeti, 2004 yılında kamu harcamalarını 2007 yılına kadar yaklaşık olarak 17 milyar Amerikan doları azaltmaya yönelik bir ekonomik paket yürürlüğe koymuştur.",
+    "triple": {
+      "baş": "ekonomik paket",
+      "baş_tipi": "Politika",
+      "ilişki": "miktarı",
+      "uç": "17 milyar Amerikan doları",
+      "uç_tipi": "Para Birimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Bunlara rağmen Çin, dünyadaki yenilenebilir enerji ve ticarileştirilmesinin en önde gelen yatırımcısıdır; sadece 2011'de yenilenebilir enerjiye 52 milyon Amerikan doları değerinde yatırım yapıldı.",
+    "triple": {
+      "baş": "Çin",
+      "baş_tipi": "Ülke",
+      "ilişki": "yatırımcı",
+      "uç": "yenilenebilir enerji",
+      "uç_tipi": "Enerji"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Bunlara rağmen Çin, dünyadaki yenilenebilir enerji ve ticarileştirilmesinin en önde gelen yatırımcısıdır; sadece 2011'de yenilenebilir enerjiye 52 milyon Amerikan doları değerinde yatırım yapıldı.",
+    "triple": {
+      "baş": "yenilenebilir enerji",
+      "baş_tipi": "Enerji",
+      "ilişki": "yatırım miktarı",
+      "uç": "52 milyon Amerikan doları",
+      "uç_tipi": "Para Birimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Haziran 2020 itibarıyla fon, fonun üç yardım dalgasının bir parçası olarak 23 şehirde 470.000'den fazla aileye mali yardım sağlamak için 28 milyar tenge (69,3 milyon Amerikan doları ) topladı.",
+    "triple": {
+      "baş": "fon",
+      "baş_tipi": "Finansal Araç",
+      "ilişki": "topladı",
+      "uç": "28 milyar tenge",
+      "uç_tipi": "Para Birimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Haziran 2020 itibarıyla fon, fonun üç yardım dalgasının bir parçası olarak 23 şehirde 470.000'den fazla aileye mali yardım sağlamak için 28 milyar tenge (69,3 milyon Amerikan doları ) topladı.",
+    "triple": {
+      "baş": "fon",
+      "baş_tipi": "Finansal Araç",
+      "ilişki": "topladı",
+      "uç": "69,3 milyon Amerikan doları",
+      "uç_tipi": "Para Birimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Haziran 2020 itibarıyla fon, fonun üç yardım dalgasının bir parçası olarak 23 şehirde 470.000'den fazla aileye mali yardım sağlamak için 28 milyar tenge (69,3 milyon Amerikan doları ) topladı.",
+    "triple": {
+      "baş": "fon",
+      "baş_tipi": "Finansal Araç",
+      "ilişki": "yardım sağladı",
+      "uç": "470.000'den fazla aile",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Paris Mastercard'ın 2016 yılı verilerine göre yaklaşık 18 milyon turistle Avrupa 'nın en çok ziyaret edilen 2. Dünya'nın ise en çok ziyaret edilen 3. şehri olmuştur. 2016 yılında turistler Paris'de yaklaşık 13 milyar Amerikan doları harcamıştır.",
+    "triple": {
+      "baş": "Paris",
+      "baş_tipi": "Şehir",
+      "ilişki": "ziyaretçi sayısı",
+      "uç": "18 milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Paris Mastercard'ın 2016 yılı verilerine göre yaklaşık 18 milyon turistle Avrupa 'nın en çok ziyaret edilen 2. Dünya'nın ise en çok ziyaret edilen 3. şehri olmuştur. 2016 yılında turistler Paris'de yaklaşık 13 milyar Amerikan doları harcamıştır.",
+    "triple": {
+      "baş": "Paris",
+      "baş_tipi": "Şehir",
+      "ilişki": "harcama",
+      "uç": "13 milyar Amerikan doları",
+      "uç_tipi": "Para Birimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türkiye",
+      "baş_tipi": "Ülke",
+      "ilişki": "GSYİH",
+      "uç": "1.154 trilyon Amerikan doları",
+      "uç_tipi": "Para Birimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türkiye",
+      "baş_tipi": "Ülke",
+      "ilişki": "ekonomik sıralama (dünya)",
+      "uç": "17.",
+      "uç_tipi": "Sıra"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türkiye",
+      "baş_tipi": "Ülke",
+      "ilişki": "ekonomik sıralama (Avrupa)",
+      "uç": "7.",
+      "uç_tipi": "Sıra"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türkiye",
+      "baş_tipi": "Ülke",
+      "ilişki": "havalimanı sayısı",
+      "uç": "98",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "İstanbul Havalimanı",
+      "baş_tipi": "Havalimanı",
+      "ilişki": "planlanan kapasite",
+      "uç": "150 milyon yolcu",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türk Hava Yolları",
+      "baş_tipi": "Havayolu Şirketi",
+      "ilişki": "kuruluş yılı",
+      "uç": "1933",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türk Hava Yolları",
+      "baş_tipi": "Havayolu Şirketi",
+      "ilişki": "aktarma merkezi",
+      "uç": "İstanbul Havalimanı",
+      "uç_tipi": "Havalimanı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türk Hava Yolları",
+      "baş_tipi": "Havayolu Şirketi",
+      "ilişki": "sefer noktası sayısı",
+      "uç": "315",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "Türk Hava Yolları",
+      "baş_tipi": "Havayolu Şirketi",
+      "ilişki": "unvan",
+      "uç": "Dünyanın en çok yere sefer yapan havayolu firması",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Amerikan_dolar%C4%B1)",
+    "metin": "Türkiye, 2023 yılında yaklaşık 1.154 trilyon Amerikan doları GSYİH ile dünyanın en büyük 17. ekonomisi, Avrupa 'nın ise en büyük 7. ekonomisi olmuştur. 2013 yılında Türkiye'de 22 uluslararası havalimanı olmak üzere 98 havalimanı vardı. İstanbul Havalimanı 'nın yılda 150 milyon yolcuya hizmet verme kapasitesiyle dünyanın en büyük havalimanı olması planlanıyor. 1933'ten bu yana Türkiye'nin bayrak taşıyıcı havayolu olan Türk Hava Yolları 'nın yanı sıra ülkede birçok havayolu şirketi faaliyet göstermektedir. Avrupa , Asya , Afrika ve Amerika 'da 315 noktaya tarifeli seferler gerçekleştiriyor ve bu da onu Dünyanın en çok yere sefer yapan havayolu firması yapıyor. Türk Hava Yolları ana aktarma merkezi olarak 90 milyon kapasiteli İstanbul Havalimanı 'nı kullanıyor.",
+    "triple": {
+      "baş": "İstanbul Havalimanı",
+      "baş_tipi": "Havalimanı",
+      "ilişki": "kapasite",
+      "uç": "90 milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "20 Ekim 1994 (80 yaşında) Los Angeles , Kaliforniya",
+    "triple": {
+      "baş": "Los Angeles",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Doğrudan seçimin meşruiyet gerektirdiği fikri, daha küçük eyaletlerdeki seçmenlere büyük eyaletlerdekilerden daha fazla temsil sağlayan madde ile ortaya çıkan Büyük Uzlaşma'nın ruhuna da aykırıdır; örneğin 2016'da Wyoming vatandaşları Kaliforniya vatandaşlarına göre seçmenlerde 3.6 kat daha fazla temsil edildi.",
+    "triple": {
+      "baş": "Wyoming",
+      "baş_tipi": "Eyalet",
+      "ilişki": "daha fazla temsil",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "1576 yılında Muscovy Company 'nin maddi desteğiyle yelken açan Martin Frobisher , aynı yıl vardığı Baffin Adası 'na ertesi yıl döndü ve adanın güney kesiminde Kraliçe Elizabeth adına hak iddia etti. 1578 yılında bir seyahat daha gerçekleştirerek Grönland 'a ulaşan ve burada da hak iddia eden Frobisher, Baffin Adası'ndaki Frobisher Körfezi civarında başarısız bir yerleşim kurma girişiminde de bulundu. 1577-1580 yılları arasında Dünya'yı dolaşan Francis Drake, 1578'de Horn Burnu açıklarında ve Macellan Boğazı 'ndaki birer adayı \"Elizabeth Adası\" olarak adlandırarak üzerlerinde kraliyet adına hak iddia etti. 1579'da ise Kaliforniya 'nın kuzey sahillerine ulaştı ve bölgeyi \" New Albion \" olarak adlandırarak kraliyet topraklarına kattı.",
+    "triple": {
+      "baş": "Francis Drake",
+      "baş_tipi": "Kişi",
+      "ilişki": "ulaştı",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Francis Drake, 1579'da ise Kaliforniya 'nın kuzey sahillerine ulaştı ve bölgeyi \" New Albion \" olarak adlandırarak kraliyet topraklarına kattı.",
+    "triple": {
+      "baş": "Kaliforniya",
+      "baş_tipi": "Eyalet",
+      "ilişki": "kraliyet topraklarına katıldı",
+      "uç": "New Albion",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Robert McCormick Adams, Jr.Card#3: 27 Ocak 2018 (91 yaşında) Chula Vista, Kaliforniya , ABD.",
+    "triple": {
+      "baş": "Chula Vista",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Çeşitli tipteki petrollerin kendine has ağırlıkları 0,80-0,96; alevlenme noktaları 15-120 °C ve ortalama ısıtma kuvvetleri 10,500 kcal/kg'dır. Ortalama elementel bileşimleri ise; karbon %84, hidrojen %12, oksijen %1 olup çok az miktarda da kükürt bulunur. Teksas ve Kaliforniya petrollerinde kükürt diğerlerine oranla fazladır.",
+    "triple": {
+      "baş": "Teksas petrolleri",
+      "baş_tipi": "Petrol",
+      "ilişki": "daha fazla kükürt içerir",
+      "uç": "Kaliforniya petrolleri",
+      "uç_tipi": "Petrol"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Los Angeles , Kaliforniya 'da bulunan Hollywood , sinema filmi üretiminde liderlerden biridir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Los Angeles , Kaliforniya 'da bulunan Hollywood , sinema filmi üretiminde liderlerden biridir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Kıta dört büyük bölgeye ayrılabilir: Meksika Körfezi 'nden Kanada Arktiği 'ne kadar, Great Plains ; Rocky Dağları , Great Bas , Kaliforniya ve Alaska 'yı içeren, jeolojik olarak genç, dağlık batı; kuzeydoğuda yüksek ama nispeten düz Kanada bölgesi; ve Appalachian Dağları 'nı ve Florida Yarımadası'nı içinde bulunduran doğu bölgesi.",
+    "triple": {
+      "baş": "Kaliforniya",
+      "baş_tipi": "Eyalet",
+      "ilişki": "içerir",
+      "uç": "Batı",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Internet Archive'ın kurucuları Brewster Kahle ve Bruce Gilliat, Ekim 2001'de San Francisco , Kaliforniya 'da Wayback Machine'i, öncelikle web içeriğinin değiştirildiğinde veya bir web sitesi kapatıldığında kaybolması sorununu çözmek için halka açtı. Kahle ve Gilliat makineyi tüm interneti arşivlemek ve \"tüm bilgiye evrensel erişim\" sağlamak umuduyla yarattı. \"Wayback Machine\" ismi, The Adventures of Rocky and Bullwinkle and Friends adlı çizgi filmde Mister Peabody ve Sherman karakterleri tarafından kullanılan kurgusal bir zaman yolculuğu ve çeviri cihazı olan \"Wayback Machine\"e bir göndermedir.",
+    "triple": {
+      "baş": "Wayback Machine",
+      "baş_tipi": "Yazılım",
+      "ilişki": "halka açıldı",
+      "uç": "San Francisco",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Internet Archive'ın kurucuları Brewster Kahle ve Bruce Gilliat, Ekim 2001'de San Francisco , Kaliforniya 'da Wayback Machine'i, öncelikle web içeriğinin değiştirildiğinde veya bir web sitesi kapatıldığında kaybolması sorununu çözmek için halka açtı. Kahle ve Gilliat makineyi tüm interneti arşivlemek ve \"tüm bilgiye evrensel erişim\" sağlamak umuduyla yarattı. \"Wayback Machine\" ismi, The Adventures of Rocky and Bullwinkle and Friends adlı çizgi filmde Mister Peabody ve Sherman karakterleri tarafından kullanılan kurgusal bir zaman yolculuğu ve çeviri cihazı olan \"Wayback Machine\"e bir göndermedir.",
+    "triple": {
+      "baş": "Wayback Machine",
+      "baş_tipi": "Yazılım",
+      "ilişki": "halka açıldı",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Monterey, Kaliforniya 'da yer alan Savunma Dil Enstitüsüne göre İngilizceyi akıcı konuşabilen birinin 720 saatlik bir eğitimle Rusça öğrenilebileceğini hesaplamıştır.",
+    "triple": {
+      "baş": "Savunma Dil Enstitüsü",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "yer alır",
+      "uç": "Monterey",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Monterey, Kaliforniya 'da yer alan Savunma Dil Enstitüsüne göre İngilizceyi akıcı konuşabilen birinin 720 saatlik bir eğitimle Rusça öğrenilebileceğini hesaplamıştır.",
+    "triple": {
+      "baş": "Savunma Dil Enstitüsü",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "yer alır",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "8 Ocak 1997 (85 yaşında) Berkeley , Kaliforniya",
+    "triple": {
+      "baş": "Berkeley",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Oganesyan başkanlığındaki ekip, Kaliforniya 'daki Lawrence Livermore Ulusal Laboratuvarı'ndan Amerikalı bilim adamlarını içeriyordu.",
+    "triple": {
+      "baş": "Lawrence Livermore Ulusal Laboratuvarı",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Lawrence Berkeley Ulusal Laboratuvarı ( İngilizce : Lawrence Berkeley National Laboratory (LBNL)), Amerika Birleşik Devletleri Enerji Bakanlığı için Kaliforniya Üniversitesi tarafından işletilen bir bilim ve mühendislik araştırması laboratuvarıdır . 26 Ağustos 1931 tarihinde kurulmuş olup Kaliforniya 'nın Berkeley kentinde yer almaktadır.",
+    "triple": {
+      "baş": "Lawrence Berkeley Ulusal Laboratuvarı",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "işletilir",
+      "uç": "Kaliforniya Üniversitesi",
+      "uç_tipi": "Kuruluş"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Lawrence Berkeley Ulusal Laboratuvarı ( İngilizce : Lawrence Berkeley National Laboratory (LBNL)), Amerika Birleşik Devletleri Enerji Bakanlığı için Kaliforniya Üniversitesi tarafından işletilen bir bilim ve mühendislik araştırması laboratuvarıdır . 26 Ağustos 1931 tarihinde kurulmuş olup Kaliforniya 'nın Berkeley kentinde yer almaktadır.",
+    "triple": {
+      "baş": "Lawrence Berkeley Ulusal Laboratuvarı",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "yer alır",
+      "uç": "Berkeley",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Lawrence Berkeley Ulusal Laboratuvarı ( İngilizce : Lawrence Berkeley National Laboratory (LBNL)), Amerika Birleşik Devletleri Enerji Bakanlığı için Kaliforniya Üniversitesi tarafından işletilen bir bilim ve mühendislik araştırması laboratuvarıdır . 26 Ağustos 1931 tarihinde kurulmuş olup Kaliforniya 'nın Berkeley kentinde yer almaktadır.",
+    "triple": {
+      "baş": "Lawrence Berkeley Ulusal Laboratuvarı",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "yer alır",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Berkeley , Kaliforniya , ABD .mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap} 37°52′34″N 122°14′49″W﻿ / ﻿37.876°K 122.247°B﻿ / 37.876; -122.247",
+    "triple": {
+      "baş": "Berkeley",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "guggenheim ile evliliği de yürümedi ve Ekim 1946'da, Beverly Hills , Kaliforniya 'da Man Ray ile Juliet Browner'ın da evlendiği çifte bir düğünle Dorothea Tanning 'le evlendi.",
+    "triple": {
+      "baş": "Beverly Hills",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Electronic Arts Inc. ( EA Games ), merkezi Redwood , Kaliforniya 'da bulunan Amerikalı bir video oyun şirketidir.",
+    "triple": {
+      "baş": "Electronic Arts Inc.",
+      "baş_tipi": "Şirket",
+      "ilişki": "merkezi bulunur",
+      "uç": "Redwood",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Electronic Arts Inc. ( EA Games ), merkezi Redwood , Kaliforniya 'da bulunan Amerikalı bir video oyun şirketidir.",
+    "triple": {
+      "baş": "Electronic Arts Inc.",
+      "baş_tipi": "Şirket",
+      "ilişki": "merkezi bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Kaliforniya , Amerika Birleşik Devletleri",
+    "triple": {
+      "baş": "Kaliforniya",
+      "baş_tipi": "Eyalet",
+      "ilişki": "bulunur",
+      "uç": "Amerika Birleşik Devletleri",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Dead Kennedys , San Francisco Kaliforniya 'da kurulmuş bir hardcore punk grubudur. 80'ler boyunca dünya müzik piyasasında büyük bir hayran kitlesi kazanmıştır.",
+    "triple": {
+      "baş": "Dead Kennedys",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "kuruldu",
+      "uç": "San Francisco",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Dead Kennedys , San Francisco Kaliforniya 'da kurulmuş bir hardcore punk grubudur. 80'ler boyunca dünya müzik piyasasında büyük bir hayran kitlesi kazanmıştır.",
+    "triple": {
+      "baş": "Dead Kennedys",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "kuruldu",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "1985'te Los Angeles 'ta albümü Wherehouse Records adında bir dükkândan alan bir genç kızın annesi Kaliforniya başsavcısına ve Los Angeles savcılığına şikayet mektubu yazmıştı.",
+    "triple": {
+      "baş": "Los Angeles",
+      "baş_tipi": "Şehir",
+      "ilişki": "şikayet edildi",
+      "uç": "Kaliforniya başsavcısı",
+      "uç_tipi": "Makam"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "San Francisco , Kaliforniya , ABD",
+    "triple": {
+      "baş": "San Francisco",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "İlk adıyla Sweet Children ı Rodeo- Kaliforniya 'da oluşturan Billie ve Mike, John Sweet lise kafeteryasında ilk tanıştıklarında 10 yaşlarındaydılar.",
+    "triple": {
+      "baş": "Sweet Children",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "oluşturuldu",
+      "uç": "Rodeo",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "İlk adıyla Sweet Children ı Rodeo- Kaliforniya 'da oluşturan Billie ve Mike, John Sweet lise kafeteryasında ilk tanıştıklarında 10 yaşlarındaydılar.",
+    "triple": {
+      "baş": "Sweet Children",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "oluşturuldu",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "East Bay, Kaliforniya , ABD",
+    "triple": {
+      "baş": "East Bay",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "X , 1977 yılında Los Angeles , Kaliforniya 'da kurulan punk rock grubu.",
+    "triple": {
+      "baş": "X",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "kuruldu",
+      "uç": "Los Angeles",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "X , 1977 yılında Los Angeles , Kaliforniya 'da kurulan punk rock grubu.",
+    "triple": {
+      "baş": "X",
+      "baş_tipi": "Müzik Grubu",
+      "ilişki": "kuruldu",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Los Angeles , Kaliforniya , ABD",
+    "triple": {
+      "baş": "Los Angeles",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Ödüller, Kaliforniya merkezli Sinema Sanatları ve Bilimleri Akademisi ( Academy of Motion Picture Arts and Sciences ) tarafından yılda bir kez verilir.",
+    "triple": {
+      "baş": "Sinema Sanatları ve Bilimleri Akademisi",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "merkezi bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "88. Akademi Ödülleri#1: 88. Akademi Ödülü , Sinema Sanatları ve Bilimleri Akademisi (AMPAS) tarafından 2015'in en iyi filmlerine 28 Şubat 2016'da, Hollywood , Kaliforniya 'daki Dolby Theatre 'da, Pasifik Zaman Dilimine göre 17:30 / Doğu Zaman Dilimine göre 20:30'da verilen ödüllerdir.",
+    "triple": {
+      "baş": "Hollywood",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Dolby Tiyatrosu (eski adı: Kodak Tiyatrosu ), Hollywood , Kaliforniya 'da bulunan, Akademi Ödülleri törenlerinin yapıldığı salondur. Kodak tarafından inşa ettirilmiştir. 3400 kişi kapasitelidir.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Tesis",
+      "ilişki": "bulunur",
+      "uç": "Hollywood",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Dolby Tiyatrosu (eski adı: Kodak Tiyatrosu ), Hollywood , Kaliforniya 'da bulunan, Akademi Ödülleri törenlerinin yapıldığı salondur. Kodak tarafından inşa ettirilmiştir. 3400 kişi kapasitelidir.",
+    "triple": {
+      "baş": "Dolby Tiyatrosu",
+      "baş_tipi": "Tesis",
+      "ilişki": "bulunur",
+      "uç": "Kaliforniya",
+      "uç_tipi": "Eyalet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kaliforniya)",
+    "metin": "Kaliforniya , ABD",
+    "triple": {
+      "baş": "Kaliforniya",
+      "baş_tipi": "Eyalet",
+      "ilişki": "bulunur",
+      "uç": "ABD",
+      "uç_tipi": "Ülke"
+    }
+  }
+]

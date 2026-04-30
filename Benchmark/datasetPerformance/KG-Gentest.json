@@ -1,0 +1,2402 @@
+[
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "İskender Lahdi",
+      "relation": "bulunan kişi",
+      "entity2": "Osman Hamdi Bey"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ayçiçeği",
+      "relation": "dayanımı",
+      "entity2": "tuzluluk"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Freddie Mercury",
+      "relation": "işbirliği yaptığı sanatçı",
+      "entity2": "Beach Boys"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Sezen Aksu",
+      "relation": "toplumsal destek",
+      "entity2": "Gevaş"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "tanışma",
+      "entity2": "André Soulac"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ayçiçeği",
+      "relation": "verimi arttıran faktör",
+      "entity2": "erken ekim"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Orhun Yazıtları",
+      "relation": "içerir",
+      "entity2": "Türklerin tarihsel süreçteki dil değişimi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "rol arkadaşları",
+      "entity2": "David Thewlis"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Tanrı Epiphanes Eukharistos",
+      "relation": "sunacaktır",
+      "entity2": "saygı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Amanita",
+      "relation": "zehirler",
+      "entity2": "Papa VII. Clement"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Kadir İnanır",
+      "relation": "oyuncu partneri",
+      "entity2": "Serpil Çakmaklı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ayçiçeği çiçekçikleri",
+      "relation": "koordinat sistemi",
+      "entity2": "kutupsal koordinat sistemi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Türkan Şoray",
+      "relation": "meslek",
+      "entity2": "senarist"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Alfredo James Pacino",
+      "relation": "rol aldı",
+      "entity2": "Revolution"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Louvre Müzesi",
+      "relation": "bulunur",
+      "entity2": "Memfis"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Tarkan",
+      "relation": "ödül aldığı ülke",
+      "entity2": "Meksika"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Olea europaea",
+      "relation": "yetiştirilir",
+      "entity2": "Avustralya"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "yetişir",
+      "entity2": "herhangi bir hafif toprakta"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Catherine Élise Blanchett",
+      "relation": "kazanmıştır",
+      "entity2": "Altın Küre"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Elvis Aaron Presley",
+      "relation": "ilk stüdyo kayıtlarını yaptığı yıl",
+      "entity2": "1954"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Catherine Élise Blanchett",
+      "relation": "aday gösterilmiştir",
+      "entity2": "Screen Actors Guild Awards"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mantar sporları",
+      "relation": "neden olur",
+      "entity2": "Astım"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "geleneği",
+      "entity2": "Ozan-baksı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Eskiçağ yapıtları bölümü",
+      "relation": "içerir",
+      "entity2": "Tarih öncesi İngiltere"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mantar sporları",
+      "relation": "neden olur",
+      "entity2": "Alerji"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Zeki Müren",
+      "relation": "şarkı",
+      "entity2": "Şimdi Uzaklardasın"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ali Kemal Sunal",
+      "relation": "eğitim",
+      "entity2": "Marmara Üniversitesi İletişim Fakültesi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Prado Müzesi",
+      "relation": "en çok ziyaret edilen yer",
+      "entity2": "Madrid"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Pera Müzesi",
+      "relation": "sergiler",
+      "entity2": "Fernando Botero"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Elvis Aaron Presley",
+      "relation": "bas gitarda eşlik eden",
+      "entity2": "Bill Black"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Zeki Müren",
+      "relation": "ilkokul",
+      "entity2": "Bursa Osmangazi İlkokulu"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Kaktüs",
+      "relation": "içerir",
+      "entity2": "Ariocarpus"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Kaşıkçı Elması",
+      "relation": "süslenmiştir",
+      "entity2": "çift sıra elmas"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ayçiçeği",
+      "relation": "diğer adı",
+      "entity2": "Gündoğdu"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Bob Dylan"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ludwig van Beethoven",
+      "relation": "etkilendiği akım",
+      "entity2": "aydınlanma çağı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Madonna Louise Ciccone",
+      "relation": "ilham",
+      "entity2": "Marilyn Monroe"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Alfredo James Pacino",
+      "relation": "rol aldı",
+      "entity2": "Bobby Deerfield"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ptolemaios Hanedanı",
+      "relation": "yazdırılmıştır",
+      "entity2": "Rosetta Taşı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Freddie Mercury",
+      "relation": "diploma alanı",
+      "entity2": "Sanat ve Grafik Tasarım"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin ağacı",
+      "relation": "yetiştirilir",
+      "entity2": "zeytin yaprağı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Louvre Müzesi",
+      "relation": "bulunur",
+      "entity2": "Nil Nehri"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mantar",
+      "relation": "kullanılır",
+      "entity2": "Ekmek"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "İskender Lahdi",
+      "relation": "tasvir edilen yer",
+      "entity2": "arka zemin"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "kıvrılmış eller",
+      "relation": "köşesi",
+      "entity2": "piramit"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Freddie Mercury",
+      "relation": "etki bıraktığı sanatçılar",
+      "entity2": "Iron Maiden"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Louvre Müzesi",
+      "relation": "bulunur",
+      "entity2": "Şehnâme"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Gül",
+      "relation": "yapraklıdır",
+      "entity2": "beş"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mantar",
+      "relation": "birleşir",
+      "entity2": "Algler"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "şarkı dili",
+      "entity2": "Yunanca"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Leonardo di ser Piero da Vinci",
+      "relation": "ilişki",
+      "entity2": "Servite rahipleri"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "rol aldı",
+      "entity2": "Rory Devany"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Tanrı Epiphanes Eukharistos",
+      "relation": "benzer",
+      "entity2": "Osiris"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "üretir",
+      "entity2": "alerjenik polen"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "tavan",
+      "relation": "sızıntı yaptı",
+      "entity2": "yağmur"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Freddie Mercury",
+      "relation": "anısına çıkarılan pul",
+      "entity2": "Kraliyet posta servisi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Sezen Aksu",
+      "relation": "ilk 45'lik",
+      "entity2": "Haydi Şansım"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "45'lik",
+      "entity2": "Bizim Gibi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Vatican City"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Prado Müzesi",
+      "relation": "içerir",
+      "entity2": "Hieronymus Bosch"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Cüneyt Arkın",
+      "relation": "rol aldı",
+      "entity2": "tiyatro oyunu"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Orhun Yazıtları",
+      "relation": "aittir",
+      "entity2": "II. Göktürk Kağanlığı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Alfredo James Pacino",
+      "relation": "rol aldı",
+      "entity2": "Winona Ryder"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Leonardo di ser Piero da Vinci",
+      "relation": "meslek",
+      "entity2": "İtalyan hezârfen"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "rol aldı",
+      "entity2": "Janet Mock"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Fahrettin Cüreklibatır",
+      "relation": "okudu",
+      "entity2": "Eskişehir Atatürk Lisesi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Muhtar Cem Karaca",
+      "relation": "dizi",
+      "entity2": "Avcı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "ödül",
+      "entity2": "Yılın Hümanisti"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Seth",
+      "relation": "emretti",
+      "entity2": "işçiler"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "rol aldı",
+      "entity2": "Cool World"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Prado Müzesi",
+      "relation": "içerir",
+      "entity2": "süs eşyaları"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Madonna Louise Ciccone",
+      "relation": "şarkıcı",
+      "entity2": "Quavo"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "45'lik",
+      "entity2": "The Jet"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Türkiye",
+      "relation": "bulunur",
+      "entity2": "doğu çınarı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Hayvenhurst"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Madonna Louise Ciccone",
+      "relation": "yapımcı",
+      "entity2": "Nate 'Danja' Hills"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Lisa del Giocondo",
+      "relation": "mensup",
+      "entity2": "Gherardini ailesi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Topkapı Sarayı",
+      "relation": "yapıları",
+      "entity2": "Gülhane Kasrı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "sap",
+      "relation": "yükseklik aralığı",
+      "entity2": "20–80 cm"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ölü Deniz Yazmaları",
+      "relation": "içerir",
+      "entity2": "Özgürlük Kitabı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Muhtar Cem Karaca",
+      "relation": "meslek",
+      "entity2": "sinema oyuncusu"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Gabon"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Darphane Genel Müdürlüğü",
+      "relation": "kullanır",
+      "entity2": "Restorasyon ve Konservasyon Merkez Laboratuvarı Müdürlüğü"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "verime sahiptir",
+      "entity2": "Türkiye ortalamasının altında"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Phaistos Diski",
+      "relation": "karşılaştırılmıştır",
+      "entity2": "Anadolu hiyeroglifleri"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Botswana"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ayasofya",
+      "relation": "Hristiyanlar için önemi",
+      "entity2": "sembolik ve eksen olma anlamı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "grup",
+      "entity2": "The Jacksons"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Sezen Aksu",
+      "relation": "doğum adı",
+      "entity2": "Fatma Sezen Yıldırım"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ayçiçeği ekimi",
+      "relation": "yapıldığı bölge",
+      "entity2": "Marmara bölgesi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "spor aktiviteleri",
+      "entity2": "tenis"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "içerir",
+      "entity2": "flavonoller"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "çıkarır",
+      "entity2": "fışkın benzeri sürgünler"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Lale",
+      "relation": "bırakmıştır",
+      "entity2": "Avrupalılar"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "mutfak lavantası",
+      "relation": "kullanılır",
+      "entity2": "azaltılmış soslar"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "İskender Lahdi",
+      "relation": "içerdiği sahne",
+      "entity2": "Persler ve Yunanlar arasındaki savaş sahnesi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "ilk TV rolü",
+      "entity2": "Another World"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ayçiçeği çiçekçikleri",
+      "relation": "yarıçap",
+      "entity2": "r yarıçap"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Orhun Yazıtları",
+      "relation": "içerir",
+      "entity2": "Türklerin millî millî edebiyatı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Catherine Élise Blanchett",
+      "relation": "kazanmış",
+      "entity2": "Altın Küre"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ali Kemal Sunal",
+      "relation": "film",
+      "entity2": "İnatçı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Sezen Aksu",
+      "relation": "toplumsal destek",
+      "entity2": "Delidir"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Kaşıkçı Elması",
+      "relation": "ağırlığıdır",
+      "entity2": "17,2 gram"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Leonardo Wilhelm DiCaprio",
+      "relation": "yönetmen",
+      "entity2": "Quentin Tarantino"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "British Museum",
+      "relation": "içerir",
+      "entity2": "Mısır hiyeroglifleri"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Adile Ayda",
+      "relation": "dikkatini çeken konu",
+      "entity2": "harita üzerindeki yazılar"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ali Kemal Sunal",
+      "relation": "oyuncu",
+      "entity2": "Ali Şen"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "İskender Lahdi",
+      "relation": "araştırma yöntemi",
+      "entity2": "ultraviyole floresans ışınları"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Şener Şen",
+      "relation": "oyuncu",
+      "entity2": "İkinci Bahar"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "kanal",
+      "entity2": "Kanal D"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "ilçe",
+      "entity2": "Bodrum"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Guarianthe skinneri",
+      "relation": "ulusal çiçeğidir",
+      "entity2": "Kosta Rika"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Leonardo di ser Piero da Vinci",
+      "relation": "biyografi yazarı",
+      "entity2": "Anonimo Gaddiano"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "değerlendirilir",
+      "entity2": "oyma kaseler"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ali Kemal Sunal",
+      "relation": "yönetmen",
+      "entity2": "Memduh Ün"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Audrey Hepburn",
+      "relation": "ilk filmi",
+      "entity2": "Young Wives Tale"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Leonardo di ser Piero da Vinci",
+      "relation": "meslek",
+      "entity2": "jeolog"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "şarkı",
+      "entity2": "Don't Stop 'Til You Get Enough"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ali Kemal Sunal",
+      "relation": "film",
+      "entity2": "Gülen Adam"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "bulaşır",
+      "entity2": "Cycloconium oleaginum mantar türü"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "İstanbul Arkeoloji Müzesi",
+      "relation": "koleksiyonunda içerir",
+      "entity2": "Afganistan"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Madonna Louise Ciccone",
+      "relation": "arkadaş",
+      "entity2": "Trudie Styler"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Dinamikler",
+      "relation": "kuruluş tarihi",
+      "entity2": "1963"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Freddie Mercury",
+      "relation": "konuşma sesi",
+      "entity2": "bariton"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "45'lik",
+      "entity2": "Lambaya Püf De"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Madonna Louise Ciccone",
+      "relation": "grup",
+      "entity2": "Beastie Boys"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "114 cm",
+      "relation": "uzunluğudur",
+      "entity2": "Rosetta Taşı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "oluştururlar",
+      "entity2": "embriyonik tomurcuklar"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "konuk oyuncu",
+      "entity2": "Freddy's Nightmares"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "II. Abdülhamid",
+      "relation": "döneminde inşa edilmiştir",
+      "entity2": "Eski Şark Eserleri Müzesi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Lavandula stoechas",
+      "relation": "zararlı ottur",
+      "entity2": "Victoria"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Kaktüs",
+      "relation": "korur",
+      "entity2": "Joshua Tree Ulusal Parkı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ayasofya",
+      "relation": "Doğu Ortodoks Kilisesi için önemi",
+      "entity2": "1000 yıl boyunca merkezi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Martin Waldseemüller",
+      "relation": "çizdiği harita",
+      "entity2": "1507"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin yaprağı",
+      "relation": "bulunur",
+      "entity2": "organik asitler"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Bulbophyllum",
+      "relation": "üretir",
+      "entity2": "metil öjenol"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "rol arkadaşları",
+      "entity2": "Emma Stone"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ayçiçeği çiçekçikleri",
+      "relation": "açı",
+      "entity2": "137.5°"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Leonardo Wilhelm DiCaprio",
+      "relation": "satın aldı",
+      "entity2": "Dinah Shore"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Phaistos Diski",
+      "relation": "tartışmalıdır",
+      "entity2": "Girit kökenli"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Zeki Müren",
+      "relation": "ilk radyo konser",
+      "entity2": "TRT İstanbul Radyosu"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "rol arkadaşları",
+      "entity2": "Morgan Freeman"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Pera Müzesi",
+      "relation": "yürütür",
+      "entity2": "Pera Engelsiz"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Madonna Louise Ciccone",
+      "relation": "şarkı",
+      "entity2": "Ray of Light"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Taiwan"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Elvis Aaron Presley",
+      "relation": "kayıt ettiği şarkı",
+      "entity2": "Jailhouse Rock"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Zeki Müren",
+      "relation": "şiir",
+      "entity2": "Kendimi Arıyorum"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Metropolitan Sanat Müzesi",
+      "relation": "bilinir",
+      "entity2": "Met"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Tarkan",
+      "relation": "büyüdüğü yer",
+      "entity2": "Alzey"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "rol aldı",
+      "entity2": "12 Monkeys"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Turkmenistan"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Portugal"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Madonna Louise Ciccone",
+      "relation": "konser",
+      "entity2": "Live Aid"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "rol aldı",
+      "entity2": "Seven Years in Tibet"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Kaktüs",
+      "relation": "kaybetmiştir",
+      "entity2": "yaprak"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Madonna Louise Ciccone",
+      "relation": "şarkı",
+      "entity2": "Diamonds Are a Girl's Best Friend"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ayçiçeği hasadı",
+      "relation": "yapıldığı araç",
+      "entity2": "buğday biçer döver"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Leonardo da Vinci",
+      "relation": "başladı",
+      "entity2": "Mona Lisa"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "evlendiği yer",
+      "entity2": "Château Miraval, Fransa"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Platanus çiçekleri",
+      "relation": "taşır",
+      "entity2": "yapraklar"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Tarkan",
+      "relation": "ödül aldığı ödül",
+      "entity2": "Dünya Müzik Ödülleri"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Tanrı Epiphanes Eukharistos",
+      "relation": "vermiştir",
+      "entity2": "güç"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Madonna Louise Ciccone",
+      "relation": "yapımcı",
+      "entity2": "Reggie Lucas"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Sezen Aksu",
+      "relation": "TV programı",
+      "entity2": "Sezen Aksu Show"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Kaktüs",
+      "relation": "tanımlandı",
+      "entity2": "Opuntia ficus-indica"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Lavandin",
+      "relation": "bilinir",
+      "entity2": "Hollanda lavantası"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "grup",
+      "entity2": "Kurtalan Ekspres"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Freddie Mercury",
+      "relation": "yazarı",
+      "entity2": "Killer Queen"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "meslek",
+      "entity2": "besteci"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Louvre Müzesi",
+      "relation": "bağışlanmıştır",
+      "entity2": "Baron Edmond de Rothschild"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Alfredo James Pacino",
+      "relation": "rol aldı",
+      "entity2": "ABC television series NYPD"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Chiaramonti müzesi",
+      "relation": "ihtiva eder",
+      "entity2": "heykeller"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ayasofya",
+      "relation": "inşaatında çalışan kişi sayısı",
+      "entity2": "10.000 kişi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Freddie Mercury",
+      "relation": "etki bıraktığı sanatçılar",
+      "entity2": "The Killers"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "45'lik",
+      "entity2": "Can Bedenden Çıkmayınca"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Nergis",
+      "relation": "tarımı yapılır",
+      "entity2": "Kuzey Afrika"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "olay",
+      "entity2": "12 Eylül Darbesi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Karaca",
+      "relation": "köken",
+      "entity2": "Azerbaycan"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Metropolitan Sanat Müzesi",
+      "relation": "bulundurur",
+      "entity2": "Roma"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "grup üyesi",
+      "entity2": "Oktay Aldoğan"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Topkapı Sarayı",
+      "relation": "yapıları",
+      "entity2": "Yalı Köşkü"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Zeki Müren",
+      "relation": "kukla",
+      "entity2": "Hayali Saf Deri"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "olur",
+      "entity2": "büyük bir hasat"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "seçildi",
+      "entity2": "Time"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Platanus kabuk",
+      "relation": "dökülür",
+      "entity2": "pul pul"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "müzik türü",
+      "entity2": "Anadolu Pop"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Freddie Mercury",
+      "relation": "etki bıraktığı sanatçılar",
+      "entity2": "Extreme"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Zeki Müren",
+      "relation": "şiir",
+      "entity2": "Bursa Sokağı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Orhun Yazıtları",
+      "relation": "içerir",
+      "entity2": "Türklerin millî anıtları"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Freddie Mercury",
+      "relation": "dini",
+      "entity2": "Zerdüşt"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "gösterirler",
+      "entity2": "bir tercih"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Audrey Hepburn",
+      "relation": "Mel Ferrer'den olan çocuğu",
+      "entity2": "Sean"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Destiny Tour"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "ünvan kazandı",
+      "entity2": "Dünyanın En Seksi Adamı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Napolyon",
+      "relation": "yapmıştır",
+      "entity2": "Mısır Seferi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Orhun Yazıtları",
+      "relation": "içerir",
+      "entity2": "Tonyukuk'un sözleri"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "gelişir",
+      "entity2": "kireçtaşı yamaçlarda ve sarplarda"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ali Kemal Sunal",
+      "relation": "film",
+      "entity2": "Katma Değer Şaban"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "plak şirketi",
+      "entity2": "CBS"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ali Kemal Sunal",
+      "relation": "meslek",
+      "entity2": "senarist"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Şener Şen",
+      "relation": "doğum yeri",
+      "entity2": "Adana"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "yönetmenle çalıştı",
+      "entity2": "David Fincher"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zambakgiller",
+      "relation": "bilinen adı",
+      "entity2": "Liliaceae"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "yaşam yeri",
+      "entity2": "Cihangir"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "en büyük üreticiydi",
+      "entity2": "İspanya"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "grup",
+      "entity2": "Jackson 5"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Leonardo Wilhelm DiCaprio",
+      "relation": "canlandırdığı karakter",
+      "entity2": "Howard Hughes"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Sadrazam Köprülü Fazıl Ahmed Paşa",
+      "relation": "duyar",
+      "entity2": "olay"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Naarda",
+      "relation": "bulunur",
+      "entity2": "Suriye"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "artmaktadır",
+      "entity2": "popülaritesi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Nematoceras",
+      "relation": "bulunur",
+      "entity2": "Macquarie Adası"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "defne türleri",
+      "relation": "yayılışa sahipti",
+      "entity2": "Kuzey Afrika"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Madonna Louise Ciccone",
+      "relation": "şarkıcı",
+      "entity2": "070 Shake"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Türkan Şoray",
+      "relation": "anne tarafı kökeni",
+      "entity2": "Selanik"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Cüneyt Arkın",
+      "relation": "rol aldı",
+      "entity2": "Sürgündeki Adam"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "kardeş",
+      "entity2": "Marlon Jackson"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ayasofya",
+      "relation": "kubbe boyutu",
+      "entity2": "Roma'daki Pantheon'un kubbesinden küçük"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ayçiçeği hasadı",
+      "relation": "yapıldığı durum",
+      "entity2": "gövdenin tamamen kahverengi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Oxford kontları Edward ve Robert Harley",
+      "relation": "mirastan bıraktı",
+      "entity2": "el yazması kütüphanesi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Tarkan",
+      "relation": "müzik eğitimi aldığı yer",
+      "entity2": "Karamürsel"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Leonardo Wilhelm DiCaprio",
+      "relation": "ilişki yaşadı",
+      "entity2": "Toni Garrn"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Duhok",
+      "relation": "bulunur",
+      "entity2": "Irak"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Leonardo Wilhelm DiCaprio",
+      "relation": "aday gösterildi",
+      "entity2": "BAFTA Ödülü"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Leonardo Wilhelm DiCaprio",
+      "relation": "oyunculuk yaptı",
+      "entity2": "Hızlı ve Ölü"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Whitney Houston"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Lale",
+      "relation": "renkleri",
+      "entity2": "kırmızı çiçek"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "lakap",
+      "entity2": "Barış Çelebi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "yönetmenle çalıştı",
+      "entity2": "Robert Redford"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Orhun Yazıtları",
+      "relation": "içerir",
+      "entity2": "Türklerin ulusal değeri"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "şehir",
+      "entity2": "Londra"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "amca lakabı",
+      "entity2": "Tosun Yusuf"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Zeki Müren",
+      "relation": "cenaze töreni",
+      "entity2": "Ahmet Vefik Paşa Sahnesi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Lavanta",
+      "relation": "korur",
+      "entity2": "böcekler"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Platanus",
+      "relation": "etkilenmez",
+      "entity2": "toz"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Lale",
+      "relation": "yaygındır",
+      "entity2": "Hollanda"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Madonna Louise Ciccone",
+      "relation": "sanatçı",
+      "entity2": "Elvis Presley"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Kyrgyzstan"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Phaistos Diski",
+      "relation": "tarihlenmiştir",
+      "entity2": "Yves Duhoux"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Saccharomyces",
+      "relation": "kullanılır",
+      "entity2": "Ekmek yapımı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "zordur",
+      "entity2": "hasadı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Pîrî Reis Haritası",
+      "relation": "gösterdiği kıyılar",
+      "entity2": "Afrika"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Kadir İnanır",
+      "relation": "oyuncu partneri",
+      "entity2": "Fatma Girik"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Tanrı Epiphanes Eukharistos",
+      "relation": "gitmiştir",
+      "entity2": "Busirite"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin ağacı",
+      "relation": "içerir",
+      "entity2": "meyvesi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Sezen Aksu",
+      "relation": "toplumsal destek",
+      "entity2": "Hikmet Çetinkaya"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Louvre Müzesi",
+      "relation": "bulunur",
+      "entity2": "Yeni Krallık"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Antikitera düzeneği",
+      "relation": "bozunmuş",
+      "entity2": "tuza dayanıklı malzeme"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "destekledi",
+      "entity2": "Missouri Üniversitesi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Platanus",
+      "relation": "bulunur",
+      "entity2": "dere"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Leonardo Wilhelm DiCaprio",
+      "relation": "yönetmen",
+      "entity2": "Martin Scorsese"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "British Museum",
+      "relation": "bulunur",
+      "entity2": "Londra"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Kadir İnanır",
+      "relation": "doğum yeri",
+      "entity2": "Fatsa"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mantar",
+      "relation": "ihtiyaç duyar",
+      "entity2": "Işık"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Lavanta",
+      "relation": "gelişir",
+      "entity2": "çakıllı toprak"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Medici ailesi",
+      "relation": "kullandı",
+      "entity2": "Uffizi Galerisi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "albüm",
+      "entity2": "3552"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin yaprağı",
+      "relation": "bulunur",
+      "entity2": "uçucu yağlar"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "rol arkadaşları",
+      "entity2": "Antonio Banderas"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "William Bradley Pitt",
+      "relation": "bağış yaptı",
+      "entity2": "Global Action for Children"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Alfredo James Pacino",
+      "relation": "eğitim aldı",
+      "entity2": "The Actors Studio"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Montenegro"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "sinema",
+      "entity2": "Emek Sineması"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Hasfırın",
+      "relation": "bulunur",
+      "entity2": "Topkapı Sarayı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Alfredo James Pacino",
+      "relation": "kazandı",
+      "entity2": "Academy Award"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin ağacı",
+      "relation": "dizilir",
+      "entity2": "yaprakları"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Pîrî Reis Haritası",
+      "relation": "gösterdiği kıyılar",
+      "entity2": "Güney Amerika"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "İskender Lahdi",
+      "relation": "tasvir edilen halk",
+      "entity2": "Sidon halkı"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ali Kemal Sunal",
+      "relation": "ilk sinema filmi",
+      "entity2": "Tatlı Dillim"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "kahinler",
+      "relation": "başı",
+      "entity2": "rahipler"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Madonna Louise Ciccone",
+      "relation": "albüm",
+      "entity2": "Remixed & Revisited"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Taeniophyllum",
+      "relation": "bağımlıdır",
+      "entity2": "yeşil kökleri"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Orhun Yazıtları",
+      "relation": "içerir",
+      "entity2": "Türklerin fonolojisi"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Lale",
+      "relation": "görülmemiştir",
+      "entity2": "12. yy"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Zeki Müren",
+      "relation": "sahne",
+      "entity2": "Maksim Gazinosu"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "İskender Lahdi",
+      "relation": "sergilendiği yer",
+      "entity2": "İstanbul Arkeoloji Müzeleri"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Tanrı Epiphanes Eukharistos",
+      "relation": "yok etmiştir",
+      "entity2": "kafirler"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Leonardo Wilhelm DiCaprio",
+      "relation": "oyunculuk yaptı",
+      "entity2": "Roseanne"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Phaistos Diski",
+      "relation": "tartışmalıdır",
+      "entity2": "özgün icat"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "İskender Lahdi",
+      "relation": "rekonstrüksiyonu",
+      "entity2": "Alman Arkeoloji Enstitüsü"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Zeki Müren",
+      "relation": "şiir",
+      "entity2": "Çim Makası"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "yönetmen",
+      "entity2": "Stan Winston"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Orchidaceae",
+      "relation": "içerir",
+      "entity2": "Orchis"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "şarkı",
+      "entity2": "Remember the Time"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "This Is It Tour"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "devlet hazinesi",
+      "relation": "girer",
+      "entity2": "taş"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Tulipa",
+      "relation": "aittir",
+      "entity2": "zambakgiller"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "İskender Lahdi",
+      "relation": "tasvir edilen durum",
+      "entity2": "sanatsal şölen"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Republic of the Congo"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "grup",
+      "entity2": "Harmoniler"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Alfredo James Pacino",
+      "relation": "rol aldı",
+      "entity2": "Carlito's Way"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "ödül",
+      "entity2": "Brit Ödülleri"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "zeytin",
+      "relation": "sürebilir",
+      "entity2": "tuz paketiyle"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Zeki Müren",
+      "relation": "şiir",
+      "entity2": "İkinci Sadık Dost"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Zeki Müren",
+      "relation": "şiir kitabı",
+      "entity2": "Bıldırcın Yağmuru"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Phaistos Diski",
+      "relation": "bulunmuştur",
+      "entity2": "Hagia Triada"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Catherine Élise Blanchett",
+      "relation": "canlandırdığı",
+      "entity2": "Irina Spalko"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Zeki Müren",
+      "relation": "sahne partneri",
+      "entity2": "Behiye Aksoy"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Michael Joseph Jackson",
+      "relation": "proje",
+      "entity2": "Thriller Tour"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Ali Kemal Sunal",
+      "relation": "oyuncu",
+      "entity2": "Akil Öztuna"
+    }
+  },
+  {
+    "source": "KG-Gen",
+    "triple": {
+      "entity1": "Mehmet Barış Manço",
+      "relation": "sanatçı",
+      "entity2": "Erkin Koray"
+    }
+  }
+]

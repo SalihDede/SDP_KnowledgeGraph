@@ -1,0 +1,2394 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Solunga%C3%A7)",
+    "metin": "İki çift solungaçları vardır.",
+    "triple": {
+      "baş": "Solungaç",
+      "baş_tipi": "Özellik",
+      "ilişki": "sayı",
+      "uç": "İki çift",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kabuk)",
+    "metin": "Notilus, Güney Pasifik 'in derin sularında yaşar.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "yaşar",
+      "uç": "Güney Pasifik",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kabuk)",
+    "metin": "Notilus, Güney Pasifik 'in derin sularında yaşar.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "yaşar",
+      "uç": "derin sular",
+      "uç_tipi": "Habitat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kabuk)",
+    "metin": "Kabuklarına Malayi Adaları sahillerinde bol rastlanır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "rastlanır",
+      "uç": "Malayi Adaları",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kabuk)",
+    "metin": "Kabuklarına Malayi Adaları sahillerinde bol rastlanır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "rastlanır",
+      "uç": "sahil",
+      "uç_tipi": "Habitat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kabuk)",
+    "metin": "Helezon şekilli kabukları odacıklıdır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "şekli",
+      "uç": "helezon",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kabuk)",
+    "metin": "Helezon şekilli kabukları odacıklıdır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "özelliği",
+      "uç": "odacıklı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kafadan_bacakl%C4%B1lar)",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "ait olduğu sınıf",
+      "uç": "Kafadan bacaklılar",
+      "uç_tipi": "Sınıf"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kafadan_bacakl%C4%B1lar)",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "ait olduğu familya",
+      "uç": "Nautilidae",
+      "uç_tipi": "Familya"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kafadan_bacakl%C4%B1lar)",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "ortak adı",
+      "uç": "Deniz canlısı",
+      "uç_tipi": "Canlı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kafadan_bacakl%C4%B1lar)",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "kökeni",
+      "uç": "Nautilus (Latince)",
+      "uç_tipi": "Sözcük"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Familya)",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "ait olduğu sınıf",
+      "uç": "Kafadan bacaklılar",
+      "uç_tipi": "Sınıf"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Familya)",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "ait olduğu familya",
+      "uç": "Nautilidae",
+      "uç_tipi": "Familya"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Familya)",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "ortak adı",
+      "uç": "Deniz canlısı",
+      "uç_tipi": "Canlı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Familya)",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "kökeni",
+      "uç": "Nautilus (Latince)",
+      "uç_tipi": "Sözcük"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Malayi_Adalar%C4%B1&action=edit&redlink=1)",
+    "metin": "Notilus, Güney Pasifik 'in derin sularında yaşar.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "yaşar",
+      "uç": "Güney Pasifik",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Malayi_Adalar%C4%B1&action=edit&redlink=1)",
+    "metin": "Notilus, Güney Pasifik 'in derin sularında yaşar.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "yaşar",
+      "uç": "derin sular",
+      "uç_tipi": "Habitat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Malayi_Adalar%C4%B1&action=edit&redlink=1)",
+    "metin": "Kabuklarına Malayi Adaları sahillerinde bol rastlanır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "rastlanır",
+      "uç": "Malayi Adaları",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Malayi_Adalar%C4%B1&action=edit&redlink=1)",
+    "metin": "Kabuklarına Malayi Adaları sahillerinde bol rastlanır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "rastlanır",
+      "uç": "sahil",
+      "uç_tipi": "Habitat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Malayi_Adalar%C4%B1&action=edit&redlink=1)",
+    "metin": "Helezon şekilli kabukları odacıklıdır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "şekli",
+      "uç": "helezon",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Malayi_Adalar%C4%B1&action=edit&redlink=1)",
+    "metin": "Helezon şekilli kabukları odacıklıdır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "özelliği",
+      "uç": "odacıklı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cins)",
+    "metin": "Nautilina alt takımının içindeki tek familya olan Nautilidae, toplam 6 türü barındıran 2 cinsten oluşur ve tipik cinsi de Nautilus 'tur (bakınız: Ayrıntılı sınıflandırma ).",
+    "triple": {
+      "baş": "Nautilidae",
+      "baş_tipi": "Familya",
+      "ilişki": "içerir",
+      "uç": "Nautilina",
+      "uç_tipi": "Alt Takım"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cins)",
+    "metin": "Nautilina alt takımının içindeki tek familya olan Nautilidae, toplam 6 türü barındıran 2 cinsten oluşur ve tipik cinsi de Nautilus 'tur (bakınız: Ayrıntılı sınıflandırma ).",
+    "triple": {
+      "baş": "Nautilidae",
+      "baş_tipi": "Familya",
+      "ilişki": "oluşur",
+      "uç": "Cins",
+      "uç_tipi": "Sınıflandırma Birimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cins)",
+    "metin": "Nautilina alt takımının içindeki tek familya olan Nautilidae, toplam 6 türü barındıran 2 cinsten oluşur ve tipik cinsi de Nautilus 'tur (bakınız: Ayrıntılı sınıflandırma ).",
+    "triple": {
+      "baş": "Nautilidae",
+      "baş_tipi": "Familya",
+      "ilişki": "barındırır",
+      "uç": "6 tür",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Cins)",
+    "metin": "Nautilina alt takımının içindeki tek familya olan Nautilidae, toplam 6 türü barındıran 2 cinsten oluşur ve tipik cinsi de Nautilus 'tur (bakınız: Ayrıntılı sınıflandırma ).",
+    "triple": {
+      "baş": "Nautilidae",
+      "baş_tipi": "Familya",
+      "ilişki": "tipik cinsi",
+      "uç": "Nautilus",
+      "uç_tipi": "Cins"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/S%C4%B1n%C4%B1f_(biyoloji))",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "ait olduğu sınıf",
+      "uç": "Kafadan bacaklılar",
+      "uç_tipi": "Sınıf"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/S%C4%B1n%C4%B1f_(biyoloji))",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "ait olduğu familya",
+      "uç": "Nautilidae",
+      "uç_tipi": "Familya"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/S%C4%B1n%C4%B1f_(biyoloji))",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "ortak adı",
+      "uç": "Deniz canlısı",
+      "uç_tipi": "Canlı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/S%C4%B1n%C4%B1f_(biyoloji))",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "kökeni",
+      "uç": "Nautilus (Latince)",
+      "uç_tipi": "Sözcük"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=G%C3%BCney_Pasifik&action=edit&redlink=1)",
+    "metin": "Notilus, Güney Pasifik 'in derin sularında yaşar.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "yaşar",
+      "uç": "Güney Pasifik",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=G%C3%BCney_Pasifik&action=edit&redlink=1)",
+    "metin": "Notilus, Güney Pasifik 'in derin sularında yaşar.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "yaşar",
+      "uç": "derin sular",
+      "uç_tipi": "Habitat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=G%C3%BCney_Pasifik&action=edit&redlink=1)",
+    "metin": "Kabuklarına Malayi Adaları sahillerinde bol rastlanır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "rastlanır",
+      "uç": "Malayi Adaları",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=G%C3%BCney_Pasifik&action=edit&redlink=1)",
+    "metin": "Kabuklarına Malayi Adaları sahillerinde bol rastlanır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "rastlanır",
+      "uç": "sahil",
+      "uç_tipi": "Habitat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=G%C3%BCney_Pasifik&action=edit&redlink=1)",
+    "metin": "Helezon şekilli kabukları odacıklıdır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "şekli",
+      "uç": "helezon",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=G%C3%BCney_Pasifik&action=edit&redlink=1)",
+    "metin": "Helezon şekilli kabukları odacıklıdır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "özelliği",
+      "uç": "odacıklı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mukus)",
+    "metin": "Dişi, döllenmiş kapsüllü yumurtalarını tek tek veya mukusla örtülü kümeler halinde sabit cisimlere yapıştırır.",
+    "triple": {
+      "baş": "Dişi",
+      "baş_tipi": "Canlı",
+      "ilişki": "yapıştırır",
+      "uç": "yumurtalarını",
+      "uç_tipi": "Yumurta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mukus)",
+    "metin": "Dişi, döllenmiş kapsüllü yumurtalarını tek tek veya mukusla örtülü kümeler halinde sabit cisimlere yapıştırır.",
+    "triple": {
+      "baş": "yumurtalarını",
+      "baş_tipi": "Yumurta",
+      "ilişki": "döllenmiş kapsüllü",
+      "uç": "döllenmiş kapsüllü",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mukus)",
+    "metin": "Dişi, döllenmiş kapsüllü yumurtalarını tek tek veya mukusla örtülü kümeler halinde sabit cisimlere yapıştırır.",
+    "triple": {
+      "baş": "yumurtalarını",
+      "baş_tipi": "Yumurta",
+      "ilişki": "mukusla örtülü kümeler halinde",
+      "uç": "mukusla örtülü kümeler halinde",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Mukus)",
+    "metin": "Dişi, döllenmiş kapsüllü yumurtalarını tek tek veya mukusla örtülü kümeler halinde sabit cisimlere yapıştırır.",
+    "triple": {
+      "baş": "Dişi",
+      "baş_tipi": "Canlı",
+      "ilişki": "yapıştırır",
+      "uç": "sabit cisimlere",
+      "uç_tipi": "Cisim"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org#Ayrıntılı_sınıflandırma)",
+    "metin": "Nautilina alt takımının içindeki tek familya olan Nautilidae, toplam 6 türü barındıran 2 cinsten oluşur ve tipik cinsi de Nautilus 'tur (bakınız: Ayrıntılı sınıflandırma ).",
+    "triple": {
+      "baş": "Nautilidae",
+      "baş_tipi": "Familya",
+      "ilişki": "ait olduğu alt takım",
+      "uç": "Nautilina",
+      "uç_tipi": "Alt Takım"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org#Ayrıntılı_sınıflandırma)",
+    "metin": "Nautilina alt takımının içindeki tek familya olan Nautilidae, toplam 6 türü barındıran 2 cinsten oluşur ve tipik cinsi de Nautilus 'tur (bakınız: Ayrıntılı sınıflandırma ).",
+    "triple": {
+      "baş": "Nautilidae",
+      "baş_tipi": "Familya",
+      "ilişki": "oluşur",
+      "uç": "cins",
+      "uç_tipi": "Sınıflandırma"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org#Ayrıntılı_sınıflandırma)",
+    "metin": "Nautilina alt takımının içindeki tek familya olan Nautilidae, toplam 6 türü barındıran 2 cinsten oluşur ve tipik cinsi de Nautilus 'tur (bakınız: Ayrıntılı sınıflandırma ).",
+    "triple": {
+      "baş": "Nautilidae",
+      "baş_tipi": "Familya",
+      "ilişki": "içerdiği tür sayısı",
+      "uç": "6",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org#Ayrıntılı_sınıflandırma)",
+    "metin": "Nautilina alt takımının içindeki tek familya olan Nautilidae, toplam 6 türü barındıran 2 cinsten oluşur ve tipik cinsi de Nautilus 'tur (bakınız: Ayrıntılı sınıflandırma ).",
+    "triple": {
+      "baş": "Nautilidae",
+      "baş_tipi": "Familya",
+      "ilişki": "tipik cinsi",
+      "uç": "Nautilus",
+      "uç_tipi": "Cins"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Metamorfoz)",
+    "metin": "Nadir hallerde serbest olarak suya bırakır.",
+    "triple": {
+      "baş": "Nadir hallerde",
+      "baş_tipi": "Özellik",
+      "ilişki": "durumunda",
+      "uç": "serbest olarak suya bırakır",
+      "uç_tipi": "Eylem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Metamorfoz)",
+    "metin": "Metamorfoz (başkalaşım) yoktur.",
+    "triple": {
+      "baş": "Metamorfoz",
+      "baş_tipi": "Kavram",
+      "ilişki": "yoktur",
+      "uç": "başkalaşım",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCr)",
+    "metin": "320,000 civarında bitki türü vardır ve bunların büyük çoğunluğu (260,000 ila 290,000 kadarı) tohum üretir .",
+    "triple": {
+      "baş": "Bitki Türü",
+      "baş_tipi": "Kavram",
+      "ilişki": "sayısı",
+      "uç": "320000",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCr)",
+    "metin": "320,000 civarında bitki türü vardır ve bunların büyük çoğunluğu (260,000 ila 290,000 kadarı) tohum üretir .",
+    "triple": {
+      "baş": "Bitki Türü",
+      "baş_tipi": "Kavram",
+      "ilişki": "tohum üretir",
+      "uç": "260000-290000",
+      "uç_tipi": "Sayı Aralığı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCr)",
+    "metin": "Kabul edilmiş yaklaşık 382.000 bitki türü bulunmakta ve bunların büyük çoğunluğunu oluşturan yaklaşık 283.000 türü tohum üretmektedir .",
+    "triple": {
+      "baş": "Bitki Türü",
+      "baş_tipi": "Kavram",
+      "ilişki": "sayısı",
+      "uç": "382000",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCr)",
+    "metin": "Kabul edilmiş yaklaşık 382.000 bitki türü bulunmakta ve bunların büyük çoğunluğunu oluşturan yaklaşık 283.000 türü tohum üretmektedir .",
+    "triple": {
+      "baş": "Bitki Türü",
+      "baş_tipi": "Kavram",
+      "ilişki": "tohum üretir",
+      "uç": "283000",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCr)",
+    "metin": "Nautilina alt takımının içindeki tek familya olan Nautilidae, toplam 6 türü barındıran 2 cinsten oluşur ve tipik cinsi de Nautilus 'tur (bakınız: Ayrıntılı sınıflandırma ).",
+    "triple": {
+      "baş": "Nautilidae",
+      "baş_tipi": "Familya",
+      "ilişki": "ait olduğu alt takım",
+      "uç": "Nautilina",
+      "uç_tipi": "Alt Takım"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCr)",
+    "metin": "Nautilina alt takımının içindeki tek familya olan Nautilidae, toplam 6 türü barındıran 2 cinsten oluşur ve tipik cinsi de Nautilus 'tur (bakınız: Ayrıntılı sınıflandırma ).",
+    "triple": {
+      "baş": "Nautilidae",
+      "baş_tipi": "Familya",
+      "ilişki": "içerdiği tür sayısı",
+      "uç": "6",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCr)",
+    "metin": "Nautilina alt takımının içindeki tek familya olan Nautilidae, toplam 6 türü barındıran 2 cinsten oluşur ve tipik cinsi de Nautilus 'tur (bakınız: Ayrıntılı sınıflandırma ).",
+    "triple": {
+      "baş": "Nautilidae",
+      "baş_tipi": "Familya",
+      "ilişki": "içerdiği cins sayısı",
+      "uç": "2",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCr)",
+    "metin": "Nautilina alt takımının içindeki tek familya olan Nautilidae, toplam 6 türü barındıran 2 cinsten oluşur ve tipik cinsi de Nautilus 'tur (bakınız: Ayrıntılı sınıflandırma ).",
+    "triple": {
+      "baş": "Nautilidae",
+      "baş_tipi": "Familya",
+      "ilişki": "tipik cinsi",
+      "uç": "Nautilus",
+      "uç_tipi": "Cins"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Bu da Latincedeki Mediterraneus tan ( Medi : Orta + terra : Toprak, yer) gelmektedir.",
+    "triple": {
+      "baş": "Mediterraneus",
+      "baş_tipi": "Dil",
+      "ilişki": "kökeni",
+      "uç": "Akdeniz",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Yunancada Mesogeios denir.",
+    "triple": {
+      "baş": "Mesogeios",
+      "baş_tipi": "Dil",
+      "ilişki": "karşılığı",
+      "uç": "Akdeniz",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Arapçadaki karşılığı البحر الأبيض المتوسط (El Bahre-l Ebyedu'l-Mutavassit) “'ortada yer alan beyaz deniz'” anlamındadır.",
+    "triple": {
+      "baş": "البحر الأبيض المتوسط",
+      "baş_tipi": "Dil",
+      "ilişki": "karşılığı",
+      "uç": "Akdeniz",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Farsçada Akdeniz için kullanılan Bahr-i Sefid ismi Osmanlı dönemi haritalarında da gözükmektedir.",
+    "triple": {
+      "baş": "Bahr-i Sefid",
+      "baş_tipi": "Dil",
+      "ilişki": "karşılığı",
+      "uç": "Akdeniz",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Romalılar da Mare Nostrum olarak tanımlanmaktaydı, anlamı ise Bizim Deniz 'di.",
+    "triple": {
+      "baş": "Mare Nostrum",
+      "baş_tipi": "Dil",
+      "ilişki": "karşılığı",
+      "uç": "Akdeniz",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Romalılar da Mare Nostrum olarak tanımlanmaktaydı, anlamı ise Bizim Deniz 'di.",
+    "triple": {
+      "baş": "Mare Nostrum",
+      "baş_tipi": "Dil",
+      "ilişki": "anlamı",
+      "uç": "Bizim Deniz",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Nautilus",
+      "baş_tipi": "Dil",
+      "ilişki": "kökeni",
+      "uç": "Notilus",
+      "uç_tipi": "Canlı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Nautilidae",
+      "baş_tipi": "Familya",
+      "ilişki": "üyesi",
+      "uç": "Notilus",
+      "uç_tipi": "Canlı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Cephalopoda",
+      "baş_tipi": "Sınıf",
+      "ilişki": "dahil",
+      "uç": "Nautilidae",
+      "uç_tipi": "Familya"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Elektrik kelimesi Türkçeye , Fransızcada da aynı anlamı taşıyan électrique kelimesinden geçti.",
+    "triple": {
+      "baş": "Elektrik",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "électrique",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Sözcüğün Latince karşılığı olan litteratura Fransızcaya geçmiş ( littérature ) ve Fransızcadan da Türkçeye geçmiştir.",
+    "triple": {
+      "baş": "litteratura",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "littérature",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Sözcüğün Latince karşılığı olan litteratura Fransızcaya geçmiş ( littérature ) ve Fransızcadan da Türkçeye geçmiştir.",
+    "triple": {
+      "baş": "littérature",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Türkçe",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Esasen Batı 'da genel ifadeyle \"doğu\", \"güneşin doğduğu yer\" veya \"İtalya'nın doğusunda kalan Akdeniz toprakları\" için kullanılagelen tabir Türkçeye Fransızcadan geçmiştir.",
+    "triple": {
+      "baş": "tabir",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Fransızca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Hanedan, bir dizi hükümdar veya devlet yöneticisinin dahil olduğu geniş ve nüfuzlu sülale . Türkçeye Farsçadan geçen sözcüğün kökü \"hane\" (ev) kelimesine dayanır.",
+    "triple": {
+      "baş": "Hanedan",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Farsça",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Türkçeye Farsçadan geçen sözcüğün kökü \"hane\" (ev) kelimesine dayanır.",
+    "triple": {
+      "baş": "Hanedan",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökü",
+      "uç": "hane",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Türkçeye Fransızcadan geçen kavram Yunanca \"oligo-\" (az, birkaç) ve \"arkhein\" (yönetmek) kelimelerinden oluşturulmuştur.",
+    "triple": {
+      "baş": "kavram",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Fransızca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Türkçeye Fransızcadan geçen kavram Yunanca \"oligo-\" (az, birkaç) ve \"arkhein\" (yönetmek) kelimelerinden oluşturulmuştur.",
+    "triple": {
+      "baş": "kavram",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşmuştur",
+      "uç": "oligo-",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Türkçeye Fransızcadan geçen kavram Yunanca \"oligo-\" (az, birkaç) ve \"arkhein\" (yönetmek) kelimelerinden oluşturulmuştur.",
+    "triple": {
+      "baş": "kavram",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşmuştur",
+      "uç": "arkhein",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Geniş bir perspektiften bakıldığında, üs alma ve logaritma gibi işlemleri de kapsar. Türkçeye Fransızcadan geçen \"aritmetik\" terimi, Latince arithmetica kelimesinden türetilmiş olup, bu kelime Antik Yunanca ἀριθμός (arithmos), yani \" sayı \" ve ἀριθμητική τέχνη (arithmetike tekhne), yani \"sayma sanatı\" anlamına gelmektedir.",
+    "triple": {
+      "baş": "aritmetik",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Fransızca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Türkçeye Fransızcadan geçen \"aritmetik\" terimi, Latince arithmetica kelimesinden türetilmiş olup, bu kelime Antik Yunanca ἀριθμός (arithmos), yani \" sayı \" ve ἀριθμητική τέχνη (arithmetike tekhne), yani \"sayma sanatı\" anlamına gelmektedir.",
+    "triple": {
+      "baş": "aritmetik",
+      "baş_tipi": "Kavram",
+      "ilişki": "türetilmiştir",
+      "uç": "arithmetica",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Ampul kelimesi Türkçeye ; Fransızcadan ampoule (şişecik, tüp, ampul), Fransızcaya da Latinceden ampulla , ampora (testi) ve Latinceye de Grekçeden αμφορεύς (okunuşu: amphoreús) şeklinde geçmiştir.",
+    "triple": {
+      "baş": "Ampul",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "ampoule",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Ampul kelimesi Türkçeye ; Fransızcadan ampoule (şişecik, tüp, ampul), Fransızcaya da Latinceden ampulla , ampora (testi) ve Latinceye de Grekçeden αμφορεύς (okunuşu: amphoreús) şeklinde geçmiştir.",
+    "triple": {
+      "baş": "ampoule",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "ampulla",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Ampul kelimesi Türkçeye ; Fransızcadan ampoule (şişecik, tüp, ampul), Fransızcaya da Latinceden ampulla , ampora (testi) ve Latinceye de Grekçeden αμφορεύς (okunuşu: amphoreús) şeklinde geçmiştir.",
+    "triple": {
+      "baş": "ampulla",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "amfora",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Ampul kelimesi Türkçeye ; Fransızcadan ampoule (şişecik, tüp, ampul), Fransızcaya da Latinceden ampulla , ampora (testi) ve Latinceye de Grekçeden αμφορεύς (okunuşu: amphoreús) şeklinde geçmiştir.",
+    "triple": {
+      "baş": "ampulla",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "αμφορεύς",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "İskender'in Grekçe olan adı Aleksandros 'tur. Hükümdarlığı sırasında yürüttüğü geniş fetih seferleri ve kazandığı savaşlar sayesinde Büyük Aleksandros anlamına gelen Aleksandros ho Mégas ( Grekçe : Ἀλέξανδρος ὁ Μέγας ) olarak anılmaya başlamıştır. Türkçe kaynaklarda çoğunlukla geçtiği hâliyle İskender ( Arapça : إسكندر ) adı ise, Arapçadan Türkçeye geçmiştir.",
+    "triple": {
+      "baş": "İskender",
+      "baş_tipi": "Kişi",
+      "ilişki": "kökeni",
+      "uç": "Arapça",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Hatta Budizmin öncüleri olup dini diğer halkların arasında yaymaya başlamışlar, binlerce Çince ve Sanskritçe Budist yazısını özenle Türkçeye çevirmişlerdir.",
+    "triple": {
+      "baş": "Budist yazı",
+      "baş_tipi": "Kavram",
+      "ilişki": "çevrilmiştir",
+      "uç": "Türkçe",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Genetik ya da kalıtım bilimi , biyolojinin organizmalardaki kalıtım ve genetik varyasyonu inceleyen bir dalıdır. Türkçeye Almancadan geçen genetik sözcüğü 1831 yılında Yunanca γενετικός - genetikos (\"genitif\") sözcüğünden türetildi.",
+    "triple": {
+      "baş": "Genetik",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Almanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Türkçeye Almancadan geçen genetik sözcüğü 1831 yılında Yunanca γενετικός - genetikos (\"genitif\") sözcüğünden türetildi.",
+    "triple": {
+      "baş": "genetik",
+      "baş_tipi": "Kavram",
+      "ilişki": "türetilmiştir",
+      "uç": "γενετικός",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Asil sözcüğü Türkçeye en geç 14. yüzyılda Arapça \"asîl\" (köklü, soylu) kavramından geçmiştir.",
+    "triple": {
+      "baş": "Asil",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Arapça",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Saray sözcüğünün Batılı dillerdeki karşılığı olan ve Türkçeye Fransızcadan geçen palas sözcüğü de Türkçede zaman zaman otel vb. büyük ve gösterişli yapıları tanımlamak için kullanılır.",
+    "triple": {
+      "baş": "palas",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Fransızca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Burjuva sözcüğü Türkçeye 19. yüzyılda Fransızcadan geçmiştir.",
+    "triple": {
+      "baş": "Burjuva",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Fransızca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Bu isim Türkçeye , \"Kureyşli 'Abd'ûl-Menâf oğlu Hâşim oğlu 'Abd'ûl-Muttâlib oğlu 'Abd Allâh oğlu Kâsım'ın babası Muhammed\" olarak tercüme edilebilir.",
+    "triple": {
+      "baş": "isim",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Muhammed",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Canlı sözcüğü, Farsçadan Türkçeye geçmiş olan \"can\" kelimesinden türemiştir.",
+    "triple": {
+      "baş": "Canlı",
+      "baş_tipi": "Kavram",
+      "ilişki": "türetilmiştir",
+      "uç": "can",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Canlı sözcüğü, Farsçadan Türkçeye geçmiş olan \"can\" kelimesinden türemiştir.",
+    "triple": {
+      "baş": "can",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Farsça",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Türkçeye , Fransızca paradoxe sözcüğünden türeyerek giren paradoks sözcüğünün, etimolojik anlamda kökeni Yunanca paradoksos yani \"karşıt-çelişen (düşünce)\"dir.",
+    "triple": {
+      "baş": "paradoks",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "paradoxe",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Türkçeye , Fransızca paradoxe sözcüğünden türeyerek giren paradoks sözcüğünün, etimolojik anlamda kökeni Yunanca paradoksos yani \"karşıt-çelişen (düşünce)\"dir.",
+    "triple": {
+      "baş": "paradoks",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "paradoksos",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Ananas kelimesi Türkçeye Fransızcadan 19. yüzyılın ikinci yarısında girmiş olup, Fransızcaya Portekizce vasıtasıyla Tupi-Guarani dillerinde yer alan ananá kelimesinden alıntılanmıştır.",
+    "triple": {
+      "baş": "Ananas",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Fransızca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Ananas kelimesi Türkçeye Fransızcadan 19. yüzyılın ikinci yarısında girmiş olup, Fransızcaya Portekizce vasıtasıyla Tupi-Guarani dillerinde yer alan ananá kelimesinden alıntılanmıştır.",
+    "triple": {
+      "baş": "Fransızca",
+      "baş_tipi": "Dil",
+      "ilişki": "kökeni",
+      "uç": "ananá",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/T%C3%BCrk%C3%A7e)",
+    "metin": "Notilus , kafadan bacaklılar (Cephalopoda) sınıfına dahil familyalardan Nautilidae 'nin üyesi olan deniz canlılarının, Türkçeye Latincedeki nautilus sözcüğünden geçmiş ortak adıdır.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "kökeni",
+      "uç": "nautilus",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Dünyanın bilinen kuzey bölümünü dengelemek için güneyde olması gerektiği düşünülen henüz bilinmeyen topraklar için de Arktos 'un zıddı olarak Antarktikos ( ἀνταρκτικός ) adı kullanılmıştır.",
+    "triple": {
+      "baş": "Arktos",
+      "baş_tipi": "Kavram",
+      "ilişki": "zıttı",
+      "uç": "Antarktikos",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Birleşik ve eril bir ad olan Antarktikos Yunancanın romanizasyonu ile Latinceye dişil versiyonu olarak Antarktiké biçiminde geçmiştir.",
+    "triple": {
+      "baş": "Antarktikos",
+      "baş_tipi": "Kavram",
+      "ilişki": "geçti",
+      "uç": "Antarktiké",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Birleşik ve eril bir ad olan Antarktikos Yunancanın romanizasyonu ile Latinceye dişil versiyonu olarak Antarktiké biçiminde geçmiştir.",
+    "triple": {
+      "baş": "Antarktikos",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Birleşik ve eril bir ad olan Antarktikos Yunancanın romanizasyonu ile Latinceye dişil versiyonu olarak Antarktiké biçiminde geçmiştir.",
+    "triple": {
+      "baş": "Antarktiké",
+      "baş_tipi": "Kavram",
+      "ilişki": "versiyonu",
+      "uç": "Antarktikos",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Birleşik ve eril bir ad olan Antarktikos Yunancanın romanizasyonu ile Latinceye dişil versiyonu olarak Antarktiké biçiminde geçmiştir.",
+    "triple": {
+      "baş": "Antarktiké",
+      "baş_tipi": "Kavram",
+      "ilişki": "geçti",
+      "uç": "Latince",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "\"Kuzeyin karşıtı, güneye ait olan\" anlamındadır.",
+    "triple": {
+      "baş": "Antarktikos",
+      "baş_tipi": "Kavram",
+      "ilişki": "anlamı",
+      "uç": "Kuzeyin karşıtı, güneye ait olan",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Onun bu konuda yazmış olduğu kitabın Latinceye tercüme edilmesi sonucu, sembollerden oluşan bu sistem ve 0 ( sıfır ) rakamı, 12. yüzyılda Batı dünyasına sunuldu.",
+    "triple": {
+      "baş": "sembollerden oluşan bu sistem ve 0 ( sıfır ) rakamı",
+      "baş_tipi": "Kavram",
+      "ilişki": "sunuldu",
+      "uç": "Batı dünyası",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Onun bu konuda yazmış olduğu kitabın Latinceye tercüme edilmesi sonucu, sembollerden oluşan bu sistem ve 0 ( sıfır ) rakamı, 12. yüzyılda Batı dünyasına sunuldu.",
+    "triple": {
+      "baş": "kitap",
+      "baş_tipi": "Eser",
+      "ilişki": "tercüme edildi",
+      "uç": "Latince",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Bu çevriler de daha sonra Arapça konuşan Hristiyanlarca Latinceye çevrildi.",
+    "triple": {
+      "baş": "çevriler",
+      "baş_tipi": "Eser",
+      "ilişki": "çevrildi",
+      "uç": "Latince",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Galen'in eserleri antik dönemde Latinceye çevrilmediği için ve Batı Roma İmparatorluğu 'nun çöküşü nedeniyle, Galen’in çalışmaları ve genel olarak Yunan tıp geleneği, Erken Orta Çağ ’da Batı Avrupa’da gözden düşmüştür; bu dönemde çok az sayıda Latin bilgin, Yunanca okuyabiliyordu.",
+    "triple": {
+      "baş": "Galen'in eserleri",
+      "baş_tipi": "Eser",
+      "ilişki": "çevrilmedi",
+      "uç": "Latince",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Galen'in eserleri antik dönemde Latinceye çevrilmediği için ve Batı Roma İmparatorluğu 'nun çöküşü nedeniyle, Galen’in çalışmaları ve genel olarak Yunan tıp geleneği, Erken Orta Çağ ’da Batı Avrupa’da gözden düşmüştür; bu dönemde çok az sayıda Latin bilgin, Yunanca okuyabiliyordu.",
+    "triple": {
+      "baş": "Galen’in çalışmaları",
+      "baş_tipi": "Kavram",
+      "ilişki": "gözden düştü",
+      "uç": "Batı Avrupa",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Galen'in eserleri antik dönemde Latinceye çevrilmediği için ve Batı Roma İmparatorluğu 'nun çöküşü nedeniyle, Galen’in çalışmaları ve genel olarak Yunan tıp geleneği, Erken Orta Çağ ’da Batı Avrupa’da gözden düşmüştür; bu dönemde çok az sayıda Latin bilgin, Yunanca okuyabiliyordu.",
+    "triple": {
+      "baş": "Yunan tıp geleneği",
+      "baş_tipi": "Kavram",
+      "ilişki": "gözden düştü",
+      "uç": "Batı Avrupa",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Galen'in eserleri antik dönemde Latinceye çevrilmediği için ve Batı Roma İmparatorluğu 'nun çöküşü nedeniyle, Galen’in çalışmaları ve genel olarak Yunan tıp geleneği, Erken Orta Çağ ’da Batı Avrupa’da gözden düşmüştür; bu dönemde çok az sayıda Latin bilgin, Yunanca okuyabiliyordu.",
+    "triple": {
+      "baş": "Latin bilgin",
+      "baş_tipi": "Kişi",
+      "ilişki": "okuyabiliyordu",
+      "uç": "Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Kitapların Latinceye çevrilişi ancak 12. yüzyılda yapılmıştır.",
+    "triple": {
+      "baş": "Kitaplar",
+      "baş_tipi": "Eser",
+      "ilişki": "çevrildi",
+      "uç": "Latince",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Bu eser daha sonra Megale Syntaxis (Büyük Derleme) olarak anılmış ve Arapçaya çevrilirken başına harf-i tarif takısı olan el- getirildiği için, ismi el-Mecistî biçimine dönüşmüştür; daha sonra Arapçadan Latinceye çevrilirken Almagest olarak adlandırıldığından, bugün Batı dünyasında bu eser Almagest adıyla tanınmaktadır.",
+    "triple": {
+      "baş": "Bu eser",
+      "baş_tipi": "Eser",
+      "ilişki": "anıldı",
+      "uç": "Megale Syntaxis (Büyük Derleme)",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Bu eser daha sonra Megale Syntaxis (Büyük Derleme) olarak anılmış ve Arapçaya çevrilirken başına harf-i tarif takısı olan el- getirildiği için, ismi el-Mecistî biçimine dönüşmüştür; daha sonra Arapçadan Latinceye çevrilirken Almagest olarak adlandırıldığından, bugün Batı dünyasında bu eser Almagest adıyla tanınmaktadır.",
+    "triple": {
+      "baş": "Bu eser",
+      "baş_tipi": "Eser",
+      "ilişki": "dönüştü",
+      "uç": "el-Mecistî",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Bu eser daha sonra Megale Syntaxis (Büyük Derleme) olarak anılmış ve Arapçaya çevrilirken başına harf-i tarif takısı olan el- getirildiği için, ismi el-Mecistî biçimine dönüşmüştür; daha sonra Arapçadan Latinceye çevrilirken Almagest olarak adlandırıldığından, bugün Batı dünyasında bu eser Almagest adıyla tanınmaktadır.",
+    "triple": {
+      "baş": "Bu eser",
+      "baş_tipi": "Eser",
+      "ilişki": "tanınmaktadır",
+      "uç": "Almagest",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Bu eser daha sonra Megale Syntaxis (Büyük Derleme) olarak anılmış ve Arapçaya çevrilirken başına harf-i tarif takısı olan el- getirildiği için, ismi el-Mecistî biçimine dönüşmüştür; daha sonra Arapçadan Latinceye çevrilirken Almagest olarak adlandırıldığından, bugün Batı dünyasında bu eser Almagest adıyla tanınmaktadır.",
+    "triple": {
+      "baş": "el-Mecistî",
+      "baş_tipi": "Eser",
+      "ilişki": "çevrildi",
+      "uç": "Latince",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Bu eser daha sonra Megale Syntaxis (Büyük Derleme) olarak anılmış ve Arapçaya çevrilirken başına harf-i tarif takısı olan el- getirildiği için, ismi el-Mecistî biçimine dönüşmüştür; daha sonra Arapçadan Latinceye çevrilirken Almagest olarak adlandırıldığından, bugün Batı dünyasında bu eser Almagest adıyla tanınmaktadır.",
+    "triple": {
+      "baş": "el-Mecistî",
+      "baş_tipi": "Eser",
+      "ilişki": "adlandırıldı",
+      "uç": "Almagest",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Dilbilgisi çok eski bilimlerdendir.",
+    "triple": {
+      "baş": "Dilbilgisi",
+      "baş_tipi": "Bilim",
+      "ilişki": "türü",
+      "uç": "Eski bilim",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Grekçeden , Latinceye , oradan diğer dillere yayılmıştır.",
+    "triple": {
+      "baş": "Dilbilgisi",
+      "baş_tipi": "Bilim",
+      "ilişki": "yayıldı",
+      "uç": "Latince",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Grekçeden , Latinceye , oradan diğer dillere yayılmıştır.",
+    "triple": {
+      "baş": "Dilbilgisi",
+      "baş_tipi": "Bilim",
+      "ilişki": "yayıldı",
+      "uç": "Diğer diller",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Grekçeden , Latinceye , oradan diğer dillere yayılmıştır.",
+    "triple": {
+      "baş": "Dilbilgisi",
+      "baş_tipi": "Bilim",
+      "ilişki": "kökeni",
+      "uç": "Grekçe",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Batı'da Aristo'nun mirasının yeniden keşfedilmesi, İbn Rüşd'ün eserlerinin 12. yüzyıl başlarında Latinceye tercümesiyle başlamıştır.",
+    "triple": {
+      "baş": "İbn Rüşd'ün eserleri",
+      "baş_tipi": "Eser",
+      "ilişki": "tercüme edildi",
+      "uç": "Latince",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Batı'da Aristo'nun mirasının yeniden keşfedilmesi, İbn Rüşd'ün eserlerinin 12. yüzyıl başlarında Latinceye tercümesiyle başlamıştır.",
+    "triple": {
+      "baş": "Aristo'nun mirası",
+      "baş_tipi": "Kavram",
+      "ilişki": "keşfedildi",
+      "uç": "Batı",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Portekizliler bir Latin halkıdır , dilleri Latinceye dayanan Portekizcedir .",
+    "triple": {
+      "baş": "Portekizliler",
+      "baş_tipi": "Halk",
+      "ilişki": "türü",
+      "uç": "Latin halkı",
+      "uç_tipi": "Halk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Portekizliler bir Latin halkıdır , dilleri Latinceye dayanan Portekizcedir .",
+    "triple": {
+      "baş": "Portekizce",
+      "baş_tipi": "Dil",
+      "ilişki": "dayanır",
+      "uç": "Latince",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Bu bağlamda Fasih Arapça Latinceye , çağdaş Arap değişkeleri ise İtalyanca , Fransızca , Rumence ve İspanyolca gibi Halk Latincesinden evrilme Romen dillerine paralellik oluşturmaktadır.",
+    "triple": {
+      "baş": "Fasih Arapça",
+      "baş_tipi": "Dil",
+      "ilişki": "paralellik oluşturur",
+      "uç": "Latince",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Bu bağlamda Fasih Arapça Latinceye , çağdaş Arap değişkeleri ise İtalyanca , Fransızca , Rumence ve İspanyolca gibi Halk Latincesinden evrilme Romen dillerine paralellik oluşturmaktadır.",
+    "triple": {
+      "baş": "çağdaş Arap değişkeleri",
+      "baş_tipi": "Dil",
+      "ilişki": "paralellik oluşturur",
+      "uç": "Romen dilleri",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Bu bağlamda Fasih Arapça Latinceye , çağdaş Arap değişkeleri ise İtalyanca , Fransızca , Rumence ve İspanyolca gibi Halk Latincesinden evrilme Romen dillerine paralellik oluşturmaktadır.",
+    "triple": {
+      "baş": "Romen dilleri",
+      "baş_tipi": "Dil",
+      "ilişki": "evrilme",
+      "uç": "Halk Latincesi",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Gymnasium Antik Yunanca ve Latinceye büyük önem veriyordu.",
+    "triple": {
+      "baş": "Gymnasium",
+      "baş_tipi": "Kurum",
+      "ilişki": "önem veriyordu",
+      "uç": "Antik Yunanca",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Gymnasium Antik Yunanca ve Latinceye büyük önem veriyordu.",
+    "triple": {
+      "baş": "Gymnasium",
+      "baş_tipi": "Kurum",
+      "ilişki": "önem veriyordu",
+      "uç": "Latince",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Nautilus ise Yunancada \"denizci\" anlamına gelen nautilos sözcüğünün Latinceye geçmiş halidir.",
+    "triple": {
+      "baş": "nautilos",
+      "baş_tipi": "Sözcük",
+      "ilişki": "geçti",
+      "uç": "Latince",
+      "uç_tipi": "Dil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Nautilus ise Yunancada \"denizci\" anlamına gelen nautilos sözcüğünün Latinceye geçmiş halidir.",
+    "triple": {
+      "baş": "nautilos",
+      "baş_tipi": "Sözcük",
+      "ilişki": "anlamı",
+      "uç": "denizci",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Latince)",
+    "metin": "Nautilus ise Yunancada \"denizci\" anlamına gelen nautilos sözcüğünün Latinceye geçmiş halidir.",
+    "triple": {
+      "baş": "Nautilus",
+      "baş_tipi": "Kavram",
+      "ilişki": "geçmiş hali",
+      "uç": "nautilos",
+      "uç_tipi": "Sözcük"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Aurora sözcüğü Roma Şafak Tanrıçası 'nın adından gelmektedir.",
+    "triple": {
+      "baş": "Aurora",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "Roma Şafak Tanrıçası",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Boreas 'da Yunancada kuzey rüzgârına Pierre Gassendi tarafından 1621'de verilen addır.",
+    "triple": {
+      "baş": "Boreas",
+      "baş_tipi": "Kavram",
+      "ilişki": "anlamı",
+      "uç": "kuzey rüzgarı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Boreas 'da Yunancada kuzey rüzgârına Pierre Gassendi tarafından 1621'de verilen addır.",
+    "triple": {
+      "baş": "Pierre Gassendi",
+      "baş_tipi": "Kişi",
+      "ilişki": "adlandırdı",
+      "uç": "Boreas",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Cree (kri) halkı bu ilginç olaya Ruhların Dansı adını vermişler.",
+    "triple": {
+      "baş": "Cree halkı",
+      "baş_tipi": "Grup",
+      "ilişki": "adlandırdı",
+      "uç": "Ruhların Dansı",
+      "uç_tipi": "Olay"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Yunancada yer alan Ἄρης ( Arēs ) kelimesi bu dilde gezegeni tanımlamak için kullanılmaktadır ve Mars'ın coğrafyası ile ilgili araştırmalar yürüten bir bilim dalı olan areoloji bu kökten türetilmiştir.",
+    "triple": {
+      "baş": "Ἄρης ( Arēs )",
+      "baş_tipi": "Kelime",
+      "ilişki": "kullanılır",
+      "uç": "gezegen",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Yunancada yer alan Ἄρης ( Arēs ) kelimesi bu dilde gezegeni tanımlamak için kullanılmaktadır ve Mars'ın coğrafyası ile ilgili araştırmalar yürüten bir bilim dalı olan areoloji bu kökten türetilmiştir.",
+    "triple": {
+      "baş": "areoloji",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "türemiştir",
+      "uç": "Ἄρης ( Arēs )",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu olgu, şimşekle birlikte insanlığın elektrik hakkında kayıtlara geçmiş ilk deneyimiydi.",
+    "triple": {
+      "baş": "şimşek",
+      "baş_tipi": "Olay",
+      "ilişki": "ile ilgili",
+      "uç": "elektrik deneyimi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "1600'de yayımlanan De Magnete adlı eserinde William Gilbert , Yunancada kehribar anlamına gelen ἤλεκτρον ( elektron ) kelimesi kökenli, Latincede de aynı anlamı taşıyan electrum kelimesinden, sürtünme sonrası küçük nesneleri çekme özelliğini tanımlayan Yeni Latince electricus kelimesini türetti.",
+    "triple": {
+      "baş": "William Gilbert",
+      "baş_tipi": "Kişi",
+      "ilişki": "türeti",
+      "uç": "electricus",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "1600'de yayımlanan De Magnete adlı eserinde William Gilbert , Yunancada kehribar anlamına gelen ἤλεκτρον ( elektron ) kelimesi kökenli, Latincede de aynı anlamı taşıyan electrum kelimesinden, sürtünme sonrası küçük nesneleri çekme özelliğini tanımlayan Yeni Latince electricus kelimesini türetti.",
+    "triple": {
+      "baş": "electricus",
+      "baş_tipi": "Kelime",
+      "ilişki": "kökeni",
+      "uç": "electrum",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "1600'de yayımlanan De Magnete adlı eserinde William Gilbert , Yunancada kehribar anlamına gelen ἤλεκτρον ( elektron ) kelimesi kökenli, Latincede de aynı anlamı taşıyan electrum kelimesinden, sürtünme sonrası küçük nesneleri çekme özelliğini tanımlayan Yeni Latince electricus kelimesini türetti.",
+    "triple": {
+      "baş": "electrum",
+      "baş_tipi": "Kelime",
+      "ilişki": "anlamı",
+      "uç": "kehribar",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "1600'de yayımlanan De Magnete adlı eserinde William Gilbert , Yunancada kehribar anlamına gelen ἤλεκτρον ( elektron ) kelimesi kökenli, Latincede de aynı anlamı taşıyan electrum kelimesinden, sürtünme sonrası küçük nesneleri çekme özelliğini tanımlayan Yeni Latince electricus kelimesini türetti.",
+    "triple": {
+      "baş": "ἤλεκτρον ( elektron )",
+      "baş_tipi": "Kelime",
+      "ilişki": "anlamı",
+      "uç": "kehribar",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Thomas Browne 'un 1646'da yayımlanan Pseudodoxia Epidemica adlı eserinde, aynı köklerden hareketle İngilizcedeki electricity ifadesi ilk defa kullanıldı.",
+    "triple": {
+      "baş": "Thomas Browne",
+      "baş_tipi": "Kişi",
+      "ilişki": "kullandı",
+      "uç": "electricity",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Adanın ismi Yunancada Peloponnesos (Πελοπόννησος) 'tur.",
+    "triple": {
+      "baş": "Ada",
+      "baş_tipi": "Yer",
+      "ilişki": "ismi",
+      "uç": "Peloponnesos (Πελοπόννησος)",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu isim Yunancada Pelops'un Adası anlamına gelmektedir.",
+    "triple": {
+      "baş": "Peloponnesos (Πελοπόννησος)",
+      "baş_tipi": "Yer",
+      "ilişki": "anlamı",
+      "uç": "Pelops'un Adası",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Avrupa, Sami dillerde Erep (yahut Irib ), güneşin battığı taraf anlamına gelir.",
+    "triple": {
+      "baş": "Avrupa",
+      "baş_tipi": "Kavram",
+      "ilişki": "anlamı",
+      "uç": "güneşin battığı taraf",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Fenikelilerden Yunanlara geçen bu ad, Yunancada Europa olmuş ve Ege Denizi'ne göre batıda bulunan ülkelere bu ad verilmiştir.",
+    "triple": {
+      "baş": "Europa",
+      "baş_tipi": "Kavram",
+      "ilişki": "verildi",
+      "uç": "Ege Denizi'ne göre batıda bulunan ülkeler",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Doğuyu adlandırmada güneşi referans gösteren benzer tabirlere Yunancada ( Ἀνατολή , bkz. Anadolu ), Almancada ( Morgenland, direkt çevirisi \"sabah ülkesi, sabahın toprakları\"), İtalyancada ( Levante ), Macarca 'da ( Kelet ), İspanyolca ve Katalancada ( Levante ve Llevant ) ve İbranicede ( mizrah ) rastlanılmaktadır.",
+    "triple": {
+      "baş": "Yunanca",
+      "baş_tipi": "Dil",
+      "ilişki": "kullanır",
+      "uç": "Ἀνατολή",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Doğuyu adlandırmada güneşi referans gösteren benzer tabirlere Yunancada ( Ἀνατολή , bkz. Anadolu ), Almancada ( Morgenland, direkt çevirisi \"sabah ülkesi, sabahın toprakları\"), İtalyancada ( Levante ), Macarca 'da ( Kelet ), İspanyolca ve Katalancada ( Levante ve Llevant ) ve İbranicede ( mizrah ) rastlanılmaktadır.",
+    "triple": {
+      "baş": "Almanca",
+      "baş_tipi": "Dil",
+      "ilişki": "kullanır",
+      "uç": "Morgenland",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Doğuyu adlandırmada güneşi referans gösteren benzer tabirlere Yunancada ( Ἀνατολή , bkz. Anadolu ), Almancada ( Morgenland, direkt çevirisi \"sabah ülkesi, sabahın toprakları\"), İtalyancada ( Levante ), Macarca 'da ( Kelet ), İspanyolca ve Katalancada ( Levante ve Llevant ) ve İbranicede ( mizrah ) rastlanılmaktadır.",
+    "triple": {
+      "baş": "İtalyanca",
+      "baş_tipi": "Dil",
+      "ilişki": "kullanır",
+      "uç": "Levante",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Doğuyu adlandırmada güneşi referans gösteren benzer tabirlere Yunancada ( Ἀνατολή , bkz. Anadolu ), Almancada ( Morgenland, direkt çevirisi \"sabah ülkesi, sabahın toprakları\"), İtalyancada ( Levante ), Macarca 'da ( Kelet ), İspanyolca ve Katalancada ( Levante ve Llevant ) ve İbranicede ( mizrah ) rastlanılmaktadır.",
+    "triple": {
+      "baş": "Macarca",
+      "baş_tipi": "Dil",
+      "ilişki": "kullanır",
+      "uç": "Kelet",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Doğuyu adlandırmada güneşi referans gösteren benzer tabirlere Yunancada ( Ἀνατολή , bkz. Anadolu ), Almancada ( Morgenland, direkt çevirisi \"sabah ülkesi, sabahın toprakları\"), İtalyancada ( Levante ), Macarca 'da ( Kelet ), İspanyolca ve Katalancada ( Levante ve Llevant ) ve İbranicede ( mizrah ) rastlanılmaktadır.",
+    "triple": {
+      "baş": "İspanyolca",
+      "baş_tipi": "Dil",
+      "ilişki": "kullanır",
+      "uç": "Levante",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Doğuyu adlandırmada güneşi referans gösteren benzer tabirlere Yunancada ( Ἀνατολή , bkz. Anadolu ), Almancada ( Morgenland, direkt çevirisi \"sabah ülkesi, sabahın toprakları\"), İtalyancada ( Levante ), Macarca 'da ( Kelet ), İspanyolca ve Katalancada ( Levante ve Llevant ) ve İbranicede ( mizrah ) rastlanılmaktadır.",
+    "triple": {
+      "baş": "Katalanca",
+      "baş_tipi": "Dil",
+      "ilişki": "kullanır",
+      "uç": "Llevant",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Doğuyu adlandırmada güneşi referans gösteren benzer tabirlere Yunancada ( Ἀνατολή , bkz. Anadolu ), Almancada ( Morgenland, direkt çevirisi \"sabah ülkesi, sabahın toprakları\"), İtalyancada ( Levante ), Macarca 'da ( Kelet ), İspanyolca ve Katalancada ( Levante ve Llevant ) ve İbranicede ( mizrah ) rastlanılmaktadır.",
+    "triple": {
+      "baş": "İbranice",
+      "baş_tipi": "Dil",
+      "ilişki": "kullanır",
+      "uç": "mizrah",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Asur kaynaklarında Diaohi ve Yunancada Taohi Anadolu 'nun kuzeydoğu kesiminde yaşıyordu.",
+    "triple": {
+      "baş": "Diaohi",
+      "baş_tipi": "Grup",
+      "ilişki": "yaşıyordu",
+      "uç": "Anadolu'nun kuzeydoğu kesimi",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Asur kaynaklarında Diaohi ve Yunancada Taohi Anadolu 'nun kuzeydoğu kesiminde yaşıyordu.",
+    "triple": {
+      "baş": "Taohi",
+      "baş_tipi": "Grup",
+      "ilişki": "yaşıyordu",
+      "uç": "Anadolu'nun kuzeydoğu kesimi",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Tirmiz (termos) Yunancada sıcak veya sıcak yer anlamına gelir.",
+    "triple": {
+      "baş": "Tirmiz (termos)",
+      "baş_tipi": "Yer",
+      "ilişki": "anlamı",
+      "uç": "sıcak yer",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Şehrin eski Farsça ismi Hegmetane , antik Yunancada ise Ekbatan 'dır.",
+    "triple": {
+      "baş": "Şehir",
+      "baş_tipi": "Yer",
+      "ilişki": "eski adı",
+      "uç": "Hegmetane",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Şehrin eski Farsça ismi Hegmetane , antik Yunancada ise Ekbatan 'dır.",
+    "triple": {
+      "baş": "Şehir",
+      "baş_tipi": "Yer",
+      "ilişki": "antik Yunanca adı",
+      "uç": "Ekbatan",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Hemedan sadece İran'ın değil, dünyanın da en eski şehirlerinden biri olarak kabul edilir.",
+    "triple": {
+      "baş": "Hemedan",
+      "baş_tipi": "Yer",
+      "ilişki": "kabul edilir",
+      "uç": "dünyanın en eski şehirlerinden biri",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "İbn-i Sina 'nın mezarı bu kenttedir.",
+    "triple": {
+      "baş": "İbn-i Sina",
+      "baş_tipi": "Kişi",
+      "ilişki": "mezarı",
+      "uç": "Hemedan",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Papyrus adı, Yunancada Cyperus papyrus denilen πάπυρος'tan (papuros) adlı bitkiden gelir.",
+    "triple": {
+      "baş": "Papyrus",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "πάπυρος (papuros)",
+      "uç_tipi": "Bitki"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Papyrus adı, Yunancada Cyperus papyrus denilen πάπυρος'tan (papuros) adlı bitkiden gelir.",
+    "triple": {
+      "baş": "πάπυρος (papuros)",
+      "baş_tipi": "Bitki",
+      "ilişki": "adıdır",
+      "uç": "Cyperus papyrus",
+      "uç_tipi": "Bitki"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Eski Mısır ve diğer Akdeniz kültürlerinde Cyperus papyrus bitkisinin liflerinden üretilen ve Orta Doğu ve Avrupa'ya kâğıdın gelmesinden önce, yazmak için kullanılan kalın ve kâğıt benzeri malzeme \"papirüs\" olarak adlandırılır.",
+    "triple": {
+      "baş": "papirüs",
+      "baş_tipi": "Malzeme",
+      "ilişki": "adlandırılır",
+      "uç": "kalın ve kâğıt benzeri malzeme",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu da Latincedeki Mediterraneus tan ( Medi : Orta + terra : Toprak, yer) gelmektedir.",
+    "triple": {
+      "baş": "Mediterraneus",
+      "baş_tipi": "Kelime",
+      "ilişki": "anlamı",
+      "uç": "Orta Toprak",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Yunancada Mesogeios denir.",
+    "triple": {
+      "baş": "Akdeniz",
+      "baş_tipi": "Yer",
+      "ilişki": "Yunanca adı",
+      "uç": "Mesogeios",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Arapçadaki karşılığı البحر الأبيض المتوسط (El Bahre-l Ebyedu'l-Mutavassit) “'ortada yer alan beyaz deniz'” anlamındadır.",
+    "triple": {
+      "baş": "Akdeniz",
+      "baş_tipi": "Yer",
+      "ilişki": "Arapça adı",
+      "uç": "البحر الأبيض المتوسط (El Bahre-l Ebyedu'l-Mutavassit)",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Arapçadaki karşılığı البحر الأبيض المتوسط (El Bahre-l Ebyedu'l-Mutavassit) “'ortada yer alan beyaz deniz'” anlamındadır.",
+    "triple": {
+      "baş": "البحر الأبيض المتوسط (El Bahre-l Ebyedu'l-Mutavassit)",
+      "baş_tipi": "Kelime",
+      "ilişki": "anlamı",
+      "uç": "ortada yer alan beyaz deniz",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Farsçada Akdeniz için kullanılan Bahr-i Sefid ismi Osmanlı dönemi haritalarında da gözükmektedir.",
+    "triple": {
+      "baş": "Akdeniz",
+      "baş_tipi": "Yer",
+      "ilişki": "Farsça adı",
+      "uç": "Bahr-i Sefid",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Romalılar da Mare Nostrum olarak tanımlamaktaydı, anlamı ise Bizim Deniz 'di.",
+    "triple": {
+      "baş": "Mare Nostrum",
+      "baş_tipi": "Kavram",
+      "ilişki": "anlamı",
+      "uç": "Bizim Deniz",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu kelime ise, Yunancada \"köken\" anlamına gelen \"φύσις\" (\"fusis\") kelimesinden türetilen ve \"doğa bilgisi\" anlamına gelen \"φυσική\" ( fusiki ) kelimesi kökenlidir.",
+    "triple": {
+      "baş": "φυσική ( fusiki )",
+      "baş_tipi": "Kelime",
+      "ilişki": "kökeni",
+      "uç": "φύσις (fusis)",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu kelime ise, Yunancada \"köken\" anlamına gelen \"φύσις\" (\"fusis\") kelimesinden türetilen ve \"doğa bilgisi\" anlamına gelen \"φυσική\" ( fusiki ) kelimesi kökenlidir.",
+    "triple": {
+      "baş": "φύσις (fusis)",
+      "baş_tipi": "Kelime",
+      "ilişki": "anlamı",
+      "uç": "köken",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Bu sözcükler eski Yunancada kan sözcüğünü karşılayan haima dan türetilmiştir.",
+    "triple": {
+      "baş": "Sözcükler",
+      "baş_tipi": "Kavram",
+      "ilişki": "türemiştir",
+      "uç": "haima",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Standart sıcaklık ve basınç altında renksiz, kokusuz, metalik olmayan, tatsız, oldukça yanıcı ve H 2 olarak bulunan bir diatomik gazdır.",
+    "triple": {
+      "baş": "Hidrojen",
+      "baş_tipi": "Element",
+      "ilişki": "özelliği",
+      "uç": "yanıcı gaz",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "1,00794 g/mol'lük atomik kütlesi ile tüm elementler arasında en hafif olanıdır.",
+    "triple": {
+      "baş": "Hidrojen",
+      "baş_tipi": "Element",
+      "ilişki": "atomik kütlesi",
+      "uç": "1,00794 g/mol",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Periyodik cetvelin sol üst köşesinde yer alır.",
+    "triple": {
+      "baş": "Hidrojen",
+      "baş_tipi": "Element",
+      "ilişki": "konumu",
+      "uç": "Periyodik cetvelin sol üst köşesi",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Hidrojenin adı, Yunancada \"su oluşturan\" anlamına gelen ὑδρογόνο 'dan ( idrogono ) kelimesinden gelir.",
+    "triple": {
+      "baş": "Hidrojen",
+      "baş_tipi": "Element",
+      "ilişki": "adı kökeni",
+      "uç": "ὑδρογόνο ( idrogono )",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Hidrojenin adı, Yunancada \"su oluşturan\" anlamına gelen ὑδρογόνο 'dan ( idrogono ) kelimesinden gelir.",
+    "triple": {
+      "baş": "ὑδρογόνο ( idrogono )",
+      "baş_tipi": "Kelime",
+      "ilişki": "anlamı",
+      "uç": "su oluşturan",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Pentagram , Yunancada beş çizgili anlamına gelen pentagrammon kelimesinden türemiştir.",
+    "triple": {
+      "baş": "Pentagram",
+      "baş_tipi": "Kavram",
+      "ilişki": "türemiştir",
+      "uç": "pentagrammon",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Pentagram , Yunancada beş çizgili anlamına gelen pentagrammon kelimesinden türemiştir.",
+    "triple": {
+      "baş": "pentagrammon",
+      "baş_tipi": "Kelime",
+      "ilişki": "anlamı",
+      "uç": "beş çizgili",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Nautilus ise Yunancada \"denizci\" anlamına gelen nautilos sözcüğünün Latinceye geçmiş halidir.",
+    "triple": {
+      "baş": "Nautilus",
+      "baş_tipi": "Kavram",
+      "ilişki": "kökeni",
+      "uç": "nautilos",
+      "uç_tipi": "Kelime"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Yunanca)",
+    "metin": "Nautilus ise Yunancada \"denizci\" anlamına gelen nautilos sözcüğünün Latinceye geçmiş halidir.",
+    "triple": {
+      "baş": "nautilos",
+      "baş_tipi": "Kelime",
+      "ilişki": "anlamı",
+      "uç": "denizci",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Helezon)",
+    "metin": "Notilus, Güney Pasifik 'in derin sularında yaşar.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "yaşar",
+      "uç": "Güney Pasifik",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Helezon)",
+    "metin": "Notilus, Güney Pasifik 'in derin sularında yaşar.",
+    "triple": {
+      "baş": "Notilus",
+      "baş_tipi": "Canlı",
+      "ilişki": "yaşar",
+      "uç": "derin sular",
+      "uç_tipi": "Habitat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Helezon)",
+    "metin": "Kabuklarına Malayi Adaları sahillerinde bol rastlanır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "rastlanır",
+      "uç": "Malayi Adaları",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Helezon)",
+    "metin": "Kabuklarına Malayi Adaları sahillerinde bol rastlanır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "rastlanır",
+      "uç": "sahil",
+      "uç_tipi": "Habitat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Helezon)",
+    "metin": "Helezon şekilli kabukları odacıklıdır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "şekli",
+      "uç": "helezon",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Helezon)",
+    "metin": "Helezon şekilli kabukları odacıklıdır.",
+    "triple": {
+      "baş": "Kabuk",
+      "baş_tipi": "Nesne",
+      "ilişki": "özelliği",
+      "uç": "odacıklı",
+      "uç_tipi": "Özellik"
+    }
+  }
+]
