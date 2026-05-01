@@ -1,14 +1,22 @@
 """
-LLM Performance Evaluation on Turkish Knowledge Graph Triples
+LLM Performance Evaluation on Test Datasets (Wikipedia, KG-Gen, PromptOpt)
 
-Her triple için 4 ayrı task, her task ayrı bir JSON satırı olarak kaydedilir.
-  Task 1 - Tail Entity Prediction   : entity - relation - X
-  Task 2 - Relation Prediction      : entity - X - entity
+Task atamaları:
+  Task 1 - Tail Entity Prediction   : entity1 - relation - X
+  Task 2 - Relation Prediction      : entity1 - X - entity2
   Task 3 - True Triple Verification : triple doğru mu? (Evet beklenir)
   Task 4 - False Triple Verification: yanlış relation ile, doğru mu? (Hayır beklenir)
 
+Model Seçimleri (Benchmark'tan):
+  Task 1: mistralai/mistral-large-2512
+  Task 2: qwen/qwen3.6-plus
+  Task 3: qwen/qwen3.6-plus
+  Task 4: anthropic/claude-haiku-4.5
+
 Çalıştırma:
-  python translated2kTripletsLLMPerformanceTest.py --model "google/gemini-flash-1.5" --sample 100 --workers 3
+  python evaluator.py --dataset Wikipediatest.json --sample 100 --workers 3
+  python evaluator.py --dataset KG-Gentest.json --sample 100 --workers 3
+  python evaluator.py --dataset PromptOpttest.json --sample 100 --workers 3
 """
 
 import json
@@ -20,6 +28,7 @@ import argparse
 import threading
 from concurrent.futures import ThreadPoolExecutor, as_completed
 from typing import List, Dict, Set, Tuple
+from pathlib import Path
 from dotenv import load_dotenv
 import requests
 
@@ -30,40 +39,83 @@ SYSTEM_PROMPT = (
     "Verilen triple'lardaki boşlukları dünya bilgine dayanarak mantıklı şekilde doldur."
 )
 
-KEPLER_FILE = os.path.join(os.path.dirname(__file__),
-    "translatedTriplets", "keplerTR", "translated_triples12b_kepler.txt")
-CODEX_FILE = os.path.join(os.path.dirname(__file__),
-    "translatedTriplets", "codexTR", "typeClearedTranslatedCodexTriplets.txt")
+# Model seçimleri her task için
+MODEL_FOR_TASK = {
+    1: "mistralai/mistral-large-2512",
+    2: "anthropic/claude-haiku-4.5",
+    3: "mistralai/mistral-large-2512",
+    4: "anthropic/claude-haiku-4.5",
+}
 
 SEPARATOR_RE = re.compile(r'\s*[-–]\s*')
 
-SOURCE_LABEL = {
-    "keplerTR": "Kepler",
-    "codexTR":  "Codex",
+_TR_MAP = str.maketrans("çğıöşüÇĞİÖŞÜ", "cgiosucgiosu")
+_STOPWORDS = {
+    "bir", "ve", "ile", "bu", "da", "de", "the", "and", "or", "of", "in", "a", "is",
+}
+
+_TR_SUFFIXES = (
+    "larin", "lerin", "inin", "unun",
+    "ndan", "nden",
+    "nin", "nun",
+    "dan", "den", "tan", "ten",
+    "lari", "leri",
+    "lar", "ler",
+    "da", "de", "ta", "te", "ya", "ye",
+    "ini", "unu",
+    "ni", "nu",
+    "i", "u",
+)
+
+_GENERIC_TURKISH = {
+    "belediye", "voyvodaligi", "universite", "fakulte", "enstitutu",
+    "ilce", "sehir", "kent", "bolge", "okul", "hastane",
+    "kulup", "takim", "dernek", "vakif", "merkez", "tesis",
 }
 
 
 # ─── Veri yükleme ─────────────────────────────────────────────────────────────
 
-def parse_triples(file_path: str) -> List[Dict]:
-    triples = []
-    dir_name = os.path.basename(os.path.dirname(file_path))
-    source = SOURCE_LABEL.get(dir_name, dir_name)
+def load_dataset(filepath: str) -> List[Dict]:
+    """Load test dataset (Wikipedia, KG-Gen, or PromptOpt)."""
+    with open(filepath, 'r', encoding='utf-8') as f:
+        data = json.load(f)
 
-    with open(file_path, 'r', encoding='utf-8') as f:
-        for line in f:
-            line = line.strip()
-            if not line.startswith('TR:'):
+    # Normalize to standard format: entity1, relation, entity2
+    normalized = []
+    for item in data:
+        if 'triple' in item:
+            # Wikipedia or KG-Gen format
+            triple = item['triple']
+            if isinstance(triple, dict):
+                entity1 = triple.get('entity1') or triple.get('baş')
+                entity2 = triple.get('entity2') or triple.get('uç')
+                relation = triple.get('relation') or triple.get('ilişki')
+            else:
                 continue
-            parts = SEPARATOR_RE.split(line[3:].strip(), maxsplit=2)
-            if len(parts) == 3:
-                triples.append({
-                    "entity1":  parts[0].strip(),
-                    "relation": parts[1].strip(),
-                    "entity2":  parts[2].strip(),
-                    "source":   source,
-                })
-    return triples
+        else:
+            # PromptOpt format: direct keys
+            entity1 = item.get('subject')
+            entity2 = item.get('object')
+            relation = item.get('relation')
+
+        if entity1 and entity2 and relation:
+            # Source bilgisini farklı alanlarda ara
+            source = (
+                'Wikipedia' if 'kaynak_source' in item else  # Wikipedia
+                item.get('source') or                         # KG-Gen
+                item.get('optimization_method') or            # PromptOpt
+                'unknown'
+            )
+            normalized.append({
+                'entity1': str(entity1).strip(),
+                'relation': str(relation).strip(),
+                'entity2': str(entity2).strip(),
+                'source': source,
+                'original_item': item,
+            })
+
+    return normalized
 
 
 # ─── LLM çağrısı ──────────────────────────────────────────────────────────────
@@ -93,23 +145,7 @@ def call_llm(prompt: str, api_key: str, model: str) -> Dict:
     }
 
 
-_TR_MAP = str.maketrans("çğıöşüÇĞİÖŞÜ", "cgiosucgiosu")
-_STOPWORDS = {
-    "bir", "ve", "ile", "bu", "da", "de", "the", "and", "or", "of", "in", "a", "is",
-}
-# En uzundan kısaya — normalize edilmiş formda Türkçe ekler
-_TR_SUFFIXES = (
-    "larin", "lerin", "inin", "unun",
-    "ndan", "nden",
-    "nin", "nun",
-    "dan", "den", "tan", "ten",
-    "lari", "leri",
-    "lar", "ler",
-    "da", "de", "ta", "te", "ya", "ye",
-    "ini", "unu",
-    "ni", "nu",
-    "i", "u",
-)
+# ─── Text matching ────────────────────────────────────────────────────────────
 
 def normalize(text: str) -> str:
     return text.strip().translate(_TR_MAP).lower()
@@ -122,17 +158,9 @@ def stem_tr(word_norm: str) -> str:
     return word_norm
 
 def _relation_stems(rel: str) -> set:
-    """Relation'ın normalize+stem edilmiş anlamlı kelimelerini döner (Task 4 için)."""
     return {stem_tr(t) for t in normalize(rel).split() if len(stem_tr(t)) >= 3}
 
-_GENERIC_TURKISH = {
-    "belediye", "voyvodaligi", "universite", "fakulte", "enstitutu",
-    "ilce", "sehir", "kent", "bolge", "okul", "hastane",
-    "kulup", "takim", "dernek", "vakif", "merkez", "tesis",
-}
-
 def _high_conf_tokens(truth: str) -> list:
-    """Return tokens that are NOT generic Turkish administrative words (high-confidence matchers)."""
     tokens = [w.strip('.,;:()[]"\'–—') for w in truth.split()]
     result = []
     for t in tokens:
@@ -149,30 +177,24 @@ def _high_conf_tokens(truth: str) -> list:
 def match_in_response(response: str, truth: str) -> bool:
     resp_norm = normalize(response)
 
-    # A) GT varyantı: sondaki belirsizleştirme parantezi ve nokta temizlenmiş
     gt_variants = [truth]
     gt_cleaned = re.sub(r'\s*\([^)]+\)\s*$', '', truth).strip(' .')
     if gt_cleaned and gt_cleaned != truth:
         gt_variants.append(gt_cleaned)
 
     for gt in gt_variants:
-        # 1. Tam eşleşme
         if normalize(gt) in resp_norm:
             return True
-        # 2. Virgülle ayrılmış parçalar
         comma_parts = [p.strip() for p in gt.split(',') if p.strip()]
         if len(comma_parts) > 1 and any(normalize(p) in resp_norm for p in comma_parts):
             return True
-        # 3. Yüksek güven: benzersiz varlık isimleri (generic ek olmayanlar)
         high_conf = _high_conf_tokens(gt)
         if high_conf and any(normalize(t) in resp_norm for t in high_conf):
             return True
-        # 4. Boşlukla ayrılmış önemli kelimeler (≥4 karakter, stopword değil)
         tokens = [w.strip('.,;:()[]"\'–—') for w in gt.split()]
         significant = [t for t in tokens if len(normalize(t)) >= 4 and normalize(t) not in _STOPWORDS]
         if significant and any(normalize(t) in resp_norm for t in significant):
             return True
-        # 5. Türkçe morfoloji: token kökünü tam kelime sınırında ara
         for token in tokens:
             token_n = normalize(token)
             if len(token_n) < 4:
@@ -195,13 +217,15 @@ def extract_yes_no(response: str) -> str:
 
 # ─── 4 Task ───────────────────────────────────────────────────────────────────
 
-def run_task1(t: Dict, api_key: str, model: str) -> Dict:
+def run_task1(t: Dict, api_key: str) -> Dict:
+    model = MODEL_FOR_TASK[1]
     task_input = f"{t['entity1']} - {t['relation']} - X"
     prompt = f"{task_input}\nX için olası cevapları ver, virgülle ayır."
     t0 = time.time()
     llm = call_llm(prompt, api_key, model)
     return {
         "task":            1,
+        "model":           model,
         "task_input":      task_input,
         "llm_predictions": llm["content"],
         "ground_truth":    t['entity2'],
@@ -211,7 +235,8 @@ def run_task1(t: Dict, api_key: str, model: str) -> Dict:
         "output_tokens":   llm["output_tokens"],
     }
 
-def run_task2(t: Dict, api_key: str, model: str) -> Dict:
+def run_task2(t: Dict, api_key: str) -> Dict:
+    model = MODEL_FOR_TASK[2]
     task_input = f"{t['entity1']} - X - {t['entity2']}"
     prompt = (
         f"{task_input}\n"
@@ -223,6 +248,7 @@ def run_task2(t: Dict, api_key: str, model: str) -> Dict:
     llm = call_llm(prompt, api_key, model)
     return {
         "task":            2,
+        "model":           model,
         "task_input":      task_input,
         "llm_predictions": llm["content"],
         "ground_truth":    t['relation'],
@@ -232,7 +258,8 @@ def run_task2(t: Dict, api_key: str, model: str) -> Dict:
         "output_tokens":   llm["output_tokens"],
     }
 
-def run_task3(t: Dict, api_key: str, model: str) -> Dict:
+def run_task3(t: Dict, api_key: str) -> Dict:
+    model = MODEL_FOR_TASK[3]
     task_input = f"{t['entity1']} - {t['relation']} - {t['entity2']}"
     prompt = f"{task_input}\nBu triple doğru mu? Sadece 'Evet' veya 'Hayır' yaz."
     t0 = time.time()
@@ -241,6 +268,7 @@ def run_task3(t: Dict, api_key: str, model: str) -> Dict:
     score = 1 if answer == "evet" else (0 if answer == "hayır" else -1)
     return {
         "task":            3,
+        "model":           model,
         "task_input":      task_input,
         "llm_predictions": llm["content"],
         "ground_truth":    "evet",
@@ -250,14 +278,15 @@ def run_task3(t: Dict, api_key: str, model: str) -> Dict:
         "output_tokens":   llm["output_tokens"],
     }
 
-def run_task4(t: Dict, all_relations: List[str], api_key: str, model: str) -> Dict:
+def run_task4(t: Dict, all_relations: List[str], api_key: str) -> Dict:
+    model = MODEL_FOR_TASK[4]
     real_stems = _relation_stems(t['relation'])
     candidates = [
         r for r in all_relations
         if normalize(r) != normalize(t['relation'])
-        and not (_relation_stems(r) & real_stems)  # eş anlamlı relation'ları ele
+        and not (_relation_stems(r) & real_stems)
     ]
-    if not candidates:  # tüm adaylar benzer çıkarsa fallback
+    if not candidates:
         candidates = [r for r in all_relations if normalize(r) != normalize(t['relation'])]
     wrong_relation = random.choice(candidates)
     task_input = f"{t['entity1']} - {wrong_relation} - {t['entity2']}"
@@ -268,6 +297,7 @@ def run_task4(t: Dict, all_relations: List[str], api_key: str, model: str) -> Di
     score = 1 if answer == "hayır" else (0 if answer == "evet" else -1)
     return {
         "task":            4,
+        "model":           model,
         "task_input":      task_input,
         "wrong_relation":  wrong_relation,
         "llm_predictions": llm["content"],
@@ -288,9 +318,10 @@ TASK_LABELS = {
     4: "Task 4 (False Triple Verification)",
 }
 
-def print_task_result(model: str, triple: Dict, task_res: Dict):
+def print_task_result(dataset: str, triple: Dict, task_res: Dict):
     print()
-    print(f"LLM Modeli     : {model}")
+    print(f"Dataset        : {dataset}")
+    print(f"LLM Modeli     : {task_res['model']}")
     print(f"Veri kaynağı   : {triple['source']}")
     print(f"Veri orijinali : {triple['entity1']} - {triple['relation']} - {triple['entity2']}")
     print(f"{TASK_LABELS[task_res['task']]:16}: {task_res['task_input']}")
@@ -301,33 +332,26 @@ def print_task_result(model: str, triple: Dict, task_res: Dict):
 # ─── Ana değerlendirme döngüsü ────────────────────────────────────────────────
 
 def run_evaluation(
-    model: str = "google/gemini-flash-1.5",
+    dataset_file: str,
     sample_size: int = None,
     output_file: str = None,
     delay: float = 0.3,
     workers: int = 5,
-    source: str = None,
 ):
     api_key = os.getenv("OPENROUTHER_API_KEY")
     if not api_key:
         raise ValueError("OPENROUTHER_API_KEY bulunamadı. .env dosyasını kontrol edin.")
 
-    print(f"Model: {model}")
+    dataset_path = Path(dataset_file)
+    if not dataset_path.exists():
+        raise FileNotFoundError(f"Dataset bulunamadı: {dataset_file}")
+
+    dataset_name = dataset_path.stem
+    print(f"Dataset: {dataset_name}")
     print("Veriler yükleniyor...")
 
-    kepler = parse_triples(KEPLER_FILE)
-    codex  = parse_triples(CODEX_FILE)
-
-    source_filter = (source or "").lower() or None
-    if source_filter == "codex":
-        all_triples = codex
-        print(f"Codex: {len(codex)} triple (Kepler atlandı)")
-    elif source_filter == "kepler":
-        all_triples = kepler
-        print(f"Kepler: {len(kepler)} triple (Codex atlandı)")
-    else:
-        all_triples = kepler + codex
-        print(f"Kepler: {len(kepler)} | Codex: {len(codex)} | Toplam: {len(all_triples)}")
+    all_triples = load_dataset(str(dataset_path))
+    print(f"Toplam triple: {len(all_triples)}")
 
     if sample_size:
         random.seed(42)
@@ -337,10 +361,9 @@ def run_evaluation(
     all_relations = list({t['relation'] for t in all_triples})
 
     if output_file is None:
-        safe_model = model.replace("/", "_").replace(":", "_")
-        output_file = os.path.join(os.path.dirname(__file__), f"results_{safe_model}.jsonl")
+        output_file = str(dataset_path.parent / f"results_{dataset_name}.jsonl")
 
-    # Kaldığı yerden devam — done: set of (triple_index, task_num)
+    # Kaldığı yerden devam
     done: Set[Tuple[int, int]] = set()
     if os.path.exists(output_file):
         with open(output_file, 'r', encoding='utf-8') as f:
@@ -351,22 +374,20 @@ def run_evaluation(
                 done.add((rec['triple_index'], rec['task']))
         print(f"{len(done)} task kaydı bulundu, kaldığı yerden devam...")
 
-    # Her task ayrı bir JSON satırı olarak append edilir
     out_f = open(output_file, 'a', encoding='utf-8')
 
-    # İlk çalıştırmada metadata satırını yaz
     if not done:
         metadata = {
-            "type":         "metadata",
-            "model":        model,
-            "sample_size":  len(all_triples),
+            "type":             "metadata",
+            "dataset":          dataset_name,
+            "sample_size":      len(all_triples),
             "task4_relation_pool": sorted(all_relations),
             "relation_pool_size": len(all_relations),
+            "models_for_task":  MODEL_FOR_TASK,
         }
         out_f.write(json.dumps(metadata, ensure_ascii=False) + "\n")
         out_f.flush()
 
-    # Özet skorlar ve thread-safe yardımcılar
     scores: Dict[int, List[int]] = {1: [], 2: [], 3: [], 4: []}
     lock = threading.Lock()
     total = len(all_triples)
@@ -374,10 +395,10 @@ def run_evaluation(
 
     def process_triple(idx: int, triple: Dict):
         task_funcs = [
-            (1, lambda t=triple: run_task1(t, api_key, model)),
-            (2, lambda t=triple: run_task2(t, api_key, model)),
-            (3, lambda t=triple: run_task3(t, api_key, model)),
-            (4, lambda t=triple: run_task4(t, all_relations, api_key, model)),
+            (1, lambda t=triple: run_task1(t, api_key)),
+            (2, lambda t=triple: run_task2(t, api_key)),
+            (3, lambda t=triple: run_task3(t, api_key)),
+            (4, lambda t=triple: run_task4(t, all_relations, api_key)),
         ]
         for task_num, task_fn in task_funcs:
             if (idx, task_num) in done:
@@ -385,14 +406,14 @@ def run_evaluation(
             try:
                 result = task_fn()
                 record = {
-                    "model":        model,
+                    "dataset":      dataset_name,
                     "source":       triple['source'],
                     "triple_index": idx,
                     "triple":       f"{triple['entity1']} - {triple['relation']} - {triple['entity2']}",
                     **result,
                 }
                 with lock:
-                    print_task_result(model, triple, result)
+                    print_task_result(dataset_name, triple, result)
                     if result['score'] >= 0:
                         scores[task_num].append(result['score'])
                     out_f.write(json.dumps(record, ensure_ascii=False) + "\n")
@@ -419,7 +440,7 @@ def run_evaluation(
 
     # ─── Özet rapor ───────────────────────────────────────────────────────────
     print(f"\n{'='*60}")
-    print(f"MODEL   : {model}")
+    print(f"DATASET : {dataset_name}")
     print(f"Toplam  : {total} triple")
     print(f"{'─'*60}")
     overall = []
@@ -435,20 +456,18 @@ def run_evaluation(
 
 
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="Turkish KG Triple LLM Evaluation")
-    parser.add_argument("--model",  default="google/gemini-flash-1.5")
+    parser = argparse.ArgumentParser(description="Test Dataset LLM Evaluation")
+    parser.add_argument("--dataset", required=True, help="Dataset file (JSON)")
     parser.add_argument("--sample", type=int, default=None)
     parser.add_argument("--output", default=None)
     parser.add_argument("--delay",   type=float, default=0.1)
     parser.add_argument("--workers", type=int,   default=5)
-    parser.add_argument("--source",  choices=["codex", "kepler"], default=None)
     args = parser.parse_args()
 
     run_evaluation(
-        model=args.model,
+        dataset_file=args.dataset,
         sample_size=args.sample,
         output_file=args.output,
         delay=args.delay,
         workers=args.workers,
-        source=args.source,
     )

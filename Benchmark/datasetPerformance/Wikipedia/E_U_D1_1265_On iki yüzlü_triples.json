@@ -1,0 +1,522 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Dihedral_a%C3%A7%C4%B1s%C4%B1&action=edit&redlink=1)",
+    "metin": "Dodekahedronun dihedral açısı 2arctan(φ) veya yaklaşık 116.565 derecedir.",
+    "triple": {
+      "baş": "Dodekahedron",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "dihedral açısı",
+      "uç": "2arctan(φ)",
+      "uç_tipi": "Açı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Dihedral_a%C3%A7%C4%B1s%C4%B1&action=edit&redlink=1)",
+    "metin": "Dodekahedronun dihedral açısı 2arctan(φ) veya yaklaşık 116.565 derecedir.",
+    "triple": {
+      "baş": "Dodekahedron",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "dihedral açısı",
+      "uç": "116.565 derece",
+      "uç_tipi": "Açı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Be%C5%9Fgen)",
+    "metin": "Dodekahedronun yüzleri beşgen olmayabilir.",
+    "triple": {
+      "baş": "Dodekahedron",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "yüz tipi",
+      "uç": "beşgen değil",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Be%C5%9Fgen)",
+    "metin": "Beşgenlerden oluşmuş dodekahedrona bayağı dodekahedron denir.",
+    "triple": {
+      "baş": "Dodekahedron",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "türü",
+      "uç": "bayağı dodekahedron",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Be%C5%9Fgen)",
+    "metin": "Beşgenlerden oluşmuş dodekahedrona bayağı dodekahedron denir.",
+    "triple": {
+      "baş": "bayağı dodekahedron",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "yüz tipi",
+      "uç": "beşgen",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Koordinatlardaki φ = (1+√5)/2 altın orandır (τ).",
+    "triple": {
+      "baş": "φ",
+      "baş_tipi": "Sembol",
+      "ilişki": "eşittir",
+      "uç": "(1+√5)/2",
+      "uç_tipi": "Matematiksel İfade"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Koordinatlardaki φ = (1+√5)/2 altın orandır (τ).",
+    "triple": {
+      "baş": "φ",
+      "baş_tipi": "Sembol",
+      "ilişki": "altın oran olarak bilinir",
+      "uç": "τ",
+      "uç_tipi": "Sembol"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Koordinatlardaki φ = (1+√5)/2 altın orandır (τ).",
+    "triple": {
+      "baş": "(1+√5)/2",
+      "baş_tipi": "Matematiksel İfade",
+      "ilişki": "altın oran olarak bilinir",
+      "uç": "τ",
+      "uç_tipi": "Sembol"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C3%9C%C3%A7_boyutlu)",
+    "metin": "Dodekahedron , düzgün on iki adet yüzü (genellikle beşgen ) olan üç boyutlu şekil.",
+    "triple": {
+      "baş": "Dodekahedron",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "sahiptir",
+      "uç": "on iki adet yüz",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C3%9C%C3%A7_boyutlu)",
+    "metin": "Dodekahedron , düzgün on iki adet yüzü (genellikle beşgen ) olan üç boyutlu şekil.",
+    "triple": {
+      "baş": "Dodekahedron",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "türüdür",
+      "uç": "üç boyutlu şekil",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C3%9C%C3%A7_boyutlu)",
+    "metin": "Dodekahedron , düzgün on iki adet yüzü (genellikle beşgen ) olan üç boyutlu şekil.",
+    "triple": {
+      "baş": "on iki adet yüz",
+      "baş_tipi": "Özellik",
+      "ilişki": "özelliği",
+      "uç": "düzgün",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C3%9C%C3%A7_boyutlu)",
+    "metin": "Dodekahedron , düzgün on iki adet yüzü (genellikle beşgen ) olan üç boyutlu şekil.",
+    "triple": {
+      "baş": "on iki adet yüz",
+      "baş_tipi": "Özellik",
+      "ilişki": "genellikle",
+      "uç": "beşgen",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Be%C5%9Fgen)",
+    "metin": "Dodekahedron , düzgün on iki adet yüzü (genellikle beşgen ) olan üç boyutlu şekil.",
+    "triple": {
+      "baş": "Dodekahedron",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "sahiptir",
+      "uç": "on iki adet yüz",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Be%C5%9Fgen)",
+    "metin": "Dodekahedron , düzgün on iki adet yüzü (genellikle beşgen ) olan üç boyutlu şekil.",
+    "triple": {
+      "baş": "Dodekahedron",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "türüdür",
+      "uç": "üç boyutlu şekil",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Be%C5%9Fgen)",
+    "metin": "Dodekahedron , düzgün on iki adet yüzü (genellikle beşgen ) olan üç boyutlu şekil.",
+    "triple": {
+      "baş": "on iki adet yüz",
+      "baş_tipi": "Özellik",
+      "ilişki": "özelliği",
+      "uç": "düzgün",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Be%C5%9Fgen)",
+    "metin": "Dodekahedron , düzgün on iki adet yüzü (genellikle beşgen ) olan üç boyutlu şekil.",
+    "triple": {
+      "baş": "on iki adet yüz",
+      "baş_tipi": "Özellik",
+      "ilişki": "genellikle",
+      "uç": "beşgen",
+      "uç_tipi": "Geometrik Şekil"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hacim)",
+    "metin": "Bayağı dodekahedronun alanı ( A ) ve hacmi ( V ) şu şekilde hesaplanır:",
+    "triple": {
+      "baş": "Bayağı dodekahedron",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "hesaplanır",
+      "uç": "alanı ( A )",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Hacim)",
+    "metin": "Bayağı dodekahedronun alanı ( A ) ve hacmi ( V ) şu şekilde hesaplanır:",
+    "triple": {
+      "baş": "Bayağı dodekahedron",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "hesaplanır",
+      "uç": "hacmi ( V )",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kartezyen_koordinat_sistemi)",
+    "metin": "Öklid geometrisi, René Descartes 'ın Kartezyen koordinatları tanıttığı 17. yüzyıla kadar yöntem veya kapsam değişikliği olmadan geliştirildi.",
+    "triple": {
+      "baş": "Öklid geometrisi",
+      "baş_tipi": "Teori",
+      "ilişki": "geliştirildi",
+      "uç": "17. yüzyıl",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kartezyen_koordinat_sistemi)",
+    "metin": "Öklid geometrisi, René Descartes 'ın Kartezyen koordinatları tanıttığı 17. yüzyıla kadar yöntem veya kapsam değişikliği olmadan geliştirildi.",
+    "triple": {
+      "baş": "René Descartes",
+      "baş_tipi": "Kişi",
+      "ilişki": "tanıttı",
+      "uç": "Kartezyen koordinatları",
+      "uç_tipi": "Teori"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kartezyen_koordinat_sistemi)",
+    "metin": "Öklid geometrisi, René Descartes 'ın Kartezyen koordinatları tanıttığı 17. yüzyıla kadar yöntem veya kapsam değişikliği olmadan geliştirildi.",
+    "triple": {
+      "baş": "Öklid geometrisi",
+      "baş_tipi": "Teori",
+      "ilişki": "geliştirildi",
+      "uç": "yöntem veya kapsam değişikliği olmadan",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kartezyen_koordinat_sistemi)",
+    "metin": "Aşağıdaki Kartezyen koordinatları , merkezi orijin kabul ederek dodekahedronun köşelerini tanımlar:",
+    "triple": {
+      "baş": "Kartezyen koordinatları",
+      "baş_tipi": "Teori",
+      "ilişki": "tanımlar",
+      "uç": "dodekahedronun köşeleri",
+      "uç_tipi": "Geometrik Nesne"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kartezyen_koordinat_sistemi)",
+    "metin": "Aşağıdaki Kartezyen koordinatları , merkezi orijin kabul ederek dodekahedronun köşelerini tanımlar:",
+    "triple": {
+      "baş": "Kartezyen koordinatları",
+      "baş_tipi": "Teori",
+      "ilişki": "kabul eder",
+      "uç": "merkezi orijin",
+      "uç_tipi": "Konsept"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Koordinatlardaki φ = (1+√5)/2 altın orandır (τ).",
+    "triple": {
+      "baş": "φ",
+      "baş_tipi": "Sembol",
+      "ilişki": "eşittir",
+      "uç": "(1+√5)/2",
+      "uç_tipi": "Matematiksel İfade"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Koordinatlardaki φ = (1+√5)/2 altın orandır (τ).",
+    "triple": {
+      "baş": "φ",
+      "baş_tipi": "Sembol",
+      "ilişki": "altın oran olarak adlandırılır",
+      "uç": "altın oran",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Koordinatlardaki φ = (1+√5)/2 altın orandır (τ).",
+    "triple": {
+      "baş": "(1+√5)/2",
+      "baş_tipi": "Matematiksel İfade",
+      "ilişki": "eşittir",
+      "uç": "φ",
+      "uç_tipi": "Sembol"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Koordinatlardaki φ = (1+√5)/2 altın orandır (τ).",
+    "triple": {
+      "baş": "(1+√5)/2",
+      "baş_tipi": "Matematiksel İfade",
+      "ilişki": "altın oran olarak adlandırılır",
+      "uç": "altın oran",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Koordinatlardaki φ = (1+√5)/2 altın orandır (τ).",
+    "triple": {
+      "baş": "τ",
+      "baş_tipi": "Sembol",
+      "ilişki": "eşittir",
+      "uç": "altın oran",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Koordinatlardaki φ = (1+√5)/2 altın orandır (τ).",
+    "triple": {
+      "baş": "altın oran",
+      "baş_tipi": "Kavram",
+      "ilişki": "sembolü",
+      "uç": "φ",
+      "uç_tipi": "Sembol"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Koordinatlardaki φ = (1+√5)/2 altın orandır (τ).",
+    "triple": {
+      "baş": "altın oran",
+      "baş_tipi": "Kavram",
+      "ilişki": "sembolü",
+      "uç": "τ",
+      "uç_tipi": "Sembol"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alan)",
+    "metin": "Anadolu ( Grekçe : Ἀνατολή , romanize: Anatolḗ ), Anadolu Yarımadası ( Yunanca : Χερσόνησος τῆς Ἀνατολίας , Chersónisos tis Anatolías ) veya coğrafi olarak Asya Kıtası 'nın tüm özelliklerini içerdiğinden Küçük Asya ( Yunanca : Μικρά Ἀσία , Mikrá  সংখ ), Asya kıtasının en batısında Karadeniz , Akdeniz ve Ege denizi arasında kalan yaklaşık 537.000 km²'lik bir alanı kaplayan dağlık bir yarımadadır .",
+    "triple": {
+      "baş": "Anadolu",
+      "baş_tipi": "Bölge",
+      "ilişki": "alternatif isim",
+      "uç": "Anadolu Yarımadası",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alan)",
+    "metin": "Anadolu ( Grekçe : Ἀνατολή , romanize: Anatolḗ ), Anadolu Yarımadası ( Yunanca : Χερσόνησος τῆς Ἀνατολίας , Chersónisos tis Anatolías ) veya coğrafi olarak Asya Kıtası 'nın tüm özelliklerini içerdiğinden Küçük Asya ( Yunanca : Μικρά Ἀσία , Mikrá  সংখ ), Asya kıtasının en batısında Karadeniz , Akdeniz ve Ege denizi arasında kalan yaklaşık 537.000 km²'lik bir alanı kaplayan dağlık bir yarımadadır .",
+    "triple": {
+      "baş": "Anadolu",
+      "baş_tipi": "Bölge",
+      "ilişki": "alternatif isim",
+      "uç": "Küçük Asya",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alan)",
+    "metin": "Anadolu ( Grekçe : Ἀνατολή , romanize: Anatolḗ ), Anadolu Yarımadası ( Yunanca : Χερσόνησος τῆς Ἀνατολίας , Chersónisos tis Anatolías ) veya coğrafi olarak Asya Kıtası 'nın tüm özelliklerini içerdiğinden Küçük Asya ( Yunanca : Μικρά Ἀσία , Mikrá  সংখ ), Asya kıtasının en batısında Karadeniz , Akdeniz ve Ege denizi arasında kalan yaklaşık 537.000 km²'lik bir alanı kaplayan dağlık bir yarımadadır .",
+    "triple": {
+      "baş": "Anadolu",
+      "baş_tipi": "Bölge",
+      "ilişki": "konum",
+      "uç": "Asya Kıtası",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alan)",
+    "metin": "Anadolu ( Grekçe : Ἀνατολή , romanize: Anatolḗ ), Anadolu Yarımadası ( Yunanca : Χερσόνησος τῆς Ἀνατολίας , Chersónisos tis Anatolías ) veya coğrafi olarak Asya Kıtası 'nın tüm özelliklerini içerdiğinden Küçük Asya ( Yunanca : Μικρά Ἀσία , Mikrá  সংখ ), Asya kıtasının en batısında Karadeniz , Akdeniz ve Ege denizi arasında kalan yaklaşık 537.000 km²'lik bir alanı kaplayan dağlık bir yarımadadır .",
+    "triple": {
+      "baş": "Anadolu",
+      "baş_tipi": "Bölge",
+      "ilişki": "sınır",
+      "uç": "Karadeniz",
+      "uç_tipi": "Deniz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alan)",
+    "metin": "Anadolu ( Grekçe : Ἀνατολή , romanize: Anatolḗ ), Anadolu Yarımadası ( Yunanca : Χερσόνησος τῆς Ἀνατολίας , Chersónisos tis Anatolías ) veya coğrafi olarak Asya Kıtası 'nın tüm özelliklerini içerdiğinden Küçük Asya ( Yunanca : Μικρά Ἀσία , Mikrá  সংখ ), Asya kıtasının en batısında Karadeniz , Akdeniz ve Ege denizi arasında kalan yaklaşık 537.000 km²'lik bir alanı kaplayan dağlık bir yarımadadır .",
+    "triple": {
+      "baş": "Anadolu",
+      "baş_tipi": "Bölge",
+      "ilişki": "sınır",
+      "uç": "Akdeniz",
+      "uç_tipi": "Deniz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alan)",
+    "metin": "Anadolu ( Grekçe : Ἀνατολή , romanize: Anatolḗ ), Anadolu Yarımadası ( Yunanca : Χερσόνησος τῆς Ἀνατολίας , Chersónisos tis Anatolías ) veya coğrafi olarak Asya Kıtası 'nın tüm özelliklerini içerdiğinden Küçük Asya ( Yunanca : Μικρά Ἀσία , Mikrá  সংখ ), Asya kıtasının en batısında Karadeniz , Akdeniz ve Ege denizi arasında kalan yaklaşık 537.000 km²'lik bir alanı kaplayan dağlık bir yarımadadır .",
+    "triple": {
+      "baş": "Anadolu",
+      "baş_tipi": "Bölge",
+      "ilişki": "sınır",
+      "uç": "Ege Denizi",
+      "uç_tipi": "Deniz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alan)",
+    "metin": "Anadolu ( Grekçe : Ἀνατολή , romanize: Anatolḗ ), Anadolu Yarımadası ( Yunanca : Χερσόνησος τῆς Ἀνατολίας , Chersónisos tis Anatolías ) veya coğrafi olarak Asya Kıtası 'nın tüm özelliklerini içerdiğinden Küçük Asya ( Yunanca : Μικρά Ἀσία , Mikrá  সংখ ), Asya kıtasının en batısında Karadeniz , Akdeniz ve Ege denizi arasında kalan yaklaşık 537.000 km²'lik bir alanı kaplayan dağlık bir yarımadadır .",
+    "triple": {
+      "baş": "Anadolu",
+      "baş_tipi": "Bölge",
+      "ilişki": "alan",
+      "uç": "537.000 km²",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alan)",
+    "metin": "Anadolu ( Grekçe : Ἀνατολή , romanize: Anatolḗ ), Anadolu Yarımadası ( Yunanca : Χερσόνησος τῆς Ἀνατολίας , Chersónisos tis Anatolías ) veya coğrafi olarak Asya Kıtası 'nın tüm özelliklerini içerdiğinden Küçük Asya ( Yunanca : Μικρά Ἀσία , Mikrá  সংখ ), Asya kıtasının en batısında Karadeniz , Akdeniz ve Ege denizi arasında kalan yaklaşık 537.000 km²'lik bir alanı kaplayan dağlık bir yarımadadır .",
+    "triple": {
+      "baş": "Anadolu",
+      "baş_tipi": "Bölge",
+      "ilişki": "özellik",
+      "uç": "dağlık yarımada",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alan)",
+    "metin": "Bayağı dodekahedronun alanı ( A ) ve hacmi ( V ) şu şekilde hesaplanır:",
+    "triple": {
+      "baş": "Bayağı dodekahedron",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "hesaplanır",
+      "uç": "alan",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alan)",
+    "metin": "Bayağı dodekahedronun alanı ( A ) ve hacmi ( V ) şu şekilde hesaplanır:",
+    "triple": {
+      "baş": "Bayağı dodekahedron",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "hesaplanır",
+      "uç": "hacim",
+      "uç_tipi": "Özellik"
+    }
+  }
+]

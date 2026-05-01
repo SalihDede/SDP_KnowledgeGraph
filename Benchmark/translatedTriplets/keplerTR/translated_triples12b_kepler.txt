@@ -1,5 +1,3 @@
-EN: Jean Graczyk - country of citizenship - iso 3166-1:fr
-TR: Jean Graczyk - vatandaşlık ülkesi - iso 3166-1:fr
 
 EN: paul kaznelson - instance of - Huamn
 TR: Paul Kaznelson - türü - İnsan
@@ -19,8 +17,6 @@ TR: Sar Fıruzabاد kırsal bölgesi – ülke – İran Devleti
 EN: Jean-Claude Paye (sociologist) - different from - Jean-Claude Paye (OECD)
 TR: Jean-Claude Paye (sosyolog) – farklıdır – Jean-Claude Paye (ÜED)
 
-EN: seiryō-ji - country - p:jp
-TR: Seiryo-Ji – ülke – p:jp
 
 EN: Lana Wolf - place of birth - Wezep
 TR: Lana Wolf - doğduğu yer - Wezep
@@ -55,8 +51,6 @@ TR: Ancos Punta - kıta - Güney Amerika
 EN: juris rubenis - country of citizenship - letland
 TR: Juris Rubenis - vatandaşlık ülkesi - Letonya
 
-EN: articles for creation/ the invisible dog art center - located in the administrative territorial entity - p:ny
-TR: "Yaratım için makaleler" / "The Invisible Dog Art Center" - bulunduğu idari bölge - p:ny
 
 EN: William A. Park - occupation - Politician
 TR: William A. Park - meslek - Politikacı
@@ -310,8 +304,6 @@ TR: software_art - alt sınıfı - Bilgisayar Sanatı
 EN: saint-jean-sur-vilaine - named after - villaine estuary
 TR: saint-jean-sur-vilaine - vilaine_nehri'nden sonra isimlendirilmiştir - Vilaine Deltası
 
-EN: Rajghadh - country - iso 3166-1:np
-TR: Rajghat - ülke - iso 3166-1:np
 
 EN: Fatmir Hysenbelliu - instance of - Huamn
 TR: Fatmir Hysenbelliu - türü - Human
@@ -397,8 +389,6 @@ TR: Adam Jabiri - örneği - İnsan.
 EN: Helen Boyle (swimmer) - sport - swimming (sport)
 TR: Helen Boyle (yüzücü) - spor dalı - yüzme (spor).
 
-EN: The Guelph Mercury - country - p:ca
-TR: Guelph Mercury - ülke - p:ca.
 
 EN: glencarse - country - royaume-uni
 TR: Glencarse - ülke - Royaume-Uni.
@@ -535,8 +525,6 @@ TR: Dennis Warrior - spor takımının üyesidir - Leeds Rhinos kayıtları.
 EN: Hurricanes (Pull Tiger Tail song) - instance of - single (music)
 TR: "Hurricanes" (Pull Tiger Tail şarkısı) - bir örneğidir - tekil parça (müzik).
 
-EN: Water Polo at the 1900 Summer Olympics - country - iso 3166-1:fr
-TR: 1900 Yaz Olimpiyatlarındaki Su Topu - ülkedir - iso 3166-1:fr.
 
 EN: over-fish - instance of - Depleting Resource
 TR: aşırı avlanma – bir türü – Tükenen Kaynak
@@ -583,8 +571,6 @@ TR: Brahm Kund – ülke – ਭਾਰਤ ਗਣਤੰਤਰ.
 EN: Kamalabhog - has part - chenna
 TR: Kamalabhog – parçası var – Chennal.
 
-EN: wakeman sound - country - p:ca
-TR: Wakeman Sound – ülke – p:ca.
 
 EN: Gary Ross (baseball) - instance of - Huamn
 TR: Gary Ross (beyzbol) - bir örneği - İnsan
@@ -661,8 +647,6 @@ TR: Mike Herrel – plak şirketi - Release Entertainment
 EN: neyasar rural district - located in the administrative territorial entity - neyasar district
 TR: neyasar kırsal bölgesi - yerel idari birim içinde bulunuyor - neyasar ilçesi
 
-EN: réginald forbes - country of citizenship - iso 3166-1:fr
-TR: réginald forbes - vatandaşlık ülkesi - iso 3166-1:fr
 
 EN: Intensive Comedy Unit - instance of - cour (tv production)
 TR: Yoğun Komedi Birimi - örneği - cour (TV yapımı)
@@ -745,8 +729,6 @@ TR: Lesjaverk İstasyonu - işletmecisi - Norveç Devlet Demiryolları.
 EN: thirteen chairs (1938 film) - cast member - Karl Skraup
 TR: thirteen chairs (1938 filmi) - oyuncu kadrosunda yer alan kişi - Karl Skraup
 
-EN: pigeon point, minnesota - country - p:ca
-TR: pigeon point, minnesota - ülke - p:ca
 
 EN: nigel olsson - record label - Page One Records
 TR: nigel olsson - müzik şirketi - Page One Records
@@ -907,8 +889,6 @@ TR: Lavoute-sur-Loire – içinde bulunduğu zaman dilimi – Roma saati
 EN: Robert Sparrow (by 1459-1528) - instance of - Huamn
 TR: Robert Sparrow (1459 ile 1528 yılları arasında yaşamış) – bir örneği – İnsan
 
-EN: Robert Alexander (Newfoundland politician) - country of citizenship - p:ca
-TR: Robert Alexander (Kanada politikacısı) – vatandaşlık ülkesi – p:ca
 
 EN: henning moritzen - place of burial - Frederiksberg Aeldre Kirkegard
 TR: Henning Moritzen - definlendiği yer - Frederiksberg Mezarlığı
@@ -1171,8 +1151,6 @@ TR: Nanjing filmi - türü - Belgesel dizisi
 EN: list of sovereign states in 2012 - instance of - lists
 TR: 2012'deki egemen devletler listesi - örneği - liste
 
-EN: Taillades - country - iso 3166-1:fr
-TR: Taillades - ülke - iso 3166-1:fr
 
 EN: denes dibusz - position played on team / speciality - Association football goalkeeper
 TR: Dénesz Dubucz – pozisyonu/uzmanlığı – Kaleci olarak oynadığı futbol takımı.
@@ -1750,8 +1728,6 @@ TR: Peter Levy (sunucu) - verilen ad - Peder
 EN: Mpumi Nyandeni - instance of - Huamn
 TR: Mpumi Nyandeni - bir örneğidir - Huamn
 
-EN: Jacob François Marola - country of citizenship - iso 3166-1:fr
-TR: Jacob François Marola - vatandaşlık ülkesi - iso 3166-1:fr
 
 EN: randy holcomb - member of sports team - Gatos de Monagas
 TR: Randy Holcomb - spor takımının üyesi - Gatos de Monagas
@@ -2347,8 +2323,6 @@ TR: Nook Logan - vatandaşlık ülkesi - Amerika Birleşik Devletleri
 EN: L'homme du train - country of origin - royaume-uni
 TR: L’Homme du Train - orijin ülke - İngiltere
 
-EN: jean luc bennahmias - country of citizenship - iso 3166-1:fr
-TR: Jean Luc Bennahmias - vatandaşlık ülkesi -  iso 3166-1:fr
 
 EN: IMO 8901561 - home port - havenmuiden
 TR: IMO 8901561 - liman kenti - havenmuiden

@@ -63,6 +63,39 @@ def load_results() -> pd.DataFrame:
     return df
 
 
+@st.cache_data
+def load_test_dataset_results() -> pd.DataFrame:
+    """Load results from test datasets (Wikipedia, KG-Gen, PromptOpt)."""
+    test_files = [
+        os.path.join(BENCHMARK_DIR, "datasetPerformance", "results_Wikipediatest.jsonl"),
+        os.path.join(BENCHMARK_DIR, "datasetPerformance", "results_KG-Gentest.jsonl"),
+        os.path.join(BENCHMARK_DIR, "datasetPerformance", "results_PromptOpttest.jsonl"),
+    ]
+
+    rows = []
+    for path in test_files:
+        if not os.path.exists(path):
+            continue
+
+        with open(path, "r", encoding="utf-8") as f:
+            for line in f:
+                line = line.strip()
+                if not line:
+                    continue
+                rec = json.loads(line)
+                if rec.get("type") == "metadata":
+                    continue
+                if rec.get("score", -1) >= 0:
+                    rows.append(rec)
+
+    if not rows:
+        return pd.DataFrame()
+
+    df = pd.DataFrame(rows)
+    df["task_label"] = df["task"].map(TASK_LABELS)
+    return df
+
+
 # ─── Sidebar ──────────────────────────────────────────────────────────────────
 
 st.sidebar.title("🔧 Filtreler")
@@ -100,12 +133,14 @@ st.sidebar.button("🔄 Yenile", on_click=load_results.clear)
 
 # ─── Tabs ─────────────────────────────────────────────────────────────────────
 
-tab1, tab2, tab3, tab4, tab5 = st.tabs([
+tab1, tab2, tab3, tab4, tab5, tab6, tab7 = st.tabs([
     "📊 Genel Skorlar",
     "🎯 Task Karşılaştırması",
     "⏱️ Latency",
     "🔤 Token Kullanımı",
     "🔍 Detay",
+    "📈 Test Veri Setleri",
+    "🚀 Optimizasyon Analizi",
 ])
 
 
@@ -338,3 +373,286 @@ with tab5:
         use_container_width=True,
         height=500,
     )
+
+
+# ── Tab 6: Test Veri Setleri ──────────────────────────────────────────────────
+
+with tab6:
+    st.header("Test Veri Setleri — Performans ve Kalite")
+
+    df_test = load_test_dataset_results()
+
+    if df_test.empty:
+        st.warning("Test veri seti sonuçları bulunamadı. Önce evaluator.py'yi çalıştırın.")
+    else:
+        st.caption(f"**{len(df_test)}** test kaydı · **{df_test['dataset'].nunique()}** dataset · **{df_test['model'].nunique()}** model")
+
+        # ─── Dataset Özeti ────────────────────────────────────────────────
+        st.subheader("📊 Dataset Özeti")
+
+        col1, col2, col3 = st.columns(3)
+        cols = [col1, col2, col3]
+        for idx, dataset in enumerate(sorted(df_test['dataset'].unique())):
+            dataset_df = df_test[df_test['dataset'] == dataset]
+            count = len(dataset_df)
+            accuracy = (dataset_df['score'].sum() / count * 100) if count > 0 else 0
+            with cols[idx % 3]:
+                st.metric(
+                    dataset.replace('test', ''),
+                    f"{count} örnek",
+                    delta=f"{accuracy:.1f}% accuracy"
+                )
+
+        st.markdown("---")
+
+        # ─── Dataset × Model × Task ───────────────────────────────────────
+        st.subheader("🎯 Dataset × Model × Task Performansı")
+
+        dataset_model_task = (
+            df_test.groupby(["dataset", "model", "task_label"])["score"]
+            .agg(['mean', 'count'])
+            .mul(100)
+            .round(2)
+            .reset_index()
+            .rename(columns={'mean': 'accuracy_pct'})
+        )
+
+        pivot_display = dataset_model_task.pivot_table(
+            index=['dataset', 'model'],
+            columns='task_label',
+            values='accuracy_pct',
+            aggfunc='first'
+        ).reset_index()
+
+        # Ortalama ekle
+        task_labels = [TASK_LABELS[i] for i in range(1, 5)]
+        pivot_display['Ortalama'] = pivot_display[task_labels].mean(axis=1).round(2)
+        pivot_display = pivot_display.sort_values(['dataset', 'Ortalama'], ascending=[True, False])
+        pivot_display.index = range(1, len(pivot_display) + 1)
+
+        st.dataframe(
+            pivot_display.style.background_gradient(cmap="RdYlGn", vmin=0, vmax=100,
+                                                     subset=task_labels + ['Ortalama']),
+            use_container_width=True,
+        )
+
+        st.markdown("---")
+
+        # ─── Dataset Bazında Karşılaştırma ───────────────────────────────
+        st.subheader("📈 Dataset Bazında Model Performansı")
+
+        dataset_acc = (
+            df_test.groupby(["dataset", "model"])["score"]
+            .mean().mul(100).round(2).reset_index()
+            .rename(columns={"score": "accuracy_pct"})
+            .sort_values(["dataset", "accuracy_pct"], ascending=[True, False])
+        )
+
+        fig_dataset = px.bar(
+            dataset_acc, x="dataset", y="accuracy_pct", color="model",
+            barmode="group", text="accuracy_pct",
+            labels={"accuracy_pct": "Accuracy (%)", "dataset": ""},
+            title="Test Veri Setleri — Model Başına Accuracy",
+        )
+        fig_dataset.update_traces(texttemplate="%{text:.1f}%", textposition="outside")
+        st.plotly_chart(fig_dataset, use_container_width=True)
+
+        st.markdown("---")
+
+        # ─── Task Bazında Dataset Analizi ─────────────────────────────────
+        st.subheader("🎯 Task Bazında Dataset Performansı")
+
+        task_dataset = (
+            df_test.groupby(["task_label", "dataset"])["score"]
+            .mean().mul(100).round(2).reset_index()
+            .rename(columns={"score": "accuracy_pct"})
+        )
+
+        fig_task_dataset = px.bar(
+            task_dataset, x="task_label", y="accuracy_pct", color="dataset",
+            barmode="group", text="accuracy_pct",
+            labels={"accuracy_pct": "Accuracy (%)", "task_label": ""},
+            title="Task Başına Dataset Performansı",
+        )
+        fig_task_dataset.update_traces(texttemplate="%{text:.1f}%", textposition="outside")
+        st.plotly_chart(fig_task_dataset, use_container_width=True)
+
+        st.markdown("---")
+
+        # ─── Dataset Detayı ───────────────────────────────────────────────
+        st.subheader("🔍 Dataset Detayı")
+
+        col1, col2, col3 = st.columns(3)
+        with col1:
+            sel_dataset = st.selectbox("Dataset Seç", sorted(df_test['dataset'].unique()), key="ds_select")
+        with col2:
+            sel_model_test = st.selectbox("Model Seç", sorted(df_test['model'].unique()), key="model_test_select")
+        with col3:
+            sel_task_test = st.selectbox("Task Seç", list(TASK_LABELS.keys()), format_func=lambda x: TASK_LABELS[x], key="task_test_select")
+
+        det_df_test = df_test[
+            (df_test['dataset'] == sel_dataset) &
+            (df_test['model'] == sel_model_test) &
+            (df_test['task'] == sel_task_test)
+        ].copy()
+
+        st.caption(f"{len(det_df_test)} kayıt · Accuracy: {(det_df_test['score'].mean() * 100):.1f}%")
+
+        show_cols_test = ["triple", "task_input", "llm_predictions", "ground_truth", "score"]
+        if "latency_s" in det_df_test.columns:
+            show_cols_test.append("latency_s")
+        if "input_tokens" in det_df_test.columns:
+            show_cols_test += ["input_tokens", "output_tokens"]
+        if "source" in det_df_test.columns:
+            show_cols_test.insert(0, "source")
+
+        st.dataframe(
+            det_df_test[show_cols_test].reset_index(drop=True),
+            use_container_width=True,
+            height=500,
+        )
+
+
+# ── Tab 7: Optimizasyon Analizi ───────────────────────────────────────────────
+
+with tab7:
+    st.header("🚀 Optimizasyon Tekniklerinin Performans Analizi")
+
+    df_opt = load_test_dataset_results()
+    df_opt = df_opt[df_opt['dataset'] == 'PromptOpttest'].copy()
+
+    if df_opt.empty:
+        st.warning("PromptOpt test sonuçları bulunamadı.")
+    else:
+        all_optimizations = sorted(df_opt['source'].unique())
+
+        st.caption(f"**{len(all_optimizations)}** optimizasyon · **{len(df_opt)}** test kaydı")
+
+        # ─── Optimizasyon Seçimi ──────────────────────────────────────
+        st.markdown("### 📊 Optimizasyon Karşılaştırması")
+
+        sel_opts = st.multiselect(
+            "Karşılaştırılacak Optimizasyonları Seç",
+            all_optimizations,
+            default=all_optimizations,
+            key="opt_select"
+        )
+
+        df_opt_filtered = df_opt[df_opt['source'].isin(sel_opts)].copy()
+
+        if df_opt_filtered.empty:
+            st.warning("Seçilen optimizasyonlar için veri yok.")
+        else:
+            # ─── Genel Accuracy Karşılaştırması ───────────────────────
+            st.subheader("Genel Accuracy")
+
+            opt_overall = (
+                df_opt_filtered.groupby('source')['score']
+                .agg(['sum', 'count'])
+                .reset_index()
+            )
+            opt_overall.columns = ['source', 'correct', 'total']
+            opt_overall['accuracy_pct'] = (opt_overall['correct'] / opt_overall['total'] * 100).round(2)
+            opt_overall = opt_overall.sort_values('accuracy_pct', ascending=False)
+
+            col1, col2 = st.columns([1, 2])
+
+            with col1:
+                display_opt = opt_overall[['source', 'accuracy_pct', 'total']].copy()
+                display_opt.columns = ['Optimizasyon', 'Accuracy (%)', 'Test Sayısı']
+                display_opt.index = range(1, len(display_opt) + 1)
+                st.dataframe(display_opt, use_container_width=True)
+
+            with col2:
+                fig_opt = px.bar(
+                    opt_overall, x="accuracy_pct", y="source", orientation="h",
+                    text="accuracy_pct", color="accuracy_pct",
+                    color_continuous_scale="RdYlGn", range_color=[0, 100],
+                    labels={"accuracy_pct": "Accuracy (%)", "source": ""},
+                    title="Optimizasyon Teknikleri — Accuracy Karşılaştırması",
+                )
+                fig_opt.update_traces(texttemplate="%{text:.1f}%", textposition="outside")
+                fig_opt.update_layout(coloraxis_showscale=False, yaxis={"categoryorder": "total ascending"})
+                st.plotly_chart(fig_opt, use_container_width=True)
+
+            st.markdown("---")
+
+            # ─── Task Bazında Optimizasyon Performansı ────────────────
+            st.subheader("Task Bazında Optimizasyon Performansı")
+
+            opt_task = (
+                df_opt_filtered.groupby(['source', 'task_label'])['score']
+                .mean().mul(100).round(2).reset_index()
+                .rename(columns={'score': 'accuracy_pct'})
+            )
+
+            fig_opt_task = px.bar(
+                opt_task, x="task_label", y="accuracy_pct", color="source",
+                barmode="group", text="accuracy_pct",
+                labels={"accuracy_pct": "Accuracy (%)", "task_label": ""},
+                title="Her Task için Optimizasyon Karşılaştırması",
+            )
+            fig_opt_task.update_traces(texttemplate="%{text:.1f}%", textposition="outside")
+            st.plotly_chart(fig_opt_task, use_container_width=True)
+
+            st.markdown("---")
+
+            # ─── Pivot Tablo: Optimizasyon × Task ──────────────────────
+            st.subheader("Pivot Tablo — Optimizasyon × Task")
+
+            opt_pivot = (
+                df_opt_filtered.groupby(['source', 'task_label'])['score']
+                .mean().mul(100).round(2)
+                .unstack('task_label')
+                .reset_index()
+            )
+            task_labels = [TASK_LABELS[i] for i in range(1, 5)]
+            opt_pivot['Ortalama'] = opt_pivot[task_labels].mean(axis=1).round(2)
+            opt_pivot = opt_pivot.sort_values('Ortalama', ascending=False)
+            opt_pivot.columns = ['Optimizasyon'] + task_labels + ['Ortalama']
+            opt_pivot.index = range(1, len(opt_pivot) + 1)
+
+            st.dataframe(
+                opt_pivot.style.background_gradient(cmap="RdYlGn", vmin=0, vmax=100,
+                                                    subset=task_labels + ['Ortalama']),
+                use_container_width=True,
+            )
+
+            st.markdown("---")
+
+            # ─── Model Bazında Optimizasyon Performansı ────────────────
+            st.subheader("Model Bazında Optimizasyon Performansı")
+
+            opt_model = (
+                df_opt_filtered.groupby(['source', 'model'])['score']
+                .mean().mul(100).round(2).reset_index()
+                .rename(columns={'score': 'accuracy_pct'})
+            )
+
+            fig_opt_model = px.bar(
+                opt_model, x="model", y="accuracy_pct", color="source",
+                barmode="group", text="accuracy_pct",
+                labels={"accuracy_pct": "Accuracy (%)", "model": ""},
+                title="Model Başına Optimizasyon Karşılaştırması",
+            )
+            fig_opt_model.update_traces(texttemplate="%{text:.1f}%", textposition="outside")
+            fig_opt_model.update_layout(xaxis_tickangle=45)
+            st.plotly_chart(fig_opt_model, use_container_width=True)
+
+            st.markdown("---")
+
+            # ─── Performance Metrikleri ────────────────────────────────
+            st.subheader("📈 Detaylı Performance Metrikleri")
+
+            metrics_cols = st.columns(len(sel_opts))
+
+            for idx, opt in enumerate(sel_opts):
+                opt_data = df_opt_filtered[df_opt_filtered['source'] == opt]
+                accuracy = (opt_data['score'].sum() / len(opt_data) * 100) if len(opt_data) > 0 else 0
+
+                with metrics_cols[idx]:
+                    st.metric(
+                        f"**{opt.upper()}**",
+                        f"{accuracy:.1f}%",
+                        delta=f"{len(opt_data)} test"
+                    )

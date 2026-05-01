@@ -1,0 +1,28 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/A%C4%9Fa%C3%A7)",
+    "metin": "Kozalak ( strobilus ), bazı ağaçlarda , üreme yapılarını barındıran bitki bölümüdür.",
+    "triple": {
+      "baş": "Kozalak",
+      "baş_tipi": "Bitki Bölümü",
+      "ilişki": "işlevi",
+      "uç": "üreme yapılarını barındırma",
+      "uç_tipi": "İşlev"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/A%C4%9Fa%C3%A7)",
+    "metin": "Kozalak ( strobilus ), bazı ağaçlarda , üreme yapılarını barındıran bitki bölümüdür.",
+    "triple": {
+      "baş": "Kozalak",
+      "baş_tipi": "Bitki Bölümü",
+      "ilişki": "bulunduğu yer",
+      "uç": "Ağaç",
+      "uç_tipi": "Bitki"
+    }
+  }
+]

@@ -1,0 +1,158 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Fibonacci)",
+    "metin": "Aynı zamanda Yunan alfabesindekine karşılık gelen F harfi de, Fibonacci 'nin ilk harfidir.",
+    "triple": {
+      "baş": "F",
+      "baş_tipi": "Harf",
+      "ilişki": "karşılık gelir",
+      "uç": "Fibonacci",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Fibonacci)",
+    "metin": "MÖ 1220'de Fibonacci , Arşimet'ten bağımsız olarak çokgen bir yöntem kullanarak 3.1418'i hesapladı.",
+    "triple": {
+      "baş": "Fibonacci",
+      "baş_tipi": "Kişi",
+      "ilişki": "hesapladı",
+      "uç": "3.1418",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Fibonacci)",
+    "metin": "MÖ 1220'de Fibonacci , Arşimet'ten bağımsız olarak çokgen bir yöntem kullanarak 3.1418'i hesapladı.",
+    "triple": {
+      "baş": "Fibonacci",
+      "baş_tipi": "Kişi",
+      "ilişki": "hesapladı",
+      "uç": "Arşimet",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Fibonacci)",
+    "metin": "Bu durumda genel olarak n'inci Fibonacci sayısı F(n) şu şekilde ifade edilir:",
+    "triple": {
+      "baş": "n'inci Fibonacci sayısı",
+      "baş_tipi": "Kavram",
+      "ilişki": "ifade edilir",
+      "uç": "F(n)",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Ayrıca ardışık her iki sayının bölümü altın orana yakın bir değer vermektedir değer ne kadar büyük olursa altın orana o kadar yakın olur örneğin:55:34=1,617... 1, 2, 3, 5, 8, 13, 21, 34, 55, 89... şeklinde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir.",
+    "triple": {
+      "baş": "Ardışık Sayıların Bölümü",
+      "baş_tipi": "Özellik",
+      "ilişki": "yakın değer verir",
+      "uç": "Altın Oran",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Ayrıca ardışık her iki sayının bölümü altın orana yakın bir değer vermektedir değer ne kadar büyük olursa altın orana o kadar yakın olur örneğin:55:34=1,617... 1, 2, 3, 5, 8, 13, 21, 34, 55, 89... şeklinde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir.",
+    "triple": {
+      "baş": "Değer",
+      "baş_tipi": "Özellik",
+      "ilişki": "büyüdükçe yakınlaşır",
+      "uç": "Altın Oran",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Ayrıca ardışık her iki sayının bölümü altın orana yakın bir değer vermektedir değer ne kadar büyük olursa altın orana o kadar yakın olur örneğin:55:34=1,617... 1, 2, 3, 5, 8, 13, 21, 34, 55, 89... şeklinde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir.",
+    "triple": {
+      "baş": "55",
+      "baş_tipi": "Sayı",
+      "ilişki": "bölümü",
+      "uç": "34",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Ayrıca ardışık her iki sayının bölümü altın orana yakın bir değer vermektedir değer ne kadar büyük olursa altın orana o kadar yakın olur örneğin:55:34=1,617... 1, 2, 3, 5, 8, 13, 21, 34, 55, 89... şeklinde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir.",
+    "triple": {
+      "baş": "55:34",
+      "baş_tipi": "İşlem",
+      "ilişki": "eşittir",
+      "uç": "1,617...",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Ayrıca ardışık her iki sayının bölümü altın orana yakın bir değer vermektedir değer ne kadar büyük olursa altın orana o kadar yakın olur örneğin:55:34=1,617... 1, 2, 3, 5, 8, 13, 21, 34, 55, 89... şeklinde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir.",
+    "triple": {
+      "baş": "Dizi",
+      "baş_tipi": "Yapı",
+      "ilişki": "devam eder",
+      "uç": "1, 2, 3, 5, 8, 13, 21, 34, 55, 89...",
+      "uç_tipi": "Sayı Dizisi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Ayrıca ardışık her iki sayının bölümü altın orana yakın bir değer vermektedir değer ne kadar büyük olursa altın orana o kadar yakın olur örneğin:55:34=1,617... 1, 2, 3, 5, 8, 13, 21, 34, 55, 89... şeklinde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir.",
+    "triple": {
+      "baş": "Sayılar",
+      "baş_tipi": "Varlık",
+      "ilişki": "oranlandığında ortaya çıkar",
+      "uç": "Altın Oran",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Ayrıca ardışık her iki sayının bölümü altın orana yakın bir değer vermektedir değer ne kadar büyük olursa altın orana o kadar yakın olur örneğin:55:34=1,617... 1, 2, 3, 5, 8, 13, 21, 34, 55, 89... şeklinde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir.",
+    "triple": {
+      "baş": "Bir Sayı",
+      "baş_tipi": "Varlık",
+      "ilişki": "bölündüğünde elde edilir",
+      "uç": "Altın Orana Yaklaşan Dizi",
+      "uç_tipi": "Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Alt%C4%B1n_oran)",
+    "metin": "Ayrıca ardışık her iki sayının bölümü altın orana yakın bir değer vermektedir değer ne kadar büyük olursa altın orana o kadar yakın olur örneğin:55:34=1,617... 1, 2, 3, 5, 8, 13, 21, 34, 55, 89... şeklinde devam eden bu dizide sayılar birbirleriyle oranlandığında altın oran ortaya çıkar, yani bir sayı kendisinden önceki sayıya bölündüğünde altın orana gittikçe yaklaşan bir dizi elde edilir.",
+    "triple": {
+      "baş": "Bir Sayı",
+      "baş_tipi": "Varlık",
+      "ilişki": "kendinden önceki sayıya bölündüğünde",
+      "uç": "Altın Orana Yaklaşan Dizi",
+      "uç_tipi": "Yapı"
+    }
+  }
+]

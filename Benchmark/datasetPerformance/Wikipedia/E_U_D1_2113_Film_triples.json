@@ -1,0 +1,3928 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Resim)",
+    "metin": "Film , hareketli resimlerin seri şekilde gösterilmesi ile ortaya çıkan bir yapıttır.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşum şekli",
+      "uç": "hareketli resimlerin seri şekilde gösterilmesi",
+      "uç_tipi": "Süreç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Resim)",
+    "metin": "Film , hareketli resimlerin seri şekilde gösterilmesi ile ortaya çıkan bir yapıttır.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "türü",
+      "uç": "yapıt",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k)",
+    "metin": "Fotoğrafçılıkta hâlâ kullanılan selüloit filmin geliştirilmesiyle nesnelerin gerçek zamanlı hareketini yakalamak mümkün olmuştur.",
+    "triple": {
+      "baş": "Selüloit film",
+      "baş_tipi": "Malzeme",
+      "ilişki": "geliştirilmesi mümkün kıldı",
+      "uç": "Gerçek zamanlı hareket yakalama",
+      "uç_tipi": "Yetenek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Foto%C4%9Fraf%C3%A7%C4%B1l%C4%B1k)",
+    "metin": "Fotoğrafçılıkta hâlâ kullanılan selüloit filmin geliştirilmesiyle nesnelerin gerçek zamanlı hareketini yakalamak mümkün olmuştur.",
+    "triple": {
+      "baş": "Selüloit film",
+      "baş_tipi": "Malzeme",
+      "ilişki": "kullanılır",
+      "uç": "Fotoğrafçılık",
+      "uç_tipi": "Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sel%C3%BCloit)",
+    "metin": "Fotoğrafçılıkta hâlâ kullanılan selüloit filmin geliştirilmesiyle nesnelerin gerçek zamanlı hareketini yakalamak mümkün olmuştur.",
+    "triple": {
+      "baş": "Selüloit film",
+      "baş_tipi": "Malzeme",
+      "ilişki": "geliştirilmesi mümkün kıldı",
+      "uç": "Gerçek zamanlı hareket yakalama",
+      "uç_tipi": "Yetenek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sel%C3%BCloit)",
+    "metin": "Fotoğrafçılıkta hâlâ kullanılan selüloit filmin geliştirilmesiyle nesnelerin gerçek zamanlı hareketini yakalamak mümkün olmuştur.",
+    "triple": {
+      "baş": "Selüloit film",
+      "baş_tipi": "Malzeme",
+      "ilişki": "kullanılır",
+      "uç": "Fotoğrafçılık",
+      "uç_tipi": "Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Praxinoscope&action=edit&redlink=1)",
+    "metin": "Bu yıllarda zoetrope ve praxinoscope denilen basit optik aygıtların gelişmişi olan aygıtlar kullanılmaktaydı.",
+    "triple": {
+      "baş": "zoetrope",
+      "baş_tipi": "Optik Aygıt",
+      "ilişki": "gelişmişi",
+      "uç": "aygıtlar",
+      "uç_tipi": "Aygıt"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Praxinoscope&action=edit&redlink=1)",
+    "metin": "Bu yıllarda zoetrope ve praxinoscope denilen basit optik aygıtların gelişmişi olan aygıtlar kullanılmaktaydı.",
+    "triple": {
+      "baş": "praxinoscope",
+      "baş_tipi": "Optik Aygıt",
+      "ilişki": "gelişmişi",
+      "uç": "aygıtlar",
+      "uç_tipi": "Aygıt"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Praxinoscope&action=edit&redlink=1)",
+    "metin": "Bu yıllarda zoetrope ve praxinoscope denilen basit optik aygıtların gelişmişi olan aygıtlar kullanılmaktaydı.",
+    "triple": {
+      "baş": "aygıtlar",
+      "baş_tipi": "Aygıt",
+      "ilişki": "kullanılmaktaydı",
+      "uç": "Bu yıllarda",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Animasyon)",
+    "metin": "Filmler, gerçek insan ve objelerin kamerayla kayıt edilmesiyle veya animasyon teknikleri, özel efektler gibi teknikler ile her iki unsurun yaratılmasıyla ortaya çıkar.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşturulma yöntemi",
+      "uç": "gerçek insan ve objelerin kamerayla kayıt edilmesi",
+      "uç_tipi": "Yöntem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Animasyon)",
+    "metin": "Filmler, gerçek insan ve objelerin kamerayla kayıt edilmesiyle veya animasyon teknikleri, özel efektler gibi teknikler ile her iki unsurun yaratılmasıyla ortaya çıkar.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşturulma yöntemi",
+      "uç": "animasyon teknikleri",
+      "uç_tipi": "Yöntem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Animasyon)",
+    "metin": "Filmler, gerçek insan ve objelerin kamerayla kayıt edilmesiyle veya animasyon teknikleri, özel efektler gibi teknikler ile her iki unsurun yaratılmasıyla ortaya çıkar.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşturulma yöntemi",
+      "uç": "özel efektler",
+      "uç_tipi": "Yöntem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Obje)",
+    "metin": "Filmler, gerçek insan ve objelerin kamerayla kayıt edilmesiyle veya animasyon teknikleri, özel efektler gibi teknikler ile her iki unsurun yaratılmasıyla ortaya çıkar.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşturulma yöntemi",
+      "uç": "gerçek insan ve objelerin kamerayla kayıt edilmesi",
+      "uç_tipi": "Yöntem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Obje)",
+    "metin": "Filmler, gerçek insan ve objelerin kamerayla kayıt edilmesiyle veya animasyon teknikleri, özel efektler gibi teknikler ile her iki unsurun yaratılmasıyla ortaya çıkar.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşturulma yöntemi",
+      "uç": "animasyon teknikleri",
+      "uç_tipi": "Yöntem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Obje)",
+    "metin": "Filmler, gerçek insan ve objelerin kamerayla kayıt edilmesiyle veya animasyon teknikleri, özel efektler gibi teknikler ile her iki unsurun yaratılmasıyla ortaya çıkar.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşturulma yöntemi",
+      "uç": "özel efektler",
+      "uç_tipi": "Yöntem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kamera)",
+    "metin": "Filmler, gerçek insan ve objelerin kamerayla kayıt edilmesiyle veya animasyon teknikleri, özel efektler gibi teknikler ile her iki unsurun yaratılmasıyla ortaya çıkar.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşturulma yöntemi",
+      "uç": "gerçek insan ve objelerin kamerayla kayıt edilmesi",
+      "uç_tipi": "Oluşturma Yöntemi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kamera)",
+    "metin": "Filmler, gerçek insan ve objelerin kamerayla kayıt edilmesiyle veya animasyon teknikleri, özel efektler gibi teknikler ile her iki unsurun yaratılmasıyla ortaya çıkar.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşturulma yöntemi",
+      "uç": "animasyon teknikleri",
+      "uç_tipi": "Oluşturma Yöntemi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kamera)",
+    "metin": "Filmler, gerçek insan ve objelerin kamerayla kayıt edilmesiyle veya animasyon teknikleri, özel efektler gibi teknikler ile her iki unsurun yaratılmasıyla ortaya çıkar.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "oluşturulma yöntemi",
+      "uç": "özel efektler",
+      "uç_tipi": "Oluşturma Yöntemi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Zoetrope)",
+    "metin": "Bu yıllarda zoetrope ve praxinoscope denilen basit optik aygıtların gelişmişi olan aygıtlar kullanılmaktaydı.",
+    "triple": {
+      "baş": "zoetrope",
+      "baş_tipi": "Optik Aygıt",
+      "ilişki": "gelişmişi",
+      "uç": "aygıtlar",
+      "uç_tipi": "Aygıt"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Zoetrope)",
+    "metin": "Bu yıllarda zoetrope ve praxinoscope denilen basit optik aygıtların gelişmişi olan aygıtlar kullanılmaktaydı.",
+    "triple": {
+      "baş": "praxinoscope",
+      "baş_tipi": "Optik Aygıt",
+      "ilişki": "gelişmişi",
+      "uç": "aygıtlar",
+      "uç_tipi": "Aygıt"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Zoetrope)",
+    "metin": "Bu yıllarda zoetrope ve praxinoscope denilen basit optik aygıtların gelişmişi olan aygıtlar kullanılmaktaydı.",
+    "triple": {
+      "baş": "aygıtlar",
+      "baş_tipi": "Aygıt",
+      "ilişki": "kullanılmaktaydı",
+      "uç": "Bu yıllarda",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinematografi)",
+    "metin": "Film yapım süreci hem bir sanat hem de bir endüstridir.",
+    "triple": {
+      "baş": "Film yapım süreci",
+      "baş_tipi": "Kavram",
+      "ilişki": "bir türdür",
+      "uç": "Sanat",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinematografi)",
+    "metin": "Film yapım süreci hem bir sanat hem de bir endüstridir.",
+    "triple": {
+      "baş": "Film yapım süreci",
+      "baş_tipi": "Kavram",
+      "ilişki": "bir türdür",
+      "uç": "Endüstri",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinematografi)",
+    "metin": "Sinematografinin kısaltması olan \" sinema \" kelimesi genellikle film yapımcılığını, film endüstrisini ve ilgili sanatları ifade etmek için kullanılır.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Kavram",
+      "ilişki": "kısaltmasıdır",
+      "uç": "Sinematografi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinematografi)",
+    "metin": "Sinematografinin kısaltması olan \" sinema \" kelimesi genellikle film yapımcılığını, film endüstrisini ve ilgili sanatları ifade etmek için kullanılır.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Kavram",
+      "ilişki": "ifade eder",
+      "uç": "Film yapımcılığı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinematografi)",
+    "metin": "Sinematografinin kısaltması olan \" sinema \" kelimesi genellikle film yapımcılığını, film endüstrisini ve ilgili sanatları ifade etmek için kullanılır.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Kavram",
+      "ilişki": "ifade eder",
+      "uç": "Film endüstrisi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinematografi)",
+    "metin": "Sinematografinin kısaltması olan \" sinema \" kelimesi genellikle film yapımcılığını, film endüstrisini ve ilgili sanatları ifade etmek için kullanılır.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Kavram",
+      "ilişki": "ifade eder",
+      "uç": "İlgili sanatlar",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik_ill%C3%BCzyon)",
+    "metin": "Filmlerde bir seri tekil çerçeveler oluşturulur ancak bu çerçeveler ardışık ve hızlıca gösterildiğinde, optik illüzyon oluşur ve bu optik illüzyon izleyicinin, sırayla hızla izlenen ayrı çerçeveler arasındaki sürekli hareketi algılamasına neden olur ( Phi fenomeni nedeni ile).",
+    "triple": {
+      "baş": "Filmler",
+      "baş_tipi": "Medya Türü",
+      "ilişki": "oluşturulur",
+      "uç": "Tekil Çerçeveler",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik_ill%C3%BCzyon)",
+    "metin": "Filmlerde bir seri tekil çerçeveler oluşturulur ancak bu çerçeveler ardışık ve hızlıca gösterildiğinde, optik illüzyon oluşur ve bu optik illüzyon izleyicinin, sırayla hızla izlenen ayrı çerçeveler arasındaki sürekli hareketi algılamasına neden olur ( Phi fenomeni nedeni ile).",
+    "triple": {
+      "baş": "Tekil Çerçeveler",
+      "baş_tipi": "Kavram",
+      "ilişki": "gösterildiğinde oluşur",
+      "uç": "Optik İllüzyon",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik_ill%C3%BCzyon)",
+    "metin": "Filmlerde bir seri tekil çerçeveler oluşturulur ancak bu çerçeveler ardışık ve hızlıca gösterildiğinde, optik illüzyon oluşur ve bu optik illüzyon izleyicinin, sırayla hızla izlenen ayrı çerçeveler arasındaki sürekli hareketi algılamasına neden olur ( Phi fenomeni nedeni ile).",
+    "triple": {
+      "baş": "Optik İllüzyon",
+      "baş_tipi": "Kavram",
+      "ilişki": "neden olur",
+      "uç": "Algılama",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik_ill%C3%BCzyon)",
+    "metin": "Filmlerde bir seri tekil çerçeveler oluşturulur ancak bu çerçeveler ardışık ve hızlıca gösterildiğinde, optik illüzyon oluşur ve bu optik illüzyon izleyicinin, sırayla hızla izlenen ayrı çerçeveler arasındaki sürekli hareketi algılamasına neden olur ( Phi fenomeni nedeni ile).",
+    "triple": {
+      "baş": "Algılama",
+      "baş_tipi": "Kavram",
+      "ilişki": "algılanan",
+      "uç": "Sürekli Hareket",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik_ill%C3%BCzyon)",
+    "metin": "Filmlerde bir seri tekil çerçeveler oluşturulur ancak bu çerçeveler ardışık ve hızlıca gösterildiğinde, optik illüzyon oluşur ve bu optik illüzyon izleyicinin, sırayla hızla izlenen ayrı çerçeveler arasındaki sürekli hareketi algılamasına neden olur ( Phi fenomeni nedeni ile).",
+    "triple": {
+      "baş": "Optik İllüzyon",
+      "baş_tipi": "Kavram",
+      "ilişki": "nedeni",
+      "uç": "Phi Fenomeni",
+      "uç_tipi": "Fenomen"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sanatlar)",
+    "metin": "Film yapım süreci hem bir sanat hem de bir endüstridir.",
+    "triple": {
+      "baş": "Film yapım süreci",
+      "baş_tipi": "Kavram",
+      "ilişki": "bir türdür",
+      "uç": "Sanat",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sanatlar)",
+    "metin": "Film yapım süreci hem bir sanat hem de bir endüstridir.",
+    "triple": {
+      "baş": "Film yapım süreci",
+      "baş_tipi": "Kavram",
+      "ilişki": "bir türdür",
+      "uç": "Endüstri",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sanatlar)",
+    "metin": "Sinematografinin kısaltması olan \" sinema \" kelimesi genellikle film yapımcılığını, film endüstrisini ve ilgili sanatları ifade etmek için kullanılır.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Kavram",
+      "ilişki": "kısaltmasıdır",
+      "uç": "Sinematografi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sanatlar)",
+    "metin": "Sinematografinin kısaltması olan \" sinema \" kelimesi genellikle film yapımcılığını, film endüstrisini ve ilgili sanatları ifade etmek için kullanılır.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Kavram",
+      "ilişki": "ifade eder",
+      "uç": "Film yapımcılığı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sanatlar)",
+    "metin": "Sinematografinin kısaltması olan \" sinema \" kelimesi genellikle film yapımcılığını, film endüstrisini ve ilgili sanatları ifade etmek için kullanılır.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Kavram",
+      "ilişki": "ifade eder",
+      "uç": "Film endüstrisi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sanatlar)",
+    "metin": "Sinematografinin kısaltması olan \" sinema \" kelimesi genellikle film yapımcılığını, film endüstrisini ve ilgili sanatları ifade etmek için kullanılır.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Kavram",
+      "ilişki": "ifade eder",
+      "uç": "İlgili sanatlar",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Phi_fenomeni)",
+    "metin": "Filmlerde bir seri tekil çerçeveler oluşturulur ancak bu çerçeveler ardışık ve hızlıca gösterildiğinde, optik illüzyon oluşur ve bu optik illüzyon izleyicinin, sırayla hızla izlenen ayrı çerçeveler arasındaki sürekli hareketi algılamasına neden olur ( Phi fenomeni nedeni ile).",
+    "triple": {
+      "baş": "Filmler",
+      "baş_tipi": "Medya Türü",
+      "ilişki": "oluşturulur",
+      "uç": "Tekil Çerçeveler",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Phi_fenomeni)",
+    "metin": "Filmlerde bir seri tekil çerçeveler oluşturulur ancak bu çerçeveler ardışık ve hızlıca gösterildiğinde, optik illüzyon oluşur ve bu optik illüzyon izleyicinin, sırayla hızla izlenen ayrı çerçeveler arasındaki sürekli hareketi algılamasına neden olur ( Phi fenomeni nedeni ile).",
+    "triple": {
+      "baş": "Tekil Çerçeveler",
+      "baş_tipi": "Kavram",
+      "ilişki": "gösterildiğinde oluşur",
+      "uç": "Optik İllüzyon",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Phi_fenomeni)",
+    "metin": "Filmlerde bir seri tekil çerçeveler oluşturulur ancak bu çerçeveler ardışık ve hızlıca gösterildiğinde, optik illüzyon oluşur ve bu optik illüzyon izleyicinin, sırayla hızla izlenen ayrı çerçeveler arasındaki sürekli hareketi algılamasına neden olur ( Phi fenomeni nedeni ile).",
+    "triple": {
+      "baş": "Optik İllüzyon",
+      "baş_tipi": "Kavram",
+      "ilişki": "neden olur",
+      "uç": "Algılama",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Phi_fenomeni)",
+    "metin": "Filmlerde bir seri tekil çerçeveler oluşturulur ancak bu çerçeveler ardışık ve hızlıca gösterildiğinde, optik illüzyon oluşur ve bu optik illüzyon izleyicinin, sırayla hızla izlenen ayrı çerçeveler arasındaki sürekli hareketi algılamasına neden olur ( Phi fenomeni nedeni ile).",
+    "triple": {
+      "baş": "Algılama",
+      "baş_tipi": "Kavram",
+      "ilişki": "konu",
+      "uç": "Sürekli Hareket",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Phi_fenomeni)",
+    "metin": "Filmlerde bir seri tekil çerçeveler oluşturulur ancak bu çerçeveler ardışık ve hızlıca gösterildiğinde, optik illüzyon oluşur ve bu optik illüzyon izleyicinin, sırayla hızla izlenen ayrı çerçeveler arasındaki sürekli hareketi algılamasına neden olur ( Phi fenomeni nedeni ile).",
+    "triple": {
+      "baş": "Optik İllüzyon",
+      "baş_tipi": "Kavram",
+      "ilişki": "nedeni",
+      "uç": "Phi Fenomeni",
+      "uç_tipi": "Fenomen"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sessiz_film)",
+    "metin": "İlk öykülü film 1902 yılında Georges Méliès tarafından Le Voyage dans la Lune (Aya Seyahat) adlı filmle gerçekleştirildi.",
+    "triple": {
+      "baş": "Georges Méliès",
+      "baş_tipi": "Kişi",
+      "ilişki": "yönetti",
+      "uç": "Le Voyage dans la Lune",
+      "uç_tipi": "Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sessiz_film)",
+    "metin": "İlk öykülü film 1902 yılında Georges Méliès tarafından Le Voyage dans la Lune (Aya Seyahat) adlı filmle gerçekleştirildi.",
+    "triple": {
+      "baş": "Le Voyage dans la Lune",
+      "baş_tipi": "Film",
+      "ilişki": "yayınlanma yılı",
+      "uç": "1902",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sessiz_film)",
+    "metin": "19. yüzyıla kadar hareketli resimler tamamen görsel bir sanat olmasına karşın ilk sessiz filmlerin kamu tarafından beğenilmişti.",
+    "triple": {
+      "baş": "hareketli resimler",
+      "baş_tipi": "Sanat Türü",
+      "ilişki": "özelliği",
+      "uç": "görsel sanat",
+      "uç_tipi": "Sanat Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sessiz_film)",
+    "metin": "19. yüzyıla kadar hareketli resimler tamamen görsel bir sanat olmasına karşın ilk sessiz filmlerin kamu tarafından beğenilmişti.",
+    "triple": {
+      "baş": "ilk sessiz filmler",
+      "baş_tipi": "Film",
+      "ilişki": "beğenildi",
+      "uç": "kamu",
+      "uç_tipi": "Topluluk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sessiz_film)",
+    "metin": "20. yüzyılın başında filmler öyküsel bir yapı geliştirmeye başladı.",
+    "triple": {
+      "baş": "filmler",
+      "baş_tipi": "Film",
+      "ilişki": "geliştirdi",
+      "uç": "öyküsel yapı",
+      "uç_tipi": "Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sessiz_film)",
+    "metin": "20. yüzyılın başında filmler öyküsel bir yapı geliştirmeye başladı.",
+    "triple": {
+      "baş": "filmler",
+      "baş_tipi": "Film",
+      "ilişki": "zamanı",
+      "uç": "20. yüzyılın başı",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Gazete)",
+    "metin": "Gazete, dergi ve kablolu yayıncılıkta görülen film eleştirmenliği temelde yeni yapımlara göz atıştır.",
+    "triple": {
+      "baş": "film eleştirmenliği",
+      "baş_tipi": "Kavram",
+      "ilişki": "görülür",
+      "uç": "Gazete",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Gazete)",
+    "metin": "Gazete, dergi ve kablolu yayıncılıkta görülen film eleştirmenliği temelde yeni yapımlara göz atıştır.",
+    "triple": {
+      "baş": "film eleştirmenliği",
+      "baş_tipi": "Kavram",
+      "ilişki": "görülür",
+      "uç": "dergi",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Gazete)",
+    "metin": "Gazete, dergi ve kablolu yayıncılıkta görülen film eleştirmenliği temelde yeni yapımlara göz atıştır.",
+    "triple": {
+      "baş": "film eleştirmenliği",
+      "baş_tipi": "Kavram",
+      "ilişki": "görülür",
+      "uç": "kablolu yayıncılık",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Gazete)",
+    "metin": "Gazete, dergi ve kablolu yayıncılıkta görülen film eleştirmenliği temelde yeni yapımlara göz atıştır.",
+    "triple": {
+      "baş": "film eleştirmenliği",
+      "baş_tipi": "Kavram",
+      "ilişki": "temelde",
+      "uç": "yeni yapımlara göz atıştır",
+      "uç_tipi": "Eylem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s)",
+    "metin": "İlk öykülü film 1902 yılında Georges Méliès tarafından Le Voyage dans la Lune (Aya Seyahat) adlı filmle gerçekleştirildi.",
+    "triple": {
+      "baş": "Le Voyage dans la Lune",
+      "baş_tipi": "Film",
+      "ilişki": "yapımcı",
+      "uç": "Georges Méliès",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s)",
+    "metin": "İlk öykülü film 1902 yılında Georges Méliès tarafından Le Voyage dans la Lune (Aya Seyahat) adlı filmle gerçekleştirildi.",
+    "triple": {
+      "baş": "Le Voyage dans la Lune",
+      "baş_tipi": "Film",
+      "ilişki": "yıl",
+      "uç": "1902",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s)",
+    "metin": "İlk öykülü film 1902 yılında Georges Méliès tarafından Le Voyage dans la Lune (Aya Seyahat) adlı filmle gerçekleştirildi.",
+    "triple": {
+      "baş": "Le Voyage dans la Lune",
+      "baş_tipi": "Film",
+      "ilişki": "türü",
+      "uç": "Öykülü Film",
+      "uç_tipi": "Film Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s)",
+    "metin": "19. yüzyıla kadar hareketli resimler tamamen görsel bir sanat olmasına karşın ilk sessiz filmlerin kamu tarafından beğenilmişti.",
+    "triple": {
+      "baş": "Hareketli Resimler",
+      "baş_tipi": "Sanat Türü",
+      "ilişki": "dönem",
+      "uç": "19. yüzyıl",
+      "uç_tipi": "Tarih Aralığı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s)",
+    "metin": "19. yüzyıla kadar hareketli resimler tamamen görsel bir sanat olmasına karşın ilk sessiz filmlerin kamu tarafından beğenilmişti.",
+    "triple": {
+      "baş": "Hareketli Resimler",
+      "baş_tipi": "Sanat Türü",
+      "ilişki": "özellik",
+      "uç": "Görsel Sanat",
+      "uç_tipi": "Sanat Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s)",
+    "metin": "20. yüzyılın başında filmler öyküsel bir yapı geliştirmeye başladı.",
+    "triple": {
+      "baş": "Filmler",
+      "baş_tipi": "Film",
+      "ilişki": "dönem",
+      "uç": "20. yüzyılın başı",
+      "uç_tipi": "Tarih Aralığı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Georges_M%C3%A9li%C3%A8s)",
+    "metin": "20. yüzyılın başında filmler öyküsel bir yapı geliştirmeye başladı.",
+    "triple": {
+      "baş": "Filmler",
+      "baş_tipi": "Film",
+      "ilişki": "geliştirilen özellik",
+      "uç": "Öyküsel Yapı",
+      "uç_tipi": "Yapı Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film_ele%C5%9Ftirmenli%C4%9Fi)",
+    "metin": "Genellikle akademisyenlerce yapılan akademik eleştirmenlik ile gazete ve diğer medyalarda görülen gazeteci film eleştirmenliği şeklinde ikiye ayrılır.",
+    "triple": {
+      "baş": "Eleştirmenlik",
+      "baş_tipi": "Kavram",
+      "ilişki": "türüdür",
+      "uç": "Akademik Eleştirmenlik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film_ele%C5%9Ftirmenli%C4%9Fi)",
+    "metin": "Genellikle akademisyenlerce yapılan akademik eleştirmenlik ile gazete ve diğer medyalarda görülen gazeteci film eleştirmenliği şeklinde ikiye ayrılır.",
+    "triple": {
+      "baş": "Eleştirmenlik",
+      "baş_tipi": "Kavram",
+      "ilişki": "türüdür",
+      "uç": "Gazeteci Film Eleştirmenliği",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film_ele%C5%9Ftirmenli%C4%9Fi)",
+    "metin": "Genellikle akademisyenlerce yapılan akademik eleştirmenlik ile gazete ve diğer medyalarda görülen gazeteci film eleştirmenliği şeklinde ikiye ayrılır.",
+    "triple": {
+      "baş": "Akademik Eleştirmenlik",
+      "baş_tipi": "Kavram",
+      "ilişki": "yapılır",
+      "uç": "Akademisyen",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film_ele%C5%9Ftirmenli%C4%9Fi)",
+    "metin": "Genellikle akademisyenlerce yapılan akademik eleştirmenlik ile gazete ve diğer medyalarda görülen gazeteci film eleştirmenliği şeklinde ikiye ayrılır.",
+    "triple": {
+      "baş": "Gazeteci Film Eleştirmenliği",
+      "baş_tipi": "Kavram",
+      "ilişki": "görülür",
+      "uç": "Gazete",
+      "uç_tipi": "Medyum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film_ele%C5%9Ftirmenli%C4%9Fi)",
+    "metin": "Genellikle akademisyenlerce yapılan akademik eleştirmenlik ile gazete ve diğer medyalarda görülen gazeteci film eleştirmenliği şeklinde ikiye ayrılır.",
+    "triple": {
+      "baş": "Gazeteci Film Eleştirmenliği",
+      "baş_tipi": "Kavram",
+      "ilişki": "görülür",
+      "uç": "Diğer Medya",
+      "uç_tipi": "Medyum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Medya)",
+    "metin": "Genellikle akademisyenlerce yapılan akademik eleştirmenlik ile gazete ve diğer medyalarda görülen gazeteci film eleştirmenliği şeklinde ikiye ayrılır.",
+    "triple": {
+      "baş": "Eleştirmenlik",
+      "baş_tipi": "Kavram",
+      "ilişki": "türüdür",
+      "uç": "Akademik Eleştirmenlik",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Medya)",
+    "metin": "Genellikle akademisyenlerce yapılan akademik eleştirmenlik ile gazete ve diğer medyalarda görülen gazeteci film eleştirmenliği şeklinde ikiye ayrılır.",
+    "triple": {
+      "baş": "Eleştirmenlik",
+      "baş_tipi": "Kavram",
+      "ilişki": "türüdür",
+      "uç": "Gazeteci Film Eleştirmenliği",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Medya)",
+    "metin": "Genellikle akademisyenlerce yapılan akademik eleştirmenlik ile gazete ve diğer medyalarda görülen gazeteci film eleştirmenliği şeklinde ikiye ayrılır.",
+    "triple": {
+      "baş": "Akademik Eleştirmenlik",
+      "baş_tipi": "Kavram",
+      "ilişki": "yapılır",
+      "uç": "Akademisyenler",
+      "uç_tipi": "Kişi Grubu"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Medya)",
+    "metin": "Genellikle akademisyenlerce yapılan akademik eleştirmenlik ile gazete ve diğer medyalarda görülen gazeteci film eleştirmenliği şeklinde ikiye ayrılır.",
+    "triple": {
+      "baş": "Gazeteci Film Eleştirmenliği",
+      "baş_tipi": "Kavram",
+      "ilişki": "görülür",
+      "uç": "Gazete ve Diğer Medyalar",
+      "uç_tipi": "Medyalar"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Gazete)",
+    "metin": "Almanya'da en çok gazete Berlin'de yayımlanıyor.",
+    "triple": {
+      "baş": "Almanya",
+      "baş_tipi": "Ülke",
+      "ilişki": "en çok gazete yayımlanan şehir",
+      "uç": "Berlin",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Gazete)",
+    "metin": "Vatikan'ın doğrudan ya da dolaylı olarak sahibi olduğu veya yönlendirdiği günlük, haftalık ve aylık 200'den fazla gazete ve dergi , 154 radyo istasyonu veya emisyonu, 49 TV kanalı veya kablolu yayını bulunmaktadır.",
+    "triple": {
+      "baş": "Vatikan",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "sahip olduğu veya yönlendirdiği",
+      "uç": "gazete ve dergi",
+      "uç_tipi": "Medya"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Gazete)",
+    "metin": "Vatikan'ın doğrudan ya da dolaylı olarak sahibi olduğu veya yönlendirdiği günlük, haftalık ve aylık 200'den fazla gazete ve dergi , 154 radyo istasyonu veya emisyonu, 49 TV kanalı veya kablolu yayını bulunmaktadır.",
+    "triple": {
+      "baş": "Vatikan",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "sahip olduğu veya yönlendirdiği",
+      "uç": "radyo istasyonu veya emisyonu",
+      "uç_tipi": "Medya"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Gazete)",
+    "metin": "Vatikan'ın doğrudan ya da dolaylı olarak sahibi olduğu veya yönlendirdiği günlük, haftalık ve aylık 200'den fazla gazete ve dergi , 154 radyo istasyonu veya emisyonu, 49 TV kanalı veya kablolu yayını bulunmaktadır.",
+    "triple": {
+      "baş": "Vatikan",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "sahip olduğu veya yönlendirdiği",
+      "uç": "TV kanalı veya kablolu yayını",
+      "uç_tipi": "Medya"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Gazete)",
+    "metin": "Genellikle akademisyenlerce yapılan akademik eleştirmenlik ile gazete ve diğer medyalarda görülen gazeteci film eleştirmenliği şeklinde ikiye ayrılır.",
+    "triple": {
+      "baş": "akademik eleştirmenlik",
+      "baş_tipi": "Eleştirmenlik Türü",
+      "ilişki": "türü",
+      "uç": "akademisyenlerce yapılan",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Gazete)",
+    "metin": "Genellikle akademisyenlerce yapılan akademik eleştirmenlik ile gazete ve diğer medyalarda görülen gazeteci film eleştirmenliği şeklinde ikiye ayrılır.",
+    "triple": {
+      "baş": "gazeteci film eleştirmenliği",
+      "baş_tipi": "Eleştirmenlik Türü",
+      "ilişki": "türü",
+      "uç": "gazete ve diğer medyalarda görülen",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Kablolu_yay%C4%B1n&action=edit&redlink=1)",
+    "metin": "Gazete, dergi ve kablolu yayıncılıkta görülen film eleştirmenliği temelde yeni yapımlara göz atıştır.",
+    "triple": {
+      "baş": "film eleştirmenliği",
+      "baş_tipi": "Kavram",
+      "ilişki": "görülür",
+      "uç": "gazete",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Kablolu_yay%C4%B1n&action=edit&redlink=1)",
+    "metin": "Gazete, dergi ve kablolu yayıncılıkta görülen film eleştirmenliği temelde yeni yapımlara göz atıştır.",
+    "triple": {
+      "baş": "film eleştirmenliği",
+      "baş_tipi": "Kavram",
+      "ilişki": "görülür",
+      "uç": "dergi",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Kablolu_yay%C4%B1n&action=edit&redlink=1)",
+    "metin": "Gazete, dergi ve kablolu yayıncılıkta görülen film eleştirmenliği temelde yeni yapımlara göz atıştır.",
+    "triple": {
+      "baş": "film eleştirmenliği",
+      "baş_tipi": "Kavram",
+      "ilişki": "görülür",
+      "uç": "kablolu yayıncılık",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Kablolu_yay%C4%B1n&action=edit&redlink=1)",
+    "metin": "Gazete, dergi ve kablolu yayıncılıkta görülen film eleştirmenliği temelde yeni yapımlara göz atıştır.",
+    "triple": {
+      "baş": "film eleştirmenliği",
+      "baş_tipi": "Kavram",
+      "ilişki": "temelde",
+      "uç": "yeni yapımlara göz atıştırma",
+      "uç_tipi": "Eylem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=%C4%B0zleyici&action=edit&redlink=1)",
+    "metin": "Bundan dolayı bu tarz eleştiriler, derin bir film analizi olmayıp izleyicileri filmin konusu, türü, yönetmeni hakkında kısaca bilgilendiren ve filme karşı eleştirmenin tavrını (beğeni ya da hoşnutsuzluğunu) gösteren tanıtıcı makalelerden ibarettir.",
+    "triple": {
+      "baş": "eleştiriler",
+      "baş_tipi": "Makale",
+      "ilişki": "içeriği",
+      "uç": "filmin konusu",
+      "uç_tipi": "Film Özelliği"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=%C4%B0zleyici&action=edit&redlink=1)",
+    "metin": "Bundan dolayı bu tarz eleştiriler, derin bir film analizi olmayıp izleyicileri filmin konusu, türü, yönetmeni hakkında kısaca bilgilendiren ve filme karşı eleştirmenin tavrını (beğeni ya da hoşnutsuzluğunu) gösteren tanıtıcı makalelerden ibarettir.",
+    "triple": {
+      "baş": "eleştiriler",
+      "baş_tipi": "Makale",
+      "ilişki": "içeriği",
+      "uç": "filmin türü",
+      "uç_tipi": "Film Özelliği"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=%C4%B0zleyici&action=edit&redlink=1)",
+    "metin": "Bundan dolayı bu tarz eleştiriler, derin bir film analizi olmayıp izleyicileri filmin konusu, türü, yönetmeni hakkında kısaca bilgilendiren ve filme karşı eleştirmenin tavrını (beğeni ya da hoşnutsuzluğunu) gösteren tanıtıcı makalelerden ibarettir.",
+    "triple": {
+      "baş": "eleştiriler",
+      "baş_tipi": "Makale",
+      "ilişki": "içeriği",
+      "uç": "filmin yönetmeni",
+      "uç_tipi": "Film Özelliği"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=%C4%B0zleyici&action=edit&redlink=1)",
+    "metin": "Bundan dolayı bu tarz eleştiriler, derin bir film analizi olmayıp izleyicileri filmin konusu, türü, yönetmeni hakkında kısaca bilgilendiren ve filme karşı eleştirmenin tavrını (beğeni ya da hoşnutsuzluğunu) gösteren tanıtıcı makalelerden ibarettir.",
+    "triple": {
+      "baş": "eleştiriler",
+      "baş_tipi": "Makale",
+      "ilişki": "gösterir",
+      "uç": "eleştirmenin tavrı",
+      "uç_tipi": "Tutum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=%C4%B0zleyici&action=edit&redlink=1)",
+    "metin": "Bundan dolayı bu tarz eleştiriler, derin bir film analizi olmayıp izleyicileri filmin konusu, türü, yönetmeni hakkında kısaca bilgilendiren ve filme karşı eleştirmenin tavrını (beğeni ya da hoşnutsuzluğunu) gösteren tanıtıcı makalelerden ibarettir.",
+    "triple": {
+      "baş": "eleştiriler",
+      "baş_tipi": "Makale",
+      "ilişki": "türü",
+      "uç": "tanıtıcı makale",
+      "uç_tipi": "Makale"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/19._y%C3%BCzy%C4%B1l)",
+    "metin": "Deneyin ve sonucun klişe haline gelmesi bilimin artık istenilebilir düzeye gelmesini sağlamıştır.",
+    "triple": {
+      "baş": "Bilim",
+      "baş_tipi": "Kavram",
+      "ilişki": "sahiptir",
+      "uç": "İstenilebilir Düzey",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/19._y%C3%BCzy%C4%B1l)",
+    "metin": "19. yüzyıla kadar gelişme kateden bilim aslında kendi içinde bir savaş vermiş, birçok özgün araştırmacı, düz mantıkla hareket eden Orta Çağ liderlerine yenik düşmüştür.",
+    "triple": {
+      "baş": "Bilim",
+      "baş_tipi": "Kavram",
+      "ilişki": "gelişme kateden",
+      "uç": "19. yüzyıl",
+      "uç_tipi": "Zaman Dilimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/19._y%C3%BCzy%C4%B1l)",
+    "metin": "19. yüzyıla kadar gelişme kateden bilim aslında kendi içinde bir savaş vermiş, birçok özgün araştırmacı, düz mantıkla hareket eden Orta Çağ liderlerine yenik düşmüştür.",
+    "triple": {
+      "baş": "Bilim",
+      "baş_tipi": "Kavram",
+      "ilişki": "vermiştir",
+      "uç": "Savaş",
+      "uç_tipi": "Olay"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/19._y%C3%BCzy%C4%B1l)",
+    "metin": "birçok özgün araştırmacı, düz mantıkla hareket eden Orta Çağ liderlerine yenik düşmüştür.",
+    "triple": {
+      "baş": "Özgün Araştırmacı",
+      "baş_tipi": "Kişi",
+      "ilişki": "yenik düşmüştür",
+      "uç": "Orta Çağ Lideri",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/19._y%C3%BCzy%C4%B1l)",
+    "metin": "Aristo 'nun fiziğinden daha farklı düşüncelere sahip olan Galileo kendi zamanının bilim insanlarıyla ters düşmeye başlamıştı.",
+    "triple": {
+      "baş": "Galileo",
+      "baş_tipi": "Kişi",
+      "ilişki": "sahiptir",
+      "uç": "Farklı Düşünceler",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/19._y%C3%BCzy%C4%B1l)",
+    "metin": "Aristo 'nun fiziğinden daha farklı düşüncelere sahip olan Galileo kendi zamanının bilim insanlarıyla ters düşmeye başlamıştı.",
+    "triple": {
+      "baş": "Galileo",
+      "baş_tipi": "Kişi",
+      "ilişki": "ters düşmüştür",
+      "uç": "Bilim İnsanı",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/19._y%C3%BCzy%C4%B1l)",
+    "metin": "Bir bilim dalı olarak 19. yüzyıla kadar şimdiki alt dallarıyla gelişen biyoloji , canlıların tüm özelliklerini inceleyen bir sistemidir.",
+    "triple": {
+      "baş": "Biyoloji",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "gelişen",
+      "uç": "19. yüzyıl",
+      "uç_tipi": "Zaman Dilimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/19._y%C3%BCzy%C4%B1l)",
+    "metin": "Bir bilim dalı olarak 19. yüzyıla kadar şimdiki alt dallarıyla gelişen biyoloji , canlıların tüm özelliklerini inceleyen bir sistemidir.",
+    "triple": {
+      "baş": "Biyoloji",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "inceleyen",
+      "uç": "Canlıların Tüm Özellikleri",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/19._y%C3%BCzy%C4%B1l)",
+    "metin": "İlk öykülü film 1902 yılında Georges Méliès tarafından Le Voyage dans la Lune (Aya Seyahat) adlı filmle gerçekleştirildi.",
+    "triple": {
+      "baş": "Georges Méliès",
+      "baş_tipi": "Kişi",
+      "ilişki": "gerçekleştirdi",
+      "uç": "Le Voyage dans la Lune",
+      "uç_tipi": "Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/19._y%C3%BCzy%C4%B1l)",
+    "metin": "İlk öykülü film 1902 yılında Georges Méliès tarafından Le Voyage dans la Lune (Aya Seyahat) adlı filmle gerçekleştirildi.",
+    "triple": {
+      "baş": "Le Voyage dans la Lune",
+      "baş_tipi": "Film",
+      "ilişki": "gerçekleştirildi",
+      "uç": "1902",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/19._y%C3%BCzy%C4%B1l)",
+    "metin": "19. yüzyıla kadar hareketli resimler tamamen görsel bir sanat olmasına karşın ilk sessiz filmlerin kamu tarafından beğenilmişti.",
+    "triple": {
+      "baş": "Hareketli Resim",
+      "baş_tipi": "Sanat",
+      "ilişki": "görsel",
+      "uç": "Sanat",
+      "uç_tipi": "Sanat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/19._y%C3%BCzy%C4%B1l)",
+    "metin": "19. yüzyıla kadar hareketli resimler tamamen görsel bir sanat olmasına karşın ilk sessiz filmlerin kamu tarafından beğenilmişti.",
+    "triple": {
+      "baş": "Sessiz Filmler",
+      "baş_tipi": "Film",
+      "ilişki": "beğenilmişti",
+      "uç": "Kamu",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/19._y%C3%BCzy%C4%B1l)",
+    "metin": "20. yüzyılın başında filmler öyküsel bir yapı geliştirmeye başladı.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Film",
+      "ilişki": "geliştirmeye başladı",
+      "uç": "Öyküsel Yapı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dergi)",
+    "metin": "Vatikan'ın doğrudan ya da dolaylı olarak sahibi olduğu veya yönlendirdiği günlük, haftalık ve aylık 200'den fazla gazete ve dergi , 154 radyo istasyonu veya emisyonu, 49 TV kanalı veya kablolu yayını bulunmaktadır.",
+    "triple": {
+      "baş": "Vatikan",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "sahip olduğu",
+      "uç": "gazete ve dergi",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dergi)",
+    "metin": "Vatikan'ın doğrudan ya da dolaylı olarak sahibi olduğu veya yönlendirdiği günlük, haftalık ve aylık 200'den fazla gazete ve dergi , 154 radyo istasyonu veya emisyonu, 49 TV kanalı veya kablolu yayını bulunmaktadır.",
+    "triple": {
+      "baş": "Vatikan",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "yönlendirdiği",
+      "uç": "gazete ve dergi",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dergi)",
+    "metin": "Vatikan'ın doğrudan ya da dolaylı olarak sahibi olduğu veya yönlendirdiği günlük, haftalık ve aylık 200'den fazla gazete ve dergi , 154 radyo istasyonu veya emisyonu, 49 TV kanalı veya kablolu yayını bulunmaktadır.",
+    "triple": {
+      "baş": "Vatikan",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "sahip olduğu",
+      "uç": "radyo istasyonu veya emisyonu",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dergi)",
+    "metin": "Vatikan'ın doğrudan ya da dolaylı olarak sahibi olduğu veya yönlendirdiği günlük, haftalık ve aylık 200'den fazla gazete ve dergi , 154 radyo istasyonu veya emisyonu, 49 TV kanalı veya kablolu yayını bulunmaktadır.",
+    "triple": {
+      "baş": "Vatikan",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "yönlendirdiği",
+      "uç": "radyo istasyonu veya emisyonu",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dergi)",
+    "metin": "Vatikan'ın doğrudan ya da dolaylı olarak sahibi olduğu veya yönlendirdiği günlük, haftalık ve aylık 200'den fazla gazete ve dergi , 154 radyo istasyonu veya emisyonu, 49 TV kanalı veya kablolu yayını bulunmaktadır.",
+    "triple": {
+      "baş": "Vatikan",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "sahip olduğu",
+      "uç": "TV kanalı veya kablolu yayını",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dergi)",
+    "metin": "Vatikan'ın doğrudan ya da dolaylı olarak sahibi olduğu veya yönlendirdiği günlük, haftalık ve aylık 200'den fazla gazete ve dergi , 154 radyo istasyonu veya emisyonu, 49 TV kanalı veya kablolu yayını bulunmaktadır.",
+    "triple": {
+      "baş": "Vatikan",
+      "baş_tipi": "Kuruluş",
+      "ilişki": "yönlendirdiği",
+      "uç": "TV kanalı veya kablolu yayını",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dergi)",
+    "metin": "Kardeşiyle birlikte iki dergi çıkardı.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "çıkardı",
+      "uç": "dergi",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dergi)",
+    "metin": "1862'de, arzuladığı Avrupa seyahatini gerçekleştirdi.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "gerçekleştirdi",
+      "uç": "Avrupa seyahati",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dergi)",
+    "metin": "Sara nöbetleri ve kumar bağımlılığı yüzünden maddi açıdan darlığa düştü.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "düştü",
+      "uç": "maddi açıdan darlık",
+      "uç_tipi": "Durum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dergi)",
+    "metin": "Gazete , dergi ve kablolu yayıncılıkta görülen film eleştirmenliği temelde yeni yapımlara göz atıştır.",
+    "triple": {
+      "baş": "film eleştirmenliği",
+      "baş_tipi": "Meslek",
+      "ilişki": "görülen",
+      "uç": "Gazete",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dergi)",
+    "metin": "Gazete , dergi ve kablolu yayıncılıkta görülen film eleştirmenliği temelde yeni yapımlara göz atıştır.",
+    "triple": {
+      "baş": "film eleştirmenliği",
+      "baş_tipi": "Meslek",
+      "ilişki": "görülen",
+      "uç": "dergi",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dergi)",
+    "metin": "Gazete , dergi ve kablolu yayıncılıkta görülen film eleştirmenliği temelde yeni yapımlara göz atıştır.",
+    "triple": {
+      "baş": "film eleştirmenliği",
+      "baş_tipi": "Meslek",
+      "ilişki": "görülen",
+      "uç": "kablolu yayıncılık",
+      "uç_tipi": "Yayın Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Dergi)",
+    "metin": "Gazete , dergi ve kablolu yayıncılıkta görülen film eleştirmenliği temelde yeni yapımlara göz atıştır.",
+    "triple": {
+      "baş": "film eleştirmenliği",
+      "baş_tipi": "Meslek",
+      "ilişki": "temelde",
+      "uç": "yeni yapımlara göz atıştır",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Polonya'daki dünyaca tanınmış sinema yönetmenleri Roman Polanski ve Krzysztof Kieślowski 'dir.",
+    "triple": {
+      "baş": "Roman Polanski",
+      "baş_tipi": "Kişi",
+      "ilişki": "yönettiği_ülke",
+      "uç": "Polonya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Polonya'daki dünyaca tanınmış sinema yönetmenleri Roman Polanski ve Krzysztof Kieślowski 'dir.",
+    "triple": {
+      "baş": "Krzysztof Kieślowski",
+      "baş_tipi": "Kişi",
+      "ilişki": "yönettiği_ülke",
+      "uç": "Polonya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Polonya'daki dünyaca tanınmış sinema yönetmenleri Roman Polanski ve Krzysztof Kieślowski 'dir.",
+    "triple": {
+      "baş": "Roman Polanski",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Sinema Yönetmeni",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Polonya'daki dünyaca tanınmış sinema yönetmenleri Roman Polanski ve Krzysztof Kieślowski 'dir.",
+    "triple": {
+      "baş": "Krzysztof Kieślowski",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Sinema Yönetmeni",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Gürcistan'da ilk sinema Tiflis'te 16 Kasım 1896'da kurulmuştur.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "kurulduğu_yer",
+      "uç": "Tiflis",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Gürcistan'da ilk sinema Tiflis'te 16 Kasım 1896'da kurulmuştur.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "kurulduğu_ülke",
+      "uç": "Gürcistan",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Gürcistan'da ilk sinema Tiflis'te 16 Kasım 1896'da kurulmuştur.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "kuruluş_tarihi",
+      "uç": "16 Kasım 1896",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Pisagor teoremi, matematiksel soyutlamanın, mistik ya da entelektüel gücün sembolü olarak matematiğin ilgisini çekmiştir; edebiyat , sinema , müzikal , şarkı ve çizgi filmlerde de popüler olmuştur.",
+    "triple": {
+      "baş": "Pisagor teoremi",
+      "baş_tipi": "Kavram",
+      "ilişki": "ilgi_çektiği_alan",
+      "uç": "Matematik",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Pisagor teoremi, matematiksel soyutlamanın, mistik ya da entelektüel gücün sembolü olarak matematiğin ilgisini çekmiştir; edebiyat , sinema , müzikal , şarkı ve çizgi filmlerde de popüler olmuştur.",
+    "triple": {
+      "baş": "Pisagor teoremi",
+      "baş_tipi": "Kavram",
+      "ilişki": "popüler_olduğu_alan",
+      "uç": "Edebiyat",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Pisagor teoremi, matematiksel soyutlamanın, mistik ya da entelektüel gücün sembolü olarak matematiğin ilgisini çekmiştir; edebiyat , sinema , müzikal , şarkı ve çizgi filmlerde de popüler olmuştur.",
+    "triple": {
+      "baş": "Pisagor teoremi",
+      "baş_tipi": "Kavram",
+      "ilişki": "popüler_olduğu_alan",
+      "uç": "Sinema",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Pisagor teoremi, matematiksel soyutlamanın, mistik ya da entelektüel gücün sembolü olarak matematiğin ilgisini çekmiştir; edebiyat , sinema , müzikal , şarkı ve çizgi filmlerde de popüler olmuştur.",
+    "triple": {
+      "baş": "Pisagor teoremi",
+      "baş_tipi": "Kavram",
+      "ilişki": "popüler_olduğu_alan",
+      "uç": "Müzikal",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Pisagor teoremi, matematiksel soyutlamanın, mistik ya da entelektüel gücün sembolü olarak matematiğin ilgisini çekmiştir; edebiyat , sinema , müzikal , şarkı ve çizgi filmlerde de popüler olmuştur.",
+    "triple": {
+      "baş": "Pisagor teoremi",
+      "baş_tipi": "Kavram",
+      "ilişki": "popüler_olduğu_alan",
+      "uç": "Şarkı",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Pisagor teoremi, matematiksel soyutlamanın, mistik ya da entelektüel gücün sembolü olarak matematiğin ilgisini çekmiştir; edebiyat , sinema , müzikal , şarkı ve çizgi filmlerde de popüler olmuştur.",
+    "triple": {
+      "baş": "Pisagor teoremi",
+      "baş_tipi": "Kavram",
+      "ilişki": "popüler_olduğu_alan",
+      "uç": "Çizgi Film",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Bu tanımlardan en yaygın kabul göreni sanatın edebiyat , resim , müzik , tiyatro , sinema , mimari ve heykel alt türlerinden oluştuğu görüşüdür.",
+    "triple": {
+      "baş": "Sanat",
+      "baş_tipi": "Kavram",
+      "ilişki": "alt_tür",
+      "uç": "Edebiyat",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Bu tanımlardan en yaygın kabul göreni sanatın edebiyat , resim , müzik , tiyatro , sinema , mimari ve heykel alt türlerinden oluştuğu görüşüdür.",
+    "triple": {
+      "baş": "Sanat",
+      "baş_tipi": "Kavram",
+      "ilişki": "alt_tür",
+      "uç": "Resim",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Bu tanımlardan en yaygın kabul göreni sanatın edebiyat , resim , müzik , tiyatro , sinema , mimari ve heykel alt türlerinden oluştuğu görüşüdür.",
+    "triple": {
+      "baş": "Sanat",
+      "baş_tipi": "Kavram",
+      "ilişki": "alt_tür",
+      "uç": "Müzik",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Bu tanımlardan en yaygın kabul göreni sanatın edebiyat , resim , müzik , tiyatro , sinema , mimari ve heykel alt türlerinden oluştuğu görüşüdür.",
+    "triple": {
+      "baş": "Sanat",
+      "baş_tipi": "Kavram",
+      "ilişki": "alt_tür",
+      "uç": "Tiyatro",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Bu tanımlardan en yaygın kabul göreni sanatın edebiyat , resim , müzik , tiyatro , sinema , mimari ve heykel alt türlerinden oluştuğu görüşüdür.",
+    "triple": {
+      "baş": "Sanat",
+      "baş_tipi": "Kavram",
+      "ilişki": "alt_tür",
+      "uç": "Sinema",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Bu tanımlardan en yaygın kabul göreni sanatın edebiyat , resim , müzik , tiyatro , sinema , mimari ve heykel alt türlerinden oluştuğu görüşüdür.",
+    "triple": {
+      "baş": "Sanat",
+      "baş_tipi": "Kavram",
+      "ilişki": "alt_tür",
+      "uç": "Mimari",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Bu tanımlardan en yaygın kabul göreni sanatın edebiyat , resim , müzik , tiyatro , sinema , mimari ve heykel alt türlerinden oluştuğu görüşüdür.",
+    "triple": {
+      "baş": "Sanat",
+      "baş_tipi": "Kavram",
+      "ilişki": "alt_tür",
+      "uç": "Heykel",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Film yapım süreci hem bir sanat hem de bir endüstridir.",
+    "triple": {
+      "baş": "Film yapım süreci",
+      "baş_tipi": "Süreç",
+      "ilişki": "türü",
+      "uç": "Sanat",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Film yapım süreci hem bir sanat hem de bir endüstridir.",
+    "triple": {
+      "baş": "Film yapım süreci",
+      "baş_tipi": "Süreç",
+      "ilişki": "türü",
+      "uç": "Endüstri",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Sinematografinin kısaltması olan \" sinema \" kelimesi genellikle film yapımcılığını, film endüstrisini ve ilgili sanatları ifade etmek için kullanılır.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Kavram",
+      "ilişki": "ifade_ettiği",
+      "uç": "Film yapımcılığı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Sinematografinin kısaltması olan \" sinema \" kelimesi genellikle film yapımcılığını, film endüstrisini ve ilgili sanatları ifade etmek için kullanılır.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Kavram",
+      "ilişki": "ifade_ettiği",
+      "uç": "Film endüstrisi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Sinematografinin kısaltması olan \" sinema \" kelimesi genellikle film yapımcılığını, film endüstrisini ve ilgili sanatları ifade etmek için kullanılır.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Kavram",
+      "ilişki": "ifade_ettiği",
+      "uç": "İlgili Sanatlar",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema)",
+    "metin": "Kitleleri etkileme gücü nedeniyle gazeteci film eleştirileri, sinema sektöründe önemli bir yere sahiptir.",
+    "triple": {
+      "baş": "Gazeteci film eleştirileri",
+      "baş_tipi": "Kavram",
+      "ilişki": "önemli_yer",
+      "uç": "Sinema sektörü",
+      "uç_tipi": "Sektör"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Atina ( Yunanca : Αθήνα Athína , Grekçe : Ἀθῆναι Athênai ), Yunanistan 'ın başkenti ve yaklaşık 4 milyon kişilik nüfusuyla en büyük, Avrupa Birliği 'nin yedinci büyük şehri.",
+    "triple": {
+      "baş": "Atina",
+      "baş_tipi": "Şehir",
+      "ilişki": "başkentidir",
+      "uç": "Yunanistan",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Atina ( Yunanca : Αθήνα Athína , Grekçe : Ἀθῆναι Athênai ), Yunanistan 'ın başkenti ve yaklaşık 4 milyon kişilik nüfusuyla en büyük, Avrupa Birliği 'nin yedinci büyük şehri.",
+    "triple": {
+      "baş": "Atina",
+      "baş_tipi": "Şehir",
+      "ilişki": "nüfusu",
+      "uç": "4 milyon",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Atina ( Yunanca : Αθήνα Athína , Grekçe : Ἀθῆναι Athênai ), Yunanistan 'ın başkenti ve yaklaşık 4 milyon kişilik nüfusuyla en büyük, Avrupa Birliği 'nin yedinci büyük şehri.",
+    "triple": {
+      "baş": "Atina",
+      "baş_tipi": "Şehir",
+      "ilişki": "üyeliği",
+      "uç": "Avrupa Birliği",
+      "uç_tipi": "Birlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Attika 'ya hakim bir konumda olan Atina, aynı zamanda bu idari birimin yönetim merkezidir.",
+    "triple": {
+      "baş": "Atina",
+      "baş_tipi": "Şehir",
+      "ilişki": "yönetim merkezidir",
+      "uç": "Attika",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "3.400 yıllık yazılı tarihi ve MÖ 7. ile 11. arasındaki binyıllara uzanan insan varlığıyla dünyanın en eski şehirlerinden biridir.",
+    "triple": {
+      "baş": "Atina",
+      "baş_tipi": "Şehir",
+      "ilişki": "tarihi",
+      "uç": "3.400 yıl",
+      "uç_tipi": "Süre"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Genellikle köpek , kedi , insan , tavşan ve kümes hayvanlarında bulunurlar ve ısırdıkları yerleri uyuşturmak için kullandıkları salgı kaşıntı yaratır.",
+    "triple": {
+      "baş": "Salgı",
+      "baş_tipi": "Özellik",
+      "ilişki": "bulunur",
+      "uç": "Köpek",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Genellikle köpek , kedi , insan , tavşan ve kümes hayvanlarında bulunurlar ve ısırdıkları yerleri uyuşturmak için kullandıkları salgı kaşıntı yaratır.",
+    "triple": {
+      "baş": "Salgı",
+      "baş_tipi": "Özellik",
+      "ilişki": "bulunur",
+      "uç": "Kedi",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Genellikle köpek , kedi , insan , tavşan ve kümes hayvanlarında bulunurlar ve ısırdıkları yerleri uyuşturmak için kullandıkları salgı kaşıntı yaratır.",
+    "triple": {
+      "baş": "Salgı",
+      "baş_tipi": "Özellik",
+      "ilişki": "bulunur",
+      "uç": "İnsan",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Genellikle köpek , kedi , insan , tavşan ve kümes hayvanlarında bulunurlar ve ısırdıkları yerleri uyuşturmak için kullandıkları salgı kaşıntı yaratır.",
+    "triple": {
+      "baş": "Salgı",
+      "baş_tipi": "Özellik",
+      "ilişki": "bulunur",
+      "uç": "Tavşan",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Genellikle köpek , kedi , insan , tavşan ve kümes hayvanlarında bulunurlar ve ısırdıkları yerleri uyuşturmak için kullandıkları salgı kaşıntı yaratır.",
+    "triple": {
+      "baş": "Salgı",
+      "baş_tipi": "Özellik",
+      "ilişki": "bulunur",
+      "uç": "Kümes hayvanı",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Genellikle köpek , kedi , insan , tavşan ve kümes hayvanlarında bulunurlar ve ısırdıkları yerleri uyuşturmak için kullandıkları salgı kaşıntı yaratır.",
+    "triple": {
+      "baş": "Salgı",
+      "baş_tipi": "Özellik",
+      "ilişki": "neden olur",
+      "uç": "Kaşıntı",
+      "uç_tipi": "Semptom"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Alerjik reaksiyon gösterildiği takdirde deride kızarıklıklar oluşur.",
+    "triple": {
+      "baş": "Alerjik reaksiyon",
+      "baş_tipi": "Durum",
+      "ilişki": "neden olur",
+      "uç": "Kızarıklık",
+      "uç_tipi": "Semptom"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Bu saygınlıkla Rönesans hareketi bilim ve teknolojideki ilerlemenin yanı sıra insan ve doğa sevgisini de birlikte getirdi.",
+    "triple": {
+      "baş": "Rönesans",
+      "baş_tipi": "Hareket",
+      "ilişki": "getirdi",
+      "uç": "İnsan sevgisi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Bu saygınlıkla Rönesans hareketi bilim ve teknolojideki ilerlemenin yanı sıra insan ve doğa sevgisini de birlikte getirdi.",
+    "triple": {
+      "baş": "Rönesans",
+      "baş_tipi": "Hareket",
+      "ilişki": "getirdi",
+      "uç": "Doğa sevgisi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Benzer şekilde duyular âleminde en üst seviyede olan maymun ile düşünceler âlemindeki insan da böyle bir ilişkiye sahiptir.",
+    "triple": {
+      "baş": "Maymun",
+      "baş_tipi": "Hayvan",
+      "ilişki": "ilişkiye sahiptir",
+      "uç": "İnsan",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Başta insan olmak üzere, bitkileri inceleyen botanik , Hayvanları inceleyen zooloji , mikroorganizmaları inceleyen mikrobiyoloji ( hücre ) gibi alt dallara ayrılır.",
+    "triple": {
+      "baş": "Botanik",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "inceler",
+      "uç": "Bitki",
+      "uç_tipi": "Canlı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Başta insan olmak üzere, bitkileri inceleyen botanik , Hayvanları inceleyen zooloji , mikroorganizmaları inceleyen mikrobiyoloji ( hücre ) gibi alt dallara ayrılır.",
+    "triple": {
+      "baş": "Zooloji",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "inceler",
+      "uç": "Hayvan",
+      "uç_tipi": "Canlı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Başta insan olmak üzere, bitkileri inceleyen botanik , Hayvanları inceleyen zooloji , mikroorganizmaları inceleyen mikrobiyoloji ( hücre ) gibi alt dallara ayrılır.",
+    "triple": {
+      "baş": "Mikrobiyoloji",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "inceler",
+      "uç": "Mikroorganizma",
+      "uç_tipi": "Canlı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Başta insan olmak üzere, bitkileri inceleyen botanik , Hayvanları inceleyen zooloji , mikroorganizmaları inceleyen mikrobiyoloji ( hücre ) gibi alt dallara ayrılır.",
+    "triple": {
+      "baş": "Mikrobiyoloji",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "alt dalı",
+      "uç": "Hücre",
+      "uç_tipi": "Biyolojik Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "İran mitolojisinde de ilk insan , kil dediğimiz yapışkan topraktan yapılmıştı.",
+    "triple": {
+      "baş": "İlk insan",
+      "baş_tipi": "Kavram",
+      "ilişki": "yapılmıştır",
+      "uç": "Kil",
+      "uç_tipi": "Malzeme"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "İsmi 18. yüzyıl tanrı bilimci William Paley 'in o dönemde çok bilinen bir kitabına referans olarak kullanılmıştır, Paley kitabında bu tür tartışmalarda sık kullanılan saat analojisine başvuruyor, çünkü saat karmaşık yapıları anlatmak için iyi bir model, Paley eğer yürürken yerde bir saat görseydiniz bunun karmaşık bir mekanizma olduğunu ve bir tasarımcı tarafından önceden tasarlandığını düşünürdünüz ama insan gibi karmaşık yapıların neden önceden tasarlanıldığını düşünmüyorsunuz diyerek bu tasarımcının üstü kapalı bir biçimde tanrı olması gerektiğini iddia ediyor, Dawkins de buna cevap olarak mutasyon , birikimli seçilim gibi mekanizmalarla çalışan evrimin önceden planlanamayan bir süreç olduğuna dikkat çekerek bu saatçinin ileriyi göremeyeceği ve planlayamayacağı için kör olması gerektiğini savunarak kitabına Kör Saatçi adını verir.",
+    "triple": {
+      "baş": "William Paley",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazdı",
+      "uç": "Kitap",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "İsmi 18. yüzyıl tanrı bilimci William Paley 'in o dönemde çok bilinen bir kitabına referans olarak kullanılmıştır, Paley kitabında bu tür tartışmalarda sık kullanılan saat analojisine başvuruyor, çünkü saat karmaşık yapıları anlatmak için iyi bir model, Paley eğer yürürken yerde bir saat görseydiniz bunun karmaşık bir mekanizma olduğunu ve bir tasarımcı tarafından önceden tasarlandığını düşünürdünüz ama insan gibi karmaşık yapıların neden önceden tasarlanıldığını düşünmüyorsunuz diyerek bu tasarımcının üstü kapalı bir biçimde tanrı olması gerektiğini iddia ediyor, Dawkins de buna cevap olarak mutasyon , birikimli seçilim gibi mekanizmalarla çalışan evrimin önceden planlanamayan bir süreç olduğuna dikkat çekerek bu saatçinin ileriyi göremeyeceği ve planlayamayacağı için kör olması gerektiğini savunarak kitabına Kör Saatçi adını verir.",
+    "triple": {
+      "baş": "Saat",
+      "baş_tipi": "Nesne",
+      "ilişki": "modeldir",
+      "uç": "Karmaşık yapı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "İsmi 18. yüzyıl tanrı bilimci William Paley 'in o dönemde çok bilinen bir kitabına referans olarak kullanılmıştır, Paley kitabında bu tür tartışmalarda sık kullanılan saat analojisine başvuruyor, çünkü saat karmaşık yapıları anlatmak için iyi bir model, Paley eğer yürürken yerde bir saat görseydiniz bunun karmaşık bir mekanizma olduğunu ve bir tasarımcı tarafından önceden tasarlandığını düşünürdünüz ama insan gibi karmaşık yapıların neden önceden tasarlanıldığını düşünmüyorsunuz diyerek bu tasarımcının üstü kapalı bir biçimde tanrı olması gerektiğini iddia ediyor, Dawkins de buna cevap olarak mutasyon , birikimli seçilim gibi mekanizmalarla çalışan evrimin önceden planlanamayan bir süreç olduğuna dikkat çekerek bu saatçinin ileriyi göremeyeceği ve planlayamayacağı için kör olması gerektiğini savunarak kitabına Kör Saatçi adını verir.",
+    "triple": {
+      "baş": "İnsan",
+      "baş_tipi": "Kavram",
+      "ilişki": "karmaşık yapı",
+      "uç": "İnsan",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "İsmi 18. yüzyıl tanrı bilimci William Paley 'in o dönemde çok bilinen bir kitabına referans olarak kullanılmıştır, Paley kitabında bu tür tartışmalarda sık kullanılan saat analojisine başvuruyor, çünkü saat karmaşık yapıları anlatmak için iyi bir model, Paley eğer yürürken yerde bir saat görseydiniz bunun karmaşık bir mekanizma olduğunu ve bir tasarımcı tarafından önceden tasarlandığını düşünürdünüz ama insan gibi karmaşık yapıların neden önceden tasarlanıldığını düşünmüyorsunuz diyerek bu tasarımcının üstü kapalı bir biçimde tanrı olması gerektiğini iddia ediyor, Dawkins de buna cevap olarak mutasyon , birikimli seçilim gibi mekanizmalarla çalışan evrimin önceden planlanamayan bir süreç olduğuna dikkat çekerek bu saatçinin ileriyi göremeyeceği ve planlayamayacağı için kör olması gerektiğini savunarak kitabına Kör Saatçi adını verir.",
+    "triple": {
+      "baş": "Tasarımcı",
+      "baş_tipi": "Kavram",
+      "ilişki": "olması gerektiğini iddia ediyor",
+      "uç": "Tanrı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "İsmi 18. yüzyıl tanrı bilimci William Paley 'in o dönemde çok bilinen bir kitabına referans olarak kullanılmıştır, Paley kitabında bu tür tartışmalarda sık kullanılan saat analojisine başvuruyor, çünkü saat karmaşık yapıları anlatmak için iyi bir model, Paley eğer yürürken yerde bir saat görseydiniz bunun karmaşık bir mekanizma olduğunu ve bir tasarımcı tarafından önceden tasarlandığını düşünürdünüz ama insan gibi karmaşık yapıların neden önceden tasarlanıldığını düşünmüyorsunuz diyerek bu tasarımcının üstü kapalı bir biçimde tanrı olması gerektiğini iddia ediyor, Dawkins de buna cevap olarak mutasyon , birikimli seçilim gibi mekanizmalarla çalışan evrimin önceden planlanamayan bir süreç olduğuna dikkat çekerek bu saatçinin ileriyi göremeyeceği ve planlayamayacağı için kör olması gerektiğini savunarak kitabına Kör Saatçi adını verir.",
+    "triple": {
+      "baş": "Evrim",
+      "baş_tipi": "Süreç",
+      "ilişki": "çalışır",
+      "uç": "Mutasyon",
+      "uç_tipi": "Mekanizma"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "İsmi 18. yüzyıl tanrı bilimci William Paley 'in o dönemde çok bilinen bir kitabına referans olarak kullanılmıştır, Paley kitabında bu tür tartışmalarda sık kullanılan saat analojisine başvuruyor, çünkü saat karmaşık yapıları anlatmak için iyi bir model, Paley eğer yürürken yerde bir saat görseydiniz bunun karmaşık bir mekanizma olduğunu ve bir tasarımcı tarafından önceden tasarlandığını düşünürdünüz ama insan gibi karmaşık yapıların neden önceden tasarlanıldığını düşünmüyorsunuz diyerek bu tasarımcının üstü kapalı bir biçimde tanrı olması gerektiğini iddia ediyor, Dawkins de buna cevap olarak mutasyon , birikimli seçilim gibi mekanizmalarla çalışan evrimin önceden planlanamayan bir süreç olduğuna dikkat çekerek bu saatçinin ileriyi göremeyeceği ve planlayamayacağı için kör olması gerektiğini savunarak kitabına Kör Saatçi adını verir.",
+    "triple": {
+      "baş": "Evrim",
+      "baş_tipi": "Süreç",
+      "ilişki": "çalışır",
+      "uç": "Birikimli seçilim",
+      "uç_tipi": "Mekanizma"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "İsmi 18. yüzyıl tanrı bilimci William Paley 'in o dönemde çok bilinen bir kitabına referans olarak kullanılmıştır, Paley kitabında bu tür tartışmalarda sık kullanılan saat analojisine başvuruyor, çünkü saat karmaşık yapıları anlatmak için iyi bir model, Paley eğer yürürken yerde bir saat görseydiniz bunun karmaşık bir mekanizma olduğunu ve bir tasarımcı tarafından önceden tasarlandığını düşünürdünüz ama insan gibi karmaşık yapıların neden önceden tasarlanıldığını düşünmüyorsunuz diyerek bu tasarımcının üstü kapalı bir biçimde tanrı olması gerektiğini iddia ediyor, Dawkins de buna cevap olarak mutasyon , birikimli seçilim gibi mekanizmalarla çalışan evrimin önceden planlanamayan bir süreç olduğuna dikkat çekerek bu saatçinin ileriyi göremeyeceği ve planlayamayacağı için kör olması gerektiğini savunarak kitabına Kör Saatçi adını verir.",
+    "triple": {
+      "baş": "Evrim",
+      "baş_tipi": "Süreç",
+      "ilişki": "süreçtir",
+      "uç": "Önceden planlanamayan",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "İsmi 18. yüzyıl tanrı bilimci William Paley 'in o dönemde çok bilinen bir kitabına referans olarak kullanılmıştır, Paley kitabında bu tür tartışmalarda sık kullanılan saat analojisine başvuruyor, çünkü saat karmaşık yapıları anlatmak için iyi bir model, Paley eğer yürürken yerde bir saat görseydiniz bunun karmaşık bir mekanizma olduğunu ve bir tasarımcı tarafından önceden tasarlandığını düşünürdünüz ama insan gibi karmaşık yapıların neden önceden tasarlanıldığını düşünmüyorsunuz diyerek bu tasarımcının üstü kapalı bir biçimde tanrı olması gerektiğini iddia ediyor, Dawkins de buna cevap olarak mutasyon , birikimli seçilim gibi mekanizmalarla çalışan evrimin önceden planlanamayan bir süreç olduğuna dikkat çekerek bu saatçinin ileriyi göremeyeceği ve planlayamayacağı için kör olması gerektiğini savunarak kitabına Kör Saatçi adını verir.",
+    "triple": {
+      "baş": "Dawkins",
+      "baş_tipi": "Kişi",
+      "ilişki": "savundu",
+      "uç": "Kör Saatçi",
+      "uç_tipi": "Kitap"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "İnsan vücudunda bulunan bakteri sayısı, insan hücresi sayısının yaklaşık olarak 1,3 katı kadardır, özellikle deride ve sindirim yolu içinde çok sayıda bakteri bulunur.",
+    "triple": {
+      "baş": "Bakteri sayısı",
+      "baş_tipi": "Sayı",
+      "ilişki": "oranı",
+      "uç": "İnsan hücresi sayısı",
+      "uç_tipi": "Sayı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "İnsan vücudunda bulunan bakteri sayısı, insan hücresi sayısının yaklaşık olarak 1,3 katı kadardır, özellikle deride ve sindirim yolu içinde çok sayıda bakteri bulunur.",
+    "triple": {
+      "baş": "Bakteri",
+      "baş_tipi": "Canlı",
+      "ilişki": "bulunur",
+      "uç": "Deride",
+      "uç_tipi": "Vücut Bölgesi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "İnsan vücudunda bulunan bakteri sayısı, insan hücresi sayısının yaklaşık olarak 1,3 katı kadardır, özellikle deride ve sindirim yolu içinde çok sayıda bakteri bulunur.",
+    "triple": {
+      "baş": "Bakteri",
+      "baş_tipi": "Canlı",
+      "ilişki": "bulunur",
+      "uç": "Sindirim yolu",
+      "uç_tipi": "Vücut Bölgesi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Doku , bitki , hayvan ve insan organlarını meydana getiren, şekil ve yapı bakımından benzer olup, aynı vazifeyi gören, birbirleriyle sıkı alâkaları olan aynı kökten gelen hücrelerin topluluğu.",
+    "triple": {
+      "baş": "Doku",
+      "baş_tipi": "Biyolojik Yapı",
+      "ilişki": "meydana getirir",
+      "uç": "Bitki organı",
+      "uç_tipi": "Biyolojik Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Doku , bitki , hayvan ve insan organlarını meydana getiren, şekil ve yapı bakımından benzer olup, aynı vazifeyi gören, birbirleriyle sıkı alâkaları olan aynı kökten gelen hücrelerin topluluğu.",
+    "triple": {
+      "baş": "Doku",
+      "baş_tipi": "Biyolojik Yapı",
+      "ilişki": "meydana getirir",
+      "uç": "Hayvan organı",
+      "uç_tipi": "Biyolojik Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Doku , bitki , hayvan ve insan organlarını meydana getiren, şekil ve yapı bakımından benzer olup, aynı vazifeyi gören, birbirleriyle sıkı alâkaları olan aynı kökten gelen hücrelerin topluluğu.",
+    "triple": {
+      "baş": "Doku",
+      "baş_tipi": "Biyolojik Yapı",
+      "ilişki": "meydana getirir",
+      "uç": "İnsan organı",
+      "uç_tipi": "Biyolojik Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Doku , bitki , hayvan ve insan organlarını meydana getiren, şekil ve yapı bakımından benzer olup, aynı vazifeyi gören, birbirleriyle sıkı alâkaları olan aynı kökten gelen hücrelerin topluluğu.",
+    "triple": {
+      "baş": "Doku",
+      "baş_tipi": "Biyolojik Yapı",
+      "ilişki": "topluluğudur",
+      "uç": "Hücre",
+      "uç_tipi": "Biyolojik Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Vücutları kıllarla kaplıdır ki, bu doku bazı türlerde dikenli bir hâl alabilir (örneğin kirpi ) ya da azalıp neredeyse pürüzsüz hâle gelebilir; insan , yunus ve balinalarda olduğu gibi.",
+    "triple": {
+      "baş": "Kıl",
+      "baş_tipi": "Doku",
+      "ilişki": "kaplar",
+      "uç": "Kirpi",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Vücutları kıllarla kaplıdır ki, bu doku bazı türlerde dikenli bir hâl alabilir (örneğin kirpi ) ya da azalıp neredeyse pürüzsüz hâle gelebilir; insan , yunus ve balinalarda olduğu gibi.",
+    "triple": {
+      "baş": "Kıl",
+      "baş_tipi": "Doku",
+      "ilişki": "azalır",
+      "uç": "İnsan",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Vücutları kıllarla kaplıdır ki, bu doku bazı türlerde dikenli bir hâl alabilir (örneğin kirpi ) ya da azalıp neredeyse pürüzsüz hâle gelebilir; insan , yunus ve balinalarda olduğu gibi.",
+    "triple": {
+      "baş": "Kıl",
+      "baş_tipi": "Doku",
+      "ilişki": "azalır",
+      "uç": "Yunus",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Vücutları kıllarla kaplıdır ki, bu doku bazı türlerde dikenli bir hâl alabilir (örneğin kirpi ) ya da azalıp neredeyse pürüzsüz hâle gelebilir; insan , yunus ve balinalarda olduğu gibi.",
+    "triple": {
+      "baş": "Kıl",
+      "baş_tipi": "Doku",
+      "ilişki": "azalır",
+      "uç": "Balina",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Theria alt sınıfı doğurarak çoğalırken Prototheria alt sınıfı yumurtlayarak çoğalır.",
+    "triple": {
+      "baş": "Theria",
+      "baş_tipi": "Alt Sınıf",
+      "ilişki": "çoğalır",
+      "uç": "Doğurarak",
+      "uç_tipi": "Üreme Yöntemi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Theria alt sınıfı doğurarak çoğalırken Prototheria alt sınıfı yumurtlayarak çoğalır.",
+    "triple": {
+      "baş": "Prototheria",
+      "baş_tipi": "Alt Sınıf",
+      "ilişki": "çoğalır",
+      "uç": "Yumurtlayarak",
+      "uç_tipi": "Üreme Yöntemi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Son kitabı “Ceviz Kabuğundaki Evren”de, dünyanın büyük bir felaket ile karşı karşıya kalabileceğini belirterek uzayda insan kolonileri kurulmasını gündeme getirmişti.",
+    "triple": {
+      "baş": "Kitap",
+      "baş_tipi": "Eser",
+      "ilişki": "adı",
+      "uç": "Ceviz Kabuğundaki Evren",
+      "uç_tipi": "Eser Adı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Son kitabı “Ceviz Kabuğundaki Evren”de, dünyanın büyük bir felaket ile karşı karşıya kalabileceğini belirterek uzayda insan kolonileri kurulmasını gündeme getirmişti.",
+    "triple": {
+      "baş": "İnsan kolonisi",
+      "baş_tipi": "Kavram",
+      "ilişki": "kurulması",
+      "uç": "Uzay",
+      "uç_tipi": "Mekan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Spektroskopi ile insan gözünün algılayabildiği 400 ile 700 nm 'lik dalga boyları arasındaki görünür ışık bandı dışındaki diğer ışınım aralıkları da algılanabilir.",
+    "triple": {
+      "baş": "İnsan gözü",
+      "baş_tipi": "Organ",
+      "ilişki": "algılayabilir",
+      "uç": "Görünür ışık",
+      "uç_tipi": "Işınım Aralığı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Spektroskopi ile insan gözünün algılayabildiği 400 ile 700 nm 'lik dalga boyları arasındaki görünür ışık bandı dışındaki diğer ışınım aralıkları da algılanabilir.",
+    "triple": {
+      "baş": "Spektroskopi",
+      "baş_tipi": "Yöntem",
+      "ilişki": "algılar",
+      "uç": "Işınım aralığı",
+      "uç_tipi": "Işınım Aralığı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Örneğin kütlesel çekim farkı nedeniyle Dünya üzerinde 1000 Newton ağırlığında olan bir astronotun Mars üzerinde 380 Newton olacağı veya insan ile bonoboların DNA'larının %98,7 oranında aynı olduğu bilgileri bilimsel olgulardır.",
+    "triple": {
+      "baş": "Astronot",
+      "baş_tipi": "Kişi",
+      "ilişki": "ağırlığı",
+      "uç": "1000 Newton",
+      "uç_tipi": "Kuvvet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Örneğin kütlesel çekim farkı nedeniyle Dünya üzerinde 1000 Newton ağırlığında olan bir astronotun Mars üzerinde 380 Newton olacağı veya insan ile bonoboların DNA'larının %98,7 oranında aynı olduğu bilgileri bilimsel olgulardır.",
+    "triple": {
+      "baş": "Astronot",
+      "baş_tipi": "Kişi",
+      "ilişki": "ağırlığı",
+      "uç": "380 Newton",
+      "uç_tipi": "Kuvvet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Örneğin kütlesel çekim farkı nedeniyle Dünya üzerinde 1000 Newton ağırlığında olan bir astronotun Mars üzerinde 380 Newton olacağı veya insan ile bonoboların DNA'larının %98,7 oranında aynı olduğu bilgileri bilimsel olgulardır.",
+    "triple": {
+      "baş": "İnsan",
+      "baş_tipi": "Kavram",
+      "ilişki": "DNA benzerliği",
+      "uç": "Bonobo",
+      "uç_tipi": "Hayvan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Örneğin kütlesel çekim farkı nedeniyle Dünya üzerinde 1000 Newton ağırlığında olan bir astronotun Mars üzerinde 380 Newton olacağı veya insan ile bonoboların DNA'larının %98,7 oranında aynı olduğu bilgileri bilimsel olgulardır.",
+    "triple": {
+      "baş": "İnsan",
+      "baş_tipi": "Kavram",
+      "ilişki": "DNA benzerliği oranı",
+      "uç": "%98,7",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Varoluşçuluk veya egzistansiyalizm , 19. yüzyıl sonları ile 20. yüzyılda kendi içlerindeki derin öğretisel farklılıklarına karşın felsefi düşüncenin salt düşünen özne ile değil eyleyen, duyumsayan, yaşayan bir birey olarak insan öznesi ile başladığı inancını paylaşan belli başlı Avrupalı filozofların çalışmalarına karşılık gelen terim.",
+    "triple": {
+      "baş": "Varoluşçuluk",
+      "baş_tipi": "Felsefe",
+      "ilişki": "terimdir",
+      "uç": "İnsan öznesi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Varoluşçuluk veya egzistansiyalizm , 19. yüzyıl sonları ile 20. yüzyılda kendi içlerindeki derin öğretisel farklılıklarına karşın felsefi düşüncenin salt düşünen özne ile değil eyleyen, duyumsayan, yaşayan bir birey olarak insan öznesi ile başladığı inancını paylaşan belli başlı Avrupalı filozofların çalışmalarına karşılık gelen terim.",
+    "triple": {
+      "baş": "Egzistansiyalizm",
+      "baş_tipi": "Felsefe",
+      "ilişki": "terimdir",
+      "uç": "İnsan öznesi",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Filmler, gerçek insan ve objelerin kamerayla kayıt edilmesiyle veya animasyon teknikleri, özel efektler gibi teknikler ile her iki unsurun yaratılmasıyla ortaya çıkar.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "ortaya çıkar",
+      "uç": "Gerçek insan kaydı",
+      "uç_tipi": "Yöntem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Filmler, gerçek insan ve objelerin kamerayla kayıt edilmesiyle veya animasyon teknikleri, özel efektler gibi teknikler ile her iki unsurun yaratılmasıyla ortaya çıkar.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "ortaya çıkar",
+      "uç": "Animasyon teknikleri",
+      "uç_tipi": "Yöntem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nsan)",
+    "metin": "Filmler, gerçek insan ve objelerin kamerayla kayıt edilmesiyle veya animasyon teknikleri, özel efektler gibi teknikler ile her iki unsurun yaratılmasıyla ortaya çıkar.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "ortaya çıkar",
+      "uç": "Özel efektler",
+      "uç_tipi": "Yöntem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Guye, C.T.R. Wilson , O.W. Richardson 20. yüzyılın başlarından itibaren bilimdeki ilerlemeler büyük hız kazanmış ve akademik çevrenin, daha elverişli bir araştırma ortamına kavuşması bu ilerlemeyi tetiklemiştir.",
+    "triple": {
+      "baş": "Bilimdeki ilerlemeler",
+      "baş_tipi": "Özellik",
+      "ilişki": "gerçekleşti",
+      "uç": "20. yüzyılın başları",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Godel, 20. yüzyılın matematik bakış açısını değiştiren teoremini, Principia Mathematica Gibi Dizgelerin Biçimsel Olarak Karar Verilemeyen Önermeleri Üzerine başlığı altındaki doktora makalesinde belirtmiştir.",
+    "triple": {
+      "baş": "Godel",
+      "baş_tipi": "Kişi",
+      "ilişki": "belirtti",
+      "uç": "Teorem",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Godel, 20. yüzyılın matematik bakış açısını değiştiren teoremini, Principia Mathematica Gibi Dizgelerin Biçimsel Olarak Karar Verilemeyen Önermeleri Üzerine başlığı altındaki doktora makalesinde belirtmiştir.",
+    "triple": {
+      "baş": "Teorem",
+      "baş_tipi": "Soyut Kavram",
+      "ilişki": "başlıklı",
+      "uç": "Principia Mathematica Gibi Dizgelerin Biçimsel Olarak Karar Verilemeyen Önermeleri Üzerine",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "20. yüzyılın ikinci yarısına kadar dünya tarihi büyük ölçüde Batı uygarlığının zaferinin öyküsü şeklinde yazılmıştır.",
+    "triple": {
+      "baş": "Dünya tarihi",
+      "baş_tipi": "Soyut Kavram",
+      "ilişki": "yazıldı",
+      "uç": "Batı uygarlığının zaferinin öyküsü",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Fakat başka görüşlere göre antlaşmasının birçok hükümleri o tarihlerde uygulanmış ve 20. yüzyılın uluslararası siyasi kavgalarına yön vermiştir.",
+    "triple": {
+      "baş": "Antlaşma hükümleri",
+      "baş_tipi": "Soyut Kavram",
+      "ilişki": "yön verdi",
+      "uç": "20. yüzyılın uluslararası siyasi kavgaları",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Sadece üretim araçlarının ortak kullanımına dayanan sosyalizm ile tam olarak aynı anlama gelmemesine rağmen hatalı bir biçimde eş anlamlı olarak da kullanılabilmektedir. 20. yüzyılın başından beri dünya siyasetindeki büyük güçlerden biri olarak modern komünizm, genellikle Karl Marx 'ın ve Friedrich Engels ’in kaleme aldığı Komünist Parti Manifestosu ile birlikte anılır.",
+    "triple": {
+      "baş": "Modern komünizm",
+      "baş_tipi": "Siyasi İdeoloji",
+      "ilişki": "anılır",
+      "uç": "Komünist Parti Manifestosu",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Her iki olay da halkın egemenliği temelli hükûmet sisteminin halk arasında yaygınlaşmasına yol açtı. Fakat, 19. yüzyılın başlarında Meşruiyetçilik ve Karlizm gibi liberal demokrasiye karşı çıkan yeni siyasi hareketler ile 20. yüzyılın başlarında çıkan bütüncül milliyetçilik için bir temel sağlamıştır.",
+    "triple": {
+      "baş": "Halkın egemenliği temelli hükûmet sistemi",
+      "baş_tipi": "Siyasi Sistem",
+      "ilişki": "yaygınlaştı",
+      "uç": "Halk",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Her iki olay da halkın egemenliği temelli hükûmet sisteminin halk arasında yaygınlaşmasına yol açtı. Fakat, 19. yüzyılın başlarında Meşruiyetçilik ve Karlizm gibi liberal demokrasiye karşı çıkan yeni siyasi hareketler ile 20. yüzyılın başlarında çıkan bütüncül milliyetçilik için bir temel sağlamıştır.",
+    "triple": {
+      "baş": "Meşruiyetçilik",
+      "baş_tipi": "Siyasi Hareket",
+      "ilişki": "temel sağladı",
+      "uç": "Bütüncül milliyetçilik",
+      "uç_tipi": "Siyasi İdeoloji"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Her iki olay da halkın egemenliği temelli hükûmet sisteminin halk arasında yaygınlaşmasına yol açtı. Fakat, 19. yüzyılın başlarında Meşruiyetçilik ve Karlizm gibi liberal demokrasiye karşı çıkan yeni siyasi hareketler ile 20. yüzyılın başlarında çıkan bütüncül milliyetçilik için bir temel sağlamıştır.",
+    "triple": {
+      "baş": "Karlizm",
+      "baş_tipi": "Siyasi Hareket",
+      "ilişki": "temel sağladı",
+      "uç": "Bütüncül milliyetçilik",
+      "uç_tipi": "Siyasi İdeoloji"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kürt anlatılarının büyük bir kısmı sözlü şekilde yayılmış ve bu sözlü edebiyat bugün de sürmektedir. 20. yüzyılın başına kadar olan yazılı edebiyat ise şiir şeklindedir. Nesirin gelişmesi ise daha çok politik ve sosyal gelişmeler sayesinde olmuştur.",
+    "triple": {
+      "baş": "Kürt anlatıları",
+      "baş_tipi": "Edebi Tür",
+      "ilişki": "yayılmış",
+      "uç": "Sözlü",
+      "uç_tipi": "Yöntem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kürt anlatılarının büyük bir kısmı sözlü şekilde yayılmış ve bu sözlü edebiyat bugün de sürmektedir. 20. yüzyılın başına kadar olan yazılı edebiyat ise şiir şeklindedir. Nesirin gelişmesi ise daha çok politik ve sosyal gelişmeler sayesinde olmuştur.",
+    "triple": {
+      "baş": "Yazılı edebiyat",
+      "baş_tipi": "Edebi Tür",
+      "ilişki": "şeklinde",
+      "uç": "Şiir",
+      "uç_tipi": "Edebi Tür"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Kuantum mekaniği",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "temelleri atıldı",
+      "uç": "20. yüzyılın ilk yarısı",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Max Planck",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulundu",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Albert Einstein",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulundu",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Niels Bohr",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulundu",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Louis de Broglie",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulundu",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Werner Heisenberg",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulundu",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Erwin Schrödinger",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulundu",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Max Born",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulundu",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "John von Neumann",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulundu",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Paul Dirac",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulundu",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Wolfgang Pauli",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulundu",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Belirsizlik ilkesi",
+      "baş_tipi": "Bilimsel İlke",
+      "ilişki": "geliştirildi",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Antimadde",
+      "baş_tipi": "Bilimsel Kavram",
+      "ilişki": "geliştirildi",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Planck sabiti",
+      "baş_tipi": "Bilimsel Kavram",
+      "ilişki": "geliştirildi",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Kara cisim ışınımı",
+      "baş_tipi": "Bilimsel Kavram",
+      "ilişki": "geliştirildi",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Dalga fonksiyonu",
+      "baş_tipi": "Bilimsel Kavram",
+      "ilişki": "geliştirildi",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Kuantum alan kuramı",
+      "baş_tipi": "Bilimsel Kavram",
+      "ilişki": "geliştirildi",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kuantum mekaniğinin temelleri 20. yüzyılın ilk yarısında Max Planck , Albert Einstein , Niels Bohr , Louis de Broglie Werner Heisenberg , Erwin Schrödinger , Max Born , John von Neumann , Paul Dirac ve Wolfgang Pauli gibi bilim insanları tarafından atılmıştır. Belirsizlik ilkesi , antimadde , Planck sabiti , kara cisim ışınımı , dalga fonksiyonu ve kuantum alan kuramı gibi kavram ve ilkeler bu alanda geliştirilmiş ve klasik fiziğin sarsılmasına ve değiştirilmesine neden olmuştur.",
+    "triple": {
+      "baş": "Kuantum mekaniği",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "sarsılmasına neden oldu",
+      "uç": "Klasik fizik",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Hatta 20. yüzyılın ortalarına kadar bile orta öğretimde geometri, Öklid'in öğelerine bağlı olarak okutuldu.",
+    "triple": {
+      "baş": "Geometri",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "okutuldu",
+      "uç": "Öklid'in öğeleri",
+      "uç_tipi": "Bilimsel Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Dünya'nın yaşı günümüzde ortak kanıya en yakın şeklinde ilk kez 20. yüzyılın başlarında Clair Patterson tarafından Zirkon krsitallerindeki Uranyum miktarından yaklaşık \"4.40\" milyar olarak hesaplanmıştır.",
+    "triple": {
+      "baş": "Dünya'nın yaşı",
+      "baş_tipi": "Özellik",
+      "ilişki": "hesaplandı",
+      "uç": "4.40 milyar",
+      "uç_tipi": "Sayısal Değer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Dünya'nın yaşı günümüzde ortak kanıya en yakın şeklinde ilk kez 20. yüzyılın başlarında Clair Patterson tarafından Zirkon krsitallerindeki Uranyum miktarından yaklaşık \"4.40\" milyar olarak hesaplanmıştır.",
+    "triple": {
+      "baş": "Clair Patterson",
+      "baş_tipi": "Kişi",
+      "ilişki": "hesapladı",
+      "uç": "Dünya'nın yaşı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Jean Arp ya da Hans Arp , (d. 16 Eylül 1887, Strazburg , Almanya - ö. 7 Haziran 1966, Basel , İsviçre ), 20. yüzyılın ilk yarısında Avrupa'da görülen öncü sanat anlayışının önderlerinden biri olan Fransız heykelci, ressam ve şair.",
+    "triple": {
+      "baş": "Jean Arp",
+      "baş_tipi": "Kişi",
+      "ilişki": "öncüydü",
+      "uç": "Öncü sanat anlayışı",
+      "uç_tipi": "Sanat Akımı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Jean Arp ya da Hans Arp , (d. 16 Eylül 1887, Strazburg , Almanya - ö. 7 Haziran 1966, Basel , İsviçre ), 20. yüzyılın ilk yarısında Avrupa'da görülen öncü sanat anlayışının önderlerinden biri olan Fransız heykelci, ressam ve şair.",
+    "triple": {
+      "baş": "Öncü sanat anlayışı",
+      "baş_tipi": "Sanat Akımı",
+      "ilişki": "görüldü",
+      "uç": "Avrupa",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Jean Arp ya da Hans Arp , (d. 16 Eylül 1887, Strazburg , Almanya - ö. 7 Haziran 1966, Basel , İsviçre ), 20. yüzyılın ilk yarısında Avrupa'da görülen öncü sanat anlayışının önderlerinden biri olan Fransız heykelci, ressam ve şair.",
+    "triple": {
+      "baş": "Jean Arp",
+      "baş_tipi": "Kişi",
+      "ilişki": "oldu",
+      "uç": "Heykelci",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Jean Arp ya da Hans Arp , (d. 16 Eylül 1887, Strazburg , Almanya - ö. 7 Haziran 1966, Basel , İsviçre ), 20. yüzyılın ilk yarısında Avrupa'da görülen öncü sanat anlayışının önderlerinden biri olan Fransız heykelci, ressam ve şair.",
+    "triple": {
+      "baş": "Jean Arp",
+      "baş_tipi": "Kişi",
+      "ilişki": "oldu",
+      "uç": "Ressam",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Jean Arp ya da Hans Arp , (d. 16 Eylül 1887, Strazburg , Almanya - ö. 7 Haziran 1966, Basel , İsviçre ), 20. yüzyılın ilk yarısında Avrupa'da görülen öncü sanat anlayışının önderlerinden biri olan Fransız heykelci, ressam ve şair.",
+    "triple": {
+      "baş": "Jean Arp",
+      "baş_tipi": "Kişi",
+      "ilişki": "oldu",
+      "uç": "Şair",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Aynı genellik içinde, belli bir olguyu bilmek onun nedenini bilmek olarak anlaşılır ve bu bakımdan \"Neden?\" sorusu bilimin temel sorusu olarak görülür. 20. yüzyılın başlarına kadar bilimin temel yasası olarak Nedensellik ilkesi öne sürülmüştür. Kuantum fiziğiyle birlikte bilimin ilkesi olarak nedensellik tartışmalı bir konuma gelmiştir ve bu tartışma hem bilim kuramcıları hem de felsefeciler tarafından değerlendirilmeye devam edilmektedir.",
+    "triple": {
+      "baş": "Nedensellik ilkesi",
+      "baş_tipi": "Bilimsel İlke",
+      "ilişki": "öne sürüldü",
+      "uç": "Bilimin temel yasası",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Aynı genellik içinde, belli bir olguyu bilmek onun nedenini bilmek olarak anlaşılır ve bu bakımdan \"Neden?\" sorusu bilimin temel sorusu olarak görülür. 20. yüzyılın başlarına kadar bilimin temel yasası olarak Nedensellik ilkesi öne sürülmüştür. Kuantum fiziğiyle birlikte bilimin ilkesi olarak nedensellik tartışmalı bir konuma gelmiştir ve bu tartışma hem bilim kuramcıları hem de felsefeciler tarafından değerlendirilmeye devam edilmektedir.",
+    "triple": {
+      "baş": "Nedensellik",
+      "baş_tipi": "Bilimsel İlke",
+      "ilişki": "tartışmalı hale geldi",
+      "uç": "Kuantum fiziği",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kömürler ve Kömürü gazlaştırıp özellikle doğal gaz ve petrolün yerini alması düşüncesi vardı ve bu çalışmalar 20. yüzyılın ikinci yarısında hız verilip özellikle 1972-75 yılları arasında yaşanan petrol krizinde hız verilmiş yeni projeler üretilmeye başlanmıştır.",
+    "triple": {
+      "baş": "Kömür gazlaştırma",
+      "baş_tipi": "Teknoloji",
+      "ilişki": "hız kazandı",
+      "uç": "20. yüzyılın ikinci yarısı",
+      "uç_tipi": "Zaman"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "Kömürler ve Kömürü gazlaştırıp özellikle doğal gaz ve petrolün yerini alması düşüncesi vardı ve bu çalışmalar 20. yüzyılın ikinci yarısında hız verilip özellikle 1972-75 yılları arasında yaşanan petrol krizinde hız verilmiş yeni projeler üretilmeye başlanmıştır.",
+    "triple": {
+      "baş": "Kömür gazlaştırma",
+      "baş_tipi": "Teknoloji",
+      "ilişki": "hız kazandı",
+      "uç": "Petrol krizi (1972-75)",
+      "uç_tipi": "Olay"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "İlk öykülü film 1902 yılında Georges Méliès tarafından Le Voyage dans la Lune (Aya Seyahat) adlı filmle gerçekleştirildi. 19. yüzyıla kadar hareketli resimler tamamen görsel bir sanat olmasına karşın ilk sessiz filmlerin kamu tarafından beğenilmişti. 20. yüzyılın başında filmler öyküsel bir yapı geliştirmeye başladı.",
+    "triple": {
+      "baş": "Filmler",
+      "baş_tipi": "Sanat Eseri",
+      "ilişki": "geliştirmeye başladı",
+      "uç": "Öyküsel yapı",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/20._y%C3%BCzy%C4%B1l)",
+    "metin": "İlk öykülü film 1902 yılında Georges Méliès tarafından Le Voyage dans la Lune (Aya Seyahat) adlı filmle gerçekleştirildi. 19. yüzyıla kadar hareketli resimler tamamen görsel bir sanat olmasına karşın ilk sessiz filmlerin kamu tarafından beğenilmişti. 20. yüzyılın başında filmler öyküsel bir yapı geliştirmeye başladı.",
+    "triple": {
+      "baş": "Georges Méliès",
+      "baş_tipi": "Kişi",
+      "ilişki": "gerçekleştirdi",
+      "uç": "Le Voyage dans la Lune",
+      "uç_tipi": "Film"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "İslam'ın Altın Çağı",
+      "baş_tipi": "Dönem",
+      "ilişki": "gelişen bilim dalı",
+      "uç": "Trigonometri",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "İslam'ın Altın Çağı",
+      "baş_tipi": "Dönem",
+      "ilişki": "gelişen bilim dalı",
+      "uç": "Optik bilimi",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "İslam'ın Altın Çağı",
+      "baş_tipi": "Dönem",
+      "ilişki": "gelişen bilim dalı",
+      "uç": "Kimya",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "Kindî",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "Fârâbî",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "Hârizmî",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "Battânî",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "İbn Sînâ",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "İbnü'l-Heysem",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "Birûni",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "İbn Rüşd",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "Cezerî",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "Gazzâlî",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "Nasîrüddin Tûsî",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "İbn Battuta",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "İbn Haldun",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#5: Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti. Kindî , Fârâbî , Hârizmî , Battânî , İbn Sînâ , İbnü'l-Heysem , Birûni , İbn Rüşd , Cezerî , Gazzâlî , Nasîrüddin Tûsî , İbn Battuta , İbn Haldun , Uluğ Bey ve bunların yanı sıra daha birçok ünlü İslam bilgini bu döneme damgalarını vurdu.",
+    "triple": {
+      "baş": "Uluğ Bey",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#124: Bu çalışmalar, Latin bilimini yeniden canlandırıp Rönesans Devrimi 'nin temellerini attı. Tıp , optik , fizik , astronomi , matematik ve kimya alanında Endülüs Emevî topraklarında önemli keşifler yapıldı.",
+    "triple": {
+      "baş": "İslam'ın Altın Çağı",
+      "baş_tipi": "Dönem",
+      "ilişki": "temelini attığı devrim",
+      "uç": "Rönesans Devrimi",
+      "uç_tipi": "Devrim"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#124: Bu çalışmalar, Latin bilimini yeniden canlandırıp Rönesans Devrimi 'nin temellerini attı. Tıp , optik , fizik , astronomi , matematik ve kimya alanında Endülüs Emevî topraklarında önemli keşifler yapıldı.",
+    "triple": {
+      "baş": "İslam'ın Altın Çağı",
+      "baş_tipi": "Dönem",
+      "ilişki": "önemli keşiflerin yapıldığı alan",
+      "uç": "Tıp",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#124: Bu çalışmalar, Latin bilimini yeniden canlandırıp Rönesans Devrimi 'nin temellerini attı. Tıp , optik , fizik , astronomi , matematik ve kimya alanında Endülüs Emevî topraklarında önemli keşifler yapıldı.",
+    "triple": {
+      "baş": "İslam'ın Altın Çağı",
+      "baş_tipi": "Dönem",
+      "ilişki": "önemli keşiflerin yapıldığı alan",
+      "uç": "Optik",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#124: Bu çalışmalar, Latin bilimini yeniden canlandırıp Rönesans Devrimi 'nin temellerini attı. Tıp , optik , fizik , astronomi , matematik ve kimya alanında Endülüs Emevî topraklarında önemli keşifler yapıldı.",
+    "triple": {
+      "baş": "İslam'ın Altın Çağı",
+      "baş_tipi": "Dönem",
+      "ilişki": "önemli keşiflerin yapıldığı alan",
+      "uç": "Fizik",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#124: Bu çalışmalar, Latin bilimini yeniden canlandırıp Rönesans Devrimi 'nin temellerini attı. Tıp , optik , fizik , astronomi , matematik ve kimya alanında Endülüs Emevî topraklarında önemli keşifler yapıldı.",
+    "triple": {
+      "baş": "İslam'ın Altın Çağı",
+      "baş_tipi": "Dönem",
+      "ilişki": "önemli keşiflerin yapıldığı alan",
+      "uç": "Astronomi",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#124: Bu çalışmalar, Latin bilimini yeniden canlandırıp Rönesans Devrimi 'nin temellerini attı. Tıp , optik , fizik , astronomi , matematik ve kimya alanında Endülüs Emevî topraklarında önemli keşifler yapıldı.",
+    "triple": {
+      "baş": "İslam'ın Altın Çağı",
+      "baş_tipi": "Dönem",
+      "ilişki": "önemli keşiflerin yapıldığı alan",
+      "uç": "Matematik",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#124: Bu çalışmalar, Latin bilimini yeniden canlandırıp Rönesans Devrimi 'nin temellerini attı. Tıp , optik , fizik , astronomi , matematik ve kimya alanında Endülüs Emevî topraklarında önemli keşifler yapıldı.",
+    "triple": {
+      "baş": "İslam'ın Altın Çağı",
+      "baş_tipi": "Dönem",
+      "ilişki": "önemli keşiflerin yapıldığı alan",
+      "uç": "Kimya",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "İslam'ın Altın Çağı#124: Bu çalışmalar, Latin bilimini yeniden canlandırıp Rönesans Devrimi 'nin temellerini attı. Tıp , optik , fizik , astronomi , matematik ve kimya alanında Endülüs Emevî topraklarında önemli keşifler yapıldı.",
+    "triple": {
+      "baş": "İslam'ın Altın Çağı",
+      "baş_tipi": "Dönem",
+      "ilişki": "keşiflerin yapıldığı bölge",
+      "uç": "Endülüs Emevî toprakları",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Batlamyus astronomi , matematik , coğrafya ve optik alanlarına katkılar yapmıştır; ancak en çok astronomi çalışmalarıyla tanınır.",
+    "triple": {
+      "baş": "Batlamyus",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu alan",
+      "uç": "Astronomi",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Batlamyus astronomi , matematik , coğrafya ve optik alanlarına katkılar yapmıştır; ancak en çok astronomi çalışmalarıyla tanınır.",
+    "triple": {
+      "baş": "Batlamyus",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu alan",
+      "uç": "Matematik",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Batlamyus astronomi , matematik , coğrafya ve optik alanlarına katkılar yapmıştır; ancak en çok astronomi çalışmalarıyla tanınır.",
+    "triple": {
+      "baş": "Batlamyus",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu alan",
+      "uç": "Coğrafya",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Batlamyus astronomi , matematik , coğrafya ve optik alanlarına katkılar yapmıştır; ancak en çok astronomi çalışmalarıyla tanınır.",
+    "triple": {
+      "baş": "Batlamyus",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu alan",
+      "uç": "Optik",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Batlamyus astronomi , matematik , coğrafya ve optik alanlarına katkılar yapmıştır; ancak en çok astronomi çalışmalarıyla tanınır.",
+    "triple": {
+      "baş": "Batlamyus",
+      "baş_tipi": "Kişi",
+      "ilişki": "en çok tanındığı alan",
+      "uç": "Astronomi",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Aynı zamanda döneminin önde gelen optik araştırmacılarından olan Batlamyus, daha önceki optikçilerin çoğu gibi, görmenin gözden çıkan görsel ışınlar yoluyla oluştuğu görüşünü benimsemiştir.",
+    "triple": {
+      "baş": "Batlamyus",
+      "baş_tipi": "Kişi",
+      "ilişki": "araştırmacı olduğu alan",
+      "uç": "Optik",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Optik bilgisi, Roger Bacon , John Peckham ve Witelo gibi bilimcilerin (benzer etkiler Commentario terzo olarak adlandırılan Lorenzo Ghiberti'nin üçüncü yorumunda da izlenebilir) on üçüncü yüzyıl Perspectivae geleneklerinin Fransisken optik atölyelerinin aracılık ettiği Arap bilgin Alhazen'in ( İbn el-Haytham , dc 1041) uzun süredir devam eden Kitab al-manazir'in ( The Optics ; Despectibus ) geleneğiyle bağlantılıydı.",
+    "triple": {
+      "baş": "Roger Bacon",
+      "baş_tipi": "Kişi",
+      "ilişki": "optik bilgisiyle bağlantılı",
+      "uç": "Arap bilgin Alhazen",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Optik bilgisi, Roger Bacon , John Peckham ve Witelo gibi bilimcilerin (benzer etkiler Commentario terzo olarak adlandırılan Lorenzo Ghiberti'nin üçüncü yorumunda da izlenebilir) on üçüncü yüzyıl Perspectivae geleneklerinin Fransisken optik atölyelerinin aracılık ettiği Arap bilgin Alhazen'in ( İbn el-Haytham , dc 1041) uzun süredir devam eden Kitab al-manazir'in ( The Optics ; Despectibus ) geleneğiyle bağlantılıydı.",
+    "triple": {
+      "baş": "John Peckham",
+      "baş_tipi": "Kişi",
+      "ilişki": "optik bilgisiyle bağlantılı",
+      "uç": "Arap bilgin Alhazen",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Optik bilgisi, Roger Bacon , John Peckham ve Witelo gibi bilimcilerin (benzer etkiler Commentario terzo olarak adlandırılan Lorenzo Ghiberti'nin üçüncü yorumunda da izlenebilir) on üçüncü yüzyıl Perspectivae geleneklerinin Fransisken optik atölyelerinin aracılık ettiği Arap bilgin Alhazen'in ( İbn el-Haytham , dc 1041) uzun süredir devam eden Kitab al-manazir'in ( The Optics ; Despectibus ) geleneğiyle bağlantılıydı.",
+    "triple": {
+      "baş": "Witelo",
+      "baş_tipi": "Kişi",
+      "ilişki": "optik bilgisiyle bağlantılı",
+      "uç": "Arap bilgin Alhazen",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Optik bilgisi, Roger Bacon , John Peckham ve Witelo gibi bilimcilerin (benzer etkiler Commentario terzo olarak adlandırılan Lorenzo Ghiberti'nin üçüncü yorumunda da izlenebilir) on üçüncü yüzyıl Perspectivae geleneklerinin Fransisken optik atölyelerinin aracılık ettiği Arap bilgin Alhazen'in ( İbn el-Haytham , dc 1041) uzun süredir devam eden Kitab al-manazir'in ( The Optics ; Despectibus ) geleneğiyle bağlantılıydı.",
+    "triple": {
+      "baş": "Arap bilgin Alhazen",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazarı olduğu eser",
+      "uç": "Kitab al-manazir",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Optik bilgisi, Roger Bacon , John Peckham ve Witelo gibi bilimcilerin (benzer etkiler Commentario terzo olarak adlandırılan Lorenzo Ghiberti'nin üçüncü yorumunda da izlenebilir) on üçüncü yüzyıl Perspectivae geleneklerinin Fransisken optik atölyelerinin aracılık ettiği Arap bilgin Alhazen'in ( İbn el-Haytham , dc 1041) uzun süredir devam eden Kitab al-manazir'in ( The Optics ; Despectibus ) geleneğiyle bağlantılıydı.",
+    "triple": {
+      "baş": "Arap bilgin Alhazen",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazarı olduğu eser",
+      "uç": "The Optics",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Optik bilgisi, Roger Bacon , John Peckham ve Witelo gibi bilimcilerin (benzer etkiler Commentario terzo olarak adlandırılan Lorenzo Ghiberti'nin üçüncü yorumunda da izlenebilir) on üçüncü yüzyıl Perspectivae geleneklerinin Fransisken optik atölyelerinin aracılık ettiği Arap bilgin Alhazen'in ( İbn el-Haytham , dc 1041) uzun süredir devam eden Kitab al-manazir'in ( The Optics ; Despectibus ) geleneğiyle bağlantılıydı.",
+    "triple": {
+      "baş": "Arap bilgin Alhazen",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazarı olduğu eser",
+      "uç": "Despectibus",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Bunların yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti.",
+    "triple": {
+      "baş": "Trigonometri",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "geliştiği dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Bunların yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti.",
+    "triple": {
+      "baş": "Optik bilimi",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "geliştiği dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Bunların yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti.",
+    "triple": {
+      "baş": "Kimya",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "geliştiği dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Descartes, optik alanına da katkılarda bulunmuştur.",
+    "triple": {
+      "baş": "Descartes",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkıda bulunduğu alan",
+      "uç": "Optik",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti.",
+    "triple": {
+      "baş": "Trigonometri",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "geliştiği dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti.",
+    "triple": {
+      "baş": "Optik bilimi",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "geliştiği dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti.",
+    "triple": {
+      "baş": "Kimya",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "geliştiği dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti.",
+    "triple": {
+      "baş": "Trigonometri",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "geliştiği dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti.",
+    "triple": {
+      "baş": "Optik bilimi",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "geliştiği dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Matematik ve aritmetiğin yanı sıra trigonometri de gelişti. Gözlemevleri inşa edildi; optik bilimi ve kimya gelişti.",
+    "triple": {
+      "baş": "Kimya",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "geliştiği dönem",
+      "uç": "İslam'ın Altın Çağı",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Altın nanotaneciklerinin kendilerine has optik , elektronik ve moleküler tanıma özellikleri nedeniyle bunlar aktif bir araştırma konusudur, uygulama alanları elektron mikroskopisi , elektronik , nanoteknoloji , malzeme bilimi gibi alanlardadır.",
+    "triple": {
+      "baş": "Altın nanotanecikleri",
+      "baş_tipi": "Madde",
+      "ilişki": "araştırma konusu olduğu özellik",
+      "uç": "Optik",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Altın nanotaneciklerinin kendilerine has optik , elektronik ve moleküler tanıma özellikleri nedeniyle bunlar aktif bir araştırma konusudur, uygulama alanları elektron mikroskopisi , elektronik , nanoteknoloji , malzeme bilimi gibi alanlardadır.",
+    "triple": {
+      "baş": "Altın nanotanecikleri",
+      "baş_tipi": "Madde",
+      "ilişki": "araştırma konusu olduğu özellik",
+      "uç": "Elektronik",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Altın nanotaneciklerinin kendilerine has optik , elektronik ve moleküler tanıma özellikleri nedeniyle bunlar aktif bir araştırma konusudur, uygulama alanları elektron mikroskopisi , elektronik , nanoteknoloji , malzeme bilimi gibi alanlardadır.",
+    "triple": {
+      "baş": "Altın nanotanecikleri",
+      "baş_tipi": "Madde",
+      "ilişki": "araştırma konusu olduğu özellik",
+      "uç": "Moleküler tanıma",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Altın nanotaneciklerinin kendilerine has optik , elektronik ve moleküler tanıma özellikleri nedeniyle bunlar aktif bir araştırma konusudur, uygulama alanları elektron mikroskopisi , elektronik , nanoteknoloji , malzeme bilimi gibi alanlardadır.",
+    "triple": {
+      "baş": "Altın nanotanecikleri",
+      "baş_tipi": "Madde",
+      "ilişki": "uygulama alanı",
+      "uç": "Elektron mikroskopisi",
+      "uç_tipi": "Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Altın nanotaneciklerinin kendilerine has optik , elektronik ve moleküler tanıma özellikleri nedeniyle bunlar aktif bir araştırma konusudur, uygulama alanları elektron mikroskopisi , elektronik , nanoteknoloji , malzeme bilimi gibi alanlardadır.",
+    "triple": {
+      "baş": "Altın nanotanecikleri",
+      "baş_tipi": "Madde",
+      "ilişki": "uygulama alanı",
+      "uç": "Elektronik",
+      "uç_tipi": "Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Altın nanotaneciklerinin kendilerine has optik , elektronik ve moleküler tanıma özellikleri nedeniyle bunlar aktif bir araştırma konusudur, uygulama alanları elektron mikroskopisi , elektronik , nanoteknoloji , malzeme bilimi gibi alanlardadır.",
+    "triple": {
+      "baş": "Altın nanotanecikleri",
+      "baş_tipi": "Madde",
+      "ilişki": "uygulama alanı",
+      "uç": "Nanoteknoloji",
+      "uç_tipi": "Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Altın nanotaneciklerinin kendilerine has optik , elektronik ve moleküler tanıma özellikleri nedeniyle bunlar aktif bir araştırma konusudur, uygulama alanları elektron mikroskopisi , elektronik , nanoteknoloji , malzeme bilimi gibi alanlardadır.",
+    "triple": {
+      "baş": "Altın nanotanecikleri",
+      "baş_tipi": "Madde",
+      "ilişki": "uygulama alanı",
+      "uç": "Malzeme bilimi",
+      "uç_tipi": "Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Bu kavram dalga yayılımı ile ilgilenen optik , deprembilim ve uziletişim gibi bilim ve teknoloji sahalarında kullanılmaktadır. Elektrodinamikte polarizasyon, ışık gibi elektromanyetik dalgaların elektrik alanının yönünü belirten özelliğini ifade eder. Sıvılarda ve gazlarda ses dalgaları gibi boyuna dalgalar polarizasyon özelliği göstermez çünkü bu dalgaların salınım yönü uzunlamasınadır yani yönü dalganın hareketinin yönü tarafından belirlenmektedir.",
+    "triple": {
+      "baş": "Optik",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "kullanıldığı alan",
+      "uç": "Dalga yayılımı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Bu kavram dalga yayılımı ile ilgilenen optik , deprembilim ve uziletişim gibi bilim ve teknoloji sahalarında kullanılmaktadır. Elektrodinamikte polarizasyon, ışık gibi elektromanyetik dalgaların elektrik alanının yönünü belirten özelliğini ifade eder. Sıvılarda ve gazlarda ses dalgaları gibi boyuna dalgalar polarizasyon özelliği göstermez çünkü bu dalgaların salınım yönü uzunlamasınadır yani yönü dalganın hareketinin yönü tarafından belirlenmektedir.",
+    "triple": {
+      "baş": "Deprembilim",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "kullanıldığı alan",
+      "uç": "Dalga yayılımı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Bu kavram dalga yayılımı ile ilgilenen optik , deprembilim ve uziletişim gibi bilim ve teknoloji sahalarında kullanılmaktadır. Elektrodinamikte polarizasyon, ışık gibi elektromanyetik dalgaların elektrik alanının yönünü belirten özelliğini ifade eder. Sıvılarda ve gazlarda ses dalgaları gibi boyuna dalgalar polarizasyon özelliği göstermez çünkü bu dalgaların salınım yönü uzunlamasınadır yani yönü dalganın hareketinin yönü tarafından belirlenmektedir.",
+    "triple": {
+      "baş": "Uzatışım",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "kullanıldığı alan",
+      "uç": "Dalga yayılımı",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Bu bulgu, elektromanyetik teori ve optik alanlarını bütünleştirmiş ve elektromanyetik spektrumun eksiksiz bir açıklamasına doğrudan katkıda bulunmuştur.",
+    "triple": {
+      "baş": "Bulgu",
+      "baş_tipi": "Kavram",
+      "ilişki": "bütünleştirdiği alan",
+      "uç": "Elektromanyetik teori",
+      "uç_tipi": "Teori"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Bu bulgu, elektromanyetik teori ve optik alanlarını bütünleştirmiş ve elektromanyetik spektrumun eksiksiz bir açıklamasına doğrudan katkıda bulunmuştur.",
+    "triple": {
+      "baş": "Bulgu",
+      "baş_tipi": "Kavram",
+      "ilişki": "bütünleştirdiği alan",
+      "uç": "Optik",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Bu bulgu, elektromanyetik teori ve optik alanlarını bütünleştirmiş ve elektromanyetik spektrumun eksiksiz bir açıklamasına doğrudan katkıda bulunmuştur.",
+    "triple": {
+      "baş": "Bulgu",
+      "baş_tipi": "Kavram",
+      "ilişki": "katkıda bulunduğu açıklama",
+      "uç": "Elektromanyetik spektrum",
+      "uç_tipi": "Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Hermann von Helmholtz aynı zamanda optik , işitme ve müzik konularıyla da uğraşmıştır. Newton Descartes'ın icat ettiği matematiğin dalı olan kalkülüsü genişletmiştir ( Leibniz ile yeni zamana uygun şekli).",
+    "triple": {
+      "baş": "Hermann von Helmholtz",
+      "baş_tipi": "Kişi",
+      "ilişki": "uğraştığı konu",
+      "uç": "Optik",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Hermann von Helmholtz aynı zamanda optik , işitme ve müzik konularıyla da uğraşmıştır. Newton Descartes'ın icat ettiği matematiğin dalı olan kalkülüsü genişletmiştir ( Leibniz ile yeni zamana uygun şekli).",
+    "triple": {
+      "baş": "Hermann von Helmholtz",
+      "baş_tipi": "Kişi",
+      "ilişki": "uğraştığı konu",
+      "uç": "İşitme",
+      "uç_tipi": "Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Hermann von Helmholtz aynı zamanda optik , işitme ve müzik konularıyla da uğraşmıştır. Newton Descartes'ın icat ettiği matematiğin dalı olan kalkülüsü genişletmiştir ( Leibniz ile yeni zamana uygun şekli).",
+    "triple": {
+      "baş": "Hermann von Helmholtz",
+      "baş_tipi": "Kişi",
+      "ilişki": "uğraştığı konu",
+      "uç": "Müzik",
+      "uç_tipi": "Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Fizik alanı son derece geniştir ve kuantum mekaniği ve teorik fizik , uygulamalı fizik ve optik gibi çeşitli çalışmaları içerebilir.",
+    "triple": {
+      "baş": "Fizik",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "içerebileceği çalışma alanı",
+      "uç": "Kuantum mekaniği",
+      "uç_tipi": "Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Fizik alanı son derece geniştir ve kuantum mekaniği ve teorik fizik , uygulamalı fizik ve optik gibi çeşitli çalışmaları içerebilir.",
+    "triple": {
+      "baş": "Fizik",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "içerebileceği çalışma alanı",
+      "uç": "Teorik fizik",
+      "uç_tipi": "Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Fizik alanı son derece geniştir ve kuantum mekaniği ve teorik fizik , uygulamalı fizik ve optik gibi çeşitli çalışmaları içerebilir.",
+    "triple": {
+      "baş": "Fizik",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "içerebileceği çalışma alanı",
+      "uç": "Uygulamalı fizik",
+      "uç_tipi": "Alan"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Fizik alanı son derece geniştir ve kuantum mekaniği ve teorik fizik , uygulamalı fizik ve optik gibi çeşitli çalışmaları içerebilir.",
+    "triple": {
+      "baş": "Fizik",
+      "baş_tipi": "Bilim Dalı",
+      "ilişki": "içerebileceği çalışma alanı",
+      "uç": "Optik",
+      "uç_tipi": "Bilim Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Bu yıllarda zoetrope ve praxinoscope denilen basit optik aygıtların gelişmişi olan aygıtlar kullanılmaktaydı.",
+    "triple": {
+      "baş": "Zoetrope",
+      "baş_tipi": "Aygıt",
+      "ilişki": "basit optik aygıt",
+      "uç": "Optik",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Optik)",
+    "metin": "Bu yıllarda zoetrope ve praxinoscope denilen basit optik aygıtların gelişmişi olan aygıtlar kullanılmaktaydı.",
+    "triple": {
+      "baş": "Praxinoscope",
+      "baş_tipi": "Aygıt",
+      "ilişki": "basit optik aygıt",
+      "uç": "Optik",
+      "uç_tipi": "Özellik"
+    }
+  }
+]

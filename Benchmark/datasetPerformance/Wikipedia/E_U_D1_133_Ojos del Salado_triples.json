@@ -1,0 +1,2628 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Gaz)",
+    "metin": "Buna rağmen hâlâ gaz hareketliliği vardır.",
+    "triple": {
+      "baş": "gaz hareketliliği",
+      "baş_tipi": "Özellik",
+      "ilişki": "vardır",
+      "uç": "gaz",
+      "uç_tipi": "Madde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kurban)",
+    "metin": "Zirvede tespit edilen kurban alanları sebebiyle, burasının, İnkaların kurban rituellerini yerine getirdikleri yer olduğu tahmin edilmektedir.",
+    "triple": {
+      "baş": "Burası",
+      "baş_tipi": "Yer",
+      "ilişki": "kullanılır",
+      "uç": "İnkaların kurban rituellerini yerine getirdikleri yer",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kurban)",
+    "metin": "Zirvede tespit edilen kurban alanları sebebiyle, burasının, İnkaların kurban rituellerini yerine getirdikleri yer olduğu tahmin edilmektedir.",
+    "triple": {
+      "baş": "Kurban alanları",
+      "baş_tipi": "Özellik",
+      "ilişki": "tespit edildiği yer",
+      "uç": "Zirve",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nka_medeniyeti)",
+    "metin": "Zirvede tespit edilen kurban alanları sebebiyle, burasının, İnkaların kurban rituellerini yerine getirdikleri yer olduğu tahmin edilmektedir.",
+    "triple": {
+      "baş": "Burası",
+      "baş_tipi": "Yer",
+      "ilişki": "kullanılır",
+      "uç": "İnkaların kurban rituellerini yerine getirdikleri yer",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0nka_medeniyeti)",
+    "metin": "Zirvede tespit edilen kurban alanları sebebiyle, burasının, İnkaların kurban rituellerini yerine getirdikleri yer olduğu tahmin edilmektedir.",
+    "triple": {
+      "baş": "Kurban alanları",
+      "baş_tipi": "Özellik",
+      "ilişki": "tespit edildiği yer",
+      "uç": "Zirve",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Stratovolkan)",
+    "metin": "Stratovolkan",
+    "triple": {
+      "baş": "Stratovolkan",
+      "baş_tipi": "Volkan Tipi",
+      "ilişki": "benzer",
+      "uç": "Stratovolkan",
+      "uç_tipi": "Volkan Tipi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Polonyal%C4%B1lar)",
+    "metin": "Dağa ilk tırmanış 1937 yılında Polonyalı bir bilimsel gezi grubuyla gerçekleştirilmişitir.",
+    "triple": {
+      "baş": "Dağ",
+      "baş_tipi": "Coğrafi Nesne",
+      "ilişki": "ilk tırmanış tarihi",
+      "uç": "1937",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Polonyal%C4%B1lar)",
+    "metin": "Dağa ilk tırmanış 1937 yılında Polonyalı bir bilimsel gezi grubuyla gerçekleştirilmişitir.",
+    "triple": {
+      "baş": "Dağ",
+      "baş_tipi": "Coğrafi Nesne",
+      "ilişki": "ilk tırmanışı yapan grup",
+      "uç": "Polonyalı bilimsel gezi grubu",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Polonyal%C4%B1lar)",
+    "metin": "Dağa ilk tırmanış 1937 yılında Polonyalı bir bilimsel gezi grubuyla gerçekleştirilmişitir.",
+    "triple": {
+      "baş": "Polonyalı bilimsel gezi grubu",
+      "baş_tipi": "Grup",
+      "ilişki": "uyruğu",
+      "uç": "Polonya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/GPS)",
+    "metin": "Ojos del Salado, 20. yüzyılda yapılan bazı ölçümlerde Aconcagua 'dan yüksek çıkarak, kıtanın en yüksek dağı olarak tespit edilse de, yeni GPS temeline dayanan ölçümler bu sonucu onaylamazlar.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "tespit edildi",
+      "uç": "kıtanın en yüksek dağı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/GPS)",
+    "metin": "Ojos del Salado, 20. yüzyılda yapılan bazı ölçümlerde Aconcagua 'dan yüksek çıkarak, kıtanın en yüksek dağı olarak tespit edilse de, yeni GPS temeline dayanan ölçümler bu sonucu onaylamazlar.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "ölçüldü",
+      "uç": "Aconcagua",
+      "uç_tipi": "Dağ"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/GPS)",
+    "metin": "Ojos del Salado, 20. yüzyılda yapılan bazı ölçümlerde Aconcagua 'dan yüksek çıkarak, kıtanın en yüksek dağı olarak tespit edilse de, yeni GPS temeline dayanan ölçümler bu sonucu onaylamazlar.",
+    "triple": {
+      "baş": "yeni GPS temeline dayanan ölçümler",
+      "baş_tipi": "Ölçüm Yöntemi",
+      "ilişki": "onaylamaz",
+      "uç": "Ojos del Salado'nun kıtanın en yüksek dağı olarak tespit edilmesi",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tools.wmflabs.org/geohack/geohack.php?pagename=tr:Ojos_del_Salado&params=27_06_34_S_68_32_32_W_)",
+    "metin": ".mw-parser-output .geo-default,.mw-parser-output .geo-dms,.mw-parser-output .geo-dec{display:inline}.mw-parser-output .geo-nondefault,.mw-parser-output .geo-multi-punct,.mw-parser-output .geo-inline-hidden{display:none}.mw-parser-output .longitude,.mw-parser-output .latitude{white-space:nowrap} 27°06′34″G 68°32′32″B﻿ / ﻿27.10944°G 68.54222°B﻿ / -27.10944; -68.54222",
+    "triple": {
+      "baş": "27°06′34″G 68°32′32″B",
+      "baş_tipi": "Koordinat",
+      "ilişki": "eşdeğer",
+      "uç": "27.10944°G 68.54222°B",
+      "uç_tipi": "Koordinat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Toyota_Landcruiser_90_V6&action=edit&redlink=1)",
+    "metin": "Alman Matthias Jeschke 4 Mart 2005 tarihinde Toyota Landcruiser 90 V6 aracıyla 6.358 metreye ulaşarak, \"bir araçla çıkılan en yüksek rakım\" rekorunu kırmıştır.",
+    "triple": {
+      "baş": "Matthias Jeschke",
+      "baş_tipi": "Kişi",
+      "ilişki": "uyruğu",
+      "uç": "Almanya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Toyota_Landcruiser_90_V6&action=edit&redlink=1)",
+    "metin": "Alman Matthias Jeschke 4 Mart 2005 tarihinde Toyota Landcruiser 90 V6 aracıyla 6.358 metreye ulaşarak, \"bir araçla çıkılan en yüksek rakım\" rekorunu kırmıştır.",
+    "triple": {
+      "baş": "Matthias Jeschke",
+      "baş_tipi": "Kişi",
+      "ilişki": "kırdı",
+      "uç": "bir araçla çıkılan en yüksek rakım rekoru",
+      "uç_tipi": "Rekor"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Toyota_Landcruiser_90_V6&action=edit&redlink=1)",
+    "metin": "Alman Matthias Jeschke 4 Mart 2005 tarihinde Toyota Landcruiser 90 V6 aracıyla 6.358 metreye ulaşarak, \"bir araçla çıkılan en yüksek rakım\" rekorunu kırmıştır.",
+    "triple": {
+      "baş": "Matthias Jeschke",
+      "baş_tipi": "Kişi",
+      "ilişki": "kullandı",
+      "uç": "Toyota Landcruiser 90 V6",
+      "uç_tipi": "Araç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Toyota_Landcruiser_90_V6&action=edit&redlink=1)",
+    "metin": "Alman Matthias Jeschke 4 Mart 2005 tarihinde Toyota Landcruiser 90 V6 aracıyla 6.358 metreye ulaşarak, \"bir araçla çıkılan en yüksek rakım\" rekorunu kırmıştır.",
+    "triple": {
+      "baş": "Matthias Jeschke",
+      "baş_tipi": "Kişi",
+      "ilişki": "ulaştı",
+      "uç": "6.358 metre",
+      "uç_tipi": "Rakım"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Toyota_Landcruiser_90_V6&action=edit&redlink=1)",
+    "metin": "Alman Matthias Jeschke 4 Mart 2005 tarihinde Toyota Landcruiser 90 V6 aracıyla 6.358 metreye ulaşarak, \"bir araçla çıkılan en yüksek rakım\" rekorunu kırmıştır.",
+    "triple": {
+      "baş": "Matthias Jeschke",
+      "baş_tipi": "Kişi",
+      "ilişki": "tarih",
+      "uç": "4 Mart 2005",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Buhar)",
+    "metin": "Bu şekilde 1937, 1956 ve 14 Kasım 1994'te su ve kükürt buharlarının da açığa çıktığı hareketlilikler tespit edilmiştir.",
+    "triple": {
+      "baş": "Hareketlilikler",
+      "baş_tipi": "Olay",
+      "ilişki": "gerçekleştiği yıl",
+      "uç": "1937",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Buhar)",
+    "metin": "Bu şekilde 1937, 1956 ve 14 Kasım 1994'te su ve kükürt buharlarının da açığa çıktığı hareketlilikler tespit edilmiştir.",
+    "triple": {
+      "baş": "Hareketlilikler",
+      "baş_tipi": "Olay",
+      "ilişki": "gerçekleştiği yıl",
+      "uç": "1956",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Buhar)",
+    "metin": "Bu şekilde 1937, 1956 ve 14 Kasım 1994'te su ve kükürt buharlarının da açığa çıktığı hareketlilikler tespit edilmiştir.",
+    "triple": {
+      "baş": "Hareketlilikler",
+      "baş_tipi": "Olay",
+      "ilişki": "gerçekleştiği tarih",
+      "uç": "14 Kasım 1994",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Buhar)",
+    "metin": "Bu şekilde 1937, 1956 ve 14 Kasım 1994'te su ve kükürt buharlarının da açığa çıktığı hareketlilikler tespit edilmiştir.",
+    "triple": {
+      "baş": "Hareketlilikler",
+      "baş_tipi": "Olay",
+      "ilişki": "açığa çıkan madde",
+      "uç": "su buharı",
+      "uç_tipi": "Madde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Buhar)",
+    "metin": "Bu şekilde 1937, 1956 ve 14 Kasım 1994'te su ve kükürt buharlarının da açığa çıktığı hareketlilikler tespit edilmiştir.",
+    "triple": {
+      "baş": "Hareketlilikler",
+      "baş_tipi": "Olay",
+      "ilişki": "açığa çıkan madde",
+      "uç": "kükürt buharı",
+      "uç_tipi": "Madde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Volkan)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "yüksekliği",
+      "uç": "6893 metre",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Volkan)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "türü",
+      "uç": "Dünyanın en yüksek volkanı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Volkan)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "türü",
+      "uç": "Güney Amerika'nın en yüksek ikinci dağı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Volkan)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "sınırında",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Volkan)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "sınırında",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Volkan)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "konumu",
+      "uç": "Atacama Çölü",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Volkan)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "kaplıdır",
+      "uç": "Karlarla",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Aconcagua)",
+    "metin": "Andların en yüksek dağı 6.962 m ile Arjantin ve Şili sınırındaki Aconcagua 'dır.",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "yüksekliği",
+      "uç": "6.962 m",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Aconcagua)",
+    "metin": "Andların en yüksek dağı 6.962 m ile Arjantin ve Şili sınırındaki Aconcagua 'dır.",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "konumu",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Aconcagua)",
+    "metin": "Andların en yüksek dağı 6.962 m ile Arjantin ve Şili sınırındaki Aconcagua 'dır.",
+    "triple": {
+      "baş": "Aconcagua",
+      "baş_tipi": "Dağ",
+      "ilişki": "konumu",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Aconcagua)",
+    "metin": "Yan yana birçok silsileden oluşmakla birlikte Cordillera Oriental (Doğu Sıradağları) ve Cordillera Occidental (Batı Sıradağları) olmak üzere iki büyük silsileden oluşmaktadır.",
+    "triple": {
+      "baş": "Andlar",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "oluşur",
+      "uç": "Cordillera Oriental",
+      "uç_tipi": "Dağ Sırası"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Aconcagua)",
+    "metin": "Yan yana birçok silsileden oluşmakla birlikte Cordillera Oriental (Doğu Sıradağları) ve Cordillera Occidental (Batı Sıradağları) olmak üzere iki büyük silsileden oluşmaktadır.",
+    "triple": {
+      "baş": "Andlar",
+      "baş_tipi": "Dağ Sırası",
+      "ilişki": "oluşur",
+      "uç": "Cordillera Occidental",
+      "uç_tipi": "Dağ Sırası"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Aconcagua)",
+    "metin": "Ojos del Salado, 20. yüzyılda yapılan bazı ölçümlerde Aconcagua 'dan yüksek çıkarak, kıtanın en yüksek dağı olarak tespit edilse de, yeni GPS temeline dayanan ölçümler bu sonucu onaylamazlar.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "yüksekliği",
+      "uç": "Aconcagua",
+      "uç_tipi": "Dağ"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Aconcagua)",
+    "metin": "Ojos del Salado, 20. yüzyılda yapılan bazı ölçümlerde Aconcagua 'dan yüksek çıkarak, kıtanın en yüksek dağı olarak tespit edilse de, yeni GPS temeline dayanan ölçümler bu sonucu onaylamazlar.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "tespit edildi",
+      "uç": "kıtanın en yüksek dağı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Monte_Pissis)",
+    "metin": "Yeryüzünün en yüksek volkanları bu bölgede bulunur.",
+    "triple": {
+      "baş": "Volkan",
+      "baş_tipi": "Coğrafi Yapı",
+      "ilişki": "bulunur",
+      "uç": "Bölge",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Monte_Pissis)",
+    "metin": "6.795 m yükseklikteki Monte Pissis (Arjantin) ve 6.891 m yükseklikte Ojos del Salado (Şili) bunlardan bazılarıdır.",
+    "triple": {
+      "baş": "Monte Pissis",
+      "baş_tipi": "Volkan",
+      "ilişki": "yüksekliği",
+      "uç": "6795 m",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Monte_Pissis)",
+    "metin": "6.795 m yükseklikteki Monte Pissis (Arjantin) ve 6.891 m yükseklikte Ojos del Salado (Şili) bunlardan bazılarıdır.",
+    "triple": {
+      "baş": "Monte Pissis",
+      "baş_tipi": "Volkan",
+      "ilişki": "bulunduğu yer",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Monte_Pissis)",
+    "metin": "6.795 m yükseklikteki Monte Pissis (Arjantin) ve 6.891 m yükseklikte Ojos del Salado (Şili) bunlardan bazılarıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Volkan",
+      "ilişki": "yüksekliği",
+      "uç": "6891 m",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Monte_Pissis)",
+    "metin": "6.795 m yükseklikteki Monte Pissis (Arjantin) ve 6.891 m yükseklikte Ojos del Salado (Şili) bunlardan bazılarıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Volkan",
+      "ilişki": "bulunduğu yer",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Monte_Pissis)",
+    "metin": "Hatta Ojos del Salado, 1994 yılında yapılan bir ölçümde Monte Pissis dağı 6.882 m çıkınca, Güney Amerika'nın 3. en yüksek dağı konumuna gelmiştir.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Volkan",
+      "ilişki": "konum",
+      "uç": "Güney Amerika'nın 3. en yüksek dağı",
+      "uç_tipi": "Sıralama"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Monte_Pissis)",
+    "metin": "Hatta Ojos del Salado, 1994 yılında yapılan bir ölçümde Monte Pissis dağı 6.882 m çıkınca, Güney Amerika'nın 3. en yüksek dağı konumuna gelmiştir.",
+    "triple": {
+      "baş": "Monte Pissis",
+      "baş_tipi": "Volkan",
+      "ilişki": "yüksekliği",
+      "uç": "6882 m",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Atacama_%C3%87%C3%B6l%C3%BC)",
+    "metin": "Peru'nun güneyinde, Şili sınırında dünyanın en kurak çölü olan Atacama Çölü başlar.",
+    "triple": {
+      "baş": "Atacama Çölü",
+      "baş_tipi": "Bölge",
+      "ilişki": "başlar",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Atacama_%C3%87%C3%B6l%C3%BC)",
+    "metin": "Peru'nun güneyinde, Şili sınırında dünyanın en kurak çölü olan Atacama Çölü başlar.",
+    "triple": {
+      "baş": "Atacama Çölü",
+      "baş_tipi": "Bölge",
+      "ilişki": "sınırında",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Atacama_%C3%87%C3%B6l%C3%BC)",
+    "metin": "Peru'nun güneyinde, Şili sınırında dünyanın en kurak çölü olan Atacama Çölü başlar.",
+    "triple": {
+      "baş": "Atacama Çölü",
+      "baş_tipi": "Bölge",
+      "ilişki": "özelliği",
+      "uç": "dünyanın en kurak çölü",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Atacama_%C3%87%C3%B6l%C3%BC)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "yüksekliği",
+      "uç": "6893 metre",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Atacama_%C3%87%C3%B6l%C3%BC)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "özelliği",
+      "uç": "dünyanın en yüksek volkanı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Atacama_%C3%87%C3%B6l%C3%BC)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "en yüksek ikinci dağı",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Atacama_%C3%87%C3%B6l%C3%BC)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "sınırında",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Atacama_%C3%87%C3%B6l%C3%BC)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "sınırında",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Atacama_%C3%87%C3%B6l%C3%BC)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "konumu",
+      "uç": "Atacama Çölü",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Atacama_%C3%87%C3%B6l%C3%BC)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "özelliği",
+      "uç": "ender olarak karlarla kaplı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt)",
+    "metin": "Bu yarıklardan sürekli olarak yerin altından gelen hidrojen (H 2 ), metan (CH 4 ), hidrojen sülfür (H 2 S), karbondioksit (CO 2 ), hidrojen siyanür (HCN), formaldehit (HCHO), azot (N 2 ), kükürt dioksit (SO 2 ) gazları çıkmaktadır.",
+    "triple": {
+      "baş": "Yerin Altı",
+      "baş_tipi": "Kaynak",
+      "ilişki": "çıkarır",
+      "uç": "Hidrojen",
+      "uç_tipi": "Gaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt)",
+    "metin": "Bu yarıklardan sürekli olarak yerin altından gelen hidrojen (H 2 ), metan (CH 4 ), hidrojen sülfür (H 2 S), karbondioksit (CO 2 ), hidrojen siyanür (HCN), formaldehit (HCHO), azot (N 2 ), kükürt dioksit (SO 2 ) gazları çıkmaktadır.",
+    "triple": {
+      "baş": "Yerin Altı",
+      "baş_tipi": "Kaynak",
+      "ilişki": "çıkarır",
+      "uç": "Metan",
+      "uç_tipi": "Gaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt)",
+    "metin": "Bu yarıklardan sürekli olarak yerin altından gelen hidrojen (H 2 ), metan (CH 4 ), hidrojen sülfür (H 2 S), karbondioksit (CO 2 ), hidrojen siyanür (HCN), formaldehit (HCHO), azot (N 2 ), kükürt dioksit (SO 2 ) gazları çıkmaktadır.",
+    "triple": {
+      "baş": "Yerin Altı",
+      "baş_tipi": "Kaynak",
+      "ilişki": "çıkarır",
+      "uç": "Hidrojen Sülfür",
+      "uç_tipi": "Gaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt)",
+    "metin": "Bu yarıklardan sürekli olarak yerin altından gelen hidrojen (H 2 ), metan (CH 4 ), hidrojen sülfür (H 2 S), karbondioksit (CO 2 ), hidrojen siyanür (HCN), formaldehit (HCHO), azot (N 2 ), kükürt dioksit (SO 2 ) gazları çıkmaktadır.",
+    "triple": {
+      "baş": "Yerin Altı",
+      "baş_tipi": "Kaynak",
+      "ilişki": "çıkarır",
+      "uç": "Karbondioksit",
+      "uç_tipi": "Gaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt)",
+    "metin": "Bu yarıklardan sürekli olarak yerin altından gelen hidrojen (H 2 ), metan (CH 4 ), hidrojen sülfür (H 2 S), karbondioksit (CO 2 ), hidrojen siyanür (HCN), formaldehit (HCHO), azot (N 2 ), kükürt dioksit (SO 2 ) gazları çıkmaktadır.",
+    "triple": {
+      "baş": "Yerin Altı",
+      "baş_tipi": "Kaynak",
+      "ilişki": "çıkarır",
+      "uç": "Hidrojen Siyanür",
+      "uç_tipi": "Gaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt)",
+    "metin": "Bu yarıklardan sürekli olarak yerin altından gelen hidrojen (H 2 ), metan (CH 4 ), hidrojen sülfür (H 2 S), karbondioksit (CO 2 ), hidrojen siyanür (HCN), formaldehit (HCHO), azot (N 2 ), kükürt dioksit (SO 2 ) gazları çıkmaktadır.",
+    "triple": {
+      "baş": "Yerin Altı",
+      "baş_tipi": "Kaynak",
+      "ilişki": "çıkarır",
+      "uç": "Formaldehit",
+      "uç_tipi": "Gaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt)",
+    "metin": "Bu yarıklardan sürekli olarak yerin altından gelen hidrojen (H 2 ), metan (CH 4 ), hidrojen sülfür (H 2 S), karbondioksit (CO 2 ), hidrojen siyanür (HCN), formaldehit (HCHO), azot (N 2 ), kükürt dioksit (SO 2 ) gazları çıkmaktadır.",
+    "triple": {
+      "baş": "Yerin Altı",
+      "baş_tipi": "Kaynak",
+      "ilişki": "çıkarır",
+      "uç": "Azot",
+      "uç_tipi": "Gaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt)",
+    "metin": "Bu yarıklardan sürekli olarak yerin altından gelen hidrojen (H 2 ), metan (CH 4 ), hidrojen sülfür (H 2 S), karbondioksit (CO 2 ), hidrojen siyanür (HCN), formaldehit (HCHO), azot (N 2 ), kükürt dioksit (SO 2 ) gazları çıkmaktadır.",
+    "triple": {
+      "baş": "Yerin Altı",
+      "baş_tipi": "Kaynak",
+      "ilişki": "çıkarır",
+      "uç": "Kükürt Dioksit",
+      "uç_tipi": "Gaz"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt)",
+    "metin": "Bu şekilde 1937, 1956 ve 14 Kasım 1994'te su ve kükürt buharlarının da açığa çıktığı hareketlilikler tespit edilmiştir.",
+    "triple": {
+      "baş": "Hareketlilikler",
+      "baş_tipi": "Olay",
+      "ilişki": "açığa çıkarır",
+      "uç": "Su Buharı",
+      "uç_tipi": "Madde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/K%C3%BCk%C3%BCrt)",
+    "metin": "Bu şekilde 1937, 1956 ve 14 Kasım 1994'te su ve kükürt buharlarının da açığa çıktığı hareketlilikler tespit edilmiştir.",
+    "triple": {
+      "baş": "Hareketlilikler",
+      "baş_tipi": "Olay",
+      "ilişki": "açığa çıkarır",
+      "uç": "Kükürt Buharı",
+      "uç_tipi": "Madde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Andlar)",
+    "metin": "Deniz seviyesinden 6.267 metre yükseklikle Andlar 'daki bu zirve \"en yüksek\" olarak nitenlendirilmemektedir çünkü Chimborazo, Ekvatora'a çok yakındır ve Dünya ekvatorda şişkinleşir; Chimborazo 2.150 metre, Dünya'nın merkezine Everest'den daha uzaktır.",
+    "triple": {
+      "baş": "Chimborazo",
+      "baş_tipi": "Dağ",
+      "ilişki": "yüksekliği",
+      "uç": "6.267 metre",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Andlar)",
+    "metin": "Deniz seviyesinden 6.267 metre yükseklikle Andlar 'daki bu zirve \"en yüksek\" olarak nitenlendirilmemektedir çünkü Chimborazo, Ekvatora'a çok yakındır ve Dünya ekvatorda şişkinleşir; Chimborazo 2.150 metre, Dünya'nın merkezine Everest'den daha uzaktır.",
+    "triple": {
+      "baş": "Chimborazo",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunduğu yer",
+      "uç": "Andlar",
+      "uç_tipi": "Sıradağ"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Andlar)",
+    "metin": "Deniz seviyesinden 6.267 metre yükseklikle Andlar 'daki bu zirve \"en yüksek\" olarak nitenlendirilmemektedir çünkü Chimborazo, Ekvatora'a çok yakındır ve Dünya ekvatorda şişkinleşir; Chimborazo 2.150 metre, Dünya'nın merkezine Everest'den daha uzaktır.",
+    "triple": {
+      "baş": "Chimborazo",
+      "baş_tipi": "Dağ",
+      "ilişki": "nedenle nitenlendirilmemektedir",
+      "uç": "en yüksek",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Andlar)",
+    "metin": "Deniz seviyesinden 6.267 metre yükseklikle Andlar 'daki bu zirve \"en yüksek\" olarak nitenlendirilmemektedir çünkü Chimborazo, Ekvatora'a çok yakındır ve Dünya ekvatorda şişkinleşir; Chimborazo 2.150 metre, Dünya'nın merkezine Everest'den daha uzaktır.",
+    "triple": {
+      "baş": "Chimborazo",
+      "baş_tipi": "Dağ",
+      "ilişki": "yakın olduğu yer",
+      "uç": "Ekvator",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Andlar)",
+    "metin": "Deniz seviyesinden 6.267 metre yükseklikle Andlar 'daki bu zirve \"en yüksek\" olarak nitenlendirilmemektedir çünkü Chimborazo, Ekvatora'a çok yakındır ve Dünya ekvatorda şişkinleşir; Chimborazo 2.150 metre, Dünya'nın merkezine Everest'den daha uzaktır.",
+    "triple": {
+      "baş": "Dünya",
+      "baş_tipi": "Nesne",
+      "ilişki": "şişkinleştiği yer",
+      "uç": "Ekvator",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Andlar)",
+    "metin": "Deniz seviyesinden 6.267 metre yükseklikle Andlar 'daki bu zirve \"en yüksek\" olarak nitenlendirilmemektedir çünkü Chimborazo, Ekvatora'a çok yakındır ve Dünya ekvatorda şişkinleşir; Chimborazo 2.150 metre, Dünya'nın merkezine Everest'den daha uzaktır.",
+    "triple": {
+      "baş": "Chimborazo",
+      "baş_tipi": "Dağ",
+      "ilişki": "uzaklığı",
+      "uç": "2.150 metre",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Andlar)",
+    "metin": "Deniz seviyesinden 6.267 metre yükseklikle Andlar 'daki bu zirve \"en yüksek\" olarak nitenlendirilmemektedir çünkü Chimborazo, Ekvatora'a çok yakındır ve Dünya ekvatorda şişkinleşir; Chimborazo 2.150 metre, Dünya'nın merkezine Everest'den daha uzaktır.",
+    "triple": {
+      "baş": "Chimborazo",
+      "baş_tipi": "Dağ",
+      "ilişki": "uzaklığı",
+      "uç": "Everest",
+      "uç_tipi": "Dağ"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Andlar)",
+    "metin": "Andlar",
+    "triple": {
+      "baş": "Andlar",
+      "baş_tipi": "Sıradağ",
+      "ilişki": "içerdiği",
+      "uç": "zirve",
+      "uç_tipi": "Dağ"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Justyn_Wojsznis&action=edit&redlink=1)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında gösterTürkiye' deki konumuArjantin haritasında gösterTürkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Justyn Wojsznis",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Türkiye",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Justyn_Wojsznis&action=edit&redlink=1)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında gösterTürkiye' deki konumuArjantin haritasında gösterTürkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Justyn Wojsznis",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Justyn_Wojsznis&action=edit&redlink=1)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında gösterTürkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Justyn Wojsznis",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Justyn_Wojsznis&action=edit&redlink=1)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Justyn Wojsznis",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Justyn_Wojsznis&action=edit&redlink=1)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Jan Szczepanski",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Türkiye",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Justyn_Wojsznis&action=edit&redlink=1)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Jan Szczepanski",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Justyn_Wojsznis&action=edit&redlink=1)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Jan Szczepanski",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Justyn_Wojsznis&action=edit&redlink=1)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Jan Szczepanski",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Justyn_Wojsznis&action=edit&redlink=1)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "1937",
+      "baş_tipi": "Tarih",
+      "ilişki": "yılında",
+      "uç": "Justyn Wojsznis",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Justyn_Wojsznis&action=edit&redlink=1)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "1937",
+      "baş_tipi": "Tarih",
+      "ilişki": "yılında",
+      "uç": "Jan Szczepanski",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jan_Szczepanski)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında gösterTürkiye' deki konumuArjantin haritasında gösterTürkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Justyn Wojsznis",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Türkiye",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jan_Szczepanski)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında gösterTürkiye' deki konumuArjantin haritasında gösterTürkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Justyn Wojsznis",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jan_Szczepanski)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında gösterTürkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Justyn Wojsznis",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jan_Szczepanski)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Justyn Wojsznis",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jan_Szczepanski)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Jan Szczepanski",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Türkiye",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jan_Szczepanski)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Jan Szczepanski",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jan_Szczepanski)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Jan Szczepanski",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jan_Szczepanski)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "Jan Szczepanski",
+      "baş_tipi": "Kişi",
+      "ilişki": "konumu gösterildi",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jan_Szczepanski)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "1937",
+      "baş_tipi": "Tarih",
+      "ilişki": "yılında",
+      "uç": "Justyn Wojsznis",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Jan_Szczepanski)",
+    "metin": "1937 Justyn Wojsznis ve Jan Szczepanski Türkiye' deki konumuGüney Amerika haritasında göster Türkiye' deki konumuArjantin haritasında göster Türkiye' deki konumuŞili haritasında göster",
+    "triple": {
+      "baş": "1937",
+      "baş_tipi": "Tarih",
+      "ilişki": "yılında",
+      "uç": "Jan Szczepanski",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "kapsar",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "kapsar",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "kapsar",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "kapsar",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "kapsar",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "kapsar",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "kapsar",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "bulunur",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Krallık",
+      "ilişki": "genişler",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Krallık",
+      "ilişki": "genişler",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Krallık",
+      "ilişki": "genişler",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Krallık",
+      "ilişki": "genişler",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Krallık",
+      "ilişki": "genişler",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Krallık",
+      "ilişki": "genişler",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "yüksekliği",
+      "uç": "6893 metre",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "olarak bilinir",
+      "uç": "Dünyanın en yüksek volkanı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "olarak bilinir",
+      "uç": "Güney Amerika'nın en yüksek ikinci dağı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "sınırında",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "sınırında",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Arjantin)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunur",
+      "uç": "Atacama Çölü",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Kuru-kış subtropikal yayla iklimi ( Cwb ), çoğunlukla Orta Amerika , Güney Amerika , Afrika ve Asya'nın tropik bölgelerindeki yaylalarda veya subtropik bölgelerde bulunan bir iklim türüdür.",
+    "triple": {
+      "baş": "Kuru-kış subtropikal yayla iklimi",
+      "baş_tipi": "İklim Türü",
+      "ilişki": "bulunur",
+      "uç": "Orta Amerika",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Kuru-kış subtropikal yayla iklimi ( Cwb ), çoğunlukla Orta Amerika , Güney Amerika , Afrika ve Asya'nın tropik bölgelerindeki yaylalarda veya subtropik bölgelerde bulunan bir iklim türüdür.",
+    "triple": {
+      "baş": "Kuru-kış subtropikal yayla iklimi",
+      "baş_tipi": "İklim Türü",
+      "ilişki": "bulunur",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Kuru-kış subtropikal yayla iklimi ( Cwb ), çoğunlukla Orta Amerika , Güney Amerika , Afrika ve Asya'nın tropik bölgelerindeki yaylalarda veya subtropik bölgelerde bulunan bir iklim türüdür.",
+    "triple": {
+      "baş": "Kuru-kış subtropikal yayla iklimi",
+      "baş_tipi": "İklim Türü",
+      "ilişki": "bulunur",
+      "uç": "Afrika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Kuru-kış subtropikal yayla iklimi ( Cwb ), çoğunlukla Orta Amerika , Güney Amerika , Afrika ve Asya'nın tropik bölgelerindeki yaylalarda veya subtropik bölgelerde bulunan bir iklim türüdür.",
+    "triple": {
+      "baş": "Kuru-kış subtropikal yayla iklimi",
+      "baş_tipi": "İklim Türü",
+      "ilişki": "bulunur",
+      "uç": "Asya",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Asya",
+      "baş_tipi": "Kıta",
+      "ilişki": "kısmı dağlarla kaplıdır",
+      "uç": "54%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Kuzey Amerika",
+      "baş_tipi": "Kıta",
+      "ilişki": "kısmı dağlarla kaplıdır",
+      "uç": "36%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Avrupa",
+      "baş_tipi": "Kıta",
+      "ilişki": "kısmı dağlarla kaplıdır",
+      "uç": "25%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Güney Amerika",
+      "baş_tipi": "Kıta",
+      "ilişki": "kısmı dağlarla kaplıdır",
+      "uç": "22%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Avustralya",
+      "baş_tipi": "Kıta",
+      "ilişki": "kısmı dağlarla kaplıdır",
+      "uç": "17%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Asya 'nın %54'ü, Kuzey Amerika 'nın %36'sı, Avrupa 'nın %25'i, Güney Amerika 'nın %22'si, Avustralya 'nın %17'si ve Afrika 'nın %'3'ü dağlarla kaplıdır.",
+    "triple": {
+      "baş": "Afrika",
+      "baş_tipi": "Kıta",
+      "ilişki": "kısmı dağlarla kaplıdır",
+      "uç": "3%",
+      "uç_tipi": "Yüzde"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Avustralya ve Güney Amerika 'nın Antarktika 'dan ayrılmasıyla, dev kıta Gondvana 'nın son kalıntısı da tarihe karışır.",
+    "triple": {
+      "baş": "Avustralya",
+      "baş_tipi": "Kıta",
+      "ilişki": "ayrıldı",
+      "uç": "Antarktika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Avustralya ve Güney Amerika 'nın Antarktika 'dan ayrılmasıyla, dev kıta Gondvana 'nın son kalıntısı da tarihe karışır.",
+    "triple": {
+      "baş": "Güney Amerika",
+      "baş_tipi": "Kıta",
+      "ilişki": "ayrıldı",
+      "uç": "Antarktika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "başlar",
+      "uç": "Güney Amerika'nın batı kıyısı",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "sona erer",
+      "uç": "Güney Amerika'nın batı kıyısı",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "sona erer",
+      "uç": "Güney Amerika'nın batı kıyısı",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "And Ülkeleri olarak bilinir",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Peru , ( İspanyolca : Perúⓘ , Keçuvaca : Piruw , Aymara : Piruw ) ya da resmî adıyla Peru Cumhuriyeti ( İspanyolca República del Perúⓘ , Quechua : Piruw Mama Llaqta , Aymara : Piruw Suyu ) Güney Amerika 'nın batısında bir ülkedir .",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "resmi adı",
+      "uç": "Peru Cumhuriyeti",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Peru , ( İspanyolca : Perúⓘ , Keçuvaca : Piruw , Aymara : Piruw ) ya da resmî adıyla Peru Cumhuriyeti ( İspanyolca República del Perúⓘ , Quechua : Piruw Mama Llaqta , Aymara : Piruw Suyu ) Güney Amerika 'nın batısında bir ülkedir .",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "bulunur",
+      "uç": "Güney Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Peru , ( İspanyolca : Perúⓘ , Keçuvaca : Piruw , Aymara : Piruw ) ya da resmî adıyla Peru Cumhuriyeti ( İspanyolca República del Perúⓘ , Quechua : Piruw Mama Llaqta , Aymara : Piruw Suyu ) Güney Amerika 'nın batısında bir ülkedir .",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "konum",
+      "uç": "Batı",
+      "uç_tipi": "Yön"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "yüksekliği",
+      "uç": "6893 metre",
+      "uç_tipi": "Miktar"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "dünyanın en yüksek",
+      "uç": "Volkan",
+      "uç_tipi": "Coğrafi Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "Güney Amerika'nın en yüksek",
+      "uç": "İkinci Dağ",
+      "uç_tipi": "Sıralama"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "sınırında",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "sınırında",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "bulunur",
+      "uç": "Atacama Çölü",
+      "uç_tipi": "Coğrafi Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/G%C3%BCney_Amerika)",
+    "metin": "Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "karlarla kaplıdır",
+      "uç": "Ender",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "kuzey komşusu",
+      "uç": "And Dağları",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "kuzey komşusu",
+      "uç": "And Dağları",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "kuzey komşusu",
+      "uç": "And Dağları",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "kuzey komşusu",
+      "uç": "And Dağları",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "kuzey komşusu",
+      "uç": "And Dağları",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "kuzey komşusu",
+      "uç": "And Dağları",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "kuzey komşusu",
+      "uç": "And Dağları",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "başlangıç noktası",
+      "uç": "And Dağları",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "bitiş noktası",
+      "uç": "And Dağları",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "bitiş noktası",
+      "uç": "And Dağları",
+      "uç_tipi": "Coğrafi Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Venezuela",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Kolombiya",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Ekvador",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Arjantin",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Güney Amerika 'nın bütün batı kıyısı boyunca uzanır. Venezuela 'dan başlayıp Kolombiya , Ekvador , Peru , Bolivya üzerinden devam ederek Arjantin ve Şili 'nin Patagonya topraklarında sona erer. Bu yedi devlet aynı zamanda And Ülkeleri olarak da bilinirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "yer alır",
+      "uç": "And Ülkeleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "yer alır",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Patagonya ( İspanyolca : Patagonia ) Şili ve Arjantin 'in güneyindeki bölgedir.",
+    "triple": {
+      "baş": "Patagonya",
+      "baş_tipi": "Bölge",
+      "ilişki": "yer alır",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Kuzeyde Ekvador ve Kolombiya , doğuda Brezilya , güneydoğuda Bolivya , güneyde Şili ve batıda Büyük Okyanus 'la sınırlıdır.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "kuzey komşusu",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Kuzeyde Ekvador ve Kolombiya , doğuda Brezilya , güneydoğuda Bolivya , güneyde Şili ve batıda Büyük Okyanus 'la sınırlıdır.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "kuzey komşusu",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Kuzeyde Ekvador ve Kolombiya , doğuda Brezilya , güneydoğuda Bolivya , güneyde Şili ve batıda Büyük Okyanus 'la sınırlıdır.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "doğu komşusu",
+      "uç": "Brezilya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Kuzeyde Ekvador ve Kolombiya , doğuda Brezilya , güneydoğuda Bolivya , güneyde Şili ve batıda Büyük Okyanus 'la sınırlıdır.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "güneydoğu komşusu",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Kuzeyde Ekvador ve Kolombiya , doğuda Brezilya , güneydoğuda Bolivya , güneyde Şili ve batıda Büyük Okyanus 'la sınırlıdır.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "güney komşusu",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Kuzeyde Ekvador ve Kolombiya , doğuda Brezilya , güneydoğuda Bolivya , güneyde Şili ve batıda Büyük Okyanus 'la sınırlıdır.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "batı komşusu",
+      "uç": "Büyük Okyanus",
+      "uç_tipi": "Okyanus"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "oluştu",
+      "uç": "1200",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "genişledi",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "genişledi",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "genişledi",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "genişledi",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "genişledi",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "İnka Krallığı 1200 civarında oluşur ve 1532'ye kadar bugünkü Kolombiya , Ekvador , Peru, Bolivya , Arjantin ve Şili 'nin büyük kısmına genişler.",
+    "triple": {
+      "baş": "İnka Krallığı",
+      "baş_tipi": "Devlet",
+      "ilişki": "genişledi",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "1879 yılında Güherçile Savaşı patlak verir. Şili ve Bolivya bağımsızlıklarını ilan ettikleri zamandan beri Antofagasta üzerinde tartışma halindedirler.",
+    "triple": {
+      "baş": "Şili",
+      "baş_tipi": "Ülke",
+      "ilişki": "tartışma halinde",
+      "uç": "Antofagasta",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "1879 yılında Güherçile Savaşı patlak verir. Şili ve Bolivya bağımsızlıklarını ilan ettikleri zamandan beri Antofagasta üzerinde tartışma halindedirler.",
+    "triple": {
+      "baş": "Bolivya",
+      "baş_tipi": "Ülke",
+      "ilişki": "tartışma halinde",
+      "uç": "Antofagasta",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "1879 yılında Güherçile Savaşı patlak verir. Şili ve Bolivya bağımsızlıklarını ilan ettikleri zamandan beri Antofagasta üzerinde tartışma halindedirler.",
+    "triple": {
+      "baş": "Güherçile Savaşı",
+      "baş_tipi": "Savaş",
+      "ilişki": "tarih",
+      "uç": "1879",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Peru, kuzeyde Ekvador ve Kolombiya , doğuda Brezilya , güneydoğuda Bolivya , güneyde Şili ve batıda Büyük Okyanus ile sınırlı bir coğrafyada yer alır.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "kuzey komşusu",
+      "uç": "Ekvador",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Peru, kuzeyde Ekvador ve Kolombiya , doğuda Brezilya , güneydoğuda Bolivya , güneyde Şili ve batıda Büyük Okyanus ile sınırlı bir coğrafyada yer alır.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "kuzey komşusu",
+      "uç": "Kolombiya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Peru, kuzeyde Ekvador ve Kolombiya , doğuda Brezilya , güneydoğuda Bolivya , güneyde Şili ve batıda Büyük Okyanus ile sınırlı bir coğrafyada yer alır.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "doğu komşusu",
+      "uç": "Brezilya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Peru, kuzeyde Ekvador ve Kolombiya , doğuda Brezilya , güneydoğuda Bolivya , güneyde Şili ve batıda Büyük Okyanus ile sınırlı bir coğrafyada yer alır.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "güneydoğu komşusu",
+      "uç": "Bolivya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Peru, kuzeyde Ekvador ve Kolombiya , doğuda Brezilya , güneydoğuda Bolivya , güneyde Şili ve batıda Büyük Okyanus ile sınırlı bir coğrafyada yer alır.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "güney komşusu",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Peru, kuzeyde Ekvador ve Kolombiya , doğuda Brezilya , güneydoğuda Bolivya , güneyde Şili ve batıda Büyük Okyanus ile sınırlı bir coğrafyada yer alır.",
+    "triple": {
+      "baş": "Peru",
+      "baş_tipi": "Ülke",
+      "ilişki": "batı komşusu",
+      "uç": "Büyük Okyanus",
+      "uç_tipi": "Okyanus"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Peru'nun güneyinde, Şili sınırında dünyanın en kurak çölü olan Atacama Çölü başlar.",
+    "triple": {
+      "baş": "Atacama Çölü",
+      "baş_tipi": "Çöl",
+      "ilişki": "yer alır",
+      "uç": "Peru",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Peru'nun güneyinde, Şili sınırında dünyanın en kurak çölü olan Atacama Çölü başlar.",
+    "triple": {
+      "baş": "Atacama Çölü",
+      "baş_tipi": "Çöl",
+      "ilişki": "yer alır",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Peru'nun güneyinde, Şili sınırında dünyanın en kurak çölü olan Atacama Çölü başlar.",
+    "triple": {
+      "baş": "Atacama Çölü",
+      "baş_tipi": "Çöl",
+      "ilişki": "özellik",
+      "uç": "en kurak çöl",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır. Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "yükseklik",
+      "uç": "6893 metre",
+      "uç_tipi": "Ölçü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır. Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "özellik",
+      "uç": "dünyanın en yüksek volkanı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır. Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "özellik",
+      "uç": "Güney Amerika'nın en yüksek ikinci dağı",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır. Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "yer alır",
+      "uç": "Şili",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır. Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "yer alır",
+      "uç": "Arjantin",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C5%9Eili)",
+    "metin": "Ojos del Salado , 6893 metre yüksekliğiyle dünyanın en yüksek volkanı ve Güney Amerika 'nın en yüksek ikinci dağıdır. Şili ve Arjantin sınırında olan Ojos del Salado, Atacama Çölü 'ndeki konumu sebebiyle ender olarak karlarla kaplıdır.",
+    "triple": {
+      "baş": "Ojos del Salado",
+      "baş_tipi": "Dağ",
+      "ilişki": "yer alır",
+      "uç": "Atacama Çölü",
+      "uç_tipi": "Çöl"
+    }
+  }
+]

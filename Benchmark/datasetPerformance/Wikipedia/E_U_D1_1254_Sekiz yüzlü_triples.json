@@ -1,0 +1,54 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/D%C3%BCzlem)",
+    "metin": "Geometride , sekiz yüzlü ( oktahedral ), sekiz düzlem parçasıyla çevrelenmiş cisimdir.",
+    "triple": {
+      "baş": "Sekiz Yüzlü",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "çevrelenmiş",
+      "uç": "Sekiz Düzlem Parçası",
+      "uç_tipi": "Geometrik Nesne"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C3%9C%C3%A7_boyut)",
+    "metin": "Sekizyüzlüler, üç boyutlu bir görünüme sahiptir.",
+    "triple": {
+      "baş": "Sekizyüzlüler",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "sahiptir",
+      "uç": "üç boyutlu görünüm",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Geometri)",
+    "metin": "Geometride , sekiz yüzlü ( oktahedral ), sekiz düzlem parçasıyla çevrelenmiş cisimdir.",
+    "triple": {
+      "baş": "Sekiz yüzlü",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "çevrelenmiş",
+      "uç": "sekiz düzlem parçası",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Geometri)",
+    "metin": "Geometride , sekiz yüzlü ( oktahedral ), sekiz düzlem parçasıyla çevrelenmiş cisimdir.",
+    "triple": {
+      "baş": "Sekiz yüzlü",
+      "baş_tipi": "Geometrik Şekil",
+      "ilişki": "eşanlamlı",
+      "uç": "oktahedral",
+      "uç_tipi": "Özellik"
+    }
+  }
+]

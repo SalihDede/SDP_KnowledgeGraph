@@ -1,0 +1,3811 @@
+[
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_salonu)",
+    "metin": "Üretilen bu filmler, sinema salonu adı verilen özel binalarda gösterilmektedir.",
+    "triple": {
+      "baş": "Film",
+      "baş_tipi": "Kavram",
+      "ilişki": "gösterilir",
+      "uç": "Sinema Salonu",
+      "uç_tipi": "Bina"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_salonu)",
+    "metin": "Üretilen bu filmler, sinema salonu adı verilen özel binalarda gösterilmektedir.",
+    "triple": {
+      "baş": "Sinema Salonu",
+      "baş_tipi": "Bina",
+      "ilişki": "türü",
+      "uç": "Özel Bina",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Film_kuram%C4%B1&action=edit&redlink=1)",
+    "metin": "Bu işlemlerin tamamına ise sinema endüstrisi adı verilmektedir.",
+    "triple": {
+      "baş": "Sinema Endüstrisi",
+      "baş_tipi": "Endeks",
+      "ilişki": "tanımlanır",
+      "uç": "Sinema Endüstrisi",
+      "uç_tipi": "Endeks"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Film_kuram%C4%B1&action=edit&redlink=1)",
+    "metin": "İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Ricciotto Canudo",
+      "baş_tipi": "Kişi",
+      "ilişki": "tanımladı",
+      "uç": "Sinema",
+      "uç_tipi": "Sanat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Film_kuram%C4%B1&action=edit&redlink=1)",
+    "metin": "İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Sanat",
+      "ilişki": "olarak tanımlandı",
+      "uç": "Yedinci Sanat",
+      "uç_tipi": "Sanat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Film_kuram%C4%B1&action=edit&redlink=1)",
+    "metin": "İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Sanat",
+      "ilişki": "çekildi",
+      "uç": "1895",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kurgu_(sinema))",
+    "metin": "Sinema sanatı genel olarak diyalog, kurgu , sahnenin düzeni, ışık, ses ve dekor gibi şeyleri yapılan filme uygun şekilde dizayn edilir.",
+    "triple": {
+      "baş": "Sinema sanatı",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "içerir",
+      "uç": "Diyalog",
+      "uç_tipi": "Sinema Unsurları"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kurgu_(sinema))",
+    "metin": "Sinema sanatı genel olarak diyalog, kurgu , sahnenin düzeni, ışık, ses ve dekor gibi şeyleri yapılan filme uygun şekilde dizayn edilir.",
+    "triple": {
+      "baş": "Sinema sanatı",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "içerir",
+      "uç": "Kurgu",
+      "uç_tipi": "Sinema Unsurları"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kurgu_(sinema))",
+    "metin": "Sinema sanatı genel olarak diyalog, kurgu , sahnenin düzeni, ışık, ses ve dekor gibi şeyleri yapılan filme uygun şekilde dizayn edilir.",
+    "triple": {
+      "baş": "Sinema sanatı",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "içerir",
+      "uç": "Sahnenin düzeni",
+      "uç_tipi": "Sinema Unsurları"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kurgu_(sinema))",
+    "metin": "Sinema sanatı genel olarak diyalog, kurgu , sahnenin düzeni, ışık, ses ve dekor gibi şeyleri yapılan filme uygun şekilde dizayn edilir.",
+    "triple": {
+      "baş": "Sinema sanatı",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "içerir",
+      "uç": "Işık",
+      "uç_tipi": "Sinema Unsurları"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kurgu_(sinema))",
+    "metin": "Sinema sanatı genel olarak diyalog, kurgu , sahnenin düzeni, ışık, ses ve dekor gibi şeyleri yapılan filme uygun şekilde dizayn edilir.",
+    "triple": {
+      "baş": "Sinema sanatı",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "içerir",
+      "uç": "Ses",
+      "uç_tipi": "Sinema Unsurları"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kurgu_(sinema))",
+    "metin": "Sinema sanatı genel olarak diyalog, kurgu , sahnenin düzeni, ışık, ses ve dekor gibi şeyleri yapılan filme uygun şekilde dizayn edilir.",
+    "triple": {
+      "baş": "Sinema sanatı",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "içerir",
+      "uç": "Dekor",
+      "uç_tipi": "Sinema Unsurları"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Kurgu_(sinema))",
+    "metin": "Sinema sanatı genel olarak diyalog, kurgu , sahnenin düzeni, ışık, ses ve dekor gibi şeyleri yapılan filme uygun şekilde dizayn edilir.",
+    "triple": {
+      "baş": "Sinema sanatı",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "dizayn edilir",
+      "uç": "Film",
+      "uç_tipi": "Sanat Eseri"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film_kameras%C4%B1)",
+    "metin": "Sinema veya Sinema sanatı , kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işidir.",
+    "triple": {
+      "baş": "Sinema sanatı",
+      "baş_tipi": "Sanat",
+      "ilişki": "tanım",
+      "uç": "kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işi",
+      "uç_tipi": "Tanım"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film_kameras%C4%B1)",
+    "metin": "Sinema veya Sinema sanatı , kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işidir.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Sanat",
+      "ilişki": "tanım",
+      "uç": "kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işi",
+      "uç_tipi": "Tanım"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film_kameras%C4%B1)",
+    "metin": "Sinema veya Sinema sanatı , kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işidir.",
+    "triple": {
+      "baş": "Sinema sanatı",
+      "baş_tipi": "Sanat",
+      "ilişki": "kullanır",
+      "uç": "kamera",
+      "uç_tipi": "Araç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film_kameras%C4%B1)",
+    "metin": "Sinema veya Sinema sanatı , kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işidir.",
+    "triple": {
+      "baş": "Sinema sanatı",
+      "baş_tipi": "Sanat",
+      "ilişki": "kullanır",
+      "uç": "ışık",
+      "uç_tipi": "Araç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film_kameras%C4%B1)",
+    "metin": "Sinema veya Sinema sanatı , kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işidir.",
+    "triple": {
+      "baş": "Sinema sanatı",
+      "baş_tipi": "Sanat",
+      "ilişki": "kullanır",
+      "uç": "perde",
+      "uç_tipi": "Nesne"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film_kameras%C4%B1)",
+    "metin": "Sinema veya Sinema sanatı , kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işidir.",
+    "triple": {
+      "baş": "Sinema sanatı",
+      "baş_tipi": "Sanat",
+      "ilişki": "elde eder",
+      "uç": "film",
+      "uç_tipi": "Ürün"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film_kameras%C4%B1)",
+    "metin": "Sinema veya Sinema sanatı , kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işidir.",
+    "triple": {
+      "baş": "film",
+      "baş_tipi": "Ürün",
+      "ilişki": "özelliği",
+      "uç": "sesli veya sessiz hareketli videolar",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_end%C3%BCstrisi)",
+    "metin": "Bu işlemlerin tamamına ise sinema endüstrisi adı verilmektedir.",
+    "triple": {
+      "baş": "Sinema Endüstrisi",
+      "baş_tipi": "Endeks",
+      "ilişki": "tanımlanır",
+      "uç": "Sinema Endüstrisi",
+      "uç_tipi": "Endeks"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_end%C3%BCstrisi)",
+    "metin": "İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Ricciotto Canudo",
+      "baş_tipi": "Kişi",
+      "ilişki": "tanımladı",
+      "uç": "Sinema",
+      "uç_tipi": "Sanat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_end%C3%BCstrisi)",
+    "metin": "İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Sanat",
+      "ilişki": "olarak tanımlandı",
+      "uç": "Yedinci Sanat",
+      "uç_tipi": "Sanat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Sinema_end%C3%BCstrisi)",
+    "metin": "İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Sanat",
+      "ilişki": "çekildi",
+      "uç": "1895",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Ricciotto_Canudo&action=edit&redlink=1)",
+    "metin": "Aşağıdaki on maddenin ilk yedisi 1923'te Yedinci Sanat Manifestosu'nu yazan film kuramcısı Ricciotto Canudo tarafından popülerleştirilmiştir:",
+    "triple": {
+      "baş": "Ricciotto Canudo",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazdı",
+      "uç": "Yedinci Sanat Manifestosu",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Ricciotto_Canudo&action=edit&redlink=1)",
+    "metin": "Aşağıdaki on maddenin ilk yedisi 1923'te Yedinci Sanat Manifestosu'nu yazan film kuramcısı Ricciotto Canudo tarafından popülerleştirilmiştir:",
+    "triple": {
+      "baş": "Ricciotto Canudo",
+      "baş_tipi": "Kişi",
+      "ilişki": "popülerleştirdi",
+      "uç": "Yedinci Sanat Manifestosu'nun ilk yedi maddesi",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Ricciotto_Canudo&action=edit&redlink=1)",
+    "metin": "Aşağıdaki on maddenin ilk yedisi 1923'te Yedinci Sanat Manifestosu'nu yazan film kuramcısı Ricciotto Canudo tarafından popülerleştirilmiştir:",
+    "triple": {
+      "baş": "Yedinci Sanat Manifestosu",
+      "baş_tipi": "Eser",
+      "ilişki": "yazıldı",
+      "uç": "Ricciotto Canudo",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Ricciotto_Canudo&action=edit&redlink=1)",
+    "metin": "Aşağıdaki on maddenin ilk yedisi 1923'te Yedinci Sanat Manifestosu'nu yazan film kuramcısı Ricciotto Canudo tarafından popülerleştirilmiştir:",
+    "triple": {
+      "baş": "Yedinci Sanat Manifestosu",
+      "baş_tipi": "Eser",
+      "ilişki": "popülerleştiren",
+      "uç": "Ricciotto Canudo",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Ricciotto_Canudo&action=edit&redlink=1)",
+    "metin": "Aşağıdaki on maddenin ilk yedisi 1923'te Yedinci Sanat Manifestosu'nu yazan film kuramcısı Ricciotto Canudo tarafından popülerleştirilmiştir:",
+    "triple": {
+      "baş": "Yedinci Sanat Manifestosu",
+      "baş_tipi": "Eser",
+      "ilişki": "yayınlanma yılı",
+      "uç": "1923",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Ricciotto_Canudo&action=edit&redlink=1)",
+    "metin": "Bu işlemlerin tamamına ise sinema endüstrisi adı verilmektedir.",
+    "triple": {
+      "baş": "Sinema endüstrisi",
+      "baş_tipi": "Endüstri",
+      "ilişki": "tanımlanır",
+      "uç": "Bu işlemlerin tamamı",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Ricciotto_Canudo&action=edit&redlink=1)",
+    "metin": "İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Ricciotto Canudo",
+      "baş_tipi": "Kişi",
+      "ilişki": "tanımladı",
+      "uç": "Sinema",
+      "uç_tipi": "Sanat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Ricciotto_Canudo&action=edit&redlink=1)",
+    "metin": "İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Sanat",
+      "ilişki": "olarak tanımlandı",
+      "uç": "Yedinci sanat",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Ricciotto_Canudo&action=edit&redlink=1)",
+    "metin": "İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Ricciotto Canudo",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Ricciotto_Canudo&action=edit&redlink=1)",
+    "metin": "İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Ricciotto Canudo",
+      "baş_tipi": "Kişi",
+      "ilişki": "uyruk",
+      "uç": "Fransa",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/w/index.php?title=Ricciotto_Canudo&action=edit&redlink=1)",
+    "metin": "İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "İlk sinema",
+      "baş_tipi": "Film",
+      "ilişki": "çekildi",
+      "uç": "1895",
+      "uç_tipi": "Tarih"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "Sonrasında, yapılan çalışmanın film çıkışları alınır.",
+    "triple": {
+      "baş": "Çalışma",
+      "baş_tipi": "Soyut Kavram",
+      "ilişki": "üretir",
+      "uç": "Film Çıkışları",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "1. Mimarlık , 2. Heykel , 3. Resim , 4. Müzik , 5. Edebiyat ( şiir ve nesir ), 6. Gösteri sanatları ( dans ve tiyatro ), 7. Sinema ve film , 8. Medya sanatları ( radyo , televizyon ve fotoğraf ), 9. Çizgi roman , 10. Video oyunları veya genel olarak elektronik sanat ve dijital sanat formları.",
+    "triple": {
+      "baş": "Mimarlık",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "bir türüdür",
+      "uç": "Sanat",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "1. Mimarlık , 2. Heykel , 3. Resim , 4. Müzik , 5. Edebiyat ( şiir ve nesir ), 6. Gösteri sanatları ( dans ve tiyatro ), 7. Sinema ve film , 8. Medya sanatları ( radyo , televizyon ve fotoğraf ), 9. Çizgi roman , 10. Video oyunları veya genel olarak elektronik sanat ve dijital sanat formları.",
+    "triple": {
+      "baş": "Heykel",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "bir türüdür",
+      "uç": "Sanat",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "1. Mimarlık , 2. Heykel , 3. Resim , 4. Müzik , 5. Edebiyat ( şiir ve nesir ), 6. Gösteri sanatları ( dans ve tiyatro ), 7. Sinema ve film , 8. Medya sanatları ( radyo , televizyon ve fotoğraf ), 9. Çizgi roman , 10. Video oyunları veya genel olarak elektronik sanat ve dijital sanat formları.",
+    "triple": {
+      "baş": "Resim",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "bir türüdür",
+      "uç": "Sanat",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "1. Mimarlık , 2. Heykel , 3. Resim , 4. Müzik , 5. Edebiyat ( şiir ve nesir ), 6. Gösteri sanatları ( dans ve tiyatro ), 7. Sinema ve film , 8. Medya sanatları ( radyo , televizyon ve fotoğraf ), 9. Çizgi roman , 10. Video oyunları veya genel olarak elektronik sanat ve dijital sanat formları.",
+    "triple": {
+      "baş": "Müzik",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "bir türüdür",
+      "uç": "Sanat",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "1. Mimarlık , 2. Heykel , 3. Resim , 4. Müzik , 5. Edebiyat ( şiir ve nesir ), 6. Gösteri sanatları ( dans ve tiyatro ), 7. Sinema ve film , 8. Medya sanatları ( radyo , televizyon ve fotoğraf ), 9. Çizgi roman , 10. Video oyunları veya genel olarak elektronik sanat ve dijital sanat formları.",
+    "triple": {
+      "baş": "Edebiyat",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "bir türüdür",
+      "uç": "Sanat",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "1. Mimarlık , 2. Heykel , 3. Resim , 4. Müzik , 5. Edebiyat ( şiir ve nesir ), 6. Gösteri sanatları ( dans ve tiyatro ), 7. Sinema ve film , 8. Medya sanatları ( radyo , televizyon ve fotoğraf ), 9. Çizgi roman , 10. Video oyunları veya genel olarak elektronik sanat ve dijital sanat formları.",
+    "triple": {
+      "baş": "Gösteri sanatları",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "bir türüdür",
+      "uç": "Sanat",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "1. Mimarlık , 2. Heykel , 3. Resim , 4. Müzik , 5. Edebiyat ( şiir ve nesir ), 6. Gösteri sanatları ( dans ve tiyatro ), 7. Sinema ve film , 8. Medya sanatları ( radyo , televizyon ve fotoğraf ), 9. Çizgi roman , 10. Video oyunları veya genel olarak elektronik sanat ve dijital sanat formları.",
+    "triple": {
+      "baş": "Sinema ve film",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "bir türüdür",
+      "uç": "Sanat",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "1. Mimarlık , 2. Heykel , 3. Resim , 4. Müzik , 5. Edebiyat ( şiir ve nesir ), 6. Gösteri sanatları ( dans ve tiyatro ), 7. Sinema ve film , 8. Medya sanatları ( radyo , televizyon ve fotoğraf ), 9. Çizgi roman , 10. Video oyunları veya genel olarak elektronik sanat ve dijital sanat formları.",
+    "triple": {
+      "baş": "Medya sanatları",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "bir türüdür",
+      "uç": "Sanat",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "1. Mimarlık , 2. Heykel , 3. Resim , 4. Müzik , 5. Edebiyat ( şiir ve nesir ), 6. Gösteri sanatları ( dans ve tiyatro ), 7. Sinema ve film , 8. Medya sanatları ( radyo , televizyon ve fotoğraf ), 9. Çizgi roman , 10. Video oyunları veya genel olarak elektronik sanat ve dijital sanat formları.",
+    "triple": {
+      "baş": "Çizgi roman",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "bir türüdür",
+      "uç": "Sanat",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "1. Mimarlık , 2. Heykel , 3. Resim , 4. Müzik , 5. Edebiyat ( şiir ve nesir ), 6. Gösteri sanatları ( dans ve tiyatro ), 7. Sinema ve film , 8. Medya sanatları ( radyo , televizyon ve fotoğraf ), 9. Çizgi roman , 10. Video oyunları veya genel olarak elektronik sanat ve dijital sanat formları.",
+    "triple": {
+      "baş": "Video oyunları",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "bir türüdür",
+      "uç": "Sanat",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "1. Mimarlık , 2. Heykel , 3. Resim , 4. Müzik , 5. Edebiyat ( şiir ve nesir ), 6. Gösteri sanatları ( dans ve tiyatro ), 7. Sinema ve film , 8. Medya sanatları ( radyo , televizyon ve fotoğraf ), 9. Çizgi roman , 10. Video oyunları veya genel olarak elektronik sanat ve dijital sanat formları.",
+    "triple": {
+      "baş": "Elektronik sanat",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "bir türüdür",
+      "uç": "Sanat",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "1. Mimarlık , 2. Heykel , 3. Resim , 4. Müzik , 5. Edebiyat ( şiir ve nesir ), 6. Gösteri sanatları ( dans ve tiyatro ), 7. Sinema ve film , 8. Medya sanatları ( radyo , televizyon ve fotoğraf ), 9. Çizgi roman , 10. Video oyunları veya genel olarak elektronik sanat ve dijital sanat formları.",
+    "triple": {
+      "baş": "Dijital sanat",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "bir türüdür",
+      "uç": "Sanat",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "Akademi Ödülleri veya popüler adıyla Oscar ödülleri , film endüstrisindeki sanatsal ve teknik başarılara verilen ödüllerdir.",
+    "triple": {
+      "baş": "Akademi Ödülleri",
+      "baş_tipi": "Ödül",
+      "ilişki": "verilir",
+      "uç": "Sanatsal ve teknik başarılar",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "Akademi Ödülleri veya popüler adıyla Oscar ödülleri , film endüstrisindeki sanatsal ve teknik başarılara verilen ödüllerdir.",
+    "triple": {
+      "baş": "Oscar ödülleri",
+      "baş_tipi": "Ödül",
+      "ilişki": "verilir",
+      "uç": "Sanatsal ve teknik başarılar",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "Akademi Ödülleri veya popüler adıyla Oscar ödülleri , film endüstrisindeki sanatsal ve teknik başarılara verilen ödüllerdir.",
+    "triple": {
+      "baş": "Akademi Ödülleri",
+      "baş_tipi": "Ödül",
+      "ilişki": "film endüstrisindeki",
+      "uç": "Sanatsal ve teknik başarılar",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "Akademi Ödülleri veya popüler adıyla Oscar ödülleri , film endüstrisindeki sanatsal ve teknik başarılara verilen ödüllerdir.",
+    "triple": {
+      "baş": "Oscar ödülleri",
+      "baş_tipi": "Ödül",
+      "ilişki": "film endüstrisindeki",
+      "uç": "Sanatsal ve teknik başarılar",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "Sinema veya Sinema sanatı , kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işidir.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "tanımı",
+      "uç": "Kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işi",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Film)",
+    "metin": "Sinema veya Sinema sanatı , kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işidir.",
+    "triple": {
+      "baş": "Sinema sanatı",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "tanımı",
+      "uç": "Kamera aracılığı ile elde edilmiş görüntülerin bir ışık aracılığı ile beyaz renkte bir perdeye yansıtılarak film adı verilen sesli veya sessiz hareketli videolar elde edilmesi işi",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Pierre Gassendi ( Fransızca telaffuz: [pjɛʁ gasɛ̃di] ; ayrıca Pierre Gassend , Petrus Gassendi , Petrus Gassendus ; 22 Ocak 1592 - 24 Ekim 1655), Fransız filozof, astronom matematikçi ve Katolik rahiptir.",
+    "triple": {
+      "baş": "Pierre Gassendi",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "filozof",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Pierre Gassendi ( Fransızca telaffuz: [pjɛʁ gasɛ̃di] ; ayrıca Pierre Gassend , Petrus Gassendi , Petrus Gassendus ; 22 Ocak 1592 - 24 Ekim 1655), Fransız filozof, astronom matematikçi ve Katolik rahiptir.",
+    "triple": {
+      "baş": "Pierre Gassendi",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "astronom",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Pierre Gassendi ( Fransızca telaffuz: [pjɛʁ gasɛ̃di] ; ayrıca Pierre Gassend , Petrus Gassendi , Petrus Gassendus ; 22 Ocak 1592 - 24 Ekim 1655), Fransız filozof, astronom matematikçi ve Katolik rahiptir.",
+    "triple": {
+      "baş": "Pierre Gassendi",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "matematikçi",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Pierre Gassendi ( Fransızca telaffuz: [pjɛʁ gasɛ̃di] ; ayrıca Pierre Gassend , Petrus Gassendi , Petrus Gassendus ; 22 Ocak 1592 - 24 Ekim 1655), Fransız filozof, astronom matematikçi ve Katolik rahiptir.",
+    "triple": {
+      "baş": "Pierre Gassendi",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Katolik rahip",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Devrim liderleri, Fransız liberal düşünürlerinin yazıları ve klasik cumhuriyetlerin tarihi konusunda iyi bilgi sahibiydiler.",
+    "triple": {
+      "baş": "Devrim liderleri",
+      "baş_tipi": "Grup",
+      "ilişki": "bilgi sahibi",
+      "uç": "Fransız liberal düşünürleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "John Adams , tarih boyunca cumhuriyetler üzerine bir kitap yazmıştı.",
+    "triple": {
+      "baş": "John Adams",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazdı",
+      "uç": "tarih boyunca cumhuriyetler üzerine kitap",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Ancak 19. yüzyılda , Fransız hükûmetinin balık üretimini başlatmasıyla yeniden gündeme geldi.",
+    "triple": {
+      "baş": "Fransız hükûmeti",
+      "baş_tipi": "Kurum",
+      "ilişki": "başlattı",
+      "uç": "balık üretimi",
+      "uç_tipi": "Etkinlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Papanın önderliğindeki Kutsal Birlik, İspanya'nın yardımıyla Fransız ordusunu ve Floransalı cumhuriyet taraftarlarını destekleyerek ve ayaklanmalara son vererek Mediciler'in tekrar iktidara gelmesinde büyük rol oynamıştır.",
+    "triple": {
+      "baş": "Kutsal Birlik",
+      "baş_tipi": "Organizasyon",
+      "ilişki": "destekledi",
+      "uç": "Fransız ordusu",
+      "uç_tipi": "Askeri Birlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Kimisinde Arap , kimisinde Fransız dilbilgisi yöntemine uyularak yazılan, Osmanlıcanın yapısını anlatan eserler şunlardır:",
+    "triple": {
+      "baş": "Osmanlıca",
+      "baş_tipi": "Dil",
+      "ilişki": "yapısı anlatıldı",
+      "uç": "eserler",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "François Rabelais (d. 1483 ile 1494 yılları arasında, Chinon , Fransa - ö. 9 Nisan 1553, Paris ), Fransız yazar, doktor, Rönesans düşünürü, keşiş ve Antik Grekçe bilgini.",
+    "triple": {
+      "baş": "François Rabelais",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "yazar",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "François Rabelais (d. 1483 ile 1494 yılları arasında, Chinon , Fransa - ö. 9 Nisan 1553, Paris ), Fransız yazar, doktor, Rönesans düşünürü, keşiş ve Antik Grekçe bilgini.",
+    "triple": {
+      "baş": "François Rabelais",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "doktor",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "François Rabelais (d. 1483 ile 1494 yılları arasında, Chinon , Fransa - ö. 9 Nisan 1553, Paris ), Fransız yazar, doktor, Rönesans düşünürü, keşiş ve Antik Grekçe bilgini.",
+    "triple": {
+      "baş": "François Rabelais",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Rönesans düşünürü",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "François Rabelais (d. 1483 ile 1494 yılları arasında, Chinon , Fransa - ö. 9 Nisan 1553, Paris ), Fransız yazar, doktor, Rönesans düşünürü, keşiş ve Antik Grekçe bilgini.",
+    "triple": {
+      "baş": "François Rabelais",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "keşiş",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "François Rabelais (d. 1483 ile 1494 yılları arasında, Chinon , Fransa - ö. 9 Nisan 1553, Paris ), Fransız yazar, doktor, Rönesans düşünürü, keşiş ve Antik Grekçe bilgini.",
+    "triple": {
+      "baş": "François Rabelais",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Antik Grekçe bilgini",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Bundan sonra Haçlı Ordusu'na katılacak daha profesyonel Güney İtalya Normanları, Lorraineliler , Fransız şövalyelerden oluşan büyük bir ordu 1097'de Konstantinopolis önlerine geldi.",
+    "triple": {
+      "baş": "Fransız şövalyeler",
+      "baş_tipi": "Grup",
+      "ilişki": "oluşturdu",
+      "uç": "büyük ordu",
+      "uç_tipi": "Askeri Birlik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "19. yüzyılın ilk yıllarında İtalya , Napolyon Bonapart tarafından işgal edilerek Fransız etkisi altına girdi.",
+    "triple": {
+      "baş": "İtalya",
+      "baş_tipi": "Ülke",
+      "ilişki": "etki altına girdi",
+      "uç": "Fransız etkisi",
+      "uç_tipi": "Etki"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Viyana Kongresi İtalya'nın, Fransız işgalinden önce yöneten hanedanlara geri verilmesini ön görüyordu.",
+    "triple": {
+      "baş": "Viyana Kongresi",
+      "baş_tipi": "Organizasyon",
+      "ilişki": "öngördü",
+      "uç": "İtalya'nın hanedanlara geri verilmesi",
+      "uç_tipi": "Politika"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "19. yüzyılda kent Fransız , İngiliz , Hollandalı ve İtalyan tüccarların gözdesidir.",
+    "triple": {
+      "baş": "kent",
+      "baş_tipi": "Yer",
+      "ilişki": "gözde",
+      "uç": "Fransız tüccarlar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "19. yüzyılda kent Fransız , İngiliz , Hollandalı ve İtalyan tüccarların gözdesidir.",
+    "triple": {
+      "baş": "kent",
+      "baş_tipi": "Yer",
+      "ilişki": "gözde",
+      "uç": "İngiliz tüccarlar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "19. yüzyılda kent Fransız , İngiliz , Hollandalı ve İtalyan tüccarların gözdesidir.",
+    "triple": {
+      "baş": "kent",
+      "baş_tipi": "Yer",
+      "ilişki": "gözde",
+      "uç": "Hollandalı tüccarlar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "19. yüzyılda kent Fransız , İngiliz , Hollandalı ve İtalyan tüccarların gözdesidir.",
+    "triple": {
+      "baş": "kent",
+      "baş_tipi": "Yer",
+      "ilişki": "gözde",
+      "uç": "İtalyan tüccarlar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Örneğin 1860 yılında Beyrut 'tan Şam 'a kadar olan kara yolu, bir Fransız şirket tarafından yapılmıştır.",
+    "triple": {
+      "baş": "kara yolu",
+      "baş_tipi": "Yapı",
+      "ilişki": "yapıldı",
+      "uç": "Fransız şirket",
+      "uç_tipi": "Kurum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Louisiana eyaletinde ise Fransızca yaygındır; çünkü Fransız sömürgeleri burada kurulmuştur.",
+    "triple": {
+      "baş": "Fransızca",
+      "baş_tipi": "Dil",
+      "ilişki": "yaygın",
+      "uç": "Louisiana eyaleti",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Louisiana eyaletinde ise Fransızca yaygındır; çünkü Fransız sömürgeleri burada kurulmuştur.",
+    "triple": {
+      "baş": "Fransız sömürgeleri",
+      "baş_tipi": "Yer",
+      "ilişki": "kuruldu",
+      "uç": "Louisiana eyaleti",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Rubrucklu William , bir Flemenk - Fransız misyoner ve Papalık elçisi olarak 1254'te Karakurum'a vardı.",
+    "triple": {
+      "baş": "Rubrucklu William",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "misyoner",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Rubrucklu William , bir Flemenk - Fransız misyoner ve Papalık elçisi olarak 1254'te Karakurum'a vardı.",
+    "triple": {
+      "baş": "Rubrucklu William",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Papalık elçisi",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Napolyon Bonapart ( Fransızca : Napoléon Bonaparte ; İtalyanca : Napoleone Bonaparte ) veya I. Napolyon kısaca Napolyon (15 Ağustos 1769, Ajaccio - 5 Mayıs 1821), Fransız asker , politikacı ve 1804-14 arası (ve 1815'te kısa süreliğine) Fransa imparatoru .",
+    "triple": {
+      "baş": "Napolyon Bonapart",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "asker",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Napolyon Bonapart ( Fransızca : Napoléon Bonaparte ; İtalyanca : Napoleone Bonaparte ) veya I. Napolyon kısaca Napolyon (15 Ağustos 1769, Ajaccio - 5 Mayıs 1821), Fransız asker , politikacı ve 1804-14 arası (ve 1815'te kısa süreliğine) Fransa imparatoru .",
+    "triple": {
+      "baş": "Napolyon Bonapart",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "politikacı",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Napolyon Bonapart ( Fransızca : Napoléon Bonaparte ; İtalyanca : Napoleone Bonaparte ) veya I. Napolyon kısaca Napolyon (15 Ağustos 1769, Ajaccio - 5 Mayıs 1821), Fransız asker , politikacı ve 1804-14 arası (ve 1815'te kısa süreliğine) Fransa imparatoru .",
+    "triple": {
+      "baş": "Napolyon Bonapart",
+      "baş_tipi": "Kişi",
+      "ilişki": "imparator",
+      "uç": "Fransa",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Bunun yanında Amerikalılara müttefik olarak Kuzey Amerika 'da 10.000 kişilik bir Fransız ordusu ve Avrupa 'da İngilizlere karşı 60.000 kişilik bir Fransız - İspanyol kuvveti daha bulunuyordu.",
+    "triple": {
+      "baş": "Fransız ordusu",
+      "baş_tipi": "Askeri Birlik",
+      "ilişki": "müttefik",
+      "uç": "Amerikalılar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Bunun yanında Amerikalılara müttefik olarak Kuzey Amerika 'da 10.000 kişilik bir Fransız ordusu ve Avrupa 'da İngilizlere karşı 60.000 kişilik bir Fransız - İspanyol kuvveti daha bulunuyordu.",
+    "triple": {
+      "baş": "Fransız ordusu",
+      "baş_tipi": "Askeri Birlik",
+      "ilişki": "konuşlu",
+      "uç": "Kuzey Amerika",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Bunun yanında Amerikalılara müttefik olarak Kuzey Amerika 'da 10.000 kişilik bir Fransız ordusu ve Avrupa 'da İngilizlere karşı 60.000 kişilik bir Fransız - İspanyol kuvveti daha bulunuyordu.",
+    "triple": {
+      "baş": "Fransız - İspanyol kuvveti",
+      "baş_tipi": "Askeri Birlik",
+      "ilişki": "karşı",
+      "uç": "İngilizler",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Bunun yanında Amerikalılara müttefik olarak Kuzey Amerika 'da 10.000 kişilik bir Fransız ordusu ve Avrupa 'da İngilizlere karşı 60.000 kişilik bir Fransız - İspanyol kuvveti daha bulunuyordu.",
+    "triple": {
+      "baş": "Fransız - İspanyol kuvveti",
+      "baş_tipi": "Askeri Birlik",
+      "ilişki": "konuşlu",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Amerikan Bağımsızlık Bildirgesi, tüm Avrupa'da ama özellikle Fransız aydınları üzerinde bir etki yapmıştır.",
+    "triple": {
+      "baş": "Amerikan Bağımsızlık Bildirgesi",
+      "baş_tipi": "Belge",
+      "ilişki": "etki yaptı",
+      "uç": "Fransız aydınları",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Fransız Devrimi ertesinde Fransa 'ya yaklaşık bir yıl süreyle egemen olan ve devrimden çok daha fazla kanın, çoğu politik sebeplerden olmak üzere, döküldüğü Terör Dönemi 'ne neden olmuş Fransız politik oluşumudur.",
+    "triple": {
+      "baş": "Fransız Devrimi",
+      "baş_tipi": "Olay",
+      "ilişki": "ertesinde",
+      "uç": "Terör Dönemi",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Bu iletişim ve ortaklık, onlara para yardımı yapılmasını, Fransız topraklarına girme izni verilmesini ve ordularının ilerleyişine imkân sağlanmasını mı kapsamaktadır?",
+    "triple": {
+      "baş": "para yardımı",
+      "baş_tipi": "Finansal İşlem",
+      "ilişki": "yapılmasını kapsar",
+      "uç": "iletişim ve ortaklık",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Bu iletişim ve ortaklık, onlara para yardımı yapılmasını, Fransız topraklarına girme izni verilmesini ve ordularının ilerleyişine imkân sağlanmasını mı kapsamaktadır?",
+    "triple": {
+      "baş": "Fransız toprakları",
+      "baş_tipi": "Bölge",
+      "ilişki": "girme izni",
+      "uç": "iletişim ve ortaklık",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Kalıntılar, Fransız kraliyet ailelerinin ebedi istirahat mekanı olan Aziz Denis Basilica 'nın yeraltı türbesine nakledildi.",
+    "triple": {
+      "baş": "Kalıntılar",
+      "baş_tipi": "Nesne",
+      "ilişki": "nakledildi",
+      "uç": "Aziz Denis Basilica",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Ve yine Munro Price , Fransız monarşisinin çöküşüne dair siyasi çalışmalarında şöyle demiştir, \"XVI. Louis ve Marie Antoinette genellikle zayıf ve mütereddit olarak resmedilmişlerdir.",
+    "triple": {
+      "baş": "Munro Price",
+      "baş_tipi": "Kişi",
+      "ilişki": "çalıştı",
+      "uç": "Fransız monarşisinin çöküşü",
+      "uç_tipi": "Olay"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "François Marie Arouet (21 Kasım 1694 - 30 Mayıs 1778) ya da Voltaire takma adıyla tanınan Fransız yazar ve filozof .",
+    "triple": {
+      "baş": "François Marie Arouet",
+      "baş_tipi": "Kişi",
+      "ilişki": "takma ad",
+      "uç": "Voltaire",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "François Marie Arouet (21 Kasım 1694 - 30 Mayıs 1778) ya da Voltaire takma adıyla tanınan Fransız yazar ve filozof .",
+    "triple": {
+      "baş": "Voltaire",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "yazar",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "François Marie Arouet (21 Kasım 1694 - 30 Mayıs 1778) ya da Voltaire takma adıyla tanınan Fransız yazar ve filozof .",
+    "triple": {
+      "baş": "Voltaire",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "filozof",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Jean-Jacques Rousseau#191: Rousseau'nun fikirleri Fransız halkını etkileyerek Fransız Devrimi 'nin gerçekleşmesinde büyük rol oynamıştır.",
+    "triple": {
+      "baş": "Rousseau'nun fikirleri",
+      "baş_tipi": "Soyut Kavram",
+      "ilişki": "etkiledi",
+      "uç": "Fransız halkı",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Rousseau'nun fikirleri Fransız halkını etkileyerek Fransız Devrimi 'nin gerçekleşmesinde büyük rol oynamıştır.",
+    "triple": {
+      "baş": "Rousseau'nun fikirleri",
+      "baş_tipi": "Soyut Kavram",
+      "ilişki": "rol oynadı",
+      "uç": "Fransız Devrimi",
+      "uç_tipi": "Olay"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Alman filozof Gottfried Leibniz , Muhammed'i \"doğal dinden sapmadığı\" için övmüştür.",
+    "triple": {
+      "baş": "Gottfried Leibniz",
+      "baş_tipi": "Kişi",
+      "ilişki": "övme nedeni",
+      "uç": "Muhammed'in doğal dinden sapmaması",
+      "uç_tipi": "Soyut Kavram"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Fransız tarihçi Henri de Boulainvilliers , ölümünden sonra 1730 yılında yayımlanan Vie de Mahomed adlı eserinde Muhammed'i \"yetenekli bir siyasi lider ve adil bir yasa koyucu\" olarak tanımladı ve O'nu, Tanrı'nın çekişen Doğulu Hristiyanları şaşırtmak, Doğu'yu Romalıların ve Perslerin despotik yönetiminden kurtarmak ve Tanrı'nın birliği ( tevhid ) bilgisini doğuda Hindistan 'dan batıda İspanya 'ya kadar yaymak için vahiy alan bir elçi olarak sundu.",
+    "triple": {
+      "baş": "Henri de Boulainvilliers",
+      "baş_tipi": "Kişi",
+      "ilişki": "tanımladı",
+      "uç": "Muhammed",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Fransız tarihçi Henri de Boulainvilliers , ölümünden sonra 1730 yılında yayımlanan Vie de Mahomed adlı eserinde Muhammed'i \"yetenekli bir siyasi lider ve adil bir yasa koyucu\" olarak tanımladı ve O'nu, Tanrı'nın çekişen Doğulu Hristiyanları şaşırtmak, Doğu'yu Romalıların ve Perslerin despotik yönetiminden kurtarmak ve Tanrı'nın birliği ( tevhid ) bilgisini doğuda Hindistan 'dan batıda İspanya 'ya kadar yaymak için vahiy alan bir elçi olarak sundu.",
+    "triple": {
+      "baş": "Henri de Boulainvilliers",
+      "baş_tipi": "Kişi",
+      "ilişki": "sundu",
+      "uç": "Muhammed",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Louis Pasteur kuduz için bir nedensel ajan bulamadı ve bir mikroskop kullanılarak tespit edilemeyecek kadar küçük bir patojenle ilgili spekülasyonlar yaşandı.",
+    "triple": {
+      "baş": "Louis Pasteur",
+      "baş_tipi": "Kişi",
+      "ilişki": "bulamadı",
+      "uç": "kuduz için nedensel ajan",
+      "uç_tipi": "Biyolojik Yapı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "1884'te, Fransız mikrobiyolog Charles Chamberland , bakteriden daha küçük gözeneklere sahip olan filtreyi icat etti (günümüzde Chamberland filtresi ya da Chamberland-Pasteur filtresi olarak bilinir).",
+    "triple": {
+      "baş": "Charles Chamberland",
+      "baş_tipi": "Kişi",
+      "ilişki": "icat etti",
+      "uç": "filtre",
+      "uç_tipi": "Nesne"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Marguerite Catherine Perey (19 Ekim 1909, Villemomble - 13 Mayıs 1975, Louveciennes ), Fransız fizikçidir .",
+    "triple": {
+      "baş": "Marguerite Catherine Perey",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "fizikçi",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "René Char (14 Haziran 1907, L'Isle-sur-la-Sorgue - 19 Şubat 1988, Paris ), Fransız şair.",
+    "triple": {
+      "baş": "René Char",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "şair",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Robert Desnos , (d. 4 Temmuz 1900 - ö. 8 Haziran 1945), Fransız şair .",
+    "triple": {
+      "baş": "Robert Desnos",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "şair",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Paul Éluard , gerçek adıyla Eugène Grindel (d. 14 Aralık 1895, Saint-Denis - ö. 18 Kasım 1952, Charenton-le-Pont ), dadacı ve gerçeküstücü Fransız şairdir .",
+    "triple": {
+      "baş": "Paul Éluard",
+      "baş_tipi": "Kişi",
+      "ilişki": "gerçek adı",
+      "uç": "Eugène Grindel",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Paul Éluard , gerçek adıyla Eugène Grindel (d. 14 Aralık 1895, Saint-Denis - ö. 18 Kasım 1952, Charenton-le-Pont ), dadacı ve gerçeküstücü Fransız şairdir .",
+    "triple": {
+      "baş": "Paul Éluard",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "şair",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Jean Arp ya da Hans Arp , (d. 16 Eylül 1887, Strazburg , Almanya - ö. 7 Haziran 1966, Basel , İsviçre ), 20. yüzyılın ilk yarısında Avrupa'da görülen öncü sanat anlayışının önderlerinden biri olan Fransız heykelci, ressam ve şair.",
+    "triple": {
+      "baş": "Jean Arp",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "heykelci",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Jean Arp ya da Hans Arp , (d. 16 Eylül 1887, Strazburg , Almanya - ö. 7 Haziran 1966, Basel , İsviçre ), 20. yüzyılın ilk yarısında Avrupa'da görülen öncü sanat anlayışının önderlerinden biri olan Fransız heykelci, ressam ve şair.",
+    "triple": {
+      "baş": "Jean Arp",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "ressam",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Jean Arp ya da Hans Arp , (d. 16 Eylül 1887, Strazburg , Almanya - ö. 7 Haziran 1966, Basel , İsviçre ), 20. yüzyılın ilk yarısında Avrupa'da görülen öncü sanat anlayışının önderlerinden biri olan Fransız heykelci, ressam ve şair.",
+    "triple": {
+      "baş": "Jean Arp",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "şair",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Raymond Queneau (21 Şubat 1903, Le Havre - 25 Ekim 1976, Paris ), Fransız yazar ve şair.",
+    "triple": {
+      "baş": "Raymond Queneau",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "yazar",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Raymond Queneau (21 Şubat 1903, Le Havre - 25 Ekim 1976, Paris ), Fransız yazar ve şair.",
+    "triple": {
+      "baş": "Raymond Queneau",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "şair",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Guillaume Apollinaire (d. 26 Ağustos 1880 - ö. 9 Kasım 1918), İtalyan asıllı Fransız şair, yazar ve sanat eleştirmeni.",
+    "triple": {
+      "baş": "Guillaume Apollinaire",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Guillaume Apollinaire (d. 26 Ağustos 1880 - ö. 9 Kasım 1918), İtalyan asıllı Fransız şair, yazar ve sanat eleştirmeni.",
+    "triple": {
+      "baş": "Guillaume Apollinaire",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "şair",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Guillaume Apollinaire (d. 26 Ağustos 1880 - ö. 9 Kasım 1918), İtalyan asıllı Fransız şair, yazar ve sanat eleştirmeni.",
+    "triple": {
+      "baş": "Guillaume Apollinaire",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "yazar",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Guillaume Apollinaire (d. 26 Ağustos 1880 - ö. 9 Kasım 1918), İtalyan asıllı Fransız şair, yazar ve sanat eleştirmeni.",
+    "triple": {
+      "baş": "Guillaume Apollinaire",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "sanat eleştirmeni",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "André-Aimé-René Masson (d. 4 Ocak 1896 - ö. 28 Ekim 1987), Fransız sürrealist ressam .",
+    "triple": {
+      "baş": "André-Aimé-René Masson",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "ressam",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Türk şair Mehmet Âkif Ersoy onu ''Şark'ın en sevgili sultanı'', Fransız tarihçi Albert Champdor '' İslam 'ın en saf kahramanı'', Orta Çağ yazarı Usame bin Munkiz ise '' Râşidîn hâlifelerinin saltanatını yeniden başlatan kişi'' diye nitelemiştir.",
+    "triple": {
+      "baş": "Albert Champdor",
+      "baş_tipi": "Kişi",
+      "ilişki": "tarihçi",
+      "uç": "Fransız",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Türk şair Mehmet Âkif Ersoy onu ''Şark'ın en sevgili sultanı'', Fransız tarihçi Albert Champdor '' İslam 'ın en saf kahramanı'', Orta Çağ yazarı Usame bin Munkiz ise '' Râşidîn hâlifelerinin saltanatını yeniden başlatan kişi'' diye nitelemiştir.",
+    "triple": {
+      "baş": "Albert Champdor",
+      "baş_tipi": "Kişi",
+      "ilişki": "niteledi",
+      "uç": "Selâhattin Eyyubi",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Lübnan doğumlu Fransız yazar Amin Maalouf 'un 1983'te yayımladığı Arapların Gözünden Haçlı Seferleri isimli kitabı Müslüman – Hristiyan ilişkilerini ve özellikle Selahaddin Eyyubi'nin faaliyetlerini konu almıştır.",
+    "triple": {
+      "baş": "Amin Maalouf",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "yazar",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Lübnan doğumlu Fransız yazar Amin Maalouf 'un 1983'te yayımladığı Arapların Gözünden Haçlı Seferleri isimli kitabı Müslüman – Hristiyan ilişkilerini ve özellikle Selahaddin Eyyubi'nin faaliyetlerini konu almıştır.",
+    "triple": {
+      "baş": "Amin Maalouf",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğum yeri",
+      "uç": "Lübnan",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Bu dönemde Filostrato ve Teseida şiir çalışmalarına da başlar ve Fransız edebiyatından esinlenir.",
+    "triple": {
+      "baş": "şiir çalışmaları",
+      "baş_tipi": "Eser",
+      "ilişki": "esinlenir",
+      "uç": "Fransız edebiyatı",
+      "uç_tipi": "Edebiyat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Simone Lucie-Ernestine-Marie-Bertrand de Beauvoir ( [simɔn də boˈvwaʀ] ; 9 Ocak 1908 – 14 Nisan 1986), Fransız yazar ve feminist filozof .",
+    "triple": {
+      "baş": "Simone Lucie-Ernestine-Marie-Bertrand de Beauvoir",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "yazar",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Simone Lucie-Ernestine-Marie-Bertrand de Beauvoir ( [simɔn də boˈvwaʀ] ; 9 Ocak 1908 – 14 Nisan 1986), Fransız yazar ve feminist filozof .",
+    "triple": {
+      "baş": "Simone Lucie-Ernestine-Marie-Bertrand de Beauvoir",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "feminist filozof",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Belirsizlik Ahlakı Üzerine (Pour Une Morale de L'ambiguïté, 1947) kitabında Fransız varoluşçuluğu etkileri fark edilmektedir.",
+    "triple": {
+      "baş": "Belirsizlik Ahlakı Üzerine",
+      "baş_tipi": "Eser",
+      "ilişki": "içerir",
+      "uç": "Fransız varoluşçuluğu etkileri",
+      "uç_tipi": "Etki"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Albert Camus ( Fransızca telaffuz: [albɛʁ kamy] ; d. 7 Kasım 1913 - ö. 4 Ocak 1960), Fransız yazar ve filozof .",
+    "triple": {
+      "baş": "Albert Camus",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "yazar",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Albert Camus ( Fransızca telaffuz: [albɛʁ kamy] ; d. 7 Kasım 1913 - ö. 4 Ocak 1960), Fransız yazar ve filozof .",
+    "triple": {
+      "baş": "Albert Camus",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "filozof",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "20. yüzyılın en güçlü Fransız yazarlarından biri olan Albert Camus, 1913'te Cezayir 'in ( Fransız Cezayiri : O dönemde bir Fransız sömürgesi) Mondovi kasabasında doğdu.",
+    "triple": {
+      "baş": "Albert Camus",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğdu",
+      "uç": "Mondovi",
+      "uç_tipi": "Yer"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "20. yüzyılın en güçlü Fransız yazarlarından biri olan Albert Camus, 1913'te Cezayir 'in ( Fransız Cezayiri : O dönemde bir Fransız sömürgesi) Mondovi kasabasında doğdu.",
+    "triple": {
+      "baş": "Cezayir",
+      "baş_tipi": "Bölge",
+      "ilişki": "statü",
+      "uç": "Fransız sömürgesi",
+      "uç_tipi": "Politik Durum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Müvelledülerden biri olan İbn Garsiyye , Arapları küçümseyen ve kendisini yücelten bir risale yazmıştır.",
+    "triple": {
+      "baş": "İbn Garsiyye",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazdı",
+      "uç": "risale",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Müslüman nüfusun bir başka unsuru da sacâlibe adı verilen kölelerdi ve bunlar Fransız , Alman , İtalyan gibi kökene sahip insanlardır.",
+    "triple": {
+      "baş": "sacâlibe",
+      "baş_tipi": "Grup",
+      "ilişki": "köken",
+      "uç": "Fransız",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Müslüman nüfusun bir başka unsuru da sacâlibe adı verilen kölelerdi ve bunlar Fransız , Alman , İtalyan gibi kökene sahip insanlardır.",
+    "triple": {
+      "baş": "sacâlibe",
+      "baş_tipi": "Grup",
+      "ilişki": "köken",
+      "uç": "Alman",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Müslüman nüfusun bir başka unsuru da sacâlibe adı verilen kölelerdi ve bunlar Fransız , Alman , İtalyan gibi kökene sahip insanlardır.",
+    "triple": {
+      "baş": "sacâlibe",
+      "baş_tipi": "Grup",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Edmond Eugène Alexis Rostand ( Fransızca telaffuz: [ʁɔstɑ̃] ; 1 Nisan 1868, Marsilya – 2 Aralık 1918 , Paris), Fransız şair ve oyun yazarı . Neo-romantizm akımına bağlıdır ve en çok Cyrano de Bergerac isimli tiyatro oyunu ile bilinir.",
+    "triple": {
+      "baş": "Edmond Eugène Alexis Rostand",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "şair",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Edmond Eugène Alexis Rostand ( Fransızca telaffuz: [ʁɔstɑ̃] ; 1 Nisan 1868, Marsilya – 2 Aralık 1918 , Paris), Fransız şair ve oyun yazarı . Neo-romantizm akımına bağlıdır ve en çok Cyrano de Bergerac isimli tiyatro oyunu ile bilinir.",
+    "triple": {
+      "baş": "Edmond Eugène Alexis Rostand",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "oyun yazarı",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Edmond Eugène Alexis Rostand ( Fransızca telaffuz: [ʁɔstɑ̃] ; 1 Nisan 1868, Marsilya – 2 Aralık 1918 , Paris), Fransız şair ve oyun yazarı . Neo-romantizm akımına bağlıdır ve en çok Cyrano de Bergerac isimli tiyatro oyunu ile bilinir.",
+    "triple": {
+      "baş": "Edmond Eugène Alexis Rostand",
+      "baş_tipi": "Kişi",
+      "ilişki": "bağlıdır",
+      "uç": "Neo-romantizm",
+      "uç_tipi": "Sanat Akımı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "Edmond Eugène Alexis Rostand ( Fransızca telaffuz: [ʁɔstɑ̃] ; 1 Nisan 1868, Marsilya – 2 Aralık 1918 , Paris), Fransız şair ve oyun yazarı . Neo-romantizm akımına bağlıdır ve en çok Cyrano de Bergerac isimli tiyatro oyunu ile bilinir.",
+    "triple": {
+      "baş": "Edmond Eugène Alexis Rostand",
+      "baş_tipi": "Kişi",
+      "ilişki": "en çok bilinen",
+      "uç": "Cyrano de Bergerac",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Ricciotto Canudo",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "film kuramcısı",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/Frans%C4%B1zlar)",
+    "metin": "İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Ricciotto Canudo",
+      "baş_tipi": "Kişi",
+      "ilişki": "tanımladı",
+      "uç": "sinema",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Boston bölgesine ilk yerleşenlerin çoğu İngiliz asıllı Anglikan ve Püritenlerdi . 19. yüzyıl başlarında şehrin nüfus yapısında köklü değişiklikler oldu. Bu dönemde Boston'a gelen göçmenlerin çoğu İtalyan ve İrlandalı asıllıydı ve şehirde Protestanlık yerine Katolik mezhebi ağırlık kazanmaya başladı.",
+    "triple": {
+      "baş": "Boston",
+      "baş_tipi": "Bölge",
+      "ilişki": "yerleşen",
+      "uç": "İngiliz",
+      "uç_tipi": "Etnik Köken"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Boston bölgesine ilk yerleşenlerin çoğu İngiliz asıllı Anglikan ve Püritenlerdi . 19. yüzyıl başlarında şehrin nüfus yapısında köklü değişiklikler oldu. Bu dönemde Boston'a gelen göçmenlerin çoğu İtalyan ve İrlandalı asıllıydı ve şehirde Protestanlık yerine Katolik mezhebi ağırlık kazanmaya başladı.",
+    "triple": {
+      "baş": "Boston",
+      "baş_tipi": "Bölge",
+      "ilişki": "göçmen gelen",
+      "uç": "İtalyan",
+      "uç_tipi": "Etnik Köken"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Boston bölgesine ilk yerleşenlerin çoğu İngiliz asıllı Anglikan ve Püritenlerdi . 19. yüzyıl başlarında şehrin nüfus yapısında köklü değişiklikler oldu. Bu dönemde Boston'a gelen göçmenlerin çoğu İtalyan ve İrlandalı asıllıydı ve şehirde Protestanlık yerine Katolik mezhebi ağırlık kazanmaya başladı.",
+    "triple": {
+      "baş": "Boston",
+      "baş_tipi": "Bölge",
+      "ilişki": "göçmen gelen",
+      "uç": "İrlandalı",
+      "uç_tipi": "Etnik Köken"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Bu ilhak, 230.000 ila 350.000 yerel etnik İtalyan (İstrian İtalyanlar ve Dalmaçyalı İtalyanlar) ve diğer etnik Sloven, etnik Hırvat ve etnik İstro-Rumenlerden oluşan ve İtalyan vatandaşlığında kalmayı seçmesine neden olan Istrian-Dalmaçya göçüne neden oldu. Daha sonra, Trieste Serbest Bölgesi iki vilayet arasında bölündü.",
+    "triple": {
+      "baş": "Istrian-Dalmaçya",
+      "baş_tipi": "Bölge",
+      "ilişki": "göç",
+      "uç": "İtalyan",
+      "uç_tipi": "Etnik Köken"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Bu ilhak, 230.000 ila 350.000 yerel etnik İtalyan (İstrian İtalyanlar ve Dalmaçyalı İtalyanlar) ve diğer etnik Sloven, etnik Hırvat ve etnik İstro-Rumenlerden oluşan ve İtalyan vatandaşlığında kalmayı seçmesine neden olan Istrian-Dalmaçya göçüne neden oldu. Daha sonra, Trieste Serbest Bölgesi iki vilayet arasında bölündü.",
+    "triple": {
+      "baş": "Istrian-Dalmaçya",
+      "baş_tipi": "Bölge",
+      "ilişki": "göç",
+      "uç": "Sloven",
+      "uç_tipi": "Etnik Köken"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Bu ilhak, 230.000 ila 350.000 yerel etnik İtalyan (İstrian İtalyanlar ve Dalmaçyalı İtalyanlar) ve diğer etnik Sloven, etnik Hırvat ve etnik İstro-Rumenlerden oluşan ve İtalyan vatandaşlığında kalmayı seçmesine neden olan Istrian-Dalmaçya göçüne neden oldu. Daha sonra, Trieste Serbest Bölgesi iki vilayet arasında bölündü.",
+    "triple": {
+      "baş": "Istrian-Dalmaçya",
+      "baş_tipi": "Bölge",
+      "ilişki": "göç",
+      "uç": "Hırvat",
+      "uç_tipi": "Etnik Köken"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Bu ilhak, 230.000 ila 350.000 yerel etnik İtalyan (İstrian İtalyanlar ve Dalmaçyalı İtalyanlar) ve diğer etnik Sloven, etnik Hırvat ve etnik İstro-Rumenlerden oluşan ve İtalyan vatandaşlığında kalmayı seçmesine neden olan Istrian-Dalmaçya göçüne neden oldu. Daha sonra, Trieste Serbest Bölgesi iki vilayet arasında bölündü.",
+    "triple": {
+      "baş": "Istrian-Dalmaçya",
+      "baş_tipi": "Bölge",
+      "ilişki": "göç",
+      "uç": "İstro-Rumen",
+      "uç_tipi": "Etnik Köken"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Rönesans daha çok Fransa 'da sanat; Almanya 'da dinî tablo ve resimler; İngiltere 'de edebiyat; İspanya 'da resim ve edebiyat alanında gelişti. İtalya 'daki rönesans hareketinde eski Yunan ve Roma edebiyatçılarından Tacitus , Sophokles , Domosten , Platon , Cicero ve Vergilius 'un eserleri yeniden ortaya çıkarıldı. İtalyan düşün adamı ve yazarlarından Niccolò Machiavelli (1469-1531) ve Tasso (1544-1595) yetişip eserler verdiler.",
+    "triple": {
+      "baş": "Rönesans",
+      "baş_tipi": "Sanat Akımı",
+      "ilişki": "geliştiği yer",
+      "uç": "Fransa",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Rönesans daha çok Fransa 'da sanat; Almanya 'da dinî tablo ve resimler; İngiltere 'de edebiyat; İspanya 'da resim ve edebiyat alanında gelişti. İtalya 'daki rönesans hareketinde eski Yunan ve Roma edebiyatçılarından Tacitus , Sophokles , Domosten , Platon , Cicero ve Vergilius 'un eserleri yeniden ortaya çıkarıldı. İtalyan düşün adamı ve yazarlarından Niccolò Machiavelli (1469-1531) ve Tasso (1544-1595) yetişip eserler verdiler.",
+    "triple": {
+      "baş": "Rönesans",
+      "baş_tipi": "Sanat Akımı",
+      "ilişki": "geliştiği yer",
+      "uç": "Almanya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Rönesans daha çok Fransa 'da sanat; Almanya 'da dinî tablo ve resimler; İngiltere 'de edebiyat; İspanya 'da resim ve edebiyat alanında gelişti. İtalya 'daki rönesans hareketinde eski Yunan ve Roma edebiyatçılarından Tacitus , Sophokles , Domosten , Platon , Cicero ve Vergilius 'un eserleri yeniden ortaya çıkarıldı. İtalyan düşün adamı ve yazarlarından Niccolò Machiavelli (1469-1531) ve Tasso (1544-1595) yetişip eserler verdiler.",
+    "triple": {
+      "baş": "Rönesans",
+      "baş_tipi": "Sanat Akımı",
+      "ilişki": "geliştiği yer",
+      "uç": "İngiltere",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Rönesans daha çok Fransa 'da sanat; Almanya 'da dinî tablo ve resimler; İngiltere 'de edebiyat; İspanya 'da resim ve edebiyat alanında gelişti. İtalya 'daki rönesans hareketinde eski Yunan ve Roma edebiyatçılarından Tacitus , Sophokles , Domosten , Platon , Cicero ve Vergilius 'un eserleri yeniden ortaya çıkarıldı. İtalyan düşün adamı ve yazarlarından Niccolò Machiavelli (1469-1531) ve Tasso (1544-1595) yetişip eserler verdiler.",
+    "triple": {
+      "baş": "Rönesans",
+      "baş_tipi": "Sanat Akımı",
+      "ilişki": "geliştiği yer",
+      "uç": "İspanya",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Rönesans daha çok Fransa 'da sanat; Almanya 'da dinî tablo ve resimler; İngiltere 'de edebiyat; İspanya 'da resim ve edebiyat alanında gelişti. İtalya 'daki rönesans hareketinde eski Yunan ve Roma edebiyatçılarından Tacitus , Sophokles , Domosten , Platon , Cicero ve Vergilius 'un eserleri yeniden ortaya çıkarıldı. İtalyan düşün adamı ve yazarlarından Niccolò Machiavelli (1469-1531) ve Tasso (1544-1595) yetişip eserler verdiler.",
+    "triple": {
+      "baş": "İtalya",
+      "baş_tipi": "Ülke",
+      "ilişki": "rönesans hareketi",
+      "uç": "Tacitus",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Rönesans daha çok Fransa 'da sanat; Almanya 'da dinî tablo ve resimler; İngiltere 'de edebiyat; İspanya 'da resim ve edebiyat alanında gelişti. İtalya 'daki rönesans hareketinde eski Yunan ve Roma edebiyatçılarından Tacitus , Sophokles , Domosten , Platon , Cicero ve Vergilius 'un eserleri yeniden ortaya çıkarıldı. İtalyan düşün adamı ve yazarlarından Niccolò Machiavelli (1469-1531) ve Tasso (1544-1595) yetişip eserler verdiler.",
+    "triple": {
+      "baş": "İtalya",
+      "baş_tipi": "Ülke",
+      "ilişki": "rönesans hareketi",
+      "uç": "Sophokles",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Rönesans daha çok Fransa 'da sanat; Almanya 'da dinî tablo ve resimler; İngiltere 'de edebiyat; İspanya 'da resim ve edebiyat alanında gelişti. İtalya 'daki rönesans hareketinde eski Yunan ve Roma edebiyatçılarından Tacitus , Sophokles , Domosten , Platon , Cicero ve Vergilius 'un eserleri yeniden ortaya çıkarıldı. İtalyan düşün adamı ve yazarlarından Niccolò Machiavelli (1469-1531) ve Tasso (1544-1595) yetişip eserler verdiler.",
+    "triple": {
+      "baş": "İtalya",
+      "baş_tipi": "Ülke",
+      "ilişki": "rönesans hareketi",
+      "uç": "Domosten",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Rönesans daha çok Fransa 'da sanat; Almanya 'da dinî tablo ve resimler; İngiltere 'de edebiyat; İspanya 'da resim ve edebiyat alanında gelişti. İtalya 'daki rönesans hareketinde eski Yunan ve Roma edebiyatçılarından Tacitus , Sophokles , Domosten , Platon , Cicero ve Vergilius 'un eserleri yeniden ortaya çıkarıldı. İtalyan düşün adamı ve yazarlarından Niccolò Machiavelli (1469-1531) ve Tasso (1544-1595) yetişip eserler verdiler.",
+    "triple": {
+      "baş": "İtalya",
+      "baş_tipi": "Ülke",
+      "ilişki": "rönesans hareketi",
+      "uç": "Platon",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Rönesans daha çok Fransa 'da sanat; Almanya 'da dinî tablo ve resimler; İngiltere 'de edebiyat; İspanya 'da resim ve edebiyat alanında gelişti. İtalya 'daki rönesans hareketinde eski Yunan ve Roma edebiyatçılarından Tacitus , Sophokles , Domosten , Platon , Cicero ve Vergilius 'un eserleri yeniden ortaya çıkarıldı. İtalyan düşün adamı ve yazarlarından Niccolò Machiavelli (1469-1531) ve Tasso (1544-1595) yetişip eserler verdiler.",
+    "triple": {
+      "baş": "İtalya",
+      "baş_tipi": "Ülke",
+      "ilişki": "rönesans hareketi",
+      "uç": "Cicero",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Rönesans daha çok Fransa 'da sanat; Almanya 'da dinî tablo ve resimler; İngiltere 'de edebiyat; İspanya 'da resim ve edebiyat alanında gelişti. İtalya 'daki rönesans hareketinde eski Yunan ve Roma edebiyatçılarından Tacitus , Sophokles , Domosten , Platon , Cicero ve Vergilius 'un eserleri yeniden ortaya çıkarıldı. İtalyan düşün adamı ve yazarlarından Niccolò Machiavelli (1469-1531) ve Tasso (1544-1595) yetişip eserler verdiler.",
+    "triple": {
+      "baş": "İtalya",
+      "baş_tipi": "Ülke",
+      "ilişki": "rönesans hareketi",
+      "uç": "Vergilius",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Rönesans daha çok Fransa 'da sanat; Almanya 'da dinî tablo ve resimler; İngiltere 'de edebiyat; İspanya 'da resim ve edebiyat alanında gelişti. İtalya 'daki rönesans hareketinde eski Yunan ve Roma edebiyatçılarından Tacitus , Sophokles , Domosten , Platon , Cicero ve Vergilius 'un eserleri yeniden ortaya çıkarıldı. İtalyan düşün adamı ve yazarlarından Niccolò Machiavelli (1469-1531) ve Tasso (1544-1595) yetişip eserler verdiler.",
+    "triple": {
+      "baş": "Niccolò Machiavelli",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Rönesans daha çok Fransa 'da sanat; Almanya 'da dinî tablo ve resimler; İngiltere 'de edebiyat; İspanya 'da resim ve edebiyat alanında gelişti. İtalya 'daki rönesans hareketinde eski Yunan ve Roma edebiyatçılarından Tacitus , Sophokles , Domosten , Platon , Cicero ve Vergilius 'un eserleri yeniden ortaya çıkarıldı. İtalyan düşün adamı ve yazarlarından Niccolò Machiavelli (1469-1531) ve Tasso (1544-1595) yetişip eserler verdiler.",
+    "triple": {
+      "baş": "Tasso",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Carlo Maderno (1556 - 31 Ocak 1629), bugün İsviçre 'deki Ticino'da doğmuş İtalyan bir mimardır ve Barok mimarisinin babalarından biri olarak hatırlanmaktadır. Santa Susanna , Aziz Petrus Bazilikası ve Sant'Andrea della Valle 'nin cepheleri, İtalyan Barokun evriminde anahtar öneme sahipti.",
+    "triple": {
+      "baş": "Carlo Maderno",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Mimar",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Carlo Maderno (1556 - 31 Ocak 1629), bugün İsviçre 'deki Ticino'da doğmuş İtalyan bir mimardır ve Barok mimarisinin babalarından biri olarak hatırlanmaktadır. Santa Susanna , Aziz Petrus Bazilikası ve Sant'Andrea della Valle 'nin cepheleri, İtalyan Barokun evriminde anahtar öneme sahipti.",
+    "triple": {
+      "baş": "Carlo Maderno",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğum yeri",
+      "uç": "Ticino",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Carlo Maderno (1556 - 31 Ocak 1629), bugün İsviçre 'deki Ticino'da doğmuş İtalyan bir mimardır ve Barok mimarisinin babalarından biri olarak hatırlanmaktadır. Santa Susanna , Aziz Petrus Bazilikası ve Sant'Andrea della Valle 'nin cepheleri, İtalyan Barokun evriminde anahtar öneme sahipti.",
+    "triple": {
+      "baş": "Carlo Maderno",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Carlo Maderno (1556 - 31 Ocak 1629), bugün İsviçre 'deki Ticino'da doğmuş İtalyan bir mimardır ve Barok mimarisinin babalarından biri olarak hatırlanmaktadır. Santa Susanna , Aziz Petrus Bazilikası ve Sant'Andrea della Valle 'nin cepheleri, İtalyan Barokun evriminde anahtar öneme sahipti.",
+    "triple": {
+      "baş": "Carlo Maderno",
+      "baş_tipi": "Kişi",
+      "ilişki": "hatırlanır",
+      "uç": "Barok mimarisinin babalarından biri",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Carlo Maderno (1556 - 31 Ocak 1629), bugün İsviçre 'deki Ticino'da doğmuş İtalyan bir mimardır ve Barok mimarisinin babalarından biri olarak hatırlanmaktadır. Santa Susanna , Aziz Petrus Bazilikası ve Sant'Andrea della Valle 'nin cepheleri, İtalyan Barokun evriminde anahtar öneme sahipti.",
+    "triple": {
+      "baş": "Santa Susanna",
+      "baş_tipi": "Yapı",
+      "ilişki": "cephe",
+      "uç": "Carlo Maderno",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Carlo Maderno (1556 - 31 Ocak 1629), bugün İsviçre 'deki Ticino'da doğmuş İtalyan bir mimardır ve Barok mimarisinin babalarından biri olarak hatırlanmaktadır. Santa Susanna , Aziz Petrus Bazilikası ve Sant'Andrea della Valle 'nin cepheleri, İtalyan Barokun evriminde anahtar öneme sahipti.",
+    "triple": {
+      "baş": "Aziz Petrus Bazilikası",
+      "baş_tipi": "Yapı",
+      "ilişki": "cephe",
+      "uç": "Carlo Maderno",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Carlo Maderno (1556 - 31 Ocak 1629), bugün İsviçre 'deki Ticino'da doğmuş İtalyan bir mimardır ve Barok mimarisinin babalarından biri olarak hatırlanmaktadır. Santa Susanna , Aziz Petrus Bazilikası ve Sant'Andrea della Valle 'nin cepheleri, İtalyan Barokun evriminde anahtar öneme sahipti.",
+    "triple": {
+      "baş": "Sant'Andrea della Valle",
+      "baş_tipi": "Yapı",
+      "ilişki": "cephe",
+      "uç": "Carlo Maderno",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Carlo Maderno (1556 - 31 Ocak 1629), bugün İsviçre 'deki Ticino'da doğmuş İtalyan bir mimardır ve Barok mimarisinin babalarından biri olarak hatırlanmaktadır. Santa Susanna , Aziz Petrus Bazilikası ve Sant'Andrea della Valle 'nin cepheleri, İtalyan Barokun evriminde anahtar öneme sahipti.",
+    "triple": {
+      "baş": "İtalyan Barok",
+      "baş_tipi": "Sanat Akımı",
+      "ilişki": "evrim",
+      "uç": "Carlo Maderno",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Niccolò di Bernardo dei Machiavelli (3 Mayıs 1469 – 21 Haziran 1527), devlet adamı, askerî stratejist, şair ve oyun yazarı Floransalı düşünür, İtalyan Rönesans hareketinin en önemli figürlerindendir.",
+    "triple": {
+      "baş": "Niccolò di Bernardo dei Machiavelli",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Devlet Adamı",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Niccolò di Bernardo dei Machiavelli (3 Mayıs 1469 – 21 Haziran 1527), devlet adamı, askerî stratejist, şair ve oyun yazarı Floransalı düşünür, İtalyan Rönesans hareketinin en önemli figürlerindendir.",
+    "triple": {
+      "baş": "Niccolò di Bernardo dei Machiavelli",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Askeri Stratejist",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Niccolò di Bernardo dei Machiavelli (3 Mayıs 1469 – 21 Haziran 1527), devlet adamı, askerî stratejist, şair ve oyun yazarı Floransalı düşünür, İtalyan Rönesans hareketinin en önemli figürlerindendir.",
+    "triple": {
+      "baş": "Niccolò di Bernardo dei Machiavelli",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Şair",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Niccolò di Bernardo dei Machiavelli (3 Mayıs 1469 – 21 Haziran 1527), devlet adamı, askerî stratejist, şair ve oyun yazarı Floransalı düşünür, İtalyan Rönesans hareketinin en önemli figürlerindendir.",
+    "triple": {
+      "baş": "Niccolò di Bernardo dei Machiavelli",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Oyun Yazarı",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Niccolò di Bernardo dei Machiavelli (3 Mayıs 1469 – 21 Haziran 1527), devlet adamı, askerî stratejist, şair ve oyun yazarı Floransalı düşünür, İtalyan Rönesans hareketinin en önemli figürlerindendir.",
+    "triple": {
+      "baş": "Niccolò di Bernardo dei Machiavelli",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "Floransalı",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Niccolò di Bernardo dei Machiavelli (3 Mayıs 1469 – 21 Haziran 1527), devlet adamı, askerî stratejist, şair ve oyun yazarı Floransalı düşünür, İtalyan Rönesans hareketinin en önemli figürlerindendir.",
+    "triple": {
+      "baş": "Niccolò di Bernardo dei Machiavelli",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Niccolò di Bernardo dei Machiavelli (3 Mayıs 1469 – 21 Haziran 1527), devlet adamı, askerî stratejist, şair ve oyun yazarı Floransalı düşünür, İtalyan Rönesans hareketinin en önemli figürlerindendir.",
+    "triple": {
+      "baş": "Niccolò di Bernardo dei Machiavelli",
+      "baş_tipi": "Kişi",
+      "ilişki": "figür",
+      "uç": "İtalyan Rönesans hareketi",
+      "uç_tipi": "Sanat Akımı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- İyi bir heykel sanatçısı ve kuyumcu da olan Brunelleschi, 15. yüzyılın başlarında Rönesans 'ın ilklerinden sayılmaktadır. İtalyan stili mimarinin değişimine önemli katkıları olmuştur.",
+    "triple": {
+      "baş": "Brunelleschi",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Heykel Sanatçısı",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- İyi bir heykel sanatçısı ve kuyumcu da olan Brunelleschi, 15. yüzyılın başlarında Rönesans 'ın ilklerinden sayılmaktadır. İtalyan stili mimarinin değişimine önemli katkıları olmuştur.",
+    "triple": {
+      "baş": "Brunelleschi",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Kuyumcu",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- İyi bir heykel sanatçısı ve kuyumcu da olan Brunelleschi, 15. yüzyılın başlarında Rönesans 'ın ilklerinden sayılmaktadır. İtalyan stili mimarinin değişimine önemli katkıları olmuştur.",
+    "triple": {
+      "baş": "Brunelleschi",
+      "baş_tipi": "Kişi",
+      "ilişki": "sayılır",
+      "uç": "Rönesans'ın ilklerinden",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- İyi bir heykel sanatçısı ve kuyumcu da olan Brunelleschi, 15. yüzyılın başlarında Rönesans 'ın ilklerinden sayılmaktadır. İtalyan stili mimarinin değişimine önemli katkıları olmuştur.",
+    "triple": {
+      "baş": "Brunelleschi",
+      "baş_tipi": "Kişi",
+      "ilişki": "katkı sağladı",
+      "uç": "İtalyan stili mimarinin değişimi",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Masaccio (asıl adı Tommaso di Ser Giovanni di Mone (Simone) Cassai , d. 21 Aralık 1401, San Giovanni Altura (günümüzde San Giovanni Valdarno ) - ö. 1428, Roma ), İtalyan Rönesans akımı başlangıç döneminin ilk önemli ressamlarındandır.",
+    "triple": {
+      "baş": "Masaccio",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Masaccio (asıl adı Tommaso di Ser Giovanni di Mone (Simone) Cassai , d. 21 Aralık 1401, San Giovanni Altura (günümüzde San Giovanni Valdarno ) - ö. 1428, Roma ), İtalyan Rönesans akımı başlangıç döneminin ilk önemli ressamlarındandır.",
+    "triple": {
+      "baş": "Masaccio",
+      "baş_tipi": "Kişi",
+      "ilişki": "önemli ressam",
+      "uç": "İtalyan Rönesans akımı başlangıç dönemi",
+      "uç_tipi": "Sanat Akımı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 12. ve 15. yüzyılları arasında Avrupa ekonomisi , nehir ve deniz ticaret yollarının birbirine bağlanmasıyla olumlu yönde dönüşmüştür ve Avrupa'nın, dünyadaki en müreffeh ticaret ağlarından biri olmasına neden olmuştur. 12. asırdan önce, Cebelitarık Boğazı 'nın doğusunda ticaretin önündeki en büyük engel, yetersiz gemi tasarımından ziyade ticari bir teşvik eksikliğiydi. İspanya 'nın ekonomik büyümesi Al-Andalus'un ( Endülüs ) fethedilmesini ve 1147 Lizbon kuşatmasını izledi. Birinci Haçlı Seferi 'nden önce başlayan Fatimid Halifeliği , İspanyol ve Portekiz deniz gücünün gerilemesine ancak Venedik , Cenova ve Pisa gibi denizci İtalyan devletlerinin Doğu Akdeniz'de ticarete egemen olmasına yardımcı oldu ve İtalyan tüccarların zengin olmasında etkili oldu.",
+    "triple": {
+      "baş": "Avrupa ekonomisi",
+      "baş_tipi": "Ekonomi",
+      "ilişki": "dönüşüm",
+      "uç": "Nehir ve deniz ticaret yolları",
+      "uç_tipi": "Ticaret Yolu"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 12. ve 15. yüzyılları arasında Avrupa ekonomisi , nehir ve deniz ticaret yollarının birbirine bağlanmasıyla olumlu yönde dönüşmüştür ve Avrupa'nın, dünyadaki en müreffeh ticaret ağlarından biri olmasına neden olmuştur. 12. asırdan önce, Cebelitarık Boğazı 'nın doğusunda ticaretin önündeki en büyük engel, yetersiz gemi tasarımından ziyade ticari bir teşvik eksikliğiydi. İspanya 'nın ekonomik büyümesi Al-Andalus'un ( Endülüs ) fethedilmesini ve 1147 Lizbon kuşatmasını izledi. Birinci Haçlı Seferi 'nden önce başlayan Fatimid Halifeliği , İspanyol ve Portekiz deniz gücünün gerilemesine ancak Venedik , Cenova ve Pisa gibi denizci İtalyan devletlerinin Doğu Akdeniz'de ticarete egemen olmasına yardımcı oldu ve İtalyan tüccarların zengin olmasında etkili oldu.",
+    "triple": {
+      "baş": "İspanya",
+      "baş_tipi": "Ülke",
+      "ilişki": "ekonomik büyüme",
+      "uç": "Al-Andalus'un fethedilmesi",
+      "uç_tipi": "Olay"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 12. ve 15. yüzyılları arasında Avrupa ekonomisi , nehir ve deniz ticaret yollarının birbirine bağlanmasıyla olumlu yönde dönüşmüştür ve Avrupa'nın, dünyadaki en müreffeh ticaret ağlarından biri olmasına neden olmuştur. 12. asırdan önce, Cebelitarık Boğazı 'nın doğusunda ticaretin önündeki en büyük engel, yetersiz gemi tasarımından ziyade ticari bir teşvik eksikliğiydi. İspanya 'nın ekonomik büyümesi Al-Andalus'un ( Endülüs ) fethedilmesini ve 1147 Lizbon kuşatmasını izledi. Birinci Haçlı Seferi 'nden önce başlayan Fatimid Halifeliği , İspanyol ve Portekiz deniz gücünün gerilemesine ancak Venedik , Cenova ve Pisa gibi denizci İtalyan devletlerinin Doğu Akdeniz'de ticarete egemen olmasına yardımcı oldu ve İtalyan tüccarların zengin olmasında etkili oldu.",
+    "triple": {
+      "baş": "İspanya",
+      "baş_tipi": "Ülke",
+      "ilişki": "ekonomik büyüme",
+      "uç": "Lizbon kuşatması",
+      "uç_tipi": "Olay"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 12. ve 15. yüzyılları arasında Avrupa ekonomisi , nehir ve deniz ticaret yollarının birbirine bağlanmasıyla olumlu yönde dönüşmüştür ve Avrupa'nın, dünyadaki en müreffeh ticaret ağlarından biri olmasına neden olmuştur. 12. asırdan önce, Cebelitarık Boğazı 'nın doğusunda ticaretin önündeki en büyük engel, yetersiz gemi tasarımından ziyade ticari bir teşvik eksikliğiydi. İspanya 'nın ekonomik büyümesi Al-Andalus'un ( Endülüs ) fethedilmesini ve 1147 Lizbon kuşatmasını izledi. Birinci Haçlı Seferi 'nden önce başlayan Fatimid Halifeliği , İspanyol ve Portekiz deniz gücünün gerilemesine ancak Venedik , Cenova ve Pisa gibi denizci İtalyan devletlerinin Doğu Akdeniz'de ticarete egemen olmasına yardımcı oldu ve İtalyan tüccarların zengin olmasında etkili oldu.",
+    "triple": {
+      "baş": "Fatimid Halifeliği",
+      "baş_tipi": "Devlet",
+      "ilişki": "neden oldu",
+      "uç": "İspanyol deniz gücünün gerilemesi",
+      "uç_tipi": "Olay"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 12. ve 15. yüzyılları arasında Avrupa ekonomisi , nehir ve deniz ticaret yollarının birbirine bağlanmasıyla olumlu yönde dönüşmüştür ve Avrupa'nın, dünyadaki en müreffeh ticaret ağlarından biri olmasına neden olmuştur. 12. asırdan önce, Cebelitarık Boğazı 'nın doğusunda ticaretin önündeki en büyük engel, yetersiz gemi tasarımından ziyade ticari bir teşvik eksikliğiydi. İspanya 'nın ekonomik büyümesi Al-Andalus'un ( Endülüs ) fethedilmesini ve 1147 Lizbon kuşatmasını izledi. Birinci Haçlı Seferi 'nden önce başlayan Fatimid Halifeliği , İspanyol ve Portekiz deniz gücünün gerilemesine ancak Venedik , Cenova ve Pisa gibi denizci İtalyan devletlerinin Doğu Akdeniz'de ticarete egemen olmasına yardımcı oldu ve İtalyan tüccarların zengin olmasında etkili oldu.",
+    "triple": {
+      "baş": "Fatimid Halifeliği",
+      "baş_tipi": "Devlet",
+      "ilişki": "neden oldu",
+      "uç": "Portekiz deniz gücünün gerilemesi",
+      "uç_tipi": "Olay"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 12. ve 15. yüzyılları arasında Avrupa ekonomisi , nehir ve deniz ticaret yollarının birbirine bağlanmasıyla olumlu yönde dönüşmüştür ve Avrupa'nın, dünyadaki en müreffeh ticaret ağlarından biri olmasına neden olmuştur. 12. asırdan önce, Cebelitarık Boğazı 'nın doğusunda ticaretin önündeki en büyük engel, yetersiz gemi tasarımından ziyade ticari bir teşvik eksikliğiydi. İspanya 'nın ekonomik büyümesi Al-Andalus'un ( Endülüs ) fethedilmesini ve 1147 Lizbon kuşatmasını izledi. Birinci Haçlı Seferi 'nden önce başlayan Fatimid Halifeliği , İspanyol ve Portekiz deniz gücünün gerilemesine ancak Venedik , Cenova ve Pisa gibi denizci İtalyan devletlerinin Doğu Akdeniz'de ticarete egemen olmasına yardımcı oldu ve İtalyan tüccarların zengin olmasında etkili oldu.",
+    "triple": {
+      "baş": "Venedik",
+      "baş_tipi": "Devlet",
+      "ilişki": "yardımcı oldu",
+      "uç": "Doğu Akdeniz'de ticaret",
+      "uç_tipi": "Ticaret"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 12. ve 15. yüzyılları arasında Avrupa ekonomisi , nehir ve deniz ticaret yollarının birbirine bağlanmasıyla olumlu yönde dönüşmüştür ve Avrupa'nın, dünyadaki en müreffeh ticaret ağlarından biri olmasına neden olmuştur. 12. asırdan önce, Cebelitarık Boğazı 'nın doğusunda ticaretin önündeki en büyük engel, yetersiz gemi tasarımından ziyade ticari bir teşvik eksikliğiydi. İspanya 'nın ekonomik büyümesi Al-Andalus'un ( Endülüs ) fethedilmesini ve 1147 Lizbon kuşatmasını izledi. Birinci Haçlı Seferi 'nden önce başlayan Fatimid Halifeliği , İspanyol ve Portekiz deniz gücünün gerilemesine ancak Venedik , Cenova ve Pisa gibi denizci İtalyan devletlerinin Doğu Akdeniz'de ticarete egemen olmasına yardımcı oldu ve İtalyan tüccarların zengin olmasında etkili oldu.",
+    "triple": {
+      "baş": "Cenova",
+      "baş_tipi": "Devlet",
+      "ilişki": "yardımcı oldu",
+      "uç": "Doğu Akdeniz'de ticaret",
+      "uç_tipi": "Ticaret"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 12. ve 15. yüzyılları arasında Avrupa ekonomisi , nehir ve deniz ticaret yollarının birbirine bağlanmasıyla olumlu yönde dönüşmüştür ve Avrupa'nın, dünyadaki en müreffeh ticaret ağlarından biri olmasına neden olmuştur. 12. asırdan önce, Cebelitarık Boğazı 'nın doğusunda ticaretin önündeki en büyük engel, yetersiz gemi tasarımından ziyade ticari bir teşvik eksikliğiydi. İspanya 'nın ekonomik büyümesi Al-Andalus'un ( Endülüs ) fethedilmesini ve 1147 Lizbon kuşatmasını izledi. Birinci Haçlı Seferi 'nden önce başlayan Fatimid Halifeliği , İspanyol ve Portekiz deniz gücünün gerilemesine ancak Venedik , Cenova ve Pisa gibi denizci İtalyan devletlerinin Doğu Akdeniz'de ticarete egemen olmasına yardımcı oldu ve İtalyan tüccarların zengin olmasında etkili oldu.",
+    "triple": {
+      "baş": "Pisa",
+      "baş_tipi": "Devlet",
+      "ilişki": "yardımcı oldu",
+      "uç": "Doğu Akdeniz'de ticaret",
+      "uç_tipi": "Ticaret"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 12. ve 15. yüzyılları arasında Avrupa ekonomisi , nehir ve deniz ticaret yollarının birbirine bağlanmasıyla olumlu yönde dönüşmüştür ve Avrupa'nın, dünyadaki en müreffeh ticaret ağlarından biri olmasına neden olmuştur. 12. asırdan önce, Cebelitarık Boğazı 'nın doğusunda ticaretin önündeki en büyük engel, yetersiz gemi tasarımından ziyade ticari bir teşvik eksikliğiydi. İspanya 'nın ekonomik büyümesi Al-Andalus'un ( Endülüs ) fethedilmesini ve 1147 Lizbon kuşatmasını izledi. Birinci Haçlı Seferi 'nden önce başlayan Fatimid Halifeliği , İspanyol ve Portekiz deniz gücünün gerilemesine ancak Venedik , Cenova ve Pisa gibi denizci İtalyan devletlerinin Doğu Akdeniz'de ticarete egemen olmasına yardımcı oldu ve İtalyan tüccarların zengin olmasında etkili oldu.",
+    "triple": {
+      "baş": "İtalyan devletleri",
+      "baş_tipi": "Devlet Grubu",
+      "ilişki": "etkili oldu",
+      "uç": "İtalyan tüccarların zengin olması",
+      "uç_tipi": "Olay"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- İtalyan ressam Sebastiano del Piombo'nun 1519 yılında çizmiş olduğu \"Kristof Kolomb\" portresi, Metropolitan Sanat Müzesi , New York . [a]",
+    "triple": {
+      "baş": "Sebastiano del Piombo",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- İtalyan ressam Sebastiano del Piombo'nun 1519 yılında çizmiş olduğu \"Kristof Kolomb\" portresi, Metropolitan Sanat Müzesi , New York . [a]",
+    "triple": {
+      "baş": "Sebastiano del Piombo",
+      "baş_tipi": "Kişi",
+      "ilişki": "resim yaptı",
+      "uç": "Kristof Kolomb portresi",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- İtalyan ressam Sebastiano del Piombo'nun 1519 yılında çizmiş olduğu \"Kristof Kolomb\" portresi, Metropolitan Sanat Müzesi , New York . [a]",
+    "triple": {
+      "baş": "Kristof Kolomb portresi",
+      "baş_tipi": "Eser",
+      "ilişki": "bulunduğu yer",
+      "uç": "Metropolitan Sanat Müzesi",
+      "uç_tipi": "Kurum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Raffaello Sanzio da Urbino (28 Mart / 6 Nisan 1483 - 6 Nisan 1520 ), kısaca Rafael olarak bilinen Rönesans döneminin İtalyan ressamı ve mimarıdır .",
+    "triple": {
+      "baş": "Raffaello Sanzio da Urbino",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Raffaello Sanzio da Urbino (28 Mart / 6 Nisan 1483 - 6 Nisan 1520 ), kısaca Rafael olarak bilinen Rönesans döneminin İtalyan ressamı ve mimarıdır .",
+    "triple": {
+      "baş": "Raffaello Sanzio da Urbino",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Ressam",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Raffaello Sanzio da Urbino (28 Mart / 6 Nisan 1483 - 6 Nisan 1520 ), kısaca Rafael olarak bilinen Rönesans döneminin İtalyan ressamı ve mimarıdır .",
+    "triple": {
+      "baş": "Raffaello Sanzio da Urbino",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Mimar",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Raffaello Sanzio da Urbino (28 Mart / 6 Nisan 1483 - 6 Nisan 1520 ), kısaca Rafael olarak bilinen Rönesans döneminin İtalyan ressamı ve mimarıdır .",
+    "triple": {
+      "baş": "Raffaello Sanzio da Urbino",
+      "baş_tipi": "Kişi",
+      "ilişki": "dönem",
+      "uç": "Rönesans",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Dante Alighieri (Mayıs-Haziran 1265, Floransa - 14 Eylül 1321, Ravenna ), İtalyan şair ve siyasetçidir .",
+    "triple": {
+      "baş": "Dante Alighieri",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Dante Alighieri (Mayıs-Haziran 1265, Floransa - 14 Eylül 1321, Ravenna ), İtalyan şair ve siyasetçidir .",
+    "triple": {
+      "baş": "Dante Alighieri",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Şair",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Dante Alighieri (Mayıs-Haziran 1265, Floransa - 14 Eylül 1321, Ravenna ), İtalyan şair ve siyasetçidir .",
+    "triple": {
+      "baş": "Dante Alighieri",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Siyasetçi",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Michelangelo di Lodovico Buonarroti Simoni ( İtalyanca telaffuz: [mikeˈlandʒelo di lodoˈviːko ˌbwɔnarˈrɔːti siˈmoːni] ; 6 Mart 1475 - 18 Şubat 1564) veya kısaca Michelangelo ( /ˌmaɪkəlˈændʒəloʊ/ MY-kəl-AN-jə-loh, MIK-əl- ), Yüksek Rönesans döneminin İtalyan heykeltıraşı , ressamı , mimarı ve şairidir . Floransa Cumhuriyeti 'nde doğan Michelangelo'nun eserleri, Klasik Antik Çağ modellerinden esinlenerek ortaya çıktı ve Batı sanatı üzerinde kalıcı bir etki bıraktı.",
+    "triple": {
+      "baş": "Michelangelo di Lodovico Buonarroti Simoni",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Michelangelo di Lodovico Buonarroti Simoni ( İtalyanca telaffuz: [mikeˈlandʒelo di lodoˈviːko ˌbwɔnarˈrɔːti siˈmoːni] ; 6 Mart 1475 - 18 Şubat 1564) veya kısaca Michelangelo ( /ˌmaɪkəlˈændʒəloʊ/ MY-kəl-AN-jə-loh, MIK-əl- ), Yüksek Rönesans döneminin İtalyan heykeltıraşı , ressamı , mimarı ve şairidir . Floransa Cumhuriyeti 'nde doğan Michelangelo'nun eserleri, Klasik Antik Çağ modellerinden esinlenerek ortaya çıktı ve Batı sanatı üzerinde kalıcı bir etki bıraktı.",
+    "triple": {
+      "baş": "Michelangelo di Lodovico Buonarroti Simoni",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Heykeltıraş",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Michelangelo di Lodovico Buonarroti Simoni ( İtalyanca telaffuz: [mikeˈlandʒelo di lodoˈviːko ˌbwɔnarˈrɔːti siˈmoːni] ; 6 Mart 1475 - 18 Şubat 1564) veya kısaca Michelangelo ( /ˌmaɪkəlˈændʒəloʊ/ MY-kəl-AN-jə-loh, MIK-əl- ), Yüksek Rönesans döneminin İtalyan heykeltıraşı , ressamı , mimarı ve şairidir . Floransa Cumhuriyeti 'nde doğan Michelangelo'nun eserleri, Klasik Antik Çağ modellerinden esinlenerek ortaya çıktı ve Batı sanatı üzerinde kalıcı bir etki bıraktı.",
+    "triple": {
+      "baş": "Michelangelo di Lodovico Buonarroti Simoni",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Ressam",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Michelangelo di Lodovico Buonarroti Simoni ( İtalyanca telaffuz: [mikeˈlandʒelo di lodoˈviːko ˌbwɔnarˈrɔːti siˈmoːni] ; 6 Mart 1475 - 18 Şubat 1564) veya kısaca Michelangelo ( /ˌmaɪkəlˈændʒəloʊ/ MY-kəl-AN-jə-loh, MIK-əl- ), Yüksek Rönesans döneminin İtalyan heykeltıraşı , ressamı , mimarı ve şairidir . Floransa Cumhuriyeti 'nde doğan Michelangelo'nun eserleri, Klasik Antik Çağ modellerinden esinlenerek ortaya çıktı ve Batı sanatı üzerinde kalıcı bir etki bıraktı.",
+    "triple": {
+      "baş": "Michelangelo di Lodovico Buonarroti Simoni",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Mimar",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Michelangelo di Lodovico Buonarroti Simoni ( İtalyanca telaffuz: [mikeˈlandʒelo di lodoˈviːko ˌbwɔnarˈrɔːti siˈmoːni] ; 6 Mart 1475 - 18 Şubat 1564) veya kısaca Michelangelo ( /ˌmaɪkəlˈændʒəloʊ/ MY-kəl-AN-jə-loh, MIK-əl- ), Yüksek Rönesans döneminin İtalyan heykeltıraşı , ressamı , mimarı ve şairidir . Floransa Cumhuriyeti 'nde doğan Michelangelo'nun eserleri, Klasik Antik Çağ modellerinden esinlenerek ortaya çıktı ve Batı sanatı üzerinde kalıcı bir etki bıraktı.",
+    "triple": {
+      "baş": "Michelangelo di Lodovico Buonarroti Simoni",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Şair",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Michelangelo di Lodovico Buonarroti Simoni ( İtalyanca telaffuz: [mikeˈlandʒelo di lodoˈviːko ˌbwɔnarˈrɔːti siˈmoːni] ; 6 Mart 1475 - 18 Şubat 1564) veya kısaca Michelangelo ( /ˌmaɪkəlˈændʒəloʊ/ MY-kəl-AN-jə-loh, MIK-əl- ), Yüksek Rönesans döneminin İtalyan heykeltıraşı , ressamı , mimarı ve şairidir . Floransa Cumhuriyeti 'nde doğan Michelangelo'nun eserleri, Klasik Antik Çağ modellerinden esinlenerek ortaya çıktı ve Batı sanatı üzerinde kalıcı bir etki bıraktı.",
+    "triple": {
+      "baş": "Michelangelo di Lodovico Buonarroti Simoni",
+      "baş_tipi": "Kişi",
+      "ilişki": "dönem",
+      "uç": "Yüksek Rönesans",
+      "uç_tipi": "Dönem"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Michelangelo di Lodovico Buonarroti Simoni ( İtalyanca telaffuz: [mikeˈlandʒelo di lodoˈviːko ˌbwɔnarˈrɔːti siˈmoːni] ; 6 Mart 1475 - 18 Şubat 1564) veya kısaca Michelangelo ( /ˌmaɪkəlˈændʒəloʊ/ MY-kəl-AN-jə-loh, MIK-əl- ), Yüksek Rönesans döneminin İtalyan heykeltıraşı , ressamı , mimarı ve şairidir . Floransa Cumhuriyeti 'nde doğan Michelangelo'nun eserleri, Klasik Antik Çağ modellerinden esinlenerek ortaya çıktı ve Batı sanatı üzerinde kalıcı bir etki bıraktı.",
+    "triple": {
+      "baş": "Michelangelo di Lodovico Buonarroti Simoni",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğum yeri",
+      "uç": "Floransa Cumhuriyeti",
+      "uç_tipi": "Devlet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Michelangelo di Lodovico Buonarroti Simoni ( İtalyanca telaffuz: [mikeˈlandʒelo di lodoˈviːko ˌbwɔnarˈrɔːti siˈmoːni] ; 6 Mart 1475 - 18 Şubat 1564) veya kısaca Michelangelo ( /ˌmaɪkəlˈændʒəloʊ/ MY-kəl-AN-jə-loh, MIK-əl- ), Yüksek Rönesans döneminin İtalyan heykeltıraşı , ressamı , mimarı ve şairidir . Floransa Cumhuriyeti 'nde doğan Michelangelo'nun eserleri, Klasik Antik Çağ modellerinden esinlenerek ortaya çıktı ve Batı sanatı üzerinde kalıcı bir etki bıraktı.",
+    "triple": {
+      "baş": "Michelangelo di Lodovico Buonarroti Simoni",
+      "baş_tipi": "Kişi",
+      "ilişki": "esinlendi",
+      "uç": "Klasik Antik Çağ modelleri",
+      "uç_tipi": "Sanat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Michelangelo di Lodovico Buonarroti Simoni ( İtalyanca telaffuz: [mikeˈlandʒelo di lodoˈviːko ˌbwɔnarˈrɔːti siˈmoːni] ; 6 Mart 1475 - 18 Şubat 1564) veya kısaca Michelangelo ( /ˌmaɪkəlˈændʒəloʊ/ MY-kəl-AN-jə-loh, MIK-əl- ), Yüksek Rönesans döneminin İtalyan heykeltıraşı , ressamı , mimarı ve şairidir . Floransa Cumhuriyeti 'nde doğan Michelangelo'nun eserleri, Klasik Antik Çağ modellerinden esinlenerek ortaya çıktı ve Batı sanatı üzerinde kalıcı bir etki bıraktı.",
+    "triple": {
+      "baş": "Michelangelo di Lodovico Buonarroti Simoni",
+      "baş_tipi": "Kişi",
+      "ilişki": "etki bıraktı",
+      "uç": "Batı sanatı",
+      "uç_tipi": "Sanat"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Onun sanat alanındaki etkinlikleriyle ilgili ilk belgeler, 1404-1407 arasında Ghiberti 'nin atölyesine devam ettiğini gösterir; ancak daha önce, İtalyan heykelcilerinin pek çoğu gibi o da, kuyumculuk alanına yönelmişti; bu mesleği mimar Brunelleschi 'nin atölyesinde öğrendiği sanılır.",
+    "triple": {
+      "baş": "Ghiberti",
+      "baş_tipi": "Kişi",
+      "ilişki": "atölye",
+      "uç": "Kişi",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Onun sanat alanındaki etkinlikleriyle ilgili ilk belgeler, 1404-1407 arasında Ghiberti 'nin atölyesine devam ettiğini gösterir; ancak daha önce, İtalyan heykelcilerinin pek çoğu gibi o da, kuyumculuk alanına yönelmişti; bu mesleği mimar Brunelleschi 'nin atölyesinde öğrendiği sanılır.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "yöneldi",
+      "uç": "Kuyumculuk",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Onun sanat alanındaki etkinlikleriyle ilgili ilk belgeler, 1404-1407 arasında Ghiberti 'nin atölyesine devam ettiğini gösterir; ancak daha önce, İtalyan heykelcilerinin pek çoğu gibi o da, kuyumculuk alanına yönelmişti; bu mesleği mimar Brunelleschi 'nin atölyesinde öğrendiği sanılır.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "öğrendi",
+      "uç": "Brunelleschi",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Filippino Lippi (d. 1457, Prato - ö. 20 Nisan 1504, Floransa ), Babası tanınmış ressam Fra' Lippo Lippi' dir. 15. yüzyıl Quattrocento Yṻksek Ronesans okulundan, İtalyan ressam.",
+    "triple": {
+      "baş": "Filippino Lippi",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Filippino Lippi (d. 1457, Prato - ö. 20 Nisan 1504, Floransa ), Babası tanınmış ressam Fra' Lippo Lippi' dir. 15. yüzyıl Quattrocento Yṻksek Ronesans okulundan, İtalyan ressam.",
+    "triple": {
+      "baş": "Filippino Lippi",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Ressam",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Filippino Lippi (d. 1457, Prato - ö. 20 Nisan 1504, Floransa ), Babası tanınmış ressam Fra' Lippo Lippi' dir. 15. yüzyıl Quattrocento Yṻksek Ronesans okulundan, İtalyan ressam.",
+    "triple": {
+      "baş": "Filippino Lippi",
+      "baş_tipi": "Kişi",
+      "ilişki": "okul",
+      "uç": "15. yüzyıl Quattrocento Yüksek Rönesans",
+      "uç_tipi": "Okul"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Titian ya da tam adıyla Tiziano Vecellio (1488/1490, Pieve di Cadore - 27 Ağustos 1576, Venedik ), İtalyan ressam.",
+    "triple": {
+      "baş": "Tiziano Vecellio",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Titian ya da tam adıyla Tiziano Vecellio (1488/1490, Pieve di Cadore - 27 Ağustos 1576, Venedik ), İtalyan ressam.",
+    "triple": {
+      "baş": "Tiziano Vecellio",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Ressam",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Nicola Pisano aynı zamanda Niccolò Pisano veya Nicola Pisanus olarak da bilinir. (yakl. 1215-1220 - yakl. 1278-1284) İtalyan heykeltıraş ve mimardır .",
+    "triple": {
+      "baş": "Nicola Pisano",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Nicola Pisano aynı zamanda Niccolò Pisano veya Nicola Pisanus olarak da bilinir. (yakl. 1215-1220 - yakl. 1278-1284) İtalyan heykeltıraş ve mimardır .",
+    "triple": {
+      "baş": "Nicola Pisano",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Heykeltıraş",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Nicola Pisano aynı zamanda Niccolò Pisano veya Nicola Pisanus olarak da bilinir. (yakl. 1215-1220 - yakl. 1278-1284) İtalyan heykeltıraş ve mimardır .",
+    "triple": {
+      "baş": "Nicola Pisano",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Mimar",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Dördüncü Haçlı Seferi 1202-1204 yılları arasında gerçekleşti. Papa III. Innocentius , Kudüs 'ü kurtarmak maksadıyla; tüm Avrupa'yı sefere davet etti. Toplanan ordunun emir komutası İtalyan Bonifacio'ya verildi.",
+    "triple": {
+      "baş": "Dördüncü Haçlı Seferi",
+      "baş_tipi": "Olay",
+      "ilişki": "komutan",
+      "uç": "Bonifacio",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Dördüncü Haçlı Seferi 1202-1204 yılları arasında gerçekleşti. Papa III. Innocentius , Kudüs 'ü kurtarmak maksadıyla; tüm Avrupa'yı sefere davet etti. Toplanan ordunun emir komutası İtalyan Bonifacio'ya verildi.",
+    "triple": {
+      "baş": "Bonifacio",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Partizanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "savaş taktiği",
+      "uç": "İşçi Tugayları",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Partizanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "karşılaştı",
+      "uç": "İtalyan birlikleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Partizanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "karşılaştı",
+      "uç": "Alman birlikleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Partizanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "karşılaştı",
+      "uç": "Ustaşa birlikleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Partizanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "karşılaştı",
+      "uç": "Çetnik birlikleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Partizanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "üs edindi",
+      "uç": "Bosna'nın kuzeybatı kesimi",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Tito",
+      "baş_tipi": "Kişi",
+      "ilişki": "topladı",
+      "uç": "Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi",
+      "uç_tipi": "Kurum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi",
+      "baş_tipi": "Kurum",
+      "ilişki": "sağladı",
+      "uç": "Direniş harekâtı",
+      "uç_tipi": "Hareket"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Son yıllarda ise İsviçre'deki işyerlerinde tercih edilen Almanların göçleri belirgin bir yükseliş gösterdi. 2011 yılında İtalyan vatandaşları toplam yabancılar içinde %16,3 ile en büyük kesimi oluştururken, ardından Almanlar (%14,9), Portekizliler (%12,0), Sırplar (%6,9), Fransızlar (%5,4) gelmektedir.",
+    "triple": {
+      "baş": "Almanlar",
+      "baş_tipi": "Etnik Köken",
+      "ilişki": "göç",
+      "uç": "İsviçre",
+      "uç_tipi": "Ülke"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Son yıllarda ise İsviçre'deki işyerlerinde tercih edilen Almanların göçleri belirgin bir yükseliş gösterdi. 2011 yılında İtalyan vatandaşları toplam yabancılar içinde %16,3 ile en büyük kesimi oluştururken, ardından Almanlar (%14,9), Portekizliler (%12,0), Sırplar (%6,9), Fransızlar (%5,4) gelmektedir.",
+    "triple": {
+      "baş": "İtalyan vatandaşları",
+      "baş_tipi": "Vatandaşlık",
+      "ilişki": "oluşturur",
+      "uç": "Yabancılar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Son yıllarda ise İsviçre'deki işyerlerinde tercih edilen Almanların göçleri belirgin bir yükseliş gösterdi. 2011 yılında İtalyan vatandaşları toplam yabancılar içinde %16,3 ile en büyük kesimi oluştururken, ardından Almanlar (%14,9), Portekizliler (%12,0), Sırplar (%6,9), Fransızlar (%5,4) gelmektedir.",
+    "triple": {
+      "baş": "Almanlar",
+      "baş_tipi": "Etnik Köken",
+      "ilişki": "oluşturur",
+      "uç": "Yabancılar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Son yıllarda ise İsviçre'deki işyerlerinde tercih edilen Almanların göçleri belirgin bir yükseliş gösterdi. 2011 yılında İtalyan vatandaşları toplam yabancılar içinde %16,3 ile en büyük kesimi oluştururken, ardından Almanlar (%14,9), Portekizliler (%12,0), Sırplar (%6,9), Fransızlar (%5,4) gelmektedir.",
+    "triple": {
+      "baş": "Portekizliler",
+      "baş_tipi": "Etnik Köken",
+      "ilişki": "oluşturur",
+      "uç": "Yabancılar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Son yıllarda ise İsviçre'deki işyerlerinde tercih edilen Almanların göçleri belirgin bir yükseliş gösterdi. 2011 yılında İtalyan vatandaşları toplam yabancılar içinde %16,3 ile en büyük kesimi oluştururken, ardından Almanlar (%14,9), Portekizliler (%12,0), Sırplar (%6,9), Fransızlar (%5,4) gelmektedir.",
+    "triple": {
+      "baş": "Sırplar",
+      "baş_tipi": "Etnik Köken",
+      "ilişki": "oluşturur",
+      "uç": "Yabancılar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Son yıllarda ise İsviçre'deki işyerlerinde tercih edilen Almanların göçleri belirgin bir yükseliş gösterdi. 2011 yılında İtalyan vatandaşları toplam yabancılar içinde %16,3 ile en büyük kesimi oluştururken, ardından Almanlar (%14,9), Portekizliler (%12,0), Sırplar (%6,9), Fransızlar (%5,4) gelmektedir.",
+    "triple": {
+      "baş": "Fransızlar",
+      "baş_tipi": "Etnik Köken",
+      "ilişki": "oluşturur",
+      "uç": "Yabancılar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 19. yüzyılda kent Fransız , İngiliz , Hollandalı ve İtalyan tüccarların gözdesidir.",
+    "triple": {
+      "baş": "Kent",
+      "baş_tipi": "Yer",
+      "ilişki": "gözde",
+      "uç": "Fransız tüccarlar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 19. yüzyılda kent Fransız , İngiliz , Hollandalı ve İtalyan tüccarların gözdesidir.",
+    "triple": {
+      "baş": "Kent",
+      "baş_tipi": "Yer",
+      "ilişki": "gözde",
+      "uç": "İngiliz tüccarlar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 19. yüzyılda kent Fransız , İngiliz , Hollandalı ve İtalyan tüccarların gözdesidir.",
+    "triple": {
+      "baş": "Kent",
+      "baş_tipi": "Yer",
+      "ilişki": "gözde",
+      "uç": "Hollandalı tüccarlar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 19. yüzyılda kent Fransız , İngiliz , Hollandalı ve İtalyan tüccarların gözdesidir.",
+    "triple": {
+      "baş": "Kent",
+      "baş_tipi": "Yer",
+      "ilişki": "gözde",
+      "uç": "İtalyan tüccarlar",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Partizanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "savaş taktiği",
+      "uç": "İşçi Tugayları",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Partizanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "karşılaştı",
+      "uç": "İtalyan birlikleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Partizanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "karşılaştı",
+      "uç": "Alman birlikleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Partizanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "karşılaştı",
+      "uç": "Ustaşa birlikleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Partizanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "karşılaştı",
+      "uç": "Çetnik birlikleri",
+      "uç_tipi": "Grup"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Partizanlar",
+      "baş_tipi": "Grup",
+      "ilişki": "üs edindi",
+      "uç": "Bosna'nın kuzeybatı kesimi",
+      "uç_tipi": "Bölge"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Tito",
+      "baş_tipi": "Kişi",
+      "ilişki": "topladı",
+      "uç": "Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi",
+      "uç_tipi": "Kurum"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Mihver Devletleri saldırısı üzerine Bosna 'ya çekilerek İşçi Tugayları' na dayalı yeni bir savaş taktiğini seçen Partizanlar , İtalyan , Alman , Ustaşa ve Çetnik birliklerinin Mart 1942'de giriştiği harekâttan sonra Bosna 'nın kuzeybatı kesimini üs edindi. Tito 'nun Kasım 1942'de topladığı Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi (AVNOJ) direniş harekâtının bütün Yugoslav halklarını birleştirecek bir siyasal programa kavuşmasını sağladı.",
+    "triple": {
+      "baş": "Yugoslavya Antifaşist Ulusal Kurtuluş Konseyi",
+      "baş_tipi": "Kurum",
+      "ilişki": "sağladı",
+      "uç": "Direniş harekâtı",
+      "uç_tipi": "Hareket"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 15 Ağustos 1769'da İtalyan kökenli bir ailede Korsika adasının Ajaccio kentinde doğdu.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 15 Ağustos 1769'da İtalyan kökenli bir ailede Korsika adasının Ajaccio kentinde doğdu.",
+    "triple": {
+      "baş": "Kişi",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğum yeri",
+      "uç": "Ajaccio",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- 15 Ağustos 1769'da İtalyan kökenli bir ailede Korsika adasının Ajaccio kentinde doğdu.",
+    "triple": {
+      "baş": "Ajaccio",
+      "baş_tipi": "Şehir",
+      "ilişki": "bulunduğu yer",
+      "uç": "Korsika adası",
+      "uç_tipi": "Ada"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Daha sonraki çağlarda, Muhammed bir şizmatik olarak görülmeye başlandı: Brunetto Latini 'nin 13. yüzyılda yazdığı Li livres dou tresor adlı eser, Muhammed'i eski bir keşiş ve kardinal olarak gösterir. İtalyan siyasetçi Dante , 1300'lerde yazdığı İlahi Komedya adlı eserinde ( Inferno , 28. Kıta), Muhammed'i ve Ali 'yi \"şeytanlar tarafından defalarca yaralanmış olan anlaşmazlık oluşturucular ve şizmatiklerin arasında\" cehenneme yerleştirir.",
+    "triple": {
+      "baş": "Brunetto Latini",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazdı",
+      "uç": "Li livres dou tresor",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Daha sonraki çağlarda, Muhammed bir şizmatik olarak görülmeye başlandı: Brunetto Latini 'nin 13. yüzyılda yazdığı Li livres dou tresor adlı eser, Muhammed'i eski bir keşiş ve kardinal olarak gösterir. İtalyan siyasetçi Dante , 1300'lerde yazdığı İlahi Komedya adlı eserinde ( Inferno , 28. Kıta), Muhammed'i ve Ali 'yi \"şeytanlar tarafından defalarca yaralanmış olan anlaşmazlık oluşturucular ve şizmatiklerin arasında\" cehenneme yerleştirir.",
+    "triple": {
+      "baş": "Li livres dou tresor",
+      "baş_tipi": "Eser",
+      "ilişki": "gösterir",
+      "uç": "Muhammed",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Daha sonraki çağlarda, Muhammed bir şizmatik olarak görülmeye başlandı: Brunetto Latini 'nin 13. yüzyılda yazdığı Li livres dou tresor adlı eser, Muhammed'i eski bir keşiş ve kardinal olarak gösterir. İtalyan siyasetçi Dante , 1300'lerde yazdığı İlahi Komedya adlı eserinde ( Inferno , 28. Kıta), Muhammed'i ve Ali 'yi \"şeytanlar tarafından defalarca yaralanmış olan anlaşmazlık oluşturucular ve şizmatiklerin arasında\" cehenneme yerleştirir.",
+    "triple": {
+      "baş": "Dante",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Daha sonraki çağlarda, Muhammed bir şizmatik olarak görülmeye başlandı: Brunetto Latini 'nin 13. yüzyılda yazdığı Li livres dou tresor adlı eser, Muhammed'i eski bir keşiş ve kardinal olarak gösterir. İtalyan siyasetçi Dante , 1300'lerde yazdığı İlahi Komedya adlı eserinde ( Inferno , 28. Kıta), Muhammed'i ve Ali 'yi \"şeytanlar tarafından defalarca yaralanmış olan anlaşmazlık oluşturucular ve şizmatiklerin arasında\" cehenneme yerleştirir.",
+    "triple": {
+      "baş": "Dante",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazdı",
+      "uç": "İlahi Komedya",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Daha sonraki çağlarda, Muhammed bir şizmatik olarak görülmeye başlandı: Brunetto Latini 'nin 13. yüzyılda yazdığı Li livres dou tresor adlı eser, Muhammed'i eski bir keşiş ve kardinal olarak gösterir. İtalyan siyasetçi Dante , 1300'lerde yazdığı İlahi Komedya adlı eserinde ( Inferno , 28. Kıta), Muhammed'i ve Ali 'yi \"şeytanlar tarafından defalarca yaralanmış olan anlaşmazlık oluşturucular ve şizmatiklerin arasında\" cehenneme yerleştirir.",
+    "triple": {
+      "baş": "İlahi Komedya",
+      "baş_tipi": "Eser",
+      "ilişki": "yerleştirir",
+      "uç": "Muhammed",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Daha sonraki çağlarda, Muhammed bir şizmatik olarak görülmeye başlandı: Brunetto Latini 'nin 13. yüzyılda yazdığı Li livres dou tresor adlı eser, Muhammed'i eski bir keşiş ve kardinal olarak gösterir. İtalyan siyasetçi Dante , 1300'lerde yazdığı İlahi Komedya adlı eserinde ( Inferno , 28. Kıta), Muhammed'i ve Ali 'yi \"şeytanlar tarafından defalarca yaralanmış olan anlaşmazlık oluşturucular ve şizmatiklerin arasında\" cehenneme yerleştirir.",
+    "triple": {
+      "baş": "İlahi Komedya",
+      "baş_tipi": "Eser",
+      "ilişki": "yerleştirir",
+      "uç": "Ali",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Fibonacci ( /ˌfɪbəˈnɑːtʃi/ ; aynı zamanda US /ˌfiːb-/ , İtalyanca telaffuz: [fiboˈnattʃi] ; y. 1170 – y. 1240–50 ), ayrıca Leonardo Bonacci , Pisalı Leonardo (Leonardo of Pisa) veya Leonardo Bigollo Pisano ('Pisalı Gezgin Leonardo' ) olarak da bilinen Pisa Cumhuriyetinden İtalyan matematikçi , \" Orta Çağ 'ın en yetenekli Batılı matematikçisi\" olarak kabul edilir.",
+    "triple": {
+      "baş": "Fibonacci",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Fibonacci ( /ˌfɪbəˈnɑːtʃi/ ; aynı zamanda US /ˌfiːb-/ , İtalyanca telaffuz: [fiboˈnattʃi] ; y. 1170 – y. 1240–50 ), ayrıca Leonardo Bonacci , Pisalı Leonardo (Leonardo of Pisa) veya Leonardo Bigollo Pisano ('Pisalı Gezgin Leonardo' ) olarak da bilinen Pisa Cumhuriyetinden İtalyan matematikçi , \" Orta Çağ 'ın en yetenekli Batılı matematikçisi\" olarak kabul edilir.",
+    "triple": {
+      "baş": "Fibonacci",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Matematikçi",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Fibonacci ( /ˌfɪbəˈnɑːtʃi/ ; aynı zamanda US /ˌfiːb-/ , İtalyanca telaffuz: [fiboˈnattʃi] ; y. 1170 – y. 1240–50 ), ayrıca Leonardo Bonacci , Pisalı Leonardo (Leonardo of Pisa) veya Leonardo Bigollo Pisano ('Pisalı Gezgin Leonardo' ) olarak da bilinen Pisa Cumhuriyetinden İtalyan matematikçi , \" Orta Çağ 'ın en yetenekli Batılı matematikçisi\" olarak kabul edilir.",
+    "triple": {
+      "baş": "Fibonacci",
+      "baş_tipi": "Kişi",
+      "ilişki": "kabul edilir",
+      "uç": "Orta Çağ'ın en yetenekli Batılı matematikçisi",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Fibonacci ( /ˌfɪbəˈnɑːtʃi/ ; aynı zamanda US /ˌfiːb-/ , İtalyanca telaffuz: [fiboˈnattʃi] ; y. 1170 – y. 1240–50 ), ayrıca Leonardo Bonacci , Pisalı Leonardo (Leonardo of Pisa) veya Leonardo Bigollo Pisano ('Pisalı Gezgin Leonardo' ) olarak da bilinen Pisa Cumhuriyetinden İtalyan matematikçi , \" Orta Çağ 'ın en yetenekli Batılı matematikçisi\" olarak kabul edilir.",
+    "triple": {
+      "baş": "Fibonacci",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "Pisa Cumhuriyeti",
+      "uç_tipi": "Devlet"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Copernicus'un bu teorisi İtalyan astronom Galileo 'nun yeni keşfedilen teleskop ile yaptığı gözlemlerce doğrulanmıştır.",
+    "triple": {
+      "baş": "Galileo",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Copernicus'un bu teorisi İtalyan astronom Galileo 'nun yeni keşfedilen teleskop ile yaptığı gözlemlerce doğrulanmıştır.",
+    "triple": {
+      "baş": "Galileo",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Astronom",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Copernicus'un bu teorisi İtalyan astronom Galileo 'nun yeni keşfedilen teleskop ile yaptığı gözlemlerce doğrulanmıştır.",
+    "triple": {
+      "baş": "Galileo",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğruladı",
+      "uç": "Copernicus'un teorisi",
+      "uç_tipi": "Teori"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Copernicus'un bu teorisi İtalyan astronom Galileo 'nun yeni keşfedilen teleskop ile yaptığı gözlemlerce doğrulanmıştır.",
+    "triple": {
+      "baş": "Galileo",
+      "baş_tipi": "Kişi",
+      "ilişki": "kullandı",
+      "uç": "Teleskop",
+      "uç_tipi": "Araç"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Guillaume Apollinaire (d. 26 Ağustos 1880 - ö. 9 Kasım 1918), İtalyan asıllı Fransız şair, yazar ve sanat eleştirmeni.",
+    "triple": {
+      "baş": "Guillaume Apollinaire",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Guillaume Apollinaire (d. 26 Ağustos 1880 - ö. 9 Kasım 1918), İtalyan asıllı Fransız şair, yazar ve sanat eleştirmeni.",
+    "triple": {
+      "baş": "Guillaume Apollinaire",
+      "baş_tipi": "Kişi",
+      "ilişki": "uyruk",
+      "uç": "Fransız",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Guillaume Apollinaire (d. 26 Ağustos 1880 - ö. 9 Kasım 1918), İtalyan asıllı Fransız şair, yazar ve sanat eleştirmeni.",
+    "triple": {
+      "baş": "Guillaume Apollinaire",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Şair",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Guillaume Apollinaire (d. 26 Ağustos 1880 - ö. 9 Kasım 1918), İtalyan asıllı Fransız şair, yazar ve sanat eleştirmeni.",
+    "triple": {
+      "baş": "Guillaume Apollinaire",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Yazar",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Guillaume Apollinaire (d. 26 Ağustos 1880 - ö. 9 Kasım 1918), İtalyan asıllı Fransız şair, yazar ve sanat eleştirmeni.",
+    "triple": {
+      "baş": "Guillaume Apollinaire",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Sanat Eleştirmeni",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Gerçek adı Wilhelm Albert Włodzimierz Apolinary Kostrowicki olan Apollinaire Polonyalı bir anne ile İtalyan bir babanın oğludur. 1880 yılında Roma 'da doğdu.",
+    "triple": {
+      "baş": "Apollinaire",
+      "baş_tipi": "Kişi",
+      "ilişki": "baba köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Gerçek adı Wilhelm Albert Włodzimierz Apolinary Kostrowicki olan Apollinaire Polonyalı bir anne ile İtalyan bir babanın oğludur. 1880 yılında Roma 'da doğdu.",
+    "triple": {
+      "baş": "Apollinaire",
+      "baş_tipi": "Kişi",
+      "ilişki": "doğum yeri",
+      "uç": "Roma",
+      "uç_tipi": "Şehir"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Selahaddin, Haçlılara karşı verdiği mücadele nedeniyle Avrupa 'da büyük ün kazandı. Orta Çağ Avrupası 'nda Selahaddin, bir krallık modeli ve özellikle de cömertliğinin erdemi olarak yaygın bir şekilde ünlüydü. İtalyan şair ve siyasetçi Dante Alighieri 'nin İlahi Komedya (1308–1321) ve yine İtalyan bir şair olan Giovanni Boccaccio 'nun Decameron (1348–1351) eserlerinde kendisinden olumlu bir şekilde bahsedilir.",
+    "triple": {
+      "baş": "Selahaddin",
+      "baş_tipi": "Kişi",
+      "ilişki": "ün kazandı",
+      "uç": "Avrupa",
+      "uç_tipi": "Kıta"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Selahaddin, Haçlılara karşı verdiği mücadele nedeniyle Avrupa 'da büyük ün kazandı. Orta Çağ Avrupası 'nda Selahaddin, bir krallık modeli ve özellikle de cömertliğinin erdemi olarak yaygın bir şekilde ünlüydü. İtalyan şair ve siyasetçi Dante Alighieri 'nin İlahi Komedya (1308–1321) ve yine İtalyan bir şair olan Giovanni Boccaccio 'nun Decameron (1348–1351) eserlerinde kendisinden olumlu bir şekilde bahsedilir.",
+    "triple": {
+      "baş": "Selahaddin",
+      "baş_tipi": "Kişi",
+      "ilişki": "ünlüydü",
+      "uç": "Krallık modeli",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Selahaddin, Haçlılara karşı verdiği mücadele nedeniyle Avrupa 'da büyük ün kazandı. Orta Çağ Avrupası 'nda Selahaddin, bir krallık modeli ve özellikle de cömertliğinin erdemi olarak yaygın bir şekilde ünlüydü. İtalyan şair ve siyasetçi Dante Alighieri 'nin İlahi Komedya (1308–1321) ve yine İtalyan bir şair olan Giovanni Boccaccio 'nun Decameron (1348–1351) eserlerinde kendisinden olumlu bir şekilde bahsedilir.",
+    "triple": {
+      "baş": "Selahaddin",
+      "baş_tipi": "Kişi",
+      "ilişki": "ünlüydü",
+      "uç": "Cömertlik",
+      "uç_tipi": "Özellik"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Selahaddin, Haçlılara karşı verdiği mücadele nedeniyle Avrupa 'da büyük ün kazandı. Orta Çağ Avrupası 'nda Selahaddin, bir krallık modeli ve özellikle de cömertliğinin erdemi olarak yaygın bir şekilde ünlüydü. İtalyan şair ve siyasetçi Dante Alighieri 'nin İlahi Komedya (1308–1321) ve yine İtalyan bir şair olan Giovanni Boccaccio 'nun Decameron (1348–1351) eserlerinde kendisinden olumlu bir şekilde bahsedilir.",
+    "triple": {
+      "baş": "Dante Alighieri",
+      "baş_tipi": "Kişi",
+      "ilişki": "bahsetti",
+      "uç": "Selahaddin",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Selahaddin, Haçlılara karşı verdiği mücadele nedeniyle Avrupa 'da büyük ün kazandı. Orta Çağ Avrupası 'nda Selahaddin, bir krallık modeli ve özellikle de cömertliğinin erdemi olarak yaygın bir şekilde ünlüydü. İtalyan şair ve siyasetçi Dante Alighieri 'nin İlahi Komedya (1308–1321) ve yine İtalyan bir şair olan Giovanni Boccaccio 'nun Decameron (1348–1351) eserlerinde kendisinden olumlu bir şekilde bahsedilir.",
+    "triple": {
+      "baş": "Giovanni Boccaccio",
+      "baş_tipi": "Kişi",
+      "ilişki": "bahsetti",
+      "uç": "Selahaddin",
+      "uç_tipi": "Kişi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Selahaddin, Haçlılara karşı verdiği mücadele nedeniyle Avrupa 'da büyük ün kazandı. Orta Çağ Avrupası 'nda Selahaddin, bir krallık modeli ve özellikle de cömertliğinin erdemi olarak yaygın bir şekilde ünlüydü. İtalyan şair ve siyasetçi Dante Alighieri 'nin İlahi Komedya (1308–1321) ve yine İtalyan bir şair olan Giovanni Boccaccio 'nun Decameron (1348–1351) eserlerinde kendisinden olumlu bir şekilde bahsedilir.",
+    "triple": {
+      "baş": "Dante Alighieri",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Selahaddin, Haçlılara karşı verdiği mücadele nedeniyle Avrupa 'da büyük ün kazandı. Orta Çağ Avrupası 'nda Selahaddin, bir krallık modeli ve özellikle de cömertliğinin erdemi olarak yaygın bir şekilde ünlüydü. İtalyan şair ve siyasetçi Dante Alighieri 'nin İlahi Komedya (1308–1321) ve yine İtalyan bir şair olan Giovanni Boccaccio 'nun Decameron (1348–1351) eserlerinde kendisinden olumlu bir şekilde bahsedilir.",
+    "triple": {
+      "baş": "Giovanni Boccaccio",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- İtalyan Tasso 'nun Kurtarılmış Kudüs'ü, Firdevsî 'nin Şehnâmesi , John Milton 'un Kayıp Cennet 'i yapay epiğe birer örnektir.",
+    "triple": {
+      "baş": "Kurtarılmış Kudüs",
+      "baş_tipi": "Eser",
+      "ilişki": "örnektir",
+      "uç": "Yapay Epik",
+      "uç_tipi": "Edebiyat Türü"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- İtalyan Tasso 'nun Kurtarılmış Kudüs'ü, Firdevsî 'nin Şehnâmesi , John Milton 'un Kayıp Cennet 'i yapay epiğe birer örnektir.",
+    "triple": {
+      "baş": "Tasso",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Giovanni Boccaccio (16 Haziran 1313 - 21 Aralık 1375), İtalyan bir yazar ve şairdir .",
+    "triple": {
+      "baş": "Giovanni Boccaccio",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Giovanni Boccaccio (16 Haziran 1313 - 21 Aralık 1375), İtalyan bir yazar ve şairdir .",
+    "triple": {
+      "baş": "Giovanni Boccaccio",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Yazar",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Giovanni Boccaccio (16 Haziran 1313 - 21 Aralık 1375), İtalyan bir yazar ve şairdir .",
+    "triple": {
+      "baş": "Giovanni Boccaccio",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Şair",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- İlk olarak İtalyan Edebiyatı'nda görülmüş, Dante , İlahi Komedya 'yı bu nazım biçimiyle yazmıştır.",
+    "triple": {
+      "baş": "İtalyan Edebiyatı",
+      "baş_tipi": "Edebiyat",
+      "ilişki": "görülmüş",
+      "uç": "Nazım biçimi",
+      "uç_tipi": "Edebiyat Terimi"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- İlk olarak İtalyan Edebiyatı'nda görülmüş, Dante , İlahi Komedya 'yı bu nazım biçimiyle yazmıştır.",
+    "triple": {
+      "baş": "Dante",
+      "baş_tipi": "Kişi",
+      "ilişki": "yazdı",
+      "uç": "İlahi Komedya",
+      "uç_tipi": "Eser"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Müvelledülerden biri olan İbn Garsiyye , Arapları küçümseyen ve kendisini yücelten bir risale yazmıştır. Müslüman nüfusun bir başka unsuru da sacâlibe adı verilen kölelerdi ve bunlar Fransız , Alman , İtalyan gibi kökene sahip insanlardır.",
+    "triple": {
+      "baş": "Sacâlibe",
+      "baş_tipi": "Grup",
+      "ilişki": "köken",
+      "uç": "Fransız",
+      "uç_tipi": "Etnik Köken"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Müvelledülerden biri olan İbn Garsiyye , Arapları küçümseyen ve kendisini yücelten bir risale yazmıştır. Müslüman nüfusun bir başka unsuru da sacâlibe adı verilen kölelerdi ve bunlar Fransız , Alman , İtalyan gibi kökene sahip insanlardır.",
+    "triple": {
+      "baş": "Sacâlibe",
+      "baş_tipi": "Grup",
+      "ilişki": "köken",
+      "uç": "Alman",
+      "uç_tipi": "Etnik Köken"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Müvelledülerden biri olan İbn Garsiyye , Arapları küçümseyen ve kendisini yücelten bir risale yazmıştır. Müslüman nüfusun bir başka unsuru da sacâlibe adı verilen kölelerdi ve bunlar Fransız , Alman , İtalyan gibi kökene sahip insanlardır.",
+    "triple": {
+      "baş": "Sacâlibe",
+      "baş_tipi": "Grup",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Etnik Köken"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Bu işlemlerin tamamına ise sinema endüstrisi adı verilmektedir. İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Ricciotto Canudo",
+      "baş_tipi": "Kişi",
+      "ilişki": "köken",
+      "uç": "İtalyan",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Bu işlemlerin tamamına ise sinema endüstrisi adı verilmektedir. İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Ricciotto Canudo",
+      "baş_tipi": "Kişi",
+      "ilişki": "uyruk",
+      "uç": "Fransız",
+      "uç_tipi": "Uyruk"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Bu işlemlerin tamamına ise sinema endüstrisi adı verilmektedir. İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Ricciotto Canudo",
+      "baş_tipi": "Kişi",
+      "ilişki": "meslek",
+      "uç": "Film Kuramcısı",
+      "uç_tipi": "Meslek"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Bu işlemlerin tamamına ise sinema endüstrisi adı verilmektedir. İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Ricciotto Canudo",
+      "baş_tipi": "Kişi",
+      "ilişki": "tanımladı",
+      "uç": "Sinema",
+      "uç_tipi": "Sanat Dalı"
+    }
+  },
+  {
+    "Kaynak_LLM_Modeli": "google/gemini-2.5-flash-lite",
+    "kaynak_source": "Wikipedia",
+    "kaynak_url": "(https://tr.wikipedia.org/wiki/%C4%B0talyanlar)",
+    "metin": "- Bu işlemlerin tamamına ise sinema endüstrisi adı verilmektedir. İtalyan asıllı Fransız film kuramcısı Ricciotto Canudo sinemayı, \"yedinci sanat\" olarak tanımlamış ve ilk sinema 1895 yılında çekilmiştir.",
+    "triple": {
+      "baş": "Sinema",
+      "baş_tipi": "Sanat Dalı",
+      "ilişki": "tanımlanır",
+      "uç": "Yedinci sanat",
+      "uç_tipi": "Özellik"
+    }
+  }
+]
