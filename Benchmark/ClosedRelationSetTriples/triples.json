@@ -1,0 +1,1434 @@
+[
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "doğum tarihi",
+    "object": "20 Aralık 1955",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Tarih",
+    "kaynak_cumle": "Binali Yıldırım (d. 20 Aralık 1955, Günalan , Gölova , Sivas ), Türk siyasetçi ve mühendis, Türkiye 'nin 27. ve son başbakanı , 28. Türkiye Büyük Millet Meclisi başkanı ve AK Parti 'nin üçüncü Genel Başkanı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "doğum yeri",
+    "object": "Günalan",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Yer",
+    "kaynak_cumle": "Binali Yıldırım (d. 20 Aralık 1955, Günalan , Gölova , Sivas ), Türk siyasetçi ve mühendis, Türkiye 'nin 27. ve son başbakanı , 28. Türkiye Büyük Millet Meclisi başkanı ve AK Parti 'nin üçüncü Genel Başkanı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "doğum yeri",
+    "object": "Gölova",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Yer",
+    "kaynak_cumle": "Binali Yıldırım (d. 20 Aralık 1955, Günalan , Gölova , Sivas ), Türk siyasetçi ve mühendis, Türkiye 'nin 27. ve son başbakanı , 28. Türkiye Büyük Millet Meclisi başkanı ve AK Parti 'nin üçüncü Genel Başkanı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "doğum yeri",
+    "object": "Sivas",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Yer",
+    "kaynak_cumle": "Binali Yıldırım (d. 20 Aralık 1955, Günalan , Gölova , Sivas ), Türk siyasetçi ve mühendis, Türkiye 'nin 27. ve son başbakanı , 28. Türkiye Büyük Millet Meclisi başkanı ve AK Parti 'nin üçüncü Genel Başkanı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mesleği",
+    "object": "siyasetçi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Binali Yıldırım (d. 20 Aralık 1955, Günalan , Gölova , Sivas ), Türk siyasetçi ve mühendis, Türkiye 'nin 27. ve son başbakanı , 28. Türkiye Büyük Millet Meclisi başkanı ve AK Parti 'nin üçüncü Genel Başkanı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mesleği",
+    "object": "mühendis",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Binali Yıldırım (d. 20 Aralık 1955, Günalan , Gölova , Sivas ), Türk siyasetçi ve mühendis, Türkiye 'nin 27. ve son başbakanı , 28. Türkiye Büyük Millet Meclisi başkanı ve AK Parti 'nin üçüncü Genel Başkanı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "devlet başkanı",
+    "object": "Türkiye başbakanı",
+    "qualifiers": [
+      {
+        "key": "sıralaması",
+        "value": "27."
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "Binali Yıldırım (d. 20 Aralık 1955, Günalan , Gölova , Sivas ), Türk siyasetçi ve mühendis, Türkiye 'nin 27. ve son başbakanı , 28. Türkiye Büyük Millet Meclisi başkanı ve AK Parti 'nin üçüncü Genel Başkanı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "devlet başkanı",
+    "object": "Türkiye Büyük Millet Meclisi başkanı",
+    "qualifiers": [
+      {
+        "key": "sıralaması",
+        "value": "28."
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "Binali Yıldırım (d. 20 Aralık 1955, Günalan , Gölova , Sivas ), Türk siyasetçi ve mühendis, Türkiye 'nin 27. ve son başbakanı , 28. Türkiye Büyük Millet Meclisi başkanı ve AK Parti 'nin üçüncü Genel Başkanı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "parti başkanı",
+    "object": "AK Parti Genel Başkanı",
+    "qualifiers": [
+      {
+        "key": "sıralaması",
+        "value": "üçüncü"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "Binali Yıldırım (d. 20 Aralık 1955, Günalan , Gölova , Sivas ), Türk siyasetçi ve mühendis, Türkiye 'nin 27. ve son başbakanı , 28. Türkiye Büyük Millet Meclisi başkanı ve AK Parti 'nin üçüncü Genel Başkanı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "başlangıç zamanı",
+    "object": "Mayıs 2016",
+    "qualifiers": [
+      {
+        "key": "konudaki rolü",
+        "value": "Başbakanlık görevi"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Tarih",
+    "kaynak_cumle": "Başbakanlık ve AK Parti Genel Başkanlığı görevine Mayıs 2016'da başladı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mesleği",
+    "object": "Ulaştırma, Denizcilik ve Haberleşme Bakanı",
+    "qualifiers": [
+      {
+        "key": "başlangıç zamanı",
+        "value": "2002"
+      },
+      {
+        "key": "bitiş zamanı",
+        "value": "2013"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Başbakanlık görevinden önce 2002-2013 ve 2015-2016 yılları arasında Ulaştırma, Denizcilik ve Haberleşme Bakanı olarak görevlendirildi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mesleği",
+    "object": "danışman",
+    "qualifiers": [
+      {
+        "key": "başlangıç zamanı",
+        "value": "2014"
+      },
+      {
+        "key": "bitiş zamanı",
+        "value": "2015"
+      },
+      {
+        "key": "işvereni",
+        "value": "Recep Tayyip Erdoğan"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Ayrıca 2014 ve 2015 yılları arasında Recep Tayyip Erdoğan 'ın danışmanlığını yaptı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "siyasi parti üyeliği",
+    "object": "AK Parti",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kuruluş",
+    "kaynak_cumle": "Yıldırım, 3 Kasım seçimlerinde AK Parti'nin İstanbul milletvekili seçilmeden önce 1994 ve 2000 yılları arasında İstanbul Deniz Otobüsleri 'nde genel müdür olarak görev yaptı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mesleği",
+    "object": "genel müdür",
+    "qualifiers": [
+      {
+        "key": "işvereni",
+        "value": "İstanbul Deniz Otobüsleri"
+      },
+      {
+        "key": "başlangıç zamanı",
+        "value": "1994"
+      },
+      {
+        "key": "bitiş zamanı",
+        "value": "2000"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Yıldırım, 3 Kasım seçimlerinde AK Parti'nin İstanbul milletvekili seçilmeden önce 1994 ve 2000 yılları arasında İstanbul Deniz Otobüsleri 'nde genel müdür olarak görev yaptı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mesleği",
+    "object": "Ulaştırma Bakanlığı",
+    "qualifiers": [
+      {
+        "key": "hükûmet",
+        "value": "58. hükûmet"
+      },
+      {
+        "key": "kurucu",
+        "value": "Abdullah Gül"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Abdullah Gül tarafından kurulan 58. ve Recep Tayyip Erdoğan tarafından kurulan 59. hükûmetlerde Ulaştırma Bakanlığı 'na getirilerek Marmaray ve Yüksek Hızlı Tren gibi birçok projeyi yönetti."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "aday",
+    "object": "İzmir Belediye Başkanı",
+    "qualifiers": [
+      {
+        "key": "siyasi parti üyeliği",
+        "value": "AK Parti"
+      },
+      {
+        "key": "tarihi",
+        "value": "30 Mart seçimleri"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "2013'te hükûmetteki görevinden ayrılan Yıldırım, 30 Mart seçimlerinde AK Parti'den İzmir'de belediye başkan adayı olsa da seçilemedi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "devlet başkanı",
+    "object": "başbakan",
+    "qualifiers": [
+      {
+        "key": "hükûmet",
+        "value": "65. Hükûmet"
+      },
+      {
+        "key": "tarihi",
+        "value": "Mayıs 2016"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "Ahmet Davutoğlu'nun istifası üzerine Mayıs 2016'da yapılan olağanüstü kongrede partisinin genel başkanı seçilerek 65. Hükûmet 'te başbakanlık görevine başladı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "bitiş zamanı",
+    "object": "2017",
+    "qualifiers": [
+      {
+        "key": "konudaki rolü",
+        "value": "AK Parti Genel Başkanlığı"
+      },
+      {
+        "key": "neden olduğu etki",
+        "value": "istifa"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Tarih",
+    "kaynak_cumle": "2017 Türkiye anayasa değişikliği referandumunda başkanlık sisteminin kabulünden sonra 3. Adalet ve Kalkınma Partisi Olağanüstü Kongresi 'nde istifa ederek AK Parti Genel Başkanlığından istifa etti ve yerine Erdoğan seçildi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "devlet başkanı",
+    "object": "Türkiye Büyük Millet Meclisi Başkanı",
+    "qualifiers": [
+      {
+        "key": "başlangıç zamanı",
+        "value": "Temmuz 2018"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "Temmuz 2018'de Türkiye Büyük Millet Meclisi Başkanı seçildi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "bitiş zamanı",
+    "object": "Şubat 2019",
+    "qualifiers": [
+      {
+        "key": "konudaki rolü",
+        "value": "Türkiye Büyük Millet Meclisi Başkanı"
+      },
+      {
+        "key": "neden olduğu etki",
+        "value": "istifa"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Tarih",
+    "kaynak_cumle": "Şubat 2019'da bu görevinden istifa ederek 31 Mart seçimlerinde İstanbul Belediye Başkanı adayı oldu ancak seçilemedi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "aday",
+    "object": "İstanbul Belediye Başkanı",
+    "qualifiers": [
+      {
+        "key": "tarihi",
+        "value": "31 Mart seçimleri"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "Şubat 2019'da bu görevinden istifa ederek 31 Mart seçimlerinde İstanbul Belediye Başkanı adayı oldu ancak seçilemedi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "aday",
+    "object": "İstanbul Büyükşehir Belediye Başkanlığı",
+    "qualifiers": [
+      {
+        "key": "tarihi",
+        "value": "23 Haziran 2019"
+      },
+      {
+        "key": "siyasi parti üyeliği",
+        "value": "AK Parti"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "23 Haziran 2019'da tekrarlanan İstanbul Büyükşehir Belediye Başkanlığı seçimleri için AK Parti'den tekrar aday gösterildi ancak yine seçilemedi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mesleği",
+    "object": "Türk Devletleri Teşkilatı (TDT) Aksakallılar Heyeti Başkanı",
+    "qualifiers": [
+      {
+        "key": "başlangıç zamanı",
+        "value": "12 Kasım 2021"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "12 Kasım 2021 tarihinde Türk Devletleri Teşkilatı (TDT) Aksakallılar Heyeti Başkanı olarak atandı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "etnik grubu",
+    "object": "Kürt",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Etnik grup",
+    "kaynak_cumle": "Binali Yıldırım Kürt asıllı ve 20 Aralık 1955 tarihinde Dursun Bey ile Bahar Hanım'ın yedi çocuğundan ikincisi olarak o dönemde Sivas 'ın Suşehri ilçesine bağlı bir bucak olan Gölova 'nın Günalan köyünde doğdu."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "babası",
+    "object": "Dursun Bey",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "Binali Yıldırım Kürt asıllı ve 20 Aralık 1955 tarihinde Dursun Bey ile Bahar Hanım'ın yedi çocuğundan ikincisi olarak o dönemde Sivas 'ın Suşehri ilçesine bağlı bir bucak olan Gölova 'nın Günalan köyünde doğdu."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "annesi",
+    "object": "Bahar Hanım",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "Binali Yıldırım Kürt asıllı ve 20 Aralık 1955 tarihinde Dursun Bey ile Bahar Hanım'ın yedi çocuğundan ikincisi olarak o dönemde Sivas 'ın Suşehri ilçesine bağlı bir bucak olan Gölova 'nın Günalan köyünde doğdu."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "çocuklarının sayısı",
+    "object": "yedi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Sayı",
+    "kaynak_cumle": "Binali Yıldırım Kürt asıllı ve 20 Aralık 1955 tarihinde Dursun Bey ile Bahar Hanım'ın yedi çocuğundan ikincisi olarak o dönemde Sivas 'ın Suşehri ilçesine bağlı bir bucak olan Gölova 'nın Günalan köyünde doğdu."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "doğum yeri",
+    "object": "Günalan köyü",
+    "qualifiers": [
+      {
+        "key": "içinde bulunduğu idari birim",
+        "value": "Gölova"
+      },
+      {
+        "key": "içinde bulunduğu idari birim",
+        "value": "Suşehri ilçesi"
+      },
+      {
+        "key": "içinde bulunduğu idari birim",
+        "value": "Sivas"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Yer",
+    "kaynak_cumle": "Binali Yıldırım Kürt asıllı ve 20 Aralık 1955 tarihinde Dursun Bey ile Bahar Hanım'ın yedi çocuğundan ikincisi olarak o dönemde Sivas 'ın Suşehri ilçesine bağlı bir bucak olan Gölova 'nın Günalan köyünde doğdu."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "atalarının yurdu",
+    "object": "Aktarla köyü",
+    "qualifiers": [
+      {
+        "key": "içinde bulunduğu idari birim",
+        "value": "Doğubayazıt ilçesi"
+      },
+      {
+        "key": "içinde bulunduğu idari birim",
+        "value": "Ağrı"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Yer",
+    "kaynak_cumle": "Büyükleri Ağrı 'nın Doğubayazıt ilçesinin Aktarla köyü kökenlidir."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "öğrenim gördüğü okul",
+    "object": "Piri Reis Ortaokulu",
+    "qualifiers": [
+      {
+        "key": "bitiş zamanı",
+        "value": "1970"
+      },
+      {
+        "key": "eğitim aşaması",
+        "value": "orta öğrenim"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Okul",
+    "kaynak_cumle": "İlkokulu Kayı köyünde, orta öğrenimini 1970 yılında Piri Reis Ortaokulunda, lise öğrenimini 1973 yılında Kasımpaşa Lisesinde tamamladıktan sonra İstanbul Teknik Üniversitesi Gemi İnşaatı ve Deniz Bilimleri Fakültesinden mezun oldu ve aynı bölümde yüksek lisans yaptı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "öğrenim gördüğü okul",
+    "object": "Kasımpaşa Lisesi",
+    "qualifiers": [
+      {
+        "key": "bitiş zamanı",
+        "value": "1973"
+      },
+      {
+        "key": "eğitim aşaması",
+        "value": "lise öğrenimi"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Okul",
+    "kaynak_cumle": "İlkokulu Kayı köyünde, orta öğrenimini 1970 yılında Piri Reis Ortaokulunda, lise öğrenimini 1973 yılında Kasımpaşa Lisesinde tamamladıktan sonra İstanbul Teknik Üniversitesi Gemi İnşaatı ve Deniz Bilimleri Fakültesinden mezun oldu ve aynı bölümde yüksek lisans yaptı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "öğrenim gördüğü okul",
+    "object": "İstanbul Teknik Üniversitesi Gemi İnşaatı ve Deniz Bilimleri Fakültesi",
+    "qualifiers": [
+      {
+        "key": "akademik derece",
+        "value": "yüksek lisans"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Okul",
+    "kaynak_cumle": "İlkokulu Kayı köyünde, orta öğrenimini 1970 yılında Piri Reis Ortaokulunda, lise öğrenimini 1973 yılında Kasımpaşa Lisesinde tamamladıktan sonra İstanbul Teknik Üniversitesi Gemi İnşaatı ve Deniz Bilimleri Fakültesinden mezun oldu ve aynı bölümde yüksek lisans yaptı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "işvereni",
+    "object": "Türkiye Gemi Genel Müdürlüğü",
+    "qualifiers": [
+      {
+        "key": "başlangıç zamanı",
+        "value": "1978"
+      },
+      {
+        "key": "bitiş zamanı",
+        "value": "1993"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Kuruluş",
+    "kaynak_cumle": "Akabinde 1978 ve 1993 yılları arasında Türkiye Gemi Genel Müdürlüğü ve Camialtı Tersanesi'nde çeşitli kademelerde yöneticilik yaptı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "işvereni",
+    "object": "Camialtı Tersanesi",
+    "qualifiers": [
+      {
+        "key": "başlangıç zamanı",
+        "value": "1978"
+      },
+      {
+        "key": "bitiş zamanı",
+        "value": "1993"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Kuruluş",
+    "kaynak_cumle": "Akabinde 1978 ve 1993 yılları arasında Türkiye Gemi Genel Müdürlüğü ve Camialtı Tersanesi'nde çeşitli kademelerde yöneticilik yaptı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "öğrenim gördüğü okul",
+    "object": "Dünya Denizcilik Üniversitesi",
+    "qualifiers": [
+      {
+        "key": "başlangıç zamanı",
+        "value": "1990"
+      },
+      {
+        "key": "bitiş zamanı",
+        "value": "1991"
+      },
+      {
+        "key": "konu",
+        "value": "denizde can ve mal güvenliği yönetimi"
+      },
+      {
+        "key": "içinde bulunduğu idari birim",
+        "value": "İsveç"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Okul",
+    "kaynak_cumle": "1990 ve 1991 yılları arasında İsveç 'te bulunan Uluslararası Denizcilik Örgütü 'ne (IMO) ait Dünya Denizcilik Üniversitesi 'nde (WMU) \"denizde can ve mal güvenliği yönetimi\" konusunda ihtisas eğitimi alan Yıldırım, bu eğitim sırasında toplam 6 ay İskandinavya ülkeleri ve Avrupa 'da çeşitli ülke limanlarında denizcilik idaresi uzmanları ile birlikte incelemelerde bulundu."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "işvereni",
+    "object": "İstanbul Deniz Otobüsleri (İDO)",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kuruluş",
+    "kaynak_cumle": "Mezun olmasının ardından Binali Yıldırım, 1994 ve 2000 yılları arasında İstanbul Deniz Otobüsleri (İDO) Genel Müdürlüğü görevini sürdürdü."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "görev süresi",
+    "object": "1994-2000",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Tarih Aralığı",
+    "kaynak_cumle": "Mezun olmasının ardından Binali Yıldırım, 1994 ve 2000 yılları arasında İstanbul Deniz Otobüsleri (İDO) Genel Müdürlüğü görevini sürdürdü."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mesleği",
+    "object": "Genel Müdür",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Mezun olmasının ardından Binali Yıldırım, 1994 ve 2000 yılları arasında İstanbul Deniz Otobüsleri (İDO) Genel Müdürlüğü görevini sürdürdü."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "ödülleri",
+    "object": "kalite ödülü",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Ödül",
+    "kaynak_cumle": "1999 yılında deniz toplu taşımacılığı ve turizme katkılarından dolayı uluslararası \"Skal Kulübü\" tarafından verilen kalite ödülüne layık görüldü."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "ödüllendiren",
+    "object": "Skal Kulübü",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kuruluş",
+    "kaynak_cumle": "1999 yılında deniz toplu taşımacılığı ve turizme katkılarından dolayı uluslararası \"Skal Kulübü\" tarafından verilen kalite ödülüne layık görüldü."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "işvereni",
+    "object": "Adalet ve Kalkınma Partisi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Siyasi Parti",
+    "kaynak_cumle": "14 Ağustos 2001 tarihinde kurulan sosyal muhafazakâr Adalet ve Kalkınma Partisi 'ne (AK Parti) katılarak kurucu üyeler arasında yer aldı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "siyasi parti üyeliği",
+    "object": "Adalet ve Kalkınma Partisi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Siyasi Parti",
+    "kaynak_cumle": "14 Ağustos 2001 tarihinde kurulan sosyal muhafazakâr Adalet ve Kalkınma Partisi 'ne (AK Parti) katılarak kurucu üyeler arasında yer aldı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mesleği",
+    "object": "milletvekili",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "2007 Türkiye Genel Seçimlerinde memleketi Erzincan 'dan AK Parti Milletvekili olarak tekrar meclise girdi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "içinde bulunduğu idari birim",
+    "object": "Erzincan",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Yer",
+    "kaynak_cumle": "2007 Türkiye Genel Seçimlerinde memleketi Erzincan 'dan AK Parti Milletvekili olarak tekrar meclise girdi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "görev süresi",
+    "object": "11 yıl",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Süre",
+    "kaynak_cumle": "Yıldırım, neredeyse kesintisiz 11 yıl Ulaştırma, Denizcilik ve Haberleşme Bakanı olarak görev yaptığı için AK Parti'nin ''Değişmez Ulaştırma Bakanı'' olarak anılır."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "görev süresi",
+    "object": "Kasım 2002-Kasım 2011",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Tarih Aralığı",
+    "kaynak_cumle": "Yıldırım, Kasım 2002-Kasım 2011 tarihleri arasında Ulaştırma Bakanı olarak görev yaptı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "işvereni",
+    "object": "Ulaştırma Bakanlığı",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kuruluş",
+    "kaynak_cumle": "Yıldırım, Kasım 2002-Kasım 2011 tarihleri arasında Ulaştırma Bakanı olarak görev yaptı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "işvereni",
+    "object": "Ulaştırma, Denizcilik ve Haberleşme Bakanlığı",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kuruluş",
+    "kaynak_cumle": "2011 yılı itibarıyla Recep Tayyip Erdoğan ve Ahmet Davutoğlu tarafından kurulan hükûmetlerde Ulaştırma, Denizcilik ve Haberleşme bakanı olarak yer aldı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "işvereni",
+    "object": "Recep Tayyip Erdoğan hükûmeti",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Hükûmet",
+    "kaynak_cumle": "2011 yılı itibarıyla Recep Tayyip Erdoğan ve Ahmet Davutoğlu tarafından kurulan hükûmetlerde Ulaştırma, Denizcilik ve Haberleşme bakanı olarak yer aldı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "işvereni",
+    "object": "Ahmet Davutoğlu hükûmeti",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Hükûmet",
+    "kaynak_cumle": "2011 yılı itibarıyla Recep Tayyip Erdoğan ve Ahmet Davutoğlu tarafından kurulan hükûmetlerde Ulaştırma, Denizcilik ve Haberleşme bakanı olarak yer aldı."
+  },
+  {
+    "subject": "Yüksek Hızlı Tren",
+    "relation": "başlangıç zamanı",
+    "object": "2003",
+    "qualifiers": [],
+    "subject_type": "Ulaşım Aracı",
+    "object_type": "Tarih",
+    "kaynak_cumle": "2003 yılında hükûmet Türkiye'nin ilk Yüksek Hızlı Tren hizmetine başladı."
+  },
+  {
+    "subject": "Yüksek Hızlı Tren",
+    "relation": "ilk uçuşu",
+    "object": "4 Ocak 2004",
+    "qualifiers": [],
+    "subject_type": "Ulaşım Aracı",
+    "object_type": "Tarih",
+    "kaynak_cumle": "Deneme seferi Yıldırım'ın da katılımıyla 4 Ocak 2004 tarihinde gerçekleştirildi."
+  },
+  {
+    "subject": "Polatlı-Konya yüksek hızlı demiryolu",
+    "relation": "başlangıç zamanı",
+    "object": "2006",
+    "qualifiers": [],
+    "subject_type": "Demiryolu Hattı",
+    "object_type": "Tarih",
+    "kaynak_cumle": "Polatlı-Konya yüksek hızlı demiryolu 'nun yapımı 2006 yılında başladı ve 2011 yılında bitirildi."
+  },
+  {
+    "subject": "Polatlı-Konya yüksek hızlı demiryolu",
+    "relation": "bitiş zamanı",
+    "object": "2011",
+    "qualifiers": [],
+    "subject_type": "Demiryolu Hattı",
+    "object_type": "Tarih",
+    "kaynak_cumle": "Polatlı-Konya yüksek hızlı demiryolu 'nun yapımı 2006 yılında başladı ve 2011 yılında bitirildi."
+  },
+  {
+    "subject": "Adnan Menderes Havalimanı",
+    "relation": "kuruluşu",
+    "object": "2006",
+    "qualifiers": [],
+    "subject_type": "Havalimanı",
+    "object_type": "Tarih",
+    "kaynak_cumle": "İzmir'de Adnan Menderes Havalimanı adında uluslararası bir havalimanı 2006 yılında açıldı."
+  },
+  {
+    "subject": "Kanal İstanbul",
+    "relation": "başlangıç zamanı",
+    "object": "2009",
+    "qualifiers": [],
+    "subject_type": "Proje",
+    "object_type": "Tarih",
+    "kaynak_cumle": "Proje başlangıçta Yıldırım'ın 2009'da fikir projesi olarak gündeme geldi."
+  },
+  {
+    "subject": "Kanal İstanbul",
+    "relation": "duyuru tarihi",
+    "object": "Nisan 2011",
+    "qualifiers": [],
+    "subject_type": "Proje",
+    "object_type": "Tarih",
+    "kaynak_cumle": "Resmi olarak Nisan 2011 tarihinde Recep Tayyip Erdoğan tarafından açıklandı."
+  },
+  {
+    "subject": "Pamukova tren kazası",
+    "relation": "tarihi",
+    "object": "22 Temmuz 2004",
+    "qualifiers": [],
+    "subject_type": "Olay",
+    "object_type": "Tarih",
+    "kaynak_cumle": "22 Temmuz 2004 tarihinde Yakup Kadri Karaosmanoğlu hızlı treni Ankara - İstanbul rotasında hızlı tren seferini yaparken Sakarya 'nın Pamukova ilçesinde aşırı hız yüzünden trenin ikinci yolcu vagonu ile bu vagona bağlı diğer vagonlar raydan çıktı."
+  },
+  {
+    "subject": "Pamukova tren kazası",
+    "relation": "ölü sayısı",
+    "object": "41",
+    "qualifiers": [],
+    "subject_type": "Olay",
+    "object_type": "Sayı",
+    "kaynak_cumle": "Kaza sonucu 41 yolcu öldü, 80 kişi de yaralandı."
+  },
+  {
+    "subject": "Pamukova tren kazası",
+    "relation": "yaralı sayısı",
+    "object": "80",
+    "qualifiers": [],
+    "subject_type": "Olay",
+    "object_type": "Sayı",
+    "kaynak_cumle": "Kaza sonucu 41 yolcu öldü, 80 kişi de yaralandı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "işvereni",
+    "object": "TAV Havalimanları Holding",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kuruluş",
+    "kaynak_cumle": "Yeni Şafak , 6 Ocak 2012 tarihinde sürmanşetten verdiği \"TAV Bakanı bu işleri iyi bilir\" başlıklı haberde Binali Yıldırım'ın TAV Havalimanları Holding 'ine 800 milyon dolara satılan İstanbul Deniz Otobüsleri 'nin (İDO) özelleştirilmesinde usulsüzlük yaptığını iddia etti."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "eşi",
+    "object": "Semiha Yıldırım",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "2005 yılında çekilmiş bir fotoğrafta Binali Yıldırım, Samsun 'da bir lokantada 'erkek protokol' ile otururken eşi Semiha Yıldırım 'ın ayrı masada tek başına yemek yemesi tartışma konusu oldu."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "öğrenim gördüğü okul",
+    "object": "İstanbul Teknik Üniversitesi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kuruluş",
+    "kaynak_cumle": "2013 yılında Binali Yıldırım mezun olduğu ve yüksek lisans eğitimini tamamladığı İstanbul Teknik Üniversitesi (İTÜ) tarafından düzenlenen İzmir balosunda yaptığı konuşmada Boğaziçi Üniversitesi 'ni kazandığını fakat okulun bahçesinde 'genç kızların ve erkeklerin yan yana oturduğunu' gördüğünü ve bu okula kayıt olduğu takdirde 'yoldan çıkacağı' gerekçesiyle İTÜ'yü tercih ettiğini ifade etmiştir."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mesleği",
+    "object": "özel danışman",
+    "qualifiers": [
+      {
+        "key": "başlangıç zamanı",
+        "value": "2014-06-05"
+      },
+      {
+        "key": "bitiş zamanı",
+        "value": "2015"
+      },
+      {
+        "key": "işvereni",
+        "value": "Recep Tayyip Erdoğan"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "2013 yılında Türkiye Cumhuriyeti Ulaştırma, Denizcilik ve Haberleşme Bakanlığı'ndan ayrılan Yıldırım, 5 Haziran 2014 tarihinde dönemin AK Parti Genel Başkanı ve Başbakanı Recep Tayyip Erdoğan 'ın özel danışmanlığı görevine atandı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "aday",
+    "object": "İzmir Büyükşehir Belediye başkanlığı",
+    "qualifiers": [
+      {
+        "key": "tarihi",
+        "value": "2014"
+      },
+      {
+        "key": "siyasi partisi",
+        "value": "Adalet ve Kalkınma Partisi"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Siyasi Makam",
+    "kaynak_cumle": "2014 Türkiye yerel seçimlerinde Yıldırım, AK Parti'den İzmir Büyükşehir Belediye başkan adayı gösterildi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "başkanı veya başkanları",
+    "object": "Adalet ve Kalkınma Partisi",
+    "qualifiers": [
+      {
+        "key": "başlangıç zamanı",
+        "value": "22 Mayıs 2016"
+      },
+      {
+        "key": "bitiş zamanı",
+        "value": "2017"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Siyasi Parti",
+    "kaynak_cumle": "Binali Yıldırım, Ahmet Davutoğlu 'nun görevi bırakma kararı sonrasında 22 Mayıs 2016 tarihinde gerçekleştirilen 2. Adalet ve Kalkınma Partisi Olağanüstü Kongresi 'nde AK Parti genel başkanı seçilmiştir."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "devlet başkanı",
+    "object": "Türkiye",
+    "qualifiers": [
+      {
+        "key": "başlangıç zamanı",
+        "value": "2016"
+      },
+      {
+        "key": "bitiş zamanı",
+        "value": "2018"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Ülke",
+    "kaynak_cumle": "AK Parti Genel Başkanlığı (2016-2017) ve Başbakanlığı (2016-2018)"
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "hükûmet başkanı unvanı",
+    "object": "Başbakan",
+    "qualifiers": [
+      {
+        "key": "başlangıç zamanı",
+        "value": "2016"
+      },
+      {
+        "key": "bitiş zamanı",
+        "value": "2018"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "AK Parti Genel Başkanlığı (2016-2017) ve Başbakanlığı (2016-2018)"
+  },
+  {
+    "subject": "Ahmet Davutoğlu",
+    "relation": "hükûmet başkanı unvanı",
+    "object": "Başbakan",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "Ahmet Davutoğlu 'nun başbakanlığı döneminde Binali Yıldırım'ın Adalet ve Kalkınma Partisi 'nin sonraki genel başkanı olacağı iddia edilmiştir."
+  },
+  {
+    "subject": "Ahmet Davutoğlu",
+    "relation": "siyasi parti üyeliği",
+    "object": "Adalet ve Kalkınma Partisi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Siyasi Parti",
+    "kaynak_cumle": "Ahmet Davutoğlu 'nun başbakanlığı döneminde Binali Yıldırım'ın Adalet ve Kalkınma Partisi 'nin sonraki genel başkanı olacağı iddia edilmiştir."
+  },
+  {
+    "subject": "Necmettin Erbakan",
+    "relation": "hükûmet başkanı unvanı",
+    "object": "Başbakan",
+    "qualifiers": [
+      {
+        "key": "başlangıç zamanı",
+        "value": "1996"
+      },
+      {
+        "key": "bitiş zamanı",
+        "value": "1997"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "1996 ve 1997 yılları arasında başbakanlık yapmış Necmettin Erbakan 'dan 20 yıl sonra ilk mühendis başbakan olan Yıldırım'ın kurduğu 65. Türkiye Hükûmeti, TBMM tarafından 315 oyla güvenoyu almıştır."
+  },
+  {
+    "subject": "Recep Tayyip Erdoğan",
+    "relation": "devlet başkanı",
+    "object": "Türkiye",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Ülke",
+    "kaynak_cumle": "Cumhurbaşkanı Recep Tayyip Erdoğan tarafından hükûmet kurma görevi ise 24 Mayıs 2016 tarihinde verilmiştir."
+  },
+  {
+    "subject": "Berat Albayrak",
+    "relation": "mesleği",
+    "object": "Enerji Bakanı",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Ahmet Davutoğlu'nun istifasının ardından, yeni AK Parti genel başkanının Yıldırım, Recep Tayyip Erdoğan 'ın damadı ve Enerji Bakanı Berat Albayrak ya da Erdoğan'a yakınlığıyla bilinen diğer AK Partili siyasetçilerden biri olacağı iddia edildi."
+  },
+  {
+    "subject": "65. Türkiye Hükûmeti",
+    "relation": "kuruluşu",
+    "object": "24 Mayıs 2016",
+    "qualifiers": [],
+    "subject_type": "Hükûmet",
+    "object_type": "Tarih",
+    "kaynak_cumle": "24 Mayıs 2016 tarihinde kurulan 65. Türkiye Hükûmeti 'nde Ekonomik Koordinasyon Kurulunun (EKK) başkanlığı, Ekonomiden sorumlu başbakan yardımcılığı görevine tekrar atanan Merkez Bankası 'nın bağımsızlığına yaptığı vurgularla bilinen Mehmet Şimşek 'ten alınarak Binali Yıldırım'a verildi."
+  },
+  {
+    "subject": "Mehmet Şimşek",
+    "relation": "kullanımı",
+    "object": "Ekonomiden sorumlu başbakan yardımcılığı",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "24 Mayıs 2016 tarihinde kurulan 65. Türkiye Hükûmeti 'nde Ekonomik Koordinasyon Kurulunun (EKK) başkanlığı, Ekonomiden sorumlu başbakan yardımcılığı görevine tekrar atanan Merkez Bankası 'nın bağımsızlığına yaptığı vurgularla bilinen Mehmet Şimşek 'ten alınarak Binali Yıldırım'a verildi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "yerine gelen",
+    "object": "Mehmet Şimşek",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "24 Mayıs 2016 tarihinde kurulan 65. Türkiye Hükûmeti 'nde Ekonomik Koordinasyon Kurulunun (EKK) başkanlığı, Ekonomiden sorumlu başbakan yardımcılığı görevine tekrar atanan Merkez Bankası 'nın bağımsızlığına yaptığı vurgularla bilinen Mehmet Şimşek 'ten alınarak Binali Yıldırım'a verildi."
+  },
+  {
+    "subject": "Nihat Zeybekci",
+    "relation": "kullanımı",
+    "object": "Ekonomi Bakanı",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Yeni ekonomi bakanının Cumhurbaşkanı Recep Tayyip Erdoğan 'ın damadı Berat Albayrak olacağı iddia edilse de bakanlığa Erdoğan ile yakın görüşler dile getiren Nihat Zeybekci atandı."
+  },
+  {
+    "subject": "Naci Ağbal",
+    "relation": "kullanımı",
+    "object": "Maliye Bakanı",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Maliye Bakanlığı 'na ise Şimşek'le uzun süredir beraber çalışan Naci Ağbal tekrar atandı."
+  },
+  {
+    "subject": "Naci Ağbal",
+    "relation": "işvereni",
+    "object": "Mehmet Şimşek",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "Maliye Bakanlığı 'na ise Şimşek'le uzun süredir beraber çalışan Naci Ağbal tekrar atandı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "yerine geldiği",
+    "object": "Ahmet Arslan",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "Yıldırım Ulaştırma, Denizcilik ve Haberleşme Bakanlığı görevini Marmaray gibi birçok büyük projede beraber çalıştığı AK Parti Kars milletvekili Ahmet Arslan 'a devretti."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "kullanımı",
+    "object": "Ulaştırma, Denizcilik ve Haberleşme Bakanlığı",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Yıldırım Ulaştırma, Denizcilik ve Haberleşme Bakanlığı görevini Marmaray gibi birçok büyük projede beraber çalıştığı AK Parti Kars milletvekili Ahmet Arslan 'a devretti."
+  },
+  {
+    "subject": "Ahmet Arslan",
+    "relation": "siyasi parti üyeliği",
+    "object": "AK Parti",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Siyasi Parti",
+    "kaynak_cumle": "Yıldırım Ulaştırma, Denizcilik ve Haberleşme Bakanlığı görevini Marmaray gibi birçok büyük projede beraber çalıştığı AK Parti Kars milletvekili Ahmet Arslan 'a devretti."
+  },
+  {
+    "subject": "Ahmet Arslan",
+    "relation": "içinde bulunduğu idari birim",
+    "object": "Kars",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Yer",
+    "kaynak_cumle": "Yıldırım Ulaştırma, Denizcilik ve Haberleşme Bakanlığı görevini Marmaray gibi birçok büyük projede beraber çalıştığı AK Parti Kars milletvekili Ahmet Arslan 'a devretti."
+  },
+  {
+    "subject": "Türk lirası",
+    "relation": "neden olduğu etki",
+    "object": "değer kaybı",
+    "qualifiers": [],
+    "subject_type": "Para Birimi",
+    "object_type": "Kavram",
+    "kaynak_cumle": "2016 Türkiye askerî darbe girişimi sonrası Türk lirası , Amerikan doları karşısında değer kaybetti."
+  },
+  {
+    "subject": "Türk lirası",
+    "relation": "karşılaştırılan nesne",
+    "object": "Amerikan doları",
+    "qualifiers": [],
+    "subject_type": "Para Birimi",
+    "object_type": "Para Birimi",
+    "kaynak_cumle": "2016 Türkiye askerî darbe girişimi sonrası Türk lirası , Amerikan doları karşısında değer kaybetti."
+  },
+  {
+    "subject": "Türk lirası",
+    "relation": "karşılaştırılan nesne",
+    "object": "Euro",
+    "qualifiers": [
+      {
+        "key": "oranı",
+        "value": "%5"
+      }
+    ],
+    "subject_type": "Para Birimi",
+    "object_type": "Para Birimi",
+    "kaynak_cumle": "Ayrıca Euro karşısında da %5'lik değer kaybı yaşandı."
+  },
+  {
+    "subject": "Türk lirası",
+    "relation": "neden olduğu etki",
+    "object": "değer kazanma",
+    "qualifiers": [],
+    "subject_type": "Para Birimi",
+    "object_type": "Kavram",
+    "kaynak_cumle": "Girişimin bastırıldığına dair açıklamaların gelmesinden sonra değer kazanmaya başlayan Türk lirası 18 Temmuz Pazartesi günü ABD doları karşısında 2,95 seviyesinden işlem görmeye başladı."
+  },
+  {
+    "subject": "Türk lirası",
+    "relation": "karşılaştırılan nesne",
+    "object": "ABD doları",
+    "qualifiers": [
+      {
+        "key": "tarihi",
+        "value": "18 Temmuz Pazartesi"
+      },
+      {
+        "key": "fiyatı",
+        "value": "2,95"
+      }
+    ],
+    "subject_type": "Para Birimi",
+    "object_type": "Para Birimi",
+    "kaynak_cumle": "Girişimin bastırıldığına dair açıklamaların gelmesinden sonra değer kazanmaya başlayan Türk lirası 18 Temmuz Pazartesi günü ABD doları karşısında 2,95 seviyesinden işlem görmeye başladı."
+  },
+  {
+    "subject": "ABD doları",
+    "relation": "fiyatı",
+    "object": "3,06",
+    "qualifiers": [
+      {
+        "key": "tarihi",
+        "value": "20 Temmuz Çarşamba"
+      }
+    ],
+    "subject_type": "Para Birimi",
+    "object_type": "Sayı",
+    "kaynak_cumle": "Türkiye Cumhuriyet Merkez Bankasının (TCMB) faiz indirimi baskısı, soruşturmalar sırasında açığa alınmalar ve tasfiyelerin artmasıyla birlikte 20 Temmuz Çarşamba günü kur yeniden yükselişe geçerek ABD doları 3,06, euro 3,34, İngiliz sterlini ise 3,97 seviyesine kadar çıktı."
+  },
+  {
+    "subject": "Euro",
+    "relation": "fiyatı",
+    "object": "3,34",
+    "qualifiers": [
+      {
+        "key": "tarihi",
+        "value": "20 Temmuz Çarşamba"
+      }
+    ],
+    "subject_type": "Para Birimi",
+    "object_type": "Sayı",
+    "kaynak_cumle": "Türkiye Cumhuriyet Merkez Bankasının (TCMB) faiz indirimi baskısı, soruşturmalar sırasında açığa alınmalar ve tasfiyelerin artmasıyla birlikte 20 Temmuz Çarşamba günü kur yeniden yükselişe geçerek ABD doları 3,06, euro 3,34, İngiliz sterlini ise 3,97 seviyesine kadar çıktı."
+  },
+  {
+    "subject": "İngiliz sterlini",
+    "relation": "fiyatı",
+    "object": "3,97",
+    "qualifiers": [
+      {
+        "key": "tarihi",
+        "value": "20 Temmuz Çarşamba"
+      }
+    ],
+    "subject_type": "Para Birimi",
+    "object_type": "Sayı",
+    "kaynak_cumle": "Türkiye Cumhuriyet Merkez Bankasının (TCMB) faiz indirimi baskısı, soruşturmalar sırasında açığa alınmalar ve tasfiyelerin artmasıyla birlikte 20 Temmuz Çarşamba günü kur yeniden yükselişe geçerek ABD doları 3,06, euro 3,34, İngiliz sterlini ise 3,97 seviyesine kadar çıktı."
+  },
+  {
+    "subject": "Borsa İstanbul (BİST)",
+    "relation": "neden olduğu etki",
+    "object": "düşüş",
+    "qualifiers": [
+      {
+        "key": "oranı",
+        "value": "%7,08"
+      },
+      {
+        "key": "puanlar",
+        "value": "76.957"
+      }
+    ],
+    "subject_type": "Kuruluş",
+    "object_type": "Kavram",
+    "kaynak_cumle": "Darbe girişimi öncesinde kapanan Borsa İstanbul (BİST), darbe girişimi sonrası haftanın ilk gününü %7,08 düşüşle 76.957 puandan kapayarak son on bir ayın en sert düşüşünü yaşadı."
+  },
+  {
+    "subject": "Moody's",
+    "relation": "değerlendirme",
+    "object": "Ba1",
+    "qualifiers": [
+      {
+        "key": "konu",
+        "value": "Türkiye'nin kredi notu"
+      }
+    ],
+    "subject_type": "Kuruluş",
+    "object_type": "Kavram",
+    "kaynak_cumle": "Uluslararası kredi derecelendirme kuruluşu Moody's Türkiye'nin kredi notunu yatırım yapılabilir seviye olan 'Baa3'ten, bir basamak aşağı 'Ba1' seviyesine düşürdü."
+  },
+  {
+    "subject": "Moody's",
+    "relation": "niteliği",
+    "object": "uluslararası kredi derecelendirme kuruluşu",
+    "qualifiers": [],
+    "subject_type": "Kuruluş",
+    "object_type": "Kavram",
+    "kaynak_cumle": "Uluslararası kredi derecelendirme kuruluşu Moody's Türkiye'nin kredi notunu yatırım yapılabilir seviye olan 'Baa3'ten, bir basamak aşağı 'Ba1' seviyesine düşürdü."
+  },
+  {
+    "subject": "Moody's",
+    "relation": "değerlendirme",
+    "object": "durağan",
+    "qualifiers": [
+      {
+        "key": "konu",
+        "value": "Türkiye'nin not görünümü"
+      }
+    ],
+    "subject_type": "Kuruluş",
+    "object_type": "Kavram",
+    "kaynak_cumle": "Moody's Türkiye'nin not görünümünü “durağan” olarak belirledi ve Türkiye'de finansal ve jeopolitik durumun kırılgan olduğu belirtti."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "kullanımı",
+    "object": "Başbakan",
+    "qualifiers": [
+      {
+        "key": "tarihi",
+        "value": "24 Mayıs 2016"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "65. Türkiye Hükûmeti'ni 24 Mayıs 2016 tarihinde kurarak Başbakan olduktan kısa bir süre sonra Binali Yıldırım, Türkiye Büyük Millet Meclisinde hükûmet programını okurken yeni hükûmetin öncelikli konusunun yeni anayasa başkanlık sistemi de dahil olmak üzere yeni yönetim sistemini belirleyecek değişikliğin olduğunu ve yeni anayasayı gerçekleştirmek için çalışmalara hemen başlanacağını açıkladı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "siyasi görüşü",
+    "object": "Başkanlık Sistemi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kavram",
+    "kaynak_cumle": "65. Türkiye Hükûmeti'ni 24 Mayıs 2016 tarihinde kurarak Başbakan olduktan kısa bir süre sonra Binali Yıldırım, Türkiye Büyük Millet Meclisinde hükûmet programını okurken yeni hükûmetin öncelikli konusunun yeni anayasa başkanlık sistemi de dahil olmak üzere yeni yönetim sistemini belirleyecek değişikliğin olduğunu ve yeni anayasayı gerçekleştirmek için çalışmalara hemen başlanacağını açıkladı."
+  },
+  {
+    "subject": "Devlet Bahçeli",
+    "relation": "kullanımı",
+    "object": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli , partisinin parlamenter sistemden yana olduğunu fakat Başkanlık sisteminin referanduma götürülmesinde herhangi bir sakınca duymadığını bildirdi."
+  },
+  {
+    "subject": "Devlet Bahçeli",
+    "relation": "siyasi parti üyeliği",
+    "object": "Milliyetçi Hareket Partisi (MHP)",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Siyasi Parti",
+    "kaynak_cumle": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli , partisinin parlamenter sistemden yana olduğunu fakat Başkanlık sisteminin referanduma götürülmesinde herhangi bir sakınca duymadığını bildirdi."
+  },
+  {
+    "subject": "Devlet Bahçeli",
+    "relation": "siyasi görüşü",
+    "object": "parlamenter sistem",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kavram",
+    "kaynak_cumle": "Milliyetçi Hareket Partisi (MHP) Genel Başkanı Devlet Bahçeli , partisinin parlamenter sistemden yana olduğunu fakat Başkanlık sisteminin referanduma götürülmesinde herhangi bir sakınca duymadığını bildirdi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "siyasi görüşü",
+    "object": "Başkanlık sistemi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kavram",
+    "kaynak_cumle": "Yıldırım, Türkiye'nin fiili durumu hukuki durum haline getirmek mecburiyetinde olduğunu ve Başkanlık sistemini içeren anayasa teklifini kısa süre içerisinde TBMM 'ye getireceklerini belirtti."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "siyasi partisi",
+    "object": "AK Parti",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Siyasi Parti",
+    "kaynak_cumle": "Yıldırım'ın AK Parti genel başkanı seçilmesi ve yeni hükûmeti kurma görevini almasının ardından Avrupa Birliği (AB), 23 Mayıs 2016 tarihinde yayınladığı bir bildiride Yıldırım'ı tebrik ettiklerini, Ortak bölgesel ve uluslararası zorluklar karşısında beraber çalışmak ve 18 Mart AB-Türkiye anlaşmasında mutabık kalındığı üzere AB-Türkiye ortaklığının tüm yönleriyle gerçekleştirmeye devam etmeyi istediklerini açıklamıştır."
+  },
+  {
+    "subject": "Selahattin Demirtaş",
+    "relation": "siyasi partisi",
+    "object": "Halkların Demokratik Partisi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Siyasi Parti",
+    "kaynak_cumle": "4 Kasım 2016 tarihinde aralarında Selahattin Demirtaş 'ın da yer aldığı 9 Halkların Demokratik Partisi milletvekilinin terör eylemlerini destekleme suçlamasıyla tutuklanmasının ardından Avrupa Birliği yaptığı açıklamada, HDP Eş Genel Başkanları Figen Yüksekdağ ve Selahattin Demirtaş'ın güven duydukları muhataplar olduğunu söylemiş, tutuklanmalarının endişe verici olduğunu bildirmiştir."
+  },
+  {
+    "subject": "Figen Yüksekdağ",
+    "relation": "siyasi partisi",
+    "object": "Halkların Demokratik Partisi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Siyasi Parti",
+    "kaynak_cumle": "4 Kasım 2016 tarihinde aralarında Selahattin Demirtaş 'ın da yer aldığı 9 Halkların Demokratik Partisi milletvekilinin terör eylemlerini destekleme suçlamasıyla tutuklanmasının ardından Avrupa Birliği yaptığı açıklamada, HDP Eş Genel Başkanları Figen Yüksekdağ ve Selahattin Demirtaş'ın güven duydukları muhataplar olduğunu söylemiş, tutuklanmalarının endişe verici olduğunu bildirmiştir."
+  },
+  {
+    "subject": "Mevlüt Çavuşoğlu",
+    "relation": "çalıştığı konum",
+    "object": "Türkiye Dışişleri Bakanı",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "Türkiye Dışişleri Bakanı Mevlüt Çavuşoğlu , bu eleştirilere yanıt olarak çoğu AB ülkesinin PKK'ya destek olduğunu belirterek, AB'nin Türkiye'ye 'demokrasi dersi' vermesini kabul etmediklerini açıklamıştır."
+  },
+  {
+    "subject": "Martin Schulz",
+    "relation": "çalıştığı konum",
+    "object": "Avrupa Parlamentosu Başkanı",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "Avrupa Parlamentosu (EP) Başkanı Martin Schulz , Türkiye'de idam cezası tekrar getirilirse müzakerelerin sona ereceğini belirtmiştir."
+  },
+  {
+    "subject": "Angela Merkel",
+    "relation": "çalıştığı konum",
+    "object": "Almanya Şansölyesi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Unvan",
+    "kaynak_cumle": "Başbakan Yıldırım, oylamadan önce Almanya Şansölyesi Angela Merkel 'i uyarmış, oylama sırasında Almanya 'nın gerçek bir dostluk testinden geçtiğini iddia etmiştir."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mesleği",
+    "object": "Başbakan",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "Başbakan Yıldırım, kararın kabul edilmesinin ardından yaptığı açıklamada Türkler 'in tarihinde utanç duyulacak hiçbir olayın bulunmadığını iddia etti."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mesleği",
+    "object": "Milletvekili",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "2018 Türkiye genel seçimleriyle İzmir Milletvekili olarak TBMM'ye giren Yıldırım, TBMM Başkanı seçildi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "mesleği",
+    "object": "TBMM Başkanı",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Meslek",
+    "kaynak_cumle": "2018 Türkiye genel seçimleriyle İzmir Milletvekili olarak TBMM'ye giren Yıldırım, TBMM Başkanı seçildi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "aday olduğu seçim",
+    "object": "2019 Türkiye yerel seçimleri",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Seçim",
+    "kaynak_cumle": "2019 Türkiye yerel seçimlerinde Yıldırım, AK Parti'nin İstanbul Büyükşehir Belediyesi başkan adayı olarak yarıştı."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "katıldığı",
+    "object": "2016 Türkiye askerî darbe girişimi",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Olay",
+    "kaynak_cumle": "15-16 Temmuz 2016 tarihleri arasında kendilerini \" Yurtta Sulh Konseyi \" olarak adlandıran bir grup asker tarafından askeri darbe girişimi gerçekleştirildi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "evlenme yeri",
+    "object": "1975",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Tarih",
+    "kaynak_cumle": "İyi düzeyde İngilizce ve Fransızca bilen Yıldırım, 1975 yılından beri, emekli öğretmen Semiha Yıldırım ile evlidir ve üç çocuk babasıdır: Erkam , Ahmet ve Büşra."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "çocuğu",
+    "object": "Erkam",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "İyi düzeyde İngilizce ve Fransızca bilen Yıldırım, 1975 yılından beri, emekli öğretmen Semiha Yıldırım ile evlidir ve üç çocuk babasıdır: Erkam , Ahmet ve Büşra."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "çocuğu",
+    "object": "Ahmet",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "İyi düzeyde İngilizce ve Fransızca bilen Yıldırım, 1975 yılından beri, emekli öğretmen Semiha Yıldırım ile evlidir ve üç çocuk babasıdır: Erkam , Ahmet ve Büşra."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "çocuğu",
+    "object": "Büşra",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Kişi",
+    "kaynak_cumle": "İyi düzeyde İngilizce ve Fransızca bilen Yıldırım, 1975 yılından beri, emekli öğretmen Semiha Yıldırım ile evlidir ve üç çocuk babasıdır: Erkam , Ahmet ve Büşra."
+  },
+  {
+    "subject": "Öğretmen Semiha Yıldırım İlkokulu",
+    "relation": "kuruluşu",
+    "object": "24 Kasım 2012",
+    "qualifiers": [],
+    "subject_type": "Kuruluş",
+    "object_type": "Tarih",
+    "kaynak_cumle": "Çekmeköy, İstanbul 'da çocukları tarafından eşi Semiha Yıldırım için yapılan ''Öğretmen Semiha Yıldırım İlkokulu'' adında bir okul vardır ve 24 Kasım 2012 tarihinde açılmıştır."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "hastalık",
+    "object": "COVID-19",
+    "qualifiers": [
+      {
+        "key": "tarihi",
+        "value": "3 Eylül 2020"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Hastalık",
+    "kaynak_cumle": "Kendisi ve eşi 3 Eylül 2020 tarihinde COVID-19 hastalığına yakalanmıştır."
+  },
+  {
+    "subject": "Semiha Yıldırım",
+    "relation": "hastalık",
+    "object": "COVID-19",
+    "qualifiers": [
+      {
+        "key": "tarihi",
+        "value": "3 Eylül 2020"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Hastalık",
+    "kaynak_cumle": "Kendisi ve eşi 3 Eylül 2020 tarihinde COVID-19 hastalığına yakalanmıştır."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "önemli olay",
+    "object": "trafik kazası",
+    "qualifiers": [
+      {
+        "key": "tarihi",
+        "value": "20 Ekim 2022"
+      },
+      {
+        "key": "konumu",
+        "value": "Zengilan"
+      }
+    ],
+    "subject_type": "Kişi",
+    "object_type": "Olay",
+    "kaynak_cumle": "Yıldırım, 20 Ekim 2022'de Zengilan ziyareti sırasında trafik kazası geçirdi."
+  },
+  {
+    "subject": "Binali Yıldırım",
+    "relation": "ödülleri",
+    "object": "Fahri doktora",
+    "qualifiers": [],
+    "subject_type": "Kişi",
+    "object_type": "Ödül",
+    "kaynak_cumle": "Binali Yıldırım birçok ulusal ve uluslararası üniversiteden Fahri doktora ünvanı almıştır."
+  },
+  {
+    "subject": "Karşınızda Binali İstanbul'un mimarı",
+    "relation": "yazarı",
+    "object": "İsmail Türüt",
+    "qualifiers": [],
+    "subject_type": "Eser",
+    "object_type": "Kişi",
+    "kaynak_cumle": "İsmail Türüt - Karşınızda Binali İstanbul'un mimarı"
+  }
+]
